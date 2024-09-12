@@ -1,0 +1,70 @@
+canonicalName: Academic Free License 2.0
+category: AFL
+spdxIdentifier: AFL-2.0
+
+otherIds:
+  - "scancode:afl-2.0"
+
+alternativeNames:
+  - "AFL, Version 2.0"
+  - "AFL, 2.0"
+  - "AFL 2.0"
+  - "AFL-2.0"
+  - "Academic Free License version 2.0"
+  - "Academic Free License v2.0"
+  - "Academic Free License Version 2.0"
+  - "ACADEMIC FREE LICENSE Version 2.0"
+  - "Academic Free License v. 2.0"
+
+evidence:
+  matches:
+  - "This License shall terminate automatically
+     and You may no longer exercise any of the rights granted to You by this License
+     as of the date You commence an action, including a cross-claim or counterclaim,
+     for patent infringement (i) against Licensor with respect to a patent applicable
+     to software or (ii) against any entity with respect to a patent applicable
+     to the Original Work (but excluding combinations of the Original Work with
+     other software or hardware)"
+  excludes:
+    - "The term External Deployment means the use or distribution
+       of the Original Work or Derivative Works in any way such that the Original
+       Work or Derivative Works may be used by anyone other than You"
+
+grants:
+  Source code delivery:
+    obligations:
+      Source code delivery:
+        matches:
+          - "in the Source Code of any Derivative Works"
+          - "You must retain, in the Source Code of any Derivative Works that You create, all copyright"
+          - "You must retain, in the Source Code of any Derivative Works that You create*patent"
+          - "You must retain, in the Source Code of any Derivative Works that You create*trademark notices"
+          - "You must retain, in the Source Code of any Derivative Works that You create*any notices of licensing"
+          - "You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice"
+          - "You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work"
+          - "This DISCLAIMER OF WARRANTY constitutes an essential part of this License"
+          - "Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work"
+
+  Binary delivery:
+    obligations:
+      Binary delivery:
+        matches:
+        - "provide a machine-readable copy of the Source Code of the Original Work"
+        - "to provide a machine-readable copy"
+        - "in the Source Code of any Derivative Works"
+        - "You must retain, in the Source Code of any Derivative Works that You create, all copyright"
+        - "You must retain, in the Source Code of any Derivative Works that You create*patent"
+        - "You must retain, in the Source Code of any Derivative Works that You create*trademark notices"
+        - "You must retain, in the Source Code of any Derivative Works that You create*any notices of licensing"
+        - "You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice"
+        - "You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work"
+        - "This DISCLAIMER OF WARRANTY constitutes an essential part of this License"
+        - "Neither the names of Licensor, nor the names of any contributors to the Original Work"
+        - "nor any of their trademarks or service marks"
+        - "may be used to endorse or promote products derived from this Original Work"
+        - "reserves the right to satisfy this obligation by placing"
+        - "publishing the address of that information repository in a notice"
+        - "placing a machine-readable copy"
+        - "placing a machine-readable copy of the Source Code in an information repository"
+        - "inexpensive and convenient access"
+        - "as long as Licensor continues to distribute the Original Work"

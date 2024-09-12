@@ -1,0 +1,26 @@
+canonicalName: SISSL 1.2
+category: SISSL
+spdxIdentifier: SISSL-1.2
+
+otherIds:
+  - "scancode:sun-sissl-1.2"
+
+alternativeNames:
+  - "SISSL, Version 1.2"
+  - "SISSL, 1.2"
+  - "SISSL 1.2"
+  - "SUN INDUSTRY STANDARDS SOURCE LICENSE Version 1.2"
+
+evidence:
+  matches:
+    - "Additionally, in the event that the Modifications
+       you create do not meet the requirements set out in this Section, You agree
+       to comply with the Standards requirements set out in Exhibit B"
+    - "If any of your Modifications do not meet the requirements
+       of the Standard, then you must change the product name so that Grid Engine,
+       gridengine, gridengine.sunsource, and similar naming conventions are not used"
+    - "If any of your Modifications do not meet the requirements of the Standards you
+       may not claim, directly or indirectly, that your implementation of the Standards is compliant"
+  excludes:
+    - "otherwise make it clear that Your version of the license contains terms which differ from the
+       Jaluna Public License"

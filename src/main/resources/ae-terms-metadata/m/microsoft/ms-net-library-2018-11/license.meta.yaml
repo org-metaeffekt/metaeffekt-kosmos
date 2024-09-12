@@ -1,0 +1,36 @@
+canonicalName: Microsoft Software License (.NET Library 2018-11)
+category: Microsoft .NET Library License
+shortName: MS-NET-Library-2018-11
+
+otherIds:
+  - "scancode:ms-net-library-2018-11"
+
+canonicalNameHistory:
+  - "Microsoft .NET Library License 2018-11"
+
+alternativeNames:
+  - "Microsoft .NET Library License 2018-11"
+  - "https://dotnet.microsoft.com/dotnet_library_license.htm"
+  - "http://go.microsoft.com/fwlink/?LinkId=329770"
+
+evidence:
+  matches:
+    - "These license terms are an agreement between Microsoft Corporation
+       (or based on where you live, one of its affiliates) and you"
+    - "You may have other rights, including consumer rights, under the laws of your state or country"
+    - "Separate and apart from your relationship with Microsoft, you may also have rights with respect
+       to the party from which you acquired the software"
+    - "You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs"
+    - "This agreement does not change those other rights if the laws of your state or country
+       do not permit it to do so"
+    - "For example, if you acquired the software in one of the below regions, or mandatory country
+       law applies, then the following provisions apply to you"
+    - "This agreement describes certain legal rights"
+    - "You have statutory guarantees under the Australian Consumer Law and nothing in this agreement
+       is intended to affect those rights"
+    - "If you acquired this software in Canada, you may stop receiving updates by turning off the automatic
+       update feature, disconnecting your device from the Internet (if and when you re-connect to the Internet,
+       however, the software will resume checking for and installing updates), or uninstalling the software"
+    - "The product documentation, if any, may also specify how to turn off updates for your specific device or software"
+  excludes:
+    - "You may install and use any number of copies of the software to design, develop and test your programs"

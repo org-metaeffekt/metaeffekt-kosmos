@@ -1,0 +1,27 @@
+canonicalName: IBM glextrusion License
+category: IBM glextrusion License
+shortName: ibm-glextrusion
+
+otherIds:
+  - "scancode:ibm-glextrusion"
+
+classification: permissive
+
+alternativeNames:
+  - "IBM glextrusion License"
+
+evidence:
+  matches:
+    - "IBM does not warrant that the contents of the software will meet your
+       requirements, that the software is error-free or that the software does
+       not infringe on any intellectual property rights of any third party"
+    - "IBM may make improvements and/or changes in the software at any time"
+    - "Changes may or may not be made periodically to the information in the
+       software; these changes may be reported, for the software included
+       herein, in new editions"
+    - "References, if any, in the software to IBM products, programs, or
+       services do not imply that IBM intends to make these available in all
+       countries in which IBM operates"
+    - "Any reference to an IBM licensed program in the software is not intended
+       to state or imply that only IBM's  licensed program may be used"
+    - "Any functionally equivalent program may be used"

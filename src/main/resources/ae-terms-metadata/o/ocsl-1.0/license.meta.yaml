@@ -1,0 +1,23 @@
+canonicalName: Oracle Community Source License 1.0
+category: Oracle Community Source License
+shortName: OCSL-1.0
+
+otherIds:
+  - "scancode:ocsl-1.0"
+
+alternativeNames:
+  - "ocsl-1.0"
+
+evidence:
+  matches:
+    - "Your rights under this Agreement shall immediately terminate if You fail to comply with any of the material
+       terms of this Agreement"
+    - "In addition, if You institute patent litigation against Oracle with respect to a patent applicable to software
+       (including a cross-claim or counterclaim in a lawsuit), then any patent licenses granted by Oracle to You under
+       this Agreement shall automatically terminate as of the date such litigation is filed"
+    - "In addition, if You institute patent litigation against any entity (including a cross-claim or counterclaim in a
+       lawsuit) alleging that the Program infringes Your patent(s) or contributes to or induces infringement of Your
+       patent(s), then any patent rights granted to You under this Agreement shall automatically terminate as of the
+       date the litigation is filed"
+    - "Upon termination of this Agreement, You agree to immediately cease use and distribution of the Program"
+    - "However, Your obligations under Paragraph 3 ('Additional Terms Offered By You') of this Agreement shall survive termination"

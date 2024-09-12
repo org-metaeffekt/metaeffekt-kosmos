@@ -1,0 +1,29 @@
+canonicalName: Google Individual Contributor License Agreement
+category: Google Individual Contributor License Agreement
+shortName: Google-CLA
+
+otherIds:
+  - "scancode:google-cla"
+
+alternativeNames:
+  - "Google Individual Contributor License Agreement"
+
+evidence:
+  matches:
+    - "You represent that you are legally entitled to grant the above license"
+    - "If your employer(s) has rights to intellectual property that you create that includes your Contributions,
+       you represent that you have received permission to make Contributions on behalf of that employer, that your
+       employer has waived such rights for your Contributions to Google, or that your employer has executed a separate
+       Corporate CLA with Google"
+    - "You represent that each of Your Contributions is Your original creation (see section 7 for submissions on behalf of others)"
+    - "You represent that Your Contribution submissions include complete details of any third-party license or other
+       restriction (including, but not limited to, related patents and trademarks) of which you are personally aware and
+       which are associated with any part of Your Contributions"
+    - "You are not expected to provide support for Your Contributions, except to the extent You desire to provide support"
+    - "You may provide support for free, for a fee, or not at all"
+    - "Should You wish to submit work that is not Your original creation, You may submit it to Google separately from any
+       Contribution, identifying the complete details of its source and of any license or other restriction (including,
+       but not limited to, related patents, trademarks, and license agreements) of which you are personally aware, and
+       conspicuously marking the work as 'Submitted on behalf of a third-party: [ named here ]'"
+    - "You agree to notify Google of any facts or circumstances of which you become aware that would make these
+       representations inaccurate in any respect"

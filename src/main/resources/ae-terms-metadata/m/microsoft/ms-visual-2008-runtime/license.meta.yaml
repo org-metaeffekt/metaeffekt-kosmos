@@ -1,0 +1,39 @@
+canonicalName: Microsoft Visual C++ 2008 Runtime Libraries License
+category: Microsoft Visual C++ 2008 Runtime Libraries License
+shortName: MS-Visual-2008-Runtime
+
+otherIds:
+  - "scancode:ms-visual-2008-runtime"
+
+alternativeNames:
+  - "Microsoft Visual C++ 2008 Runtime Libraries License"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices"
+    - "Unless applicable law gives you more rights despite this limitation, you may use the software only as
+       expressly permitted in this agreement"
+    - "In doing so, you must comply with any technical limitations in the software that only allow you to use
+       it in certain ways"
+    - "Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes"
+    - "This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services"
+    - "If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles"
+    - "MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS"
+
+  excludes:
+    - "The first user of the software may transfer it and this agreement directly to a third party"
+    - "Before the transfer, that party must agree that this agreement applies to the transfer and use of the software"
+    - "The first user must uninstall the software before transferring it separately from the device"
+    - "The first user may not retain any copies"
+    - "You will not give feedback that is subject to a license that requires Microsoft to license its software or
+       documentation to third parties because we include your feedback in them"
+    - "You may install and use any number of copies of the software on your devices for use with your ASP.NET programs"
+    - "You may modify, copy, distribute or deploy any .js files contained in the software as part of your ASP.NET programs"
+    - "indemnify, defend, and hold harmless Microsoft from any claims, including attorneys’ fees, related to
+       the distribution or use of your programs"
+    - "As described below, using some features also operates as your consent to the transmission of certain computer
+       information for Internet-based services"
+    - "develop and test your programs for use"
+    - "MICROSOFT VISUAL C++ 2010 RUNTIME LIBRARIES"
+    - "You may copy and use images, clip art, animations, sounds, music, shapes, video clips and templates provided with the software and identified for such use in documents and projects that you create"
+    - "As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French"

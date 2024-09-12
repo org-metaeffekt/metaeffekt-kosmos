@@ -1,0 +1,37 @@
+canonicalName: Ice Exception (GPL 2.0)
+category: Ice Exception
+shortName: Ice-Exception-GPL-2.0
+
+type: exception
+
+#FIXME-RESEARCH: comparing our license and the one provided under the same scancode ID our version seems to be missing some crucial sentences
+
+otherIds:
+  - "scancode:ice-exception-2.0"
+
+canonicalNameHistory:
+  - "Ice Exception to GPL 2.0"
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Ice exception)
+
+evidence:
+  matches:
+    - "As a special exception to the above, ZeroC grants to the contributors for
+       the following projects the permission to license their Ice-based software 
+       under the terms of the GNU Lesser General Public License (LGPL) version 
+       2.1 or of the BSD license"
+
+references:
+  "BSD":
+    matches:
+    - "As a special exception to the above, ZeroC grants to the contributors for
+       the following projects the permission to license their Ice-based software 
+       under the terms of the GNU Lesser General Public License (LGPL) version 
+       2.1 or of the BSD license"
+  "LGPL":
+    matches:
+      - "As a special exception to the above, ZeroC grants to the contributors for
+         the following projects the permission to license their Ice-based software 
+         under the terms of the GNU Lesser General Public License (LGPL) version 
+         2.1 or of the BSD license"

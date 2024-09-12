@@ -1,0 +1,30 @@
+canonicalName: Apple Squeak License
+category: Apple Squeak License
+shortName: Apple-Squeak
+
+otherIds:
+  - "scancode:squeak"
+
+alternativeNames:
+  - "http://squeak.org/SqueakLicense/"
+  - "Apple Computer, Inc. Software License"
+
+evidence:
+  matches:
+    - "The software, documentation and any fonts which you will receive by downloading this software (the 'Apple Software') are licensed,
+       not sold, to you by Apple Computer, Inc. or its local subsidiary, if any"
+    - "Apple and/or Apple's licensor(s) retain title to the Apple Software, and the Apple Software and any copies which this License authorizes you to make are subject to this License"
+    - "This License grants no right or license under any trademarks, service marks, or tradenames of Apple"
+    - "This License allows you to copy, install and use the Apple Software on an unlimited number of computers under your direct control"
+    - "You may modify and create derivative works of the Apple Software ('Modified Software'), however, you may not modify or create derivative works of the fonts provided by Apple ('Fonts')"
+    - "You may distribute and sublicense such Modified Software only under the terms of a valid, binding license that makes no representations or warranties on behalf of Apple, and is no less protective of Apple and Apple's rights than this License"
+    - "You may distribute and sublicense the Fonts only as a part of and for use with Modified Software, and not as a part of or for use with Modified Software that is distributed or sublicensed for a fee or for other valuable consideration"
+    - "If the Modified Software contains modifications, overwrites, replacements, deletions, additions, or ports to new platforms of:
+       (1) the methods of existing class objects or their existing relationships, or
+       (2) any part of the virtual machine, then for so long as the Modified Software is distributed or sublicensed to others,
+       such modified, overwritten, replaced, deleted, added and ported portions of the Modified Software must be made publicly available,
+       preferably by means of download from a website, at no charge under the terms set forth in Exhibit A below"
+    - "You may transfer your rights under this License provided you transfer this License and a copy of the Apple Software to a party who agrees to accept the terms of this License and destroy any other copies of the Apple Software in your possession"
+    - "Your rights under this License will terminate automatically without notice from Apple if you fail to comply with any term(s) of this License"
+  excludes:
+    - "Software License Agreement For QuickTime"

@@ -1,0 +1,26 @@
+canonicalName: ActiveState Community License 2012
+category: ActiveState Community
+shortName: ActiveState-2012
+
+otherIds:
+  - "scancode:activestate-community-2012"
+
+alternativeNames:
+  - "ACTIVESTATE COMMUNITY EDITION SOFTWARE LICENSE AGREEMENT Version effective date: August 2, 2012"
+
+# ActiveState licenses are considered commercial due to conditions that force into a commercial license
+classification: commercial
+
+requiresCopyright: true
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "You are granted worldwide, perpetual, paid up, royalty free, non-exclusive rights to install
+       and use the Software subject to the terms and conditions contained herein"
+    - "You may: (i) copy the Software for archival purposes, (ii) copy the Software for personal use purposes,
+       (iii) use, copy, and distribute the Software solely for Your organization's internal use and or internal
+       business operation purposes including copying the Software to other computers or workstations inside
+       Your organization, (iv) redistribute parts of the Software outside of Your organization only as part
+       of a Wrapped Application utilizing executable generators such as PerlApp, Perl2Exe, PAR, TclApp, py2app, or py2exe"
+    - "Any copy must contain the original Software's proprietary notices in unaltered form"

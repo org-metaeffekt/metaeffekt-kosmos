@@ -1,0 +1,28 @@
+canonicalName: ODB Commercial Proprietary License (CPL)
+category: ODB-CPL
+shortName: odb-cpl
+
+otherIds:
+  - "scancode:odb-cpl"
+
+classification: commercial
+
+alternativeNames:
+  - "ODB Commercial Proprietary License (CPL)"
+
+evidence:
+  matches:
+    - "Royalty-free runtime (no runtime licenses)"
+    - "Application source code stays private"
+    - "Legal assurances, warranties, and indemnification"
+    - "Commercial-grade technical support"
+    - "Full-time, dedicated development team provides ongoing maintenance, development, testing, and documentation"
+    - "Single vendor to hold accountable"
+
+references:
+  "GPL":
+    matches:
+      - "If you do not wish to be bound by the terms of the GPL or NCUEL"
+
+
+

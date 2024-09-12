@@ -1,0 +1,34 @@
+canonicalName: Blender License 2010
+category: Blender License
+shortName: Blender-2010
+
+otherIds:
+  - "scancode:blender-2010"
+
+alternativeNames:
+  - "Stichting Blender Foundation"
+
+references:
+  "GPL":
+    matches:
+      - "It is subject to the GNU GPL license, which is part of this download.
+         For more information please review the Blender source code distribution, 
+         which should be available at the same location as where you obtained 
+         this version"
+
+evidence:
+  matches:
+    - "For more information please review the Blender source code distribution, 
+        which should be available at the same location as where you obtained 
+        this version"
+    - "This License Agreement for the Blender software (\"License
+        Agreement\") is an agreement between Stichting Blender Foundation,
+        Amsterdam, the Netherlands (\"BF\") and you (either an individual or a
+        legal entity) (\"You\") with respect to the software product which this
+        License Agreement accompanies (the \"Software\")"
+    - "Subject to the provisions of the GNU GPL license, BF grants You a
+         non-exclusive right to use the Software at any computer You own or use"
+    - "BF explicitly disclaims all warranties and guarantees and does not make any
+         representations with respect to the Software, whether express, implied,
+         or statutory, including, but not limited to any (if any) warranties of
+         or related to"

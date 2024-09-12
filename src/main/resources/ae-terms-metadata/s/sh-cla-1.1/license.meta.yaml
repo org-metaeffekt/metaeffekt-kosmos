@@ -1,0 +1,23 @@
+canonicalName: Software Heritage Contributor License Agreement 1.1
+category: Software Heritage Contributor License Agreement
+shortName: sh-cla-1.1
+
+otherIds:
+  - "scancode:sh-cla-1.1"
+
+classification: CLA
+
+alternativeNames:
+  - "Software Heritage Contributor License Agreement 1.1"
+
+evidence:
+  matches:
+    - "You guarantee that You own copyrights over the Contribution and that You hold,
+       to the best of your knowledge, all of the rights necessary to grant a license
+       on said Contribution to Inria and that You do not infringe third party’s rights"
+    - "You acknowledge that You hold no patent which could be enforced against any use
+       by Inria of the copyright over the Contribution"
+    - "In the opposite case, You promise not to enforce the rights granted by these
+       patents against Inria, or any of its licensees, sub-licensees or assignees,
+       for using, exploiting, modifying, distributing your Contribution accordingly
+       with article 2 here above"

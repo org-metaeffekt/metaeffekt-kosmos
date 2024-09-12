@@ -1,0 +1,24 @@
+canonicalName: Microsoft Software License (JDBC Driver 4.1 for SQL Server)
+category: Microsoft Software
+shortName: MS-Software-JDBC-Driver-4.1-SQL-Server
+otherIds:
+  - "scancode:ms-jdbc-driver-41-sql-server"
+
+alternativeNames:
+  - "MICROSOFT JDBC DRIVER 4.1 FOR SQL SERVER"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices"
+    - "The software may include third party programs that Microsoft, 
+       not the third party, licenses to you under this agreement"
+    - "This agreement only gives you 
+       some rights to use the software"
+    - "The software is subject to United States export laws and 
+       regulations"
+    - "Because this software is \"as is,\" we may not provide support
+        services for it"
+    - "You may have other rights 
+       under the laws of your country"
+  excludes:
+    - "MICROSOFT JDBC DRIVER 6.0 FOR SQL SERVER"

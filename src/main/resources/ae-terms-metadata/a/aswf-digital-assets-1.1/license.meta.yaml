@@ -1,0 +1,16 @@
+canonicalName: ASWF Digital Assets License 1.1
+category: ASWF-Digital-Assets-1.1
+spdxIdentifier: ASWF-Digital-Assets-1.1
+
+alternativeNames:
+  - "ASWF-Digital-Assets-1.1"
+  - "ASWF Digital Assets License 1.1"
+
+otherIds:
+  - "scancode:aswf-digital-assets-1.1"
+
+evidence:
+  matches:
+    - "Redistributions of these digital assets or any part of them must include the above copyright notice,
+       this list of conditions and the disclaimer below, and if applicable, a description of how the redistributed
+       versions of the digital assets differ from the originals"

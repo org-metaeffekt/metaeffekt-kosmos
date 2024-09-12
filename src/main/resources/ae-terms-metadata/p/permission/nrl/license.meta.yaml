@@ -1,0 +1,27 @@
+canonicalName: Permission Terms (NRL)
+category: Permission
+spdxIdentifier: CMU-Mach-nodoc
+
+alternativeNames:
+  - "Permission Terms (NRL)"
+  - "CMU-Mach-nodoc"
+  - "CMU    Mach - no notices-in-documentation variant"
+
+otherIds:
+  - "scancode:nrl-permission"
+
+displayName: Permission Terms (no liability)
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify and distribute this software and its
+       documentation is hereby granted, provided that both the copyright
+       notice and this permission notice appear in all copies of the
+       software, derivative works or modified versions, and any portions
+       thereof"
+    - "ALLOWS FREE USE OF THIS SOFTWARE IN ITS AS IS CONDITION AND
+       DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER
+       RESULTING FROM THE USE OF THIS SOFTWARE"
+  excludes:
+    - "Carnegie Mellon requests users of this software to return to Software Distribution Coordinator"

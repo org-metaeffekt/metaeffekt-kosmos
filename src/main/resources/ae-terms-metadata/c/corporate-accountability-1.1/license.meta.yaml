@@ -1,0 +1,26 @@
+canonicalName: Corporate Accountability Lab Software
+category: Corporate Accountability Lab Software
+spdxIdentifier: 
+shortName: Corporate-Accountability-1.1
+
+otherIds:
+  - "scancode:corporate-accountability-1.1"
+
+alternativeNames:
+  - "Corporate Accountability Lab Software"
+
+evidence:
+  matches:
+    - "Permission is hereby granted by Licensor, on a non-exclusive basis and free of charge to Licensee obtaining a copy of this Software,
+       to use, copy, modify, merge, publish, distribute, embed in other products, sell copies of, or otherwise Share (defined below) the Software,
+       and to permit persons to whom the Software is furnished to do all of the above, subject to compliance with the terms and conditions set forth in this Agreement"
+    - "For the avoidance of doubt, nothing herein is intended to nor shall be interpreted to interfere with any 'fair use'
+       rights available under copyright law nor grant any rights that are not protected by copyright law"
+    - "Each time Licensee distributes, publishes, or otherwise makes the Software (or any component thereof) available to another person  or entity in any manner
+       (including embedded in another product) ('Share' or 'Sharing'), the Licensee's recipient automatically receives a license from the original licensors,
+       including Licensor, subject to this Agreement, and the recipient then becomes a Licensee that must comply with  the terms of this Agreement"
+    - "If Licensee creates a modified version of the Software (including any derivative work thereof) ('Modified Software'), Licensee may in turn Share the Modified Software;
+       provided, however, that Licensee must apply this Agreement (or a later version) to any Sharing of the Modified Software as further described in Section 2,
+       in which event Licensee would become a licensor and its recipient(s) would become licensee(s) with respect to the Modified Software"
+    - "For the avoidance of doubt, Licensor may also offer the Software (but not Modified Software) under separate terms or conditions or stop distributing the Software at any time;
+       however, doing so will not terminate this Agreement to Licensee nor Licensee's obligations pursuant to this Agreement"

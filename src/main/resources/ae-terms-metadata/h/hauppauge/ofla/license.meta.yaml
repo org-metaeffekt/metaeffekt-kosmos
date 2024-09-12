@@ -1,0 +1,33 @@
+canonicalName: Hauppauge OEM/IHV/ISV Firmware License Agreement
+category: Hauppauge-OEM
+shortName: Hauppauge-OEM/IHV/ISV-FLA
+
+otherIds:
+  - "scancode:hauppauge-firmware-oem"
+
+alternativeNames:
+  - "OEM/IHV/ISV FIRMWARE LICENSE AGREEMENT"
+
+evidence:
+  matches:
+  - "OWNERSHIP OF FIRMWARE AND COPYRIGHTS. Firmware and accompanying
+     materials, if any, are owned by Hauppauge or its suppliers and
+     licensors and may be protected by copyright, trademark, patent and
+     trade secret law and international treaties"
+  - "Any rights, express or
+     implied, in the intellectual property embodied in the foregoing, other
+     than those specified in this Agreement, are reserved by Hauppauge and
+     its suppliers and licensors or otherwise as set forth in any
+     applicable open source license agreement"
+  - "You will keep the Firmware free of liens, attachments, and other encumbrances"
+  - "You agree not to remove any proprietary notices and/or any labels from the Firmware and
+     accompanying materials without prior written approval by Hauppauge"
+
+references:
+  "Hauppauge-End-User":
+    matches:
+    - "If you are an End-User, only the END-USER FIRMWARE LICENSE AGREEMENT applies"
+    - "If you are an Original Equipment Manufacturer (OEM), Independent
+       Hardware Vendor (IHV), or Independent Firmware Vendor (ISV), the
+       OEM/IHV/ISV FIRMWARE LICENSE AGREEMENT applies (this license), as
+       well as the END-USER FIRMWARE LICENSE AGREEMENT"

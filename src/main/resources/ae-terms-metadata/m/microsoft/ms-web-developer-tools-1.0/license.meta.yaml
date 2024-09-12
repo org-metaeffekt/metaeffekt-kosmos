@@ -1,0 +1,22 @@
+canonicalName: Microsoft Web Developer Tools License 1.0
+category: Microsoft Web Developer Tools
+shortName: MS-Web-Developer-Tools-1.0
+
+otherIds:
+  - "scancode:ms-web-developer-tools-1.0"
+
+canonicalNameHistory:
+  - "Microsoft Web Developer Tools 1.0"
+
+alternativeNames:
+  - "Microsoft Web Developer Tools 1.0"
+
+evidence:
+  matches:
+    - "The code and text files listed below are 'Distributable Code.'"
+    - "You may copy and distribute the object code form of code and files listed below"
+    - "You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs"
+    - "make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation"
+    - "If you comply with these license terms, you have the perpetual rights below"
+  excludes:
+    - "If you comply with these license terms, you have the rights below."

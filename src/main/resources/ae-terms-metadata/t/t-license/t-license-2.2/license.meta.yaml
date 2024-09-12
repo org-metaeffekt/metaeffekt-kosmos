@@ -1,0 +1,13 @@
+canonicalName: T-License 2.2
+category: T-License
+shortName: T-License-2.2
+
+otherIds:
+  - "scancode:t-license-2.2"
+
+evidence:
+  matches:
+    - "This License Agreement sets forth copyrights and the terms and conditions of use applicable to the Source Codes of OSs （Operating Systems） and programs Distributed by TRON Forum"
+    - "In the event that any provision of this License Agreement is held invalid, illegal or unenforceable by Japanese court, that will not render invalid, illegal or unenforceable the remaining provisions of this License Agreement, the validity, legality or enforceability of this License Agreement shall not be affected"
+    - "TRON Forum warrants that the Source Code for which TRON Forum owns the copyrights does not infringe upon third party's copyrights and Ken Sakamura warrants that the Source Code for which Ken Sakamura owns the copyrights does not infringe upon third party's copyrights"
+    - "In case of breach of this License Agreement, TRON Forum shall have the breaching person remedy such a breach and take measures on the ground of copyright infringement against the person regardless of whether or not the said person is a member of TRON Forum"

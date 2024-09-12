@@ -1,0 +1,52 @@
+canonicalName: Permission Terms (variant 092)
+category: Permission
+shortName: PT-Var092
+
+status:
+  - "reviewed 04.01.2022"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+canonicalNameHistory:
+  - "Permission Terms Var092"
+
+displayName: "Permission Terms (no liability; no warranty)"
+representedAs: Permission Terms
+
+otherIds:
+  - "scancode:bsd-credit"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software for any purpose
+       with or without fee is hereby granted, provided that the above copyright notice
+       and this permission notice appear in all copies"
+    - "Modification and redistribution in source and binary forms is permitted provided
+       that due credit is given to *{.{0,100}}* (for instance by
+       leaving this copyright notice intact)"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\" AND *{.{0,100}}* DISCLAIMS ALL WARRANTIES WITH
+       REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+       FITNESS"
+    - "IN NO EVENT SHALL *{.{0,100}}* BE LIABLE FOR ANY SPECIAL, DIRECT,
+       INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+       OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+       TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+       THIS SOFTWARE"
+  excludes:
+    - "Permission to use copy modify and or distribute this software for any purpose with
+       or without fee is hereby granted provided that the above copyright notice and this
+       permission notice appear in all copies"
+    
+licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this software for any purpose with or without fee 
+                  is hereby granted, provided that the above copyright notice and this permission notice appear in all 
+                  copies.
+                  <p>Modification and redistribution in source and binary forms is permitted provided that due credit is 
+                  given to {{copyrightHolder}} (for instance by leaving this copyright notice intact).</p>
+                  <codeph>THE SOFTWARE IS PROVIDED \"AS IS\" AND {{copyrightHolderNoWarranty}} DISCLAIMS ALL WARRANTIES WITH
+                  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT 
+                  SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL 
+                  DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION 
+                  OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR 
+                  PERFORMANCE OF THIS SOFTWARE.</codeph></lq>" 

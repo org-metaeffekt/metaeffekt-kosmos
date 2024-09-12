@@ -1,0 +1,25 @@
+canonicalName: Info-ZIP License 1997
+category: Info-ZIP License
+shortName: Info-ZIP-1997
+
+otherIds:
+  - "scancode:info-zip-1997-10"
+
+canonicalNameHistory:
+  - "Info-Zip License 1997"
+
+alternativeNames:
+  - "Info-Zip License 1997"
+
+evidence:
+  matches:
+    ##- "Info-ZIP file COPYING * last updated 5 Oct 97"
+    - "Do not distribute modified versions without my permission"
+    - "Do not remove or alter this notice or any other copyright notice"
+    - "If you use this in your own program you must distribute source code"
+    - "Do not use any of this in a commercial product"
+
+references:
+  "Public Domain":
+    matches:
+      - "As noted above, Mark Adler's inflate.[ch], explode.c and funzip.c are in the public domain"

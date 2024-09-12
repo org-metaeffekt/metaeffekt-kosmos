@@ -1,0 +1,23 @@
+canonicalName: Microsoft Windows SDK (Windows Server 2008 and .NET Framework 3.5)
+category: Microsoft Windows SDK
+shortName: MS-Windows-SDK-Server-2008-NET-3.5
+
+otherIds:
+  - "scancode:ms-windows-sdk-server-2008-net-3.5"
+
+canonicalNameHistory:
+  - "Microsoft Windows SDK for Windows Server 2008 and .NET Framework 3.5"
+
+alternativeNames:
+  - "Microsoft Windows SDK for Windows Server 2008 and .NET Framework 3.5"
+
+evidence:
+  matches:
+    - "You may not use the code generation or optimization tools in the software (such as compilers,
+       linkers, assemblers, runtime code generators, and code generating design and modeling tools)
+       to create programs, object code, libraries, assemblies, or executables to run on a platform
+       other than Microsoft operating systems, run-time technologies, or application platforms"
+    - "You may also have rights with respect to the party from whom you acquired the software"
+    - "This agreement does not change your rights under the laws of your country if the laws of
+       your country do not permit it to do so"
+

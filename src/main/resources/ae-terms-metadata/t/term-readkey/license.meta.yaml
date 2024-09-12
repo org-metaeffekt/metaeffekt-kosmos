@@ -1,0 +1,19 @@
+canonicalName: TermReadKey License
+category: TermReadKey
+spdxIdentifier: TermReadKey
+
+canonicalNameHistory:
+  - "Term Readkey License"
+
+otherIds:
+  - "scancode:term-readkey"
+
+alternativeNames:
+  - "Term Readkey License"
+  - "TermReadKey License"
+  - "Term-ReadKey"
+
+evidence:
+  matches:
+    - "Unlimited distribution and/or modification is allowed as
+       long as this copyright notice remains intact"

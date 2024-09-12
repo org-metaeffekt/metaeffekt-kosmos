@@ -1,0 +1,38 @@
+canonicalName: Motosoto License
+category: Motosoto
+spdxIdentifier: Motosoto
+
+otherIds:
+  - "scancode:motosoto-0.9.1"
+  - "osi:Motosoto"
+
+otherIds:
+  - "scancode:motosoto-0.9.1"
+
+alternativeNames:
+  - "Motosoto License"
+  - "MOTOSOTO LICENSE"
+  - "MOTOSOTO License"
+  - "MOTOSOTO OPEN SOURCE LICENSE"
+  - "MOTOSOTO Open Source License"
+
+evidence:
+  matches:
+    - "Licensor hereby grants you a world-wide, royalty-free, non-exclusive license,
+       subject to third party intellectual property claims, to do the following"
+    - "Use, reproduce, modify, display, perform, sublicense and distribute Licensed
+       Product or portions thereof (including Modifications as hereinafter defined),
+       in both Source Code or as an executable program"
+    - "'Source Code' means the preferred form for making modifications to the Licensed Product,
+       including all modules contained therein, plus any associated interface definition files,
+       scripts used to control compilation and installation of an executable program, or
+       a list of differential comparisons against the Source Code of the Licensed Product"
+    - "Create Derivative Works (as that term is defined under Dutch copyright law) of
+       Licensed Product by adding to or deleting from the substance or structure
+       of said Licensed Product"
+    - "Under claims of patents now or hereafter owned or controlled by Licensor,
+       to make, use, sell, offer for sale, have made, and/or otherwise dispose of
+       Licensed Product or portions thereof, but solely to the extent that any such
+       claim is necessary to enable you to make, use, sell, offer for sale, have
+       made, and/or otherwise dispose of Licensed Product or portions thereof or
+       Derivative Works thereof"

@@ -1,0 +1,34 @@
+canonicalName: Eclipse Foundation Software User Agreement 2014-11
+category: Eclipse Foundation Software User Agreement
+shortName: Eclipse-SUA-2014-11
+
+otherIds:
+  - "scancode:eclipse-sua-2014-11"
+
+alternativeNames:
+  - "Eclipse Foundation Software User Agreement 2014-11"
+  - "Eclipse Foundation Software User Agreement November 22, 2014"
+
+evidence:
+  matches:
+    - "THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION AND/OR OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY \"CONTENT\"). USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED BELOW, THEN YOU MAY NOT USE THE CONTENT."
+    - "A copy of the EPL is provided with this Content and is also available at http://www.eclipse.org/legal/epl-2.0"
+  excludes:
+    - "Eclipse Foundation Software User Agreement November 22, 2017"
+    - "Eclipse Foundation Software User Agreement April 9, 2014"
+
+references:
+  "EPL":
+    matches:
+      - "Unless otherwise indicated, all Content made available by the Eclipse Foundation is provided to you under the
+         terms and conditions of the Eclipse Public License Version 2.0 ('EPL')"
+
+masks:
+  matches:
+    - "SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED TO):
+       Eclipse Public License Version 1.0 (available at http://www.eclipse.org/legal/epl-v10.html)
+       Eclipse Distribution License Version 1.0 (available at http://www.eclipse.org/licenses/edl-v1.0.html)
+       Common Public License Version 1.0 (available at http://www.eclipse.org/legal/cpl-v10.html)
+       Apache Software License 1.1 (available at http://www.apache.org/licenses/LICENSE)
+       Apache Software License 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0)
+       Mozilla Public License Version 1.1 (available at http://www.mozilla.org/MPL/MPL-1.1.html)"

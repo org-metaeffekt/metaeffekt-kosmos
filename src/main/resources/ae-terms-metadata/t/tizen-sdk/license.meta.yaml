@@ -1,0 +1,37 @@
+canonicalName: Tizen SDK License
+category: Tizen SDK License
+shortName: Tizen-SDK
+
+otherIds:
+  - "scancode:tizen-sdk"
+
+alternativeNames:
+  - "Tizen SDK License Agreement"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, Samsung hereby grants to You a
+       royalty-free, non-exclusive, non-transferable and worldwide license to use for the sole
+       purpose of the development of Tizen Applications"
+    - "Except for the limited license granted to You herein, You agree that all right, title
+       and interest in and to the  Tizen SDK including the concepts and technology inherent in
+       them, Samsung or Tizen trademarks, copyrights, patents, trade secrets and other intellectual
+       property rights, are, and at all times shall remain, the sole and exclusive property of Samsung"
+    - "Except to the extent permitted under this Agreement or by applicable law, You shall not (i) modify,
+       reverse engineer or disassemble any portion of the Tizen SDK; (ii) lease, rent, copy, redistribute
+       or sublicense the Tizen SDK to third party; or (iii) remove, efface or obscure any copyright
+       notices, logos or other proprietary notices or legends included in the Tizen SDK"
+    - "You may not use any component part of the Tizen SDK in any way independent from the Tizen SDK"
+    - "You may not load or install any of the Tizen SDK onto mobile phones or any other devices, except a personal computer"
+    - "Samsung may extend, enhance, or otherwise modify the Tizen SDK at any time without notice"
+    - "If updates are made available by Samsung, the terms of this Agreement will govern such updates,
+       unless the update is accompanied by a separate license, in which case the terms of that license will govern"
+    - "Samsung is not obligated to provide any maintenance, technical or other support for the Tizen SDK"
+    - "You acknowledge that Samsung has no express or implied obligation to announce or make available
+       any updates to the Tizen SDK"
+    
+references:
+  "Public Domain":
+    matches:
+      - "The restriction herein shall not apply to the extent that such information is in the public domain or hereafter falls into the public domain through no fault of You. Any combination of trade secrets and information of Samsung that forms part of the Tizen SDK shall not be deemed to be public"
+      - "information of Samsung that forms part of the Tizen SDK shall not be deemed to be public merely because individual parts of the Tizen SDK are in the public domain, unless the combination itself is in the public domain"

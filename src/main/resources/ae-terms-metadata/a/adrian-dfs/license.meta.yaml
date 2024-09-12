@@ -1,0 +1,25 @@
+canonicalName: Adrian DFS License
+category: DFS
+shortName: Adrian-DFS
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:adrian"
+
+alternativeNames:
+  - "Adrian DFS License"
+
+evidence:
+  matches:
+    - "You are allowed to use this source code in any open source or closed
+       source software you want"
+    - "You are allowed to use the algorithms for a
+       hardware solution"
+    - "You are allowed to modify the source code.
+       You are not allowed to remove the name of the author from this memo or
+       from the source code files"
+    - "You are not allowed to monopolize the
+       source code or the algorithms behind the source code as your
+       intellectual property"

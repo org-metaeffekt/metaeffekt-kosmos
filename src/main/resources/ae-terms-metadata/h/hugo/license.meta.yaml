@@ -1,0 +1,27 @@
+canonicalName: Hugo License
+category: Hugo License
+shortName: Hugo
+
+otherIds:
+  - "scancode:hugo"
+
+alternativeNames:
+  - "Hugo License"
+  - "HUGO LICENSE - December 19, 2003"
+
+evidence:
+  matches:
+    - "Hugo is the property of the Copyright Holder"
+    - "The Copyright Holder retains its copyright in the Software, without limitation"
+    - "In no way does the Copyright Holder's act of making available the
+       Hugo Source code reduce or otherwise affect in any way its rights in
+       the Hugo Source Code"
+    - "Distribution of the Software or the Hugo Source Code, in whole or
+       in part, in a modified form without the express written consent of the
+       Copyright Holder is prohibited"
+    - "Distribution of the Software or the Hugo Source Code, in whole or
+       in part, for profit or other commercial intent or monetary transaction
+       without the express written consent of the Copyright Holder is
+       prohibited"
+    - "This License must be distributed with any distribution of the
+       Software or the Hugo Source Code"

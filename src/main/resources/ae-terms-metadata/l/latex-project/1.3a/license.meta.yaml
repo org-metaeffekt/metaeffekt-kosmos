@@ -1,0 +1,30 @@
+canonicalName: LaTeX Project Public License 1.3a
+category: LPPL
+spdxIdentifier: LPPL-1.3a
+
+otherIds:
+  - "scancode:lppl-1.3a"
+
+alternativeNames:
+  - "LPPL, Version 1.3a"
+  - "LPPL, 1.3a"
+  - "LPPL 1.3a"
+
+canonicalNameHistory:
+  - "LPPL 1.3a"
+
+evidence:
+  matches:
+    - "Activities other than distribution and/or modification of the Work are
+       not covered by this license; they are outside its scope"
+    - "In particular, the act of running the Work is not restricted and no requirements
+       are made concerning any offers of support for the Work"
+    - "If a Derived Work is distributed under this license, that Derived Work
+       must provide sufficient documentation as part of itself to allow each recipient
+       of that Derived Work to honor the restrictions in Clause 6 above, concerning
+       changes from the Work"
+
+references:
+  "GPL":
+    matches:
+      - "why distributing LaTeX under the GNU General Public License (GPL) was considered inappropriate"

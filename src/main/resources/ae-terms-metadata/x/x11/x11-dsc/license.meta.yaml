@@ -1,0 +1,19 @@
+canonicalName: X11-Style (DSC Technologies)
+category: X11-Style (DSC Technologies)
+shortName: X11-DSC
+
+otherIds:
+  - "scancode:x11-dsc"
+
+alternativeNames:
+  - "X11-Style (DSC Technologies)"
+
+representedAs: X11 License
+
+
+evidence:
+  matches:
+    - "This software is copyrighted by DSC Technologies and private individual contributors"
+    - "The copyright holder is specifically listed in the header of each file"
+    - "The following terms apply to all files associated with the software unless
+       explicitly disclaimed in individual files by private contributors"

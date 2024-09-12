@@ -1,0 +1,63 @@
+canonicalName: BSD 3-Clause License (without binary clause; variant 002)
+category: BSD
+spdxIdentifier: BSD-Source-Code
+
+representedAs: "BSD 3-Clause License"
+
+canonicalNameHistory:
+  - "BSD Source Code License"
+  - "BSD Source Code Attribution"
+
+alternativeNames:
+  - "BSD Source Code"
+  - "BSD SOURCE CODE"
+  - "BSD-Source-Code"
+  - "BSD-SOURCE-CODE"
+  - "BSD Source Code License"
+  - "BSD SOURCE CODE LICENSE"
+  - "BSD SOURCE CODE License"
+  - "BSD-Source-Code License"
+  - "BSD-SOURCE-CODE LICENSE"
+  - "BSD-SOURCE-CODE License"
+
+evidence:
+  matches:
+    - "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 'AS IS'
+       AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+       IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+       ARE DISCLAIMED"
+    - "IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+       LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+       DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+       SERVICES; LOSS OF USE, DATA, OR PROFITS"
+    - "OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+       IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+       IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
+  excludes:
+    - "Redistributions in binary form must reproduce the above copyright notice,
+       this list of conditions and the following disclaimer in the documentation
+       and/or other materials provided with the distribution"
+    - "All modifications to the source code must be clearly marked as such"
+
+grants:
+  binary-distribution:
+    subject: binary
+    action: distribute
+    matches:
+    - "Redistribution and use of this software in source and binary forms, with or
+       without modification, are permitted provided that the following conditions
+       are met:"
+  source-distribution:
+    subject: source
+    action: distribute
+    matches:
+    - "Redistribution and use of this software in source and binary forms, with or
+       without modification, are permitted provided that the following conditions
+       are met:"
+    obligations:
+      include-conditions:
+        mandatory: true
+        description: "retain copyright notice, conditions and disclaimer"
+        matches:
+          - "Redistributions of source code must retain the above copyright notice, this
+             list of conditions and the following disclaimer"

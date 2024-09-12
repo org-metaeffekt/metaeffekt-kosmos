@@ -1,0 +1,46 @@
+canonicalName: Info-ZIP License 2001
+category: Info-ZIP
+shortName: Info-ZIP-2001
+
+otherIds:
+  - "scancode:info-zip-2001-01"
+
+canonicalNameHistory:
+  - "Info-Zip License 2001"
+
+alternativeNames:
+  - "Info-Zip License 2001"
+
+mappings:
+  "theZip-Bugs":
+    "the Zip-Bugs"
+
+evidence:
+  matches:
+    - "For the purposes of this copyright and license, 'Info-ZIP' is defined as
+       the following set of individuals"
+    - "This software is provided 'as is,' without warranty of any kind, express
+       or implied"
+    - "In no event shall Info-ZIP or its contributors be held liable
+       for any direct, indirect, incidental, special or consequential damages
+       arising out of the use of or inability to use this software"
+    - "Permission is granted to anyone to use this software for any purpose,
+       including commercial applications, and to alter it and redistribute it
+       freely, subject to the following restrictions"
+    - "Redistributions of source code must retain the above copyright notice,
+       definition, disclaimer, and this list of conditions"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, definition, disclaimer, and this list of conditions in
+       documentation and/or other materials provided with the distribution"
+    - "Altered versions--including, but not limited to, ports to new operating
+       systems, existing ports with new graphical interfaces, and dynamic,
+       shared, or static library versions--must be plainly marked as such
+       and must not be misrepresented as being the original source"
+    - "Such altered versions also must not be misrepresented as being Info-ZIP
+       releases--including, but not limited to, labeling of the altered
+       versions with the names 'Info-ZIP'"
+    - "Such altered versions are further prohibited from misrepresentative use of the
+       Zip-Bugs or Info-ZIP e-mail addresses or of the Info-ZIP URL(s)"
+  excludes:
+    - "This is version 1999-Oct-05 of the Info-ZIP copyright and license. The definitive version of this document should be available at ftp://ftp.cdrom.com/pub/infozip/license.html indefinitely."
+

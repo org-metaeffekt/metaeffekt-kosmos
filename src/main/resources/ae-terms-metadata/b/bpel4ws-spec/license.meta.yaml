@@ -1,0 +1,24 @@
+canonicalName: BPEL4WS Specification License
+category: BPEL4WS Specification License
+shortName: BPEL4WS-Spec
+
+otherIds:
+  - "scancode:bpel4ws-spec"
+
+alternativeNames:
+  - "bpel4ws-spec"
+  - "BPEL4WS Specification license"
+  - "http://dev2dev.bea.com/technologies/webservices/BPEL4WS.jsp"
+
+evidence:
+  matches:
+    - "The name and trademarks of the Authors may NOT be used in any manner,
+       including advertising or publicity pertaining to the BPEL4WS
+       Specification or its contents without specific, written prior permission"
+    - "Title to copyright in the BPEL4WS Specification will at all times remain with the Authors"
+    - "No other rights are granted by implication, estoppel or otherwise"
+  excludes:
+    - "THE SPECIFICATION IS PROVIDED \"AS IS,\" AND THE AUTHORS MAKE NO REPRESENTATIONS
+       OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES
+       OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR TITLE"
+    - "THESE SCHEMA FILES ARE PROVIDED \"AS IS,\" AND THE AUTHORS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, REGARDING THESE FILES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR TITLE"

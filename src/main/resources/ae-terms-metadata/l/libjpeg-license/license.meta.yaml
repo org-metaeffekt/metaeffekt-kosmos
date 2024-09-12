@@ -1,0 +1,35 @@
+canonicalName: Libjpeg License
+category: Libjpeg
+shortName: Libjpeg
+
+otherIds:
+  - "scancode:ijg-2020"
+
+# license source:"https://jpegclub.org/reference/libjpeg-license/"
+
+evidence:
+  matches:
+    - "Permission is hereby granted to use, copy, modify, and distribute this
+       software (or portions thereof) for any purpose, without fee, subject to these
+       conditions"
+    - "If any part of the source code for this software is distributed, then this
+       README file must be included, with this copyright and no-warranty notice
+       unaltered"
+    - "additions, deletions, or changes to the original files
+       must be clearly indicated in accompanying documentation"
+    - "If only executable code is distributed, then the accompanying
+       documentation must state that"
+    - "Permission for use of this software is granted only if the user accepts
+       full responsibility for any undesirable consequences; the authors accept
+       NO LIABILITY for damages of any kind"
+    - "These conditions apply to any software derived from or based on the IJG code,
+       not just to the unmodified library"
+    - "Permission is NOT granted for the use of any IJG author's name or company name
+       in advertising or publicity relating to this software or products derived from
+       it"
+  excludes:
+    - "The IJG distribution formerly included code to read and write GIF files"
+    - "ansi2knr.c is included in this distribution by"
+
+mappings:
+  "LIBJPEGNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. We don't promise that this software works. \\(But if you find any bugs,NEWLINE-MARKER please let us know!\\)": " LICENSE-SEGMENT-MARKER LIBJPEGNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. We don't promise that this software works. (But if you find any bugs,NEWLINE-MARKER please let us know!)"

@@ -1,0 +1,19 @@
+canonicalName: Afmparse License
+category: Afmparse
+spdxIdentifier: Afmparse
+
+otherIds:
+  - "scancode:afmparse"
+
+alternativeNames:
+  - "Afmparse License"
+  - "AFMPARSE LICENSE"
+  - "AFMPARSE License"
+
+evidence:
+  matches:
+    - "This entire notice continues to be included in the file"
+    - "If the file has been modified in any way, a notice of such modification
+       is conspicuously indicated"
+    - "PostScript, Display PostScript, and Adobe are registered trademarks of
+       Adobe Systems Incorporated"

@@ -1,0 +1,39 @@
+canonicalName: Eclipse Foundation Software User Agreement 2005
+category: Eclipse Foundation Software User Agreement
+shortName: Eclipse-SUA-2005
+
+otherIds:
+  - "scancode:eclipse-sua-2005"
+
+alternativeNames:
+  - "Eclipse Foundation Software User Agreement March 17, 2005"
+
+evidence:
+  matches:
+    - "Content includes, but is not limited to, source code, object code, documentation and other files maintained in the Eclipse.org CVS repository (\"Repository\") in CVS modules (\"Modules\") and made available as downloadable archives (\"Downloads\")"
+    - "Content may be structured and packaged into modules to facilitate delivering, extending, and upgrading the Content. Typical modules may include plug-ins (\"Plug-ins\"), plug-in fragments (\"Fragments\"), and features (\"Features\")"
+    - "Note: if a Feature made available by the Eclipse Foundation is installed using the Eclipse Update Manager, you must agree to a license (\"Feature Update License\") during the installation process"
+
+references:
+  "EPL":
+    matches:
+      - "Unless otherwise indicated, all Content made available by the Eclipse Foundation is provided
+         to you under the terms and conditions of the Eclipse Public License Version 1.0 ('EPL')"
+      - "A copy of the EPL is provided with this Content and is also available at http://www.eclipse.org/legal/epl-v10.html"
+
+
+mappings:
+  "For purposes of the EPL, \"Program\" will mean the Content" :
+    "For purposes of the EPL, 'Program' will mean the Content"
+  "Unless otherwise indicated, all Content made available by the Eclipse Foundation is provided to you under the terms and conditions of the Eclipse Public License Version 1.0 (\"EPL\")" :
+    "Unless otherwise indicated, all Content made available by the Eclipse Foundation is provided to you under the terms and conditions of the Eclipse Public License Version 1.0 ('EPL')"
+
+masks:
+  matches:
+    - "SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED TO):
+       Common Public License Version 1.0 (available at http://www.eclipse.org/legal/cpl-v10.html)
+       Apache Software License 1.1 (available at http://www.apache.org/licenses/LICENSE)
+       Apache Software License 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0)
+       IBM Public License 1.0 (available at http://oss.software.ibm.com/developerworks/opensource/license10.html)
+       Metro Link Public License 1.00 (available at http://www.opengroup.org/openmotif/supporters/metrolink/license.html)
+       Mozilla Public License Version 1.1 (available at http://www.mozilla.org/MPL/MPL-1.1.html)"

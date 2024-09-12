@@ -1,0 +1,22 @@
+canonicalName: Utopia License
+category: Utopia
+shortName: Utopia
+
+otherIds:
+  - "scancode:utopia"
+
+alternativeNames:
+  - "Utopia License"
+
+evidence:
+  matches:
+    - "Adobe Systems Incorporated (\"Adobe\") hereby grants to the TeX Users
+       Group and its members a nonexclusive, royalty-free, perpetual license to
+       the typeface software for the Utopia Regular, Utopia Italic, Utopia Bold
+       and Utopia bold Italic typefaces, including Adobe Type 1 font programs
+       for each style (collectively, the \"Software\") as set forth below"
+    - "Adobe also grants to the TeX Users Group a license to modify the
+       Software for any purpose and redistribute such modifications, for any
+       purpose and royalty-free, provided that the modified Software shall not
+       use the font name(s) or trademark(s), in whole or in part, unless
+       explicit written permission is granted by Adobe"

@@ -1,0 +1,16 @@
+canonicalName: AdaCore Doc License
+category: AdaCore-doc
+spdxIdentifier: AdaCore-doc
+
+otherIds:
+  - "scancode:adacore-doc"
+
+alternativeNames:
+  - "AdaCore-doc"
+  - "AdaCore Doc License"
+
+evidence:
+  matches:
+    - "This document may be copied, in whole or in part, in any form or by any means, as is or with alterations, provided that"
+    - "alterations are clearly marked as alterations"
+    - "this copyright notice is included unmodified in any copy"

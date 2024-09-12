@@ -1,0 +1,24 @@
+canonicalName: SSH Notice (short)
+category: SSH
+spdxIdentifier: SSH-short
+
+otherIds:
+  - "scancode:tatu-ylonen"
+
+canonicalNameHistory:
+  - "SSH short notice"
+
+alternativeNames:
+  - "SSH short notice"
+  - "Tatu Ylonen's original licence"
+  - "Tatu Ylonen's licence"
+  - "Tatu Ylonen's Licence"
+  - "Tatu Ylonen Licence"
+
+evidence:
+  matches:
+    - "As far as I am concerned, the code I have written for this software can be used freely for any purpose. Any derived versions
+       of this software must be clearly marked as such, and if the derived work is incompatible with the protocol description in the RFC file,
+       it must be called by a name other than 'ssh' or 'Secure Shell'"
+  excludes:
+    - "The legal status of this program is some combination of all these permissions and restrictions"

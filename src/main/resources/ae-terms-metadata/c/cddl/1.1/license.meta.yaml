@@ -1,0 +1,69 @@
+canonicalName: CDDL 1.1
+category: CDDL
+spdxIdentifier: CDDL-1.1
+
+otherIds:
+  - "scancode:cddl-1.1"
+
+defaultSourceCategory: annex
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: false
+
+canonicalNameHistory:
+  - "Common Development and Distribution License 1.1"
+
+alternativeNames:
+    - "COMMON DEVELOPMENT AND DISTRIBUTION LICENSE 1.1"
+    - "Common Development and Distribution License 1.1"
+    - "Common Development and Distribution Licence version 1.1 (CDDL)"
+    - "COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.1"
+    - "Common Development and Distribution License, Version 1.1"
+    - "Common Development and Distribution License (CDDL), Version 1.1"
+    - "Common Development and Distribution License (CDDL-1.1)"
+    - "COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.1"
+    - "COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL - Version 1.1)"
+    - "CDDL-1.1"
+    - "CDDL, v1.1"
+    - "CDDLv1.1"
+
+evidence:
+  matches:
+    - "If You assert a patent infringement claim against Participant alleging that the Participant Software directly or
+       indirectly infringes any patent where such claim is resolved (such as by license or settlement) prior to the
+       initiation of patent infringement litigation, then the reasonable value of the licenses granted by such
+       Participant under Sections 2.1 or 2.2 shall be taken into account in determining the amount or value of any
+       payment or license"
+
+grants:
+  Source code delivery:
+    matches:
+      - "Source Code form must be distributed only under the terms of this License"
+    obligations:
+      Source code delivery:
+        matches:
+          - "The Modifications that You create or to which You contribute are governed by the terms of this License"
+          - "You may not remove or alter any copyright*notices contained within the Covered Software"
+          - "You may not remove or alter any*patent*notices contained within the Covered Software"
+          - "You may not remove or alter any*trademark notices contained within the Covered Software"
+          - "You have sufficient rights to grant the rights conveyed by this License"
+          - "The Modifications that You create or to which You contribute are governed by the terms of this License"
+          - "You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification"
+          - "You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients' rights hereunder. You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Covered Software"
+  Binary delivery:
+    matches:
+      - "make available in Executable form"
+    obligations:
+      Binary delivery:
+        matches:
+          - "Any Covered Software that You distribute or otherwise make available in Executable form must also be made available in Source Code form*You must inform recipients*how they can obtain such Covered Software in Source Code form"
+          - "You must inform recipients*how they can obtain such Covered Software in Source Code form"
+          - "in a reasonable manner on or through a medium customarily used for software exchange"
+          - "The Modifications that You create or to which You contribute are governed by the terms of this License"
+          - "You may not remove or alter any copyright*notices contained within the Covered Software"
+          - "You may not remove or alter any*patent*notices contained within the Covered Software"
+          - "You may not remove or alter any*trademark notices contained within the Covered Software"
+          - "You have sufficient rights to grant the rights conveyed by this License"
+          - "The Modifications that You create or to which You contribute are governed by the terms of this License"
+          - "You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification"
+          - "You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients' rights hereunder. You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Covered Software"

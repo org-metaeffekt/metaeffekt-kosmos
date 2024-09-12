@@ -1,0 +1,28 @@
+canonicalName: Microsoft Entity Framework 4.1 License
+category: Microsoft Entity Framework
+shortName: ms-entity-framework-4.1
+
+otherIds:
+  - "scancode:ms-entity-framework-4.1"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Microsoft Entity Framework 4.1 License"
+
+evidence:
+  matches:
+    - "You may copy and distribute the object code form of the supplement"
+    - "You may permit distributors of your programs to copy and distribute the Distributable
+       Code as part of those programs"
+    - "Microsoft Corporation (or based on where you live, one of its affiliates) licenses this supplement to you"
+    - "If you are licensed to use Microsoft Windows Operating System software (the 'software'), you may use
+       this supplement"
+    - "You may not use it if you do not have a license for the software"
+    - "You may use this supplement with each validly licensed copy of the software"
+    - "The following license terms describe additional use terms for this supplement"
+    - "These terms and the license terms for the software apply to your use of the supplement"
+    - "If there is a conflict, these supplemental license terms apply"
+
+ignoreMatches:
+  - "MS Entity Framework 5 License"

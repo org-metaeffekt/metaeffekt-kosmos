@@ -1,0 +1,45 @@
+canonicalName: ActiveState Community License
+category: ActiveState Community License
+shortName: ActiveState-Community
+
+otherIds:
+  - "scancode:activestate-community"
+
+alternativeNames:
+  - "ActiveState Community License"
+
+# ActiveState licenses are considered commercial due to conditions that force into a commercial license
+classification: commercial
+
+requiresCopyright: true
+requiresLicenseText: true
+
+evidence:
+  matches:
+    - "The intent of this document is to state the conditions under which the Package may be
+       copied and distributed, such that ActiveState maintains control over the development
+       and distribution of the Package, while allowing the users of the Package to use the
+       Package in a variety of ways"
+    - "You may use this Package for commercial or non-commercial purposes without charge"
+    - "You may make and give away verbatim copies of this Package for personal use, or for
+       use within your organization, provided that you duplicate all of the original copyright
+       notices and associated disclaimers. You may not distribute copies of this Package,
+       or copies of packages derived from this Package, to others outside your organization
+       without specific prior written permission from ActiveState (although you are encouraged
+       to direct them to sources from which they may obtain it for themselves)"
+    - "You may apply bug fixes, portability fixes, and other modifications derived from ActiveState"
+    - "A Package modified in such a way shall still be covered by the terms of this license"
+    - "In addition to the above allowed uses, this license does allow for the redistribution
+       of parts of the Package together with other software code in a wrapped format, including
+       but not limited to a format wrapped with executable generators such as 'py2app' or 'py2exe'"
+    - "However, if you wish to redistribute the complete Package either as a standalone distribution
+       or in a wrapped format, you must obtain written permission from ActiveState"
+    - "ActiveState may charge a fee for such license. To obtain permission for redistribution or
+       clarification regarding your particular intended use of the Package, please contact us"
+    - "ActiveState's name and trademarks may not be used to endorse or promote packages derived from
+       this Package without specific prior written permission from ActiveState"
+
+
+licenseTemplate:
+  "<lq><codeph>THIS PACKAGE IS PROVIDED \"AS IS\" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT 
+  LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE</codeph></lq>"

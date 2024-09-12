@@ -1,0 +1,47 @@
+canonicalName: ICOT Free Software
+category: ICOT Free Software
+shortName: ICOT-Free
+
+otherIds:
+  - "scancode:icot-free"
+
+alternativeNames:
+  - "ICOT Free Software"
+
+evidence:
+  matches:
+    - "The Institute for New Generation Computer Technology ('ICOT')
+       had been promoting the Fifth Generation Computer Systems project under
+       the commitment of the Ministry of International Trade and Industry of
+       Japan (the 'MITI').  Since April 1993, ICOT has been promoting the
+       Follow-on project to the FGCS project. This follow-on project aims to
+       disseminate and further develop FGCS technology. The FGCS project and
+       the Follow-on project (collectively, the 'Project') have been aimed at
+       creating basic technology for novel computers that realizes parallel
+       inference processing as their core mechanism, and contributing toward
+       the progress of computer science by sharing innovative knowledge and
+       technology with the research community worldwide"
+    - "Innovative hardware and software parallel inference technology
+       has been under development through the Project, which involves
+       varieties of advanced software for experiments and evaluation. This
+       software, being at a basic stage of research and development, should
+       be disseminated widely to the research community"
+    - "According to the aims of the Project, ICOT has made this
+       software, the copyright of which does not belong to the government but
+       to ICOT itself, available to the public in order to contribute to the
+       world, and, moreover, has removed all restrictions on its usage that
+       may have impeded further research and development in order that large
+       numbers of researchers can use it freely to begin a new era of
+       computer science"
+    - "This program together with any attached documentation (collec-
+       tively, the 'Program') is being distributed by ICOT free of charge as
+       ICOT Free Software"
+    - "Persons wanting to use the Program ('Users') may freely do so
+       and may also freely modify and copy the Program. The term 'modify,' as
+       used here, includes, but is not limited to, any act to improve or
+       expand the Program for the purposes of enhancing and/or improving its
+       function, performance and/or quality as well as to add one or more
+       programs or documents developed by Users of the Program"
+  excludes:
+    - "A large portion of the dictionary entries originate from ICOT Free Software"
+    - "The following conditions for ICOT Free Software applies to the current dictionary as well"

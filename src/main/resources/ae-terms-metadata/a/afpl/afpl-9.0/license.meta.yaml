@@ -1,0 +1,39 @@
+canonicalName: Aladdin Free Public License 9.0
+category: Aladdin Free Public License
+shortName: Aladdin-9.0
+
+otherIds:
+  - "scancode:afpl-9.0"
+
+alternativeNames:
+  - "http://www.artifex.com/downloads/doc/Public.htm"
+  - "Aladdin Free Public License (Version 9, September 18, 2000)"
+  - "AFPL Ghostscript"
+  - "Thanks to L. Peter Deutsch <ghost@aladdin.com> for making gdevdjet.c and gdevdljm.[ch] available under a dual AFPL/GPL license.txt."
+
+evidence:
+  matches:
+    - "among other things, it places
+       restrictions on distribution of the Program, specifically including sale
+       of the Program"
+    - "While Aladdin Enterprises respects and supports the philosophy
+       of the Open Source Definition, and shares the desire of the GNU project
+       to keep licensed software freely redistributable in both source and object
+       form, we feel that Open Source licenses unfairly prevent developers of
+       useful software from being compensated proportionately when others profit
+       financially from their work"
+    - "Posting the Program on a public access information storage and retrieval
+       service for which a fee is received for retrieving information (such as
+       an on-line service), provided that the fee is not content-dependent (i.e.,
+       the fee would be the same for retrieving the same volume of information
+       consisting of random data) and that access to the service and to the Program
+       is available independent of any other product or service"
+    - "Distributing the Program on removable computer-readable media, provided
+       that the files containing the Program are reproduced entirely and verbatim
+       on such media, that all information on such media be redistributable for
+       non-commercial purposes without charge, and that such media are distributed
+       by themselves (except for accompanying documentation) independent of any
+       other product or service"
+  excludes:
+    - "This License applies to the computer program known as \"Aladdin Ghostscript.\"
+       The \"Program\", below, refers to such program"

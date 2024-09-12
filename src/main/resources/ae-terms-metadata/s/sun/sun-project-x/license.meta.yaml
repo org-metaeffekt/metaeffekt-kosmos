@@ -1,0 +1,53 @@
+canonicalName: Sun Project X
+category: Sun Project X
+shortName: Sun-Project-X
+
+otherIds:
+  - "scancode:sun-project-x"
+
+alternativeNames:
+  - "Java Project X Technology Release 2 Source Software License"
+
+evidence:
+  matches:
+    - "Sun grants Licensee a non-exclusive, non-transferable royalty-free right to use the Software internally for the purposes of evaluation only, except as otherwise permitted in Section 1(B)(2) below"
+    - "Sun grants Licensee a non-exclusive, non-transferable, royalty-free right to reproduce and distribute the Software in binary form only provided that Licensee complies with the following:
+       (i) distribute the Software in binary form only complete and unmodified, only as part of, and for the sole purpose of running Licensee's software program ('Program') into which the Software is incorporated or bundled;
+       (ii) do not remove or alter any proprietary legends or notices contained in the Software;
+       (iii) only distribute the Program subject to a license agreement that protects Sun’s interests consistent with the terms contained herein; and
+       (iv) agree to indemnify, hold harmless, and defend Sun and its licensors from and against any claims or lawsuits, including attorney’s fees, that arise or result from the use or distribution of the Program"
+    - "Licensee may not duplicate the Software in source form other than for a single copy of Software for archival purposes only"
+    - "Licensee agrees to reproduce any copyright and other proprietary right notices on any such copy"
+    - "Except as explicitly provided by this Agreement, Licensee may not rent, lease, loan, sell, or distribute the Software in whole or part, to any third party"
+    - "No right, title, or interest in or to any trademarks, service marks, or trade names of Sun or Sun's licensors is granted hereunder"
+    - "No license to any other Sun intellectual property is granted hereunder"
+    - "Licensee grants to Sun a non-exclusive, unrestricted, perpetual, worldwide, royalty-free license to use any modifications, in source and binary code form, that Licensee makes to the Software that are the original work of Licensee 'Modifications '"
+    - "Licensee will deliver Modifications to Sun upon request"
+    - "Licensee's grant to Sun includes the right to copy, modify, create derivative works from, sublicense and distribute Modifications"
+    - "Licensee will defend and indemnity Sun from all claims of any nature for damages arising out of Sun's use or distribution of Modifications, and will pay all damages and costs awarded by a court of final appeal attributable to such claim"
+    - "LICENSEE ACKNOWLEDGES THAT SOFTWARE IS NOT DESIGNED OR INTENDED FOR USE IN ON-LINE CONTROL OF AIRCRAFT, AIR TRAFFIC, AIRCRAFT NAVIGATION OR AIRCRAFT COMMUNICATIONS; OR IN THE DESIGN, CONSTRUCTION, OPERATION OR MAINTENANCE OF ANY NUCLEAR FACILITY"
+    - "SUN DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR SUCH USES"
+    - "Software As between Sun and Licensee, Sun is and will be the sole and exclusive owner of all right,
+       title and interest in and to the Software and other than the limited rights granted to Licensee in this Agreement,
+       Licensee will not acquire any right, title or interest in the Software"
+    - "Licensee will own Modifications; however, Licensee’ use of the Modifications will be limited solely to Licensee’ internal, noncommercial uses"
+    - "For purposes of this Agreement, 'Confidential Information' means all technical information and any source code or binary code which Sun discloses to Licensee under this Agreement"
+    - "Licensee may not disclose Confidential Information or use it except for the purposes specified in this Agreement"
+    - "Licensee will protect the confidentiality of Confidential Information to the same degree of care, but no less than reasonable care, as Licensee uses to protect its own Confidential Information"
+    - "Licensee's obligations regarding Confidential Information will expire no less than five (5) years from the date of receipt of the Confidential Information, except for Sun source code which will be protected in perpetuity"
+    - "Licensee agrees that the Software contains trade secrets of Sun"
+    - "Notwithstanding any provisions contained in this Agreement concerning nondisclosure and non-use of the Confidential Information, the obligations of Section 3.(A) above will not apply to any portion of Confidential Information that a Licensee can demonstrate in writing is:
+       (i) now, or hereafter through no act or failure to act on the part of Licensee becomes, generally known to the general public;
+       (ii) known to Licensee at the time of receiving the Confidential Information without an obligation of confidentiality;
+       (iii) hereafter rightfully furnished to Licensee by a third party without restriction on disclosure; or
+       (iv) independently developed by Licensee without any use of the Confidential Information"
+    - "Licensee must restrict access to Confidential Information to its employees or contractors with a need for this access to perform their employment or contractual obligations
+       and who have agreed in writing to be bound by a confidentiality obligation which incorporates the protections and restrictions substantially as set forth in this Agreement"
+    - "It is understood and agreed that, notwithstanding any other provision of this Agreement, Licensee's breach of the provisions of Section 3 of this Agreement will cause Sun irreparable damage for which recovery of money damages
+       would be inadequate, and that Sun will therefore be entitled to seek timely injunctive relief to protect Sun’s rights under this Agreement in addition to any and all remedies available at law"
+    - "The Agreement is effective until terminated"
+    - "Either party may terminate this Agreement upon ten (10) days; written notice to the other party"
+    - "However, Sun may terminate this Agreement immediately should any Software become, or in Sun’s opinion be likely to become, the subject of a claim of infringement of a patent, trade secret or copyright"
+    - "Sun may terminate this Agreement immediately should Licensee materially breach any of its provisions or take any action in derogation of Sun's rights to the Confidential Information licensed to Licensee"
+    - "Upon termination or expiration of this Agreement, Licensee will immediately cease use and destroy the Software and any copies thereof and provide Sun a written statement certifying that Licensee has complied with the foregoing obligations"
+    - "Rights and obligations under this Agreement which by their nature should survive, will remain in effect after termination or expiration hereof"

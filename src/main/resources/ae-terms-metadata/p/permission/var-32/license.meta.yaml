@@ -1,0 +1,60 @@
+canonicalName: Permission Terms (Pbmplus)
+category: Permission
+spdxIdentifier: HPND-Pbmplus
+#license texts are different on scancode/spdx - we use the spdx version since it includes the copyright
+
+status:
+  - "reviewed 12.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+displayName: "Permission Terms (no warranty)"
+representedAs: Permission Terms
+
+otherIds:
+  - "scancode:hpnd-pbmplus"
+
+canonicalNameHistory:
+  - "Permission Terms Var032"
+  - "Open Group Permissions"
+  - "Permission Terms (variant 032)"
+
+alternativeNames:
+  - "Open Group Permissions"
+  - "Permission Terms (variant 032)"
+  - "HPND-Pbmplus"
+  - "Historical Permission Notice and Disclaimer - Pbmplus variant"
+  - "Historical Permission Notice and Disclaimer (Pbmplus)"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software and
+       its documentation for any purpose and without fee is hereby granted,
+       provided that the above copyright notice appear in all copies and
+       that both that copyright notice and this permission notice appear in
+       supporting documentation"
+    - "This software is provided \"as is\" without express or implied warranty"
+  excludes:
+    - "makes no representations about the suitability of this software for any purpose"
+    - "and that the name of * not be used in advertising or publicity pertaining to
+       distribution of the software without specific, written prior permission"
+    - "and that the name of Silicon Graphics not be used in advertising or publicity
+       pertaining to distribution of the software without specific prior written permission"
+    - "THE AUTHOR PROVIDES THIS SOFTWARE ``AS IS'' AND ANY EXPRESSED OR
+       IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+       OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+    - "DIGITAL DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING
+       ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS"
+    - "M.I.T. and the M.I.T. S.I.P.B. make no representations about the suitability of
+       this software for any purpose"
+    - "DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+       SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+       AND FITNESS FOR A PARTICULAR PURPOSE"
+    - "Funded under Grant P41-RR02188 by the National
+       Institutes of Health"
+
+licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this software and its documentation for any purpose 
+                  and without fee is hereby granted, provided that the above copyright notice appear in all copies and
+                  that both that copyright notice and this permission notice appear in supporting documentation.<p/> 
+                  This software is provided \"as is\" without express or implied warranty.</lq>"

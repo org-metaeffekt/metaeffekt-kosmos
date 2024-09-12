@@ -1,0 +1,32 @@
+canonicalName: Creative Commons BY-NC-SA 2.0 (UK)
+category: CC-BY-NC-SA
+spdxIdentifier: CC-BY-NC-SA-2.0-UK
+
+otherIds:
+  - "scancode:cc-by-nc-sa-2.0-uk"
+
+representedAs: Creative Commons BY-NC-SA 2.0
+
+canonicalNameHistory:
+  - "Creative Commons BY-NC-SA 2.0 (England; Wales)"
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales"
+  - "https://creativecommons.org/licenses/by-nc-sa/2.0/uk/legalcode"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "The Licensor hereby grants to You a worldwide, royalty-free, non-exclusive, Licence for Non-Commercial use and
+       for the duration of copyright in the Work"
+    - "'Non-Commercial' means 'not primarily intended for or directed towards commercial advantage or private monetary compensation'"
+    - "The exchange of the Work for other copyrighted works by means of digital file-sharing or otherwise shall not be
+       considered to be intended for or directed towards commercial advantage or private monetary compensation, provided
+       there is no payment of any monetary compensation in connection with the exchange of copyrighted works"
+    - "The rights granted to You under this Licence shall terminate automatically upon any breach by You of the
+       terms of this Licence"
+    - "Individuals or entities who have received Collective Works from You under this Licence, however, will not have
+       their Licences terminated provided such individuals or entities remain in full compliance with those Licences"

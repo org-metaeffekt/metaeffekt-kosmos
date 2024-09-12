@@ -1,0 +1,28 @@
+canonicalName: Linking Exception (GPL; variant 019)
+category: GLP Linkin Exception
+shortName: Linkin-Exception-GPL-019
+
+type: exception
+
+canonicalNameHistory:
+  - "SANE Exception 2.0"
+
+otherIds:
+  - "scancode:gpl-2.0-plus-sane"
+
+alternativeNames:
+  - "SANE Exception 2.0"
+
+evidence:
+  matches:
+    - "The exception is that, if you link a SANE library with other files
+       to produce an executable, this does not by itself cause the
+       resulting executable to be covered by the GNU General Public
+       License.  Your use of that executable is in no way restricted on
+       account of linking the SANE library code into it"
+    - "This exception does not, however, invalidate any other reasons why
+       the executable file might be covered by the GNU General Public
+       License"
+    - "This exception does not, however, invalidate any other reasons why
+       the executable file might be covered by the GNU General Public
+       License"

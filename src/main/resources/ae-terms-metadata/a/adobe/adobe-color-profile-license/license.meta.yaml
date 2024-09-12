@@ -1,0 +1,27 @@
+canonicalName: Adobe Color Profile License Agreement
+category: Adobe Color Profile
+shortName: Adobe-Color-Profile
+
+otherIds:
+  - "scancode:adobe-color-profile-license"
+
+alternativeNames:
+  - "Adobe Color Profile License agreement"
+
+canonicalNameHistory:
+  - "Adobe Color Profile License agreement"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, Adobe hereby grants you the worldwide, non-exclusive, nontransferable,
+       royalty-free license to use, reproduce, and publicly display the Software. Adobe also grants you the rights to
+       distribute the Software only (a) as embedded within digital image files and (b) on a standalone basis"
+    - "Adobe is under no obligation to provide any support under this Agreement, including upgrades or future versions
+       of the Software or other items"
+    - "No title to the intellectual property in the Software is transferred to you under the terms of this Agreement"
+    - "You do not acquire any rights to the Software except as expressly set forth in this Agreement"
+    - "This Agreement is effective until terminated"
+    - "Adobe has the right to terminate this Agreement immediately if you fail to comply with any term hereof"
+    - "Upon any such termination, you must return to Adobe all full and partial copies of the Software in your possession or control"
+  excludes:
+    - "ADOBE SYSTEMS INCORPORATED COLOR PROFILE BUNDLING AGREEMENT"

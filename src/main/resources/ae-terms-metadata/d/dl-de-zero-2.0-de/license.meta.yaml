@@ -1,0 +1,28 @@
+canonicalName: Data Licence Germany Zero 2.0 (DE)
+category: DL-DE-ZERO-2.0
+spdxIdentifier: DL-DE-ZERO-2.0
+
+otherIds:
+  - "scancode:dl-de-zero-2.0"
+
+canonicalNameHistory:
+  - "Data licence Germany – zero – version 2.0"
+  - "Data licence Germany – zero – 2.0"
+
+alternativeNames:
+  - "DL-DE-ZERO-2.0"
+  - "Data licence Germany – zero – version 2.0"
+  - "Data licence Germany – zero – 2.0"
+
+evidence:
+  matches:
+    - "Jede Nutzung ist ohne Einschränkungen oder Bedingungen zulässig"
+    - "Die bereitgestellten Daten und Metadaten dürfen für die kommerzielle
+       und nicht kommerzielle Nutzung insbesondere"
+    - "vervielfältigt, ausgedruckt, präsentiert, verändert, bearbeitet sowie an
+       Dritte übermittelt werden"
+    - "mit eigenen Daten und Daten Anderer zusammengeführt und zu selbständigen
+       neuen Datensätzen verbunden werden"
+    - "in interne und externe Geschäftsprozesse, Produkte und Anwendungen in öffentlichen
+       und nicht öffentlichen elektronischen Netzwerken eingebunden werden"
+

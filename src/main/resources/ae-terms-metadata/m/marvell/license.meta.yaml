@@ -1,0 +1,24 @@
+canonicalName: Marvell License
+category: Marvell
+shortName: Marvell
+
+otherIds:
+  - "scancode:marvell-firmware-2019"
+
+alternativeNames:
+  - "Marvell Licence"
+  - "Marvell License"
+  - "Marvell Permission"
+  - "Marvell Terms"
+
+evidence:
+  matches:
+  - "Redistributions must reproduce the above copyright notice, this list of
+     conditions and the following disclaimer in the documentation and/or other
+     materials provided with the distribution"
+  - "Redistribution and use shall be used only with * products"
+  - "Any other use, reproduction, modification, translation, or compilation of the
+     Software is prohibited"
+  - "No reverse engineering, decompilation, or disassembly is permitted"
+  excludes:
+    - "NXP B.V., ITS AFFILIATES AND THEIR SUPPLIERS DISCLAIM ANY WARRANTY THAT THE DELIVERABLES WILL OPERATE WITHOUT INTERRUPTION OR BE ERROR-FREE"

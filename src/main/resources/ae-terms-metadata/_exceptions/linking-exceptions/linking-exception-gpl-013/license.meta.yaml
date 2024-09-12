@@ -1,0 +1,48 @@
+canonicalName: Linking Exception (GPL; variant 013)
+category: GPL Linking Exception
+spdxIdentifier: freertos-exception-2.0
+shortName: Linking-Exception-GPL-013
+
+canonicalNameHistory:
+  - "FreeRTOS Exception 2.0"
+
+otherIds:
+  - "scancode:freertos-exception-2.0"
+
+type: exception
+
+alternativeNames:
+  - "freertos exception, Version 2.0"
+  - "freertos exception, 2.0"
+  - "freertos exception 2.0"
+  - "freertos-exception, Version 2.0"
+  - "freertos-exception, 2.0"
+  - "freertos-exception 2.0"
+  - "FreeRTOS"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 013))
+
+evidence:
+  matches:
+    - "Linking FreeRTOS statically or dynamically with other modules is making a combined work based on FreeRTOS"
+    - "As a special exception, the copyright holder of FreeRTOS gives you permission to link FreeRTOS with independent
+       modules that communicate with FreeRTOS solely through the FreeRTOS API interface, regardless of the license terms
+       of these independent modules, and to copy and distribute the resulting combined work under terms of your choice,
+       provided that"
+    - "Every copy of the combined work is accompanied by a written statement that details to the recipient the version
+       of FreeRTOS used and an offer by yourself to provide the FreeRTOS source code (including any modifications you may
+       have made) should the recipient request it"
+    - "The combined work is not itself an RTOS, scheduler, kernel or related product"
+  excludes:
+    - "Iot: This release adds support to create a Stream and Code signing for Amazon FreeRTOS job"
+    - "Operating Systems
+
+       AIX, AmigaOS, Android, Aros, BeOS, Blackberry 10, Blackberry Tablet OS, Cell
+       OS, ChromeOS, Cisco IOS, Cygwin, Dragonfly BSD, eCOS, FreeBSD, FreeDOS,
+       FreeRTOS"
+
+references:
+  "GPL":
+    matches:
+      - "Thus, the terms and conditions of the GNU General Public License cover the whole combination"

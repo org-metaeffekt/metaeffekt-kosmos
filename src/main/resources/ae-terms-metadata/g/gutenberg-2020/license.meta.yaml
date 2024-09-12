@@ -1,0 +1,26 @@
+canonicalName: Project Gutenberg License 2020
+category: Project Gutenberg License
+shortName: Gutenberg-2020
+
+otherIds:
+  - "scancode:gutenberg-2020"
+
+alternativeNames:
+  - "Project Gutenberg License 2020"
+  - "THE FULL PROJECT GUTENBERG LICENSE"
+
+evidence:
+  matches:
+    - "Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files
+       containing a part of this work or any other work associated with Project Gutenberg-tm"
+    - "Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic
+       work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate
+       access to the full terms of the Project Gutenberg-tm License"
+    - "Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project
+       Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9"
+    
+references:
+  "Public Domain":
+    matches:
+      - "Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment"
+      - "Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying"

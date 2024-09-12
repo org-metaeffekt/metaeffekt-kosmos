@@ -1,0 +1,23 @@
+canonicalName: Business Source License 1.0
+category: Business Source License
+shortName: Business-Source-1.0
+
+otherIds:
+  - "scancode:bsl-1.0"
+
+evidence:
+  matches:
+    - "Subject to the Use Limitation, Licensor grants you a non-exclusive, worldwide (subject to applicable laws) license to copy, modify, display, use, create derivative works, and redistribute the Software until the Change Date"
+    - "After the Change Date, this Business Source License will convert to the Change License and your use of the Software, including modified versions of the Software, will be governed by such Change License"
+    - "You must conspicuously display this Business Source License on each original or modified copy of the Software"
+  excludes:
+    - "Effective on the Change Date, or the fourth anniversary of the first publicly
+       available distribution of a specific version of the Licensed Work under this
+       License, whichever comes first, the Licensor hereby grants you rights under the
+       terms of the Change License, and the rights granted in the paragraph above
+       terminate"
+
+references:
+  "GPL":
+    matches:
+      - "Change License:  Version 2 or later of the GNU General Public License as published by the Free Software Foundation"

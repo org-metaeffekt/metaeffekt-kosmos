@@ -1,0 +1,29 @@
+canonicalName: Cooperative Non-Violent Public License 4.0
+category: Cooperative Non-Violent Public License
+shortName: Cooperative-Non-Violent-4.0
+
+otherIds:
+  - "scancode:cooperative-non-violent-4.0"
+
+alternativeNames:
+  - "COOPERATIVE NON-VIOLENT PUBLIC LICENSE v4"
+  - "https://thufie.lain.haus/NPL.html"
+
+evidence:
+  matches:
+    - "The Cooperative Non-Violent Public license is a freedom-respecting sharealike
+       license for both the author of a work as well as those subject to a work"
+    - "It aims to protect the basic rights of human beings from exploitation,
+       the earth from plunder, and the equal treatment of the workers involved in the
+       creation of the work"
+    - "It aims to ensure a copyrighted work is forever available for public use, modification,
+       and redistribution under the same terms so long as the work is not used for harm"
+    - "For more information about the CNPL refer to the official webpage"
+    - "The Cooperative Non-Violent Public license is a freedom-respecting sharealike
+       license for both the author of a work as well as those subject to a work"
+  excludes:
+    - "The Non-Violent Public license is a freedom-respecting sharealike license
+       for both the author of a work as well as those subject to a work"
+    - "In addition, where the Work is designed to output  a neural network
+       the output of the neural network will be considered an
+       Adaptation for the purpose of this license"

@@ -1,0 +1,47 @@
+canonicalName: BSD 3-Clause License (Reading Godiva 2010)
+category: BSD
+shortName: BSD-3-Clause-Reading-Godiva-2010
+
+otherIds:
+  - "scancode:reading-godiva-2010"
+
+requiresCopyright: true
+requiresLicenseText: true
+representedAs: BSD 3-Clause License
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met"
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Neither the name of the University of Reading, nor the names of the authors or contributors may be used to endorse or promote products derived from this software without specific prior written permission"
+    - "If you wish to use, with or without modification, the Godiva web interface, the logo of the Reading e-Science Centre must be retained on the web page"
+    - "THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+    - "IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES"
+
+licenseTemplate:
+  "<lq><ol>Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions
+   are met:
+   <li>1. Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.</li>
+   <li>2. Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.</li>
+   <li>3. Neither the name of the University of Reading, nor the names of the
+      authors or contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.</li>
+   <li>4. If you wish to use, with or without modification, the Godiva web
+      interface, the logo of the Reading e-Science Centre must be retained
+      on the web page.</li></ol>
+
+   <p><codeph>THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+   IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+   OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+   INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+   NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+   DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+   THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+   (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+   THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></p></lq>"

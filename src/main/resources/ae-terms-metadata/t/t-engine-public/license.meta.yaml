@@ -1,0 +1,15 @@
+canonicalName: T-Engine Public License
+category: T-Engine
+shortName: T-Engine-Public
+
+otherIds:
+  - "scancode:t-engine-public"
+
+
+evidence:
+  matches:
+    - "This License Agreement sets forth copyrights and the terms and conditions of use applicable to the software program, which has an indication that the program is subject to the T-Engine Public License, for the T-Engine distributed by T-Engine Forum and any derivative work created therefrom"
+    - "The copyrights of the Source Code shall be owned by T-Engine Forum"
+    - "The Source Code User shall not be obligated to give a copyright notice of the Source Code or a notice that the Source Code is licensed by T-Engine Forum, when they use the Source Code or the Binary Code of program obtained by modifying the Source Code, or make the Binary Code available to the End User on the Embedded Product"
+    - "T-Engine Forum does not warrant that the Source Code does not infringe upon third party's copyrights"
+    - "Neither T-Engine Forum nor the copyright holder of the Source Code shall be liable for any damages (including, but not limited to, damages resulting from loss of profit, business interruption, loss of business information or any other pecuniary damage) arising out of use or impossibility of use of the Source Code, even if T-Engine Forum and the copyright holder have been informed of the possibility of such damages"

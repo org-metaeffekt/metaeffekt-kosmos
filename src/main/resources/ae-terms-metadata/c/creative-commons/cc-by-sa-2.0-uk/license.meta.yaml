@@ -1,0 +1,32 @@
+canonicalName: Creative Commons BY-SA 2.0 (UK)
+category: CC-BY-SA
+spdxIdentifier: CC-BY-SA-2.0-UK
+
+representedAs: Creative Commons BY-SA 2.0
+
+canonicalNameHistory:
+  - "Creative Commons BY SA 2.0 (UK)"
+
+otherIds:
+  - "scancode:cc-by-sa-2.0-uk"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "This Creative Commons England and Wales Public Licence enables You (all capitalised terms defined below) to
+       view, edit, modify, translate and distribute Works worldwide, under the terms of this licence, provided that
+       You credit the Original Author"
+    - "impose any terms on the use to be made of the Work, the Derivative Work or the Work as incorporated in a
+       Collective Work that alter or restrict the terms of this Licence or any rights granted under it or has the
+       effect or intent of restricting the ability to exercise those rights"
+    - "impose any digital rights management technology on the Work or the Work as incorporated in a Collective Work
+       that alters or restricts the terms of this Licence or any rights granted under it or has the effect or intent
+       of restricting the ability to exercise those rights"
+  excludes:
+    - "'Non-Commercial' means 'not primarily intended for or directed towards commercial advantage or private monetary compensation'"
+    - "The exchange of the Work for other copyrighted works by means of digital file-sharing or otherwise shall not be
+       considered to be intended for or directed towards commercial advantage or private monetary compensation, provided
+       there is no payment of any monetary compensation in connection with the exchange of copyrighted works"

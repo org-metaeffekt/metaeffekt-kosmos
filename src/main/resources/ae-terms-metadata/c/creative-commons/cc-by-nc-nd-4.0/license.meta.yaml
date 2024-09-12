@@ -1,0 +1,34 @@
+canonicalName: Creative Commons BY-NC-ND 4.0
+category: CC-BY-NC-ND
+spdxIdentifier: CC-BY-NC-ND-4.0
+
+otherIds:
+  - "scancode:cc-by-nc-nd-4.0"
+
+canonicalNameHistory:
+  - "Creative Commons BY-NC-ND 4.0 (international)"
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+  - "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International"
+  - "CC-BY-NC-ND-4.0"
+  - "Creative Commons BY-NC-ND 4.0"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "The term of this Public License is specified in Section 6(a)"
+    - "retain the following if it is supplied by the Licensor with the Licensed
+       Material"
+    - "identification of the creator(s) of the Licensed Material and any others
+       designated to receive attribution, in any reasonable manner requested by the
+       Licensor (including by pseudonym if designated)"
+    - "indicate if You modified the Licensed Material and retain an indication
+       of any previous modifications"
+    - "For the avoidance of doubt, You do not have permission under this Public License
+       to Share Adapted Material"
+    - "NonCommercial means not primarily intended for or directed towards commercial
+       advantage or monetary compensation"

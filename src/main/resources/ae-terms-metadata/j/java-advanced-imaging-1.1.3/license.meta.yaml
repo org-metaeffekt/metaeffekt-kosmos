@@ -1,0 +1,34 @@
+canonicalName: Java Advanced Imaging 1.1.3
+category: Java Advanced Imaging
+shortName: JAI
+
+# FIXME-CONCEPT: scancode has generalized this license; JAI being only one incarnation
+otherIds:
+  - "scancode:sun-bcl-11-08"
+
+alternativeNames:
+  - "Java Advance Imaging (JAI) License"
+  - "JAVA ADVANCED IMAGING API, VERSION 1.1.3"
+
+evidence:
+  matches:
+    - "you may not make copies of Software, other than a single copy of Software for archival purposes"
+    - "you may not modify, decompile, or reverse engineer Software"
+    - "You may terminate this Agreement at any time by destroying all copies of Software"
+    - "Upon Termination, you must destroy all copies of Software"
+    - "You may not modify the Java Platform Interface (JPI, identified as classes contained within the java package or
+       any subpackages of the java package), by creating additional classes within the JPI or otherwise causing the
+       addition to or modification of the classes in the JPI"
+    - "In addition to the license granted in Section 1 (Software Internal Use and Development License Grant) of these
+       Supplemental Terms, subject to the terms and conditions of this Agreement, including but not limited to,
+       Section 3 (Java Technology Restrictions) of these Supplemental Terms, Sun grants you a non-exclusive,
+       non-transferable, limited license to reproduce and distribute the Software in binary code form only, provided
+       that you (i) distribute the Software complete and unmodified and only bundled as part of your Programs, (ii) do
+       not distribute additional software intended to replace any component(s) of the Software, (iii) do not remove or
+       alter any proprietary legends or notices contained in the Software, (iv) only distribute the Software subject
+       to a license agreement that protects Sun's interests consistent with the terms contained in this Agreement,
+       and (v) agree to defend and indemnify Sun and its licensors from and against any damages, costs, liabilities,
+       settlement amounts and/or expenses (including attorneys' fees) incurred in connection with any claim, lawsuit
+       or action by any third party that arises or results from the use or distribution of any and all Programs and/or
+       Software"
+    - "Refer to the appropriate version of the Java Runtime Environment binary code license"

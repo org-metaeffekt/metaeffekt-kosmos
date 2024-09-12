@@ -1,0 +1,22 @@
+canonicalName: LibMib License
+category: LibMib License
+shortName: LibMib
+
+otherIds:
+  - "scancode:libmib"
+
+alternativeNames:
+  - "LibMib License"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of charge, to any person obtaining a copy of this software (the 'Software'),
+       to deal in the Software without restriction, including the rights to use, copy, modify, merge,publish, distribute,
+       sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,subject to the following conditions"
+    - "The above copyright notice and this permission notice shall be included in the source code of all copies or substantial portions of the Software"
+    - "Modifications to the Software may be created"
+    - "Unless other licensing agreements are made in writing, these conditions apply when distributing source code"
+    - "When source code of the Software is distributed, it shall be in its 'pristine', unmodified form"
+    - "Modifications to the Software which are distributed as source code shall be distributed only as 'patch files'"
+    - "Modified works that are distributed shall be named differently than the original"
+    - "Contact the author to arrange other terms"

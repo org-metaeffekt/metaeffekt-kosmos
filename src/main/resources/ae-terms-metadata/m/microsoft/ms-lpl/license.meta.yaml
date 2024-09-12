@@ -1,0 +1,17 @@
+canonicalName: Microsoft Limited Public License
+category: MS-LPL
+spdxIdentifier: MS-LPL
+
+otherIds:
+  - "scancode:ms-lpl"
+
+canonicalNameHistory:
+  - "Microsoft LimitedPublic License"
+
+evidence:
+  matches:
+    - "Platform Limitation- The licenses granted in sections 2(A) & 2(B) extend only to the software or derivative works that you create that run on a Microsoft Windows operating system product"
+    - "Patent Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works of the contribution in the software"
+    - "Copyright Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create"
+  excludes:
+    - "Microsoft may provide you with Microsoft Software through or as a part of the Developer Services"

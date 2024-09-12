@@ -1,0 +1,29 @@
+canonicalName: FreeImage Public License 1.0
+category: FreeImage
+spdxIdentifier: FreeImage
+
+otherIds:
+  - "scancode:freeimage-1.0"
+
+alternativeNames:
+  - "FreeImage Public License - Version 1.0"
+  - "FreeImage Public License Version 1.0"
+  - "FreeImage Public License v1.0"
+  - "FreeImage License"
+  - "FREEIMAGE PUBLIC LICENSE"
+  - "FREEIMAGE Public License"
+  - "FreeImage Public License"
+  - "FREEIMAGE Public LICENSE"
+
+evidence:
+  matches:
+    - "No one other than Floris van den Berg has the right to modify the terms applicable
+       to Covered Code created under this License"
+    - "If you create or use a modified version of this License (which you may only
+       do in order to apply it to code which is not already Covered Code governed
+       by this License), you must (a) rename Your license so that the phrases FreeImage,
+       FreeImage Public License, FIPL, or any confusingly similar phrase do not
+       appear anywhere in your license and (b) otherwise make it clear that your
+       version of the license contains terms which differ from the FreeImage Public
+       License"
+    - "This License shall be governed by Dutch law provisions"

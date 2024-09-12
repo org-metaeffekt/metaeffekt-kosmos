@@ -1,0 +1,29 @@
+canonicalName: Sencha Commercial License 1.11
+category: Sencha Commercial
+shortName: Sencha-Commercial-1.1
+
+otherIds:
+  - "scancode:sencha-commercial"
+
+alternativeNames:
+  - "Sencha Commercial License Version 1.11"
+  - "Sencha Commercial 1.11"
+
+evidence:
+  matches:
+    - "We reserve ownership of all intellectual property rights inherent in or relating to the Software, which include, but are not limited to, all copyright, patent rights, all rights in relation to registered and unregistered trademarks"
+    - "Subject to the payment of the fee required and subject to the terms and conditions of this License Agreement, We grant to You a revocable, non- transferable and non-exclusive license (i) for Designated User(s) (as defined below) within Your organization to install and use the Software on any workstations used exclusively by such Designated User(s)"
+    - "You may distribute the Software in any applications, frameworks, or elements (collectively referred to as an \"Application\" or \"Applications\") that you develop using the Software in accordance with this License Agreement, provided that such distribution does not violate the restrictions set forth in Section 4 of this License Agreement"
+    - "You may not, without Our prior written consent, redistribute the Software or Modifications other than by including the Software or a portion thereof within Your own product"
+    - "This License Agreement and Your right to use the Software and Modifications will terminate immediately without notice if You fail to comply with the terms and conditions of this License Agreement"
+    - "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE AND OUR SUPPLIERS DISCLAIM ALL WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND TITLE AND NON-INFRINGEMENT, WITH REGARD TO THE SOFTWARE. WE DO NOT GUARANTEE THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, AND YOU ACKNOWLEDGE THAT IT IS NOT TECHNICALLY PRACTICABLE FOR US TO DO SO"
+    - "If credit has been extended to You by Us, all payments under this License Agreement are due within thirty (30) days of the date We mail an invoice to You"
+
+references: 
+  "GPL":
+    matches:
+      - "You are not allowed to redistribute any part of the Software documentation. You may not change or remove the copyright notice from any of the files included in the Software or Modifications.
+
+         UNDER NO CIRCUMSTANCES MAY YOU USE THE SOFTWARE FOR A PRODUCT THAT IS INTENDED FOR SOFTWARE OR APPLICATION DEVELOPMENT PURPOSES.
+
+         The Open Source version of the Software (\"GPL Version\") is licensed under the terms of the GNU General Public License versions 3.0 (\"GPL\") and not under this License Agreement. If You, or another third party, has, at any time, developed all (or any portions of) the Application(s) using the GPL Version, You may not combine such development work with the Software and must license such Application(s) (or any portions derived there from) under the terms of the GNU General Public License version 3"

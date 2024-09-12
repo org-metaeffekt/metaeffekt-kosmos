@@ -1,0 +1,42 @@
+canonicalName: Redistribution Terms (Furuseth)
+category: RT
+spdxIdentifier: Furuseth
+
+otherIds:
+  - "scancode:furuseth"
+
+canonicalNameHistory:
+  - "Redistribution Terms Var018"
+  - "Redistribution Terms (variant 018)"
+  - "Furuseth License"
+
+alternativeNames:
+  - "Redistribution Terms (variant 018)"
+  - "Redistribution Terms (Furuseth)"
+  - "Furuseth License"
+
+representedAs: "Redistribution Terms"
+
+displayName: "Redistribution Terms (no advertising; no warranty)"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that this notice is preserved"
+    - "The names of the copyright holders may not be used to endorse or
+       promote products derived from this software without their specific
+       prior written permission"
+    - "This software is provided as is without express or implied warranty"
+  excludes:
+    - "Redistributions of source code must retain the above copyright notice, this
+       list of conditions and the following disclaimer"
+    - "Permission to use, copy,
+       modify, and distribute this software and its documentation for any
+       purpose and without fee is hereby granted, without any conditions or
+       restrictions"
+    - "You may make and give away verbatim copies of the source form of the Standard
+       Version of this Package without restriction, provided that you duplicate all
+       of the original copyright notices and associated disclaimers"
+    - "Redistribution and use in source and binary forms are permitted
+       provided that this notice is preserved and that due credit is given
+       to the University of Michigan at Ann Arbor"

@@ -1,0 +1,16 @@
+canonicalName: Sun Binary Code License J2RE 1.4.X
+category: Sun Binary
+shortName: Sun-BCL-J2RE-1.4.X
+
+otherIds:
+  - "scancode:sun-bcl-j2re-1.4.x"
+
+evidence:
+  matches:
+    - "Sun grants you a non-exclusive and non-transferable license for the internal use only of the accompanying software and documentation and any error corrections provided by Sun"
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"
+    - "Except as specifically authorized in any Supplemental License Terms, you may not make copies of Software, other than a single copy of Software for archival purposes"
+    - "You may terminate this Agreement at any time by destroying all copies of Software"
+    - "of these Supplemental Terms, Sun grants you a non-exclusive, non-transferable, limited license to reproduce internally and use internally the binary form of the Software complete and unmodified for the sole purpose of designing, developing and testing your Java applets and applications intended to run on the Java platform"
+    - "You acknowledge that, by your use of the Software and/or by requesting services that require use of the Software, the Software may automatically download, install, and execute software applications from sources other than Sun"
+    - "Software may contain source code that is provided solely for reference purposes pursuant to the terms of this Agreement"

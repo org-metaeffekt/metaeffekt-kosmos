@@ -1,0 +1,20 @@
+canonicalName: Polyform Strict License 1.0.0
+category: Polyform Strict License
+shortName: Polyform-Strict-1.0.0
+
+otherIds:
+  - "scancode:polyform-strict-1.0.0"
+
+alternativeNames:
+  - "polyform-strict-1.0.0"
+
+evidence:
+  matches:
+    - "The licensor grants you a copyright license for the software
+       to do everything you might do with the software that would
+       otherwise infringe the licensor's copyright in it for any
+       permitted purpose, other than distributing the software or
+       making changes or new works based on the software"
+    - "Any noncommercial purpose is a permitted purpose"
+    - "You may have 'fair use' rights for the software under the law"
+

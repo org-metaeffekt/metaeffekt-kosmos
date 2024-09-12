@@ -1,0 +1,40 @@
+canonicalName: Artistic License 1.0 (cl8)
+category: Artistic License
+spdxIdentifier: Artistic-1.0-cl8
+
+otherIds:
+  - "scancode:artistic-1.0-cl8"
+  - "osi:Artistic-1.0-Perl"
+
+alternativeNames:
+  - "Artistic 1.0, Version cl8"
+  - "Artistic 1.0, cl8"
+  - "Artistic 1.0 cl8"
+  - "Artistic-1.0, Version cl8"
+  - "Artistic-1.0, cl8"
+  - "Artistic-1.0 cl8"
+  - "Artistic 1.0 License, Version cl8"
+  - "Artistic 1.0 License, cl8"
+  - "Artistic 1.0 License cl8"
+  - "Artistic-1.0 License, Version cl8"
+  - "Artistic-1.0 License, cl8"
+  - "Artistic-1.0 License cl8"
+
+evidence:
+  matches:
+    - "The scripts and library files supplied as input to or produced as output
+       from the programs of this Package do not automatically fall under the copyright
+       of this Package, but belong to whomever generated them, and may be sold commercially,
+       and may be aggregated with this Package"
+    - "C or perl subroutines supplied by you and linked into this Package shall
+       not be considered part of this Package"
+    - "Aggregation of this Package with a commercial distribution is always permitted
+       provided that the use of this Package is embedded; that is, when no overt
+       attempt is made to make this Package's interfaces visible to the end user
+       of the commercial distribution. Such use shall not be construed as a distribution
+       of this Package"
+  excludes:
+    - "You may embed this Package's interpreter
+       within an executable of yours (by linking); this shall be construed as a mere
+       form of aggregation, provided that the complete Standard Version of the interpreter
+       is so embedded"

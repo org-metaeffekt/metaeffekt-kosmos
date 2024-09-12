@@ -1,0 +1,74 @@
+canonicalName: SGI CID Font Code Public License 1.0
+category: SGI CID Font Code Public License
+shortName: SGI-CID-1.0
+
+canonicalNameHistory:
+  - "CID Font Code Public License 1.0"
+
+otherIds:
+  - "scancode:sgi-cid-1.0"
+
+alternativeNames:
+  - "http://www.xfree86.org/current/LICENSE10.html"
+  - "CID FONT CODE PUBLIC LICENSE Version 1.0 3/31/99"
+  - "CID Font Code Public License 1.0"
+  - "CID FONT CODE PUBLIC LICENSE (Version 1.0 (3/31/99))('License')"
+  - "CID Font Code Public License"
+
+evidence:
+  matches:
+    - "All distribution of the Subject Software must be made subject to the terms of this License"
+    - "A copy of this License and the Required
+       Notice must be included in any documentation for Subject Software where
+       Recipient's rights relating to Subject Software and/or any Accompanying Technology are described"
+    - "Distributions of Subject Software in source code form
+       must also include the Required Notice in every file distributed"
+    - "In addition, a ReadMe file entitled 'Important Legal Notice' must be distributed with each
+       distribution of one or more files that incorporate Subject Software"
+    - "That file must be included with distributions made in both source code and executable form"
+    - "A copy of the License and the Required Notice must be included in that file"
+    - "Recipient may distribute Accompanying Technology under a
+       license of Recipient's choice, which may contain terms different from this
+       License, provided that (i) Recipient is in compliance with the terms of this
+       License, (ii) such other license terms do not modify or supersede the terms
+       of this License as applicable to the Subject Software, (iii) Recipient hereby
+       indemnifies SGI for any liability incurred by SGI as a result of the distri-
+       bution of Accompanying Technology or the use of other license terms"
+    - "This License and the rights granted hereunder will terminate
+       automatically if Recipient fails to comply with terms herein and fails to
+       cure such breach within 30 days of the breach. Any sublicense to the Subject
+       Software that is properly granted shall survive any termination of this
+       License absent termination by the terms of such sublicense"
+    - "Provisions which, by their nature, must remain in effect beyond the termination of this License shall survive"
+    - "This License does not grant any rights to use any trade
+       name, trademark or service mark whatsoever. No trade name, trademark or ser-
+       vice mark of SGI may be used to endorse or promote products derived from or
+       incorporating any Subject Software without prior written permission of SGI"
+    - "No rights or licenses not expressly granted hereunder
+       shall arise by implication, estoppel or otherwise"
+    - "Title to and ownership of the Original Software at all times remains with SGI"
+    - "All rights in the Original Software not expressly granted under this License are reserved"
+    - "Recipient shall comply with all applicable laws and regulations in connection with use and distribution of
+       the Subject Software, including but not limited to, all export and import
+       control laws and regulations of the U.S. government and other countries"
+    - "Recipient may not distribute Subject Software that (i) in any way infringes
+       (directly or contributorily) the rights (including patent, copyright, trade
+       secret, trademark or other intellectual property rights of any kind) of any
+       other person or entity, or (ii) breaches any representation or warranty,
+       express, implied or statutory, which under any applicable law it might be deemed to have been distributed"
+    - "If Recipient at any time has knowledge of any one
+       or more third party claims that reproduction, modification, use, distribution,
+       import or sale of Subject Software (including particular functionality
+       or code incorporated in Subject Software) infringes the third party's intellectual property rights,
+       Recipient must place in a well-identified web page
+       bearing the title 'LEGAL' a description of each such claim and a description
+       of the party making each such claim in sufficient detail that a user of the
+       Subject Software will know whom to contact regarding the claim"
+    - "Also, upon gaining such knowledge of any such claim, Recipient must conspicuously
+       include the URL for such web page in the Required Notice, and in the text of
+       any related documentation, license agreement or collateral in which Recipient
+       describes end user's rights relating to the Subject Software"
+    - "If Recipient obtains such knowledge after it makes Subject Software available to any other
+       person or entity, Recipient shall take other steps (such as notifying appro-
+       priate mailing lists or newsgroups) reasonably calculated to provide such
+       knowledge to those who received the Subject Software"

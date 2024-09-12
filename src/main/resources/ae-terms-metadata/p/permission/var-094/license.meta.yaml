@@ -1,0 +1,39 @@
+canonicalName: Permission Terms (variant 094)
+category: Permission
+spdxIdentifier: HPND-UC
+
+otherIds:
+  - "scancode:hpnd-uc"
+
+status:
+  - "reviewed 30.01.2024"
+
+requiresCopyright: true
+requiresLicenseText: false
+
+canonicalNameHistory:
+  - "Permission Terms Var094"
+
+displayName: "Permission Terms (no representation; no warranty)"
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "makes no representations about the suitability of this software for any purpose"
+    - "Permission to use, copy, modify, and distribute this software and its
+       documentation for any purpose and without fee is hereby granted, provided
+       that the above copyright notice appear in all copies"
+    - "It is provided \"as is\" without express or implied warranty"
+  excludes:
+    - "not be used in advertising or publicity pertaining to distribution
+       of the software without specific, written prior permission"
+    - "Permission to use, copy, modify, and distribute this software and
+       its documentation for any purpose and without fee is hereby
+       granted, provided that the above copyright notice appear in all
+       copies and that both that copyright notice and this permission
+       notice appear in supporting documentation"
+    - "Export of this software outside
+       of the United States of America may require an export license"
+
+mappings:
+  "Copyright \\(c\\) 1987 by the Regents of the University of CaliforniaNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and distribute thisNEWLINE-MARKERsoftware and its documentation for any purpose and": " LICENSE-SEGMENT-MARKER Copyright (c) 1987 by the Regents of the University of CaliforniaNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and distribute thisNEWLINE-MARKERsoftware and its documentation for any purpose and"

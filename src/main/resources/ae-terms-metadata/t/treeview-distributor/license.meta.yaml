@@ -1,0 +1,20 @@
+canonicalName: TreeView Distributor License
+category: TreeView Distributor License
+shortName: TreeView-Distributor
+
+otherIds:
+  - "scancode:treeview-distributor"
+
+alternativeNames:
+  - "TreeView License: Distributor's License"
+
+evidence:
+  matches:
+    - "This LICENSE will automatically terminate if Customer fails to comply with any of the
+       terms and conditions hereof"
+    - "In such event, Customer must destroy all copies of the SOFTWARE and all of its component parts"
+    - "If Customer commences or participates in any legal proceeding against GUBUSOFT, then GUBUSOFT may,
+       in its sole discretion, suspend or terminate all license grants and any other rights provided under
+       this LICENSE during the pendency of such legal proceedings"
+  excludes:
+    - "Customer does do not permit further redistribution of SOFTWARE by their customers"

@@ -1,0 +1,28 @@
+canonicalName: Microsoft Reactive Extensions EULA
+category: Microsoft Reactive Extensions EULA
+shortName: ms-reactive-extensions-eula
+
+otherIds:
+  - "scancode:ms-reactive-extensions-eula"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Microsoft Reactive Extensions EULA"
+  - "MICROSOFT REACTIVE EXTENSIONS FOR JAVASCRIPT AND .NET LIBRARIES"
+
+evidence:
+  matches:
+    - "The software contains code that you are permitted to distribute in programs you develop if you comply with the terms below"
+    - "The code and text files listed in the software REDIST.TXT files are 'Distributable Code'"
+    - "You may copy and distribute the object code form of the Distributable Code"
+    - "You may also combine the object code form of the Distributable Code with your programs to develop a
+       unified web solution and permit others via online methods to access and use that unified web solution,
+       provided that the Distributable Code is only used as part of and in conjunction with your programs"
+    - "You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs"
+    - "This limitation applies to anything related to the software, services, content (including code) on third
+       party Internet sites, or third party programs; and claims for breach of contract, breach of warranty, guarantee
+       or condition, strict liability, negligence, or other tort to the extent permitted by applicable law"
+    - "It also applies even if Microsoft knew or should have known about the possibility of the damages"
+    - "The above limitation or exclusion may not apply to you because your country may not allow the exclusion
+       or limitation of incidental, consequential or other damages"

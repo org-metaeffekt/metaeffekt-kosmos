@@ -1,0 +1,35 @@
+canonicalName: Linking Exception (GPL; variant 014)
+category: GPL Linking Exception
+shortName: Linkin-Exception-GPL-014 
+ 
+canonicalNameHistory:
+  - "GCC Runtime Library Exception 2.1"
+
+otherIds:
+  - "scancode:gcc-linking-exception-2.0"
+ 
+type: exception 
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 014))
+
+evidence:
+  matches:
+    - "In addition to the permissions in the GNU General Public License, the Free
+       Software Foundation gives you unlimited permission to link the compiled version
+       of this file into combinations with other programs, and to distribute those
+       combinations without any restriction coming from the use of this file"
+    - "(The General Public License restrictions do apply in other respects; for
+       example, they cover modification of the file, and distribution when not linked
+       into a combined executable"
+    
+references:
+  "GPL":
+    matches:
+      - "In addition to the permissions in the GNU General Public License, the Free
+         Software Foundation gives you unlimited permission to link the compiled version
+         of this file into combinations with other programs, and to distribute those
+         combinations without any restriction coming from the use of this file"
+      - "(The General Public License restrictions do apply in other respects; for
+         example, they cover modification of the file, and distribution when not linked
+         into a combined executable"

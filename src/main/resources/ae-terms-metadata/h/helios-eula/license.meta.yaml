@@ -1,0 +1,29 @@
+canonicalName: Helios EULA
+category: Helios EULA
+shortName: Helios-EULA
+
+otherIds:
+  - "scancode:helios-eula"
+
+alternativeNames:
+  - "END USER LICENSE AGREEMENT FOR HELIOS SOFTWARE SOLUTIONS SOFTWARE"
+  - "Helios EULA"
+
+evidence:
+  matches:
+    - "This Section of the EULA describes Your general rights to install and use the Software Product"
+    - "The license rights described in this Section are subject to all other terms and conditions of this EULA"
+    - "You may install and use one copy of the Software Product on a single computer, device, workstation,
+       terminal, or other digital electronic device ('Device')"
+    - "You may make a second copy of the Software Product and install it on a portable Device for the exclusive
+       use of the person who is the primary user of the first copy of the Software Product"
+    - "A license for the Software Product may not be shared"
+    - "As an alternative to the rights granted in the previous section, You may install a copy of the Software
+       Product on one storage Device, such as a network server, and allow individuals within Your business or
+       enterprise to access and use the Software Product from other Devices over a private network, provided that
+       You acquire and dedicate a license for the storage Device upon which the Software Product is installed and
+       each separate Device from which the Software Product is accessed and used"
+    - "A license for the Software Product may not be used concurrently on different Devices unless expressly
+       permitted by this EULA"
+
+    

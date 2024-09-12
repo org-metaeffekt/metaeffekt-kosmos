@@ -1,0 +1,20 @@
+canonicalName: DSDP License
+category: DSDP
+spdxIdentifier: DSDP
+
+otherIds:
+  - "scancode:dsdp"
+
+alternativeNames:
+  - "DSDP LICENSE"
+  - "DSDP License"
+
+evidence:
+  matches:
+    - "The University of Chicago makes no representations as to the suitability
+       and operability of this software for any purpose"
+    - "It is provided 'as is'; without express or implied warranty"
+    - "Permission is hereby granted to use, reproduce, prepare derivative works,
+       and to redistribute to others, so long as this original copyright notice is retained"
+    - "Any publication resulting from research that made use of this software should cite
+       this document"

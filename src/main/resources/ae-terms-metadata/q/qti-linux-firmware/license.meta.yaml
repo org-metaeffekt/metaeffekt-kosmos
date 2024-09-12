@@ -1,0 +1,24 @@
+canonicalName: QTI Linux Firmware
+category: QTI Linux Firmware
+shortName: QTI-Linux-Firmware
+
+otherIds:
+  - "scancode:qti-linux-firmware"
+
+alternativeNames:
+  - "QTI Linux Firmware"
+
+evidence:
+  matches:
+    - "QTI may from time to time receive suggestions, feedback or
+       other information from You regarding the Materials"
+    - "Any suggestions, feedback or other disclosures received from
+       You are and shall be entirely voluntary on the part of You"
+    - "Notwithstanding any other term in this Agreement, QTI shall
+       be free to use suggestions, feedback or other information received from You,
+       without obligation of any kind to You"
+    - "The Parties agree that all inventions, product improvements, and modifications
+       conceived of or made by QTI that are based, either in whole or in part, on ideas,
+       feedback, suggestions, or recommended improvements received from You are the
+       exclusive property of QTI, and all right, title and interest in and to any such
+       inventions, product improvements, and modifications will vest solely in QTI"

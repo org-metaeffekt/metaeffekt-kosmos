@@ -1,0 +1,29 @@
+canonicalName: Microsoft ASP.NET MVC 3 License
+category: Microsoft ASP.NET MVC 3 License
+shortName: MS-ASP-NET-MVC3
+
+alternativeNames:
+  - "Microsoft ASP.NET MVC 3 License"
+
+otherIds:
+  - "scancode:ms-asp-net-mvc3"
+
+evidence:
+  matches:
+    - "Microsoft Corporation (or based on where you live, one of its affiliates)
+       licenses this supplement to you"
+    - "You may use it with each validly licensed copy of Microsoft Visual Studio 2010
+       or Microsoft Windows operating system  software (for which this supplement is applicable)
+       (the 'software')"
+    - "You may not use the supplement if you do not have a license for the software"
+    - "The license terms for the software apply to your use of this supplement"
+    - "The software contains code that you are permitted to distribute in programs you develop if you comply with the terms below"
+  excludes:
+    - "Microsoft Corporation (or based on where you live, one of its affiliates) licenses this supplement to you.
+       If you are licensed to use Microsoft Windows operating system software (for which this supplement is applicable)
+       (the 'software'), you may use this supplement. You may not use it if you do not have a license for the software.
+       You may use a copy of this supplement with each validly licensed copy of the software"
+    - "disclose the results of any benchmark tests of the software to any third party without Microsoft’s prior written approval"
+
+mappings:
+  "·": " "

@@ -1,0 +1,33 @@
+canonicalName: Verbatim License
+category: Verbatim
+shortName: Verbatim
+
+# FIXME-IMPLEMENT check with other variants
+# This license is very similar to Linux man-pages Copyleft (with spdx id)
+
+otherIds:
+  - "scancode:verbatim-manual"
+
+alternativeNames:
+  - "Verbatim License"
+
+evidence:
+  matches:
+    - "Permission is granted to make and distribute verbatim copies of this
+       manual provided the copyright notice and this permission notice are
+       preserved on all copies"
+    - "Permission is granted to copy and distribute modified versions of this
+       manual under the conditions for verbatim copying, provided that the
+       entire resulting derived work is distributed under the terms of a
+       permission notice identical to this one"
+    - "Since the Linux kernel and libraries are constantly changing, this
+       manual page may be incorrect or out-of-date"
+  excludes:
+    - "Permission is granted to copy and distribute translations of this
+       manual into another language, under the above conditions for modified
+       versions, except that this permission notice may be stated in a
+       translation approved by the Foundation"
+    - "Permission is granted to copy and distribute translations of this manual into
+       another language, under the above conditions for modified versions"
+    - "Formatted or processed versions of this manual, if unaccompanied by the source, must acknowledge the copyright
+       and authors of this work"

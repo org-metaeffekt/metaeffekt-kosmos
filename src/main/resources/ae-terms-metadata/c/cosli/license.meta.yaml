@@ -1,0 +1,44 @@
+canonicalName: Civilian Open Source License
+category: Civilian Open Source
+shortName: Civilian-Open-Source
+
+otherIds:
+  - "scancode:cosli"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that the following conditions
+       are met"
+    - "The software must not be used for millitary purposes. This includes:
+          (i) use in the context of military operations (i.e. trainings, maneuvers,
+          combat), (ii) use by armed forces, private military companies and
+          intelligence services and (iii) use in cooperation with such
+          organisations"
+    - "Redistributions of source code must retain the above copyright
+          notice, this list of conditions, this restriction on military usage
+          and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions, this restriction on military usage
+          and the following disclaimer in the documentation and/or other
+          materials provided with the distribution"
+    - "\"This product includes software developed by the fieldtracks Project
+        (https://www.fieldtracks.org/)\""
+    - "The name \"Fieldtracks\" must not be used to
+        endorse or promote products derived from this software without
+        prior written permission. For written permission, please contact
+        info@fieldtracks.org"
+    - "Products derived from this software may not be called \"Fieldtracks\"
+        nor may \"Fieldtracks\" appear in their names without prior written
+        permission of the Fieldtracks Project"
+    - "THIS SOFTWARE IS PROVIDED BY THE Fieldtracks PROJECT ``AS IS'' AND ANY
+       EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+       IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+       PURPOSE ARE DISCLAIMED"
+
+references:
+  "OpenSSL":
+    matches:
+      - "Copyright (c) 2017-2019 The Fieldtracks Project. All rights reserved.
+
+         Based on the OpenSSL License // Copyright (c) The OpenSSL Project"

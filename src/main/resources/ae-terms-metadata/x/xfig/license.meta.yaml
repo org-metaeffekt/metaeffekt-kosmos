@@ -1,0 +1,29 @@
+canonicalName: Xfig License
+category: Xfig
+spdxIdentifier: Xfig
+
+otherIds:
+  - "scancode:mit-xfig"
+
+alternativeNames:
+  - "Xfig License"
+  - "License : XFIG"
+
+canonicalNameHistory:
+  - "MIT Xfig Variant"
+  - "Permission Terms (variant 124)"
+
+expectedSpdxMatches:
+  - "Xfig License"
+  - "Permission Terms (variant 124)"
+
+evidence:
+  matches:
+    - "Any party obtaining a copy of these files*{.{0,45}}* is granted, free of charge,
+       a full and unrestricted irrevocable, world-wide, paid up, royalty-free,
+       nonexclusive right and license to deal in this software and documentation
+       files (the 'Software'), including without limitation the rights to use,
+       copy, modify, merge, publish*{.{0,40}}*copies of the Software,
+       and to permit persons who receive copies from any such party to do so,
+       with the only requirement being that this copyright notice remain intact"
+

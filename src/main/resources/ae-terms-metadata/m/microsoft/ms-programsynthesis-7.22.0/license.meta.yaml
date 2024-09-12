@@ -1,0 +1,24 @@
+canonicalName: Microsoft ProgramSynthesis 7.22.0
+category: Microsoft ProgramSynthesis
+shortName: ms-programsynthesis-7.22.0
+
+otherIds:
+  - "scancode:ms-programsynthesis-7.22.0"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Microsoft ProgramSynthesis 7.22.0"
+
+evidence:
+  matches:
+    - "You must comply with all domestic and international export laws and regulations that apply to the software,
+       which include restrictions on destinations, end users, and end use"
+    - "For further information on export restrictions, visit http://aka.ms/exporting"
+    - "This agreement describes certain legal rights"
+    - "You may have other rights, including consumer rights, under the laws of your state or country"
+    - "Separate and apart from your relationship with Microsoft, you may also have rights with respect
+       to the party from which you acquired the software"
+    - "This agreement does not change those other rights if the laws of your state or country do not
+       permit it to do so. For example, if you acquired the software in one of the below regions,
+       or mandatory country law applies, then the following provisions apply to you"

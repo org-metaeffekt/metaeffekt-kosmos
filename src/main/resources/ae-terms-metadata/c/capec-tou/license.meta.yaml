@@ -1,0 +1,19 @@
+canonicalName: Common Attack Pattern Enumeration and Classification ToU
+category: Common Attack Pattern Enumeration and Classification ToU
+shortName: capec-tou
+
+otherIds:
+  - "scancode:capec-tou"
+
+classification: permissive
+
+alternativeNames:
+  - "Common Attack Pattern Enumeration and Classification ToU"
+
+evidence:
+  matches:
+    - "The MITRE Corporation (MITRE) hereby grants you a non-exclusive, royalty-free license to use
+       Common Attack Pattern Enumeration and Classification (CAPEC™) for research, development,
+       and commercial purposes"
+    - "Any copy you make for such purposes is authorized provided that you reproduce MITRE’s copyright
+       designation and this license in any such copy"

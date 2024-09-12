@@ -1,0 +1,48 @@
+canonicalName: JBossORG Eula
+category: JBoss
+shortName: JBoss-ORG
+
+otherIds:
+  - "scancode:jboss-eula"
+
+evidence:
+  matches:
+    - "This License Agreement governs the use of the Software Packages and any updates to the Software
+       Packages, regardless of the delivery mechanism.  Each Software Package is a collective work
+       under U.S. Copyright Law"
+    - "Subject to the following terms, Red Hat, Inc. (\"Red Hat\") grants to
+       the user (\"Client\") a license to the applicable collective work(s) pursuant to the
+       GNU Lesser General Public License v. 2.1 except for the following Software Packages"
+    - "JBoss Portal Forums and JBoss Transactions JTS, each of which is licensed pursuant to the
+       GNU General Public License v.2"
+    - "JBoss Rules, which is licensed pursuant to the Apache  License v.2.0"
+    - "an optional download for JBoss Cache for the Berkeley DB for Java database, which is licensed under the
+       (open source) Sleepycat License (if Client does not wish to use the open source version of this database,
+       it may purchase a license from Sleepycat Software)"
+    - "the BPEL extension for JBoss jBPM, which is licensed under the Common Public License v.1,
+       and, pursuant to the OASIS BPEL4WS standard, requires parties wishing to redistribute to enter various
+       royalty-free patent licenses"
+
+references:
+  "GPL":
+    matches:
+      - "JBoss Portal Forums and JBoss Transactions JTS, each of which is licensed pursuant to the
+         GNU General Public License v.2"
+  "LGPL":
+    matches:
+      - "Subject to the following terms, Red Hat, Inc. (\"Red Hat\") grants to
+          the user (\"Client\") a license to the applicable collective work(s) pursuant to the
+          GNU Lesser General Public License v. 2.1 except for the following Software Packages"
+  "Apache License":
+    matches:
+      - "JBoss Rules, which is licensed pursuant to the Apache  License v.2.0"
+  "Sleepycat":
+    matches:
+      - "an optional download for JBoss Cache for the Berkeley DB for Java database, which is licensed under the
+         (open source) Sleepycat License (if Client does not wish to use the open source version of this database,
+         it may purchase a license from Sleepycat Software)"
+  "CPL":
+    matches:
+      - "the BPEL extension for JBoss jBPM, which is licensed under the Common Public License v.1,
+         and, pursuant to the OASIS BPEL4WS standard, requires parties wishing to redistribute to enter various
+         royalty-free patent licenses"

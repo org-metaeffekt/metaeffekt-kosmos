@@ -1,0 +1,76 @@
+canonicalName: Permission Terms (variant 030)
+category: Permission
+shortName: PT-Var030
+
+status:
+  - "reviewed 12.11.2021"
+
+otherIds:
+  - "scancode:x11-x11r5"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+displayName: "Permission Terms (no advertising; no liability; no representation; no warranty)"
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var030"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software and its
+       documentation for any purpose and without fee is hereby granted, provided
+       that the above copyright notice appear in all copies and that both that
+       copyright notice and this permission notice appear in supporting
+       documentation, and that the name of *{.{0,100}}* not be used in advertising
+       or publicity pertaining to distribution of the software without specific,
+       written prior permission"
+    - "make*{.{0,1}}* no representations about the suitability of this software for any purpose"
+    - "It is provided \"as is\" without express or implied warranty"
+    - "DISCLAIM*{.{0,1}}* ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES
+       OF MERCHANTABILITY AND FITNESS"
+    - "IN NO EVENT SHALL *{.{0,100}}* BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR
+       ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+       WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+       ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
+  excludes:
+    - "Permission to use, copy, modify, distribute, and sell this software and its
+       documentation for any purpose is hereby granted without fee, provided that
+       the above copyright notice appear in all copies and that both that
+       copyright notice and this permission notice appear in supporting documentation"
+    - "Permission to use, copy, modify, and distribute this software and its documentation
+       for any purpose with or without fee is hereby granted"
+    - "Permission to use, copy, modify and distribute this software and its
+       documentation for any purpose and without fee is hereby granted,
+       provided that the above copyright notice appear in all copies, and
+       that both that copyright notice and this permission notice
+       appear in supporting documentation, and that the name of copyright
+       holder or related entities not be used in advertising or publicity
+       pertaining to distribution of the software without specific, written
+       prior permission"
+    - "You are hereby granted permission under all Bitstream propriety rights to use,
+       copy, modify, sublicense, sell, and redistribute the 4 Bitstream Charter (r)
+       Type 1 outline fonts and the 4 Courier Type 1 outline fonts for any purpose and
+       without restriction"
+#this is for a variant of Permission Terms variant 104
+    - "Network Computing Devices makes no representations about the suitability of this software for any purpose"
+    - "Permission to use, copy, modify, and distribute this software and its
+       documentation for any purpose and without fee is hereby granted, provided
+       that the above copyright notice appear in all copies and that both that
+       copyright notice and this permission notice appear in supporting
+       documentation, and that the name of the Vrije Universiteit not be used in"
+
+licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this software and its documentation for any purpose 
+                  and without fee is hereby granted, provided that the above copyright notice appear in all copies and 
+                  that both that copyright notice and this permission notice appear in supporting documentation, and 
+                  that the name of {{variablePermissionTerm}} not be used in advertising or publicity pertaining 
+                  to distribution of the software without specific, written prior permission. 
+                  <p>{{copyrightHolderNoRepresentation}} make no representations about the suitability of this software for 
+                  any purpose.</p><p>It is provided \"as is\" without express or implied warranty.</p>
+                  <codeph>{{copyrightHolderNoWarranty}}DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING
+                  ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT 
+                  SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR
+                  ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, 
+                  NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF 
+                  THIS SOFTWARE.</codeph></lq>"

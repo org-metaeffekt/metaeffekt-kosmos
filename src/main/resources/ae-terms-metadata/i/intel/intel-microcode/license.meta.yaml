@@ -1,0 +1,122 @@
+canonicalName: Intel Microcode License
+category: Intel Microcode License
+shortName: Intel-Microcode
+
+otherIds:
+  - "scancode:intel-microcode"
+
+alternativeNames:
+  - "intel-microcode"
+
+evidence:
+  matches:
+    - "You seek to obtain, and Intel desires to provide You, under the
+       terms of this Agreement, Software solely for Your efforts to develop and
+       distribute products integrating Intel hardware and Intel software"
+    - "'Software' refers to certain software or other collateral, including, but not limited to,
+       related components, operating system, application program interfaces, device
+       drivers, associated media, printed or electronic documentation and any updates,
+       upgrades or releases thereto associated with Intel product(s), software or
+       service(s)"
+    - "'Intel-based product' refers to a device that includes,
+       incorporates, or implements Intel product(s), software or service(s)"
+    - "Conditioned on Your compliance with the terms and
+       conditions of this Agreement, Intel grants to You a limited, nonexclusive,
+       nontransferable, revocable, worldwide, fully paid-up license during the term of
+       this Agreement, without the right to sublicense, under Intel's copyrights
+       (subject to any third party licensing requirements), to (i) reproduce the
+       Software only for Your own internal evaluation, testing, validation, and
+       development of Intel-based products and any associated maintenance thereof;
+       (ii) reproduce, display, and publicly perform an object code representation of
+       the Software, only when integrated with and executed by an Intel-based product,
+       subject to any third party licensing requirements; and (iii) distribute an
+       object code representation of the Software, provided by Intel, through multiple
+       levels of distribution, solely as embedded in or for execution on an
+       Intel-based product and subject to these license terms, and if to an end user,
+       pursuant to a license agreement with terms and conditions at least as
+       restrictive as those contained in the Intel End User Software License Agreement
+       in Appendix A hereto"
+    - "If You are not the final manufacturer or vendor of an Intel-based product
+       incorporating or designed to incorporate the Software, You may transfer a copy
+       of the Software to Your Original Equipment Manufacturer (OEM), Original Device
+       Manufacturer (ODM), distributors, or system integration partners ('Your
+       Partner') for use in accordance with the terms and conditions of this
+       Agreement, provided Your Partner agrees to be fully bound by the terms hereof
+       and provided that You will remain fully liable to Intel for the actions and
+       inactions of Your Partner(s)"
+    - "All right, title and interest in and to the Software and associated documentation are and will remain the exclusive property of
+       Intel and its licensors or suppliers"
+    - "Unless expressly permitted under the Agreement, You will not, and will not allow any third party to (i) use, copy,
+       distribute, sell or offer to sell the Software or associated documentation;
+       (ii) modify, adapt, enhance, disassemble, decompile, reverse engineer, change
+       or create derivative works from the Software except and only to the extent as
+       specifically required by mandatory applicable laws or any applicable third
+       party license terms accompanying the Software; (iii) use or make the Software
+       available for the use or benefit of third parties; or (iv) use the Software on
+       Your products other than those that include the Intel hardware product(s),
+       platform(s), or software identified in the Software; or (v) publish or provide
+       any Software benchmark or comparison test results. You acknowledge that an
+       essential basis of the bargain in this Agreement is that Intel grants You no
+       licenses or other rights including, but not limited to, patent, copyright,
+       trade secret, trademark, trade name, service mark or other intellectual
+       property licenses or rights with respect to the Software and associated
+       documentation, by implication, estoppel or otherwise, except for the licenses
+       expressly granted above. You acknowledge there are significant uses of the
+       Software in its original, unmodified and uncombined form. You may not remove
+       any copyright notices from the Software"
+    - "This Agreement does not obligate You to provide Intel
+       with materials, information, comments, suggestions, or other communication
+       regarding the features, functions, performance or use of the Software
+       ('Feedback')"
+    - "If any portion of the Software is provided or otherwise made
+       available by Intel in source code form, to the extent You provide Intel with
+       Feedback in a tangible form, You grant to Intel and its affiliates a
+       non-exclusive, perpetual, sublicenseable, irrevocable, worldwide, royalty-free,
+       fully paid-up and transferable license, to and under all of Your intellectual
+       property rights, whether perfected or not, to publicly perform, publicly
+       display, reproduce, use, make, have made, sell, offer for sale, distribute,
+       import, create derivative works of and otherwise exploit any comments,
+       suggestions, descriptions, ideas, Your Derivatives or other feedback regarding
+       the Software provided by You or on Your behalf"
+    - "The Software may include Open Source Software (OSS)
+       licensed pursuant to OSS license agreement(s) identified in the OSS comments in
+       the applicable source code file(s) or file header(s) provided with or otherwise
+       associated with the Software"
+    - "Neither You nor any OEM, ODM, customer, or
+       distributor may subject any proprietary portion of the Software to any OSS
+       license obligations including, without limitation, combining or distributing
+       the Software with OSS in a manner that subjects Intel, the Software or any
+       portion thereof to any OSS license obligation. Nothing in this Agreement limits
+       any rights under, or grants rights that supersede, the terms of any applicable
+       OSS license"
+    - "Certain third party software provided with or within
+       the Software may only be used (a) upon securing a license directly from the
+       owner of the software or (b) in combination with hardware components purchased
+       from such third party and (c) subject to further license limitations by the
+       software owner"
+    - "A listing of any such third party limitations is in one or more
+       text files accompanying the Software"
+    - "You acknowledge Intel is not providing You with a license to such third party software and further that it is Your
+       responsibility to obtain appropriate licenses from such third parties directly"
+    - "The terms and conditions of this Agreement, exchanged
+       confidential information, as well as the Software are subject to the terms and
+       conditions of the Non-Disclosure Agreement(s) or Intel Pre-Release Loan
+       Agreement(s) (referred to herein collectively or individually as 'NDA') entered
+       into by and in force between Intel and You, and in any case no less
+       confidentiality protection than You apply to Your information of similar
+       sensitivity"
+    - "If You would like to have a contractor perform work on Your behalf
+       that requires any access to or use of Software, You must obtain a written
+       confidentiality agreement from the contractor which contains terms and
+       conditions with respect to access to or use of Software no less restrictive
+       than those set forth in this Agreement, excluding any distribution rights and
+       use for any other purpose, and You will remain fully liable to Intel for the
+       actions and inactions of those contractors"
+    - "You may not use Intel's name in any publications, advertisements, or other announcements without Intel's prior
+       written consent"
+    - "Intel may make changes to the Software, or items referenced therein, at any time without notice"
+    - "Intel is not obligated to support, update, provide training for, or develop any further version of the
+       Software or to grant any license thereto"
+    - "No agency, franchise, partnership, joint-venture, or employee-employer relationship is intended or created by this
+       Agreement"
+

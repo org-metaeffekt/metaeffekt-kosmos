@@ -1,0 +1,52 @@
+canonicalName: Adobe Flex SDK SLA
+category: Adobe Flex SDK SLA
+shortName: Adobe-Flex-SDK
+
+otherIds:
+  - "scancode:adobe-flex-sdk"
+
+alternativeNames:
+  - "ADOBE FLEX SOFTWARE DEVELOPMENT KIT Software License Agreement"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, Adobe grants Licensee a non-exclusive,
+       nontransferable license to (A) use the SDK Components for the sole purpose of internally developing
+       Developer Programs, and (B) use the SDK Components as part of Licensee’s website for the sole
+       purpose of compiling the Developer Programs that are distributed through the Licensee’s website"
+    - "Subject to the terms and conditions of this Agreement, with respect to each Professional Component
+       Source File, Adobe grants Licensee a non-exclusive, nontransferable license to (A) modify and reproduce
+       such Professional Component Source File (as defined below) for use as a component of Developer Programs
+       that add Material Improvements to such Professional Component Source File, and (B) distribute such
+       Professional Component Source File in object code form and/or source code form only as a component
+       of Developer Programs that add Material Improvements to such Professional Component Source File,
+       provided that (1) such Developer Programs are designed to operate in connection with Adobe Flex Builder,
+       Adobe Flex Data Services Software, Adobe LiveCycle Data Services Software or the SDK Components,
+       (2) Licensee distributes such object code and/or source code under the terms and conditions of
+       an End User License Agreement, (3) Licensee includes a copyright notice reflecting the copyright
+       ownership of Developer in such Developer Programs, (4) Licensee shall be solely responsible
+       to its customers for any update or support obligation or other liability which may arise from
+       such distribution, (5) Licensee does not make any statements that its Developer Program is 'certified,'
+       or that its performance is guaranteed, by Adobe, (6) Licensee does not use Adobe’s name or
+       trademarks to market its Developer Programs without written permission of Adobe, (7) Licensee does
+       not delete or in any manner alter the copyright notices, trademarks, logos or related notices,
+       or other proprietary rights notices of Adobe (and its licensors, if any) appearing on or within such
+       Professional Component Source File and/or SDK Components, or any documentation relating to the SDK
+       Components, (8) Licensee causes any modified files to carry prominent notices stating that Licensee
+       changed the files, (9) Licensee does not use 'mx,' 'mxml,' 'flex,' 'flash,' 'livecycle' or 'adobe'
+       in any new package or class names distributed with such Professional Component Source File,
+       and (10) Licensee complies with the below Adobe® AIR™ Trademark Use Terms"
+    - "Any modified or merged portion of Professional Component Source Files is subject to this Agreement"
+    - "For the avoidance of doubt, Licensee shall have no rights to the Professional Component Source
+       Files (or the object code form of such files), except to the extent such Professional Component
+       Source Files are provided to Licensee in connection with Licensee’s licensing of Flex Builder Professional"
+    - "'Adobe® AIR™' is a trademark of Adobe that may not be used by others except under a written license from Adobe"
+    - "Licensee may not incorporate the Adobe AIR trademark, or any other Adobe trademark, in whole or in part,
+       in the title of your Developer Programs or in your company name, domain name or the name of a service related to Adobe AIR"
+    - "Licensee may indicate the interoperability of its Developer Program with the Adobe AIR runtime software,
+       if true, by stating, for example, 'works with Adobe® AIR™' or 'for Adobe® AIR™.'"
+    - "Licensee may use the Adobe AIR trademark to refer to its Developer Program as an 'Adobe® AIR™ application'
+       only as a statement that its Developer Program interoperates with the Adobe AIR runtime software"
+    - "For purposes of this Agreement, the terms in this paragraph shall constitute the 'Adobe® AIR™ Trademark Use Terms'"
+  excludes:
+    - "Note that the 'flex.skl' scanner skeleton carries no copyright notice"

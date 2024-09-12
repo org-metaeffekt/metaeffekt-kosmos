@@ -1,0 +1,43 @@
+canonicalName: Fabric Software and Services Agreement 2017
+category: Fabric Software and Services Agreement
+shortName: Fabric-Agreement-2017
+
+otherIds:
+  - "scancode:fabric-agreement-2017"
+
+alternativeNames:
+  - "Fabric Software and Services Agreement"
+
+evidence:
+  matches:
+    - "Subject to Developer’s compliance with the terms and conditions of this Agreement (as a condition to the grants below),
+       Google grants Developer, and Developer accepts, a personal, nonexclusive, non-transferable, non-sublicensable, and revocable license, during the Term, to:
+       (a) install and use any Plugin within the designated development environment solely for the purpose of downloading the Fabric Kit and other Kits to such environment;
+       (b) install and use the Fabric Kit solely for the purpose of enabling the integration of one or more Kits into an application;
+       (c) incorporate the Fabric Kit into any application and distribute (in object form only) the Fabric Kit solely as incorporated within such Application;
+       (d) download and/or print a reasonable number of copies of any reports or results made available via the Services (“Reports”) for internal use by Developer only; and
+       (e) make and use a reasonable number of copies of any Plugin, Fabric Kit, and Documentation solely as necessary to exercise any of the licenses or rights granted to Developer under this Agreement"
+    - "During the Term, and subject to the terms and conditions of this Agreement, Google will use commercially reasonable efforts to provide Developer with access to the Services"
+    - "Developer will cooperate with Google, as requested, to facilitate the initiation of Developer’s access and use of the Services"
+    - "Developer will identify a user name and password that will be used solely by Developer to access and use Developer’s account on the Services"
+    - "Developer will not share its user name or password with any third party and will be responsible and liable for the acts or omissions of any person who accesses the Services via such account"
+    - "Developer will (a) provide accurate, current, and complete information when setting up such account;
+       (b) maintain and promptly update any account information;
+       (c) maintain the security of any password and accept all risks of unauthorized access to its account; and
+       (d) promptly notify Google if it discovers or otherwise suspects any security breaches related to such account"
+    - "Developer shall not directly or indirectly:
+       (a) modify or create any derivative works of any Reports, Fabric Technology, or components thereof;
+       (b) work around any technical limitations in any Fabric Technology or use any Fabric Technology,
+       alone or in conjunction with any device, program, or service, to circumvent technical measures employed to control access to,
+       or the rights in, a content, file, or other work;
+       (c) reverse engineer, decompile, decipher, translate, disassemble, or otherwise attempt to access source code of any Fabric Technology
+       (except as and only to the extent that the foregoing restriction is prohibited by applicable law);
+       (d) publish, rent, lease, lend, sell, sublicense, distribute (except as permitted in Sections 2.1(c)),
+       transfer, disclose, or otherwise make any Fabric Technology or Reports available to any third party;
+       (e) provide use of the Fabric Technology on a service bureau, rental or managed services basis or permit other individuals
+       or entities to create Internet 'links' to the Fabric Technology or 'frame' or 'mirror' the Fabric Technology on any other server, or wireless or Internet-based device;
+       (f) remove or alter any proprietary notices or labels on or in any Fabric Technology or Reports;
+       (g) use any Fabric Technology in connection with the development or transmission of any virus, worms or malicious code;
+       (h) use any Fabric Technology or Reports to infringe the rights of Google or any third party, or in any way that does not comply with all applicable laws; or
+       (i) use any Fabric Technology (including to create any Application) in any way that interferes with, disrupts, damages,
+       or accesses in an unauthorized manner the servers, networks, or other properties or services of Google or any third party, including any mobile communications carrier"

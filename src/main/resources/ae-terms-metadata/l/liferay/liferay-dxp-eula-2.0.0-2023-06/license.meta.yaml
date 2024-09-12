@@ -1,0 +1,56 @@
+canonicalName: Liferay DXP EULA 2.0.0 (2023-06)
+category: Liferay-DXP-EULA
+shortName: liferay-dxp-eula-2.0.0-2023-06
+
+otherIds:
+  - "scancode:liferay-dxp-eula-2.0.0-2023-06"
+
+classification: proprietary free
+
+canonicalNameHistory:
+  - "Liferay-DXP-EULA-2.0.0-2023-06"
+
+alternativeNames:
+  - "Liferay-DXP-EULA-2.0.0-2023-06"
+  - "Liferay DXP EULA 2.0.0 (2023-06)"
+
+evidence:
+  matches:
+    - "You are hereby notified that the Software may contain Limiting Devices"
+    - "If the Software contains Limiting Devices, Liferay will provide You with materials necessary to use
+       the Software to the extent permitted"
+    - "You may not tamper with or otherwise take any action to defeat, disable or circumvent a Limiting
+       Device or other control measure, including but not limited to, resetting the Unit amount"
+    - "Except as permitted herein, any attempt to assign, transfer or sublicense the Software to any
+       third party will be void"
+    - "Except for Software copies provided and used for Evaluation Purposes,You may make any reasonable
+       number of copies of the Software for data archival purposes"
+    - "To the extent a license key is attached to a specific machine, which for example may be identified
+       by a MAC address or host name, You can transfer the license from one machine to another, provided
+       that this does neither increase the total number of covered Units nor change the Designated Purpose"
+    - "You acknowledge and agree that title to the Software and “Derivative Works” whether made by Liferay,
+       You or on Liferay’s or on Your behalf, including those made at Your suggestion and all associated
+       intellectual property rights, are and shall remain the sole and exclusive property of Liferay,
+       its Affiliates and/or its licensors. As between You and Liferay, You shall own all independently
+       developed code and documentation and any associated intellectual property rights developed by or on
+       behalf of You, including but not limited to code extensions to the Software developed by using the
+       Permissible Extension Methods that are separate from the code base of the Software (i.e. non-Derivative Works)"
+    - "You agree to assign, and hereby irrevocably and unconditionally assign to Liferay, in perpetuity and without
+       further consideration, all right, title and interest in and to all Derivative Works created by You or on Your
+       behalf, and all intellectual property rights therein or relative thereto"
+    - "To the extent such intellectual property rights cannot (as a matter of law) be assigned by You to Liferay,
+       You unconditionally and irrevocably grant to Liferay a perpetual, non-terminable, exclusive (without reservation),
+       royalty-free, fully-paid, right and license, with the right to sublicense through multiple tiers of sublicensees,
+       under any and all such rights: (i) to reproduce, create derivative works of, distribute, publicly perform,
+       publicly display, digitally transmit and otherwise use the Derivative Works in any medium or format,
+       whether now known or hereafter discovered; (ii) to use, make, have made, sell, offer to sell, import, and
+       otherwise exploit any product or service based on, embodying, incorporating or derived from the Derivative Work(s);
+       and (iii) to exercise any and all other present or future rights in the same"
+    - "You also confirm that any relevant moral rights in the Derivative Works have been waived, or if such rights are
+       unwaivable, You agree to not enforce such rights, and for the avoidance of doubt this waiver and agreement
+       shall extend to Liferay’s licensees and successor in title"
+    - "At Liferay’s request and expense, You shall execute and deliver such instruments and take such other action as
+       may be reasonably requested by Liferay to perfect or protect Liferay’s rights in the Software and Derivative Works"
+    - "For the avoidance of doubt, if You receive the Software from Liferay or one of its Affiliates or Business Partners
+       (also) under an open source version and choose to use it under that open source license, You must comply with
+       the applicable open source license instead of this EULA"

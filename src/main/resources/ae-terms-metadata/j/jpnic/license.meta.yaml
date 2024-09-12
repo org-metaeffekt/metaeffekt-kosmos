@@ -1,0 +1,23 @@
+canonicalName: JPNIC License
+category: JPNIC
+spdxIdentifier: JPNIC
+
+otherIds:
+  - "scancode:jpnic-idnkit"
+
+alternativeNames:
+ - "Japan Network Information Center Terms"
+ - "Japan Network Information Center License"
+
+evidence:
+  matches:
+    - "License Terms and Conditions apply, unless a different
+       license is obtained from Japan Network Information Center"
+    - "For the purposes of binary distribution the 'Copyright Notice'
+       refers to the following language"
+    - "The name of JPNIC may not be used to endorse or promote products
+       derived from this Software without specific prior written approval of JPNIC"
+  excludes:
+    - "JPRS hereby grants you a worldwide, royalty-free, non-exclusive license, subject to third party intellectual property claims"
+
+

@@ -1,0 +1,22 @@
+canonicalName: Creative Commons BY-SA 2.1 (JP)
+category: CC-BY-SA
+spdxIdentifier: CC-BY-SA-2.1-JP
+
+#representedAs: Creative Commons BY-SA 2.1
+
+otherIds:
+  - "scancode:cc-by-sa-2.1-jp"
+
+# no generic 2.1 in exists, this is the only 2.1 version
+
+alternativeNames:
+  - "CC-BY-SA-2.1-JP"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+expressiveEvidence: true
+evidence:
+  matches:
+    - "「許諾者」とは、この利用許諾の条項の下で本作品を提供する個人又は団体をいう。"

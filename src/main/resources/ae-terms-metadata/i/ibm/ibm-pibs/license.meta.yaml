@@ -1,0 +1,30 @@
+canonicalName: IBM pibs License
+category: IBM pibs
+spdxIdentifier: IBM-pibs
+
+otherIds:
+  - "scancode:ibm-pibs"
+
+alternativeNames:
+  - "IBM pibs"
+  - "IBM PIBS"
+  - "IBM-pibs"
+  - "IBM-PIBS"
+  - "IBM pibs License"
+  - "IBM PIBS LICENSE"
+  - "IBM PIBS License"
+  - "IBM-pibs License"
+  - "IBM-PIBS LICENSE"
+  - "IBM-PIBS License"
+
+evidence:
+  matches:
+    - "This source code has been made available to you by IBM on an AS-IS basis"
+    - "Any user of this software should understand that IBM cannot provide technical
+       support for this software and will not be responsible for any consequences
+       resulting from the use of this software"
+    - "Any person who transfers this source code or any derivative work must include
+       the IBM copyright notice, this paragraph, and the preceding two paragraphs
+       in the transferred software"
+
+

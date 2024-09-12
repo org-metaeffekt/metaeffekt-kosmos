@@ -1,0 +1,16 @@
+canonicalName: T-License 2.0
+category: T-License
+shortName: T-License-2.0
+
+otherIds:
+  - "scancode:t-license-2.0"
+
+evidence:
+  matches:
+    - "Source Code of previous versions of T-Kernel 2.0 and any program related thereto"
+    - " As provided for in this Article, TRON Forum shall Distribute, and grant a license to use, the Source Code free of charge to the Developer who has taken the necessary procedure for registration as prescribed by TRON Forum and agreed to this License Agreement"
+    - " Any copyright holder of the Source Code or the Derivative Work of the Source Code shall not exercise its copyrights with respect to any person's act of using the Source Code or the Derivative Work of the Source Code in accordance with this License Agreement"
+    - "Any use of the Source Code or the Derivative Work of the Source Code other than those stipulated in Articles 3 shall be subject to the prior approval of TRON Forum"
+    - "TRON Forum warrants that the Source Code for which TRON Forum owns the copyrights does not infringe upon third party's copyrights and Ken Sakamura warrants that the Source Code for which Ken Sakamura owns the copyrights does not infringe upon third party's copyrights"
+  excludes:
+    - "revised on April 1, 2015"

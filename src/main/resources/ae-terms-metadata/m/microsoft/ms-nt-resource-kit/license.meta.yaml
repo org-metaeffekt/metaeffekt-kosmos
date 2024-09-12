@@ -1,0 +1,26 @@
+canonicalName: Microsoft NT Resource Kit License
+category: Microsoft NT Resource Kit License
+shortName: MS-MT-Resource-Kit
+
+otherIds:
+  - "scancode:ms-nt-resource-kit"
+
+alternativeNames:
+  - "Microsoft NT Resource Kit License"
+
+evidence:
+  matches:
+    - "Except as otherwise provided herein, you, as an individual may install and use copies of the SOFTWARE on an
+       unlimited number of computers, including workstations, terminals or other electronic devices ('Computer(s)')
+       provided that you are the only individual using the SOFTWARE"
+    - "If you are an entity, you may designate one individual within your organization to have the right to use
+       the SOFTWARE in the manner provided above"
+    - "The SOFTWARE is in 'use' on a Computer when it is loaded into temporary memory (i.e., RAM) or installed into
+       permanent memory (e.g., hard disk, CD-ROM, or other storage device) of that Computer"
+    - "The SOFTWARE may contain one or more components which consist of both the following types of software:
+       'Server Software' that is installed and provides services on a computer acting as a server ('Server'); and
+       'Client Software' that allows a Computer to access or utilize the services provided by the Server Software"
+    - "If the component of the SOFTWARE consists of both Server Software and Client Software which are used together,
+       you may also install and use copies of such Client Software on Computers within your organization and which
+       are connected to your internal network"
+    - "Such Computers running this Client Software may be used by more than one individual"

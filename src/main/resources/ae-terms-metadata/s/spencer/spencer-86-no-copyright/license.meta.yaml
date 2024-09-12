@@ -1,0 +1,26 @@
+canonicalName: Spencer License (3-Clause; no copyright variant)
+category: Spencer
+shortName: Spencer-3-CLause-no-copyright
+
+otherIds:
+  - "scancode:hs-regexp-orig"
+
+alternativeNames:
+  - "Henry Spencer Original Regexp License"
+
+evidence:
+  matches:
+    - "Not derived from licensed software"
+    - "Permission is granted to anyone to use this software for any
+       purpose on any computer system, and to redistribute it freely,
+       subject to the following restrictions"
+    - "The author is not responsible for the consequences of use of
+          this software, no matter how awful, even if they arise
+          from defects in it"
+    - "The origin of this software must not be misrepresented, either
+          by explicit claim or by omission"
+    - "Altered versions must be plainly marked as such, and must not
+          be misrepresented as being the original software"
+
+  excludes:
+    - "Copyright (c) 1986 by University of Toronto. Written by Henry Spencer"

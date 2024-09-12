@@ -1,0 +1,23 @@
+canonicalName: Linking Exception (GPL; variant 020)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-020
+
+type: exception
+
+canonicalNameHistory:
+  - "SANE Short Exception"
+
+otherIds:
+  - "scancode:sane-exception-2.0-plus"
+
+evidence:
+  matches:
+    - "The exception is that, if you link a SANE library with other files
+       to produce an executable, this does not by itself cause the
+       resulting executable to be covered by the GNU General Public
+       License.  Your use of that executable is in no way restricted on
+       account of linking the SANE library code into it"
+  excludes:
+    - "This exception does not, however, invalidate any other reasons why
+       the executable file might be covered by the GNU General Public
+       License"

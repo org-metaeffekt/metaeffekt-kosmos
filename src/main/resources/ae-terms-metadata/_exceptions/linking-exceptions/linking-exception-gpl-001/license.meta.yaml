@@ -1,0 +1,44 @@
+canonicalName: Linking Exception (GPL; GNAT)
+category: GPL Linking Exception
+spdxIdentifier: GNAT-exception
+shortName: Linking-Exception-GPL-GNAT
+
+canonicalNameHistory:
+  - "Ada Linking Exception"
+  - "GNAT Exception"
+  - "Linking Exception (GPL; variant 001)"
+  - "GNAT-exception"
+  - "GNAT exception"
+  - "GNAT-Exception"
+
+otherIds:
+  - "scancode:ada-linking-exception"
+
+# FIXME-CONCEPT: combiner should be defined in expression (multi-license) tmd; combiners do not get applied after removing these combiners (same combiners can be found in "GNU General Public License 2.0 (or any later version; with Linking exception (GPL; GNAT)"); match result is:"GNU General Public License 2.0, Linking Exception (GPL; GNAT)"
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Linking exception (GPL; GNAT))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Linking exception (GPL; GNAT))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Linking exception (GPL; GNAT))
+
+type: exception
+
+alternativeNames:
+  - "Ada Linking Exception"
+  - "Linking-Exception-GPL-001"
+
+evidence:
+  matches:
+    - "As a special exception, if other files instantiate generics from this
+       unit, or you link this unit with other files to produce an executable,
+       this unit does not by itself cause  the resulting executable to be
+       covered by the GNU General Public License"
+    - "This exception does not however invalidate any other reasons why the
+       executable file  might be covered by the GNU Public License"
+
+references:
+  "GPL":
+    matches:
+      - "this  unit  does not  by itself cause  the resulting executable to be
+         covered by the GNU General Public License"
+      - "This exception does not however invalidate any other reasons why the
+         executable file  might be covered by the GNU Public License"

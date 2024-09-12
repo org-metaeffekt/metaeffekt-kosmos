@@ -1,0 +1,17 @@
+canonicalName: Gary S. Brown License
+category: Gary S. Brown License
+shortName: Gary-S-Brown
+
+otherIds:
+  - "scancode:gary-s-brown"
+
+alternativeNames:
+  - "gary-s-brown"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "You may use this program, or code or tables extracted from it, as desired
+       without restriction"

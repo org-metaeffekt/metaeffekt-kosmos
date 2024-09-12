@@ -1,0 +1,22 @@
+canonicalName: Martin Birgmeier License
+category: Martin Bergmeier License
+spdxIdentifier: Martin-Birgmeier
+
+canonicalNameHistory:
+  - "Martin Bergmeier License"
+
+otherIds:
+  - "scancode:martin-birgmeier"
+
+alternativeNames:
+  - "martin-birgmeier"
+
+evidence:
+  matches:
+    - "You may redistribute unmodified or modified versions of this source
+       code provided that the above copyright notice and this and the
+       following conditions are retained"
+    - "This software is provided ``as is'', and comes with no warranties
+       of any kind"
+    - "I shall in no event be liable for anything that happens
+       to anyone/anything when using this software"

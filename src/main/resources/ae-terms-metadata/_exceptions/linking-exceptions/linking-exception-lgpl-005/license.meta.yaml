@@ -1,0 +1,36 @@
+canonicalName: Linking Exception (LGPL; variant 005)
+category: LGPL Linking Exception
+spdxIdentifier: GCC-exception-2.0
+shortName: Linking-Exception-LGPL-005
+
+type: exception
+
+canonicalNameHistory:
+  - "GCC Runtime Library Exception 2.0"
+
+combinedWith:
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Linking exception (LGPL; variant 005))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Linking exception (LGPL; variant 005))
+
+alternativeNames:
+  - "GCC exception, Version 2.0"
+  - "GCC exception, 2.0"
+  - "GCC exception 2.0"
+  - "GCC-exception, Version 2.0"
+  - "GCC-exception, 2.0"
+  - "GCC-exception 2.0"
+  - "GCC-exception-2.0"
+
+evidence:
+  matches:
+    - "to link the compiled version of this file into combinations with other programs, and to distribute
+       those programs without any restriction coming from the use of this file"
+
+references:
+  "GPL":
+    matches:
+    - "The General Public License restrictions do apply in other respects; for example, they cover modification
+       of the file, and distribution when not linked into another program"
+  "LGPL":
+    matches:
+    - "In addition to the permissions in the GNU Library General Public License"

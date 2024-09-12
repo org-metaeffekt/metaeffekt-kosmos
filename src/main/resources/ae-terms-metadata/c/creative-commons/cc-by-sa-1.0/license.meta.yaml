@@ -1,0 +1,53 @@
+canonicalName: Creative Commons BY-SA 1.0
+category: CC-BY-SA
+spdxIdentifier: CC-BY-SA-1.0
+
+otherIds:
+  - "scancode:cc-by-sa-1.0"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Share Alike 1.0 Generic"
+
+alternativeNames:
+  - "Creative Commons Attribution Share Alike 1.0 Generic"
+  - "Creative Commons Attribution Share Alike 1.0"
+  - "CC-BY-SA-1.0"
+  - "Creative Commons Attribution-ShareAlike 1.0"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "to reproduce the Work, to incorporate the Work into one or more Collective
+       Works, and to reproduce the Work as incorporated in the Collective Works"
+    - "to create and reproduce Derivative Works"
+    - "to distribute copies or phonorecords of, display publicly, perform publicly,
+       and perform publicly by means of a digital audio transmission the Work including
+       as incorporated in Collective Works"
+    - "to distribute copies or phonorecords of, display publicly, perform publicly,
+       and perform publicly by means of a digital audio transmission Derivative Works"
+    - "You may distribute, publicly display, publicly perform, or publicly digitally
+       perform the Work only under the terms of this License, and You must include
+       a copy of, or the Uniform Resource Identifier for, this License with every
+       copy or phonorecord of the Work You distribute, publicly display, publicly
+       perform, or publicly digitally perform"
+    - "You may not offer
+       or impose any terms on the Derivative Works that alter or restrict the terms
+       of this License or the recipients' exercise of the rights granted hereunder,
+       and You must keep intact all notices that refer to this License and to the
+       disclaimer of warranties"
+    - "If you distribute, publicly display, publicly perform, or publicly digitally
+       perform the Work or any Derivative Works or Collective Works, You must keep
+       intact all copyright notices for the Work and give the Original Author credit
+       reasonable to the medium or means You are utilizing by conveying the name
+       (or pseudonym if applicable) of the Original Author if supplied"
+  excludes:
+    - "You may not exercise any of the rights granted to You in Section 3 above
+       in any manner that is primarily intended for or directed toward commercial
+       advantage or private monetary compensation"
+    - "Performance Royalties Under Blanket Licenses. Licensor waives the exclusive
+       right to collect, whether individually or via a performance rights society
+       (e.g. ASCAP, BMI, SESAC), royalties for the public performance or public digital
+       performance (e.g. webcast) of the Work"

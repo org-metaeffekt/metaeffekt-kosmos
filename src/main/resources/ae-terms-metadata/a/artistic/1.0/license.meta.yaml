@@ -1,0 +1,48 @@
+canonicalName: Artistic License 1.0
+category: Artistic License
+spdxIdentifier: Artistic-1.0
+
+otherIds:
+  - "scancode:artistic-1.0"
+
+alternativeNames:
+  - "Artistic, Version 1.0"
+  - "Artistic, 1.0"
+  - "Artistic 1.0"
+  - "Artistic License, Version 1.0"
+  - "Artistic License, 1.0"
+  - "Artistic License 1.0"
+  - "Artistic-1"
+
+evidence:
+  matches:
+    - "The intent of this document is to state the conditions under which a Package
+       may be copied, such that the Copyright Holder maintains some semblance of
+       artistic control over the development of the package, while giving the users
+       of the package the right to use and distribute the Package in a more-or-less
+       customary fashion, plus the right to make reasonable modifications"
+    - "use the modified Package only within your corporation or organization"
+    - "accompany any non-standard executables with their corresponding Standard
+       Version executables, giving the non-standard executables non-standard names,
+       and clearly documenting the differences in manual pages (or equivalent), together
+       with instructions on where to get the Standard Version"
+  excludes:
+    - "Aggregation of this Package with a commercial distribution is always permitted
+       provided that the use of this Package is embedded; that is, when no overt
+       attempt is made to make this Package's interfaces visible to the end user
+       of the commercial distribution. Such use shall not be construed as a distribution
+       of this Package"
+    - "You may embed this Package's interpreter
+       within an executable of yours (by linking); this shall be construed as a mere
+       form of aggregation, provided that the complete Standard Version of the interpreter
+       is so embedded"
+    - "This license
+       is derived from the Artistic License as distributed with the Perl Programming
+       Language. Its terms are different from those of the Artistic License"
+    - "This
+       license is derived from the Artistic License as distributed with the Perl
+       Programming Language. As significant differences exist, the complete license
+       should be read"
+    - "This license
+       is derived from the Artistic License as distributed with the Perl Programming
+       Language. As differences may exist, the complete license should be read"

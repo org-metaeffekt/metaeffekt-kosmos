@@ -1,0 +1,28 @@
+canonicalName: Linux Documentation Project Manifesto Template License 1998-09-21
+category: Linux Documentation Project Manifesto Template License
+shortName: LDPM-1998
+
+otherIds:
+  - "scancode:ldpm-1998"
+
+alternativeNames:
+  - "Linux Documentation Project Manifesto Template License 1998-09-21"
+  - "Linux Documentation Project ``Manifesto'' Last Revision 21 September 1998"
+
+# due to last line in license text
+ignoreMatches:
+  - "GNU General Public License (undefined)"
+
+evidence:
+  matches:
+    - "Here is a ``boilerplate'' license you may apply to your work"
+    - "It has not been reviewed by a lawyer; feel free to have your own lawyer review it (or your modification of it)
+       for its applicability to your own desires"
+    - "Remember that in order for your document to be part of the LDP, you must allow unlimited reproduction and
+       distribution without fee"
+    - "The copyright notice above and this permission notice must be preserved complete on all complete or partial copies"
+    - "Any translation or derived work must be approved by the author in writing before distribution"
+    - "If you distribute this work in part, instructions for obtaining the complete version of this manual must be included,
+       and a means for obtaining a complete version provided"
+    - "Small portions may be reproduced as illustrations for reviews or quotes in other works without this permission
+       notice if proper citation is given"

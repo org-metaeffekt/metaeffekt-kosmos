@@ -1,0 +1,49 @@
+canonicalName: CeCILL Free Software License Agreement 1.1
+category: CeCILL
+spdxIdentifier: CECILL-1.1
+
+otherIds:
+  - "scancode:cecill-1.1"
+
+alternativeNames:
+  - "CeCILL Free Software License Agreement v1.1"
+  - "CECILL-1.1"
+  - "https://spdx.org/licenses/cecill-1.1"
+  - "http://www.cecill.info/licences/Licence_CeCILL_V1.1-US.txt"
+  - "http://www.cecill.info/licences/Licence_CeCILL_V1.1-US.html"
+
+evidence:
+  matches:
+    - "The purpose of the Agreement is to enable the Licensor to grant the Licensee
+       a free, non-exclusive, transferable and worldwide License for the Software
+       as set forth in Article 5 hereinafter for the whole term of protection of
+       the rights over said Software"
+    - "The Licensee shall be deemed as having accepted the terms and conditions
+       of this Agreement by the occurrence of the first of the following events"
+    - "One copy of the Agreement, containing a notice relating to the specific
+       nature of the Software, to the limited warranty, and to the limitation to
+       use by experienced users has been provided to the Licensee prior to its acceptance
+       as set forth in Article 3.1 hereinabove, and the Licensee hereby acknowledges
+       that it is aware thereof"
+  excludes:
+    - "In this respect, the user's attention is drawn to the risks associated  with
+       loading, using, modifying and/or developing or reproducing the  software  by
+       the user in light of its specific status of free  software,  that  may  mean
+       that it is complicated to manipulate, and that also therefore means that  it
+       is reserved for developers and experienced professionals having in-depth  IT
+       knowledge"
+
+comments:
+
+references:
+  "GPL":
+    matches:
+      - "COMPATIBILITY WITH THE GPL LICENSE
+
+         In the event that the Modified or unmodified Software is included in a code
+         that is subject to the provisions of the GPL License, the Licensee is authorized
+         to redistribute the whole under the GPL License.
+
+         In the event that the Modified Software includes a code that is subject to
+         the provisions of the GPL License, the Licensee is authorized to redistribute
+         the Modified Software under the GPL License"

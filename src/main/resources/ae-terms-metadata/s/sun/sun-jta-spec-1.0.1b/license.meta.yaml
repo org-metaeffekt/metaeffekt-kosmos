@@ -1,0 +1,32 @@
+canonicalName: Sun JTA Specification License 1.0.1B
+category: Sun JTA Specification License
+shortName: Sun-JTA-Spec-1.0.1B
+
+otherIds:
+  - "scancode:sun-jta-spec-1.0.1b"
+
+alternativeNames:
+  - "Java(TM) Transaction API (JTA) Specification ('Specification') Version 1.0.1B"
+
+evidence:
+  matches:
+    - "Sun also grants you a perpetual, non-exclusive,
+       worldwide, fully paid-up, royalty free, limited
+       license (without the right to sublicense) under
+       any applicable copyrights or patent rights it may
+       have in the Specification to c reate and/or
+       distribute an Independent Implementation of the
+       Specification that: (i) fully implements the
+       Spec(s) including all its required interfaces and
+       functionality; (ii) does not modify, subset,
+       superset or otherwise ex tend the Licensor Name
+       Space, or include any public or protected
+       packages, classes, Java interfaces, fields or
+       methods within the Licensor Name Space other than
+       those required/authorized by the Specification or
+       Specifications being implemented; and (iii) passes
+       the TCK (including satisfying the requirements of
+       the applicable TCK Users Guide) for such Specification"
+    - "The foregoing license is expressly
+       conditioned on your not acting outside its scope"
+    - "No license is granted hereunder for any other purpose"

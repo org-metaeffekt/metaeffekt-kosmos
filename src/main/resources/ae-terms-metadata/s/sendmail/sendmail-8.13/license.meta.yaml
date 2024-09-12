@@ -1,0 +1,26 @@
+canonicalName: Sendmail License 8.13
+category: Sendmail
+shortName: Sendmail-8.13
+
+otherIds:
+  - "scancode:sendmail"
+
+alternativeNames:
+  - "Revision: 8.13 $, Last updated $Date: 2004/05/11 23:57:57"
+  - "Sendmail v8.13"
+  - "Sendmail License v8.13"
+
+evidence:
+  matches:
+    - "The following license terms and conditions apply, unless a different license is obtained from Sendmail"
+    - "Use, Modification and Redistribution (including distribution of any modified or derived work) in source and binary forms is permitted only if each of the following conditions is met"
+    - "Redistributions are made at no charge beyond the reasonable cost of materials and delivery"
+    - "Redistributions are accompanied by a copy of the Source Code or by an irrevocable offer to provide a copy of the Source Code for up to three years at the cost of materials and delivery"
+    - "Such redistributions must allow further use, modification, and redistribution of the Source Code under substantially the same terms as this license"
+    - "Redistributions of source code must retain the copyright notices as they appear in each source code file, these license terms, and the disclaimer/limitation of liability set forth as paragraph 6 below"
+    - "Redistributions in binary form must reproduce the Copyright Notice, these license terms, and the disclaimer/limitation of liability set forth as paragraph 6 below, in the documentation and/or other materials provided with the distribution"
+    - "Neither the name of Sendmail, Inc. nor the University of California nor the names of their contributors may be used to endorse or promote products derived from this software without specific prior written permission"
+    - "All redistributions must comply with the conditions imposed by the University of California on certain embedded code, whose copyright notice and conditions for redistribution are as follows"
+  excludes:
+    - "All advertising materials mentioning features or use of this
+        software must display the following acknowledgement"

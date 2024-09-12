@@ -1,0 +1,29 @@
+canonicalName: Six Labors Split License 1.0
+category: Six Labors
+shortName: Six-Labors-Split-1.0
+
+otherIds:
+  - "scancode:six-labors-split-1.0"
+
+alternativeNames:
+  - "Six Labors Split License Version 1.0"
+  - "Six Labors Split License v1.0"
+  - "Six Labors Split v1.0"
+
+evidence:
+  matches:
+    - "Works in Source or Object form are split licensed and may be licensed under the Apache License, Version 2.0 or a Six Labors Commercial Use License"
+    - "Licenses are granted based upon You meeting the qualified criteria as stated"
+    - "You are consuming the Work in for use in software licensed under an Open Source or Source Available license"
+    - "For all other scenarios, Works in Source or Object form are licensed to You under the Six Labors Commercial License which may be purchased by visiting https://sixlabors.com/pricing/"
+
+references:
+  "Apache License":
+    matches:
+      - "Works in Source or Object form are split licensed and may be licensed under the Apache License, Version 2.0 or a
+            Six Labors Commercial Use License.
+
+            Licenses are granted based upon You meeting the qualified criteria as stated. Once granted,
+            You must reference the granted license only in all documentation.
+
+            Works in Source or Object form are licensed to You under the Apache License, Version 2.0 if."

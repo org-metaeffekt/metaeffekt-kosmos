@@ -1,0 +1,28 @@
+canonicalName: Telerik EULA
+category: Telerik
+shortName: Telerik-EULA
+
+alternativeNames:
+  - "Telerik EULA"
+
+otherIds:
+  - "scancode:telerik-eula"
+
+evidence:
+  matches:
+    - "You are not permitted to distribute the Software pursuant to this Section: as a standalone
+       product or as a part of any product other than Your Integrated Product"
+    - "If You have purchased a Commercial License, You may distribute the Programs in minified form
+       as embedded in Your Integrated Products to Your end-users only pursuant to an end-user license
+       that meets the requirements of this Section"
+
+references:
+  "Apache License":
+    matches:
+      - "Kendo UI Core, a suite of components licensed under the Apache 2.0 license, is shipped with Kendo UI Professional and publicly available on Github at"
+  "CPL":
+    matches:
+      - "As required by the Common Public License (\"CPL\"), if a user wishes to obtain the source code for the components licensed under the CPL a user may access them at"
+  "Public Domain":
+    matches:
+      - "obligations with respect to source code shall survive in perpetuity and*{.{0,6}}* trade secrets shall be maintained as such until they fall into the public domain"

@@ -1,0 +1,96 @@
+canonicalName: LSI Proprietary EULA
+category: LSI Proprietary EULA
+shortName: LSI-Proprietary-EULA
+
+otherIds:
+  - "scancode:lsi-proprietary-eula"
+
+alternativeNames:
+  - "lsi-proprietary-eula"
+
+evidence:
+  matches:
+    - "Use the LSI Binary Code and related Explanatory Materials solely for the
+       Authorized Use for Binary Code and only with LSI Devices"
+    - "Make copies of the LSI Binary Code and related Explanatory Materials to
+       support the Authorized Use for Binary Code and for archival and backup
+       purposes in support of the Authorized Use for Binary Code only with LSI
+       Devices"
+    - "Distribute the LSI Binary Code as incorporated in Licensee's Products or
+       for use with LSI Devices to its Subsequent Users"
+    - "Distribute the Explanatory Materials related to LSI Binary Code only for
+       use with LSI Devices"
+    - "Sublicense the rights provided in paragraphs (a) and (b) above in
+       accordance with the terms provided in this Agreement to contract
+       manufacturers ('CMs') and/or original design manufacturers ('ODMs'), in each
+       case meeting the requirements of Section 3.1(d) below for the purpose of
+       manufacturing Licensee's Products; and (f) Sublicense the rights provided in
+       paragraphs (b) and (c) in accordance with the terms provided in this
+       Agreement to Subsequent Users who are not end users for the purpose of
+       distributing and supporting Licensee's Product"
+    - "Use the LSI Source Code and related Explanatory Materials solely for the
+       Authorized Use for Source Code and only with LSI Devices"
+    - "Make copies of the LSI Source Code and related Explanatory Material to
+       support the Authorized Use for Source Code only and for archival and backup
+       purposes in support of the Authorized use for Source Code only with LSI
+       Devices"
+    - "Modify and prepare Derivative Works of the LSI Source Code for the
+       Authorized Use for LSI Source Code and only for use with LSI Devices"
+    - "Distribute the binary form only of any authorized Derivative Work of the
+       LSI Source Code ('Licensee Binary Derivative') and necessary portions of the
+       related Explanatory Materials only for use with LSI Devices; and"
+    - "Sublicense the rights granted in paragraph (d) above in accordance with
+       the terms provided in this Agreement to Subsequent Users who are not end
+       users for the purpose of distributing and supporting Licensee's Product"
+    - "Use the LSI Internal Use Code and related Explanatory Materials solely
+       for the Authorized Use for Internal Code and only with LSI Devices; and"
+    - "Make copies of the LSI Internal Use Code and related Explanatory
+       Materials to support the Authorized Use for Internal Code only and for
+       archival and backup purposes in support of the Authorized use for Internal
+       Code only with LSI Devices"
+    - "Without limiting Section 4, Licensee may exercise the foregoing rights
+       directly and/or indirectly through its employees and contractors, who are bound
+       by terms at least as restrictive as this Agreement"
+    - "Licensee shall not use the LSI Binary Code and related Explanatory
+       Materials for any purpose other than as expressly provided in Article 2"
+    - "Licensee shall reproduce all copyright notices and other proprietary
+       markings or legends contained within or on the LSI Binary Code and related
+       Explanatory Materials on any copies it makes; and"
+    - "Licensee shall not distribute or disclose the LSI Binary Code and
+       related Explanatory Materials except pursuant to an agreement with terms at
+       least as protective of LSI's Binary Code as the terms of this Agreement"
+    - "Licensee shall not, and shall not allow its Subsequent Users to,
+       disassemble, de-compile, or reverse engineer the LSI Binary Code"
+    - "Licensee may grant the sublicense set forth in Section 2.1(e) to its CMs
+       and ODMs, provided that each such CM and ODM agrees to abide by the terms
+       and conditions of this Agreement and Licensee shall remain responsible for
+       any failure by its CMs and ODM to comply with the terms and conditions of
+       this Agreement"
+    - "Licensee shall not use the LSI Source Code and related Explanatory
+       Materials for any purpose other than as expressly provided in Article 2"
+    - "Licensee shall reproduce all copyright notices and other proprietary
+       markings or legends contained within or on the LSI Source Code and related
+       Explanatory Materials on any copies it makes"
+    - "Licensee shall not distribute or disclose any LSI Source Code and
+       related Explanatory Materials to any Subsequent Users or third parties,
+       without the express written consent of LSI"
+    - "Licensee shall not knowingly infringe upon the intellectual property
+       rights of any third party when making Derivative Works to the LSI Source
+       Code"
+    - "Licensee shall not disassemble, reverse-engineer, or decompile the LSI
+       Source Code, except for making authorized Derivative Works; and"
+    - "Licensee shall not distribute or disclose the Licensee Binary Derivative
+       except pursuant to an agreement with terms at least as protective as those
+       in this Agreement protecting LSI's Binary Code. Licensee shall not, and
+       shall not allow its Subsequent Users to, disassemble, de-compile, or reverse
+       engineer the Licensee Binary Derivative"
+    - "Licensee shall not use the LSI Internal Use Code and related Explanatory
+       Materials for any purpose other than as expressly provided in Article 2"
+    - "Licensee shall reproduce all copyright notices and other proprietary
+       markings or legends contained within or on the LSI Internal Use Code and
+       related Explanatory Materials on any copies it makes"
+    - "Licensee shall not distribute or disclose any LSI Internal Use Code and
+       related Explanatory Materials to any Subsequent Users or third parties,
+       without the express written consent of LSI; and"
+    - "Licensee shall not disassemble, reverse-engineer, or decompile the LSI
+       Internal Use Code"

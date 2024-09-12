@@ -1,0 +1,26 @@
+canonicalName: Permission Terms (freeware)
+category: Permission
+shortName: PT-Var086
+
+otherIds:
+  - "scancode:fpl"
+
+representedAs: Permission Terms
+
+status:
+  - "reviewed 03.01.2022"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "Permission to distribute this software in source and binary forms is
+       hereby granted without a fee"
+    - "THIS SOFTWARE IS PROVIDED 'AS IS' AND WITHOUT ANY EXPRESSED
+       OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+       WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE"
+    - "SHALL NOT BE HELD LIABLE FOR ANY DAMAGES RESULTING
+       FROM THE USE OF THIS SOFTWARE, EITHER DIRECTLY OR INDIRECTLY, INCLUDING,
+       BUT NOT LIMITED TO, LOSS OF DATA OR DATA BEING RENDERED INACCURATE"
+    - "This software is licensed as \"freeware"

@@ -1,0 +1,21 @@
+canonicalName: X11-Style (Adobe-DEC)
+category: X11-Style (Adobe-DEC)
+shortName: X11-Adobe-DEC
+
+otherIds:
+  - "scancode:x11-adobe-dec"
+
+representedAs: X11 License
+
+alternativeNames:
+  - "X11-Style (Adobe-DEC)"
+
+evidence:
+  matches:
+    - "Adobe is a trademark of Adobe Systems Incorporated which may be registered in
+       certain jurisdictions"
+    - "Permission to use these trademarks is hereby granted only in association with
+       the images described in this file"
+    - "Adobe Systems and Digital Equipment Corporation make no representations about
+       the suitability of this software for any purpose"
+    - "It is provided 'as is' without express or implied warranty"

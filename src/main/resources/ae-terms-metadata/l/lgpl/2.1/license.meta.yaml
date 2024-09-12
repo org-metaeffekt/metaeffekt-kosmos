@@ -1,0 +1,173 @@
+canonicalName: GNU Lesser General Public License 2.1
+category: LGPL
+spdxIdentifier: LGPL-2.1-only
+shortName: LGPL-2.1
+
+defaultSourceCategory: annex
+requiresSourceCodeProvision: true
+
+status:
+  - "reviewed 29.04.22"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:lgpl-2.1"
+  - "osi:LGPL-2.1"
+
+alternativeNames:
+  - "GNU Lesser General Public License, Version 2.1"
+  - "GNU LESSER GENERAL PUBLIC LICENSE 2.1"
+  - "GNU LESSER GENERAL PUBLIC LICENSE Version 2.1"
+  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1"
+  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1, February 1999"
+  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1, Februrary 1999"
+  - "GNU LGPL 2.1"
+  - "GNU LGPL v2.1"
+  - "GNU LGPL version 2.1"
+  - "GNU LGPL(v2.1)"
+  - "LGPL-2.1-only"
+  - "GNU LIBRARY GENERAL PUBLIC LICENSE, Version 2.1, February 1999"
+  - "GNU Lesser GPL 2.1"
+  - "GNU Lesser General Public License (LGPL) 2.1"
+  - "GNU Lesser General Public License (LGPL), Version 2.1"
+  - "GNU Lesser General Public License (LGPL), version 2.1"
+  - "GNU Lesser General Public License 2.1"
+  - "GNU Lesser General Public License Version 2.1"
+  - "GNU Lesser General Public License Version 2.1 (LGPL)"
+  - "GNU Lesser General Public License Version 2.1, February 1999"
+  - "GNU Lesser General Public License v2.1"
+  - "GNU Lesser General Public License version 2.1"
+  - "GNU Lesser General Public License version 2.1 (LGPLv2.1)"
+  - "GNU Lesser General Public License, 2.1"
+  - "GNU Lesser General Public License, Version 2.1, February 1999"
+  - "GNU Lesser General Public License, v. 2.1"
+  - "GNU Lesser General Public License, version 2.1"
+  - "GNU Lesser General Public License, version 2.1 (LGPLv2.1)"
+  - "GNU Lesser Public License 2.1"
+  - "GNU Library or Lesser General Public License (LGPL) V2.1"
+  - "GNU Library or Lesser General Public License (LGPL) 2.1"
+  - "GNU General Lesser Public License (LGPL) version 2.1"
+  - "Lesser Gnu Public License, Version 2.1"
+  - "The GNU Lesser General Public License, version 2.1"
+  - "The GNU Lesser General Public License, Version 2.1"
+  - "the GNU Lesser General Public License version 2.1"
+  - "The LGPL 2.1 (GNU Lesser General Public License)"
+  - "LGPL 2.1 (GNU Lesser General Public License)"
+  - "LGPL 2.1"
+  - "LGPL, version 2.1"
+  - "Lesser General Public License (LGPL) v 2.1"
+  - "Lesser General Public License (LGPL), Version 2.1"
+  - "LGPL 2.1 license"
+  - "LGPL license, Version 2.1"
+  - "LGPL v 2.1"
+  - "LGPL v2.1"
+  - "LGPL v2.1 license"
+  - "LGPL-2.1"
+  - "LGPL2.1"
+  - "LGPLv2.1"
+  - "lgpl_v2_1"
+  - "GNU Lesser General Public License (LGPL) version 2.1"
+  - "GNU Lesser General Public License (LGPL) v2.1"
+  - "GNU Lesser General Public License (LGPL) v 2.1"
+  - "version 2.1 of the GNU Lesser General Public License"
+  - "Version 2.1 of the GNU Lesser General Public License"
+  - "The GNU Lesser General Public License, Versions 2.1"
+  - "GNU Lesser General Public License as published by the Free Software Foundation, version 2.1"
+  - "This is the first released version of the Lesser GPL.  It also counts
+     as the successor of the GNU Library Public License, version 2, hence
+     the version number 2.1."
+  - "GNU Lesser Public License (LGPL) Version 2.1"
+  - "GNU Lesser General Public License as published by the Free Software Foundation; version 2.1 of the License"
+  - "http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"
+  - "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"
+  - "GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the licence or (at your option) any later version"
+  - "GNU Lesser General Public License Version 2 as published by the Free Software Foundation"
+
+evidence:
+  matches:
+    - "You may modify your copy or copies of the Library or any portion
+       of it, thus forming a work based on the Library, and copy and
+       distribute such modifications or work under the terms of Section 1
+       above, provided that you also meet all of these conditions"
+    - "The modified work must itself be a software library"
+    - "You must cause the files modified to carry prominent notices
+       stating that you changed the files and the date of any change"
+  excludes:
+    - "Finally, any free program is threatened constantly by software patents"
+    - "It is permitted to add proprietary source code to the Library, but it
+       must be done in a way such that the Library will still run without that
+       proprietary code present"
+    - "This end user license agreement (\"EULA\") governs the use of the JBoss
+       Enterprise Middleware and any related updates, source code, appearance,
+       structure and organization (the \"Programs\"), regardless of the delivery
+       mechanism"
+    - "BRAINSTEM DEVELOPMENT KIT SOFTWARE PACKAGE LICENSE AGREEMENT"
+    - "you may submit the differences between the Library and your work based on the Library
+       for inclusion in the source code repository maintained by Rensselaer Polytechnic Institute"
+    - "You may not use the names of Rensselaer Polytechnic Institute, SCOREC, Scientific Computation
+       Research Center, nor the names of any of the software contributors to endorse or promote products"
+    - "distributed under the terms of this Rensselaer Public License"
+
+references:
+  "GPL":
+    matches:
+      - "This is the first released version of the Lesser GPL"
+      - "It also counts as the successor of the GNU Library Public License, version 2, hence the version number 2.1"
+      - "Once this change is made in a given copy, it is irreversible for
+         that copy, so the ordinary GNU General Public License applies to all
+         subsequent copies and derivative works made from that copy"
+      - "To do this, you must alter all the notices that refer to this License, so
+         that they refer to the ordinary GNU General Public License, version 2,
+         instead of to this License.  (If a newer version than version 2 of the
+         ordinary GNU General Public License has appeared, then you can specify
+         that version instead if you wish.)  Do not make any other change in
+         these notices"
+      - "Most GNU software, including some libraries, is covered by the ordinary GNU General Public License"
+      - "This license, the GNU Lesser General Public License, applies to certain designated libraries, and
+         is quite different from the ordinary General Public License.  We use
+         this license for certain libraries in order to permit linking those
+         libraries into non-free programs"
+      - "You may copy and distribute verbatim copies of the Library's
+         complete source code as you receive it, in any medium, provided that
+         you conspicuously and appropriately publish on each copy an
+         appropriate copyright notice and disclaimer of warranty"
+
+
+mappings:
+  "libgm2/libpim/:NEWLINE-MARKERCopyright \\(C\\) 2005-2014 Free Software Foundation, Inc.NEWLINE-MARKERMix of LGPL-2.1, LGPL-3 and GPL-3.": " LICENSE-SEGMENT-MARKER libgm2/libpim/:NEWLINE-MARKERCopyright (C) 2005-2014 Free Software Foundation, Inc.NEWLINE-MARKERMix of LGPL-2.1, LGPL-3 and GPL-3."
+
+licenseTemplate: "<lq><codeph>NO WARRANTY</codeph>
+  <p><codeph>BECAUSE THE LIBRARY IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE LIBRARY, TO THE EXTENT
+  PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER
+  PARTIES PROVIDE THE LIBRARY \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,
+  BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE LIBRARY IS WITH YOU.  SHOULD THE LIBRARY PROVE
+  DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</codeph></p>
+  <codeph>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR
+  ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE LIBRARY AS PERMITTED ABOVE, BE LIABLE TO YOU FOR
+  DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR
+  INABILITY TO USE THE LIBRARY (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE
+  OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE LIBRARY TO OPERATE WITH ANY OTHER SOFTWARE),
+  EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</codeph></lq>"
+
+masks:
+  matches:
+    - "To apply these terms, attach the following notices to the library.  It is
+       safest to attach them to the start of each source file to most effectively
+       convey the exclusion of warranty; and each file should have at least the
+       \"copyright\" line and a pointer to where the full notice is found.
+
+        <one line to give the library's name and a brief idea of what it does.>
+        Copyright (C) <year>  <name of author>
+
+        This library is free software; you can redistribute it and/or
+        modify it under the terms of the GNU Lesser General Public
+        License as published by the Free Software Foundation; either
+        version 2.1 of the License, or (at your option) any later version.
+
+        This library is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+        Lesser General Public License for more details"

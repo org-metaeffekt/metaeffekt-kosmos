@@ -1,0 +1,31 @@
+canonicalName: Cygwin Exception (GPL 2.0)
+category: Cygwin Exception
+shortName: Cygwin-Exception-2.0
+
+type: exception
+
+canonicalNameHistory:
+  - "Cygwin exception to GPL 2.0"
+  - "Cygwin Exception (GPL)"
+
+otherIds:
+  - "scancode:cygwin-exception-2.0"
+
+alternativeNames:
+  - "Cygwin exception to GPL 2.0"
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Cygwin Exception (GPL 2.0))
+
+evidence:
+  matches:
+    - "In accordance with section 10 of the GPL, Red Hat permits programs whose
+       sources are distributed under a license that complies with the Open
+       Source definition to be linked with libcygwin.a without libcygwin.a
+       itself causing the resulting program to be covered by the GNU GPL"
+
+references:
+  "GPL":
+    matches:
+      - "In accordance with section 10 of the GPL"
+      - "resulting program to be covered by the GNU GPL"

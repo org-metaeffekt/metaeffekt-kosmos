@@ -1,0 +1,29 @@
+canonicalName: FSF All Permissive License
+category: FSFAP
+spdxIdentifier: FSFAP
+
+otherIds:
+  - "scancode:fsf-ap"
+
+
+requiresCopyright: false
+requiresLicenseText: false
+
+
+canonicalNameHistory:
+  - "Permission Terms (GAP)"
+
+alternativeNames:
+  - "FSFAP"
+  - "FSFAP License"
+  - "FSFAP LICENSE"
+  - "FSFAP license"
+  - "FSF All Permissive"
+  - "FSF all permissive"
+
+evidence:
+  matches:
+    - "Copying and distribution of this file, with or without modification,
+       are permitted in any medium without royalty provided the copyright notice
+       and this notice are preserved"
+    - "This file is offered as-is, without any warranty"

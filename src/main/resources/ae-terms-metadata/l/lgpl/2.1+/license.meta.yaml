@@ -1,0 +1,109 @@
+canonicalName: GNU Lesser General Public License 2.1 (or any later version)
+category: LGPL
+spdxIdentifier: LGPL-2.1-or-later
+shortName: LGPL-2.1+
+
+otherIds:
+  - "scancode:lgpl-2.1-plus"
+  - "osi:LGPL-2.1"
+
+defaultSourceCategory: annex
+
+namedEquivalence: "GNU Lesser General Public License 2.1"
+
+allowsLaterVersions: true
+
+alternativeNames:
+  - "GNU Lesser General Public License, Version 2.1+"
+  - "GNU LESSER GENERAL PUBLIC LICENSE 2.1+"
+  - "GNU LESSER GENERAL PUBLIC LICENSE Version 2.1+"
+  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1+"
+  - "LGPL (GNU Lesser General Public License), V2.1 or later"
+  - "LGPL 2.1+"
+  - "LGPL 2.1 or later"
+  - "LGPL v2.1+"
+  - "LGPL version 2.1+"
+  - "LGPL(v2.1+)"
+  - "GNU LIBRARY GENERAL PUBLIC LICENSE, Version 2.1+"
+  - "GNU Lesser GPL 2.1+"
+  - "GNU Lesser General Public License (LGPL), version 2.1+"
+  - "GNU Lesser General Public License (LGPL), version 2.1 or later"
+  - "GNU Lesser General Public License - v 2.1 or later"
+  - "GNU Lesser General Public License 2.1+"
+  - "GNU Lesser General Public License Version 2.1+"
+  - "GNU Lesser General Public License Version 2.1 or later"
+  - "GNU Lesser General Public License v2.1+"
+  - "GNU Lesser General Public License v2.1 or later"
+  - "GNU Lesser General Public License version 2.1+"
+  - "GNU Lesser General Public License version 2.1 or later"
+  - "GNU Lesser General Public License, 2.1+"
+  - "GNU Lesser General Public License, Version 2.1 or later"
+  - "GNU Lesser General Public License, v. 2.1+"
+  - "GNU Lesser General Public License, version 2.1+"
+  - "GNU Lesser General Public License, version 2.1 or later"
+  - "GNU Lesser Public License 2.1+"
+  - "GNU Library or Lesser General Public License (LGPL) V2.1+"
+  - "GNU Library or Lesser General Public License (LGPL) 2.1+"
+  - "GNU General Lesser Public License (LGPL) version 2.1+"
+  - "Lesser Gnu Public License, Version 2.1+"
+  - "LGPL 2.1+ (GNU Lesser General Public License)"
+  - "LGPL, version 2.1+"
+  - "Lesser General Public License (LGPL) v 2.1+"
+  - "Lesser General Public License (LGPL), Version 2.1+"
+  - "LGPL 2.1+ license"
+  - "LGPL license, Version 2.1+"
+  - "LGPL v 2.1+"
+  - "LGPL version 2.1 or later"
+  - "LGPL, v2.1 or later"
+  - "LGPL-2.1+"
+  - "LGPL2.1+"
+  - "LGPLv2.1+"
+  - "LGPLv2.1 or later"
+  - "lgpl_v2_1+"
+  - "LGPL-2.1-or-later"
+  - "GNU Lesser General Public License (LGPL) version 2.1 or later"
+  - "GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1, or (at your option) any later version"
+  - "GNU Lesser General Public License as published by the Free Software Foundation, either version 2.1 of the License, or (at your option) any later version"
+  - "GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version"
+  - "GNU Lesser General Public License, V2.1 or later"
+  - "GNU Lesser General Public License as ~ published by the Free Software Foundation; either version 2.1 of ~ the 
+    License, or (at your option) any later version"
+  - "[GNU Lesser General Public License] as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version"
+  - "GNU Lesser General Public License as published by the Free Software Foundation ; either version 2 . 1 of License or ( at your option ) any later version"
+  - "GNU Lesser General Public License (version 2.1 or at your option any later version)"
+  - "GNU Lesser general Public License as published by the Free Software Foundation ; either version 2 . 1 of the License or ( at your option ) any later version"
+  - "GNU Lesser General Public License ; as published by the Free Software Foundation ; either version 2 . 1 of ; the License or ( at your option ) any later version"
+  - "GNU Lesser General License as published by the Free Software Foundation; either version 2.1 of the License or (at your option) any later version"
+
+references:
+  "GPL":
+     matches:
+        - "This is the first released version of the Lesser GPL"
+        - "It also counts as the successor of the GNU Library Public License, version 2, hence the version number 2.1"
+        - "Once this change is made in a given copy, it is irreversible for
+           that copy, so the ordinary GNU General Public License applies to all
+           subsequent copies and derivative works made from that copy"
+        - "To do this, you must alter all the notices that refer to this License, so
+           that they refer to the ordinary GNU General Public License, version 2,
+           instead of to this License.  (If a newer version than version 2 of the
+           ordinary GNU General Public License has appeared, then you can specify
+           that version instead if you wish.)  Do not make any other change in
+           these notices"
+        - "Most GNU software, including some libraries, is covered by the ordinary GNU General Public License"
+        - "This license, the GNU Lesser General Public License, applies to certain designated libraries, and
+           is quite different from the ordinary General Public License.  We use
+           this license for certain libraries in order to permit linking those
+           libraries into non-free programs"
+        - "The modified work must itself be a software library"
+        - "On Debian systems a full copy of the GNU General Public License, GPL, can be
+             found in the file /usr/share/common-licenses/GPL-2"
+
+
+mappings:
+  "contrib/unicode/from_glibc:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright \\(C\\) 2014-2019 Free Software Foundation, Inc.NEWLINE-MARKER This file is part of the GNU C Library": " LICENSE-SEGMENT-MARKER contrib/unicode/from_glibc:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright (C) 2014-2019 Free Software Foundation, Inc.NEWLINE-MARKER This file is part of the GNU C Library"
+  "gcc/gm2/ulm-lib-gm2:NEWLINE-MARKERCopyright \\(C\\) 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKER Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software": " LICENSE-SEGMENT-MARKER gcc/gm2/ulm-lib-gm2:NEWLINE-MARKERCopyright (C) 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKER Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software"
+  "gcc/gm2/ulm-lib-gm2/std/M2RTS.mod:NEWLINE-MARKERgcc/gm2/ulm-lib-gm2/std/Storage.mod:NEWLINE-MARKERgcc/gm2/ulm-lib-gm2/std/RTExceptions.mod:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright \\(C\\) 2005, 2006, 2007, 2008, 2009, 2010 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis library is free software": " LICENSE-SEGMENT-MARKER gcc/gm2/ulm-lib-gm2/std/M2RTS.mod:NEWLINE-MARKERgcc/gm2/ulm-lib-gm2/std/Storage.mod:NEWLINE-MARKERgcc/gm2/ulm-lib-gm2/std/RTExceptions.mod:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright (C) 2005, 2006, 2007, 2008, 2009, 2010 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis library is free software"
+  "gcc/gm2/gm2-libs:NEWLINE-MARKERCopyright \\(C\\) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKERFree Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis library is free software": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libs:NEWLINE-MARKERCopyright (C) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKERFree Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis library is free software"
+  "gcc/gm2/gm2-libs-iso/\\*.def:NEWLINE-MARKERThis library is free software": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libs-iso/*.def:NEWLINE-MARKERThis library is free software"
+  "gcc/gm2/gm2-libs-iso/\\*.mod:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright \\(C\\) 2012 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libs-iso/*.mod:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright (C) 2012 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software"
+  "libgm2/libiso/:NEWLINE-MARKERCopyright \\(C\\) 2008, 2009, 2010 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis library is free software": " LICENSE-SEGMENT-MARKER libgm2/libiso/:NEWLINE-MARKERCopyright (C) 2008, 2009, 2010 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis library is free software"

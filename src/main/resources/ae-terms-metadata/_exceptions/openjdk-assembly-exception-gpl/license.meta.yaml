@@ -1,0 +1,62 @@
+canonicalName: OpenJDK Assembly Exception (GPL)
+category: GPL OpenJDK Assembly Exception
+spdxIdentifier: OpenJDK-assembly-exception-1.0
+shortName: OpenJDK-Assembly-Exception-GPL
+
+otherIds:
+  - "scancode:openjdk-assembly-exception-1.0"
+
+type: exception
+
+canonicalNameHistory:
+  - "OpenJDK Assembly Exception 1.0"
+
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with OpenJDK Assembly exception (GPL))
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with OpenJDK Assembly exception (GPL))
+
+# closely coupled with GPL-2.0; see combinedWith
+ignoreMatches:
+  - "GNU General Public License 2.0"
+
+expectedSpdxMatches:
+  - "GNU General Public License 2.0"
+  - "OpenJDK Assembly Exception (GPL)"
+
+
+evidence:
+  matches:
+    - "Linking this OpenJDK Code statically or dynamically with other code is making a combined work based on this library.
+       Thus, the terms and conditions of GPL2 cover the whole combination"
+    - "As a special exception*{.{0,50}}* gives you permission to*{.{0,190}}* to
+        produce an executable, regardless of the license terms of*{.{0,50}}* to copy and
+        distribute the resulting executable under*{.{0,30}}* provided that*{.{0,50}}* to be
+        governed by the licenses under which they were offered by"
+    - "As such, it allows licensees and sublicensees of*{.{0,50}}* to build an executable that includes
+       those portions of necessary code that*{.{0,50}}* could not provide under GPL2 (or that*{.{0,50}}* provided under GPL2
+       with the Classpath exception)"
+    - "If you modify or add to the OpenJDK code, that new GPL2 code may still be combined
+       with Designated Exception Modules if the new code is made subject to this exception by its copyright holder"
+
+references:
+  "Classpath Exception":
+    matches:
+      - "or that Oracle has provided under GPL2 with the Classpath exception"
+  "GPL":
+    matches:
+      - "GNU General Public License <http://www.gnu.org/copyleft/gpl.html>
+         version 2 only (\"GPL2\"), with the following clarification and special exception.
+          
+          Linking this OpenJDK Code statically or dynamically with other code is making a combined work based on this library.
+          Thus, the terms and conditions of GPL2 cover the whole combination.
+          
+          As a special exception, Oracle gives you permission to link this OpenJDK Code with certain code licensed by Oracle as
+          indicated at http://openjdk.java.net/legal/exception-modules-2007-05-08.html (\"Designated Exception Modules\") to
+          produce an executable, regardless of the license terms of the Designated Exception Modules, and to copy and
+          distribute the resulting executable under GPL2, provided that the Designated Exception Modules continue to be
+          governed by the licenses under which they were offered by Oracle."
+      - "As such, it allows licensees and sublicensees of Oracle's GPL2 OpenJDK Code to build an executable that includes
+         those portions of necessary code that Oracle could not provide under GPL2 (or that Oracle has provided under GPL2
+         with the Classpath exception). If you modify or add to the OpenJDK code, that new GPL2 code may still be combined
+         with Designated Exception Modules if the new code is made subject to this exception by its copyright holder."

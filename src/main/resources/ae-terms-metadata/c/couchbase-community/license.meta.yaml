@@ -1,0 +1,25 @@
+canonicalName: Couchbase Community Edition License
+category: Couchbase Community Edition License
+shortName: Couchbase-Community
+
+otherIds:
+  - "scancode:couchbase-community"
+
+alternativeNames:
+  - "COUCHBASE INC. COMMUNITY EDITION LICENSE AGREEMENT"
+
+evidence:
+  matches:
+    - "Couchbase Inc. hereby grants Licensee, free of
+       charge, the non-exclusive right to use, copy, merge, publish,
+       distribute, sublicense, and/or sell copies of the Software, and to
+       permit persons to whom the Software is furnished to do so, subject to
+       Licensee including the following copyright notice in all copies or
+       substantial portions of the Software:
+       Couchbase (r) http://www.Couchbase.com Copyright 2010 Couchbase, Inc."
+    - "As used in this Agreement, 'Software' means the object code version of
+       the applicable elastic data management server software provided by Couchbase Inc."
+    - "Couchbase Inc. will provide Licensee with access to, and
+       use of, the Couchbase Inc. support forum available at the following
+       URL: http://couchbase.com . Couchbase Inc. may, at its discretion,
+       modify, suspend or terminate support at any time upon notice to Licensee"

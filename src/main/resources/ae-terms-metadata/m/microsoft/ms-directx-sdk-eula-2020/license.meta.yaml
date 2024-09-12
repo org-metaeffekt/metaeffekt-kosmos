@@ -1,0 +1,17 @@
+canonicalName: Microsoft DirectX SDK EULA 2020
+category: Microsoft DirectX SDK EULA
+shortName: mS-DirectX-SDK-EULA-2020
+
+otherIds:
+  - "scancode:ms-directx-sdk-eula-2020"
+
+evidence:
+  matches:
+    - "You may copy and use images, clip art, animations, sounds, music, shapes, video clips and templates provided with the software and identified for such use in documents and projects that you create"
+    - "You may distribute those documents and projects non-commercially"
+    - "You may modify, copy, and distribute the source and object code form of code marked as “sample”, as well as those marked as follows"
+    - "You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs"
+    - "Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement"
+    - "Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes"
+
+

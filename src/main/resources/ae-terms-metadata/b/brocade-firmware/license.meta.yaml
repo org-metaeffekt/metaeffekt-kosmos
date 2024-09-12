@@ -1,0 +1,32 @@
+canonicalName: Brocade Firmware License
+category: Brocade Firmware License
+shortName: Brocade-Firmware
+
+otherIds:
+  - "scancode:brocade-firmware"
+
+alternativeNames:
+  - "brocade-firmware"
+
+evidence:
+  matches:
+    - "You may redistribute the hardware specific firmware binary file
+       under the following terms"
+    - "Redistribution of source code (only if applicable),
+       must retain the above copyright notice, this list of
+       conditions and the following disclaimer"
+    - "Redistribution in binary form must reproduce the above
+       copyright notice, this list of conditions and the
+       following disclaimer in the documentation and/or other
+       materials provided with the distribution"
+    - "The name of Brocade Communications Systems, Inc. ('Brocade')
+       may not be used to endorse or promote products derived from this
+       software without specific prior written permission by Brocade"
+    - "USER ACKNOWLEDGES AND AGREES THAT USE OF THIS PROGRAM WILL NOT
+       CREATE OR GIVE GROUNDS FOR A LICENSE BY IMPLICATION, ESTOPPEL, OR
+       OTHERWISE IN ANY INTELLECTUAL PROPERTY RIGHTS (PATENT, COPYRIGHT,
+       TRADE SECRET, MASK WORK, OR OTHER PROPRIETARY RIGHT) EMBODIED IN
+       ANY OTHER BROCADE HARDWARE OR SOFTWARE EITHER SOLELY OR IN
+       COMBINATION WITH THIS PROGRAM"
+
+

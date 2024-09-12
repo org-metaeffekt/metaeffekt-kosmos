@@ -1,0 +1,29 @@
+canonicalName: QualcommAtheros Firmware License
+category: QualcommAtheros Firmware
+shortName: QualcommAtheros-Firmware
+
+otherIds:
+  - "scancode:qca-linux-firmware"
+
+ignoreMatches:
+  - "Patent License Open Source Exception"
+
+alternativeNames:
+  - "QualcommAtheros Firmware License"
+
+evidence:
+  matches:
+    - "Redistribution. Reproduction and redistribution in binary form, without
+       modification, for use solely in conjunction with a Qualcomm Atheros, Inc.
+       chipset, is permitted provided that the following conditions are met"
+    - "Redistributions must reproduce the above copyright notice and the following
+       disclaimer in the documentation and/or other materials provided with the
+       distribution"
+    - "Neither the name of Qualcomm Atheros, Inc. nor the names of its suppliers
+       may be used to endorse or promote products derived from this Software
+       without specific prior written permission"
+    - "No reverse engineering, decompilation, or disassembly of this Software is
+       permitted"
+
+
+

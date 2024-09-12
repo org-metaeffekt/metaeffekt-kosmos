@@ -1,0 +1,79 @@
+canonicalName: HP-UX 11i Java Technology Software
+category: HP-UX 11i Java Technology Software
+shortName: HP-UX-Java
+
+otherIds:
+  - "scancode:hp-ux-java"
+
+alternativeNames:
+  - "http://www.hp.com/products1/unix/java/java2/sdkrte1_3/downloads/license_rte_1-3-1-17_pa-risc.html"
+
+evidence:
+  matches:
+    - "USE OF THE SOFTWARE IS SUBJECT TO THE HP SOFTWARE LICENSE TERMS
+       AND SUPPLEMENTAL RESTRICTIONS SET FORTH BELOW, THIRD PARTY SOFTWARE LICENSE
+       TERMS FOUND IN THE THIRDPARTYLICENSEREADME"
+    - "TXT FILE AND THE WARRANTY DISCLAIMER ATTACHED"
+    - "IF YOU DO NOT ACCEPT THESE TERMS FULLY, YOU MAY NOT INSTALL OR OTHERWISE USE THE SOFTWARE"
+    - "NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS NOTICE, INSTALLING OR OTHERWISE USING THE SOFTWARE INDICATES
+       YOUR ACCEPTANCE OF THESE LICENSE TERMS"
+    - "The following terms govern your use of the Software unless you have a separate
+       written agreement with HP"
+    - "HP has the right to change these terms and conditions at any time, with or without notice"
+    - "HP grants you a license to Use one copy of the Software"
+    - "'Use' means storing, loading, installing, executing or displaying the Software"
+    - "You may not modify the Software or disable any licensing or control features of the Software"
+    - "If the Software is licensed for 'concurrent use', you may not allow more than the
+       maximum number of authorized users to Use the Software concurrently"
+    - "The Software is owned and copyrighted by HP or its third party suppliers"
+    - "Your license confers no title or ownership in the Software and is not a sale
+       of any rights in the Software"
+    - "HPs third party suppliers may protect their rights in the event of any violation of these License Terms"
+    - "Some third-party code embedded or bundled with the Software is licensed to you
+       under different terms and conditions as set forth in the THIRDPARTYLICENSEREADME.txt file"
+    - "In addition to any terms and conditions of any third party license identified in the THIRDPARTYLICENSEREADME.txt file,
+       the disclaimer of warranty and limitation of liability provisions in this
+       license shall apply to all code distributed as part of or bundled with the Software"
+    - "Software may contain source code that, unless expressly licensed for other
+       purposes, is provided solely for reference purposes pursuant to the terms of this license"
+    - "Source code may not be redistributed unless expressly provided for in these License Terms"
+    - "You may only make copies or adaptations of the Software for archival purposes
+       or when copying or adaptation is an essential step in the authorized Use of
+       the Software"
+    - "You must reproduce all copyright notices in the original Software on all copies or adaptations"
+    - "You may not copy the Software onto any bulletin board or similar system"
+    - "You may not disassemble or decompile the Software unless HPs prior written consent is obtained"
+    - "In some jurisdictions, HPs consent may not be required for disassembly or decompilation"
+    - "Upon request, you will provide HP with reasonably detailed information regarding any disassembly or decompilation"
+    - "You may not decrypt the Software unless decryption is a necessary part of the operation of the Software"
+    - "Your license will automatically terminate upon any transfer of the Software"
+    - "Upon transfer, you must deliver the Software, including any copies and related documentation, to the transferee"
+    - "The transferee must accept these License Terms as a condition to the transfer"
+    - "HP may terminate your license upon notice for failure to comply with any of
+       these License Terms"
+    - "Upon termination, you must immediately destroy the Software, together with all copies, adaptations and merged portions in any
+       form"
+    - "You may not export or re-export the Software or any copy or adaptation in
+       violation of any applicable laws or regulations"
+    - "This software or any copy or adaptation may not be exported, reexported or
+       transferred to or within countries under U.S.  economic embargo including the
+       following countries:  Afghanistan (Taliban-controlled areas), Cuba, Iran,
+       Iraq, Libya, North Korea, Serbia, Sudan and Syria.  This list is subject to
+       change"
+    - "This software or any copy or adaptation may not be exported, reexported or
+       transferred to persons or entities listed on the U.S.  Department of Commerce
+       Denied Parties List or on any U.S.  Treasury Department Designated Nationals
+       exclusion list, or to any party directly or indirectly involved in the
+       development or production of nuclear, chemical, biological weapons or related
+       missile technology programs as specified in the U.S.  Export Administration
+       Regulations (15 CFR 730)"
+    - "If the Software is licensed for use in the performance of a U.S. government
+       prime contract or subcontract, you agree that, consistent with FAR 12.211 and
+       12.212, commercial computer Software, computer Software documentation and
+       technical data for commercial items are licensed under HPs standard
+       commercial license"
+    - "You acknowledge the Software is not designed or intended for use in on-line
+       control of aircraft, air traffic, aircraft navigation, or aircraft
+       communications; or in the design, construction, operation or maintenance of
+       any nuclear facility"
+    - "HP disclaims any express or implied warranty of fitness for such uses"

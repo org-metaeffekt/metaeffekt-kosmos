@@ -1,0 +1,20 @@
+canonicalName: GUST Font License 2006-09-30
+category: GUST Font License
+shortName: GUST-Font-2006-09-30
+
+otherIds:
+  - "scancode:gust-font-2006-09-30"
+
+alternativeNames:
+  - "GUST Font License 2006-09-30"
+
+evidence:
+  matches:
+    - "it is requested, but not legally required, that derived works be
+       distributed only after changing the names of the fonts comprising this
+       work and given in an accompanying 'manifest', and that the
+       files comprising the Work, as listed in the manifest, also be given
+       new names"
+    - "Any exceptions to this request are also given in the manifest"
+  excludes:
+    - "This is version 1.0, dated 22 June 2009, of the GUST Font License"

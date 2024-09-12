@@ -1,0 +1,28 @@
+canonicalName: Oculus SDK License
+category: Oculus SDK
+shortName: Oculus-SDK
+
+otherIds:
+  - "scancode:oculus-sdk"
+
+alternativeNames:
+  - "Oculus SDK License"
+
+evidence:
+  matches:
+    - "If the SDK includes any libraries, sample source code, or other materials that we make available specifically
+       for incorporation in your Application (as indicated by applicable documentation), you may incorporate those
+       materials and reproduce and distribute them as part of your Application, including by distributing those materials
+       to third parties contributing to your Application"
+    - "The SDK may include Oculus content that is subject to your additional right to display the content to your end
+       users through the use of the corresponding SDK, as contemplated by the documentation accompanying such SDK"
+    - "For example, the SDK may include avatars that you may display to your end users"
+    - "The License grant in this Section is solely for the purpose of developing, testing, and promoting your engines,
+       tools, applications, content, games and demos, or other products and features (collectively, “Application”) and
+       providing you and/or your end users access to Oculus services and features through your Application as
+       contemplated by applicable documentation accompanying the SDK"
+  excludes:
+    - "In order to obtain and use the Oculus Software Development Kit for mobile or for PC, You must first agree
+       to the terms of this License"
+    - "Discontinuation of SDK. Oculus reserves the right to discontinue the SDK at any time, in our sole discretion,
+       without notice to you, and without liability or other obligation to you"

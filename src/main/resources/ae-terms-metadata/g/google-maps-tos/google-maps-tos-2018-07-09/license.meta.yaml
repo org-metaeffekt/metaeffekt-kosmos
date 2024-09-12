@@ -1,0 +1,38 @@
+canonicalName: Google Maps Platform Terms of Service 2018-07-09
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2018-07-09
+
+otherIds:
+  - "scancode:google-maps-tos-2018-07-09"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2018-07-09"
+
+evidence:
+  matches:
+    - "Certain Services are provided to Customer without charge up to the Fee Threshold, as applicable"
+    - "At the end of the applicable Fee Accrual Period, Google will issue an electronic bill to Customer for all
+       charges accrued above the Fee Threshold based on (a) Customer’s use of the Services during the previous Fee
+       Accrual Period; (b) any Committed Purchases selected; and (c) any Package Purchases selected"
+    - "For use above the Fee Threshold, Customer will be responsible for all Fees up to the amount set in the Account
+       and will pay all Fees in the currency set forth in the invoice"
+    - "If Customer elects to pay by credit card, debit card, or other non-invoiced form of payment, Google will charge
+       (and Customer will pay) all Fees immediately at the end of the Fee Accrual Period"
+    - "If Customer elects to pay by invoice (and Google agrees), all Fees are due as stated in the invoice"
+    - "Customer’s obligation to pay all Fees is non-cancellable"
+    - "Google's measurement of Customer’s use of the Services is final"
+    - "Google has no obligation to provide multiple bills"
+    - "Payments made via wire transfer must include the bank information provided by Google"
+    - "If Customer has entered into the Agreement with GCL, Google may collect payments via Google Payment Limited,
+       a company incorporated in England and Wales with offices at Belgrave House, 76 Buckingham Palace Road, London,
+       SW1W 9TQ, United Kingdom"
+  excludes:
+    - "Last modified: June 7, 2018"
+    - "This Google Maps Platform License Agreement takes effect on June 11, 2018"
+    - "If you are currently using the Google Maps Standard Plan, this Google Maps Platform License Agreement will
+       govern your use of the Google Maps Platform as of June 11, 2018"
+    - "If you have entered into an offline variant of this Agreement, the terms below do not apply, and your offline
+       agreement governs your use of the Google Maps Core Services"
+    - "Caching is permitted for certain Services as described in the Maps Service Specific Terms"
+    - "Last modified: October 1, 2018"
+    - "Last modified: May 6, 2020"

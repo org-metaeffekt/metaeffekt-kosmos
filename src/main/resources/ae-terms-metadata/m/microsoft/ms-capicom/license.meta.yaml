@@ -1,0 +1,30 @@
+canonicalName: Microsoft CAPICOM License
+category: Microsoft CAPICOM License
+shortName: MS-Capicom
+
+otherIds:
+  - "scancode:ms-capicom"
+
+alternativeNames:
+  - "Microsoft CAPICOM License"
+  - "MICROSOFT CAPICOM"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices running validly
+       licensed copies of Windows 2000, Windows XP, Windows Vista, or Windows Server 2003"
+    - "Unless applicable law gives you more rights despite this limitation, you may use the software only as
+       expressly permitted in this agreement"
+    - "In doing so, you must comply with any technical limitations in the software that only allow you to use it
+       in certain ways"
+    - "You may make one backup copy of the software"
+    - "You may use it only to reinstall the software"
+    - "Any person that has valid access to your computer or internal network may copy and use the documentation
+       for your internal, reference purposes"
+  excludes:
+    - "transfer the software or this agreement to any third party"
+    - "You may copy, modify and distribute the source and object code form of code marked as “sample”, “template”,
+       and “Simple Styles” or “Sketch Styles”"
+
+ignoreMatches:
+  - "Microsoft Visual Studio 2015 Software Development Kit License"

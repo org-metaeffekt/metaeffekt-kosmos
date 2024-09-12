@@ -1,0 +1,35 @@
+canonicalName: CeCILL Free Software License Agreement 1.0 (FR)
+category: CeCILL
+spdxIdentifier: CECILL-1.0
+
+canonicalNameHistory:
+  - "CeCILL Free Software License Agreement 1.0"
+
+otherIds:
+  - "scancode:cecill-1.0"
+
+alternativeNames:
+  - "CeCILL Free Software License Agreement v1.0"
+  - "CECILL-1.0"
+
+evidence:
+  matches:
+    - "d'une part, sa conformité au droit français, tant au regard du droit de la responsabilité civile que du droit de la propriété intellectuelle et de la protection qu'il offre aux auteurs et titulaires des droits patrimoniaux sur un logiciel"
+    - "d'autre part, le respect des principes de diffusion des logiciels libres: accès au code source, droits étendus conférés aux utilisateurs"
+    - "Commissariat à l'Energie Atomique – CEA, établissement public de caractère scientifique technique et industriel, dont le siège est situé 31-33 rue de la Fédération, 75752 PARIS cedex 15"
+    - "Par ailleurs, le Concédant concède au Licencié à titre gracieux les droits d'exploitation du ou des brevets qu'il détient sur tout ou partie des inventions"
+    - "Le droit de distribution et de diffusion comporte notamment le droit de transmettre et de communiquer le Logiciel au public sur tout support et par tout moyen ainsi que le droit de mettre sur le marché à titre onéreux ou gratuit, un ou des exemplaires du Logiciel par tout procédé"
+    - "Le Licencié est autorisé à redistribuer des copies du Logiciel, modifié ou non, à des tiers dans les conditions ci-après détaillées"
+
+references:
+  "GPL":
+    matches:
+      - "COMPATIBILITE AVEC LA LICENCE GPL
+
+         Dans le cas où le Logiciel, Modifié ou non, est intégré à un code soumis aux
+         dispositions de la licence GPL, le Licencié est autorisé à redistribuer l'ensemble
+         sous la licence GPL.
+
+         Dans le cas où le Logiciel Modifié intègre un code soumis aux dispositions
+         de la licence GPL, le Licencié est autorisé à redistribuer le Logiciel Modifié
+         sous la licence GPL"

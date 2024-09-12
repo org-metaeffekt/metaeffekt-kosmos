@@ -1,0 +1,33 @@
+canonicalName: Permission Terms (variant 027)
+category: Permission
+shortName: PT-Var027
+spdxIdentifier: NTP-0
+
+status:
+  - "reviewed 12.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:ntp-0"
+
+displayName: "Permission Terms (no advertising; no representation; no warranty)"
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var027"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software and its documentation for any purpose is hereby granted,
+       provided that the name*{.{0,100}}* not be used in advertising or publicity pertaining to distribution of the
+       software without specific, written prior permission"
+    - "make*{.{0,1}}* no representations about the suitability of this software for any purpose"
+    - "It is provided \"as is\" without express or implied warranty"
+
+licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this software and its documentation for any purpose 
+                  is hereby granted, provided that the name{{variablePermissionTerm}} not be used in advertising or 
+                  publicity pertaining to distribution of the software without specific, written prior permission.
+                  <p>{{copyrightHolderNoRepresentation}} make no representations about the suitability of this software 
+                  for any purpose.</p> It is provided \"as is\" without express or implied warranty.</lq>"

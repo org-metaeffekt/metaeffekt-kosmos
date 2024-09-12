@@ -1,0 +1,29 @@
+canonicalName: Red Hat Apache-Based EULA
+category: Red Hat EULA
+shortName: RH-Apache-Based-EULA
+
+otherIds:
+  - "scancode:rh-eula-apache2"
+
+alternativeNames:
+  - "Red Hat Apache-Based End User License Agreement"
+  - "END USER LICENSE AGREEMENT RED HAT APACHE-BASED"
+
+expectedMatches:
+  - "Apache License 2.0"
+
+ignoreMatches:
+  - "Apache License 2.0"
+
+evidence:
+  matches:
+    - "Subject to the following terms, Red Hat, Inc. (“Red Hat”) grants to you a perpetual, worldwide license to the Programs (each of which may include multiple software components) pursuant to the Apache License v.2.0"
+    - "This EULA pertains solely to the Programs and does not limit your rights under, or grant you rights that supersede, the license terms of any particular component"
+    - "The “Red Hat” mark, the individual Program marks, and the “Red Hat” logo are trademarks or registered trademarks of Red Hat and its affiliates in the U.S. and other countries"
+    - "Except as specifically stated in this Section 3, a separate agreement with Red Hat, or a license for a particular component, to the maximum extent permitted under applicable law, the Programs and the components are provided and licensed “as is” without warranty of any kind, express or implied"
+    - "To the maximum extent permitted by applicable law, your exclusive remedy under this EULA is to return any defective media within 30 days of delivery along with a copy of your payment receipt and Red Hat, at its option, will replace it or refund the money you paid for the media"
+    - "You understand that countries, including the U.S., may restrict the import, use, export, re-export or transfer of encryption products and other controlled materials"
+    - "If any provision of this EULA is held to be unenforceable, the enforceability of the remaining provisions shall not be affected"
+  excludes:
+    - "END USER LICENSE AGREEMENT
+       RED HAT GPLv2-BASED"

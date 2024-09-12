@@ -1,0 +1,36 @@
+canonicalName: CeCILL-C License
+category: CeCILL-C
+spdxIdentifier: CECILL-C
+
+otherIds:
+  - "scancode:cecill-c-en"
+
+canonicalNameHistory:
+  - "CeCILL C License"
+
+alternativeNames:
+  - "CeCILL C"
+  - "CeCILL-C"
+  - "CECILL C"
+  - "CECILL-C"
+  - "CECILL C License"
+  - "CECILL C LICENSE"
+  - "CECILL C License"
+  - "CECILL-C License"
+  - "CECILL-C LICENSE"
+  - "CECILL-C License"
+  - "CeCILL-C FREE SOFTWARE LICENSE AGREEMENT Notice"
+  - "https://spdx.org/licenses/cecill-c"
+  - "eCILL-C Free Software License Agreement"
+
+evidence:
+  matches:
+    - "This Agreement is a Free Software license agreement that is the result of discussions between its authors in order to ensure compliance with the two main principles guiding its drafting"
+    - "Commissariat à l'Energie Atomique - CEA, a public scientific, technical and industrial research establishment, having its principal place of business at 25 rue Leblanc, immeuble Le Ponant D, 75015 Paris, France"
+    - "Centre National de la Recherche Scientifique - CNRS, a public scientific and technological establishment, having its principal place of business at 3 rue Michel-Ange, 75794 Paris cedex 16, France"
+    - "Preamble The purpose of this Free Software license agreement is to grant users the right to modify and re-use the software governed by this license"
+    - "The purpose of the Agreement is the grant by the Licensor to the Licensee of a non-exclusive, transferable and worldwide license for the Software as set forth in Article 5 hereinafter for the whole term of the protection granted by the rights over said Software"
+    - "The right of modification includes the right to translate, adapt, arrange, or make any or all modifications to the Software, and the right to reproduce the resulting software"
+    - "The Licensee is authorized to make any or all modification to the Software provided that it includes an explicit notice that it is the author of said modification and indicates the date of the creation thereof"
+    - "When the Licensee makes an Integrated Contribution to the Software, the terms and conditions for the distribution of the resulting Modified Software become subject to all the provisions of this Agreement"
+    - "When the Licensee creates Derivative Software, this Derivative Software may be distributed under a license agreement other than this Agreement, subject to compliance with the requirement to include a notice concerning the rights over the Software as defined in Article 6.4. In the event the creation of the Derivative Software required modification of the Source Code, the Licensee undertakes that"

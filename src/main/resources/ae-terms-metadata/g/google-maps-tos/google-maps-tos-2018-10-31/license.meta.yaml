@@ -1,0 +1,21 @@
+canonicalName: Google Maps Platform Terms of Service 2018-10-31
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2018-10-31
+
+otherIds:
+  - "scancode:google-maps-tos-2018-10-31"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2018-10-31"
+
+evidence:
+  matches:
+    - "Google is not required to provide a purchase order number on Google’s invoice (or otherwise)"
+    - "For Customers with a billing address in New Zealand, this Agreement is made and entered into by and between Customer
+       and Google New Zealand Limited, with offices at PWC Tower, Level 27, 188 Quay Street, Auckland, New Zealand 1010,
+       as an authorized reseller in New Zealand of the Services and “Google” means Google Asia Pacific Pte. Ltd. and/or
+       its affiliates (including Google New Zealand Limited) as the context requires"
+  excludes:
+    - "Last modified: October 1, 2018"
+    - "Last modified: July 19, 2018"
+    - "Last modified: May 02, 2019"

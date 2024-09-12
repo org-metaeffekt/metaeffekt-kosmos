@@ -1,0 +1,25 @@
+canonicalName: OpenLDAP Public License 2.4
+category: OLDAP
+spdxIdentifier: OLDAP-2.4
+
+otherIds:
+  - "scancode:openldap-2.4"
+
+alternativeNames:
+  - "OLDAP, Version 2.4"
+  - "OLDAP, 2.4"
+  - "OLDAP 2.4"
+  - "OLDAP License, Version 2.4"
+  - "OLDAP License, 2.4"
+  - "OLDAP License 2.4"
+  - "OpenLDAP Public License Version 2.4"
+  - "OpenLDAP 2.4"
+  - "THIS WORK IS SUBJECT TO VERSION 2.4 OF THE OPENLDAP PUBLIC LICENSE"
+
+evidence:
+  matches:
+    - "Due credit should be given to the OpenLDAP Project."
+    - "Redistributions of source code must retain copyright statements and notices"
+    - "Redistributions in binary form must reproduce applicable copyright statements
+       and notices, this list of conditions, and the following disclaimer in the
+       documentation and/or other materials provided with the distribution"

@@ -1,0 +1,26 @@
+canonicalName: Phaser Commercial EULA (Phenix)
+category: Phaser Commercial EULA (Phenix)
+shortName: phaser-phenix
+
+otherIds:
+  - "scancode:phaser-phenix"
+
+classification: commercial
+
+alternativeNames:
+  - "Phaser Commercial EULA (Phenix)"
+
+evidence:
+  matches:
+    - "The Licensee acknowledges that all Intellectual Property Rights in the Software belong and shall belong
+       to CUTS and the Licensee shall have no rights in or to the Software other than the right to use it in
+       accordance with the terms of the Licence in this Agreement"
+    - "In consideration of the Fee, CUTS hereby grants to the Licensee a non-exclusive, non-transferable,
+       royalty-free licence, commencing on the Commencement Date and for the duration of payment of the Fee"
+    - "The Licensee shall ensure that, in using the Software it shall not and nor shall its employees or
+       consultants or contractors breach or compromise directly of indirectly compliance with any Export
+       Control Regulations"
+  excludes:
+    - "which has been assembled by the CCLRC with support from the Biotechnology and Biological Sciences Research
+       Council ('BBSRC') of the UK as part of the Collaborative Computational Project Number 4 ('CCP4')"
+

@@ -1,0 +1,44 @@
+canonicalName: Red Hat EULA JBoss Enterprise Middleware License
+category: Red Hat EULA JBoss Enterprise Middleware
+shortName: RH-EULA-LGPL
+
+otherIds:
+  - "scancode:rh-eula-lgpl"
+
+evidence:
+  matches:
+    - "This end user license agreement (\"EULA\") governs the use of the JBoss
+        Enterprise Middleware and any related updates, source code, appearance,
+        structure and organization (the \"Programs\"), regardless of the delivery
+        mechanism"
+    - "With the exception of certain
+       image files identified in Section 2 below, each software component is
+       governed by a license that permits you to run, copy, modify, and
+       redistribute (subject to certain obligations in some cases) the software
+       component"
+    - "This EULA pertains solely to the Programs and does not limit
+       your rights under, or grant you rights that supersede, the license terms
+       applicable to any particular component"
+    - "The Programs and each of their
+       components are owned by Red Hat and other licensors and are protected
+       under copyright law and under other laws as applicable"
+    - "Title to the
+       Programs and any component, or to any copy, modification, or merged
+       portion shall remain with Red Hat and other licensors, subject to the
+       applicable license"
+    - "The \"JBoss\" trademark, \"Red Hat\" trademark, the
+        individual Program trademarks, and the \"Shadowman\" logo are registered
+        trademarks of Red Hat and its affiliates in the U.S. and other
+        countries"
+    - "Except as specifically stated in this Section 3, a
+       separate agreement with Red Hat, or a license for a particular
+       component, to the maximum extent permitted under applicable law, the
+       Programs and the components are provided and licensed \"as is\" without
+        warranty of any kind, expressed or implied, including the implied
+        warranties of merchantability, non-infringement or fitness for a
+        particular purpose"
+    - "To the maximum extent permitted
+       by applicable law, your exclusive remedy under this EULA is to return
+       any defective media within 30 days of delivery along with a copy of your
+       payment receipt and Red Hat, at its option, will replace it or refund
+       the money you paid for the media"

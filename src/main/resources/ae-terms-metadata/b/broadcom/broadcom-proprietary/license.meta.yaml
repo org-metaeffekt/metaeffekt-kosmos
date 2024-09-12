@@ -1,0 +1,53 @@
+
+canonicalName: Broadcom Proprietary License
+category: Broadcom Proprietary License
+shortName: Broadcom-Proprietary
+
+otherIds:
+  - "scancode:broadcom-proprietary"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, 
+       Broadcom hereby grants to Licensee a non-exclusive, non-transferable, 
+       royalty-free license (i) to use and integrate the Software in conjunction 
+       with any other software"
+    - "If and to the extent that the Software is 
+       designed to be compliant with any published communications standard 
+       (including, without limitation, DOCSIS, HomePNA, IEEE, and ITU standards), 
+       Licensee may not make any modifications to the Software that would cause the 
+       Software or the accompanying Broadcom Products to be incompatible with such 
+       standard"
+    - "Licensee shall only distribute the 
+       Software (a) under the terms of this Agreement and a copy of this Agreement 
+       accompanies such distribution, and (b) agrees to defend and indemnify 
+       Broadcom and its licensors from and against any damages, costs, liabilities, 
+       settlement amounts and/or expenses (including attorneys' fees) incurred in 
+       connection with any claim, lawsuit or action by any third party that arises 
+       or results from the use or distribution of any and all Software by the 
+       Licensee except as contemplated herein"
+    - "Licensee shall not remove, efface or obscure any 
+       copyright or trademark notices from the Software.  Licensee shall include 
+       reproductions of the Broadcom copyright notice with each copy of the 
+       Software, except where such Software is embedded in a manner not readily 
+       accessible to the end user"
+    - "Broadcom shall retain all right, title and interest, 
+       including all intellectual property rights, in and to the Software"
+  excludes:
+    - "No portions of this material may be reproduced in any form without the written permission of"
+
+references:
+  "Broadcom Confidential":
+    matches:
+      - "Notwithstanding the foregoing, all 
+         documents and other tangible objects containing or representing Broadcom 
+         Confidential Information and all copies thereof which are in the possession 
+         of Licensee shall be and remain the property of Broadcom, and shall be 
+         promptly returned to Broadcom upon written request by Broadcom or upon 
+         termination of this Agreement"
+  "Public Domain":
+    matches:
+    - "(i) was in the public domain at the time it was disclosed or 
+       has entered the public domain through no fault of Licensee; (ii) was known to 
+       Licensee, without restriction, at the time of disclosure as proven by the 
+       files of Licensee in existence at the time of disclosure"

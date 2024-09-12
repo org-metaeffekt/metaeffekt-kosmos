@@ -1,0 +1,19 @@
+canonicalName: Android Software Development Kit License Agreement 2012
+category: Android SDK
+shortName: Android-SDK-2012
+
+otherIds:
+  - "scancode:android-sdk-2012"
+
+evidence:
+  matches:
+    - "You agree that you will not take any actions that may cause or result in the
+       fragmentation of Android, including but not limited to distributing,
+       participating in the creation of, or promoting in any way a software development
+       kit derived from the SDK"
+    - "you must make the users aware that the information will be available to your application"
+    - "You agree that you will not remove, obscure, or alter any proprietary rights
+       notices (including copyright and trademark notices) that may be affixed to or
+       contained within the SDK"
+  excludes:
+    - "your must make the users aware that the information will be available to your application"

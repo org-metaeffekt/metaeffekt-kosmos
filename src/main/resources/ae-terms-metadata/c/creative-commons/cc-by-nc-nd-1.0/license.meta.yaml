@@ -1,0 +1,42 @@
+canonicalName: Creative Commons BY-NC-ND 1.0
+category: CC-BY-NC-ND
+spdxIdentifier: CC-BY-NC-ND-1.0
+
+otherIds:
+  - "scancode:cc-by-nc-nd-1.0"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic"
+  - "Creative Commons BY-NC-ND 1.0 (generic)"
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic"
+  - "CC-BY-NC-ND-1.0"
+  - "Creative Commons Attribution-NoDerivs-NonCommercial 1.0"
+  - "Creative Commons BY-NC-ND 1.0"
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "give the Original Author credit"
+
+evidence:
+  matches:
+    - "to reproduce the Work, to incorporate the Work into one or more Collective
+       Works, and to reproduce the Work as incorporated in the Collective Works"
+    - "to distribute copies or phonorecords of, display publicly, perform publicly,
+       and perform publicly by means of a digital audio transmission the Work including
+       as incorporated in Collective Works"
+    - "You must include a copy of, or the Uniform Resource Identifier for, this License with every
+       copy or phonorecord of the Work You distribute, publicly display, publicly
+       perform, or publicly digitally perform"
+    - "You may not exercise any of the rights granted to You in Section 3 above
+       in any manner that is primarily intended for or directed toward commercial
+       advantage or private monetary compensation"
+  excludes:
+    - "to create and reproduce Derivative Works"
+    - "For the avoidance of doubt, where the Work is a musical composition or sound
+       recording, the synchronization of the Work in timed-relation with a moving
+       image (\"synching\") will be considered a Derivative Work for the purpose of
+       this License"

@@ -1,0 +1,29 @@
+canonicalName: Java Research License 1.6
+category: Java Research License
+shortName: Java-Research-1.6
+
+otherIds:
+  - "scancode:java-research-1.6"
+
+alternativeNames:
+  - "wikipedia.org/wiki/Java_Research_License"
+  - "Java Research License Version 1.6"
+  - "JAVA RESEARCH LICENSE Version 1.6"
+
+evidence:
+  matches:
+    - "Reproduce, create Modifications of,  and use the Technology
+       alone, or with Modifications"
+    - "Share source code of the Technology alone, or with
+       Modifications, with other Licensees"
+    - "Distribute object code of the Technology, alone, or with
+       Modifications, to any third parties for Research Use only, under a
+       license of Your choice that is consistent with this License; and
+       publish papers and books discussing the Technology which may include
+       relevant excerpts that do not in the aggregate constitute a
+       significant portion of the Technology"
+    - "If You examine the Technology after accepting this License and remember
+       anything about it later, You are not 'tainted' in a way that would prevent
+       You from creating or contributing to an independent implementation, but this
+       License grants You no rights to Sun's copyrights or patents for use in such an
+       implementation"

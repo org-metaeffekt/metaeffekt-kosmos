@@ -1,0 +1,21 @@
+canonicalName: Oracle Developer Tools for Visual Studio .NET Development License
+category: Oracle Developer Tools for Visual Studio
+shortName: Oracle-DevTools-Visual-Studio-NET
+
+otherIds:
+  - "scancode:oracle-devtools-vsnet-dev"
+
+alternativeNames:
+  - "Oracle Developer Tools for Visual Studio .NET Development License Terms"
+
+evidence:
+  matches:
+    - "You will not use the Programs for, and will not allow the Programs to be used for, any purposes prohibited by United States law, including, without limitation, for the development, design, manufacture or production of nuclear, chemical or biological weapons of mass destruction"
+    - "You agree that U.S. export control laws and other applicable export and import laws govern your use of the programs, including technical data"
+    - "We grant you a nonexclusive, nontransferable limited license to use the programs for purposes of developing your applications"
+    - " If you want to use the programs for any purpose other than as expressly permitted under this agreement you must contact us, or an Oracle reseller, to obtain the appropriate license. We may audit your use of the programs"
+    - "You may make a sufficient number of copies of the programs for the licensed use and one copy of the programs for backup purposes"
+    - "WE FURTHER DISCLAIM ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT"
+    - "If you distribute a license to the United States government, the programs, including documentation, shall be considered commercial computer software and you will place a legend, in addition to applicable copyright notices, on the documentation, and on the media label, substantially similar to the following"
+  excludes:
+    - "Oracle Technology Network Developer License Terms for JAVA EE SDK"

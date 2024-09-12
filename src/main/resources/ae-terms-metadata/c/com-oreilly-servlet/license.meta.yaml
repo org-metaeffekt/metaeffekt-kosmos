@@ -1,0 +1,29 @@
+canonicalName: com.oreilly.servlet License
+category: com.oreilly.servlet License
+shortName: com.oreilly.servlet
+
+otherIds:
+  - "scancode:com-oreilly-servlet"
+
+alternativeNames:
+  - "http://www.servlets.com/cos/license.html"
+  #  - "http://www.servlets.com" # this alternative name causes false matches; do not include
+
+evidence:
+  matches:
+    - "You redistribute the package in object code form only (as Java .class files
+       or a .jar file containing the .class files) and only as part of a product that
+       uses the classes as part of its primary functionality"
+    - "The product containing the package is non-commercial in nature"
+    - "The public interface to the classes in the package, and the public interface
+       to any classes with similar functionality, is hidden from end users when engaged
+       in normal use of the product"
+    - "The distribution is not part of a software development kit, operating system,
+       other library, or a development tool without written permission from the copyright holder"
+    - "The distribution includes copyright notice as follows"
+    - "'The source code, object code, and documentation in the com.oreilly.servlet package is copyright
+       and owned by Jason Hunter.' in the documentation and/or other materials provided with the distribution"
+    - "You reproduce the above copyright notice, this list of conditions, and the
+       following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Licensor retains title to and ownership of the Software and all enhancements,
+       modifications, and updates to the Software"

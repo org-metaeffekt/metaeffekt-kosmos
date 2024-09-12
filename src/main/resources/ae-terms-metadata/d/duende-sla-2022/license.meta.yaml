@@ -1,0 +1,31 @@
+canonicalName: Duende SLA 2022
+category: Duende SLA
+shortName: Duende-SLA-2022
+
+otherIds:
+  - "scancode:duende-sla-2022"
+
+alternativeNames:
+  - "Duende SLA 2022"
+
+evidence:
+  matches:
+    - "You may not use the Software for any purpose other than deploying it on one or
+       more servers in a manner for which the Software is expressly designed"
+    - "The Software may only be hosted on the machines, servers, and internetworking
+       devices within Your computer network or systems"
+    - "You may not sell, license, distribute, copy, modify, publicly perform or display,
+       transmit, publish, edit, adapt, create derivative works from, or make any use of
+       the Software except as expressly authorized in this Agreement"
+    - "If You are prohibited under applicable law from using the Software, You may not
+       use it, and You will comply with all applicable laws and regulations (including
+       without limitation laws and regulations related to export controls) in connection
+       with your use of the Software"
+    - "If you wish to use the Software in a production environment, you may download
+       and use the Software for the Term upon payment of the appropriate license fee
+       as indicated on the Quote in accordance with the terms and conditions of this
+       Agreement"
+    - "If you wish to use the Software in a non-production environment, you may
+       download and access the source and/or binaries at no charge solely for testing
+       and evaluation purposes and in accordance with all license limitations and
+       restrictions set forth in this Agreement"

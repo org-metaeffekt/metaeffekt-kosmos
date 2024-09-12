@@ -1,0 +1,38 @@
+canonicalName: ActiveState Komodo Edit License 1.1
+category: ActiveState Komodo
+shortName: ActiveState-Komodo-1.1
+
+otherIds:
+  - "scancode:activestate-komodo-edit"
+
+# ActiveState licenses are considered commercial due to conditions that force into a commercial license
+classification: commercial
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "ACTIVESTATE® KOMODO® EDIT LICENSE AGREEMENT"
+  - "ACTIVESTATE KOMODO EDIT LICENSE AGREEMENT"
+
+evidence:
+  matches:
+    - "ActiveState Software grants you a non-exclusive license to use the executable code version of the Product"
+    - "This Agreement will also govern any software upgrades provided by ActiveState that replace and/or supplement
+       the original Product, unless such upgrades are accompanied by a separate license, in which case the terms of
+       that license will govern"
+    - "If you breach this Agreement your right to use the Product will terminate immediately and without notice,
+       but all provisions of this Agreement except the License Grant (Paragraph 1) will survive termination and
+       continue in effect"
+    - "Upon termination, you must destroy all copies of the Product"
+
+references:
+  "MPL":
+    matches:
+      - "PROPRIETARY RIGHTS. Portions of the Product are available in source code form under the terms of the Mozilla 
+         Public License and other open source licenses (collectively, \"Open Source Licenses\") at www.activestate.com. 
+         Nothing in this Agreement will be construed to limit any rights granted under the Open Source Licenses. 
+         Subject to the foregoing, ActiveState, for itself and on behalf of its licensors, hereby reserves all 
+         intellectual property rights in the Product, except for the rights expressly granted in this Agreement. 
+         You may not remove or alter any trademark, logo, copyright or other proprietary notice in or on the Product. 
+         This license does not grant you any right to use the trademarks, service marks or logos of ActiveState or its licensors."

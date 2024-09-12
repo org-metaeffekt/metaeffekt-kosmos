@@ -1,0 +1,34 @@
+canonicalName: MediaTek Linux Firmware License
+category: MediaTek Linux Firmware License
+shortName: MediaTek-Linux-Firmware
+
+otherIds:
+  - "scancode:mediatek-firmware"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "MediaTek Inc. grants permission to use and redistribute aforementioned firmware
+       files for the use with devices containing MediaTek chipsets, but not as part of
+       the Linux kernel or in any other form which would require these files themselves
+       to be covered"
+    - "These firmware files are distributed in the hope that they will be useful, but
+       are provided WITHOUT ANY WARRANTY, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTY
+       OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE"
+  excludes:
+    - "Amlogic Co., Inc. grants permission to use and redistribute
+        aforementioned firmware files for the use with devices containing
+        Amlogic chipsets, but not as part of the Linux kernel or in any other
+        form which would require these files themselves to be covered"        
+
+references:
+  "GPL":
+    matches:
+      - "by the terms of the GNU General Public License or the GNU Lesser General
+         Public License"
+  "LGPL":
+    matches:
+      - "by the terms of the GNU General Public License or the GNU Lesser General
+         Public License"

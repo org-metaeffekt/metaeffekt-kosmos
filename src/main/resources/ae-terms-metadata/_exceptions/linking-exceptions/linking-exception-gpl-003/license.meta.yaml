@@ -1,0 +1,26 @@
+canonicalName: Linking Exception (GPL; variant 003)
+category: GPL Linking Exception
+spdxIdentifier: GPL-3.0-linking-source-exception
+shortName: Linking-Exception-GPL-003
+
+otherIds:
+  - "scancode:gpl-3.0-linking-source-exception"
+
+type: exception
+
+canonicalNameHistory:
+  - "GPL-3.0 Linking Exception (with Corresponding Source)"
+
+evidence:
+  matches:
+    - "If you modify this Program, or any covered work, by linking or combining it with *
+       (or a modified version of that library), containing parts covered by the terms of *,
+       the licensors of this Program grant you additional permission to convey the resulting work"
+    - "Corresponding Source for a non-source form of such a combination shall include the source code for the
+       parts of * used as well as that of the covered work."
+  excludes:
+    - "If you modify this Program, or any covered work, by linking or combining it
+       with OpenSC (or a modified version of that library), containing
+       parts covered by the terms of OpenSC's license, the licensors of
+       this Program grant you additional permission to convey the resulting work"
+

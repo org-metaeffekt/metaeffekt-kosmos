@@ -1,0 +1,38 @@
+canonicalName: Creative Commons BY-NC 3.0 (DE)
+category: CC-BY-NC
+spdxIdentifier: CC-BY-NC-3.0-DE
+
+otherIds:
+  - "scancode:cc-by-nc-3.0-de"
+
+representedAs: Creative Commons BY-NC 3.0
+
+alternativeNames:
+  - "CC-BY-NC-3.0-DE"
+  - "Creative Commons Attribution Non Commercial 3.0 Germany"
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Unter den Bedingungen dieser Lizenz räumt Ihnen der Lizenzgeber - unbeschadet unverzichtbarer Rechte und vorbehaltlich
+       des Abschnitts 4.e) - das vergütungsfreie, räumlich und zeitlich (für die Dauer des Schutzrechts am Schutzgegenstand)
+       unbeschränkte einfache Recht ein, den Schutzgegenstand auf die folgenden Arten und Weisen zu nutzen
+       ('unentgeltlich eingeräumtes einfaches Nutzungsrecht für jedermann')"
+    - "Den Schutzgegenstand in beliebiger Form und Menge zu vervielfältigen, ihn in Sammelwerke zu integrieren und ihn als Teil solcher Sammelwerke zu vervielfältigen"
+    - "Abwandlungen des Schutzgegenstandes anzufertigen, einschließlich Übersetzungen unter Nutzung jedweder Medien, sofern
+       deutlich erkennbar gemacht wird, dass es sich um Abwandlungen handelt"
+    - "den Schutzgegenstand, allein oder in Sammelwerke aufgenommen, öffentlich zu zeigen und zu verbreiten"
+    - "Abwandlungen des Schutzgegenstandes zu veröffentlichen, öffentlich zu zeigen und zu verbreiten"
+    - "Das vorgenannte Nutzungsrecht wird für alle bekannten sowie für alle noch nicht bekannten Nutzungsarten eingeräumt"
+    - "Es beinhaltet auch das Recht, solche Änderungen am Schutzgegenstand vorzunehmen, die für bestimmte nach dieser Lizenz zulässige
+       Nutzungen technisch erforderlich sind"
+    - "Alle sonstigen Rechte, die über diesen Abschnitt hinaus nicht ausdrücklich durch den Lizenzgeber eingeräumt werden,
+       bleiben diesem allein vorbehalten"
+    - "Soweit Datenbanken oder Zusammenstellungen von Daten Schutzgegenstand dieser Lizenz oder Teil dessen sind und einen
+       immaterialgüterrechtlichen Schutz eigener Art genießen, verzichtet der Lizenzgeber auf sämtliche aus diesem Schutz resultierenden Rechte"
+

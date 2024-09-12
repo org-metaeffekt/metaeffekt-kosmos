@@ -1,0 +1,61 @@
+canonicalName: Catharon Open Source License
+category: Catharon
+spdxIdentifier: Catharon
+
+otherIds:
+  - "scancode:catharon-osl"
+
+alternativeNames:
+  - "Catharon License"
+  - "Catharon LICENSE"
+  - "Catharon OSL"
+  - "Catharon-OSL"
+
+canonicalNameHistory:
+  - "Catheron Open Source License"
+
+evidence:
+  matches:
+  - "THE CATHARON PACKAGES ARE PROVIDED `AS IS' WITHOUT WARRANTY OF ANY
+     KIND, EITHER  EXPRESS OR IMPLIED,  INCLUDING, BUT NOT  LIMITED TO,
+     WARRANTIES  OF  MERCHANTABILITY   AND  FITNESS  FOR  A  PARTICULAR
+     PURPOSE.  IN NO EVENT WILL ANY OF THE AUTHORS OR COPYRIGHT HOLDERS
+     BE LIABLE FOR ANY DAMAGES CAUSED BY THE USE OF OR THE INABILITY TO
+     USE THE CATHARON PACKAGE"
+  - "This  license  grants  a  worldwide, royalty-free,  perpetual  and
+     irrevocable right  and license to use,  execute, perform, compile,
+     display,  copy,   create  derivative  works   of,  distribute  and
+     sublicense the  Catharon Packages (in both source  and object code
+     forms)  and  derivative works  thereof  for  any  purpose; and  to
+     authorize others  to exercise  some or all  of the  rights granted
+     herein, subject to the following conditions"
+  - "Redistribution  of source code  must retain this  license file
+     (`license.txt') unaltered; any additions, deletions or changes
+     to the original files must be clearly indicated in accompanying
+     documentation"
+  - "The  copyright notices  of  the
+     unaltered, original  files must be preserved in  all copies of
+     source files"
+  - "Redistribution  in binary form must provide  a disclaimer that
+     states  that the  software is  based in  part on  the  work of
+     Catharon Productions, Inc. in the distribution documentation"
+  - "These conditions  apply to any  software derived from or  based on
+     the Catharon Packages, not just  the unmodified files.  If you use
+     our work, you  must acknowledge us"
+  - "Neither Catharon Productions, Inc.  and contributors nor you shall
+     use  the  name  of  the  other  for  commercial,  advertising,  or
+     promotional purposes without specific prior written permission"
+  
+segmentation:
+  revert: [
+    { match:
+        "2. Redistribution",
+      matchNext:
+        "This  license  grants  a  worldwide, royalty-free,  perpetual  and"
+    },
+    { match:
+        "3. Advertising",
+      matchNext:
+        "Neither Catharon Productions, Inc.  and contributors nor you shall"
+    }
+  ]

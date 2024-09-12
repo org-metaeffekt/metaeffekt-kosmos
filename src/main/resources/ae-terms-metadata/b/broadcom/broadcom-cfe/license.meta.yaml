@@ -1,0 +1,24 @@
+canonicalName: Broadcom CFE License
+category: Broadcom CFE License
+spdxIdentifier: DEC-3-Clause
+
+otherIds:
+  - "scancode:broadcom-cfe"
+  - "scancode:dec-3-clause"
+
+
+alternativeNames:
+  - "broadcom-cfe"
+  - "DEC-3-Clause"
+  - "DEC 3-Clause License"
+
+evidence:
+  matches:
+    - "This software is furnished under license and may be used and copied only in
+       accordance with the following terms and conditions"
+    - "Subject to these conditions, you may download, copy, install, use, modify and
+       distribute *{.{0,40}}* software in source and/or binary form"
+    - "No title or ownership is transferred hereby"
+
+mappings:
+  "Copyright 1997 Digital Equipment Corporation.NEWLINE-MARKERAll rights reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis software is furnished under license and may be used and copied only inNEWLINE-MARKERaccordance with the following terms and conditions": " LICENSE-SEGMENT-MARKER Copyright 1997 Digital Equipment Corporation.NEWLINE-MARKERAll rights reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis software is furnished under license and may be used and copied only inNEWLINE-MARKERaccordance with the following terms and conditions"

@@ -1,0 +1,33 @@
+canonicalName: LaTeX Project Public License 1.3c
+category: LPPL
+spdxIdentifier: LPPL-1.3c
+
+otherIds:
+  - "scancode:lppl-1.3c"
+  - "osi:LPPL-1.3c"
+
+alternativeNames:
+  - "LPPL, Version 1.3c"
+  - "LPPL, 1.3c"
+  - "LPPL 1.3c"
+  - "LaTeX Project Public License v1.3c"
+  - "LPPL-1.3c"
+
+canonicalNameHistory:
+  - "LPPL 1.3c"
+
+evidence:
+  matches:
+    - "it is written in such a way that you can use it even if your work is unrelated to TeX"
+    - "If a Derived Work is distributed under a different license, that Derived
+       Work must provide sufficient documentation as part of itself to allow each
+       recipient of that Derived Work to honor the restrictions in Clause 6 above,
+       concerning changes from the Work"
+    - "Several clauses of the LPPL specify means to provide reliability and stability
+       for the user community"
+    - "They therefore concern themselves with the case that a Derived Work is intended to
+       be used as a (compatible or incompatible) replacement of the original Work"
+    - "If this is not the case (e.g., if a few lines of code are reused for a completely different
+       task), then clauses 6b and 6d shall not apply"
+
+

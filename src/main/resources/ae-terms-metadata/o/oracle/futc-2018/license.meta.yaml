@@ -1,0 +1,52 @@
+canonicalName: Oracle Free Use Terms and Conditions 2018
+category: Oracle Free
+shortName: Oracle-Free-2018
+
+otherIds:
+  - "scancode:oracle-free-2018"
+
+alternativeNames:
+  - "Oracle Free Use Terms and Conditions"
+
+canonicalNameHistory:
+  - "Oracle Free License 2018"
+
+evidence:
+  matches:
+    - "Oracle may provide certain notices to You in Program Documentation, readmes or notice files in connection with 
+       Oracle or third party technology provided as or with the Programs"
+    - "For software that You receive from Oracle in binary form that is licensed under an open source license that 
+       gives You the right to receive the source code for that binary, You can obtain a copy of the applicable source 
+       code from"
+    - "Oracle grants to You, as a recipient of this Program, a nonexclusive, nontransferable, limited license to, 
+       subject to the conditions stated herein, (a) internally use the unmodified Programs for the purposes of 
+       developing, testing, prototyping and demonstrating your applications, and running the Programs for your own 
+       internal business operations"
+    - "You include a copy of this license with any distribution by You of the Programs"
+    - "Oracle or its licensors retain all ownership and intellectual property rights to the Programs"
+    - "Oracle grants to You, as a recipient of this Program, a nonexclusive, nontransferable, limited license to, 
+       subject to the conditions stated herein, (a) internally use the unmodified Programs for the purposes of 
+       developing, testing, prototyping and demonstrating your applications, and running the Programs for your own 
+       internal business operations"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "You can also receive a copy of the source code on physical media by submitting a written request pursuant to 
+        the instructions in the \"Written Offer for Source Code\" section of the latter website.",
+      matchNext:
+        "The following license terms apply to those Programs that are not provided to You under Separate Terms. 
+        License Rights and Restrictions Oracle grants to You, as a recipient of this Program, a nonexclusive, 
+        nontransferable, limited license to, subject to the conditions stated herein"
+    },
+    {
+      match:
+        "You are granted the right to use the Programs to provide third party training in the use of the Programs and 
+         associated Separately Licensed Technology only if there is express authorization of such use by Oracle on the 
+         Program's download page or in the Program Documentation.",
+      matchNext:
+        "Your license is contingent on Your compliance with the following conditions: 
+          - You include a copy of this license with any distribution by You of the Programs"
+    },
+]

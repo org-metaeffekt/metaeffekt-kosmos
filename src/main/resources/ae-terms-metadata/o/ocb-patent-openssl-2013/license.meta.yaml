@@ -1,0 +1,25 @@
+canonicalName: OCB License (OpenSSL patent)
+category: OCB
+shortName: OCB-OpenSSL-patent
+
+otherIds:
+  - "scancode:ocb-patent-openssl-2013"
+
+alternativeNames:
+  - "OCB License (OpenSSL patent)"
+
+evidence:
+  matches:
+    - "'Use in OpenSSL' means using, making, copying, modifying, distribu ting,
+       having made, importing or having imported any program, software, or computer
+       system containing or based upon the OpenSSL toolkit, but does not include any
+       imp lementation of the Licensed Patents that is unrelated to the OpenSSL toolkit"
+    - "'Licensee' means the OpenSSL Software Foundation, at 1829 Mount Ephraim Road, Adamstown ,
+       MD 21710, its affiliates, assignees"
+    - "or sllccessors in interest, or anyone using, making, copying, modifying, di stributing,
+       having made, importing, or having imported any program, software, or computer system including
+       or based upon the OpenSSL toolkit, or their customers, supp liers, importers, manufacturers,
+       distributors, or insurers"
+    - "Licensor hereby grants to Licensee a perpetual, worldwide, non-exclusive,
+       nontransferable, non-sublicenseable, no-charge, royalty-free, irrevocab
+       le license to Use in OpenSSL any invention claimed in the Licensed Patents"

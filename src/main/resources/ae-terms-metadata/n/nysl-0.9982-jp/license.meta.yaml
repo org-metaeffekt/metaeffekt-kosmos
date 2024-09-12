@@ -1,0 +1,17 @@
+canonicalName: NYSL 0.9982 (JP)
+category: NYSL
+shortName: NYSL-0.9982-JP
+
+otherIds:
+  - "scancode:nysl-0.9982-jp"
+
+expressiveEvidence: true
+
+alternativeNames:
+  - "本ソフトウェアは Everyone'sWare"
+
+evidence:
+  matches:
+    - "フリーウェアです。作者からは使用料等を要求しません。"
+    - "いかなる種類の 改変・他プログラムでの利用 を行っても構いません。"
+    - "変更したものや部分的に使用したものは、あなたのものになります。"

@@ -1,0 +1,37 @@
+canonicalName: Creative Commons BY-ND 4.0
+category: CC-BY-ND
+spdxIdentifier: CC-BY-ND-4.0
+
+otherIds:
+  - "scancode:cc-by-nd-4.0"
+
+canonicalNameHistory:
+  - "Creative Commons BY-ND 4.0 (international)"
+
+alternativeNames:
+  - "Creative Commons Attribution No Derivatives 4.0 International"
+  - "Creative Commons Attribution-NoDerivatives 4.0 International"
+  - "CC-BY-ND-4.0"
+  - "Creative Commons BY-ND 4.0"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Exceptions and Limitations. For the avoidance of doubt, where Exceptions
+       and Limitations apply to Your use, this Public License does not apply, and
+       You do not need to comply with its terms and conditions"
+    - "reproduce and Share the Licensed Material, in whole or in part"
+    - "produce and reproduce, but not Share, Adapted Material"
+    - "identification of the creator(s) of the Licensed Material and any others
+       designated to receive attribution, in any reasonable manner requested by the
+       Licensor (including by pseudonym if designated)"
+    - "indicate if You modified the Licensed Material and retain an indication
+       of any previous modifications"
+    - "indicate the Licensed Material is licensed under this Public License, and
+       include the text of, or the URI or hyperlink to, this Public License"
+  excludes:
+    - "NonCommercial means not primarily intended for or directed towards commercial
+       advantage or monetary compensation"

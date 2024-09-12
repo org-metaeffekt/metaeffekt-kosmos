@@ -1,0 +1,29 @@
+canonicalName: Community Data License Agreement Permissive 2.0
+category: Community Data License Agreement Permissive
+spdxIdentifier: CDLA-Permissive-2.0
+
+otherIds:
+  - "scancode:cdla-permissive-2.0"
+
+alternativeNames:
+  - "Community Data License Agreement Permissive 2.0"
+  - "https://cdla.dev/permissive-2-0"
+
+evidence:
+  matches:
+    - "A Data Recipient may use, modify, and share the Data made available by Data Provider(s) under this agreement
+       if that Data Recipient follows the terms of this agreement"
+    - "This agreement does not impose any restriction on a Data Recipient's use, modification, or sharing of any
+       portions of the Data that are in the public domain or that may be used, modified, or shared under any other
+       legal exception or limitation"
+    - "A Data Recipient may share Data, with or without modifications, so long as the Data Recipient makes available
+       the text of this agreement with the shared Data"
+    - "This agreement does not impose any restriction or obligations with respect to the use, modification, or sharing of Results"
+    - "All Data Recipients receive the Data subject to the following terms"
+    - "THE DATA IS PROVIDED ON AN 'AS IS' BASIS, WITHOUT REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND,
+       EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT,
+       MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE"
+    - "NO DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+       DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+       CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR
+       RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"

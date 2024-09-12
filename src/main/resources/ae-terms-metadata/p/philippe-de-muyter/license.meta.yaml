@@ -1,0 +1,18 @@
+canonicalName: Philippe De Muyter License
+category: Philippe De Muyter License
+shortName: Philippe-De-Muyter
+
+otherIds:
+  - "scancode:philippe-de-muyter"
+
+classification: permissive
+
+alternativeNames:
+  - "Philippe De Muyter License"
+
+# see No Warranty Marker / Linum Software License
+# FIXME-DISCUSS: ignored for a long time. really short, normal no warranty clause. covered by no warranty marker. Only reason to keep this would be the (still active!) scancodeID - , move scancode ID to no warranty marker?
+
+ignore: true
+
+

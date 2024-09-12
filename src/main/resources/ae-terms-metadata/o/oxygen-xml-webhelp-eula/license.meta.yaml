@@ -1,0 +1,22 @@
+canonicalName: Oxygen XML WebHelp License
+category: Oxygen XML WebHelp
+shortName: Oxygen-XML-EebHelp-EULA
+
+otherIds:
+  - "scancode:oxygen-xml-webhelp-eula"
+
+canonicalNameHistory:
+  - "Oxygen XML WebHelp EULA"
+
+alternativeNames:
+  - "Oxygen XML WebHelp EULA"
+
+evidence:
+  matches:
+    - "Upon your payment of the license fee and subject to the terms and conditions
+       contained herein, Syncro or its authorized reseller provides you with a License
+       Key and grants you a limited, non-exclusive, non-transferable license to"
+    - "incorporate, integrate, include and use the Software for your internal business
+       purpose on a Process basis meaning specific Processes are authorized to access the
+       Software and the total number of Processes may not exceed the total number licensed by You"
+    - "copy the Software in machine-readable form solely for backup purposes"

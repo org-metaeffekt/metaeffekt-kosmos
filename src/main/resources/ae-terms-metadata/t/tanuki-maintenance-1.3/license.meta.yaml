@@ -1,0 +1,24 @@
+canonicalName: Tanuki Maintenance Support Services Addendum 1.3
+category: Tanuki Maintenance
+shortName: Tanuki-Maintenance-1.3
+
+otherIds:
+  - "scancode:tanuki-maintenance"
+
+alternativeNames:
+  - "Tanuki Maintenance Support Services Addendum 1.3"
+  - "Tanuki Software, Ltd. Maintenance Support Services Addendum Version 1.3"
+
+evidence:
+  matches:
+    - "TSIMS shall commence on (a) the day of the Software Program
+       shipment or (b) the date specified in this Agreement; or (c) as
+       otherwise specified and agreed to in writing by TSI but in no case not
+       later than six (6) months from date of Software Program shipment and
+       will continue for a period of one year from the date established in
+       (a), (b) or (c) above"
+    - "If no specific TSIMS start is established, then TSIMS will commence
+       on the Software Program shipment date"
+    - "TSIMS may be renewed for subsequent one (1) year periods subject to then
+       current TSIMS fees and the execution of a new Maintenance Support Services
+       Addendum"

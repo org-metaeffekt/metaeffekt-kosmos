@@ -1,0 +1,79 @@
+canonicalName: Health Administration Corporation Open Source License 1.2
+category: Health Administration Corporation
+shortName: HACOS-1.2
+
+alternativeNames:
+  - "HACOS 1.2"
+  - "Health Administration License 1.2"
+otherIds:
+  - "scancode:hacos-1.2"
+
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "\"Health Administration Corporation\" shall mean the Health
+        Administration Corporation as established by the Health Administration
+        Act 1982, as amended, of the State of New South Wales, Australia"
+    - "Subject to the terms of this License, Health Administration Corporation
+       hereby grants You a world-wide, royalty-free, non-exclusive license,
+       subject to third party intellectual property claims"
+    - "under copyrights Licensable by Health Administration Corporation
+          to use, reproduce, modify, display, perform, sublicense and
+          distribute the Original Software (or portions thereof) with or without
+          Modifications, and/or as part of a Larger Work"
+    - "The licenses granted in this Section 2.1(a) and (b) are effective
+          on the date Health Administration Corporation first distributes
+          Original Software under the terms of this License"
+    - "under copyrights Licensable by Contributor, to use, reproduce,
+          modify, display, perform, sublicense and distribute the Modifications
+          created by such Contributor (or portions thereof) either on an
+          unmodified basis, with other Modifications, as Covered Software and/or
+          as part of a Larger Work"
+    - "The Source Code version of Covered Software may be distributed
+       only under the terms of this License or a future version of this License
+       released under Section 6.1, and You must include a copy of this License
+       with every copy of the Source Code You distribute"
+    - "Any Modification which You create or to which You contribute must be made
+       available in Source Code form under the terms of this License either on
+       the same media as an Executable version or via an accepted Electronic
+       Distribution Mechanism to anyone to whom you made an Executable version
+       available"
+    - "If it is not possible to put such notice in a particular Source
+       Code file due to its structure, then You must include such notice in a
+       location (such as a relevant directory) where a user would be likely to
+       look for such a notice"
+    - "COVERED SOFTWARE IS PROVIDED UNDER THIS LICENSE ON AN \"AS IS'' BASIS,
+        WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,
+        WITHOUT LIMITATION, WARRANTIES THAT THE COVERED SOFTWARE IS FREE OF
+        DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING"
+    - "All rights in the Covered Software not expressly granted under
+       this License are reserved"
+
+references:
+  "Nokia License":
+    matches:
+      - "APPENDIX 1. DIFFERENCES BETWEEN THE HACOS LICENSE VERSION 1.2, THE
+       MOZILLA PUBLIC LICENSE VERSION 1.1 AND THE NOKIA OPEN SOURCE LICENSE
+       (NOKOS LICENSE) VERSION 1.0A
+
+       The HACOS License Version 1.2 was derived from the Mozilla Public
+       License Version 1.1 using some of the changes to the Mozilla Public
+       License embodied in the Nokia Open Source License (NOKOS License)
+       Version 1.0a. The differences between the HACOS License Version 1.2
+       (this document), the Mozilla Public License and the NOKOS License are
+       as follows:"
+  "MPL":
+    matches:
+      - "APPENDIX 1. DIFFERENCES BETWEEN THE HACOS LICENSE VERSION 1.2, THE
+         MOZILLA PUBLIC LICENSE VERSION 1.1 AND THE NOKIA OPEN SOURCE LICENSE
+         (NOKOS LICENSE) VERSION 1.0A
+
+         The HACOS License Version 1.2 was derived from the Mozilla Public
+         License Version 1.1 using some of the changes to the Mozilla Public
+         License embodied in the Nokia Open Source License (NOKOS License)
+         Version 1.0a. The differences between the HACOS License Version 1.2
+         (this document), the Mozilla Public License and the NOKOS License are
+         as follows:"

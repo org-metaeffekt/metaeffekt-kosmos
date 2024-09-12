@@ -1,0 +1,40 @@
+canonicalName: Helix DNA Technology Binary Research Use License
+category: Helix DNA Technology Binary Research Use License
+shortName: Helix
+
+otherIds:
+  - "scancode:helix"
+
+alternativeNames:
+  - "https://helixcommunity.org/beula/"
+
+evidence:
+  matches:
+    - "Subject to the restrictions set forth herein, RealNetworks hereby grants to You a non-exclusive,
+       non-sublicensable, personal license to use the Software in object code and any accompanying documentation
+       ('Documentation') solely for Your internal, non-commercial evaluation and research use, provided that
+       You may only install and use a reasonable number of copies of the Software on computers owned or controlled
+       by You and located on Your premises"
+    - "As part of such use You may combine the Software with other Helix software properly licensed to You under
+       the terms of the RealNetworks Community Source License Agreement or the RealNetworks Public Source License
+       Agreement, but You may not otherwise create derivative works of the Software or Documentation"
+    - "You may not: (i) permit other individuals to use the Software except under the terms listed above;
+       (ii) modify, translate, reverse engineer, decompile, disassemble or use any other method (including 'clean room'
+       development) to learn the source code of the Software (except to the extent that this restriction is expressly
+       prohibited by law); (iii) rent, lease, transfer, or otherwise transfer rights to the Software or Documentation;
+       (iv) remove any proprietary notices or labels on the Software or Documentation; (v) use the Software to encode,
+       reproduce or copy any material or intellectual property You do not have the right to encode, reproduce, or copy;
+       (vi) use the Software to develop any application that has the capability of transcoding or converting RealAudio
+       or RealVideo Files into any other file format ('Transcode' means to alter the current encoding or form of media
+       files that was decoded from its original form, including by way of example but not limited to by way of example
+       but not limited to: decompression of an audio or video stream and recompression using a different compression
+       algorithm); or (vii) make available to any third party the results of any evaluation or testing of the Software
+       by You under this License. Any such forbidden use shall immediately terminate Your license to the Software"
+    - "You agree that You shall only use the Software and Documentation in a manner that complies with all applicable
+       laws in the jurisdictions in which You use the Software and Documentation, including, but not limited to,
+       applicable restrictions concerning copyright and other intellectual property rights"
+    - "You may not use the Software in an attempt to, or in conjunction with, any device, program or service designed
+       to circumvent technological measures employed to control access to, or the rights in, a digital media content
+       file or other work protected by the copyright laws of any jurisdiction"
+    - "Certain components of the Software may embody a serial copying management system required by the laws of the United States"
+    - "You may not circumvent or attempt to circumvent this system by any means"

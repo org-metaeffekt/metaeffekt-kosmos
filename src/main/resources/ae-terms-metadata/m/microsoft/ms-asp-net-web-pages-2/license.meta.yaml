@@ -1,0 +1,22 @@
+canonicalName: Microsoft Software License (ASP.NET Web Pages 2)
+category: Microsoft Software
+shortName: MS-Software-ASP-NET-Web-Pages-2
+
+otherIds:
+  - "scancode:ms-asp-net-web-pages-2"
+
+canonicalNameHistory:
+  - "Microsoft ASP.NET Web Pages 2 License"
+
+alternativeNames:
+  - "Microsoft ASP.NET Web Pages 2 License"
+
+evidence:
+  matches:
+    - "As described below, using some features also operates as your consent to the transmission
+       of certain standard computer information for Internet-based services"
+    - "The package manager feature of the software includes third party code"
+    - "However, all such code is licensed by you by Microsoft under this license agreement,
+       rather than licensed to you by any third party under some other license terms"
+    - "Notices, if any, for the third party code are included with this software for your information only"
+

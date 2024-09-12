@@ -1,0 +1,22 @@
+canonicalName: Arachni Public Source License 1.0
+category: Arachni Public Source License
+shortName: Arachni-PSL-1.0
+
+otherIds:
+  - "scancode:arachni-psl-1.0"
+
+alternativeNames:
+  - "Arachni Public Source License v1.0"
+
+evidence:
+  matches:
+    - "Penetration testers (or penetration testing organizations) using this Work as part of their manual assessment toolkit"
+    - "Using this Work to assess the security of Your own systems"
+    - "Use of the Work is permitted free of charge, provided that said use does not involve Commercialization"
+    - "Any use of the Work, in whole or in part, involving Commercialization, is strictly prohibited without the prior
+       written consent of Licensor"
+    - "Unmodified License is provided with the Work"
+    - "Unmodified Copyright notices are provided with the Work"
+    - "Does not conflict with Section 2"
+    - "Copying is permitted so long as it does not conflict with Section 3"
+    - "Modification is permitted so long as it does not conflict with Section 3"

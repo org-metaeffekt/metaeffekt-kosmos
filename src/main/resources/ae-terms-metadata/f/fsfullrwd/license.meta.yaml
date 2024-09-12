@@ -1,0 +1,21 @@
+canonicalName: FSF Unlimited License (with License Retention and Warranty Disclaimer)
+category: FSF Unlimited
+spdxIdentifier: FSFULLRWD
+
+#note: both scancode IDs are active and have the same license text (20.08.2024)
+otherIds:
+  - "scancode:fsf-unlimited-no-warranty"
+  - "scancode:g10-permissive"
+
+alternativeNames:
+  - "FSF Unlimited License (with License Retention and Warranty Disclaimer)"
+
+canonicalNameHistory:
+  - "FSF Unlimited License (With License Retention and Warranty Disclaimer)"
+
+evidence:
+  matches:
+    - "unlimited permission to copy and/or distribute it, with or without modifications, as long as this notice is preserved"
+    - "This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY,
+       to the extent permitted by law"
+    - "without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE"

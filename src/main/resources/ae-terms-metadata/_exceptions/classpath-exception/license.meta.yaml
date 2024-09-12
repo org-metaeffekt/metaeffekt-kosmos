@@ -1,0 +1,42 @@
+canonicalName: Classpath Exception
+category: Classpath Exception
+spdxIdentifier: Classpath-exception-2.0
+shortName: Classpath-Exception
+
+otherIds:
+  - "scancode:classpath-exception-2.0"
+
+canonicalNameHistory:
+  - "Classpath Exception 2.0"
+
+type: exception
+
+requiresSourceCodeProvision: true
+
+alternativeNames:
+  - "Class Path Exception"
+  - "CLASSPATH EXCEPTION"
+  - "Classpath-exception"
+  - "Classpath Exception"
+  - "\"Classpath\" exception"
+  - "designates this particular file as subject to the \"Classpath\" exception"
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with classpath exception)"
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with classpath exception)"
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with classpath exception)"
+
+evidence:
+  matches:
+    - "Linking this library statically or dynamically with other modules is making a combined work based on this
+       library. Thus, the terms and conditions of the GNU General Public License* cover the whole combination"
+    - "As a special exception, the copyright holders of this library give you permission to link this library with
+       independent modules to produce an executable"
+  excludes:
+    - "Additionally if other files instantiate templates or use macros or inline
+       functions from this file, or you compile this file and link it with other
+       files to produce an executable, this file does not by itself cause the
+       resulting executable to be covered by the GNU General Public License"
+    - "Linking this OpenJDK Code statically or dynamically with other code is making a combined work based on this library"
+    - "Certain source files distributed by Oracle America and/or its affiliates are
+       subject to the following clarification and special exception to the GPL"

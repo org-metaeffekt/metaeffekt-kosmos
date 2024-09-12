@@ -1,0 +1,57 @@
+canonicalName: GNU Free Documentation License 1.2
+category: GFDL
+spdxIdentifier: GFDL-1.2-only
+shortName: GFDL-1.2
+
+otherIds:
+  - "scancode:gfdl-1.2"
+
+alternativeNames:
+  - "GNU Free Documentation License Version 1.2"
+  - "GNU Free Documentation License, Version 1.2"
+  - "GNU Free Documentation License, v1.2"
+  - "GNU Free Documentation License v1.2"
+  - "GFDL Version 1.2"
+  - "GFDL, Version 1.2"
+  - "GFDL, v1.2"
+  - "GFDL v1.2"
+  - "GFDL-1.2"
+  - "GFDL version 1.2"
+  - "Change license on the manual to GFDLv1.2"
+  - "GNU FDL 1.2"
+
+evidence:
+  matches:
+    - "The Document may include Warranty Disclaimers next to the notice which states
+       that this License applies to the Document"
+    - "These Warranty Disclaimers are considered to be included by reference in this License,
+       but only as regards disclaiming warranties: any other implication that these Warranty
+       Disclaimers may have is void and has no effect on the meaning of this License"
+    - "The combined work need only contain one copy of this License, and multiple
+       identical Invariant Sections may be replaced with a single copy"
+  excludes:
+    - "The \"publisher\" means any person or entity that distributes copies of the
+       Document to the public"
+
+references:
+  "GPL":
+    matches:
+      - "This License is a kind of copyleft, which means that derivative works of
+         the document must themselves be free in the same sense. It complements the
+         GNU General Public License, which is a copyleft license designed for free
+         software"
+      - "If your document contains nontrivial examples of program code, we recommend
+         releasing these examples in parallel under your choice of free software license,
+         such as the GNU General Public License, to permit their use in free software"
+  "GFDL":
+    matches:
+      - "To use this License in a document you have written, include a copy of the
+         License in the document and put the following copyright and license notices
+         just after the title page:
+
+         Copyright (c) YEAR YOUR NAME. Permission is granted to copy, distribute and/or
+         modify this document under the terms of the GNU Free Documentation License,
+         Version 1.2 or any later version published by the Free Software Foundation;
+         with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+         A copy of the license is included in the section entitled \"GNU Free Documentation
+         License\""

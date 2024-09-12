@@ -1,0 +1,41 @@
+canonicalName: copyleft next License 0.3.0
+category: copyleft next
+spdxIdentifier: copyleft-next-0.3.0
+
+otherIds:
+  - "scancode:copyleft-next-0.3.0"
+
+alternativeNames:
+  - "copyleft next, Version 0.3.0"
+  - "copyleft next, 0.3.0"
+  - "copyleft next 0.3.0"
+  - "copyleft-next, Version 0.3.0"
+  - "copyleft-next, 0.3.0"
+  - "copyleft-next 0.3.0"
+  - "copyleft next License, Version 0.3.0"
+  - "copyleft next License, 0.3.0"
+  - "copyleft next License 0.3.0"
+  - "copyleft-next License, Version 0.3.0"
+  - "copyleft-next License, 0.3.0"
+  - "copyleft-next License 0.3.0"
+
+evidence:
+  matches:
+    - "You may additionally license the Derived Work
+       under the GPL, so that the recipient may further Distribute the Derived Work
+       under either this License or the GPL"
+    - "The conditions in sections 2 through 5 no longer apply once fifteen years"
+    - "at <https://gitorious.org/copyleft-next/> as of the release date of this License"
+
+references:
+  "GPL Compatibility":
+    matches:
+      - "Conditions for Distributing Derived Works; Outbound GPL Compatibility"
+  "GPL":
+    matches:
+      - "GPL means a version of the GNU General Public License or the GNU Affero
+        General Public License"
+  "AGPL":
+    matches:
+      - "GPL means a version of the GNU General Public License or the GNU Affero
+        General Public License"

@@ -1,0 +1,32 @@
+canonicalName: Open CASCADE Exception 1.0 (LGPL)
+category: LGPL CASCADE Exception
+spdxIdentifier: OCCT-exception-1.0
+shortName: Open-CASCADE-Exception-1.0-LGPL
+
+otherIds:
+  - "scancode:occt-exception-1.0"
+
+type: exception
+
+canonicalNameHistory:
+  - "Open CASCADE Exception 1.0"
+
+alternativeNames:
+  - "Open CASCADE Exception 1.0"
+  - "Open CASCADE Exception (version 1.0)"
+  - "OCCT-exception-1.0-LGPL"
+  - "OCCT-exception-1.0"
+
+evidence:
+  matches:
+    - "As a special exception to the GNU Lesser General Public License
+       version 2.1, you may distribute such object code incorporating material from header files provided with the
+       Open CASCADE Technology libraries (including code of CDL generic classes) under terms of your choice,
+       provided that you give prominent notice in supporting documentation to this code that it makes use of or is
+       based on facilities provided by the Open CASCADE Technology software"
+
+references:
+  "LGPL":
+    matches:
+      - "As a special exception to the GNU Lesser General Public License version 2.1"
+      - "Open CASCADE Exception (version 1.0) to GNU LGPL version 2.1"

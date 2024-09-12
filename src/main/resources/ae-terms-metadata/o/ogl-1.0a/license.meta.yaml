@@ -1,0 +1,20 @@
+canonicalName: Open Game License 1.0a
+category: Open Game License 1.0a
+shortName: OGL-1.0a
+
+otherIds:
+  - "scancode:ogl-1.0a"
+
+alternativeNames:
+  - "Open Game License v1.0a"
+
+evidence:
+  matches:
+    - "This License applies to any Open Game Content that contains a notice indicating that the Open Game Content
+       may only be Used under and in terms of this License"
+    - "You must affix such a notice to any Open Game Content that You Use"
+    - "No terms may be added to or subtracted from this License except as described by the License itself"
+    - "No other terms or conditions may be applied to any Open Game Content Distributed using this License"
+    - "By Using the Open Game Content You indicate Your acceptance of the terms of this License"
+    - "If You Distribute Open Game Content You must clearly indicate which portions of the work that You are
+       Distributing are Open Game Content"

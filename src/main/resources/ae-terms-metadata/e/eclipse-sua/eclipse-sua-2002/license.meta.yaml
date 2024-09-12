@@ -1,0 +1,25 @@
+canonicalName: Eclipse Foundation Software User Agreement 2002
+category: Eclipse SUA
+shortName: Eclipse-SUA-2002
+
+alternativeNames:
+  - "Eclipse Foundation Software User Agreement 2002"
+
+otherIds:
+  - "scancode:eclipse-sua-2002"
+
+evidence:
+  matches:
+    - "Content may be apportioned into plug-ins (\"Plug-ins\"), plug-in fragments (\"Fragments\"),
+       and features (\"Features\")"
+    - "The terms and conditions governing Features and Included Features should be contained in
+       files named \"license.html\" (\"Feature Licenses\")"
+  excludes:
+    - "THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER TO THE CPL OR OTHER
+       LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS"
+
+references:
+  "CPL":
+    matches:
+      - "Unless otherwise indicated, all Content made available by Eclipse.org is provided to
+         you under the terms and conditions of the Common Public License Version 1.0 (\"CPL\")"

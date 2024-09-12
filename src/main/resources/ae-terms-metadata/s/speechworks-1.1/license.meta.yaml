@@ -1,0 +1,25 @@
+canonicalName: SpeechWorks Public License 1.1
+category: SpeechWorks Public License
+shortName: SpeechWorks-1.1
+
+otherIds:
+  - "scancode:speechworks-1.1"
+
+alternativeNames:
+  - "http://www.speech.cs.cmu.edu/openvxi/OpenVXI_1_4/License.txt"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution"
+    - "Neither the name of Speech Works International, Inc. ('SWI') nor
+       the names of its contributors may be used to endorse or promote
+       products derived from this software without specific prior written permission"
+    - "For written permission contact Director, Product
+       Management, SpeechWorks International, Inc., 695 Atlantic Ave., Boston, MA 02110"
+    - "Products derived from the software may not be called 'SpeechWorks',
+       nor may 'SpeechWorks' appear in their name, without prior written
+       permission of SWI"

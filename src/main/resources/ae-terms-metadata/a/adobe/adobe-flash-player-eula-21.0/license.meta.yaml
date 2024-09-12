@@ -1,0 +1,19 @@
+canonicalName: Adobe Flash Player EULA 21.0
+category: Adobe Flash Player EULA
+shortName: Adobe-Flash-Player-EULA-21.0
+
+otherIds:
+  - "scancode:adobe-flash-player-eula-21.0"
+
+alternativeNames:
+  - "ADOBE Personal Computer Software License Agreement"
+
+evidence:
+  matches:
+    - "Adobe permits you to Use the Software only in accordance with the terms of this agreement"
+    - "Use of some third party materials included in the Software may be subject to other terms
+       and conditions typically found in a separate license agreement, a 'Read Me' file located
+       near such materials or in the 'Third Party Software Notices and/or Additional Terms and Conditions'
+       found at http://www.adobe.com/go/thirdparty"
+    - "Such other terms and conditions will supersede all or portions of this agreement in the
+       event of a conflict with the terms and conditions of this agreement"

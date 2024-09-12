@@ -1,0 +1,18 @@
+canonicalName: WTFNMF Public License 1.0
+category: WTFNMF
+shortName: WTFNMF-1.0
+
+otherIds:
+  - "scancode:wtfnmfpl-1.0"
+
+alternativeNames:
+  - "DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE"
+
+evidence:
+  matches:
+    - "Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed"
+    - "Do not hold the author(s), creator(s), developer(s) or distributor(s)
+       liable for anything that happens or goes wrong with your use of the work"
+  excludes:
+    - "This project is licensed under the terms of the
+       DO WHAT THE FUCK YOU WANT TO BUT IT'S NOT MY FAULT PUBLIC LICENSE,*{.{0,20}}* 3"

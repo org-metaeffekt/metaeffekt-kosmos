@@ -1,0 +1,34 @@
+canonicalName: Microsoft Visual C++ 2010 Runtime Libraries License
+category: Microsoft Visual C++ 2010 Runtime Libraries License
+shortName: MS-Visual-2010-Runtime
+
+otherIds:
+  - "scancode:ms-visual-2010-runtime"
+
+alternativeNames:
+  - "Microsoft Visual C++ 2010 Runtime Libraries License"
+  - "MICROSOFT SOFTWARE LICENSE TERMS MICROSOFT VISUAL C++ 2010 RUNTIME LIBRARIES"
+
+references:
+
+evidence:
+  matches:
+    - "It also applies even if Microsoft knew or should have known about the possibility of the damages"
+    - "The above limitation or exclusion may not apply to you because your country may not allow the exclusion or
+       limitation of incidental, consequential or other damages"
+    - "transfer the software or this agreement to any third party"
+    - "This agreement does not change your rights under the laws of your country if the laws of your country do not
+       permit it to do so"
+    - "If you comply with these license terms, you have the rights below."
+  excludes:
+    - "The software may install automatic updates, which cannot be turned off"
+    - "MICROSOFT VISUAL C++ 2008 RUNTIME LIBRARIES" # there is no other semantic change
+    - "MICROSOFT JDBC DRIVER 6.0 FOR SQL SERVER"
+    - "The software contains code that you are permitted to distribute in programs you develop if you comply with the terms below"
+    - "You may install and use any number of copies of the software on your premises  to design, develop, test and demonstrate your programs"
+    - "You may install and use any number of copies of the software on your premises to design, develop and test your ASP.NET programs"
+    - "This agreement will automatically expire on August 1, 2013 or the commercial release of the software, whichever comes first"
+    - "You may copy and distribute the object code form of code marked as \"Silverlight Libraries\""
+    - "You may copy and distribute the object code form of the software (\"Distributable Code\") in programs you develop"
+    - "MICROSOFT JDBC DRIVER 4.0 FOR SQL SERVER"
+    - "MICROSOFT JDBC DRIVER 4.1 FOR SQL SERVER"

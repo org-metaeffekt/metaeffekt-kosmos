@@ -1,0 +1,24 @@
+canonicalName: Copyright notice to the ec fonts
+category: Copyright notice to the ec fonts
+shortName: Ecfonts-1.0
+
+# review names
+
+otherIds:
+  - "scancode:ecfonts-1.0"
+
+alternativeNames:
+  - "Copyright notice to the ec fonts"
+
+evidence:
+  matches:
+    - "The distribution of changed versions of certain files included in
+       the ec fonts, and the re-use of code from those files, are allowed
+       under the following restrictions"
+    - "It is allowed only if the legal notice in the file does not
+       expressly forbid it"
+    - "You rename the file before you make any changes to it, unless the
+       file explicitly says that renaming is not required"
+    - "Any such changed files should be distributed under conditions that ensure
+       that those files, and any files derived from them, will never be redistributed
+       under the names used by the original files in the ec fonts"

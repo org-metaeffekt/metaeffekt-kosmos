@@ -1,0 +1,58 @@
+canonicalName: ISC License (Veillard)
+category: Permission
+spdxIdentifier: ISC-Veillard
+
+status:
+  - "reviewed 25.01.2024"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:mit-veillard-variant"
+
+canonicalNameHistory:
+  - "Permission Terms Var008"
+  - "Permission Terms (variant 008)"
+
+alternativeNames:
+  - "ISC-Veillard"
+  - "ISC Veillard variant"
+
+displayName: Permission Terms (no responsibility; no warranty)
+
+representedAs: Permission Terms
+
+standardVariableSet:
+  copyrightHolderNoWarranty: "THE AUTHORS AND CONTRIBUTORS"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, *{.{0,7}}*distribute this software for any
+       purpose with or without fee is hereby granted, provided that the above
+       copyright notice and this permission notice appear in all copies"
+    - "THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED
+       WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+       MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE"
+    - "ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER"
+  excludes:
+    - "IN NO EVENT SHALL NOMINUM BE LIABLE FOR
+       ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+       WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+       ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+       OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
+
+mappingOrder:
+  - "000"
+
+mappings:
+  "MERCHANTIBILITY": "MERCHANTABILITY"
+
+licenseTemplate:
+  "<lq>Permission to use, copy, modify, and distribute this software for any
+    purpose with or without fee is hereby granted, provided that the above
+    copyright notice and this permission notice appear in all copies.<p/>
+    <codeph>THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. {{copyrightHolderNoWarranty}} ACCEPT
+    NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.</codeph></lq>"

@@ -1,0 +1,86 @@
+canonicalName: SGI GLX Public License 1.0
+category: SGI GLX Public License
+shortName: SGI-GLX-1.0
+
+otherIds:
+  - "scancode:sgi-glx-1.0"
+
+canonicalNameHistory:
+  - "GLX Public License 1.0"
+
+alternativeNames:
+  - "http://velib.kyb.mpg.de/docu/GLX.html"
+  - "http://www.sgi.com/products/software/opensource/glx/glxlicense.txt"
+  - "GLX PUBLIC LICENSE Version 1.0 2/11/99 License"
+
+evidence:
+  matches:
+    - "Redistributions of Subject Software in source code form must retain the notice set forth in
+       Exhibit A, below, in every file"
+    - "A copy of this License must be included in any documentation for such Subject Software where the recipients' rights
+       relating to Subject Software are described"
+    - "Recipient may distribute the source code version of Subject Software under a license of Recipient's
+       choice, which may contain terms different from this License, provided that
+       (i) Recipient is in compliance with the terms of this License, and
+       (ii) the license terms include this Section 2 and Sections 3, 4, 7, 8, 10, 12 and 13
+       of this License, which terms may not be modified or superseded by any other terms of such license"
+    - "If Recipient distributes the source code version under
+       a different license Recipient must make it absolutely clear that any terms
+       which differ from this License are offered by Recipient alone, not by SGI"
+    - "Recipient hereby agrees to indemnify SGI for any liability incurred by SGI as
+       a result of any such terms Recipient offers"
+    - "The notice set forth in Exhibit A must be conspicuously included in any notice in an executable version of Subject
+       Software, related documentation or collateral in which Recipient describes
+       the user's rights relating to the Subject Software"
+    - "Recipient may distribute the executable version of Subject Software under a license of Recipient's
+       choice, which may contain terms different from this License, provided that
+       (i) Recipient is in compliance with the terms of this License, and
+       (ii) the license terms include this Section 3 and Sections 4, 7, 8, 10, 12 and 13 of
+       this License, which terms may not be modified or superseded by any other terms of such license"
+    - "If Recipient distributes the executable version under
+       a different license Recipient must make it absolutely clear that any terms
+       which differ from this License are offered by Recipient alone, not by SGI"
+    - "Recipient hereby agrees to indemnify SGI for any liability incurred by SGI as
+       a result of any such terms Recipient offers"
+    - "This License and the rights granted hereunder will terminate
+       automatically if Recipient fails to comply with terms herein and fails to
+       cure such breach within 30 days of the breach"
+    - "Any sublicense to the Subject Software which is properly granted shall survive any termination of this
+       License absent termination by the terms of such sublicense"
+    - "Provisions which, by their nature, must remain in effect beyond the termination of this License
+       shall survive"
+    - "This License does not grant any rights to use any trade name, trademark or service mark whatsoever"
+    - "No trade name, trademark or service mark of SGI may be used to endorse or promote products derived from
+       the Subject Software without prior written permission of SGI"
+    - "This License does not grant any rights with respect to
+       the OpenGL API or to any software or hardware implementation thereof or to
+       any other software whatsoever, nor shall any other rights or licenses not
+       expressly granted hereunder arise by implication, estoppel or otherwise with
+       respect to the Subject Software"
+    - "Title to and ownership of the Original Software at all times remains with SGI"
+    - "All rights in the Original Software not expressly granted under this License are reserved"
+    - "Recipient shall comply with all applicable laws and regulations in connection with use and distribution of
+       the Subject Software, including but not limited to, all export and import
+       control laws and regulations of the U.S. government and other countries"
+    - "Recipient may not distribute Subject Software that (i) in any way infringes
+       (directly or contributorily) the rights (including patent, copyright, trade
+       secret, trademark or other intellectual property rights of any kind) of any
+       other person or entity or (ii) breaches any representation or warranty,
+       express, implied or statutory, which under any applicable law it might be
+       deemed to have been distributed"
+    - "If Recipient at any time has knowledge of any one
+       or more third party claims that reproduction, modification, use, distribu-
+       tion, import or sale of Subject Software (including particular functionality
+       or code incorporated in Subject Software) infringes the third party's intel-
+       lectual property rights, Recipient must place in a well-identified web page
+       bearing the title 'LEGAL' a description of each such claim and a description
+       of the party making each such claim in sufficient detail that a user of the
+       Subject Software will know whom to contact regarding the claim"
+    - "Also, upon gaining such knowledge of any such claim, Recipient must conspicuously
+       include the URL for such web page in the Exhibit A notice required under Sections 2 and 3,
+       above, and in the text of any related documentation, license
+       agreement or collateral in which Recipient describes end user's rights relating to the Subject Software"
+    - "If Recipient obtains such knowledge after it makes Subject Software available to any other person or entity,
+       Recipient shall take other steps (such as notifying appropriate mailing lists or news-
+       groups) reasonably calculated to inform those who received the Subject Soft-
+       ware that new knowledge has been obtained"

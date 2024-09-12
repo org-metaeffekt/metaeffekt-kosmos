@@ -1,0 +1,30 @@
+canonicalName: Etalab Open License 2.0 (FR)
+category: Etalab
+spdxIdentifier: etalab-2.0
+shortName: Etalab-2.0-FR
+
+canonicalNameHistory:
+  - "Etalab Open License 2.0"
+
+otherIds:
+  - "scancode:etalab-2.0" # another identifier (etalab-2.0-fr) exists, but is deprecated
+
+alternativeNames:
+  - "Etalab Open License 2.0"
+  - "etalab-2.0"
+  - "See https://www.etalab.gouv.fr/licence-ouverte-open-licence"
+  - "Licence Ouverte 2.0."
+
+evidence:
+  matches:
+  - "Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit
+     de libre « Réutilisation » de l'« Information » objet de la présente licence,
+     à des fins commerciales ou non, dans le monde entier et pour une durée illimitée,
+     dans les conditions exprimées ci-dessous"
+  - "Le « Réutilisateur » peut notamment s'acquitter de cette condition en renvoyant,
+     par un lien hypertexte, vers la source de « l'Information » et assurant une
+     mention effective de sa paternité"
+  - "Cette mention de paternité ne confère aucun caractère officiel à la « Réutilisation
+     » de l'« Information », et ne doit pas suggérer une quelconque reconnaissance
+     ou caution par le « Concédant », ou par toute autre entité publique, du «
+     Réutilisateur » ou de sa « Réutilisation »"

@@ -1,0 +1,22 @@
+canonicalName: JDBM License 1.00
+category: JDBM License
+shortName: JDBM-1.00
+
+otherIds:
+  - "scancode:jdbm-1.00"
+
+alternativeNames:
+  - "JDBM License v1.00"
+  - "JDBM LICENSE v1.00"
+
+evidence:
+  matches:
+    - "The name 'JDBM' must not be used to endorse or promote
+       products derived from this Software without prior written
+       permission of Cees de Groot"
+    - "For written permission, please contact cg@cdegroot.com"
+    - "Products derived from this Software may not be called 'JDBM'
+       nor may 'JDBM' appear in their names without prior written
+       permission of Cees de Groot"
+    - "Due credit should be given to the JDBM Project
+       (http://jdbm.sourceforge.net/)"

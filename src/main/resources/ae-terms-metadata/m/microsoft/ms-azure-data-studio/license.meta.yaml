@@ -1,0 +1,27 @@
+canonicalName: Microsoft Software License (Azure Data Studio)
+category: Microsoft Software
+shortName: MS-Software-Azure-Data-Studio
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:ms-azure-data-studio"
+
+canonicalNameHistory:
+  - "Microsoft Azure Data Studio License Terms"
+
+alternativeNames:
+  - "Microsoft Azure Data Studio License Terms"
+  - "MICROSOFT AZURE DATA STUDIO"
+
+evidence:
+  matches:
+    - "Microsoft Corporation ('Microsoft') grants you a nonexclusive, perpetual,
+       royalty-free right to use, copy, and modify the software code provided by us
+       ('Software Code')"
+    - "You may not sublicense the Software Code or any use of it
+       (except to your affiliates and to vendors to perform work on your behalf)
+       through distribution, network access, service agreement, lease, rental, or otherwise"
+    - "Unless applicable law gives you more rights, Microsoft reserves all
+       other rights not expressly granted herein, whether by implication, estoppel or otherwise"

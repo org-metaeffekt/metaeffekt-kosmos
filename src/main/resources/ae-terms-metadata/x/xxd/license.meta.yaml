@@ -1,0 +1,15 @@
+canonicalName: xxd License
+category: xxd License
+shortName: xxd
+
+otherIds:
+  - "scancode:xxd"
+
+alternativeNames:
+  - "xxd License"
+
+evidence:
+  matches:
+    - "Distribute freely and credit me"
+    - "make money and share with me"
+    - "lose money and don't ask me"

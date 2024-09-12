@@ -1,0 +1,21 @@
+canonicalName: Eurosym License
+category: Eurosym
+spdxIdentifier: Eurosym
+
+otherIds:
+  - "scancode:eurosym"
+
+alternativeNames:
+  - "Eurosym License"
+  - "EUROSYM LICENSE"
+  - "EUROSYM License"
+
+evidence:
+  matches:
+    - "The origin of this software must not be misrepresented; you must not claim
+       that you wrote the original software"
+    - "If you use this software in a product, an acknowledgment in the product
+       documentation would be appreciated"
+    - "This licence is governed by the Laws of Germany"
+    - "Disputes shall be settled by Saarbruecken City Court"
+

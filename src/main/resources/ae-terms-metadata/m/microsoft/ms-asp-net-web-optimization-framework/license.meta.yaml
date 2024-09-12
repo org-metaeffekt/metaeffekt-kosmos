@@ -1,0 +1,17 @@
+canonicalName: Microsoft Software License (ASP.NET Web Optimization Framework)
+category: Microsoft Software
+shortName: MS-ASP-NET-Web-Optimization-Framework
+
+otherIds:
+  - "scancode:ms-asp-net-web-optimization-framework"
+
+alternativeNames:
+  - "MICROSOFT ASP.NET WEB OPTIMIZATION FRAMEWORK"
+
+evidence:
+  matches:
+    - "The software contains code that you are permitted to distribute in programs you develop if you comply with the terms below"
+    - "You may copy and distribute the object code form of System.Web.Optimization.dll file"
+    - "modify or distribute the source code of any Distributable Code so that any part of it becomes subject to an Excluded License"
+    - "If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles"
+    - "FOR AUSTRALIA – You have statutory guarantees under the Australian Consumer Law and nothing in these terms is intended to affect those rights"

@@ -1,0 +1,16 @@
+canonicalName: Rockchip Proprietary Clause 2022
+category: Rockchip Proprietary Clause
+shortName: rockchip-proprietary-2022
+
+otherIds:
+  - "scancode:rockchip-proprietary-2022"
+
+evidence:
+  matches:
+    - "The material in this file is confidential and contains trade secrets
+       of Rockchip Corporation"
+    - "This is proprietary information owned by
+       Rockchip Corporation"
+    - "No part of this work may be disclosed,
+       reproduced, copied, transmitted, or used in any way for any purpose,
+       without the express written permission of Rockchip Corporation"

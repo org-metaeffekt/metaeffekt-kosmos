@@ -1,0 +1,64 @@
+# FIXME-DISCUSS: is this an exception only; clarify
+canonicalName: Cygwin Exception (GPL 3.0+)
+category: Cygwin Exception
+shortName: Cygwin-Exception-GPL-3.0+
+
+type: exception
+
+canonicalNameHistory:
+  - "Cygwin License"
+
+combinedWith:
+  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Cygwin Exception (GPL 3.0+))"
+
+otherIds:
+  - "scancode:cygwin-exception-3.0"
+
+alternativeNames:
+  - "Cygwin License"
+  - "Cygwin license"
+  - "CYGWIN_LICENSE"
+  - "ftp://ftp.nstream.pl/Rozne/iperf-2.0.5-2-win32/doc/cygwin.html"
+  - "<http://gnu.org/licenses/>"
+
+evidence:
+  matches:
+    - "As a special exception to GPLv3+, Red Hat grants you permission to link software whose sources are distributed under a
+       license that satisfies the Open Source Definition with libcygwin.a, without libcygwin.a itself causing the resulting
+       program to be covered by GPLv3+"
+    - "This means that you can port an Open Source application to Cygwin™, and distribute that executable as if it didn't
+       include a copy of libcygwin.a linked into it"
+    - "Note that this does not apply to the Cygwin™ DLL itself"
+    - "If you distribute a (possibly modified) version of the Cygwin™ DLL, you must adhere to the terms of the GPLv3+,
+       including the requirement to provide sources for the Cygwin™ DLL, unless you have obtained a special Cygwin™ license
+       to distribute the Cygwin™ DLL in only its binary form (see below)"
+
+references:
+  "Public Domain":
+    matches:
+      - "Most of the tools are covered by the GNU GPL, some are public domain, and others have a X11 style license. To cover the
+         GNU GPL requirements, the basic rule is if you give out any binaries, you must also make the source available"
+# FIXME-CONCEPT: these GPL references keep the combiner with the GPl 3.0+ from matching. Result should be "GNU General Public License 3.0 (or any later version; with Cygwin Exception (GPL 3.0+))". actual result is: "Cygwin Exception (GPL 3.0+), GNU General Public License 3.0" - after removing the references from this yaml, it is being matched correctly as "GNU General Public License 3.0 (or any later version; with Cygwin Exception (GPL 3.0+))"
+  "GPL":
+    matches:
+      - "Most of the tools are covered by the GNU GPL, some are public domain, and others have a X11 style license. To cover the
+         GNU GPL requirements, the basic rule is if you give out any binaries, you must also make the source available. For the
+         full details, be sure to read the text of the GNU General Public License (GPL). For more information on the GPL see the
+         GPL FAQ."
+      - "The Cygwin™ API library found in the winsup subdirectory of the source code is also covered by the GNU GPL (with
+         exceptions; see below). By default, all executables link against this library (and in the process include GPL'd Cygwin™
+         glue code)"
+      - "To cover the
+         GNU GPL requirements, the basic rule is if you give out any binaries, you must also make the source available. For the
+         full details, be sure to read the text of the GNU General Public License (GPL)"
+      - "Cygwin™ is free software. Red Hat, Inc. licenses Cygwin to you under the terms of the GNU General Public License as
+         published by the Free Software Foundation; you can redistribute it and/or modify it under the terms of the GNU General
+         Public License either version 3 of the license, or (at your option) any later version (GPLv3+), along with the
+         additional permissions given below."
+      - "As a special exception to GPLv3+, Red Hat grants you permission to link software whose sources are distributed under a
+         license that satisfies the Open Source Definition with libcygwin.a, without libcygwin.a itself causing the resulting
+         program to be covered by GPLv3+.
+
+         This means that you can port an Open Source application to Cygwin™, and distribute that executable as if it didn't
+         include a copy of libcygwin.a linked into it. Note that this does not apply to the Cygwin™ DLL itself. If you
+         distribute a (possibly modified) version of the Cygwin™ DLL, you must adhere to the terms of the GPLv3+,"

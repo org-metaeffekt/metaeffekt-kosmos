@@ -1,0 +1,26 @@
+canonicalName: Microsoft Visual Studio Code License 2018
+category: Microsoft Visual Studio Code License
+shortName: ms-visual-studio-code-2018
+
+otherIds:
+  - "scancode:ms-visual-studio-code-2018"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Microsoft Visual Studio Code License 2018"
+
+evidence:
+  matches:
+    - "You may use any number of copies of the software to develop and test your applications,
+       including deployment within your internal corporate network"
+    - "The uses permitted above include use of the software in demonstrating your applications"
+    - "You may make one or more backup copies of the software, for reinstalling the software"
+    - "The software may include third party components with separate legal notices or governed
+       by other agreements, as may be described in the ThirdPartyNotices file accompanying the
+       software"
+    - "The software gives you the option to download other Microsoft and third party software
+       packages from our extension marketplace or package managers"
+    - "Those packages are under their own licenses, and not this agreement"
+    - "Microsoft does not distribute, license or provide any warranties for any of the
+       third party packages"

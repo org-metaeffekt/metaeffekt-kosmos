@@ -1,0 +1,20 @@
+canonicalName: IBM AS-IS License
+category: IBM AS-IS License
+shortName: IBM-AS-IS
+
+otherIds:
+  - "scancode:ibm-as-is"
+
+alternativeNames:
+  - "ibm-as-is"
+
+evidence:
+  matches:
+    - "Any user of this software should understand that neither IBM nor its
+       licensors will be responsible for any consequences resulting from the use
+       of this software"
+    - "Any person who transfers this source code or any derivative work must
+       include the IBM copyright notice, this paragraph, and the preceding two
+       paragraphs in the transferred software"
+    - "Any person who transfers this object code or any derivative work must
+       include the IBM copyright notice in the transferred software"

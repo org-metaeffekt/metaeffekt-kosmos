@@ -1,0 +1,14 @@
+canonicalName: AGPL Generic Additional Terms
+category: AGPL Generic
+shortName: agpl-generic-additional-terms
+
+# FIXME-DISCUSS: no license text has been found for this; this serves no purpose because it is too generic - delete?
+
+otherIds:
+  - "scancode:agpl-generic-additional-terms"
+
+classification: copyleft
+
+alternativeNames:
+  - "AGPL Generic Additional Terms"
+  - "agpl-generic-additional-terms"

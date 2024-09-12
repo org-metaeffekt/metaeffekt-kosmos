@@ -1,0 +1,16 @@
+canonicalName: Microsoft Edge WebView2 Runtime License (Fixed)
+category: Microsoft Edge WebView2
+shortName: Ms-Edge-WebView2-Fixed
+
+otherIds:
+  - "scancode:ms-edge-webview2-fixed"
+
+
+evidence:
+  matches:
+    - "reverse engineer, decompile or disassemble the software, or otherwise attempt to derive the source code for the software, except and to the extent required by third party licensing terms governing use of certain open source components that may be included in the software"
+    - "You can learn more about SmartScreen in the Microsoft Edge Privacy Whitepaper at https://learn.microsoft.com/en-us/microsoft-edge/privacy-whitepaper#smartscreen"
+    - "THIS PRODUCT IS LICENSED UNDER THE AVC PATENT PORTFOLIO LICENSE FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE AVC STANDARD (“AVC VIDEO”) AND/OR (ii) DECODE AVC VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE AVC VIDEO"
+    - "You may have other rights, including consumer rights, under the laws of your state, province, or country"
+  excludes:
+    - "require distributors and external end users to agree to terms that protect it and Microsoft at least as much as this agreement, including providing notice to end users as required in Section 9 below"

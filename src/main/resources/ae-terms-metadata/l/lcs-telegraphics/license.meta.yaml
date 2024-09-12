@@ -1,0 +1,14 @@
+canonicalName: LCS-Telegraphics License
+category: LCS-Telegraphics License
+shortName: LCS-Telegraphics
+
+otherIds:
+  - "scancode:lcs-telegraphics"
+
+alternativeNames:
+  - "lcs-telegraphics"
+
+evidence:
+  matches:
+    - "The text and information contained in this file may be freely used,
+       copied, or distributed without compensation or licensing restrictions"

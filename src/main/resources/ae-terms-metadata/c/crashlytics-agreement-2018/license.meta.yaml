@@ -1,0 +1,22 @@
+canonicalName: Crashlytics Agreement 2018
+category: Crashlytics Agreement
+shortName: Crashlytics-Agreement-2018
+
+otherIds:
+  - "scancode:crashlytics-agreement-2018"
+
+alternativeNames:
+  - "Crashlytics Agreement 2018"
+
+evidence:
+  matches:
+    - "The term of this Agreement will begin on the date you first agree to this Agreement and are approved to register for the Services,
+       and continue until terminated as set forth herein ('Term')"
+    - "Your use of the Services may be terminated by Crashlytics or you at any time, for any reason,
+       effective immediately upon notice provided by one party to the other party as set forth herein"
+    - "Upon any expiration or termination of this Agreement, all rights, obligations and licenses of the parties shall cease, except that:
+       (a) all obligations that accrued prior to the effective date of termination and all remedies for breach of this Agreement shall survive,
+       (b) you must discontinue accessing and using the Services and delete all Software, Crashlytics Properties, and Crashlytics Material, and
+       (c) the provisions in Section 2 titled Restrictions, Developer Feedback, Confidentiality, Proprietary Rights, General Learning; Aggregate Data,
+       the provisions of Section 4 and the provisions in this Section 5 shall survive"
+    - "Crashlytics has no obligation to store, delete or return any User Feedback, Performance Data, Developer Data, or Results"

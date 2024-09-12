@@ -1,0 +1,41 @@
+canonicalName: Hewlett Packard JRE License
+category: Hewlett Packard JRE License
+shortName: HP-UX-jre
+
+otherIds:
+  - "scancode:hp-ux-jre"
+
+alternativeNames:
+  - "hp-ux-jre"
+
+evidence:
+  matches:
+    - "USE OF THE SOFTWARE IS SUBJECT TO THE HP SOFTWARE LICENSE TERMS, AND SUPPLEMENTAL RESTRICTIONS SET FORTH BELOW AND THE HP WARRANTY DISCLAIMER ATTACHED"
+    - "CLICK ON THE 'I ACCEPT' BOX BELOW TO INDICATE YOUR ACCEPTANCE OF THESE TERMS"
+    - "IF YOU DO NOT ACCEPT THESE TERMS FULLY, YOU MAY NOT INSTALL OR OTHERWISE USE THE SOFTWARE"
+    - "NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS NOTICE, INSTALLING OR OTHERWISE USING THE SOFTWARE INDICATES YOUR ACCEPTANCE OF THESE LICENSE TERMS"
+    - "The following terms govern your use of the Software unless you have a separate written agreement with HP"
+    - "HP grants you a license to Use one copy of the Software"
+    - "'Use' means storing, loading, installing, executing or displaying the Software"
+    - "You may not modify the Software or disable any licensing or control features of the Software"
+    - "If the Software is licensed for 'concurrent use', you may not allow more than the maximum number of authorized users to Use the Software concurrently"
+    - "The Software is owned and copyrighted by HP or its third party suppliers"
+    - "Your license confers no title or ownership in the Software and is not a sale of any rights in the Software"
+    - "HP''s third party suppliers may protect their rights in the event of any violation of these License Terms"
+    - "You may only make copies or adaptations of the Software for archival purposes or when copying or adaptation is an essential step in the authorized Use of the Software"
+    - "You must reproduce all copyright notices in the original Software on all copies or adaptations"
+    - "You may not copy the Software onto any bulletin board or similar system"
+    - "You may not disassemble or decompile the Software unless HP''s prior written consent is obtained"
+    - "In some jurisdictions, HP''s consent may not be required for disassembly or decompilation"
+    - "Upon request, you will provide HP with reasonably detailed information regarding any disassembly or decompilation"
+    - "You may not decrypt the Software unless decryption is a necessary part of the operation of the Software"
+    - "Your license will automatically terminate upon any transfer of the Software"
+    - "Upon transfer, you must deliver the Software, including any copies and related documentation, to the transferee"
+    - "The transferee must accept these License Terms as a condition to the transfer"
+    - "HP may terminate your license upon notice for failure to comply with any of these License Terms"
+    - "Upon termination, you must immediately destroy the Software, together with all copies, adaptations and merged portions in any form"
+    - "The software you are about to download contains cryptography technology"
+    - "Some countries regulate the import, use and/or export of certain products with cryptography"
+    - "HP makes no claims as to the applicability of local country import, use and/or export regulations in relation to the download of this product"
+    - "If you are located outside the U.S. and Canada you are advised to consult your local country regulations to insure compliance"
+    - "You may not export or re-export this software or any copy or adaptation in violation of any applicable laws or regulations"

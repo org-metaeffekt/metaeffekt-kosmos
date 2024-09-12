@@ -1,0 +1,24 @@
+canonicalName: CTL License
+category: CTLL
+shortName: CTLL
+
+otherIds:
+  - "scancode:ctl-linux-firmware"
+
+alternativeNames:
+  - "Creative Technology Ltd License"
+  - "CTL LICENSE"
+
+# due to coupling
+ignoreMatches:
+  - "Patent License Open Source Exception"
+
+evidence:
+  matches:
+    - "Neither the name of Creative Technology Ltd or its affiliates (*)
+       nor the names of its suppliers may be used to endorse or promote
+       products derived from this software without specific prior written
+       permission"
+    - "No reverse engineering, decompilation, or disassembly of this software"
+    - "CTL grants a limited, world-wide, royalty-free, non-exclusive license"
+

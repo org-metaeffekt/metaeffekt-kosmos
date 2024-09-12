@@ -1,0 +1,18 @@
+canonicalName: Pine License
+category: Pine License
+shortName: Pine
+
+otherIds:
+  - "scancode:pine"
+
+alternativeNames:
+  - "http://www.washington.edu/pine/overview/legal.html"
+
+evidence:
+  matches:
+    - "Redistribution of binary versions is further constrained by license agreements for incorporated
+       libraries from third parties"
+    - "you are not located in or under the control of a national or resident of any such country or on
+       any such list"
+    - "you will not export or re-export the software to any prohibited country, or to any prohibited person,
+       entity, or end-user as specified by U.S. export controls"

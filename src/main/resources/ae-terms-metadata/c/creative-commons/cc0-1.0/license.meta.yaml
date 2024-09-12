@@ -1,0 +1,39 @@
+canonicalName: Creative Commons Zero 1.0
+category: CC0
+spdxIdentifier: CC0-1.0
+
+otherIds:
+  - "scancode:cc0-1.0"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+canonicalNameHistory:
+  - "CC0 Universal 1.0"
+
+alternativeNames:
+  - "CC0 Universal 1.0"
+  - "CC0 1.0"
+  - "Creative Commons CC0 1.0 Universal License"
+  - "http://creativecommons.org/publicdomain/zero/1.0/"
+  - "http://creativecommons.org/publicdomain/zero/1.0"
+  - "Creative Commons Zero v1.0 Universal"
+
+evidence:
+   matches:
+     - "the right to reproduce, adapt, distribute, perform, display, communicate,
+        and translate a Work"
+     - "moral rights retained by the original author(s) and/or performer(s)"
+     - "publicity and privacy rights pertaining to a person's image or likeness
+        depicted in a Work"
+     - "rights protecting the extraction, dissemination, use and reuse of data in a Work"
+   excludes:
+     - "Public Domain Dedication"
+     - "The person who associated a work with this deed has dedicated the work to the
+        public domain by waiving all of his or her rights to the work worldwide under
+        copyright law, including all related and neighboring rights, to the extent
+        allowed by law"
+     - "Subject to Section 3(b), Licensor, on behalf of itself and each of its Affiliates, hereby grants to you and your 
+        Affiliates a royalty-free, fully-paid-up, worldwide, non-exclusive, non-transferable license under Licensor 
+        Patents to make, have made, use, sell, offer for sale, import, and otherwise exploit any Software and practice 
+        any method embodied in Software"

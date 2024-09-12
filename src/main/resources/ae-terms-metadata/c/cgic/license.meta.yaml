@@ -1,0 +1,23 @@
+canonicalName: CGIC License
+category: CGIC License
+shortName: CGIC
+
+otherIds:
+  - "scancode:cgic"
+
+alternativeNames:
+  - "CGIC License"
+
+evidence:
+  matches:
+    - "Permission is granted to use CGIC in any application, commercial or
+       noncommercial, at no cost"
+    - "HOWEVER, this copyright paragraph must appear on a 'credits' page accessible in the public
+       online and offline documentation of the program"
+    - "Modified versions of the CGIC library should not be distributed without
+       the attachment of a clear statement regarding the author of the modifications,
+       and this notice may in no case be removed"
+    - "Modifications may also be submitted to the author for inclusion in the main CGIC distribution"
+    - "IF YOU WOULD PREFER NOT TO ATTACH THE ABOVE NOTICE to the public documentation
+       of your application, consult the information which follows regarding the
+       availability of a nonexclusive commercial license for CGIC"

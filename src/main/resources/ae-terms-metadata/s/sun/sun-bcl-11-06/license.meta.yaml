@@ -1,0 +1,19 @@
+canonicalName: Sun Binary Code License 11-06
+category: Sun Binary
+shortName: Sun-BCL-11-06
+
+otherIds:
+  - "scancode:sun-bcl-11-06"
+
+evidence:
+  matches:
+    - "Sun grants you a non-exclusive and non-transferable license for the internal use only of the accompanying software and documentation and any error corrections provided by Sun"
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"
+    - "Except as specifically authorized in any Supplemental License Terms, you may not make copies of Software, other than a single copy of Software for archival purposes"
+    - "Sun warrants to you that for a period of ninety (90) days from the date of purchase, as evidenced by a copy of the receipt, the media on which Software is furnished (if any) will be free of defects in materials and workmanship under normal use"
+    - "UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID"
+    - "All Software and technical data delivered under this Agreement are subject to US export control laws and may be subject to export or import regulations in other countries"
+    - "Licensee acknowledges that Licensed Software is not designed or intended for use in the design, construction, operation or maintenance of any nuclear facility"
+    - "In addition to the license granted in Section 1 (Software Internal Use and Development License Grant) of these Supplemental Terms, subject to the terms and conditions of this Agreement, including but not limited to, Section 3"
+  excludes:
+  - "Refer to the appropriate version of the Java Runtime Environment binary code license"

@@ -1,0 +1,26 @@
+canonicalName: Oracle Technology Network Java SE License Agreement
+category: OTN
+shortName: OTN-JavaSE
+
+otherIds:
+  - "scancode:oracle-otn-javase-2019"
+
+alternativeNames:
+  - "Oracle Technology Network License Agreement for Oracle Java SE"
+
+evidence:
+  matches:
+    - "The Programs may contain source code that, unless expressly licensed in this Agreement for other purposes
+       (for example, licensed under an open source license), is provided solely for reference purposes pursuant to the
+       terms of this Agreement and may not be modified"
+    - "All rights not expressly granted in this Agreement are reserved by Oracle"
+    - "If You want to use the Programs for any purpose other than as expressly permitted under this Agreement, You must
+       obtain from Oracle or an Oracle reseller a valid Program license under a separate agreement permitting such use"
+    - "Oracle grants You a nonexclusive, nontransferable, limited license to use the Programs, subject to the
+       restrictions stated in this Agreement and Program Documentation"
+  excludes:
+    - "We grant You a nonexclusive, nontransferable right to copy and distribute unmodified Programs and Programs
+       Documentation as part of and included in Your application that is intended to interoperate with the Associated
+       Product, if any, provided that You do not charge Your end users any additional fees for the use of the Programs"
+    - "Oracle or its licensors retain all ownership and intellectual property rights to the Programs"
+   

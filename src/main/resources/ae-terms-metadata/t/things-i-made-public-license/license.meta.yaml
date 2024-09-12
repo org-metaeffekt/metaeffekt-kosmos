@@ -1,0 +1,21 @@
+canonicalName: Things I Made Public License
+category: Things I Made Public License
+shortName: TIM-PL
+
+requiresLicenseText: false
+requiresCopyright: false
+
+otherIds:
+  - "scancode:things-i-made-public-license"
+
+alternativeNames:
+  - "THINGS I MADE (TIM) PUBLIC LICENSE"
+
+evidence:
+  matches:
+    - "The author of this project would really like to hear any cool stuff you made
+       as a result of reusing this code"
+    - "This is not enforceable but it is highly encouraged as it would make the author happy"
+    - "If it breaks, the author may try to help if it's a neat bug but they aren't
+       obligated to provide support nor are they liable for any damages"
+    - "Beyond that, do whatever you feel like"

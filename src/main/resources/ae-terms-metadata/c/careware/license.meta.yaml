@@ -1,0 +1,22 @@
+canonicalName: Careware License
+category: Careware License
+shortName: Careware
+
+requiresLicenseText: false
+requiresCopyright: false
+
+otherIds:
+  - "scancode:careware"
+
+alternativeNames:
+  - "careware license"
+
+evidence:
+  matches:
+    - "This script is released as 'CAREWARE', it may be freely distributed, used,
+       modified and whatever, provided that the user, at least once per use, performs
+       ANY of the following"
+    - "Though every reasonable effort has been made in testing this script, the Author
+       accepts no liability whatsoever"
+    - "This script may or may not do whatever it is supposed to do, it could even possibly
+       completely destroy your software, hardware and set your house/office to fire"

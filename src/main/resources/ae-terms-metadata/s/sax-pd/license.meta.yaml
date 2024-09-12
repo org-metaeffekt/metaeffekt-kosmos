@@ -1,0 +1,47 @@
+canonicalName: SAX Public Domain Notice
+category: SAX Public Domain
+spdxIdentifier: SAX-PD
+
+otherIds:
+  - "scancode:sax-pd"
+
+representedAs: Public Domain
+
+alternativeNames:
+  - "http://www.spdx.org/licenses/SAX-PD"
+  - "for license please see accompanying LICENSE.txt file (available also at http://www.xmlpull.org/)"
+  - "http://www.saxproject.org/copying.html"
+  - "https://spdx.org/licenses/sax-pd"
+  - "http://www.xmlpull.org/v1/download/unpacked/LICENSE.txt"
+
+evidence:
+  matches:
+    - "In fact, it's not possible to own a license to SAX, since it's been placed in
+       the public domain"
+    - "Except when otherwise stated in writing the copyright holders and/or other
+       parties provide SAX \"as is\" without warranty of any kind, either expressed or
+       implied, including, but not limited to, the implied warranties of
+       merchantability and fitness for a particular purpose"
+    - "Because SAX is released to the public domain, there is no warranty for the
+       design or for the software implementation, to the extent permitted by applicable law"
+    - "In no event unless required by applicable law or agreed to in writing will any
+       copyright holder, or any other party who may modify and/or redistribute SAX, be
+       liable to you for damages, including any general, special, incidental or
+       consequential damages arising out of the use or inability to use SAX (including
+       but not limited to loss of data or data being rendered inaccurate or losses
+       sustained by you or third parties or a failure of the SAX to operate with any
+       other programs), even if such holder or other party has been advised of the
+       possibility of such damages"
+
+references:
+  "Public Domain":
+    matches:
+      - "In fact, it's not possible to own a license to SAX, since it's been placed in
+         the public domain"
+      - "Because SAX is released to the public domain, there is no warranty for the
+         design or for the software implementation, to the extent permitted by applicable law"
+      - "I hereby abandon any property rights to SAX 2.0 (the Simple API for XML), and
+         release all of the SAX 2.0 source code, compiled code, and documentation
+         contained in this distribution into the Public Domain"
+      - "Version 1.0 of the Simple API for XML (SAX), created collectively by the
+         membership of the XML-DEV mailing list, is hereby released into the public domain"

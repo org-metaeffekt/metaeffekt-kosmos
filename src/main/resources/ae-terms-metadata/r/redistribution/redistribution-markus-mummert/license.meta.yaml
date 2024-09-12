@@ -1,0 +1,28 @@
+canonicalName: Redistribution Terms (Markus Mummert)
+category: RT
+shortName: RT-Markus-Mummert
+
+otherIds:
+  - "scancode:markus-mummert-permissive"
+
+classification: permissive
+
+canonicalNameHistory:
+  - "Markus Mummert Permissive"
+
+alternativeNames:
+  - "Markus Mummert Permissive"
+
+evidence:
+  matches:
+    - "Redistribution and use of this software, modification and inclusion
+       into other forms of software are permitted provided that the following
+       conditions are met"
+    - "Redistributions of this software must retain the above copyright
+       notice, this list of conditions and the following disclaimer"
+    - "If this software is redistributed in a modified condition
+       it must reveal clearly that it has been modified"
+
+mappings:
+  "Redistribution and use of this software, modifcation and inclusionNEWLINE-MARKERinto other forms of software are permitted provided that the followingNEWLINE-MARKERconditions are met": "Redistribution and use of this software, modification and inclusionNEWLINE-MARKERinto other forms of software are permitted provided that the followingNEWLINE-MARKERconditions are met"
+  "Redistribution and use of this software, modifcation and inclusionNEWLINE-MARKER into other forms of software are permitted provided that the followingNEWLINE-MARKER conditions are met": "Redistribution and use of this software, modification and inclusionNEWLINE-MARKER into other forms of software are permitted provided that the followingNEWLINE-MARKER conditions are met"

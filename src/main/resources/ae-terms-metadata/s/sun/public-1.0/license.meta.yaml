@@ -1,0 +1,43 @@
+canonicalName: Sun Public License 1.0
+category: SPL
+spdxIdentifier: SPL-1.0
+
+otherIds:
+  - "scancode:spl-1.0"
+  - "osi:SPL-1.0"
+
+alternativeNames:
+  - "SPL, Version 1.0"
+  - "SPL, 1.0"
+  - "SPL 1.0"
+  - "SUN PUBLIC LICENSE Version 1.0"
+
+evidence:
+  matches:
+    - "means the Original Code or Modifications or the combination
+       of the Original Code and Modifications, in each case including portions thereof
+       and corresponding documentation released with the source code"
+    - "You may create a Larger Work by combining Covered Code with other code not governed
+       by the terms of this License and distribute the Larger Work as a single product"
+    - "In such a case, You must make sure the requirements of this License are fulfilled
+       for the Covered Code"
+  excludes:
+    - "The Initial Developer of this code may publish revised and/or new versions of the License from time to time"
+    - "under the terms of any subsequent version of the License published by Openbravo"
+
+masks:
+  matches:
+    - "Initial Developer may designate portions of the Covered Code as 'Multiple-Licensed'.
+       'Multiple-Licensed' means that the Initial Developer permits you to utilize
+       portions of the Covered Code under Your choice of the alternative licenses,
+       if any, specified by the Initial Developer in the file described in Exhibit
+       A. Exhibit A -Sun Public License Notice."
+    - "Alternatively, the contents of this file may be used under the terms of the
+       _____ license (the ?[___] License? ), in which case the provisions of [______]
+       License are applicable instead of those above. If you wish to allow use of
+       your version of this file only under the terms of the [____] License and not
+       to allow others to use your version of this file under the SPL, indicate your
+       decision by deleting the provisions above and replace them with the notice
+       and other provisions required by the [___] License. If you do not delete the
+       provisions above, a recipient may use your version of this file under either
+       the SPL or the [___] License."

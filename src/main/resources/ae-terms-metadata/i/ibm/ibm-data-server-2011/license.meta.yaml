@@ -1,0 +1,26 @@
+canonicalName: IBM Data Server License 2011
+category: IBM Data Server License
+shortName: IBM-Data-Server-2011
+
+otherIds:
+  - "scancode:ibm-data-server-2011"
+
+alternativeNames:
+  - "IBM Data Server License 2011"
+  - "IBM Data Server Driver for .NET Core 3.1 (Tool)"
+
+evidence:
+  matches:
+    - "As described in the International Program License Agreement ('IPLA') and this License Information, IBM grants
+       Licensee a limited right to use the Program"
+    - "This right is limited to the level of Authorized Use, such as a Processor Value Unit ('PVU'), a Resource Value Unit ('RVU'),
+       a Value Unit ('VU'), or other specified level of use, paid for by Licensee as evidenced in the Proof of Entitlement"
+    - "Licensee's use may also be limited to a specified machine, or only as a Supporting Program, or subject to other restrictions"
+    - "As Licensee has not paid for all of the economic value of the Program, no other use is permitted without the
+       payment of additional fees"
+    - "In addition, Licensee is not authorized to use the Program to provide commercial IT services to any third party,
+       to provide commercial hosting or timesharing, or to sublicense, rent, or lease the Program unless expressly
+       provided for in the applicable agreements under which Licensee obtains authorizations to use the Program"
+    - "Additional rights may be available to Licensee subject to the payment of additional fees or under different
+       or supplementary terms"
+    - "IBM reserves the right to determine whether to make such additional rights available to Licensee"

@@ -1,0 +1,50 @@
+canonicalName: NBPL 1.0
+category: NBPL
+spdxIdentifier: NBPL-1.0
+
+otherIds:
+  - "scancode:nbpl-1.0"
+
+alternativeNames:
+  - "NBPL, Version 1.0"
+  - "NBPL, 1.0"
+  - "NBPL 1.0"
+
+# Remark: the text is identical to the OpenLDAP Public License 1.2
+
+evidence:
+  matches:
+    - "do not change the language in any way that would cause it to fail the regression tests for the language"
+    - "Net Boolean Public License"
+  excludes:
+    - "Redistributions of source code must retain the above copyright notice, this
+       list of conditions and the following disclaimer"
+    - "\"Standard Version\" refers to such a Package if it has not been modified, or
+       has been modified in accordance with the wishes of the Copyright Holder as
+       specified below"
+
+
+grants:
+  Source code delivery:
+    matches:
+      - "You may make and give away verbatim copies of the source form of the Standard Version of this Package"
+    obligations:
+      Source code delivery:
+        matches:
+          - "provided that you duplicate all of the original copyright notices"
+          - "provided that you duplicate all of the original*associated disclaimers"
+          - "You may otherwise modify your copy of this Package in any way"
+          - "provided that you insert a prominent notice in each changed file stating how*you changed that file"
+          - "provided that you insert a prominent notice in each changed file stating*when you changed that file"
+          - "place your modifications in the Public Domain"
+          - "rename any non-standard executables so the names do not conflict with standard executables"
+  Binary delivery:
+    matches:
+      - "You may distribute the programs of this Package in object code or executable form"
+    obligations:
+      Binary delivery:
+        matches:
+          - "instructions (in the manual page or equivalent) on where to get the Standard Version"
+          - "accompany the distribution with the*source"
+          - "rename any non-standard executables so the names do not conflict with standard executables"
+          - "clearly documenting the differences in manual pages (or equivalent)"

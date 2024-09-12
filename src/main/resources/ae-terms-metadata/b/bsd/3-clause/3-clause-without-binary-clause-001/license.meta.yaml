@@ -1,0 +1,50 @@
+canonicalName: BSD 3-Clause License (without binary clause; variant 001)
+category: BSD
+shortName: BSD-3-Clause-without-binary-001
+
+otherIds:
+  - "scancode:paul-mackerras-simplified"
+
+representedAs: "BSD 3-Clause License"
+
+
+canonicalNameHistory:
+  - "Paul Mackerras Simplified License"
+  - "BSD 3-Clause License (without second clause)"
+
+alternativeNames:
+  - "Paul Mackerras Simplified License"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that the following conditions
+       are met"
+    - "Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer"
+    - "The name(s) of the authors of this software must not be used to
+       endorse or promote products derived from this software without
+       prior written permission"
+    - "THE AUTHORS OF THIS SOFTWARE DISCLAIM ALL WARRANTIES WITH REGARD TO
+       THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+       AND FITNESS"
+    - "IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY
+       SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+       WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN
+       AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+       OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
+  excludes:
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in
+       the documentation and/or other materials provided with the
+       distribution"
+    - "Redistributions of any form whatsoever must retain the following
+       acknowledgment"
+    - "Permission to use, copy, modify, distribute* and sell this software
+       and its documentation for any purpose is hereby granted without fee,
+       provided that the above copyright notice appear in all copies and
+       that both that copyright notice and this permission notice appear
+       in supporting documentation, and that the name"
+    - "Permission to use copy modify and distribute this software and its associated documentation for any purpose and 
+       without fee is hereby granted provided that the above copyright notice appears in all copies and that both that 
+       copyright notice and this permission notice appear in supporting documentation"

@@ -1,0 +1,29 @@
+canonicalName: Fraunhofer FDK AAC Codec Library (Android)
+category: Fraunhofer FDK AAC Codec Library
+spdxIdentifier: FDK-AAC
+
+otherIds:
+  - "scancode:fraunhofer-fdk-aac-codec"
+
+alternativeNames:
+  - "http://opencore-amr.git.sourceforge.net/git/gitweb.cgi?p=opencore-amr/fdk-aac;a=blob;f=NOTICE"
+  - "Fraunhofer FDK AAC Codec Library for Android"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without modification, are permitted without
+       payment of copyright license fees provided that you satisfy the following conditions"
+    - "You must retain the complete text of this software license in redistributions of the FDK AAC Codec or
+       your modifications thereto in source code form"
+    - "You must retain the complete text of this software license in the documentation and/or other materials
+       provided with redistributions of the FDK AAC Codec or your modifications thereto in binary form"
+    - "You must make available free of charge copies of the complete source code of the FDK AAC Codec and your
+       modifications thereto to recipients of copies in binary form"
+    - "The name of Fraunhofer may not be used to endorse or promote products derived from this library without
+       prior written permission"
+    - "You may not charge copyright license fees for anyone to use, copy or distribute the FDK AAC Codec
+       software or your modifications thereto"
+    - "Your modified versions of the FDK AAC Codec must carry prominent notices stating that you changed the software
+       and the date of any change. For modified versions of the FDK AAC Codec, the term
+       'Fraunhofer FDK AAC Codec Library for Android' must be replaced by the term
+       'Third-Party Modified Version of the Fraunhofer FDK AAC Codec Library for Android.'"

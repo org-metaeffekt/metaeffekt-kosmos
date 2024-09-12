@@ -1,0 +1,160 @@
+canonicalName: Mozilla Public License 2.0
+category: MPL
+spdxIdentifier: MPL-2.0
+
+otherIds:
+  - "scancode:mpl-2.0"
+  - "osi:MPL-2.0"
+
+requiresSourceCodeProvision: true
+defaultSourceCategory: annex
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "MPL 2.0"
+  - "Mozilla Public License, v. 2.0"
+  - "Mozilla Public License version 2.0"
+  - "Mozilla Public License Version 2.0"
+  - "Mozilla Public License 2.0"
+  - "Mozilla Public License (Version 2.0)"
+  - "Mozilla Public License v2.0"
+  - "Mozilla License Version 2.0"
+  - "Mozilla Public Licence 2.0"
+  - "Mozilla Public License v2.0+"
+  - "Mozilla Public License, Version 2.0"
+  - "Mozilla Public License, version 2.0"
+  - "MPL-2.0"
+  - "MPLv2.0"
+  - "MPL-2.0 License"
+  - "Mozilla Public License, MPL 2.0"
+  - "MPL-2"
+  - "Mozilla Public License version 2"
+  - "Mozilla Public License (MPL) version 2.0"
+
+references:
+  "GPL":
+     matches:
+        - "means either the GNU General Public License, Version 2.0, the GNU
+           Lesser General Public License, Version 2.1, the GNU Affero General
+           Public License, Version 3.0, or any later versions of those
+           licenses"
+  "LGPL":
+     matches:
+        - "means either the GNU General Public License, Version 2.0, the GNU
+           Lesser General Public License, Version 2.1, the GNU Affero General
+           Public License, Version 3.0, or any later versions of those
+           licenses"
+  "AGPL":
+     matches:
+        - "means either the GNU General Public License, Version 2.0, the GNU
+           Lesser General Public License, Version 2.1, the GNU Affero General
+           Public License, Version 3.0, or any later versions of those
+           licenses"
+
+evidence:
+  excludes:
+  - "OSET Public License"
+  - "This Source Code Form is \"Incompatible With Secondary Licenses\", as
+               defined by the MVT License, v. 1.1"
+
+grants:
+  Source code delivery:
+    matches:
+      - "All distribution of Covered Software in Source Code Form"
+    obligations:
+      Source code delivery:
+        mandatory: true
+        matches:
+          - "You must inform recipients that the Source Code Form of the Covered Software
+             is governed by the terms of this License"
+          - "You must inform recipients*how they can obtain a copy of this License"
+          - "You may not remove or alter the substance of any license notices (including
+             copyright notices, patent notices, disclaimers of warranty, or limitations
+             of liability)"
+          - "You may choose to offer, and to charge a fee for, warranty,
+             support, indemnity or liability obligations"
+          - "However, You may do so
+             only on Your own behalf, and not on behalf of any Contributor"
+          - "You must
+             make it absolutely clear that any such warranty, support, indemnity, or
+             liability obligation is offered by You alone"
+          - "You hereby agree to indemnify every Contributor for any liability"
+          - "Modifications that You create or to which You contribute, must be under the
+             terms of this License"
+          - "must be under the terms of this License"
+          - "You may not attempt to alter or restrict the recipients' rights"
+  Binary delivery:
+    matches:
+      - "If You distribute Covered Software in Executable Form"
+    obligations:
+      Binary delivery:
+        mandatory: true
+        matches:
+          - "must also be made available in Source Code Form"
+          - "You must inform recipients of
+             the Executable Form how they can obtain a copy of such Source Code Form"
+          - "You must inform recipients of the Executable Form how they can obtain a copy of
+             such Source Code Form by reasonable means"
+          - "You must inform recipients of the Executable Form how they can obtain a copy of
+             such Source Code Form*in a timely manner"
+          - "You must inform recipients of the Executable Form how they can obtain a copy of
+             such Source Code Form*at a charge no more than the cost of distribution to the recipient"
+          - "or sublicense it under different terms"
+          - "the license for the Executable Form does not
+             attempt to limit or alter the recipients' rights in the Source Code Form under this License"
+          - "You may choose to offer, and to charge a fee for, warranty, support, indemnity
+             or liability obligations"
+          - "However, You may do so only on Your own behalf, and not on behalf of any Contributor"
+          - "You must make it absolutely clear that any such warranty, support, indemnity, or liability
+             obligation is offered by You alone"
+          - "You hereby agree to indemnify every Contributor for any liability"
+
+segmentation:
+  revert: [
+    { match:
+        "3. Responsibilities",
+      matchNext:
+        "3.1. Distribution of Source Form"
+    },
+    { match:
+       "4. Inability to Comply Due to Statute or Regulation",
+     matchNext:
+       "If it is impossible for You to comply with any of the terms of this"
+    },
+    { match:
+        "6. Disclaimer of Warranty",
+      matchNext:
+        "Covered Software is provided under this License on an"
+    },
+    { match:
+        "5. Termination",
+      matchNext:
+        "5.1. The rights granted under this License will terminate automatically"
+    },
+    { match:
+        "10. Versions of the License",
+      matchNext:
+        "10.1. New Versions"
+    },
+    { match:
+        "9. Miscellaneous",
+      matchNext:
+        "This License represents the complete agreement concerning the"
+    },
+    { match:
+        "7. Limitation of Liability",
+      matchNext:
+        "Under no circumstances and under no legal theory, whether tort"
+    },
+    { match:
+        "8. Litigation",
+      matchNext:
+        "Any litigation relating to this License may be brought only in the"
+    },
+    { match:
+        "2. License Grants and Conditions",
+      matchNext:
+        "2.1. Grants"
+    }
+  ]

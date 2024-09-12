@@ -1,0 +1,35 @@
+canonicalName: Permission Terms (variant 026)
+category: Permission
+shortName: PT-Var026
+
+status:
+  - "reviewed 11.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:nilsson-historical"
+
+displayName: "Permission Terms (no warranty)"
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var026"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software is
+       freely granted, provided that the above copyright notice, this notice
+       and the following disclaimer are preserved with no changes"
+    - "THIS SOFTWARE IS PROVIDED AS IS AND WITHOUT ANY EXPRESS OR
+       IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+       WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE"
+
+licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this software is
+                  freely granted, provided that the above copyright notice, this notice
+                  and the following disclaimer are preserved with no changes.<p/>
+                  <codeph>THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+                  IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+                  WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+                  PURPOSE.</codeph></lq>"

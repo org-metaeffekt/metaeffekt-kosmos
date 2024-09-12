@@ -1,0 +1,21 @@
+canonicalName: Android Software Development Kit License Agreement 2009
+category: Android SDK
+shortName: Android-SDK-2009
+
+otherIds:
+  - "scancode:android-sdk-2009"
+
+evidence:
+  matches:
+    - "This License Agreement constitute the whole legal agreement between you and Google and govern
+       your use of the SDK (excluding any services which Google may provide to you under a separate written
+       agreement), and completely replace any prior agreements between you and Google in relation to the SDK"
+    - "your must make the users aware that the information will be available to your application"
+    - "You agree that if Google does not exercise or enforce any legal right or remedy which is
+       contained in this License Agreement (or which Google has the benefit of under any applicable law),
+       this will not be taken to be a formal waiver of Google's rights and that those rights or remedies
+       will still be available to Google"
+  excludes:
+    - "By using the Play Core Software Development Kit, you agree to these terms in addition to the
+       Google APIs Terms of Service ('API ToS')"
+    - "to the terms at https://developer.android.com/guide/playcore/license"

@@ -1,0 +1,52 @@
+canonicalName: Permission Terms (dtoa)
+category: Permission
+spdxIdentifier: dtoa
+
+otherIds:
+  - "scancode:x11-lucent"
+
+status:
+  - "reviewed 09.11.2021"
+  - "reviewed 29.04.2024"
+  - "reviewed 16.05.2024"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+displayName: Permission Terms (no representation; no warranty)
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var019"
+  - "Permission Terms (variant 019)"
+  - "X11-Style (Lucent)"
+
+alternativeNames:
+  - "David M. Gay dtoa License"
+  - "Permission Terms (dtoa)"
+
+standardVariableSet:
+  copyrightHolderNoWarranty: "copyright holder"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, *{.{3,7}}* distribute this software for any
+       purpose without fee is hereby granted, provided that this entire notice
+       is included in all copies of any software which is or includes a copy
+       or modification of this software and in all copies of the supporting
+       documentation for such software"
+    - "THIS SOFTWARE IS BEING PROVIDED \"AS IS\", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY"
+    - "IN PARTICULAR, NEITHER *{.{0,100}}* MAKES ANY
+       REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY
+       OF THIS SOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE"
+  
+licenseTemplate:
+  "<lq>Permission to use, copy, modify, and distribute this software for any
+  purpose without fee is hereby granted, provided that this entire notice
+  is included in all copies of any software which is or includes a copy
+  or modification of this software and in all copies of the supporting
+  documentation for such software.<p/>
+  <codeph>THIS SOFTWARE IS BEING PROVIDED \"AS IS\", WITHOUT ANY EXPRESS OR IMPLIED
+  WARRANTY. IN PARTICULAR, NEITHER {{copyrightHolderNoWarranty}} MAKES ANY
+  REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY
+  OF THIS SOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE.</codeph></lq>"

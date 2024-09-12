@@ -1,0 +1,34 @@
+canonicalName: Adobe Systems Incorporated Source Code License Agreement
+category: Adobe Systems Incorporated Source Code License Agreement
+spdxIdentifier: Adobe-2006
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:adobe-scl"
+
+alternativeNames:
+  - "Adobe, Version 2006"
+  - "Adobe, 2006"
+  - "Adobe 2006"
+  - "Adobe License, Version 2006"
+  - "Adobe License, 2006"
+  - "Adobe License 2006"
+  - "Adobe Systems Incorporated(r) Source Code License Agreement"
+  - "Adobe Systems Incorporated Source Code License Agreement"
+  - "Adobe Source Code License Agreement"
+  - "http://fedoraproject.org/wiki/Licensing/AdobeLicense"
+  - "https://spdx.org/licenses/adobe-2006"
+
+evidence:
+  matches:
+    - "Adobe Systems Incorporated grants to you a perpetual, worldwide, non-exclusive, no-
+       charge, royalty-free, irrevocable copyright license, to reproduce, prepare derivative
+       works of, publicly display, publicly perform, and distribute this source code and
+       such derivative works in source or object code form without any attribution requirements"
+    - "The name 'Adobe Systems Incorporated' must not be used to endorse or promote products
+       derived from the source code without prior written permission"
+    - "You agree to indemnify, hold harmless and defend Adobe Systems Incorporated from and
+       against any loss, damage, claims or lawsuits, including attorney's fees that arise or
+       result from your use or distribution of the source code"

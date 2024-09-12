@@ -1,0 +1,21 @@
+canonicalName: GNU Free Documentation License 1.2 (or any later version; invariants)
+category: GFDL
+spdxIdentifier: GFDL-1.2-invariants-or-later
+shortName: GFDL-1.2+-invariants
+
+# NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
+
+otherIds:
+  - "scancode:gfdl-1.2-invariants-or-later"
+
+allowsLaterVersions: true
+
+alternativeNames:
+  - "GNU Free Documentation License v1.2 or later - invariants"
+  - "licenses.nuget.org/GFDL-1.2-invariants-or-later"
+  - "{{GFDL-1.2-invariants-or-later}} https://spdx.org/licenses/GFDL-1.2-invariants-or-later"
+  - "gfdl-1.2-invariants-or-later"
+  - "GFDL Version 1.2+ invariants"
+  - "GFDL Version 1.2 or any later version invariants"
+  - "GFDL v 1.2+ invariants"
+  - "GFDL v1.2 or any later version invariants"

@@ -1,0 +1,19 @@
+canonicalName: gnuplot License
+category: gnuplot
+spdxIdentifier: gnuplot
+
+otherIds:
+  - "scancode:gnuplot"
+
+alternativeNames:
+  - "gnuplot License"
+  - "GNUPLOT LICENSE"
+  - "GNUPLOT License"
+
+evidence:
+  matches:
+    - "Permission to modify the software is granted, but not the right to distribute
+       the complete modified source code"
+    - "Modifications are to be distributed as patches to the released version"
+    - "Permission to distribute binaries produced by compiling modified sources is
+       granted, provided you"

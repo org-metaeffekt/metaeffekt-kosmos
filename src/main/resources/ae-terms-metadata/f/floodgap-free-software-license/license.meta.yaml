@@ -1,0 +1,53 @@
+canonicalName: Floodgap Free Software License
+category: Floodgap FSL
+shortName: FFSL-1
+
+otherIds:
+  - "scancode:ffsl-1"
+
+evidence:
+  matches:
+    - "that software using it, or derivative works based on software that uses
+          it, must be free"
+    - "A pre-compiled or pre-interpreted bytecode or machine language
+                 representation of a software package not designed for further
+                 modification and tied to a particular platform or architecture"
+    - "Derivative works
+                 of packages released under this license are also considered
+                 subject to this license"
+    - "However, a software package that requires this package but does
+                 not include it or is not based upon it, even if it will not
+                 operate without it, is not considered a derivative work"
+    - "A packaged release of this software explicitly designated as the
+                 official release, written by or on behalf of the Author with his
+                 or her explicit designation as official"
+    - "You may freely use, copy, and disseminate this software package for
+              any non-commercial purpose as well as the commercial purposes
+              permitted below"
+    - "You may release your derivative works based upon this software in
+              purely binary (non-source) form if you choose"
+    - "You must not charge a fee for purchase or rental of this package or
+              any derivative work based on this package"
+
+references:
+  "CC-BY-SA":
+    matches:
+      - "This license is copyright © 2006 Cameron Kaiser. All rights reserved.
+            The text of this license is available for re-use and re-distribution
+            under the Creative Commons. The use of the term \"Floodgap Free Software
+          License\" does not imply endorsement of packages using this license by
+          Floodgap Systems or by Cameron Kaiser. Modified licenses using portions
+          of these terms may refer to themselves as modified FFSL, with the
+          proviso that their modifications be clearly marked in accordance with
+          the Creative Commons Attribution-ShareAlike 2.5 License.
+          
+          Only the text of this license, and not programs covered by this
+          license, is so offered under Creative Commons."
+  "GPL":
+    matches:
+      - "You must not countermand or ignore, directly or otherwise, the
+                restrictions already extant in this package's license in your
+                derivative work based on it. As a corollary, you must not place
+                your derivative work under a secondary license or description of
+                terms that conflicts with it (for example, this license is not
+                compatible with the GNU Public License)"

@@ -1,0 +1,18 @@
+canonicalName: Microsoft Windows Rally Development Kit License
+category: Microsoft Windows Rally Development Kit License
+shortName: Microsoft-Windows-Rally-DevKit
+
+otherIds:
+  - "scancode:microsoft-windows-rally-devkit"
+
+evidence:
+  matches:
+    - "the right to grant to OEMs who purchase your products a sublicense to modify the Distributable Code only
+       as necessary to customize OEM products that incorporate your Consumer Products and only so long as the OEM
+       and the modified Distributable Code complies with all terms and conditions of this Agreement and the Program Agreement"
+    - "the right to grant to any of your OEMs, distributors and dealers a license to make, sell, offer for sale and
+       distribute an object code copy of the Distributable Code (or OEM modified Distributable Code) in accordance
+       with all applicable terms and conditions of this Agreement and the Program Agreement"
+    - "the right to grant to any end user a license to use an object code copy of the Distributable Code (or OEM
+       modified Distributable Code) in accordance with all applicable terms and conditions of this Agreement and the
+       Program Agreement"

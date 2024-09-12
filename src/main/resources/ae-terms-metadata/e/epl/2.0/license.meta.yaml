@@ -1,0 +1,123 @@
+canonicalName: Eclipse Public License 2.0
+category: EPL
+spdxIdentifier: EPL-2.0
+
+requiresAnnexNotice: false
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:epl-2.0"
+  - "osi:EPL-2.0"
+
+combinedWith:
+  Apache License 2.0: Eclipse Public License 2.0 + Apache License 2.0
+
+alternativeNames:
+    - "Eclipse Public License (EPL) v2.0"
+    - "Eclipse Public License - Version 2.0"
+    - "Eclipse Public License - v 2.0"
+    - "Eclipse Public License 2.0"
+    - "Eclipse Public License 2.0&#xD"
+    - "Eclipse Public License v2.0"
+    - "Eclipse Public License version 2.0"
+    - "Eclipse Public License, Version 2.0"
+    - "Eclipse Public License (EPL) 2.0"
+    - "Eclipse Public License (EPL), Version 2.0"
+    - "Eclise Public License, Version 2.0"
+    - "Eclipse-2.0"
+    - "EPL (Eclipse Public License), V2.0 or later"
+    - "EPL 2.0"
+    - "EPL-2.0"
+    - "EPLv2.0"
+    - "EPLv´´"
+    - "https://opensource.org/licenses/EPL-2.0"
+    - "http://opensource.org/licenses/EPL-2.0"
+    - "Eclipse Public Licence, Version 2.0"
+    - "under the terms of the Eclipse Public License 2.0"
+    - "Eclipse Public License, Version 2.0 or (at your option) any later version"
+    - "Eclipse Public License - v2.0"
+    - "Eclipse Public License -v 2.0"
+    - "Eclipse Public License v 2.0"
+    - "Eclipse Public License, V 2.0"
+    - "Eclipse Public License, v2.0"
+    - "Eclipse Public License v. 2.0"
+
+evidence:
+  matches:
+    - "Eclipse Public License - v 2.0"
+  excludes:
+    - "http://www.apache.org/licenses/LICENSE-2.0
+
+          Unless required by applicable law or agreed to in writing, software
+          distributed under the License is distributed on an \"AS IS\" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        See the License for the specific language governing permissions and
+        limitations under the License.
+        
+        
+        SPDX-License-Identifier: EPL-2.0 OR Apache-2.0"
+
+
+references:
+  "GPL":
+    matches:
+      - "means either the GNU General Public License, Version 2.0, or any later versions of that license, including any exceptions or additional permissions as identified by the initial Contributor"
+
+grants:
+  Source code delivery:
+    matches:
+      - "When the Program is Distributed as Source Code"
+    obligations:
+      Source code delivery:
+        matches:
+          - "Agreement must be included with each copy of the Program"
+          - "Contributor means any person or entity that Distributes the Program"
+          - "Contributors may not remove or alter any copyright, patent, trademark, attribution notices, disclaimers of warranty, or limitations of liability (‘notices’) contained within the Program from any copy of the Program which they Distribute"
+          - "in the case of each subsequent Contributor*changes to the Program*additions to the Program"
+          - "it must be made available under this Agreement"
+          - "Distribute the Program under a license different than this Agreement"
+          - "disclaims on behalf of all other Contributors all warranties and conditions"
+          - "effectively disclaims on behalf of all other Contributors"
+          - "excludes on behalf of all other Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;"
+          - "effectively excludes on behalf of all other Contributors all liability"
+          - "does not attempt to limit or alter the recipients' rights"
+          - "under a license that satisfies the requirements of this section"
+  Binary delivery:
+    obligations:
+      Binary delivery:
+        matches:
+          - "the Program must also be made available as Source Code"
+          - "the Contributor must accompany the Program with a statement that the Source Code for the Program is available under this Agreement, and informs Recipients how to obtain it"
+          - "Contributor means any person or entity that Distributes the Program"
+          - "Contributors may not remove or alter any copyright, patent, trademark, attribution notices, disclaimers of warranty, or limitations of liability (‘notices’) contained within the Program from any copy of the Program which they Distribute"
+          - "Distribute the Program under a license different than this Agreement"
+          - "disclaims on behalf of all other Contributors all warranties and conditions"
+          - "effectively disclaims on behalf of all other Contributors"
+          - "excludes on behalf of all other Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;"
+          - "effectively excludes on behalf of all other Contributors all liability"
+          - "does not attempt to limit or alter the recipients' rights"
+          - "under a license that satisfies the requirements of this section"
+
+
+
+licenseTemplate: "<lq><codeph>NO WARRANTY<p/>
+                  EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW,
+                  THE PROGRAM IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+                  IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR
+                  FITNESS FOR A PARTICULAR PURPOSE.</codeph>
+                  <p>Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program
+                  and assumes all risks associated with its exercise of rights under this Agreement, including but not limited to the
+                  risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment,
+                  and unavailability or interruption of operations.</p>
+                  <codeph>DISCLAIMER OF LIABILITY<p/>
+                  EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW,
+                  NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+                  OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+                  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+                  OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF
+                  SUCH DAMAGES.</codeph></lq>"
+
+mappings:
+  "You may add additional accurate notices of copyright ownership.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Apache LicenseNEWLINE-MARKER Version 2.0, January 2004NEWLINE-MARKER http://www.apache.org/licenses/NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION": "You may add additional accurate notices of copyright ownership.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER  LICENSE-SEGMENT-MARKER Apache LicenseNEWLINE-MARKER Version 2.0, January 2004NEWLINE-MARKER http://www.apache.org/licenses/NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"

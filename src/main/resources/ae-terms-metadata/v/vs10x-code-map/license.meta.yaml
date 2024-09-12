@@ -1,0 +1,22 @@
+canonicalName: VS10x Code Map
+category: VS10x Code Map
+shortName: VS10x-Code-Map
+
+otherIds:
+  - "scancode:vs10x-code-map"
+
+alternativeNames:
+  - "http://visualstudiogallery.msdn.microsoft.com/site/1c54d1bd-d898-4705-903f-fa4a319b50f2/eula?licenseType=None"
+
+evidence:
+  matches:
+    - "Please read the below terms. Continuing with the installation of VS10x Code Map
+       will indicate your acceptance"
+    - "Michael Kiss [AxTools] provides VS10x Code Map and licenses its use to you"
+    - "You are responsible for selecting VS10x Code Map to achieve your intended results
+       and for the installation, use and results obtained from VS10x Code Map"
+    - "VS10x Code Map, including its code, documentation, appearance, structure and
+       organization, is a proprietary product of Michael Kiss [AxTools] and is
+       protected by the law"
+    - "Title to VS10x Code Map, or any copy, modification or merged portion of VS10x Code Map,
+       shall at all times remain with Michael Kiss [AxTools]"

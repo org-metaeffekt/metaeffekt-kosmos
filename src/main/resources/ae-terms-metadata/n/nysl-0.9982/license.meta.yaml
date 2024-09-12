@@ -1,0 +1,18 @@
+canonicalName: NYSL 0.9982
+category: NYSL
+shortName: NYSL-0.9982
+
+alternativeNames:
+  - "http://www.kmonos.net/nysl/index.ja.html"
+
+otherIds:
+  - "scancode:nysl-0.9982"
+
+evidence:
+  matches:
+    - "Freeware. No fee is required"
+    - "You can freely redistribute this software"
+    - "You can freely modify this software. And the source
+       may be used in any software with no limitation"
+    - "When you release a modified version to public, you
+       must publish it with your name"

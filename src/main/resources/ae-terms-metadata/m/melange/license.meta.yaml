@@ -1,0 +1,31 @@
+canonicalName: Melange Chat Server/Client Public License
+category: Melange Chat Server/Client Public License
+shortName: Melange
+
+otherIds:
+  - "scancode:melange"
+
+evidence:
+  matches:
+    - "This software may be freely copied, modified and redistributed without
+       fee for NON-COMMERCIAL (for commercial use see below) purposes provided that
+       this copyright notice and my name are preserved intact on all copies and
+       modified copies, so I get my credit for the work I put into this"
+    - "Feel free to run this, modify it, debug it, send me comments, insults etc"
+    - "There is no warranty or other guarantee of fitness of this software"
+    - "It is provided solely 'as is'"
+    - "The author disclaims all responsibility and liability with respect to this software's usage
+       or its effect upon hardware or computer systems"
+    - "This software is free of charge for non-commercial & commerical USE"
+    - "No money, donations, etc are required"
+    - "If you want to sell this software, no matter if it's sold 'as is' or modified, a licensing agreement is
+       required"
+    - "You may send enquiries to: chris@terminal.at"
+    - "What does that mean: If you use this software e.g on a commercial or
+       non-commercial website, you don't need a license - Only if you make
+       money with this software or with parts or modified parts of this software
+       you have to get a licensing agreement"
+    - "Have fun with it, and feel free to contact me if you have any problems
+       not covered by the documentation or if you find a bug"
+    - "If you want to modify this software, why not choin the DEVELOPER-FORUM ?
+       Details at the MELANGE homepage: http://www.terminal.at/melange"

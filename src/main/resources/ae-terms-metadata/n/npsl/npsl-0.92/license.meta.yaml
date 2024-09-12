@@ -1,0 +1,48 @@
+canonicalName: Nmap Public Source License 0.92
+category: NPSL
+shortName: NPSL-0.92
+
+otherIds:
+  - "scancode:npsl-exception-0.92"
+
+# original source: https://nmap.org/npsl/
+
+alternativeNames:
+  - "Nmap Public Source License Version 0.92"
+
+evidence:
+  matches:
+    - "The intent of this license is to establish freedom to share and change
+       the software regulated by this license under the open source model"
+    - "It also includes a Contributor Agreement and disclaims any warranty on
+       Covered Software"
+    - "Proprietary software companies wishing to use or incorporate Covered Software
+       within their programs must contact Licensor to purchase a separate license"
+    - "Open source developers who wish to incorporate parts of Covered Software into
+       free software with conflicting licenses may write Licensor to request a waiver of terms"
+
+references:
+  "GPL":
+    matches:
+      - "It also includes a Contributor Agreement and disclaims any warranty on
+         Covered Software. Proprietary software companies wishing to use or
+         incorporate Covered Software within their programs must contact
+         Licensor to purchase a separate license"
+      - "GPL means the GNU General Public License Version 2, as published by the Free Software Foundation and provided in Exhibit A."
+      - "Exhibit A. The GNU General Public License Version 2 GNU GENERAL PUBLIC LICENSE Version 2"
+      - "Covered Software is licensed to you under the terms of the GPL
+         (Exhibit A), with all the exceptions, clarifications, and additions
+         noted in this Main License Body. Where the terms in this Main License
+         Body conflict in any way with the GPL, the Main License Body terms
+         shall take precedence. These additional terms mean that You may not
+         distribute Covered Software or Derivative Works under plain GPL terms
+         without special permission from Licensor."
+      - "This License (including the GPL portion) places important restrictions
+         on derived works."
+      - "For brevity, we've cut out the GPL's final section on \"How to Apply
+         These Terms to Your New Program\", but you can find that at
+         https://www.gnu.org/licenses/gpl-2.0.html#SEC4"
+
+mappings:
+  "Tehse Terms to Your New Program":
+    "These Terms to Your New Program"

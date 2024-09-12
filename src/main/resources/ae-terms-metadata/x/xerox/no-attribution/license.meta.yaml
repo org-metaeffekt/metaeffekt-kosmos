@@ -1,0 +1,21 @@
+canonicalName: Xerox License (no attribution)
+category: Xerox
+shortName: Xerox-no-attribution
+
+otherIds:
+  - "scancode:mit-specification-disclaimer"
+
+alternativeNames:
+  - "Xerox License (no attribution)"
+
+evidence:
+  matches:
+    - "Use and copying of this software and preparation of derivative works based
+       upon this software are permitted"
+    - "Any distribution of this software or derivative works
+       must comply with all applicable United States export control laws"
+    - "This software is made available AS IS, and Xerox Corporation makes no warranty
+       about the software, its performance or its conformity to any specification"
+  excludes:
+    - "Any copy of this software or of any derivative work must include the above copyright
+       notice of Xerox Corporation, this paragraph and the one after it"

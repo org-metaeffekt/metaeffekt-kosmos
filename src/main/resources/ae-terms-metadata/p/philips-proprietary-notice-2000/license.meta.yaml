@@ -1,0 +1,19 @@
+canonicalName: Philips Proprietary Notice 2000
+category: Philips Proprietary Notice
+shortName: Philips-Proprietary-Notice-2000
+
+otherIds:
+  - "scancode:philips-proprietary-notice-2000"
+
+alternativeNames:
+  - "philips-proprietary-notice-2000"
+
+evidence:
+  matches:
+    - "This source code and any compilation or derivative thereof is the sole
+       property of Philips Corporation and is provided pursuant to a Software
+       License Agreement"
+    - "This code is the proprietary information of Philips Corporation and is confidential in nature"
+    - "Its use and dissemination by any party other than Philips Corporation is strictly
+       limited by the confidential information provisions of the Agreement
+       referenced above"

@@ -1,0 +1,27 @@
+canonicalName: Newsletr License
+category: Newsletr
+spdxIdentifier: Newsletr
+
+otherIds:
+  - "scancode:newsletr"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "Newsletr"
+  - "NEWSLETR"
+  - "Newsletr License"
+  - "NEWSLETR LICENSE"
+  - "NEWSLETR License"
+
+evidence:
+  matches:
+    - "Permission is granted to anyone to use this software for any purpose on any
+       computer system, and to redistribute it freely, subject to the following restrictions:"
+    - "Altered versions must be plainly marked as such, and must not be misrepresented
+       as being the original software"
+  excludes:
+    - "Since few users ever read sources, credits must appear in the documentation"
+    - "The origin of this software must not be misrepresented, either by
+       explicit claim or by omission"

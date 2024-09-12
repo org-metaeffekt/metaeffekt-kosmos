@@ -1,0 +1,39 @@
+canonicalName: Day Specification License
+category: Day Specification License
+shortName: Day-Spec
+
+otherIds:
+  - "scancode:day-spec"
+
+alternativeNames:
+  - "day-spec"
+
+evidence:
+  matches:
+    - "License for Purposes of Evaluation and Developing Applications.
+       Licensor hereby grants you a fully-paid, non-exclusive, non-transferable,
+       worldwide, limited license (without the right to sublicense), under
+       Licensor's applicable intellectual property rights to view, download,
+       use and reproduce the Specification only for the purpose of internal
+       evaluation. This includes developing applications intended to run on an
+       implementation of the Specification provided that such applications do
+       not themselves implement any portion(s) of the Specification"
+    - "License for the Distribution of Compliant Implementations. Licensor
+       also grants you a perpetual, non-exclusive, non-transferable, worldwide,
+       fully paid-up, royalty free, limited license (without the right to
+       sublicense) under any applicable copyrights or, subject to the provisions
+       of subsection 4 below, patent rights it may have covering the
+       Specification to create and/or distribute an Independent Implementation
+       of the Specification that: (a) fully implements the Specification
+       including all its required interfaces and functionality; (b) does not
+       modify, subset, superset or otherwise extend the Licensor Name Space, or
+       include any public or protected packages, classes, Java interfaces, fields
+       or methods within the Licensor Name Space other than those
+       required/authorized by the Specification or Specifications being
+       implemented; and (c) passes the Technology Compatibility Kit (including
+       satisfying the requirements of the applicable TCK Users Guide) for such
+       Specification ('Compliant Implementation')"
+    - "In addition, the foregoing license is expressly conditioned on your not acting outside its scope"
+    - "No license is granted hereunder for any other purpose (including, for
+       example, modifying the Specification, other than to the extent of your
+       fair use rights, or distributing the Specification to third parties)"

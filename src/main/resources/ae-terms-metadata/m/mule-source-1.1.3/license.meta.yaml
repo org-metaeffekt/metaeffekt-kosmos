@@ -1,0 +1,42 @@
+canonicalName: Mule Source Public License 1.1.3
+category: Mule Source Public
+shortName: Mule-Source-1.1.3
+
+otherIds:
+  - "scancode:mule-source-1.1.3"
+
+evidence:
+  matches:
+    - "The Initial Developer hereby grants You a world-wide, royalty-free, non- exclusive license, subject to
+       third party intellectual property claims"
+    - "under intellectual property rights (other than patent or trademark) Licensable by Initial Developer to use,
+       reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof)
+       with or without Modifications, and/or as part of a Larger Work"
+    - "Subject to third party intellectual property claims, each Contributor hereby grants You a world-wide,
+       royalty-free, non-exclusive license"
+    - "under Patent Claims infringed by the making, using, or selling of Modifications made by that Contributor
+       either alone and/or in combination with its Contributor Version"
+    - "The Modifications which You create or to which You contribute are governed by the terms of this License,
+       including without limitation Section 2.2"
+    - "Any Modification which You create or to which You contribute must be made available in Source Code form
+       under the terms of this License either on the same media as an Executable version or via an accepted
+       Electronic Distribution Mechanism to anyone to whom you made an Executable version available"
+    - "No one other than MuleSource has the right to modify the terms applicable to Covered Code created
+       under this License"
+    - "However, in addition to the other notice obligations, all copies of the Covered Code in Executable and
+       Source Code form distributed must, as a form of attribution of the original author, include on each user
+       interface screen (i) the \"Powered by Mule\" logo and (ii) the copyright notice in the same form as the
+       latest version of the Covered Code distributed by MuleSource, Inc. at the time of distribution of such copy"
+
+references:
+  "MPL":
+    matches:
+      - "The MuleSource Public License Version (\"MSPL\") consists of the Mozilla Public
+         License Version 1.1, modified to be specific to MuleSource, with the Additional
+         Terms in Exhibit B. The original Mozilla Public License 1.1 can be found at: http://www.mozilla.org/MPL/MPL-1.1.html"
+  "MS-PL":
+    matches:
+      - "If You create or use a modified version of this License (which you may only do
+         in order to apply it to code which is not already Covered Code governed by this
+         License), You must (a) rename Your license so that the phrases \"MuleSource\",
+         \"MSPL\""

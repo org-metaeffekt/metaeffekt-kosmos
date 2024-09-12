@@ -1,0 +1,23 @@
+canonicalName: ISO Permission
+category: ISO
+shortName: ISO-Permission
+
+otherIds:
+  - "scancode:iso-8879"
+
+requiresLicenseText: true
+requiresCopyright: false
+
+alternativeNames:
+  - "ISO Permission"
+
+evidence:
+  matches:
+    - "Permission to copy in any form is granted for use with
+       conforming SGML systems and applications as defined in
+       ISO *, provided this notice is included in all copies"
+
+licenseTemplate:
+  "<lq>Portions (C) International Organization for Standardization 1986<p/>
+   Permission to copy in any form is granted for use with conforming SGML systems and applications as defined in
+   ISO &lt;iso-number&gt;, provided this notice is included in all copies.</lq>"

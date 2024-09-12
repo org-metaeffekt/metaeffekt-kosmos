@@ -1,0 +1,28 @@
+canonicalName: Permission Terms (with export note; variant 002)
+category: Permission
+shortName: PT-with-export-note-Var-02
+spdxIdentifier: HPND-export-US-acknowledgement
+
+otherIds:
+  - "scancode:hpnd-export-us-acknowledgement"
+
+canonicalNameHistory:
+  - "Permission Terms (with export note) Var-02"
+
+displayName: Permission Terms (no liability; no representation; no warranty; export note)
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "EXPORT OF THIS SOFTWARE from the United States of America may
+       require a specific license from the United States Government"
+    - "It is the responsibility of any person or organization
+       contemplating export to obtain such a license before exporting"
+    - "MAKE* NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED"
+    - "MAKE* NO REPRESENTATIONS OR WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY
+       PARTICULAR PURPOSE"
+    - "shall not be held liable for any liability nor for any direct, indirect, or
+       consequential damages"
+  excludes:
+    - "Unless otherwise noted, all materials contained in this Site are copyrighted and may not be used except as provided in these terms and conditions or in the copyright notice (documents and software ) or other proprietary notice provided with the relevant materials"
+

@@ -1,0 +1,53 @@
+canonicalName: Spencer License (3-Clause)
+category: Spencer
+spdxIdentifier: Spencer-86
+
+otherIds:
+  - "scancode:regexp"
+
+alternativeNames:
+  - "Spencer, Version 86"
+  - "Spencer, 86"
+  - "Spencer 86"
+  - "Spencer License, Version 86"
+  - "Spencer License, 86"
+  - "Spencer License 86"
+  - "{{Spencer-86}} https://spdx.org/licenses/Spencer-86"
+  - "licenses.nuget.org/Spencer-86"
+  - "https://spdx.org/licenses/spencer-86"
+
+canonicalNameHistory:
+  - "Regexp License"
+
+alternativeShortNames:
+  - "HSRL" # Henry Spencer Reg-Ex Library; see also https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License
+
+evidence:
+  oneOf:
+    - matches:
+      - "The author is not responsible for the consequences of use of this software,
+         no matter how awful, even if they arise from defects in it"
+      - "The origin of this software must not be misrepresented, either by explicit
+         claim or by omission"
+      - "Altered versions must be plainly marked as such, and must not be misrepresented
+         as being the original software"
+      - "Copyright (c) * . Written by Henry Spencer"
+
+    - matches:
+        - "The author is not responsible for the consequences of use of this software,
+         no matter how awful, even if they arise from defects in it"
+        - "The origin of this software must not be misrepresented, either by explicit
+         claim or by omission"
+        - "Altered versions must be plainly marked as such, and must not be misrepresented
+         as being the original software"
+        - "Author: Henry Spencer"
+
+# this is for ver2
+segmentation:
+  revert: [
+    { match:
+        "Author: Henry Spencer Copyright (c) 1986 by University of Toronto.",
+      matchNext:
+        "License: Permission is granted to anyone to use this software for any purpose on any computer system, and to redistribute it freely, subject to the following restrictions: 1. The author is not responsible for the consequences of use of this software, no matter how awful, even if they arise from defects in it. 2. The origin of this software must not be misrepresented, either by explicit claim or by omission. 3. Altered versions must be plainly marked as such, and must not be misrepresented as being the original software. Following files are under special license:"
+    }
+  ]

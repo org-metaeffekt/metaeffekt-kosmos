@@ -1,0 +1,53 @@
+canonicalName: Microsoft Software License (.NET Library License 2020-09)
+category: Microsoft .NET Library License
+shortName: MS-Net-Library-2020-09
+
+canonicalNameHistory:
+  - "Microsoft .NET Library License 2020-09"
+
+otherIds:
+  - "scancode:ms-net-library-2020-09"
+
+alternativeNames:
+  - "Microsoft .NET Library License 2020-09"
+
+evidence:
+  matches:
+    - "The software is licensed, not sold"
+    - "This agreement only gives you some rights to use the software"
+    - "Unless applicable law gives you more rights despite this limitation, you may use the software only as
+       expressly permitted in this agreement"
+    - "In doing so, you must comply with any technical limitations in the software that only allow you to use it
+       in certain ways"
+    - "FOR AUSTRALIA – YOU HAVE STATUTORY GUARANTEES UNDER THE AUSTRALIAN CONSUMER LAW AND NOTHING IN THESE TERMS IS INTENDED TO AFFECT THOSE RIGHTS"
+  excludes:
+    - "One user may install and use any number of copies of the software on your devices to design,
+       develop and test your ASP.NET programs"
+    - "make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation"
+    - "The first user of the software may transfer it and this agreement directly to a third party. Before the transfer,
+       that party must agree that this agreement applies to the transfer and use of the software.  The first user must
+       uninstall the software before transferring it separately from the device.  The first user may not retain any copies"
+    - "The software includes other Microsoft programs.  The license terms with those programs apply to your use of them"
+    - "The Kinect for Xbox 360 sensor and the Kinect for Windows sensor (the 'Kinect Sensors'), and the software are
+       not fault-tolerant. The Kinect Sensors and the software are not designed or intended for use with any program
+       where failure or fault of any kind of the Kinect Sensors"
+    - "This software is a pre-release version. It may not work the way a final version of the software will. We may
+       change it for the final, commercial version. We also may not release a commercial version"
+    - "You may modify, copy, distribute or deploy any .js files contained in the software as part of your applications"
+    - "The software is comprised of Distributable Code. 'Distributable Code' is code that you are permitted to
+       distribute in programs you develop if you comply with the terms below"
+    - "Microsoft ASP.NET Model View Controller, Web API and Web Pages"
+    - "Microsoft ASP.NET Web Developer Tools"
+    - "Microsoft ASP.NET SignalR"
+    - "Microsoft ASP.NET Friendly URLs"
+    - "Microsoft ASP.NET Web Optimization Framework"
+    - "Microsoft ASP.NET Universal Providers"
+    - "As described below, using some features also operates as your consent to the transmission of certain computer
+       information for Internet-based services"
+    - "MICROSOFT VISUAL STUDIO ENTERPRISE 2017, VISUAL STUDIO PROFESSIONAL 2017, VISUAL STUDIO TEST PROFESSIONAL 2017 AND TRIAL EDITION"
+    - "the software may automatically request media usage rights from a rights server on the Internet and download and install available DRM Updates"
+    - "as described in the ThirdPartyNotices file accompanying the software"
+    - "use the software for commercial software hosting services"
+
+ignoreMatches:
+  - "Microsoft Visual Studio 2015 Software Development Kit License"

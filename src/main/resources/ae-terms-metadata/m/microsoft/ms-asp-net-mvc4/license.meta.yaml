@@ -1,0 +1,25 @@
+canonicalName: Microsoft Software License (ASP.NET MVC 4)
+category: Microsoft Software
+shortName: MS-Software-ASP-NET-MVC-4
+
+otherIds:
+  - "scancode:ms-asp-net-mvc4"
+
+canonicalNameHistory:
+  - "Microsoft ASP.NET MVC 4 License"
+
+alternativeNames:
+  - "Microsoft ASP.NET MVC 4 License"
+
+evidence:
+  matches:
+    - "require distributors and external end users to agree to terms that protect it at least as much as this agreement"
+    - "use Microsoft’s trademarks in your programs’ names or in a way that suggests your programs come from or are
+       endorsed by Microsoft"
+    - "Microsoft provides Internet-based services with the software"
+  excludes:
+    - "The software feature described below connects to Microsoft or service provider computer systems over the Internet"
+    - "In some cases, you will not receive a separate notice when they connect"
+    - "As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French"
+    - "The code and text files listed below are \"Distributable Code.\""
+

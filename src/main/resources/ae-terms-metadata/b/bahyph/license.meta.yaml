@@ -1,0 +1,21 @@
+canonicalName: Bahyph License
+category: Bahyph
+spdxIdentifier: Bahyph
+
+otherIds:
+  - "scancode:bahyph"
+
+alternativeNames:
+  - "Bahyph License"
+  - "BAHYPH LICENSE"
+  - "BAHYPH License"
+
+requiresLicenseText: false
+requiresCopyright: false
+
+evidence:
+  matches:
+    - "You can use this software for any purpose"
+    - "You cannot delete this copyright notice"
+    - "If you change this software, you must include
+       comments explaining who, when and why"

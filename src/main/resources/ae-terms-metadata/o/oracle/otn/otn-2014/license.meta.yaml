@@ -1,0 +1,38 @@
+canonicalName: Oracle Technology Network License Agreement 2014
+category: OTN
+shortName: OTN-2014
+
+otherIds:
+  - "scancode:otn-standard-2014-09"
+
+alternativeNames:
+  - "ORACLE Technology Network License Agreement"
+
+canonicalNameHistory:
+  - "Oracle Technology Network License Agreement"
+
+evidence:
+  matches:
+    - "Oracle grants You a nonexclusive, nontransferable, limited license to internally use the Programs, subject to
+       the restrictions stated in this Agreement, only for the purpose of developing, testing, prototyping, and
+       demonstrating Your application and only as long as Your application has not been used for any data processing,
+       business, commercial, or production purposes, and not for any other purpose"
+    - "You may allow Your Contractor(s) to use the Programs, provided they are acting on Your behalf to exercise
+       license rights granted in this Agreement and further provided that You are responsible for their compliance
+       with this Agreement in such use"
+    - "You will have a written agreement with Your Contractor(s) that strictly limits their right to use the Programs
+       and that otherwise protects Oracle’s intellectual property rights to the same extent as this Agreement"
+    - "You may make copies of the Programs to the extent reasonably necessary to exercise the license rights granted
+       in this Agreement"
+    - "You may make one copy of the Programs for backup purposes"
+    - "Oracle or its licensors retain all ownership and intellectual property rights to the Programs"
+  excludes:
+    - "We grant You a nonexclusive, nontransferable right to copy and distribute unmodified Programs and Programs
+       Documentation as part of and included in Your application that is intended to interoperate with the Associated
+       Product, if any, provided that You do not charge Your end users any additional fees for the use of the Programs"
+    - "Oracle Technology Network License Agreement for Oracle Java SE"
+    - "Oracle Cloud Infrastructure Use" 
+      
+      
+      
+      

@@ -1,0 +1,25 @@
+canonicalName: Artop Software License
+category: Artop
+shortName: ASLR
+
+otherIds:
+  - "scancode:aslr"
+
+alternativeNames:
+  - "Artop Software License Based on AUTOSAR Released Material"
+
+evidence:
+  matches:
+    - "Subject to the terms of this License, each Contributor hereby grants Recipient a nonexclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, display, perform, distribute and sublicense the Contribution of such Contributor, if any, and such derivative works, in source code and object code form"
+    - "Subject to the terms of this License, each Contributor hereby grants Recipient a nonexclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import and otherwise transfer the Contribution of such Contributor, if any, in source code and object code form"
+    - "This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents"
+  excludes:
+    - "AUTOSAR Development License\" means the license granted by the AUTOSAR development cooperation for the development of future AUTOSAR releases as defined in the respective AUTOSAR agreement"
+
+# NOTE: do not split the matched in references. they are meant to provide context.
+references:
+  "EPL":
+    matches:
+      - "Licensing under the Terms of the Eclipse Public License (EPL)
+         Subject to the terms of this License, each Contributor hereby grants Recipient the right to license the Program 
+         to third parties under the terms of the EPL, if the Program does not use any AUTOSAR Released Materials"

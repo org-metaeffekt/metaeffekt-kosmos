@@ -1,0 +1,27 @@
+canonicalName: Zimbra License 1.4
+category: Zimbra
+spdxIdentifier: Zimbra-1.4
+
+otherIds:
+  - "scancode:zimbra-1.4"
+
+alternativeNames:
+  - "Zimbra, Version 1.4"
+  - "Zimbra, 1.4"
+  - "Zimbra 1.4"
+  - "Zimbra License, Version 1.4"
+  - "Zimbra License, 1.4"
+  - "Zimbra License 1.4"
+  - "Zimbra Public License, Version 1.4"
+
+evidence:
+  matches:
+    - "the terms under which Zimbra, Inc., a Texas corporation ('Zimbra') will provide
+       software to you via download or otherwise ('Software')"
+    - "Nothing in this Agreement requires Zimbra to enter into any license with You for any
+       other edition of the Software"
+    - "All disputes arising out of this Agreement involving Zimbra or any of its parents or
+       subsidiaries shall be subject to the jurisdiction of the federal or state courts of Northern
+       Texas, with venue lying in Dallas County, Texas"
+
+

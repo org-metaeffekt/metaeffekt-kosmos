@@ -1,0 +1,27 @@
+canonicalName: HP Enterprise EULA
+category: HP Enterprise EULA
+shortName: HP-Enterprise-EULA
+
+otherIds:
+  - "scancode:hp-enterprise-eula"
+
+alternativeNames:
+  - "HP Enterprise EULA"
+
+evidence:
+  matches:
+    - "upon expiration; however, your rights under this Agreement terminate if you fail to comply with it"
+    - "Remote Monitoring. Some software may require keys or other technical protection measures and HPE may monitor
+       your compliance with the Agreement, remotely or otherwise. If HPE makes a license management program for recording
+       and reporting license usage information, you will use such program no later than 180 days from the date it's made available"
+    - "Ownership. No transfer of ownership of any intellectual property will occur under this Agreement"
+    - "Copyright Notices. You must reproduce copyright notices on software and documentation for authorized copies"
+    - "Operating Systems. Operating system software may only be used on approved hardware and configurations"
+
+references:
+  "GPL":
+    matches:
+      - "To the extent Supporting Material includes the GNU General Public License or the GNU Lesser General Public License"
+  "LGPL":
+    matches:
+      - "To the extent Supporting Material includes the GNU General Public License or the GNU Lesser General Public License"

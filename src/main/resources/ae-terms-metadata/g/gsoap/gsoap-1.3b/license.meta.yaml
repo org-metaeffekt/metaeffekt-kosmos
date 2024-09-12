@@ -1,0 +1,36 @@
+canonicalName: gSOAP Public License 1.3b
+category: gSOAP
+spdxIdentifier: gSOAP-1.3b
+
+otherIds:
+  - "scancode:gsoap-1.3b"
+
+alternativeNames:
+  - "gSOAP-1.3b"
+  - "gSOAP Public License v1.3b"
+  - "gSOAP Public License Version 1.3b"
+
+expectedSpdxMatches:
+  - "gSOAP Public License 1.3b"
+  - "gSOAP Public License 1.3a"
+
+references:
+  "MPL":
+    matches:
+    - "gSOAP public license is derived from the Mozilla Public License (MPL1.1)"
+    - "sections that were deleted from the original MPL1.1 text are
+       1.0.1, 2.1.(c),(d), 2.2.(c),(d), 8.2.(b), 10, and 11"
+    - "modified sections are 2.1.(b), 2.2.(b), 3.2 (simplified), 3.5 (deleted
+       the last sentence), and 3.6 (simplified)"
+
+evidence:
+  matches:
+    - "You may create a Larger Work by combining Covered Code with other code not
+       governed by the terms of this License and distribute the Larger Work as a
+       single product"
+    - "In such a case, You must make sure the requirements of this
+       License are fulfilled for the Covered Code"
+    - "You may not remove any product identification, copyright, proprietary notices
+       or labels from gSOAP"
+    - "Any Modification created by You shall be provided to the Initial Developer
+       in Source Code form and are subject to the terms of the License"

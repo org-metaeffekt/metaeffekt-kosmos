@@ -1,0 +1,36 @@
+canonicalName: Google Maps Platform Terms of Service 2018-05-01
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2018-05-01
+
+otherIds:
+  - "scancode:google-maps-tos-2018-05-01"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2018-05-01"
+
+evidence:
+  matches:
+    - "The “Term” of this Agreement will begin on the Effective Date and continue until the Agreement is terminated
+       under this Section"
+    - "Either party may terminate this Agreement for breach if: (a) the other party is in material breach of the
+       Agreement and fails to cure that breach within 30 days after receipt of written notice; or (b) the other party
+       ceases its business operations or becomes subject to insolvency proceedings and the proceedings are not
+       dismissed within 90 days"
+    - "In addition, Google may terminate any, all, or any portion of the Services or Projects, if Customer meets any
+       of the conditions in subsections (a) or (b)"
+    - "Google reserves the right to terminate provision of Service(s) to a Project on 30 days advance notice if,
+       for more than 180 days, such Project (a) has not made any requests to the Services from any Customer Applications;
+       or (b) such Project has not incurred any Fees for such Service(s)"
+    - "Customer may stop using the Services at any time"
+    - "Subject to any financial commitments expressly made by this Agreement, Customer may terminate this Agreement
+       for its convenience at any time on prior written notice and upon termination, must cease use of the applicable Services"
+    - "Google may terminate this Agreement for its convenience at any time without liability to Customer"
+  excludes:
+    - "Last modified: June 7, 2018"
+    - "This Google Maps Platform License Agreement takes effect on July 16, 2018"
+    - "or enters into a Reseller Agreement if purchasing through a Reseller (the 'Effective Date')"
+    - "access the Admin Console through which Customer may administer its use"
+    - "This Google Maps Platform License Agreement takes effect on July 16, 2018"
+    - "This Section applies if Customer orders the Services from a Reseller under a Reseller Agreement (including the Reseller Order Form)"
+    - "Google will provide Maps Technical Support Services to Customer in accordance with the Maps Technical Support Services Guidelines"
+    - "Last modified: May 6, 2020"

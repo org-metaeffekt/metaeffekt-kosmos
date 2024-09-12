@@ -1,0 +1,24 @@
+canonicalName: NVIDIA NGX EULA
+category: NVIDIA NGX EULA
+shortName: NVIDIA-NGX-EULA
+
+otherIds:
+  - "scancode:nvidia-ngx-eula-2019"
+
+alternativeNames:
+  - "NVIDIA NGX EULA"
+
+evidence:
+  matches:
+    - "Install and use the SDK"
+    - "Modify and create derivative works of sample source code delivered in the SDK"
+    - "Distribute those portions of the SDK that are identified in this Agreement as distributable,
+       as incorporated in object code format into a software application that meets the distribution
+       requirements indicated in this Agreement"
+    - "Your application must have material additional functionality, beyond the included portions of the SDK"
+    - "The distributable portions of the SDK shall only be accessed by your application"
+  excludes:
+    - "In this SDK, the folder that contains sample source code is the
+      apps/samples folder"
+    - "Examples include use in avionics, navigation, military,
+       medical, life support or other life critical applications"

@@ -1,0 +1,40 @@
+canonicalName: Creative Commons BY-NC-SA 3.0 (IGO)
+category: CC-BY-NC-SA
+spdxIdentifier: CC-BY-NC-SA-3.0-IGO
+
+otherIds:
+  - "scancode:cc-by-nc-sa-3.0-igo"
+
+representedAs: Creative Commons BY-NC-SA 3.0
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial Share Alike 3.0 IGO"
+  - "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/legalcode"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "'License Elements' means the following high-level license attributes as selected by the Licensor and indicated
+       in the title of this License: Attribution, Noncommercial, ShareAlike"
+    - "to create, Reproduce, Distribute and Publicly Perform Adaptations, provided that You clearly label,
+       demarcate or otherwise identify that changes were made to the original Work"
+    - "You may Distribute or Publicly Perform an Adaptation only under the terms of: (i) this License; (ii) a later
+       version of this License with the same License Elements as this License; or (iii) either the unported
+       Creative Commons license or a ported Creative Commons license (either this or a later license version)
+       containing the same License Elements (the 'Applicable License')"
+    - "(I) You must include a copy of, or the URI for, the Applicable License with every copy of each Adaptation You
+       Distribute or Publicly Perform. (II) You may not offer or impose any terms on the Adaptation that restrict the
+       terms of the Applicable License or the ability of the recipient of the Adaptation to exercise the rights granted
+       to that recipient under the terms of the Applicable License"
+    - "(III) You must keep intact all notices that refer to this License and to the disclaimer of warranties with every
+       copy of the Work as included in the Adaptation You Distribute or Publicly Perform"
+    - "(IV) When You Distribute or Publicly Perform the Adaptation, You may not impose any effective technological measures
+       on the Adaptation that restrict the ability of a recipient of the Adaptation from You to exercise the rights granted
+       to that recipient under the terms of the Applicable License"
+    - "This Section 4(b) applies to the Adaptation as incorporated in a Collection, but this does not require the Collection
+       apart from the Adaptation itself to be made subject to the terms of the Applicable License"
+    - "Each time You Distribute or Publicly Perform an Adaptation, the Licensor offers to the recipient a license to the
+       original Work on the same terms and conditions as the license granted to You under this License"

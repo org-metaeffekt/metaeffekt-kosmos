@@ -1,0 +1,18 @@
+canonicalName: Brainstem Development Kit Software Package License
+category: Brainstem Development Kit
+shortName: Brainstem-Development-Kit
+
+otherIds:
+  - "scancode:acroname-bdk"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "Acroname Inc. (\"Acroname\") and its suppliers grant to Customer (\"Customer\") a nonexclusive and
+       nontransferable license to use the BrainStem2 shared object (.dylib, .framework, .so, .dll, etc)
+       static archive (.a), and associated library header files (\"Software\") in object code form"
+    - "MODIFY THE SOFTWARE; REVERSE ENGINEER OR REVERSE COMPILE OR REVERSE ASSEMBLE ALL OR ANY PORTION OF THE SOFTWARE"
+    - "Customer agrees that aspects of the licensed materials, including the specific design and structure of
+       individual programs, constitute trade secrets and/or copyrighted material of Acroname"

@@ -1,0 +1,26 @@
+canonicalName: Eclipse Foundation Software User Agreement 2001
+category: Eclipse SUA
+shortName: Eclipse-SUA-2001
+
+alternativeNames:
+  - "Eclipse Foundation Software User Agreement 2001"
+
+otherIds:
+  - "scancode:eclipse-sua-2001"
+
+evidence:
+  matches:
+    - "Unless otherwise indicated, all Content made available by Eclipse.org is provided to you under
+       the terms and conditions of the Common Public License Version 0.5"
+    - "Content includes, but is not limited to, source code, object code, documentation and other files
+       maintained in the Eclipse.org CVS repository (\"Repository\") and subsequently released as project
+       builds (\"Builds\")"
+    - "Content as files may contain portions distributed under different license agreements and/or notices"
+    - "You must agree to the terms and conditions of the Common Public License Version 0.5 and all Abouts
+       contained in any Content and any other terms and conditions that are provided with the Content, if any"
+
+references:
+  "CPL":
+    matches:
+      - "You must agree to the terms and conditions of the Common Public License Version 0.5 and all Abouts
+         contained in any Content and any other terms and conditions that are provided with the Content, if any"

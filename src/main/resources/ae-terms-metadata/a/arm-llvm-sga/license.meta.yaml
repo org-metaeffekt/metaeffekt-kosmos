@@ -1,0 +1,32 @@
+canonicalName: ARM LLVM Software Grant License Agreement
+category: ARM LLVM Software Grant License Agreement
+shortName: ARM-LLVM-SGA
+
+otherIds:
+  - "scancode:arm-llvm-sga"
+
+alternativeNames:
+  - "arm-llvm-sga"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this
+       Agreement, ARM hereby grants to you and to recipients of the Software
+       distributed by LLVM a perpetual, worldwide, non-exclusive, no-charge,
+       royalty-free, irrevocable copyright license to reproduce, prepare derivative
+       works of, publicly display, publicly perform, sublicense, and distribute the
+       Software and such derivative works"
+    - "Subject to the terms and conditions of this
+       Agreement, ARM hereby grants you and to recipients of the Software
+       distributed by LLVM a perpetual, worldwide, non-exclusive, no-charge,
+       royalty-free, irrevocable (except as stated in this section) patent license
+       to make, have made, use, offer to sell, sell, import, and otherwise transfer
+       the Work, where such license applies only to those patent claims licensable
+       by ARM that are necessarily infringed by ARM's Software alone or by
+       combination of the Software with the Work to which such Software was submitted"
+    - "If any entity institutes patent litigation against ARM or any
+       other entity (including a cross-claim or counterclaim in a lawsuit) alleging
+       that ARM's Software, or the Work to which ARM has contributed constitutes
+       direct or contributory patent infringement, then any patent licenses granted
+       to that entity under this Agreement for the Software or Work shall terminate
+       as of the date such litigation is filed"

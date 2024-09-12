@@ -1,0 +1,26 @@
+canonicalName: Microsoft Software License (Pre-Release Terms 2023)
+category: Microsoft Software
+shortName: MS-Pre-Release-Terms-2023
+
+otherIds:
+  - "scancode:ms-pre-release-sla-2023"
+
+alternativeNames:
+  - "Microsoft Pre-Release Software License Terms 2023"
+  - "MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
+     MICROSOFT VISUAL STUDIO CODE REMOTE DEVELOPMENT EXTENSIONS"
+
+
+evidence:
+  matches:
+    - "You may use a copy of the software with each validly licensed copy of Microsoft Visual Studio Code"
+    - "Some features of the software make use of online services to provide you with updates to the software or extensions, to download or install additional software to enable use of this software, or to enable you to retrieve content, collaborate with others, or otherwise supplement your development"
+    - "The software may collect information about you and your use of the software, and send that to Microsoft"
+    - "The software may periodically check for updates and download and install them for you"
+    - "If you give feedback about the software to Microsoft, you give to Microsoft, without charge, the right to use, share and commercialize your feedback in any way and for any purpose"
+    - "Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this agreement"
+    - "provide the software as a stand-alone or integrated offering or combine it with any of your applications for others to use"
+    - "This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services"
+    - "You may have other rights, including consumer rights, under the laws of your state or country"
+    - "This agreement describes certain legal rights"
+    - "MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS"

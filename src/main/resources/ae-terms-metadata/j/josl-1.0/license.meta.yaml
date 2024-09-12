@@ -1,0 +1,43 @@
+canonicalName: Jabber Open Source License 1.0
+category: JOSL
+shortName: JOSL-1.0
+
+otherIds:
+  - "scancode:josl-1.0"
+  - "osi:JOSL-1.0"
+
+alternativeNames:
+  - "http://www.opensource.org/licenses/jabberpl.php"
+  - "http://code.google.com/p/jabber-net/source/browse/branches/RELEASE_1_0/LICENSE.txt"
+  - "Jabber Open Source License Version 1.0"
+
+evidence:
+  matches:
+    - "You may use, sell or give away the Licensed Product, alone or as a component of an aggregate software
+       distribution containing programs from several different sources"
+    - "Both Source Code and executable versions of the Licensed Product, including Modifications made by previous
+       Contributors, are available for your use"
+    - "You are allowed to make Modifications to the Licensed Product, and you can create Derivative Works from it"
+    - "By accepting the Licensed Product under the provisions of this License, you agree that any Modifications you
+       make to the Licensed Product and then distribute are governed by the provisions of this License"
+    - "You may use the Licensed Product for any purpose, but the Licensor is not providing you any warranty whatsoever,
+       nor is the Licensor accepting any liability in the event that the Licensed Product doesn't work properly or
+       causes you any injury or damages"
+  excludes:
+    - "This BitTorrent Open Source License (the \"License\") applies to the BitTorrent
+       client and related software products as well as any updates or maintenance
+       releases of that software (\"BitTorrent Products\") that are distributed by
+       BitTorrent, Inc. (\"Licensor\")"
+    - "The Motosoto Open Source License is derived from the Jabber Open
+       Source License"
+    - "This BitTorrent Open Source License (the \"License\") applies to certain software that is distributed by
+       BitTorrent, Inc. (\"Licensor\") specifically under this license (\"BitTorrent Products\")"
+    - "Any BitTorrent Product licensed pursuant to this License is a Licensed Product"
+    - "This CognitiveWeb™ Open Source License (the \"License\") applies to
+       CognitiveWeb software products as well as any updates or maintenance
+       releases of that software (\"CognitiveWeb Products\") that are distributed
+       by CognitiveWeb"
+    - "This License is based on the Jabber Open Source License Version 1.0 and
+       complies with the Open Source Definition and has been submitted for
+       approval by the Open Source Initiative"
+    - "Any OSPI Product licensed pursuant to this License is a Licensed Product"

@@ -1,0 +1,24 @@
+canonicalName: wxWidgets Licence
+category: wxWidgets Licence
+shortName: wxWidgets
+
+otherIds:
+  - "scancode:wxwidgets"
+
+alternativeNames:
+  - "http://www.wxwidgets.org/about/licence.htm"
+
+evidence:
+  matches:
+    - "This licence is intended to protect wxWidgets, its developers, and its users, so
+       that the considerable investment it represents is not abused"
+    - "Unlike the wxWidgets licence, you as a user are not obliged to distribute
+       wxWidgets source code with your products"
+    - "However, you are prevented from selling the code without permission from the authors,
+       or denying others the rights to use or distribute wxWidgets in the way intended"
+    - "The wxWidgets Licence establishes the copyright for the code and related
+       material, and it gives you legal permission to copy, distribute and/or modify
+       the library"
+    - "It also asserts that no warranty is given by the authors for this or derived code"
+    - "Finally, the licence specifies that any patent involving wxWidgets, must be
+       licenced for everyone's free use"

@@ -1,0 +1,26 @@
+EXCEPTION:
+==========
+
+The only exception is that plugins developed for CodeLite and are linking against CodeLite sources (either static linking or dynamic linking), and the plugin is NOT one of the official plugins (see list below):
+
+- Abbreviation
+- CodeFormatter
+- ContinousBuild
+- Copyright
+- Cscope
+- ExternalTools
+- Gizmos
+- QMakePlugin
+- snipwiz
+- Subversion
+- UnitTestPP
+- wxFormBuilder plugin
+- Tweaks
+- CMakePlugin
+- CodeLiteDiff
+- SFTP
+- ZoomNavigator
+- git
+- LLDB Debugger
+
+Can be distributed under a license other than the GPL

@@ -1,0 +1,24 @@
+canonicalName: Cavium Software License Agreement
+category: Cavium
+shortName: Cavium
+
+otherIds:
+  - "scancode:cavium-linux-firmware"
+
+alternativeNames:
+  - "Cavium Software License Agreement"
+  - "Cavium License"
+
+evidence:
+  matches:
+  - "Subject to the terms and conditions of this Agreement,
+     Cavium, Inc. (Cavium) grants to Licensee a worldwide, non-exclusive, and
+     royalty-free license to use, reproduce, and distribute the binary software in
+     its complete and unmodified form as provided by Cavium"
+  - "Licensee must reproduce the Cavium copyright notice above with
+     each binary software copy. Licensee must not reverse engineer, decompile,
+     disassemble or modify in any way the binary software. Licensee must not use
+     the binary software in violation of any applicable law or regulation"
+  - "This Agreement shall automatically terminate upon Licensee's breach of any term or
+     condition of this Agreement in which case, Licensee shall destroy all copies of
+     the binary software"

@@ -1,0 +1,31 @@
+canonicalName: EPICS Open License
+category: EPICS Open License
+spdxIdentifier: EPICS
+
+otherIds:
+  - "scancode:epics"
+
+alternativeNames:
+  - "http://www.aps.anl.gov/epics/license/open.php"
+  - "EPICS"
+  - "EPICS Open License"
+
+evidence:
+  matches:
+    - "The copyright holders shown above and their third-party licensors hereby grant Licensee a royalty-free
+       nonexclusive license, subject to the limitations stated herein and U.S. Government license rights"
+    - "You may modify and make a copy or copies of the Software for use within your organization, if you meet the following conditions"
+    - "Copies in source code must include the copyright notice and this Software License Agreement"
+    - "Copies in binary form must include the copyright notice and this Software License Agreement in the documentation
+       and/or other materials provided with the copy"
+    - "You may modify a copy or copies of the Software or any portion of it, thus forming a work based on the Software,
+       and distribute copies of such work outside your organization, if you meet all of the following conditions"
+    - "Copies in source code must include the copyright notice and this Software License Agreement;
+       Copies in binary form must include the copyright notice and this Software License Agreement in the documentation
+       and/or other materials provided with the copy; Modified copies and works based on the Software must carry
+       prominent notices stating that you changed specified portions of the Software"
+    - "Portions of the Software resulted from work developed under a U.S. Government contract and are subject to the
+       following license: the Government is granted for itself and others acting on its behalf a paid-up, nonexclusive,
+       irrevocable worldwide license in this computer software to reproduce, prepare derivative works, and perform
+       publicly and display publicly"
+

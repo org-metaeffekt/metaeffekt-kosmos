@@ -1,0 +1,15 @@
+canonicalName: Any OSI License
+category: Any OSI
+spdxIdentifier: any-OSI
+
+otherIds:
+  - "scancode:any-osi"
+
+alternativeNames:
+  - "any-OSI"
+  - "Any OSI License"
+
+evidence:
+  matches:
+    - "Pick your favourite OSI approved license"
+    - "http://www.opensource.org/licenses/alphabetical"

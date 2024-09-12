@@ -1,0 +1,22 @@
+canonicalName: SCRUB License
+category: SCRUB License
+shortName: SCRUB
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:scrub"
+
+alternativeNames:
+  - "SCRUB License"
+
+evidence:
+  matches:
+    - "This program and its documentation, that is specifically the files SCRUB.EXE,
+       SCRUB.ERM, SCRUB.EHL and SCRUB.DOC, may be distributed freely and used for any
+       legal purpose, provided it is not altered in any way nor its notices, including
+       this notice, obscured from view"
+    - "Duxbury Systems, Inc. of Westford, Massachusetts, USA designs and manufactures
+       software related to braille"
+

@@ -1,0 +1,40 @@
+canonicalName: Creative Commons BY-NC-SA 2.5
+category: CC-BY-NC-SA
+spdxIdentifier: CC-BY-NC-SA-2.5
+
+otherIds:
+  - "scancode:cc-by-nc-sa-2.5"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Non Commercial Share Alike 2.5 Generic"
+  - "Creative Commons BY-NC-SA 2.5 (generic)"
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial Share Alike 2.5 Generic"
+  - "CC-BY-NC-SA-2.5"
+  - "Creative Commons Attribution-NonCommercial-ShareAlike 2.5"
+  - "Creative Commons License, Attribution-NonCommercial-ShareAlike 2.5"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Each time You distribute or publicly digitally perform a Derivative Work,
+       Licensor offers to the recipient a license to the original Work on the same
+       terms and conditions as the license granted to You under this License"
+    - "including but not limited to the rights set forth in Sections 4(e) and 4(f)"
+    - "If You create a Derivative Work, upon notice from any Licensor
+       You must, to the extent practicable, remove from the Derivative Work any credit
+       as required by clause 4(d), as requested"
+    - "You may not exercise any of the rights granted to You in Section 3 above
+       in any manner that is primarily intended for or directed toward commercial
+       advantage or private monetary compensation"
+  excludes:
+    - "Performance Royalties Under Blanket Licenses. Licensor waives the exclusive
+       right to collect, whether individually or via a performance rights society
+       (e.g. ASCAP, BMI, SESAC), royalties for the public performance or public digital
+       performance (e.g. webcast) of the Work"
+    
+    

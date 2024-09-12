@@ -1,0 +1,27 @@
+canonicalName: Linking Exception (GPL; variant 008)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-008
+
+type: exception
+
+canonicalNameHistory:
+  - "Avisynth Linking Exception"
+
+otherIds:
+  - "scancode:avisynth-linking-exception"
+
+alternativeNames:
+  - "avisynth-linking-exception"
+  - "Avisynth Linking Exception"
+
+evidence:
+  matches:
+    - "Linking Avisynth statically or dynamically with other modules is making a
+       combined work based on Avisynth"
+    - "Thus, the terms and conditions of the GNU
+       General Public License cover the whole combination"
+  excludes:
+    - "In addition , as a special exception , the copyright holder of stunnel gives you permission to combine stunnel
+       with free software programs or libraries that are released under the GNU LGPL and with code included in the
+       standard release of OpenSSL under the OpenSSL License ( or modified versions of such
+       code , with unchanged license )"

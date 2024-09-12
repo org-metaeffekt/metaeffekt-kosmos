@@ -1,0 +1,16 @@
+canonicalName: Dynamic HTML Lab Public License
+category: Dynamic HTML Lab Public License
+shortName: DHTMLab-public
+
+otherIds:
+  - "scancode:dhtmlab-public"
+
+alternativeNames:
+  - "dhtmlab-public"
+
+evidence:
+  matches:
+    - "Originally published and documented at http://www.dhtmlab.com/"
+    - "You may use this code on a public Web site only if this entire
+       copyright notice appears unchanged and you publicly display
+       on the Web page a link to http://www.dhtmlab.com/"

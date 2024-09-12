@@ -1,0 +1,32 @@
+canonicalName: Data Licence Germany BY 2.0
+category: Data Licence BY
+spdxIdentifier: DL-DE-BY-2.0
+
+otherIds:
+  - "scancode:dl-de-by-2-0-en"
+
+alternativeNames:
+  - "Data Licence Germany BY 2.0"
+  - "Data licence Germany – attribution – Version 2.0"
+  - "https://www.govdata.de/dl-de/by-2-0"
+  - "licenses.nuget.org/DL-DE-BY-2.0"
+  - "{{DL-DE-BY-2.0}} https://spdx.org/licenses/DL-DE-BY-2.0"
+
+expectedSpdxMatches:
+  - "Data Licence Germany BY 2.0 (DE)"
+  - "Data Licence Germany BY 2.0"
+
+canonicalNameHistory:
+  - "Data Licence BY 2.0"
+
+evidence:
+  matches:
+    - "The data and meta-data provided may, for commercial and non-commercial use, in particular"
+    - "be copied, printed, presented, altered, processed and transmitted to third parties"
+    - "be merged with own data and with the data of others and be combined to form new and independent datasets"
+    - "be integrated in internal and external business processes, products and applications in public and non-public electronic networks"
+    - "The user must ensure that the source note contains the following information"
+    - "the annotation 'Data licence Germany – attribution – Version 2.0'"
+    - "'dl-de/by-2-0' referring to the licence text available at www.govdata.de/dl-de/by-2-0"
+    - "This applies only if the entity keeping the data provides the pieces of information 1-3 for the source note"
+    - "Changes, editing, new designs or other amendments must be marked as such in the source note"

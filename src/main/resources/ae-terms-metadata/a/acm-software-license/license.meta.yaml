@@ -1,0 +1,20 @@
+canonicalName: ACM Software License
+category: ACM Software
+shortName: ACM-SL
+
+otherIds:
+  - "scancode:acm-sla"
+
+
+evidence:
+  matches:
+    - "The ACM grants to you (hereafter, User) a royalty-free, nonexclusive
+       right to execute, copy, modify and distribute both the binary and
+       source code solely for academic, research and other similar
+       noncommercial uses, subject to the following conditions"
+    - "ACM shall not be held liable for direct, indirect, incidental or
+    consequential damages arising from any claim by User or any third
+    party with respect to uses allowed under this Agreement, or from
+    any use of the Software"
+    - "Any User wishing to make a commercial use of the Software must contact
+       ACM at permissions@acm.org to arrange an appropriate license"

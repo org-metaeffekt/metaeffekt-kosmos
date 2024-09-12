@@ -1,0 +1,28 @@
+canonicalName: CERN Open Hardware Licence Permissive 2.0
+category: CERN Open Hardware Licence Permissive
+spdxIdentifier: CERN-OHL-P-2.0
+
+otherIds:
+  - "scancode:cern-ohl-p-2.0"
+  - "osi:CERN-OHL-P-2.0"
+
+alternativeNames:
+  - "cern-ohl-p-2.0"
+  - "CERN Open Hardware Licence Version 2 - Permissive"
+
+evidence:
+  matches:
+    - "'Notice' means copyright, acknowledgement and trademark notices,
+       references to the location of any Notices, modification notices
+       (subsection 3.3(b)) and all notices that refer to this Licence
+       and to the disclaimer of warranties that are included in the
+       Covered Source"
+    - "'Licensor' means a person who creates Source or modifies Covered
+       Source and subsequently Conveys the resulting Covered Source
+       under the terms and conditions of this Licence"
+    - "You may Convey Covered Source or modified Covered Source under
+       licence terms which differ from the terms of this Licence
+       provided that"
+    - "You comply at all times with subsection 3.3; and"
+    - "You provide a copy of this Licence to anyone to whom You
+       Convey Covered Source or modified Covered Source"

@@ -1,0 +1,20 @@
+canonicalName: Embedthis Terms of Use 2022
+category: Embedthis Terms of Use
+shortName: Embedthis-Terms-of-Use-2022
+
+otherIds:
+  - "scancode:embedthis-tou-2022"
+
+canonicalNameHistory:
+  - "EmbedThis Terms of Use 2022"
+
+evidence:
+  matches:
+    - "Embedthis Software, LLC. provides this web site, the services available via this web site, and associated embedded device Software (the “Service”) to you (“You”) subject to the following Terms of Use (“Terms”)"
+    - "Software means the Embedthis embedded device software including source code, headers, documentation and data files. It includes updates and upgrades to the software that have been supplied by Embedthis to You, provided You have a current paid-up subscription to the Service"
+    - "If one or more provisions of these Terms are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith, in order to maintain the economic position enjoyed by each party as close as possible to that under the provision rendered unenforceable"
+
+references:
+  "GPL":
+    matches:
+      - "The Software contains no code licensed under the GNU Public License (GPL) or similar copy-left license"

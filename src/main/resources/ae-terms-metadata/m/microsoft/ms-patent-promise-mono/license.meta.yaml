@@ -1,0 +1,29 @@
+canonicalName: Microsoft Mono Patent Promise
+category: Microsoft Mono Patent Promise
+shortName: MS-Mono-Patent-Promise
+
+otherIds:
+  - "scancode:ms-patent-promise-mono"
+
+alternativeNames:
+  - "Microsoft Patent Promise for Mono"
+
+evidence:
+  matches:
+    - "Microsoft Corporation and its affiliates (“Microsoft”) promise not to
+       assert any Applicable Patents against you for making, using, selling,
+       offering for sale, importing, or distributing Mono"
+    - "If you file, maintain, or voluntarily participate in any claim in a
+       lawsuit alleging direct or contributory patent infringement by Mono,
+       or inducement of patent infringement by Mono, then your rights under
+       this promise will automatically terminate"
+    - "This promise is not an assurance that (i) any Applicable Patents are
+       valid or enforceable or (ii) Mono does not infringe patents or other
+       intellectual property rights of any third party"
+    - "No rights except those expressly stated in this promise are granted,
+       waived or received by Microsoft, whether by implication, exhaustion,
+       estoppel or otherwise"
+    - "This is a personal promise directly from Microsoft to you,
+       and you agree as a condition of benefitting from it that no Microsoft
+       rights are received from suppliers, distributors, or otherwise in
+       connection with this promise"

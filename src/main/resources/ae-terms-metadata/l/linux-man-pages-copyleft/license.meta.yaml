@@ -1,0 +1,25 @@
+canonicalName: Linux man-pages Copyleft
+category: Linux-man-pages-copyleft
+spdxIdentifier: Linux-man-pages-copyleft
+
+otherIds:
+  - "scancode:linux-man-pages-copyleft-var"
+
+alternativeNames:
+  - "Linux man-pages Copyleft"
+  - "https://www.kernel.org/doc/man-pages/licenses.html"
+
+ignoreMatches:
+  - "Verbatim Copies Permission"
+
+evidence:
+  matches:
+    - "Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and
+       this permission notice are preserved on all copies"
+    - "Permission is granted to copy and distribute modified versions of this manual under the conditions for verbatim
+       copying, provided that the entire resulting derived work is distributed under the terms of a permission notice
+       identical to this one"
+    - "The author(s) may not have taken the same level of care in the production of this
+       manual, which is licensed free of charge, as they might when working professionally"
+    - "Formatted or processed versions of this manual, if unaccompanied by the source, must acknowledge the copyright
+       and authors of this work"

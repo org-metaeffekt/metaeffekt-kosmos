@@ -1,0 +1,26 @@
+canonicalName: Bash Exception (GPL)
+category: GPL Bash Exception
+shortName: Bash-Exception-GPL
+
+canonicalNameHistory:
+  - "Bash Exception (to GPL)"
+
+otherIds:
+  - "scancode:bash-exception-gpl"
+
+type: exception
+
+combinedWith: 
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Bash exception (GPL))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Bash exception (GPL))
+
+evidence:
+  matches:
+    - "The Free Software Foundation has exempted Bash from the requirement of
+       Paragraph 2c of the General Public License"
+    - "This is to say, there is no requirement for Bash to print a notice when
+       it is started interactively in the usual way"
+    - "We made this exception because users and standards expect shells not to
+       print such messages"
+    - "This exception applies to any program that serves as a shell and that is
+       based primarily on Bash as opposed to other GNU software"

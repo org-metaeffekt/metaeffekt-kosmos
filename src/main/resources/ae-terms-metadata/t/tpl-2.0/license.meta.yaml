@@ -1,0 +1,44 @@
+canonicalName: Terracotta Public License 2.0
+category: Terracotta
+shortName: TPL-2.0
+
+otherIds:
+  - "scancode:tpl-2.0"
+
+alternativeNames:
+  - "Terracotta Public License (version 2.0)"
+
+evidence:
+  matches:
+    - "The Initial Developer and each Contributor hereby grants You a world-wide, 
+       royalty-free, non-exclusive license, subject to third party intellectual 
+       property claims"
+    - "under intellectual property rights (other than patent or trademark) 
+       licensable by such Contributor to use, reproduce, make available, modify, 
+       display, perform, sublicense, distribute, and otherwise exploit its 
+       Contributions, either on an unmodified basis, with Modifications, or as part of 
+       a Larger Work"
+    - "under Patent Claims of such Contributor to make, use, sell, offer for  
+       sale, have made, import, and otherwise transfer either its Contributions or its 
+       Contributor Version"
+    - "Distribution of Source Code Form
+       All distribution of Covered Software in Source Code Form, including any 
+       Modifications that You create or to which You contribute, must be under the 
+       terms of this License or a future version of this license released under 
+       Section 10.1, and You must include a copy of this license with every copy of 
+       the source code You distribute or otherwise make available"
+    
+
+references:
+  "CDDL":
+    matches:
+      - "This Terracotta Public License (TPL) is similar to, and contains samples from, 
+         the Mozilla Public License (MPL) and the Common Development and Distribution 
+         License (CDDL). However, this TPL contains terms which differ from those 
+         contained in the MPL and CDDL"
+  "MPL":
+    matches:
+      - "This Terracotta Public License (TPL) is similar to, and contains samples from, 
+         the Mozilla Public License (MPL) and the Common Development and Distribution 
+         License (CDDL). However, this TPL contains terms which differ from those 
+         contained in the MPL and CDDL"

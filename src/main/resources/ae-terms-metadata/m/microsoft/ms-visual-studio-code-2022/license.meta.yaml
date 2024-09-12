@@ -1,0 +1,34 @@
+canonicalName: Microsoft Software License (Visual Studio Code 2022)
+category: Microsoft Software
+shortName: MS-Visual-Studio-Code-2022
+
+otherIds:
+  - "scancode:ms-visual-studio-code-2022"
+
+evidence:
+  matches:
+    - "You may use any number of copies of the software to develop and test your applications, including deployment within your internal corporate network"
+    - "The uses permitted above include use of the software in demonstrating your applications"
+    - "The software may include third party components with separate legal notices or governed by other agreements, as may be described in the ThirdPartyNotices file accompanying the software"
+    - "The software gives you the option to download other Microsoft and third party software packages from our extension marketplace or package managers"
+    - "The software may collect information about you and your use of the software, and send that to Microsoft"
+    - "To the extent Microsoft is a processor or subprocessor of personal data in connection with the software, Microsoft makes the commitments in the European Union General Data Protection Regulation Terms of the Online Services Terms to all customers effective May 25, 2018"
+    - "The software may periodically check for updates and download and install them for you"
+    - "If you give feedback about the software to Microsoft, you give to Microsoft, without charge, the right to use, share and commercialize your feedback in any way and for any purpose"
+    - "This license applies to the Visual Studio Code product"
+    - "This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services"
+    - "The properly licensed software will perform substantially as described in any Microsoft materials that accompany the software"
+    - "Subject to the foregoing clause (ii), Microsoft will only be liable for slight negligence if Microsoft is in breach of such material contractual obligations, the fulfillment of which facilitate the due performance of this agreement, the breach of which would endanger the purpose of this agreement and the compliance with which a party may constantly trust in"
+
+references:
+  "MIT":
+    matches:
+      - "This license applies to the Visual Studio Code product.
+         Source code for Visual Studio Code is available at
+         https://github.com/Microsoft/vscode under the MIT license agreement. The
+         software is licensed, not sold. This agreement only gives you some rights to use
+         the software. Microsoft reserves all other rights. Unless applicable law gives
+         you more rights despite this limitation, you may use the software only as
+         expressly permitted in this agreement. In doing so, you must comply with any
+         technical limitations in the software that only allow you to use it in certain
+         ways. You may not"

@@ -1,0 +1,27 @@
+canonicalName: Google Maps Platform Terms of Service 2020-04-02
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2020-04-02
+
+otherIds:
+  - "scancode:google-maps-tos-2020-04-02"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2020-04-02"
+
+evidence:
+  matches:
+    - "If your billing address is in Brazil, please review these Terms of Service, which apply to your use of Google Maps Platform"
+    - "If your billing address is in Indonesia, please review these Terms of Service, which apply to your use of
+       Google Maps Platform"
+    - "you have full legal authority to bind Customer to this Agreement"
+    - "you have read and understand this Agreement; and"
+    - "you agree, on behalf of Customer, to this Agreement"
+    - "If you do not have the legal authority to bind Customer, please do not click to accept"
+    - "This Agreement governs Customer's access to and use of the Services"
+  excludes:
+    - "Last modified: May 02, 2019"
+    - "If the parties determine that certain billing inaccuracies are attributable to Google, Google will not issue
+       a corrected invoice, but will instead issue a credit memo specifying the incorrect amount in the affected invoice"
+    - "or (v) to transmit, store, or process Protected Health Information (as defined in and subject to HIPAA)"
+    - "Last modified: April 27, 2020"
+    - "Last modified: May 6, 2020"

@@ -1,0 +1,21 @@
+canonicalName: Hazelcast Community License 1.0
+category: Hazelcast Community License
+shortName: Hazelcast-Community-1.0
+
+otherIds:
+  - "scancode:hazelcast-community-1.0"
+
+alternativeNames:
+  - "Hazelcast Community License 1.0"
+
+evidence:
+  matches:
+    - "On each Software copy, Licensee shall reproduce and not remove or alter all
+       Hazelcast or third party copyright or other proprietary notices contained in
+       the Software, and Licensee must provide the notice below with each copy"
+    - "Licensee must cause any Software modified by Licensee to carry prominent
+       notices stating that Licensee modified the Software"
+    - "Licensee is not authorized to assign its rights under this Agreement to any third party"
+    - "Hazelcast may freely assign its rights under this Agreement to any third party"
+  excludes:
+    - "Confluent Community License"

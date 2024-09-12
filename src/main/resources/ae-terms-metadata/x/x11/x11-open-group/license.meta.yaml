@@ -1,0 +1,116 @@
+canonicalName: X11 License (Open Group)
+category: X11
+shortName: X11-Open-Group
+spdxIdentifier: MIT-open-group
+
+otherIds:
+  - "scancode:x11-opengroup"
+
+canonicalNameHistory:
+  - "MIT Open Group"
+  - "X11 Open Group"
+
+representedAs: X11 License
+
+alternativeNames:
+  - "mit-open-group"
+  - "MIT-open-group"
+  - "MIT Open Group variant"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose is
+       hereby granted without fee, provided that the above copyright notice appear in all copies and that both that
+       copyright notice and this permission notice appear in supporting documentation"
+    - "The above copyright notice and this permission notice shall be included in
+       all copies or substantial portions of the Software"
+    - "THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+       IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
+    - "IN NO EVENT SHALL *{.*}* BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+       AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+       CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS *{.*}* THE SOFTWARE"
+    - "Except as contained in this notice"
+    - "the name of * shall not be used in advertising or otherwise to promote the sale, use or other
+       dealings in this Software without prior written authorization"
+  excludes:
+    - "No representations are made about the suitability of this software for any purpose"
+    - "Except as contained in this notice,
+       the name of SunSoft, Inc. shall not be used
+       in advertising or otherwise to promote
+       the sale, use or other dealings in this Software
+       without written authorization from SunSoft Inc"
+    - "make no representations about the suitability of this software for any purpose"
+
+grants:
+  binary-distribution:
+    subject: binary
+    action: distribute
+    matches:
+    - "Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose"
+    obligations:
+      include-permission-notice-and-copyright:
+        mandatory: true
+        description: "include permission notice"
+        matches:
+        - "the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation"
+      no-advertizing:
+        mandatory: true
+        description: "no advertising"
+        matches:
+        - "shall not be used in advertising or otherwise to promote the sale, use or other dealings
+         in this Software without prior written authorization"
+
+mappings:
+  "Copyright 1990, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this software and itsNEWLINE-MARKERdocumentation for any purpose is hereby granted without fee, provided thatNEWLINE-MARKERthe above copyright notice appear in all copies and that both thatNEWLINE-MARKERcopyright notice and this permission notice appear in supportingNEWLINE-MARKERdocumentation.": " LICENSE-SEGMENT-MARKER Copyright 1990, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this software and itsNEWLINE-MARKERdocumentation for any purpose is hereby granted without fee, provided thatNEWLINE-MARKERthe above copyright notice appear in all copies and that both thatNEWLINE-MARKERcopyright notice and this permission notice appear in supportingNEWLINE-MARKERdocumentation."
+  "Copyright 1985-1998, 2001 The Open GroupNEWLINE-MARKERCopyright 2002 Red Hat Inc., Durham, North Carolina.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this software": " LICENSE-SEGMENT-MARKER Copyright 1985-1998, 2001 The Open GroupNEWLINE-MARKERCopyright 2002 Red Hat Inc., Durham, North Carolina.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this software"
+  "Copyright 2003 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this software and itsNEWLINE-MARKERdocumentation for any purpose is hereby granted without fee, provided thatNEWLINE-MARKERthe above copyright notice appear in all copies and that both thatNEWLINE-MARKERcopyright notice and this permission notice appear in supportingNEWLINE-MARKERdocumentation.": " LICENSE-SEGMENT-MARKER Copyright 2003 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this software and itsNEWLINE-MARKERdocumentation for any purpose is hereby granted without fee, provided thatNEWLINE-MARKERthe above copyright notice appear in all copies and that both thatNEWLINE-MARKERcopyright notice and this permission notice appear in supportingNEWLINE-MARKERdocumentation."
+  "XAUNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright 1988, 1993, 1994, 1998 The Open Group": " LICENSE-SEGMENT-MARKER XAUNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright 1988, 1993, 1994, 1998 The Open Group"
+  "XDMCPNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright 1989, 1998 The Open Group": " LICENSE-SEGMENT-MARKER XDMCPNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright 1989, 1998 The Open Group"
+  "Copyright \\(c\\) 1996 Digital Equipment Corporation, Maynard, Massachusetts.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted": " LICENSE-SEGMENT-MARKER Copyright (c) 1996 Digital Equipment Corporation, Maynard, Massachusetts.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted"
+  "Copyright 1987, 1988, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this software": " LICENSE-SEGMENT-MARKER Copyright 1987, 1988, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this software"
+  "appres:NEWLINE-MARKER Copyright 1989, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use, copy, modify, distribute": " LICENSE-SEGMENT-MARKER appres:NEWLINE-MARKER Copyright 1989, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use, copy, modify, distribute"
+  "editres:NEWLINE-MARKER Copyright 1989, 1990, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use, copy": " LICENSE-SEGMENT-MARKER editres:NEWLINE-MARKER Copyright 1989, 1990, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use, copy"
+  "xdpyinfo:NEWLINE-MARKER Copyright 1988, 1998 The Open GroupNEWLINE-MARKER Copyright 2005 Hitachi, Ltd.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use": " LICENSE-SEGMENT-MARKER xdpyinfo:NEWLINE-MARKER Copyright 1988, 1998 The Open GroupNEWLINE-MARKER Copyright 2005 Hitachi, Ltd.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use"
+  "xfd:NEWLINE-MARKER Copyright 1989, 1993, 1994, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use": " LICENSE-SEGMENT-MARKER xfd:NEWLINE-MARKER Copyright 1989, 1993, 1994, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use"
+  "xkill:NEWLINE-MARKER Copyright 1988, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use": " LICENSE-SEGMENT-MARKER xkill:NEWLINE-MARKER Copyright 1988, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use"
+  "xlsatoms:NEWLINE-MARKER Copyright 1989, 1994, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use": " LICENSE-SEGMENT-MARKER xlsatoms:NEWLINE-MARKER Copyright 1989, 1994, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use"
+  "xlsclients:NEWLINE-MARKER Copyright 1989, 1991, 1994, 1998 The Open GroupNEWLINE-MARKER Copyright 2009 Open Text CorporationNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use": " LICENSE-SEGMENT-MARKER xlsclients:NEWLINE-MARKER Copyright 1989, 1991, 1994, 1998 The Open GroupNEWLINE-MARKER Copyright 2009 Open Text CorporationNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use"
+  "xlsfonts:NEWLINE-MARKER Copyright 1989, 1993, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use": " LICENSE-SEGMENT-MARKER xlsfonts:NEWLINE-MARKER Copyright 1989, 1993, 1998 The Open GroupNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use"
+  "xprop:NEWLINE-MARKER Copyright 1990, 1998 The Open GroupNEWLINE-MARKER Copyright \\(c\\) 2000 The XFree86 Project, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use": " LICENSE-SEGMENT-MARKER xprop:NEWLINE-MARKER Copyright 1990, 1998 The Open GroupNEWLINE-MARKER Copyright (c) 2000 The XFree86 Project, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use"
+
+
+# this is for matching of the variant
+segmentation:
+  revert: [
+    {
+      match:
+        "Files: nss/coreconf/mkdepend/cppsetup.c, nss/coreconf/mkdepend/def.h, nss/coreconf/mkdepend/include.c, nss/coreconf/mkdepend/main.c, nss/coreconf/mkdepend/mkdepend.man, nss/coreconf/mkdepend/parse.c, nss/coreconf/mkdepend/pr.c Copyright: 1993, 1994, 1998 The Open Group",
+
+      matchNext: "License: MIT Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE OPEN GROUP BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Except as contained in this notice, the name of The Open Group shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from The Open Group."
+    }
+]
+
+licenseTemplate:
+  "<lq>Permission to use, copy, modify, distribute, and sell this software and its
+       documentation for any purpose is hereby granted without fee, provided that
+       the above copyright notice appear in all copies and that both that
+       copyright notice and this permission notice appear in supporting
+       documentation.
+       <p/>
+       The above copyright notice and this permission notice shall be included in
+       all copies or substantial portions of the Software.
+       <p/>
+       <codeph>THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+       IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+       OPEN GROUP BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+       AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+       CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</codeph>
+       <p/>
+       Except as contained in this notice, the name of The Open Group shall not be
+       used in advertising or otherwise to promote the sale, use or other dealings
+       in this Software without prior written authorization from The Open Group.</lq>"

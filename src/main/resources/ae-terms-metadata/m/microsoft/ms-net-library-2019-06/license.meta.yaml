@@ -1,0 +1,18 @@
+canonicalName: Microsoft Software License (.NET Library 2019-06)
+category: Microsoft Software
+shortName: MS-NET-Library-2019-06
+
+otherIds:
+  - "scancode:ms-net-library-2019-06"
+
+evidence:
+  matches:
+    - "The software may include third party components with separate legal notices or governed by other agreements, as may be described in the ThirdPartyNotices file(s) accompanying the software"
+    - "You may copy and distribute the object code form of the software"
+    - "You may permit distributors of your applications to copy and distribute the Distributable Code as part of those applications"
+    - "indemnify, defend, and hold harmless Microsoft from any claims, including attorneys’ fees, related to the distribution or use of your applications, except to the extent that any claim is based solely on the unmodified Distributable Code"
+    - "use Microsoft’s trademarks in your applications’ names or in a way that suggests your applications come from or are endorsed by Microsoft"
+    - "share, publish, rent or lease the software, provide the software as a stand-alone offering for others to use, or transfer the software or this agreement to any third party"
+    - "In case of intentional conduct, gross negligence, claims based on the Product Liability Act, as well as in case of death or personal or physical injury, Microsoft is liable according to the statutory law"
+
+

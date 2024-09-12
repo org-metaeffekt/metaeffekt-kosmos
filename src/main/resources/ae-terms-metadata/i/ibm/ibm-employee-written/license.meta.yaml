@@ -1,0 +1,31 @@
+canonicalName: IBM License Agreement for IBM Employee-Written Software
+category: IBM License Agreement for IBM Employee-Written Software
+shortName: ibm-employee-written
+
+otherIds:
+  - "scancode:ibm-employee-written"
+
+classification: proprietary free
+
+alternativeNames:
+  - "IBM License Agreement for IBM Employee-Written Software"
+
+evidence:
+  matches:
+    - "use the Program on one or more machines at a time"
+    - "make copies of the Program for use or backup purposes within your Enterprise"
+    - "modify the Program and merge it into another program; and"
+    - "make copies of the original file you downloaded and distribute it, provided that you
+       transfer a copy of this license to the other party"
+    - "The other party agrees to these terms by its first use of the Program"
+    - "Some jurisdictions do not allow these limitations or exclusions, so they may not apply to you"
+    - "Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you"
+    - "You may terminate this license at any time"
+    - "We may terminate this license if you fail to comply with any of its terms"
+    - "In either event, you must destroy all your copies of the Program"
+    - "You are responsible for the payment of any taxes resulting from this license"
+    - "You may not sell, transfer, assign, or subcontract any of your rights or obligations
+       under this license"
+    - "Any attempt to do so is void"
+    - "Neither of us may bring a legal action more than two years after the cause of action arose"
+

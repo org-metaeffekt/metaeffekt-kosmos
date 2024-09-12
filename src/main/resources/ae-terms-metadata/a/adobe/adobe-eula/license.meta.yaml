@@ -1,0 +1,18 @@
+canonicalName: Adobe End User License Agreement
+category: Adobe End User
+shortName: Adobe-EULA
+
+otherIds:
+  - "scancode:adobe-eula"
+
+alternativeNames:
+  - "Adobe End User License Agreement"
+
+evidence:
+  matches:
+    - "Patents pending in the United States and other countries"
+    - "Adobe and Flash are either trademarks or registered
+       trademarks in the United States and/or other countries"
+    - "Adobe  End User License Agreement http://www.adobe.com/products/eulas/"
+  excludes:
+    - "ADOBE SYSTEMS INCORPORATED COLOR PROFILE BUNDLING AGREEMENT"

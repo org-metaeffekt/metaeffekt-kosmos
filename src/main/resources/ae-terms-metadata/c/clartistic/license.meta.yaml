@@ -1,0 +1,26 @@
+canonicalName: Clarified Artistic License
+category: ClArtistic
+spdxIdentifier: ClArtistic
+
+otherIds:
+  - "scancode:artistic-clarified"
+
+alternativeNames:
+  - "ClArtistic"
+  - "CLARTISTIC"
+  - "ClArtistic License"
+  - "CLARTISTIC LICENSE"
+  - "CLARTISTIC License"
+  - "Artistic clarified"
+  - "clarified Artistic"
+  - "Clarified Artistic"
+
+canonicalNameHistory:
+  - "ClArtistic License"
+
+evidence:
+  matches:
+    - "give non-standard executables non-standard names, and clearly document the differences
+       in manual pages (or equivalent), together with instructions on where to get the Standard Version"
+    - "make other distribution arrangements with the Copyright Holder"
+    - "offer the machine-readable source of the Package, with your modifications, by mail order"

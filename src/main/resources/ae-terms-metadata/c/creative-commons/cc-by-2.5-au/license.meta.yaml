@@ -1,0 +1,50 @@
+canonicalName: Creative Commons BY 2.5 (AU)
+category: CC-BY
+spdxIdentifier: CC-BY-2.5-AU
+
+representedAs: Creative Commons BY 2.0
+
+otherIds:
+  - "scancode:cc-by-2.5-au"
+
+alternativeNames:
+  - "Creative Commons Attribution 2.5 Australia"
+  - "https://creativecommons.org/licenses/by/2.5/au/legalcode"
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "give the Original Author credit"
+
+evidence:
+  matches:
+    - "'Moral rights law' means laws under which an individual who creates a work protected by copyright has rights
+       of integrity of authorship of the work, rights of attribution of authorship of the work, rights not to have
+       authorship of the work falsely attributed, or rights of a similar or analogous nature in the work anywhere in the world"
+    - "'Licence Elements' means the following high-level licence attributes as selected by Licensor and indicated in
+       the title of this Licence: Attribution, NonCommercial, NoDerivatives, ShareAlike"
+    - "Each time You publish, communicate to the public, distribute or publicly digitally perform the Work or a
+       Collective Work, the Licensor offers to the recipient a licence to the Work on the same terms and conditions
+       as the licence granted to You under this Licence"
+    - "Each time You publish, communicate to the public, distribute or publicly digitally perform a Derivative Work,
+       Licensor offers to the recipient a licence to the original Work on the same terms and conditions as the licence
+       granted to You under this Licence"
+    - "If any provision of this Licence is invalid or unenforceable under applicable law, it shall not affect the
+       validity or enforceability of the remainder of the terms of this Licence, and without further action by the parties
+       to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable"
+    - "No term or provision of this Licence shall be deemed waived and no breach consented to unless such waiver or consent
+       shall be in writing and signed by the party to be charged with such waiver or consent"
+    - "This Licence constitutes the entire agreement between the parties with respect to the Work licensed here"
+    - "To the full extent permitted by applicable law, there are no understandings, agreements or representations with
+       respect to the Work not specified here"
+    - "Licensor shall not be bound by any additional provisions that may appear in any communication from You"
+    - "This Licence may not be modified without the mutual written agreement of the Licensor and You"
+    - "The construction, validity and performance of this Licence shall be governed by the laws in force in New South Wales, Australia"
+  excludes:
+    - "This component contains third-party subcomponents licensed under
+       one or more copyleft licenses in the style of GPL, LGPL, MPL or EPL"
+
+
+
+

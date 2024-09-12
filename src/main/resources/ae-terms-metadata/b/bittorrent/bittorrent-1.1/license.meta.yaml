@@ -1,0 +1,33 @@
+canonicalName: BitTorrent License 1.1
+category: BitTorrent
+spdxIdentifier: BitTorrent-1.1
+
+otherIds:
+  - "scancode:bittorrent-1.1"
+
+alternativeNames:
+  - "BitTorrent, Version 1.1"
+  - "BitTorrent, 1.1"
+  - "BitTorrent 1.1"
+  - "BitTorrent-1.1"
+  - "BitTorrent License, Version 1.1"
+  - "BitTorrent License, 1.1"
+  - "BitTorrent License 1.1"
+  - "BitTorrent Open Source License Version 1.1"
+
+evidence:
+  matches:
+    - "You may sell, accept donations or otherwise receive compensation for executable
+       versions of a Licensed Product, without paying a royalty or other fee to the
+       Licensor or any Contributor, provided that such executable versions contain
+       your or another Contributor's material Modifications"
+    - "For the avoidance of doubt, to the extent your executable version of a Licensed
+       Product does not contain your or another Contributor's material Modifications,
+       you may not sell, accept donations or otherwise receive compensation for such
+       executable"
+    - "You may use the Licensed Product for any purpose, but the Licensor is not
+       providing you any warranty whatsoever, nor is the Licensor accepting any liability
+       in the event that the Licensed Product doesn't work properly or causes you
+       any injury or damages"
+  excludes:
+    - "specifically under this license (\"BitTorrent Products\")"

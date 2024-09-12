@@ -1,0 +1,14 @@
+canonicalName: Netcat License
+category: Netcat License
+shortName: Netcat
+
+otherIds:
+  - "scancode:netcat"
+
+evidence:
+  matches:
+    - "Netcat is entirely my own creation, although plenty of other code was used as examples"
+    - "It is freely given away to the Internet community in the hope that
+       it will be useful, with no restrictions except giving credit where it is due"
+    - "If netcat makes you rich somehow and
+       you're feeling generous, mail me a check"

@@ -1,0 +1,70 @@
+canonicalName: Oracle Entitlement 5 plus 15
+category: Oracle Entitlement 5 plus 15
+shortName: Oracle-Entitlement-05-15
+
+otherIds:
+  - "scancode:oracle-entitlement-05-15"
+
+alternativeNames:
+  - "oracle-entitlement-05-15"
+
+evidence:
+  matches:
+    - "You may reproduce and use the Software for Your own Individual,
+       Commercial and Research and Instructional Use only for the purposes of
+       designing, developing, testing, and running Your applets and
+       applications ('Programs')"
+    - "Subject to the terms and conditions of this Agreement and
+       restrictions and exceptions set forth in the Software's documentation,
+       You may reproduce and distribute portions of Software identified as a
+       redistributable in the documentation (each a 'Redistributable'),
+       provided that You comply with the following (note that You may be
+       entitled to reproduce and distribute other portions of the Software not
+       defined in the documentation as a Redistributable under certain other
+       licenses as described in the THIRDPARTYLICENSEREADME, if applicable)"
+    - "You distribute Redistributable complete and unmodified and only
+       bundled as part of Your Programs,"
+    - "Your Programs add significant and primary functionality to the
+       Redistributable,"
+    - "You distribute Redistributable for the sole purpose of running Your
+       Programs,"
+    - "You do not distribute additional software intended to replace any
+       component(s) of the Redistributable,"
+    - "You do not remove or alter any proprietary legends or notices
+       contained in or on the Redistributable"
+    - "You only distribute the Redistributable subject to a license
+       agreement that protects Oracle's interests consistent with the terms
+       contained in this Agreement, and"
+    - "You agree to defend and indemnify Oracle and its licensors from and
+       against any damages, costs, liabilities, settlement amounts and/or
+       expenses  (including attorneys' fees) incurred in connection with any
+       claim, lawsuit or action by any third party that arises or results from
+       the use or distribution of any and all Programs and/or Redistributable"
+    - "You may not create, modify, or change
+       the behavior of, or authorize Your licensees to create, modify, or
+       change the behavior of, classes, interfaces, or subpackages that are in
+       any way identified as 'java', 'javax', 'sun' or similar convention as
+       specified by Oracle in any naming convention designation"
+    - "The scope of Your license does not include any right, express or
+       implied, (i) to access, copy, distribute, display or use the Software
+       to provide diagnostic, maintenance, repair or technical support
+       services for Oracle software or Oracle hardware on behalf of any third party
+       for Your direct or indirect commercial gain or advantage, without Oracle's
+       prior written authorization, or (ii) for any third party to access,
+       copy, distribute, display or use the Software to provide diagnostic,
+       maintenance, repair or technical support services for Oracle software or
+       Oracle hardware on Your behalf for such party's direct or indirect
+       commercial gain or advantage, without Oracle's prior written authorization"
+    - "The limitations set forth in this paragraph apply to any
+       and all error corrections, patches, updates, and upgrades to the
+       Software You may receive, access, download or otherwise obtain from Oracle"
+    - "During the term of the SLA and
+       Entitlement, and for a period of three (3) years thereafter, You agree
+       to keep proper records and documentation of Your compliance with the SLA and Entitlement"
+    - "Upon Oracle's reasonable request, You will provide
+       copies of such records and documentation to Oracle for the purpose of
+       confirming Your compliance with the terms and conditions of the SLA and Entitlement"
+    - "This section will survive any termination of the SLA and Entitlement"
+    - "You may terminate this SLA and Entitlement at any time by
+       destroying all copies of the Software in which case the obligations set
+       forth in Section 7 of the SLA shall apply"

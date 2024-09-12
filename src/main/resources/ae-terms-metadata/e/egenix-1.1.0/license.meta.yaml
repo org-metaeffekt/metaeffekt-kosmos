@@ -1,0 +1,32 @@
+canonicalName: eGenix.com Public License 1.1.0
+category: eGenix
+spdxIdentifier: eGenix
+
+otherIds:
+  - "scancode:egenix-1.1.0"
+
+alternativeNames:
+  - "eGenix License"
+  - "EGENIX LICENSE"
+  - "EGENIX License"
+  - "eGenix.com Public License 1.1.0"
+  - "eGenix.com Public License Agreement"
+  - "EGENIX.COM PUBLIC LICENSE AGREEMENT"
+
+references:
+  "Python Software Foundation License":
+    matches:
+      - "This license agreement is based on the Python CNRI License Agreement,
+         a widely accepted open- source license"
+
+evidence:
+  matches:
+    - "This License Agreement will automatically terminate upon a material breach
+       of its terms and conditions"
+    - "Any software or documentation in source or binary form provided along with
+       the Software that is associated with a separate license agreement is licensed
+       to Licensee under the terms of that license agreement"
+    - "This License Agreement does not apply to those portions of the Software"
+    - "Copies of the third party licenses are included in the Software Distribution"
+  excludes:
+    - "EGENIX.COM PUBLIC LICENSE AGREEMENT VERSION 1.0.0"

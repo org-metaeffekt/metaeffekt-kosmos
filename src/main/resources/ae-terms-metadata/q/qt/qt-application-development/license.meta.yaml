@@ -1,0 +1,32 @@
+canonicalName: Qt Application Development License 1.1
+category: Qt Application Development
+shortName: Qt-Application-Development-1.1
+
+otherIds:
+  - "scancode:qt-commercial-1.1"
+
+alternativeNames:
+  - "Qt FOR APPLICATION DEVELOPMENT LICENSE AGREEMENT Agreement version 1.1"
+
+evidence:
+  matches:
+    - "The Qt Company grants to Licensee a non-exclusive, non-transferable, limited term license to use, modify and
+       copy the Licensed Software for Designated Users specified in the License Certificate for the sole purposes of"
+    - "Licensee may at any time during the Supported Term designate another Designated User to replace a then-current
+       Designated User by notifying The Qt Company, provided that a) the then-current Designated User has not been
+       designated as a replacement during the last six (6) months; and b) there is no more than the specified number
+       of Designated Users at any given time"
+    - "The limited distribution licenses granted in this Section 5.3 shall only be applicable to the Continued-Usage
+       Term, but not to Start-For-Free Term"
+
+masks:
+  matches:
+    - "NOTE: If Licensee, or another third party, has, at any time, developed or distributed all (or any portions of)
+       the Application(s) using an open source version of Qt licensed under the terms of the GNU Lesser General Public
+       License, version 2.1 or later (“LGPL”) or the GNU General Public License version 2.0 or later (“GPL”), Licensee
+       may contact The Qt Company via email to address sales@qt.io to ask for the necessary permission to combine such
+       development work with the Licensed Software. The Qt Company shall evaluate Licensee´s request, and respond to
+       the request with estimated license costs and other applicable terms and details relating to the permission for
+       the Licensee, depending on the actual situation in question. Copies of the licenses referred to above are
+       located at http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html, http://www.gnu.org/licenses/lgpl-3.0.html,
+       http://www.fsf.org/licensing/licenses/info/GPLv2.html, and http://www.gnu.org/copyleft/gpl-3.0.html."

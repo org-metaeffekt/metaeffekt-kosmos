@@ -1,0 +1,22 @@
+canonicalName: ASN.1 Object Dumping Code License
+category: ASN.1 Object Dumping Code License
+shortName: ASN1-object-dumping-code
+spdxIdentifier: Gutmann
+
+alternativeNames:
+  - "ASN.1 Object Dumping Code License"
+  - "ASN.1 object dumping code"
+  - "Gutmann License"
+
+canonicalNameHistory:
+  - "Gutmann License"
+
+otherIds:
+  - "scancode:asn1"
+#note: scancode has 2 unique IDs for this license. ID "gutmann" is one sentence and very vague - will not be modelled separately
+  - "scancode:gutmann"
+
+evidence:
+  matches:
+    - "You can use this code in whatever way you want, as long as you don't
+       try to claim you wrote it"

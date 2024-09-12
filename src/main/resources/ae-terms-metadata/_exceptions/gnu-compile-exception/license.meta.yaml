@@ -1,0 +1,28 @@
+canonicalName: GNU Compile Exception
+category: GNU Compile Exception
+spdxIdentifier: GNU-compiler-exception
+
+type: exception
+
+canonicalNameHistory:
+  - "GNU IO Library Exception 2.0"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with GNU Compile exception)
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with GNU Compile exception)
+
+otherIds:
+  - "scancode:iolib-exception-2.0"
+
+alternativeNames:
+  - "iolib-exception-2.0"
+  - "GNU-compiler-exception"
+  - "GNU Compiler Exception"
+
+evidence:
+  matches:
+    - "As a special exception, if you link this library with files compiled with
+       a GNU compiler to produce an executable, this does not cause the resulting
+       executable to be covered by the GNU General Public License"
+    - "This exception does not however invalidate any other reasons why the executable file
+       might be covered by the GNU General Public License"

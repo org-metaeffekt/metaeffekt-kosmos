@@ -1,0 +1,49 @@
+canonicalName: IBM Public License 1.0
+category: IPL
+spdxIdentifier: IPL-1.0
+
+otherIds:
+  - "scancode:ibmpl-1.0"
+  - "osi:IPL-1.0"
+
+alternativeNames:
+  - "IPL, Version 1.0"
+  - "IPL, 1.0"
+  - "IPL 1.0"
+  - "IBM Public License Version 1.0"
+  - "IBM Public License, Version 1.0"
+  - "IBM Public License v1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, each Contributor hereby
+       grants Recipient a non-exclusive, worldwide, royalty-free copyright
+       license to reproduce, prepare derivative works of, publicly display,
+       publicly perform, distribute and sublicense the Contribution of such
+       Contributor, if any, and such derivative works, in source code and
+       object code form"
+    - "A Contributor may choose to distribute the Program in object code form
+       under its own license agreement, provided that"
+    - "it complies with the terms and conditions of this Agreement"
+    - "effectively disclaims on behalf of all Contributors all
+       warranties and conditions, express and implied, including
+       warranties or conditions of title and non-infringement, and
+       implied warranties or conditions of merchantability and fitness
+       for a particular purpose"
+    - "effectively excludes on behalf of all Contributors all
+       liability for damages, including direct, indirect, special,
+       incidental and consequential damages, such as lost profits"
+    - "states that any provisions which differ from this Agreement
+       are offered by that Contributor alone and not by any other
+       party"
+    - "states that source code for the Program is available from
+       such Contributor, and informs licensees how to obtain it in a
+       reasonable manner on or through a medium customarily used for
+       software exchange"
+    - "When the Program is made available in source code form"
+    - "it must be made available under this Agreement"
+    - "a copy of this Agreement must be included with each copy of the
+       Program"
+    - "IBM may publish new versions (including revisions) of this Agreement
+       from time to time"
+

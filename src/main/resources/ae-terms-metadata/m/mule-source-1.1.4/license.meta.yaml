@@ -1,0 +1,21 @@
+canonicalName: Mule Source Public License 1.1.4
+category: Mule Source Public
+shortName: Mule-Source-1.1.4
+
+otherIds:
+  - "scancode:mule-source-1.1.4"
+
+alternativeNames:
+  - "MuleSource Public License Version 1.1.4"
+
+evidence:
+  matches:
+    - "Any addition to or deletion from the contents of a file containing Original Code or previous Modifications"
+    - "Any new file that contains any part of the Original Code or previous Modifications"
+    - "The Initial Developer hereby grants You a world-wide, royalty-free, non- exclusive license, subject to third party intellectual property claims"
+    - "under intellectual property rights (other than patent or trademark) Licensable by Initial Developer to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications, and/or as part of a Larger Work"
+    - "under Patents Claims infringed by the making, using or selling of Original Code, to make, have made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code (or portions thereof)"
+    - "The Modifications which You create or to which You contribute are governed by the terms of this License, including without limitation Section 2.2"
+    - "The Source Code version of Covered Code may be distributed only under the terms of this License or a future version of this License released under Section 6.1, and You must include a copy of this License with every copy of the Source Code You distribute"
+    - "Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License either on the same media as an Executable version or via an accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available"
+    - "Redistributions of the Covered Code in binary form or source code form, must ensure that the first time the resulting executable program is launched, a user interface, if any, shall include the attribution information set forth below prominently"

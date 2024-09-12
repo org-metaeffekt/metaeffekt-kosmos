@@ -1,0 +1,24 @@
+canonicalName: Eiffel Forum License 2.0
+category: EFL
+spdxIdentifier: EFL-2.0
+
+otherIds:
+  - "scancode:efl-2.0"
+  - "osi:EFL-2.0"
+
+alternativeNames:
+  - "EFL, Version 2.0"
+  - "EFL, 2.0"
+  - "EFL 2.0"
+  - "EFL-2.0"
+  - "Eiffel Forum License, version 2"
+
+grants:
+  Source code delivery OR Binary delivery:
+    matches:
+    - "any distribution of this package"
+    obligations:
+      Source code delivery OR Binary delivery:
+        matches:
+        - "copyright notices are retained unchanged"
+        - "any distribution of this package, whether modified or not, includes this license text"

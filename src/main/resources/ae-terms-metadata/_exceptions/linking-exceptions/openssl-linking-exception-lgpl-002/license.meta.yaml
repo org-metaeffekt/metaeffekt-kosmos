@@ -1,0 +1,33 @@
+canonicalName: OpenSSL Linking Exception (LGPL; variant 002)
+category: OpenSSL Linking Exception
+shortName: OpenSSL-Linking-Exception-LGPL-002
+
+canonicalNameHistory:
+  - "OpenSSL Exception (LGPL) 2.1"
+  - "Linking Exception (LGPL; variant 009)"
+
+otherIds:
+  - "scancode:openssl-exception-lgpl-3.0-plus"
+
+alternativeNames:
+  - "OpenSSL Exception (LGPL) 2.1"
+
+type: exception
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": GNU Lesser General Public License 3.0 (or any later version; with OpenSSL Linking Exception (LGPL; variant 002))
+  "GNU Lesser General Public License 3.0": GNU Lesser General Public License 3.0 (with OpenSSL Linking Exception (LGPL; variant 002))
+
+evidence:
+  matches:
+    - "In addition, as a special exception, the copyright holders give
+       permission to link this program with the OpenSSL library (or with
+       modified versions of OpenSSL that use the same license as OpenSSL),
+       and distribute linked combinations including the two"
+    - "You must obey the GNU Lesser General Public License in all respects for
+       all of the code used other than OpenSSL"
+
+references:
+  "LGPL":
+    matches:
+      - "You must obey the GNU Lesser General Public License in all respects"

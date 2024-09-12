@@ -1,0 +1,22 @@
+canonicalName: Amazon Digital Services License
+category: ADSL
+spdxIdentifier: ADSL
+
+alternativeNames:
+  - "Amazon Digital Services License"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:adsl"
+
+evidence:
+  matches:
+    - "This software code is made available 'AS IS' without warranties of any kind"
+    - "You may copy, display, modify and redistribute the software code either by
+       itself or as incorporated into your code; provided that*{.{0,2}}* you do not remove
+       any proprietary notices"
+    - "Your use of this software code is at your own risk
+       and you waive any claim against Amazon Digital Services,
+       Inc. or its affiliates with respect to your use of this software code"

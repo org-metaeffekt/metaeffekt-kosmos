@@ -1,0 +1,37 @@
+canonicalName: Spencer License (4-Clause)
+category: Spencer License
+spdxIdentifier: Spencer-94
+
+otherIds:
+  - "scancode:hs-regexp"
+
+requiresCopyright: false
+requiresLicenseText: false
+requiresNote: true
+noteChecklist:
+  - "Credits must appear in the documentation"
+
+alternativeNames:
+  - "Spencer License, 92"
+  - "Spencer License 92"
+  - "Spencer License, 93"
+  - "Spencer License 93"
+  - "Spencer License, 94"
+  - "Spencer License 94"
+  - "Spencer License, 97"
+  - "Spencer License 97"
+
+evidence:
+  matches:
+    - "Permission is granted to anyone to use this software for any purpose on any
+       computer system, and to alter it and redistribute it*, subject to the following
+       restrictions"
+    - "The author* not responsible for the consequences of use of this software,
+       no matter how awful, even if they arise from flaws in it"
+    - "The origin of this software must not be misrepresented, either by explicit
+       claim or by omission"
+    - "Altered versions must be plainly marked as such, and must not be misrepresented
+       as being the original software"
+    - "Since few users ever read sources, credits * appear in the documentation"
+    - "This notice may not be removed or altered"
+    

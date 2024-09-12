@@ -1,0 +1,24 @@
+canonicalName: MS Entity Framework 5 License
+category: MS Entity Framework 5 License
+shortName: ms-entity-framework-5
+
+otherIds:
+  - "scancode:ms-entity-framework-5"
+
+classification: proprietary free
+
+alternativeNames:
+  - "MS Entity Framework 5 License"
+
+evidence:
+  matches:
+    - "The supplement is comprised of Distributable Code"
+    - "'Distributable Code' is code that you are permitted to distribute in programs you develop if you comply with the terms below"
+    - "Microsoft provides support services for this software as described at www.support.microsoft.com/common/international.aspx"
+  excludes:
+    - "for which this supplement is applicable"
+    - "TERMES DU CONTRAT DE LICENCE D’UN SUPPLÉMENT MICROSOFT
+       ENTITY FRAMEWORK 4.1 "
+
+ignoreMatches:
+  - "Microsoft Entity Framework 4.1 License"

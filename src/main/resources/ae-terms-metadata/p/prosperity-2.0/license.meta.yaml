@@ -1,0 +1,28 @@
+canonicalName: Prosperity Public License 2.0
+category: Prosperity Public License
+shortName: Prosperity-2.0
+
+otherIds:
+  - "scancode:prosperity-2.0"
+
+alternativeNames:
+  - "prosperity-2.0"
+
+evidence:
+  matches:
+    - "You must limit use of this software in any manner primarily
+       intended for or directed toward commercial advantage or
+       private monetary compensation to a trial period of 32
+       consecutive calendar days. This limit does not apply to use in
+       developing feedback, modifications, or extensions that you
+       contribute back to those giving this license"
+    - "Ensure everyone who gets a copy of this software from you, in
+       source code or any other form, gets the text of this license
+       and the contributor and source code lines above"
+    - "Do not make any legal claim against anyone for infringing any
+       patent claim they would infringe by using this software alone,
+       accusing this software, with or without changes, alone or as
+       part of a larger application"
+  excludes:
+    - "This license allows you to use and share this software for noncommercial purposes for free and to try this
+       software for commercial purposes for thirty days."

@@ -1,0 +1,208 @@
+canonicalName: BSD 3-Clause License
+category: BSD
+spdxIdentifier: BSD-3-Clause
+
+status:
+  - "reviewed: 25.10.21"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:bsd-new"
+  - "osi:BSD-3-Clause"
+
+expectedSpdxMatches:
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "BSD 3-Clause License"
+
+# Remark: this is when matching
+combinedWith:
+  "BSD 3-Clause License (copyright holder variant)": "BSD 3-Clause License"
+
+# compensated by combinedWith
+ignoreMatches:
+  - "BSD 3-Clause License (copyright holder variant)"
+
+alternativeNames:
+  - "BSD 3-Clause"
+  - "BSD 3-Clause License"
+  - "BSD 3-clause"
+  - "BSD-3-Clause"
+  - "BSD-3-clause"
+  - "3-Clause BSD License"
+  - "3-clause BSD"
+  - "BSD License (BSD 3-Clause)"
+  - "BSD-3"
+  - "BSD3 License"
+  - "BSD3"
+  - "Three-clause BSD-style"
+  - "bsd_3"
+  # according to OSI:
+  - "Modified BSD License"
+  - "Modified BSD Licence"
+  - "Modified BSD licence"
+  - "Modified BSD license"
+  - "modified BSD License"
+  - "modified BSD Licence"
+  - "modified BSD licence"
+  - "modified BSD license"
+  - "Modified BSD (3-clause)"
+  # research (which license is meant when saying new or revised)?
+  - "BSD New"
+  - "New BSD"
+  - "New BSD License"
+  - "(New) BSD License"
+  - "new BSD license"
+  - "BSD 3 Clause"
+  - "BSD-3 License"
+  - "New BSD License (GPL-compatible)"
+  - "Revised BSD"
+  - "Revised BSD (3-Clause) License"
+  - "Revised BSD Licence"
+  - "Revised BSD License"
+  - "3-clause (new-style) BSD license"
+  - "BSD (3-point)"
+  - "BSD 3"
+  - "BSD 3 Clause License"
+  - "BSD 3 License"
+  - "BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)"
+  - "BSD 3-Clause \"New\" or \"Revised\" license"
+  - "BSD 3-Clause Licence"
+  - "BSD 3-Clause License (BSD3)"
+  - "BSD 3-Clause License (For this pom.xml and the ant script maven-build.xml)"
+  - "BSD 3-clause \"New\" or \"Revised\" License"
+  - "BSD 3-clause License w/nuclear disclaimer"
+  - "BSD 3-clause New License"
+  - "BSD 3-clause New or Revised License"
+  - "BSD 3-clause Revised License"
+  - "BSD 3-clause style license"
+  - "BSD Licence 3"
+  - "BSD License (3-Clause)"
+  - "BSD License 3 Clause"
+  - "BSD License, 3-Clause"
+  - "BSD License, Revised"
+  - "BSD License, Version 3.0"
+  - "BSD revised License"
+  - "BSD New License"
+  - "BSD New license"
+  - "BSD Revised"
+  - "\"New\" BSD License"
+  - "New BSD (3-clause)"
+  - "New BSD License (3-clause license)"
+  - "NewBSD Licence"
+  - "BSD-3 for 3rd Parties"
+  - "Three clause BSD license"
+  - "http://opensource.org/licenses/BSD-3-Clause"
+  - "https://opensource.org/licenses/BSD-3-Clause"
+  - "TinySCHEME License"
+  - "is under a 3 clause BSD license"
+  - "3-clause BSD License"
+  - "3 clause BSD license"
+  - "3-clause BSD license"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain the above copyright notice, this
+       list of conditions and the following disclaimer"
+    - "THIS SOFTWARE *{(AND DOCUMENTATION){0,1}}* IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"
+       AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+       IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+       DISCLAIMED"
+    - "IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+       FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY*{.{0,3}}* OR CONSEQUENTIAL
+       DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+       SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+       CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+       OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+       OF THIS SOFTWARE *{(AND DOCUMENTATION){0,1}}*, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
+  excludes:
+    - "All advertising materials mentioning features or use of this software must
+       display the following acknowledg*ment"
+    - "Eclipse Distribution License - v 1.0"
+    - "You acknowledge that this software is not designed, licensed or intended for
+       use in the design, construction, operation or maintenance of any nuclear facility"
+    - "All modifications to the source code must be clearly marked as
+       such"
+    - "Redistributions of any form whatsoever must retain the following acknowledg*ment"
+    - "The names of the contributors may not be used to endorse or
+       promote products derived from this software without specific
+       prior written permission"
+    - "The name of the author may not be used to
+       endorse or promote products derived from this software without
+       specific prior written permission"
+    - "You are under no obligation whatsoever to provide any bug fixes, patches, or upgrades to the
+       features, functionality or performance of the source code (\"Enhancements\") to anyone"
+    - "scaled-down version of the 'modified' BSD license"
+    - "Static linking of programs with the libwebsockets library does not
+       constitute a derivative work and does not require the author to provide 
+       source code for the program, use the shared libwebsockets libraries, or
+       link their program against a user-supplied version of libwebsockets"
+    - "End User License Agreement - Anaconda Distribution"
+
+grants:
+  binary-distribution:
+    subject: binary
+    action: distribute
+    matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that the following conditions are met"
+    obligations:
+      include-conditions:
+        mandatory: true
+        description: "reproduce list of conditions"
+        matches:
+        - "Redistributions in binary form must reproduce the above copyright notice,
+           this list of conditions and the following disclaimer in the documentation
+           and/or other materials provided with the distribution"
+      include-copyright:
+        mandatory: true
+        description: "reproduce copyright"
+        matches:
+        - "Redistributions in binary form must reproduce the above copyright notice,
+           this list of conditions and the following disclaimer in the documentation
+           and/or other materials provided with the distribution"
+      include-disclaimer:
+        mandatory: true
+        description: "reproduce disclaimer"
+        matches:
+        - "Redistributions in binary form must reproduce the above copyright notice,
+           this list of conditions and the following disclaimer in the documentation
+           and/or other materials provided with the distribution"
+  use-binary:
+    subject: binary
+    action: use
+    matches:
+      - "Redistribution and use in source and binary forms, with or without
+         modification, are permitted provided that the following conditions are met"
+    obligations:
+      do-not-endorse:
+        matches:
+        - "Neither the name of the copyright holder nor the names of its contributors
+           may be used to endorse or promote products derived from this software without
+           specific prior written permission"
+
+mappings:
+  "THEPOSSIBILITY":
+    "THE POSSIBILITY"
+  "Redistributions of source code must retain the above copyrightnotice":
+    "Redistributions of source code must retain the above copyright notice"
+
+noticeTemplateId: BSD 3-Clause License
+
+licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification, are permitted 
+     provided that the following conditions are met:
+     <ol><li>Redistributions of source code must retain the above copyright notice, this list of conditions
+     and the following disclaimer.</li>
+     <li>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and
+     the following disclaimer in the documentation and/or other materials provided with the distribution.</li>
+     <li>Neither the name of the copyright holder nor the names of its contributors may be used to endorse or
+     promote products derived from this software without specific prior written permission.</li></ol>
+     <codeph>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED
+     WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+     PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+     ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+     LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+     HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+     (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+     ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></lq>"

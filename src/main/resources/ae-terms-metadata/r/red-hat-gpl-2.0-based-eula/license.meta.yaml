@@ -1,0 +1,28 @@
+canonicalName: Red Hat GNU General Public License 2.0-Based EULA
+category: Red Hat EULA
+shortName: RH-GPL-2.0-Based-EULA
+
+otherIds:
+  - "scancode:rh-eula-gpl2"
+
+alternativeNames:
+  - "Red Hat GPLv2-Based End User License Agreement"
+  - "END USER LICENSE AGREEMENT RED HAT GPLv2-BASED"
+  - "Red Hat GPLv2-Based End User License Agreement November 18, 2019"
+
+expectedMatches:
+  - "GNU General Public License 2.0"
+
+ignoreMatches:
+  - "GNU General Public License 2.0"
+
+evidence:
+  matches:
+    - "Subject to the following terms, Red Hat, Inc. (“Red Hat”) grants to you a perpetual, worldwide license to the Programs (each of which may include multiple software components) pursuant to the GNU General Public License"
+    - "The license rights for the binary only firmware components are located with the components themselves"
+    - "The Programs and each of their components are owned by Red Hat and other licensors and are protected under copyright law and other laws as applicable"
+    - "Except as specifically stated in this Section 3, a separate agreement with Red Hat, or a license for a particular component, to the maximum extent permitted under applicable law"
+    - "To the maximum extent permitted by applicable law, your exclusive remedy under this EULA is to return any defective media within 30 days of delivery along with a copy of your payment receipt and Red Hat"
+  excludes:
+    - "END USER LICENSE AGREEMENT
+       RED HAT APACHE-BASED"

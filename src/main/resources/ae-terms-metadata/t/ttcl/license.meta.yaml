@@ -1,0 +1,22 @@
+canonicalName: Talis Community License
+category: Talis Community License
+shortName: Talis-Community
+
+otherIds:
+  - "scancode:ttcl"
+
+alternativeNames:
+  - "The Talis Community License"
+
+evidence:
+  matches:
+    - "You must include a copy of this Licence with every copy of the Data or any portion of it You distribute and/or
+       make available for electronic access. You must keep intact any notices of copyright ownership and any
+       notices of database right"
+    - "You must include the following text in each file containing part or whole of the Data"
+    - "The contents of this file are subject to the Talis Community Licence (the 'Licence')"
+    - "you may not use this file except in compliance with the Licence"
+    - "You may obtain a copy of the Licence at http://tdnarchive.capita-libraries.co.uk/tcl"
+    - "If it is not possible to put such notice in a particular file due to its structure, then You must include
+       such notice in a location (such as a relevant directory) where a user would be likely to look for such a notice"
+    - "You must also duplicate this Licence prominently in any documentation for the Data or any portion of it"

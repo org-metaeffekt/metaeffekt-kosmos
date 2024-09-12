@@ -1,0 +1,32 @@
+canonicalName: Adaptive Public License 1.0
+category: Adaptive Public License
+spdxIdentifier: APL-1.0
+
+# NOTE: these is a potential confusion with the Academic Public License. We follow OSI/SPDX in this case.
+
+otherIds:
+  - "scancode:adapt-1.0"
+  - "osi:APL-1.0"
+
+alternativeNames:
+  - "APL, Version 1.0"
+  - "APL, 1.0"
+  - "APL 1.0"
+  - "APL-1.0"
+  - "ADAPTIVE PUBLIC LICENSE Version 1.0"
+  - "ADAPTIVE PUBLIC LICENSE 1.0"
+  - "Adaptive Public License Version 1.0"
+  - "Adaptive Public License 1.0"
+
+canonicalNameHistory:
+  - "Adaptice Public License 1.0" # fixed type
+
+evidence:
+  matches:
+    - "reproduce, prepare derivative works of, publicly display, publicly perform,
+       distribute and sublicense the Initial Work"
+    - "reproduce, publicly display, publicly perform, distribute, and sublicense
+       any derivative works (if any) prepared by Recipient"
+    - "in Source Code and Executable form, either with other Modifications, on an
+       unmodified basis, or as part of a Larger Work"
+

@@ -1,0 +1,40 @@
+canonicalName: LEGO Open Source License Agreement
+category: LEGO Open Source License Agreement
+shortName: LOSLA
+
+otherIds:
+  - "scancode:losla"
+
+alternativeNames:
+  - "LEGO Open Source License Agreement"
+  - "LEGO® OPEN SOURCE LICENSE AGREEMENT 1.0 LEGO® MINDSTORMS® NXT FIRMWARE"
+
+evidence:
+  matches:
+    - "This LEGO® Open Source License Agreement is an open source license for the firmware of the LEGO® MINDSTORMS® NXT ATMEL microprocessors"
+    - "THIS AGREEMENT IS THE SOLE AGREEMENT AND IT ONLY COVERS THE FIRMWARE OF THE LEGO® MINDSTORMS® NXT MICROPROCESSOR
+       AND DOES NOT COVER ANY 'SOFTWARE' AS DEFINED IN THE MINDSTORMS® NXT END USER LICENSE AGREEMENT (HEREINAFTER
+       THE ' MINDSTORMS® NXT EULA')"
+    - "This License and the rights granted hereunder will terminate automatically if You fail to comply with terms
+       herein and fail to cure such breach within 30 days of becoming aware of the breach"
+    - "All sublicenses to the Covered Code which are properly granted shall survive any termination of this License"
+    - "Provisions which, by their nature, must remain in effect beyond the termination of this License shall survive"
+    - "If You initiate litigation by asserting a patent infringement claim (excluding declatory judgment actions)
+       against LEGO or a Contributor (LEGO or Contributor against whom You file such action is referred to as 'Participant')
+       alleging that such Participant's Contributor Version directly or indirectly infringes any patent, then any and
+       all rights granted by such Participant to You under Sections 2.1 and/or 2.2 of this License shall, upon 60 days
+       notice from Participant terminate prospectively, unless if within 60 days after receipt of notice You either:
+       (i) agree in writing to pay Participant a mutually agreeable reasonable royalty for Your past and future use
+       of Modifications made by such Participant, or (ii) withdraw Your litigation claim with respect to the Contributor
+       Version against such Participant"
+    - "If within 60 days of notice, a reasonable royalty and payment arrangement are not mutually agreed upon in
+       writing by the parties or the litigation claim is not withdrawn, the rights granted by Participant to You
+       under Sections 2.1 and/or 2.2 automatically terminate at the expiration of the 60 day notice period specified above"
+    - "If You assert a patent infringement claim against Participant alleging that such Participant's Contributor
+       Version directly or indirectly infringes any patent where such claim is resolved (such as by license or settlement)
+       prior to the initiation of patent infringement litigation, then the reasonable value of the licenses granted by
+       such Participant under Sections 2.1 or 2.2 shall be taken into account in determining the amount or value of
+       any payment or license"
+    - "In the event of termination under Sections 8.1 or 8.2 above, all end user license agreements (excluding
+       distributors and resellers) which have been validly granted by You or any distributor hereunder prior to
+       termination shall survive termination"

@@ -1,0 +1,29 @@
+canonicalName: Sampling Plus 1.0
+category: CC-Sampling
+shortName: CC-Sampling-Plus-1.0
+
+otherIds:
+  - "scancode:cc-sampling-plus-1.0"
+
+alternativeNames:
+  - "Sampling Plus 1.0"
+
+evidence:
+  matches:
+    - "Your Derivative Work(s) must only make a partial use of the original Work, or if You choose to use
+       the original Work as a whole, You must either use the Work as an insubstantial portion of Your Derivative
+       Work(s) or transform it into something substantially different from the original Work"
+    - "In the case of a musical Work and/or audio recording, the mere synchronization ('synching') of the
+       Work with a moving image shall not be considered a transformation of the Work into something substantially
+       different"
+    - "You may distribute copies or phonorecords of, display publicly, perform publicly, and perform publicly
+       by means of a digital audio transmission, any Derivative Work(s) authorized under this License"
+    - "All advertising and promotional uses are excluded from the above rights, except for advertisement and promotion
+       of the Derivative Work(s) that You are creating from the Work and Yourself as the author thereof"
+  excludes:
+    - "You may not exercise any of the rights granted to You in this license in any manner that is primarily intended
+       for or directed toward commercial advantage or private monetary compensation. The exchange of the Work for
+       other copyrighted works by means of digital file-sharing or otherwise shall not be considered to be intended for
+       or directed toward commercial advantage or private monetary compensation, provided there is no payment of any
+       monetary compensation in connection with the exchange of copyrighted works"
+

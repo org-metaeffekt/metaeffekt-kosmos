@@ -1,0 +1,23 @@
+canonicalName: Open Software License 1.1
+category: OSL
+spdxIdentifier: OSL-1.1
+
+otherIds:
+  - "scancode:osl-1.1"
+
+alternativeNames:
+  - "OSL, Version 1.1"
+  - "OSL, 1.1"
+  - "OSL 1.1"
+  - "Open Software License v. 1.1"
+  - "Open Software License version 1.1"
+
+evidence:
+  matches:
+    - "Grant of Copyright License. Licensor hereby grants You a world-wide, royalty-free,
+       non-exclusive, perpetual, non-sublicenseable license to do the following"
+    - "Grant of Source Code License. The term \"Source Code\" means the preferred
+       form of the Original Work for making modifications to it and all available
+       documentation describing how to modify the Original Work"
+    - "Licensor hereby agrees to provide a machine-readable copy of the Source Code of the
+       Original Work along with each copy of the Original Work that Licensor distributes"

@@ -1,0 +1,37 @@
+canonicalName: Transitive Grace Period Public Licence 1.0
+category: Transitive Grace Period Public Licence
+spdxIdentifier: TGPPL-1.0
+
+otherIds:
+  - "scancode:tgppl-1.0"
+
+alternativeNames:
+  - "http://allmydata.org/source/tahoe/trunk/COPYING.TGPPL.html"
+  - "Transitive Grace Period Public Licence ('TGPPL') v. 1.0"
+  - "Transitive Grace Period Public Licence 1.0"
+
+evidence:
+  matches:
+    - "Grant of Patent License. Licensor grants You a worldwide,
+       royalty-free, non-exclusive, sublicensable license, under patent
+       claims owned or controlled by the Licensor that are embodied in
+       the Original Work as furnished by the Licensor, for the duration
+       of the patents, to make, use, sell, offer for sale, have made, and
+       import the Original Work and Derivative Works"
+    - "to distribute or communicate copies of the Original Work and
+       Derivative Works to the public, with the proviso that copies
+       of Original Work or Derivative Works that You distribute or
+       communicate shall be licensed under this Transitive Grace
+       Period Public Licence no later than 12 months after You
+       distributed or communicated said copies"
+    - "Grant of Source Code License. The term 'Source Code' means the
+       preferred form of the Original Work for making modifications to it
+       and all available documentation describing how to modify the
+       Original Work"
+    - "Licensor agrees to provide a machine-readable copy
+       of the Source Code of the Original Work along with each copy of
+       the Original Work that Licensor distributes"
+    - "Licensor reserves the right to satisfy this obligation by placing a
+       machine-readable copy of the Source Code in an information repository
+       reasonably calculated to permit inexpensive and convenient access by You
+       for as long as Licensor continues to distribute the Original Work"

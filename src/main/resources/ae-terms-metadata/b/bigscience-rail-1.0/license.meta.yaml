@@ -1,0 +1,22 @@
+canonicalName: BigScience RAIL License 1.0
+category: BigScience RAIL
+shortName: BigScience-RAIL-1.0
+
+otherIds:
+  - "scancode:bigscience-rail-1.0"
+
+references:
+  "Apache License":
+    matches:
+      - "Whereas the Apache 2.0 license was applicable to resources used to develop the Model, the licensing 
+         conditions have been modified for the access and distribution of the Model"
+
+evidence:
+  matches:
+    - "BigScience is a collaborative open innovation project aimed at the responsible development and use of large multilingual datasets and Large Language Models (“LLM”), as well as, the documentation of best practices and tools stemming from this collaborative effort. Further, BigScience participants wish to promote collaboration and sharing of research artifacts - including the Model - for the benefit of society, pursuant to this License"
+    - "BigScience believes in the intersection between open and responsible AI development, thus, this License aims to strike a balance between both in order to enable responsible open-science for large language models and future NLP techniques"
+    - "This License governs the use of the BigScience BLOOM models (and their derivatives) and is informed by both the BigScience Ethical Charter and the model cards associated with the BigScience BLOOM models"
+    - "Both copyright and patent grants apply to the Model, Derivatives of the Model and Complementary Material"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of the Model"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this paragraph) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Model and the Complementary Material, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Model to which such Contribution(s) was submitted"
+    - "Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any type of legal agreement (e.g. a license) governing the use and/or distribution of the Model or Derivatives of the Model, and You shall give notice to subsequent users You Distribute to, that the Model or Derivatives of the Model are subject to paragraph 5"

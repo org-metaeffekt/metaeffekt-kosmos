@@ -1,0 +1,44 @@
+canonicalName: Northwoods Software SLA 2021
+category: Northwoods Software SLA
+shortName: Northwoods-SLA-2021
+
+otherIds:
+  - "scancode:northwoods-sla-2021"
+
+alternativeNames:
+  - "Northwoods Software SLA 2021"
+  - "NORTHWOODS SOFTWARE CORPORATION"
+
+evidence:
+  matches:
+    - "Customer may only use the Licensed Product for evaluation purposes; and
+       the License Term shall commence on the License Effective Date and shall
+       continue thereafter for the Trial Period, subject to termination of the
+       License during the License Term as otherwise set forth in this Agreement"
+    - "The Licensed Software may include a duration limitation that tracks the License
+       Term and may disable the Licensed Software when the License Term expires"
+    - "If Customer purchases a Development and Distribution License for the Licensed
+       Product, Northwoods will provide Customer with a software code which, when activated,
+       will deactivate any such duration limitation"
+    - "the License Term shall commence on the License Effective Date and shall continue
+       thereafter for the period set forth in the License-Specific Terms, subject to
+       termination of the License during the License Term as otherwise set forth in this Agreement"
+    - "the aggregate number of Developers who may use the Licensed Software to develop Licensed
+       Applications is specified in the License-Specific Terms"
+    - "the aggregate number of Licensed Applications that such Developer(s) may develop is
+       specified in the License-Specific Terms"
+    - "the Licensed Application End Users may be Internal Users or External Users"
+    - "and the aggregate number of Licensed Application End Users who are authorized to use
+       each Licensed Application is not limited"
+    - "and for those Licensed Products that enable Licensed Applications to be accessed via the Internet,
+       the aggregate number of Licensed Domains from which Licensed Application End Users may access any
+       such Licensed Application is specified in the License-Specific Terms"
+    - "For the avoidance of doubt, upon the expiration or earlier termination of the License Term
+       (unless, and then only to the extent that, the License Term is renewed by Northwoods),
+       (A) no further Licensed Applications may be developed, and (B) with respect to any Licensed
+       Application that was developed prior to such expiration or termination, any Licensed Application
+       End User who was using such Licensed Application prior to such expiration or termination may continue
+       to use such Licensed Application after such expiration or termination, but no other Licensed Application
+       End Users or anyone else may use such Licensed Application"
+    - "The parties agree that, for purposes of this Agreement, all Licensed Products shall be delivered by
+       Northwoods to Customer in the State of New Hampshire"

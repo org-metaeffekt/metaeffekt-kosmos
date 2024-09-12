@@ -1,0 +1,26 @@
+canonicalName: Cloudera Express License
+category: Cloudera Express License
+shortName: Cloudera-Express
+
+otherIds:
+  - "scancode:cloudera-express"
+
+evidence:
+  matches:
+    - "This Agreement includes these Terms any exhibits attached to these Terms and any terms set forth on the Cloudera Site (as defined below)"
+    - "decompile, reverse engineer or reverse assemble any portion of the Product or attempt to discover any source code or underlying ideas or algorithms of the Product"
+    - "As between Cloudera and Customer and subject to the grants under this Agreement, Cloudera owns all right, title and interest in and to: (a) the Product (including, but not limited to, any modifications thereto)"
+    - "\"Confidential Information\" means all information disclosed (whether in oral, written, or other tangible or intangible form) by Cloudera to Customer concerning or related to this Agreement or Cloudera (whether before, on or after the Effective Date) which Customer knows or should know, given the facts and circumstances surrounding the disclosure of the information by Customer, is confidential information of Cloudera"
+
+references:
+  "Apache License":
+    matches:
+      - "In the event that Customer uses the functionality in the Product for the purposes of downloading and 
+         installing any Cloudera-provided public beta software, such beta software will be subject either to the 
+         Apache 2 license, or to the terms and conditions of the Public Beta License located here: 
+         (http://ccp.cloudera.com/display/SUPPORT/CLOUDERA+PUBLIC+BETA+AGREEMENT) as applicable"
+  "Public Domain":
+    matches:
+      - "Confidential Information will not include information that: (i) is in or enters the public domain without 
+         breach of this Agreement through no fault of Customer; (ii) Customer can reasonably demonstrate was in its 
+         possession prior to first receiving it from Cloudera"

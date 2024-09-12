@@ -1,0 +1,46 @@
+canonicalName: Common Public Attribution License 1.0
+category: CPAL
+spdxIdentifier: CPAL-1.0
+
+otherIds:
+  - "scancode:cpal-1.0"
+  - "osi:CPAL-1.0"
+
+alternativeNames:
+  - "Common Public Attribution License 1.0"
+  - "CPAL-1.0"
+  - "Common Public Attribution License Version 1.0"
+
+evidence:
+  matches:
+    - "As a modest attribution to the organizer of the development of the Original
+       Code (\"Original Developer\"), in the hope that its promotional value may help
+       justify the time, money and effort invested in writing the Original Code,
+       the Original Developer may include in Exhibit B"
+    - "The size of the graphic image should be consistent with the size of the other
+       elements of the Attribution Information"
+    - "If the access by the end user to the Executable and Source Code does not create
+       a graphic user interface for access to the Covered Code, this obligation shall not apply"
+    - "Display of Attribution Information is [required/not required] in Larger Works
+       which are defined in the CPAL as a work which combines Covered Code or portions
+       thereof with code not governed by the terms of the CPAL"
+    - "Socialtext, Inc. ('Socialtext') may publish revised and/or new versions of
+       the License from time to time"
+    - "Each version will be given a distinguishing version number"
+  excludes:
+    - "the license contains terms which differ from the Jaluna Public License"
+    - "as a form of attribution of the original author, include on each user interface
+       screen and on program start-up or login screen the 'Powered by Openbravo' logo,
+       visible to all users"
+    - "''Source Tree'' means the whole Source Code or parts of the Source Code which are contained
+       in a single directory or in a hierarchy of directories"
+    - "No one other than the AROS development team has the right"
+
+references:
+  "MPL":
+    matches:
+    - "The License is based on the Mozilla Public License Version 1.1 but Sections
+       14 and 15 have been added to cover use of software over a computer network
+       and provide for limited attribution for the Original Developer."
+
+

@@ -1,0 +1,22 @@
+canonicalName: HERE Disclaimer
+category: HERE Disclaimer
+shortName: HERE-Disclaimer
+
+otherIds:
+  - "scancode:here-disclaimer"
+
+alternativeNames:
+  - "HERE Disclaimer"
+
+evidence:
+  matches:
+    - "HERE does not warrant that the content is error free and HERE does
+       not warrant or make any representations regarding the quality, correctness,
+       accuracy, or reliability of the content"
+    - "You should therefore verify any information contained in the content before acting on it"
+    - "To the furthest extent permitted by law, under no circumstances, including without limitation
+       the negligence of HERE, shall HERE be liable for any damages, including, without
+       limitation, direct, special, indirect, punitive, consequential, exemplary and/
+       or incidental damages that result from the use or application of this content,
+       even if HERE or an authorized representative has been advised of the possibility
+       of such damages"

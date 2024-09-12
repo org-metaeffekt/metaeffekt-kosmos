@@ -1,0 +1,55 @@
+canonicalName: WTF Public License 2.0
+category: WTFPL
+shortName: WTFPL-2.0
+spdxIdentifier: WTFPL
+
+otherIds:
+  - "scancode:wtfpl-2.0"
+  - "osi:WTFPL-2.0"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+canonicalNameHistory:
+  - "WTF Public License"
+
+alternativeNames:
+  - "WTF Public License 2.0"
+  - "WTF Public License"
+  - "WTFPL"
+  - "WTFPL - Do What The Fuck You Want To Public License"
+  - "WTFPL v2"
+  - "WTFPL – Do What the Fuck You Want to Public License"
+  - "WTFPL, Version 2.0"
+  - "DO WHAT THE F#*@ YOU WANT TO PUBLIC LICENSE"
+  - "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE"
+  - "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE, Version 2"
+  - "DO WHAT YOU WANT TO PUBLIC LICENSE, Version 1"
+  - "DO WHAT YOU WANT TO PUBLIC LICENSE, Version 2.0"
+  - "Do What The Fuck You Want To Public License, Version 2"
+  - "Do What you Want"
+  - "http://www.wtfpl.net/about/"
+  - "WTFPL license"
+  - "http://sam.zoy.org/wtfpl/"
+  - "http://sam.zoy.org/wtfpl/COPYING"
+
+evidence:
+  matches:
+    - "Everyone is permitted to copy and distribute verbatim or modified
+       copies of this license document, and changing it is allowed as long
+       as the name is changed"
+    - "DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE TERMS AND CONDITIONS FOR COPYING,
+       DISTRIBUTION AND MODIFICATION"
+    - "You just DO WHAT THE FUCK YOU WANT TO"
+  excludes:
+    - "NOT MY FAULT"
+
+grants:
+  Source code delivery OR Binary delivery:
+    action: null
+    matches:
+      - "You just DO WHAT THE FUCK YOU WANT TO"
+    obligations:
+      Source code delivery OR Binary delivery:
+        matches:
+          - "You just DO WHAT THE FUCK YOU WANT TO"

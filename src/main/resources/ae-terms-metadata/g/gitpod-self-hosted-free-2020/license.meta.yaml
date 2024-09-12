@@ -1,0 +1,24 @@
+canonicalName: Gitpod Self-Hosted Free License Terms 2020
+category: Gitpod Self-Hosted Free License Terms
+shortName: gitpod-self-hosted-free-2020
+
+otherIds:
+  - "scancode:gitpod-self-hosted-free-2020"
+
+evidence:
+  matches:
+    - "These Software Licensing Terms (“Terms”) provide the terms and conditions
+       that govern usage of the Software Gitpod Self-Hosted Free Edition in source and
+       binary form (“Software”)"
+    - "You agree that Gitpod retains all right, title and
+       interest in and to all such modifications and patches (“Modifications”)"
+    - "Gitpod intends to collect certain statistical data on the use of the
+       Software on an anonymized basis in the future with a future version of the
+       Software"
+    - "Gitpod reserves the right to introduce deviating or additional Third-Party
+       License Terms in the course of modifications of the Software and in case of
+       updates for the Software to the extent necessary due to additional Third-Party
+       Components or due to changed Third-Party License Terms"
+    - "The copyright notices in the Software and this entire statement, including
+       the above license grant and these Terms must be included in all copies of the
+       Software (in whole or in part)"

@@ -1,0 +1,32 @@
+canonicalName: Oracle Technology Network License 2016 (August)
+category: OTN
+shortName: OTN-2016
+
+otherIds:
+  - "scancode:otn-dev-dist-2016"
+
+alternativeNames:
+  - "Oracle Technology Network License"
+
+canonicalNameHistory:
+  - "Oracle Technology Network License"
+evidence:
+  matches:
+    - "Oracle grants You a nonexclusive, nontransferable, limited license to, subject
+       to the restrictions stated in this Agreement"
+    - "internally use the Programs solely for the purposes of developing, testing,
+       prototyping and demonstrating Your applications, and running the Programs for
+       Your own internal business operations"
+    - "redistribute unmodified Programs and Programs Documentation pursuant to the Programs
+       Redistribution section below. You may allow Your Contractor(s) to use the Programs,
+       provided they are acting on Your behalf to exercise license rights granted in this
+       Agreement and further provided that You are responsible for their compliance with
+       this Agreement in such use"
+  excludes:
+    - "\"Audit; Termination (except that Oracle’s audit right shall not be included)"
+    - "Oracle grants You a nonexclusive, nontransferable, limited license to internally use
+       the Programs, subject to the restrictions stated in this Agreement, only for the purpose
+       of developing, testing, prototyping, and demonstrating Your application and only as long
+       as Your application has not been used for any data processing, business, commercial, or
+       production purposes, and not for any other purpose"
+    - "Oracle Cloud Infrastructure Use"

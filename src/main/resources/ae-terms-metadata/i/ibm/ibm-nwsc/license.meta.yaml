@@ -1,0 +1,23 @@
+canonicalName: IBM International License Agreement (non-warranted sample code)
+category: IBM International License Agreement
+shortName: IBM-NWSC
+
+otherIds:
+  - "scancode:ibm-nwsc"
+
+alternativeNames:
+  - "http://www.ibm.com/developerworks/data/zones/informix/library/techarticle/nair/0204nairlicense.html"
+  - "IBM International License Agreement Non-Warranted Sample Code"
+
+evidence:
+  matches:
+    - "The Sample Code is authored by International Business Machines Corporation or one of its subsidiaries (IBM)  or
+       an IBM supplier, and is copyrighted and licensed, not sold"
+    - "The term 'Sample Code' means a program, or portion of a program, being distributed in its source programming
+       language and all whole or  partial copies of it"
+    - "This Agreement includes Part 1 - General Terms and Part  2 - Country-unique Terms and is the complete agreement
+       regarding the use of this Sample Code, and replaces any prior oral or  written communications between you and IBM"
+    - "The terms of Part 2 may replace or modify those of Part 1"
+    - "IBM grants you a nonexclusive license to use, copy, or modify the Sample Code"
+    - "You may include the Sample Code in programs for your own use or for commercial sale"
+    - "You will ensure that anyone who uses the sample code does so only in compliance with the terms of this Agreement"

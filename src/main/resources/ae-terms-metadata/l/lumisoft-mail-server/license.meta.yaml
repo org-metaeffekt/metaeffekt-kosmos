@@ -1,0 +1,17 @@
+canonicalName: LumiSoft Mail Server License
+category: LumiSoft Mail Server License
+shortName: LumiSoft-Mail-Server
+
+otherIds:
+  - "scancode:lumisoft-mail-server"
+
+alternativeNames:
+  - "lumisoft-mail-server"
+
+evidence:
+  matches:
+    - "If you use/redistribute compiled binary, there are no restrictions"
+    - "You can use it in any project, commercial and no-commercial"
+    - "It's allowed to complile source code parts to your application,
+       but then you may not rename class names and namespaces"
+    - "Anything is possible, if special agreement between LumiSoft"

@@ -1,0 +1,26 @@
+canonicalName: WS-Policy Specification
+category: WS-Policy Specification
+shortName: WS-Policy-Specification
+
+status:
+  - "reviewed 01.07.22"
+
+requiresCopyright: true
+requiresLicenseText: false
+requiresNote: true
+noteChecklist:
+  - "Provide a link or URL to the WS-Policy Specification at one of the Authors' websites"
+otherIds:
+  - "scancode:ws-policy-specification"
+
+alternativeNames:
+  - "WS-Policy Specification"
+
+evidence:
+  matches:
+    - "Permission to copy and display the WS-Policy Specification (the 'Specification',
+       which includes WSDL and schema documents), in any medium without fee or royalty is
+       hereby granted, provided that you include the following on ALL copies of the WS-Policy
+       Specification, that you make"
+    - "A link or URL to the WS-Policy Specification at one of the Authors' websites"
+    - "The copyright notice as shown in the WS-Policy Specification"

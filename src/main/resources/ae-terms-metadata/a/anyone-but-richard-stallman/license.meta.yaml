@@ -1,0 +1,19 @@
+canonicalName: Anyone But Richard Stallman License
+category: Anyone But Richard Stallman License
+shortName: ABRMS
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:abrms"
+
+alternativeNames:
+  - "The 'Anyone But Richard M Stallman' license"
+
+evidence:
+  matches:
+    - "Do anything you want with this program, with the exceptions listed below under 'EXCEPTIONS'"
+    - "THIS SOFTWARE IS PROVIDED 'AS IS' WITH NO WARRANTY OF ANY KIND"
+    - "In the unlikely event that you happen to make a zillion bucks off of this, then good for you;
+       consider buying a homeless person a meal"

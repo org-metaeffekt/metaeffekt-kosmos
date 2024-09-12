@@ -1,0 +1,33 @@
+canonicalName: Autoconf Exception (GPL; variant 002)
+category: GPL Autoconf Exception
+spdxIdentifier: Autoconf-exception-3.0
+shortName: Autoconf-Exception-GPL-002
+
+otherIds:
+  - "scancode:autoconf-exception-3.0"
+
+type: exception
+
+canonicalNameHistory:
+  - "Autoconf Exception 3.0"
+
+combinedWith:
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Autoconf exception (GPL; variant 002))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 002))
+
+evidence:
+  matches:
+    - "This Exception is an additional permission under section 7 of the GNU General Public License, version 3 (\"GPLv3\")"
+    - "It applies to a given file that bears a notice placed by the copyright holder of the file stating that the file is
+       governed by GPLv3 along with this Exception"
+    - "You have permission to propagate output of Autoconf, even if such propagation would otherwise violate the terms
+       of GPLv3"
+    - "However, if by modifying Autoconf you cause any Ineligible Code of the version you received to become
+       Normally Copied Code of your modified version, then you void this Exception for the resulting covered work"
+    - "If you convey that resulting covered work, you must remove this Exception in accordance with the second paragraph
+       of Section 7 of GPLv3"
+
+references:
+  "GPL":
+    matches:
+      - "This Exception is an additional permission under section 7 of the GNU General Public License"

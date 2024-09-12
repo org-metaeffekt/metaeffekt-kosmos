@@ -1,0 +1,74 @@
+canonicalName: zlib License
+category: zlib
+spdxIdentifier: Zlib
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:zlib"
+  - "osi:Zlib"
+
+alternativeNames:
+  - "zlib licence"
+  - "http://www.opensource.org/licenses/zlib-license.php"
+  - "zlib/libpng license"
+  - "The zlib/libpng License"
+  - "For conditions of distribution and use, see copyright notice in zlib.h"
+  - "This program is based on zlib"
+  - "http://www.gzip.org/zlib/zlib_license.html"
+  - "Aladdin MD5 License"
+
+evidence:
+  matches:
+  - "This software is provided 'as-is', without any express or implied warranty"
+  - "In no event will the * be held liable for any damages arising from the use
+     of this software"
+  excludes:
+  - "Portions Copyright (c) 2002-2007 Charlie Poole or Copyright (c) 2002-2004
+     James W. Newkirk, Michael C. Two, Alexei A. Vorontsov or Copyright (c) 2000-2002
+     Philip A. Craig"
+  - "Source versions may not be relicensed under a different license without
+     my explicitly written permission"
+  - "he sources are provided for free but without warranty of any kind"
+  - "If you use the zlib library in a product, we would appreciate *not*
+     receiving lengthy legal documents to sign"
+  - "Provided that You comply with all applicable terms and
+     conditions of this License, You may make copies of This Product
+     (unmodified) and distribute copies of This Product (unmodified)
+     that are not included in another product forming Your Product
+     (except as permitted under Chapter III)"
+  - "including commercial applications, and to alter it and redistribute it
+      freely, in both source and binary form, subject to the following
+      restrictions"
+  - "Example: \"This product uses FASTBuild © 2012-2020 Franta Fulin.\""
+
+grants:
+  binary-distribution:
+    subject: binary
+    action: distribute
+    matches:
+    - "Permission is granted to anyone to use this software for any purpose, including commercial applications, and to
+       alter it and redistribute it freely"
+    obligations:
+      no-claim:
+        mandatory: true
+        description: "do not claim ownership"
+        matches:
+        - "The origin of this software must not be misrepresented; you must not claim that you wrote the original
+           software"
+  source-distribution:
+    matches:
+      - "Permission is granted to anyone to use this software for any purpose, including commercial applications, and to
+         alter it and redistribute it freely"
+    obligations:
+      attribution:
+        matches:
+        - "This notice may not be removed or altered from any source distribution"
+        - "Altered source versions must be plainly marked as such"
+        - "The origin of this software must not be misrepresented; you must not claim that you wrote the original
+           software"
+
+mappings:
+  "Permission is granted to anyone to use this software for any purpose including commercial applications , and to alter it and redistribute it freely":
+    "Permission is granted to anyone to use this software for any purpose , including commercial applications, and to alter it and redistribute it freely"

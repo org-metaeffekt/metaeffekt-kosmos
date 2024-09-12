@@ -1,0 +1,26 @@
+canonicalName: Jetty License
+category: Jetty License
+shortName: Jetty
+
+otherIds:
+  - "scancode:jetty"
+
+alternativeNames:
+  - "http://www.tinyos.net/tinyos-1.x/tools/java/jars/JETTY-LICENSE.txt"
+  - "http://en.wikipedia.org/wiki/Jetty_(web_server)"
+
+evidence:
+  matches:
+    - "It is the intent of this license to allow commercial usage of the Jetty package,
+       so long as the source code is distributed or suitable visible credit given or
+       other arrangements made with the copyright holders"
+    - "You may make and distribute verbatim copies of the source form of the
+       Standard Version of this Package without restriction, provided that you include
+       this license and all of the original copyright notices and associated
+       disclaimers"
+    - "You may make and distribute verbatim copies of the compiled form of the
+       Standard Version of this Package without restriction, provided that you include
+       this license"
+    - "You may apply bug fixes, portability fixes and other modifications derived
+       from the Public Domain or from the Copyright Holder. A Package modified in such
+       a way shall still be considered the Standard Version"

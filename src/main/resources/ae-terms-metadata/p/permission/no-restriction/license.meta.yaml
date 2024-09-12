@@ -1,0 +1,23 @@
+canonicalName: Permission Terms (no restriction)
+category: Permission
+shortName: PT-no-restriction
+spdxIdentifier: App-s2p
+
+otherIds:
+  - "scancode:app-s2p"
+
+alternativeNames:
+  - "Permission Terms (no restriction)"
+  - "App-s2p"
+  - "App::s2p License"
+  - "Permission Terms (App-S2p)"
+
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "This program is free and open software"
+    - "You may use, modify, distribute, and sell this program (and any modified variants) in any
+       way you wish"
+    - "provided you do not restrict others from doing the same"
+

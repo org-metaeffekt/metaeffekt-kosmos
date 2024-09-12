@@ -1,0 +1,38 @@
+canonicalName: Permission Terms (variant 028)
+category: Permission
+shortName: PT-Var028
+
+status:
+  - "reviewed 12.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:carnegie-mellon"
+
+displayName: "Permission Terms (no advertising; no representation; no warranty)"
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var028"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this program for any
+       purpose and without fee is hereby granted, provided that this copyright
+       and permission notice appear on all copies and supporting documentation,
+       the name *{.{0,100}}* not be used in advertising or publicity
+       pertaining to distribution of the program without specific prior
+       permission, and notice be given in supporting documentation that copying
+       and distribution is by permission of"
+    - "make*{.{0,1}}* no representations about the suitability of this software for any purpose"
+    - "It is provided \"as is\" without express or implied warranty"
+
+licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this program for any purpose and without fee 
+                  is hereby granted, provided that this copyright and permission notice appear on all copies and 
+                  supporting documentation, the name {{variablePermissionTerm}} not be used in advertising or publicity
+                  pertaining to distribution of the program without specific prior permission, and notice be given 
+                  in supporting documentation that copying and distribution is by permission of {{copyrightHolder}}.
+                  <p>{{copyrightHolderNoRepresentation}} makes no representations about the suitability of this software 
+                  for any purpose.</p> It is provided \"as is\" without express or implied warranty.</lq>"

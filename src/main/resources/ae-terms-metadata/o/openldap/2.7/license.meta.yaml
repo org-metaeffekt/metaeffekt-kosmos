@@ -1,0 +1,30 @@
+canonicalName: OpenLDAP Public License 2.7
+category: OLDAP
+spdxIdentifier: OLDAP-2.7
+
+otherIds:
+  - "scancode:openldap-2.7"
+
+alternativeNames:
+  - "OLDAP, Version 2.7"
+  - "OLDAP, 2.7"
+  - "OLDAP 2.7"
+  - "OLDAP License, Version 2.7"
+  - "OLDAP License, 2.7"
+  - "OLDAP License 2.7"
+  - "OpenLDAP Public License Version 2.7"
+  - "https://spdx.org/licenses/oldap-2.7"
+  - "THIS WORK IS SUBJECT TO VERSION 2.7 OF THE OPENLDAP PUBLIC LICENSE"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain copyright statements and notices"
+    - "The OpenLDAP Foundation may revise this license from time to time"
+  excludes:
+    - "Redistributions in source form must retain copyright statements and notices"
+    - "Products derived from this Software may not be called OpenLDAP nor may
+       OpenLDAP appear in their names without prior written permission of the OpenLDAP
+       Foundation"
+    - "The names and trademarks of the authors and copyright holders must not
+       be used in advertising or otherwise to promote the sale, use or other dealing
+       in this Software without specific, written prior permission"

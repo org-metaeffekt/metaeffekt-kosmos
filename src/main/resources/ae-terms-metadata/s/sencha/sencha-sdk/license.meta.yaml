@@ -1,0 +1,33 @@
+canonicalName: Sencha SDK License Agreement
+category: Sencha SDK
+shortName: Sencha-SDK
+
+otherIds:
+  - "scancode:sencha-commercial-3.9"
+
+alternativeNames:
+  - "Sencha SDK License Agreement"
+
+evidence:
+  matches:
+    - "RIGHTS GRANTED HEREIN APPLY ONLY TO SOFTWARE FOR WHICH YOU'VE PAID THE APPLICABLE FEE,
+       WHICH MAY INCLUDE THE FOLLOWING SENCHA SDKs"
+    - "BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING THE SOFTWARE, YOU ACCEPT THE
+       FOLLOWING TERMS AND CONDITIONS"
+    - "IF YOU DO NOT AGREE WITH ANY OF THE TERMS OR CONDITIONS OF THIS LICENSE AGREEMENT,
+       DO NOT PROCEED WITH THE DOWNLOADING, COPYING, INSTALLATION OR ANY OTHER USE OF THE
+       SOFTWARE OR ANY PORTION THEREOF AS YOU HAVE NO RIGHTS TO DO SO"
+    - "THE SOFTWARE IS PROTECTED BY UNITED STATES COPYRIGHT LAWS AND INTERNATIONAL COPYRIGHT
+       LAWS, AS WELL AS OTHER INTELLECTUAL PROPERTY LAWS AND TREATIES"
+    - "THE SOFTWARE IS LICENSED, NOT SOLD"
+    - "Subject to the payment of the fee required, and subject to Your compliance with all of the terms and conditions of this Agreement, We grant to You a revocable, non-exclusive, non-transferable and non-sublicensable license"
+  excludes:
+    - "Under this Commercial License, you are not allowed to create applications that can be described as a development toolkit or library, an application builder, a website builder or any application that is intended for use by software, application, or website developers or designers"
+
+references:
+  "GPL":
+    matches:
+      - "Alternate versions of the Sencha SDKs ('GPL Version') may be licensed under the terms of the GNU General 
+         Public License versions 3.0 ('GPL'). If You, or another third party, has, at any time, developed all or any 
+         portion of the Application(s) using a GPL Version, You may not combine such work with the Sencha SDKs licensed 
+         hereunder, and You must license such application(s) under the terms of the GNU General Public License version 3"

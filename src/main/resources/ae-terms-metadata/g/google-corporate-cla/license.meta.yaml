@@ -1,0 +1,20 @@
+canonicalName: Google Software Grant and Corporate Contributor License Agreement
+category: Google Software Grant and Corporate Contributor License Agreement
+shortName: Google-Corporate-CLA
+
+otherIds:
+  - "scancode:google-corporate-cla"
+
+alternativeNames:
+  - "Google Software Grant and Corporate Contributor License Agreement"
+
+evidence:
+  matches:
+    - "In order to clarify the intellectual property license granted with Contributions from any person or entity,
+       Google LLC ('Google') must have a Contributor License Agreement (CLA) on file that has been signed by each
+       Contributor, indicating agreement to the license terms below"
+    - "This license is for your protection as a Contributor as well as the protection of Google and its users; it
+       does not change your rights to use your own Contributions for any other purpose"
+    - "This version of the Agreement allows an entity (the 'Corporation') to submit Contributions to Google, to
+       authorize Contributions submitted by its designated employees to Google, and to grant copyright and patent
+       licenses thereto"

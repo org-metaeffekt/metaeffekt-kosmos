@@ -1,0 +1,20 @@
+canonicalName: Microsoft Software License (Windows Driver Kit)
+category: Microsoft Software
+shortName: MS-Windows-Driver-Kit
+
+otherIds:
+  - "scancode:ms-windows-driver-kit"
+
+canonicalNameHistory:
+  - "Microsoft Windows Driver Kit License"
+
+alternativeNames:
+  - "Microsoft Windows Driver Kit License"
+
+evidence:
+  matches:
+    - "You may copy and distribute the object code form of code listed in REDIST.TXT files"
+    - "You may modify, copy and distribute only in object code form the sample code found in the SRC directory of the Windows Driver Kit"
+    - "You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs"
+  excludes:
+    - "If you comply with these license terms, you have the perpetual rights below"

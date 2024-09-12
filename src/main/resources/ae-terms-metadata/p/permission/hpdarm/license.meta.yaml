@@ -1,0 +1,21 @@
+canonicalName: Permission Terms (hdparm)
+category: Permission
+shortName: PT-hdparm
+
+alternativeNames:
+  - "Permission Terms (hdparm)"
+
+canonicalNameHistory:
+  - "Permission Terms (hpdarm)"
+
+otherIds:
+  - "scancode:hdparm"
+
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "You may freely use, modify, and redistribute the hdparm program,
+       as either binary or source, or both"
+    - "The only condition is that my name and copyright notice
+       remain in the source code as-is"

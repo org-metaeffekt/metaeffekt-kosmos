@@ -1,0 +1,32 @@
+canonicalName: Linking Exception (INRIA QPL 1.0)
+category: QPL Linking Exception
+spdxIdentifier: QPL-1.0-INRIA-2004-exception
+shortName: Linking-Exception-QPL
+
+type: exception
+
+canonicalNameHistory:
+  - "INRIA Linking Exception"
+  - "INRIA QPL 1.0 2004 variant exception"
+  - "Linking Exception (QPL)"
+
+otherIds:
+  - "scancode:inria-linking-exception"
+
+alternativeNames:
+  - "QPL-1.0-INRIA-2004-exception"
+  - "INRIA QPL 1.0 2004 variant exception"
+  - "QPL-1.0-INRIA-2004-Exception"
+  - "inria-linking-exception"
+  - "INRIA Linking Exception"
+  - "Linking Exception (QPL)"
+  - "Linking-Exception-QPL"
+  - "QPL Linking Exception"
+
+evidence:
+  matches:
+    - "As a special exception to the Q Public Licence, you may develop
+       application programs, reusable components and other software items
+       that link with the original or modified versions of the Software
+       and are not made available to the general public, without any of the
+       additional requirements listed in clause 6c of the Q Public licence"

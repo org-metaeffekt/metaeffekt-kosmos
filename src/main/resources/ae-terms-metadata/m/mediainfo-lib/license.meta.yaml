@@ -1,0 +1,21 @@
+canonicalName: MediaInfo(Lib) License
+category: MediaInfo(Lib) License
+shortName: MediaInfo-LIB
+
+otherIds:
+  - "scancode:mediainfo-lib"
+
+alternativeNames:
+  - "http://mediainfo.sourceforge.net/en"
+  - "MediaInfo(Lib) License"
+  - "MediaInfo(Lib) License Version 1.1"
+
+references:
+  "LGPL":
+    matches:
+      - "are permitted provided that the GNU Lesser General Public License as published by the Free Software Foundation"
+
+evidence:
+  matches:
+    - "this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Dynamic or static linking to this software are not deemed a modification"

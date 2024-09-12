@@ -1,0 +1,21 @@
+canonicalName: FSF Unlimited License (with retention)
+category: FSF Unlimited
+spdxIdentifier: FSFULLR
+
+otherIds:
+  - "scancode:fsf-unlimited"
+
+combinedWith:
+  "No Warranty Marker": "FSF Unlimited License (with retention; no warranty)"
+
+alternativeNames:
+  - "This file is free software; the Free Software Foundation gives unlimited permission
+     to copy and/or distribute it"
+
+evidence:
+  matches:
+    - "This file is free software; the Free Software Foundation gives unlimited permission to copy and/or distribute
+       it, with or without modifications, as long as this notice is preserved"
+  excludes:
+    - "This program is distributed in the hope that it will be useful, but
+       WITHOUT ANY WARRANTY, to the extent permitted by law"

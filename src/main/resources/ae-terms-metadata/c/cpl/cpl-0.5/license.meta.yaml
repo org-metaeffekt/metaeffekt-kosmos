@@ -1,0 +1,60 @@
+canonicalName: Common Public License 0.5
+category: CPL
+shortName: CPL-0.5
+
+otherIds:
+  - "scancode:cpl-0.5"
+
+alternativeNames:
+  - "Common Public License Version 0.5"
+
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: true
+
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, each Contributor hereby grants
+           Recipient a non-exclusive, worldwide, royalty-free copyright license to
+           reproduce, prepare derivative works of, publicly display, publicly perform,
+           distribute and sublicense the Contribution of such Contributor, if any, and
+           such derivative works, in source code and object code form"
+    - "Subject to the terms of this Agreement, each Contributor hereby grants
+           Recipient a non-exclusive, worldwide, royalty-free patent license under
+           Licensed Patents to make, use, sell, offer to sell, import and otherwise
+           transfer the Contribution of such Contributor, if any, in source code and
+           object code form"
+    - "This patent license shall apply to the combination of the
+           Contribution and the Program if, at the time the Contribution is added by
+           the Contributor, such addition of the Contribution causes such combination
+           to be covered by the Licensed Patents"
+    - "The patent license shall not apply to
+           any other combinations which include the Contribution"
+    - "Recipient understands that although each Contributor grants the licenses
+           to its Contributions set forth herein, no assurances are provided by any
+           Contributor that the Program does not infringe the patent or other
+           intellectual property rights of any other entity"
+    - "states that source code for the Program is available from such
+           Contributor, and informs licensees how to obtain it in a reasonable manner
+           on or through a medium customarily used for software exchange"
+    - "In
+       addition, If Recipient institutes patent litigation against any entity
+       (including a cross-claim or counterclaim in a lawsuit) alleging that the Program
+       itself (excluding combinations of the Program with other software or hardware)
+       infringes such Recipient's patent(s), then such Recipient's rights granted under
+       Section 2(b) shall terminate as of the date such litigation is filed"
+
+  excludes:
+    - "Common Public License Version 1.0 (CPL)"
+    - "Eclipse Public License - v 1.0"
+    - "IBM PUBLIC LICENSE VERSION 1.0"
+
+licenseTemplate:
+  - "<lq><codeph>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY
+     CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+     SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST
+     PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+     STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+     OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS
+     GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES</codeph></lq>"

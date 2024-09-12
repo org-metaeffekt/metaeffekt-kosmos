@@ -1,0 +1,17 @@
+canonicalName: diffmark License
+category: diffmark
+spdxIdentifier: diffmark
+
+otherIds:
+  - "scancode:diffmark"
+
+alternativeNames:
+  - "diffmark License"
+  - "diffmark license"
+  - "DIFFMARK LICENSE"
+  - "DIFFMARK License"
+
+evidence:
+  matches:
+  - "you can do what you want with it"
+  - "I refuse any responsibility for the consequences"

@@ -1,0 +1,23 @@
+canonicalName: SoftFloat Legal Notice 2c
+category: SoftFloat Legal Notice
+shortName: softfloat-2c
+
+otherIds:
+  - "scancode:softfloat-2c"
+
+classification: permissive
+
+alternativeNames:
+  - "SoftFloat Legal Notice 2c"
+
+evidence:
+  matches:
+    - "Release 2c of SoftFloat was made possible in part by the International
+       Computer Science Institute"
+    - "distribution of SoftFloat in whole or in part, as long as this and
+       other legal notices remain and are prominent, and provided also that, for a
+       partial distribution, prominent notice is given that it is a subset of the
+       original; and"
+    - "inclusion or use of SoftFloat in whole or in part in a derivative
+       work, provided that the use restrictions above are met and the minimal
+       documentation requirements stated in the source code are satisfied"

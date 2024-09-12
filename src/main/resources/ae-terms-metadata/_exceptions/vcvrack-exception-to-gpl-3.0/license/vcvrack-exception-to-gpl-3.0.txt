@@ -1,0 +1,7 @@
+VCV Rack Non-Commercial Plugin License Exception
+
+A Plugin is defined as a software library intended to be linked and executed by this software.
+
+You are granted the permission to use this software's Application Programming Interface (API) in your Plugin in source and binary forms, as well as link to this software with the Plugin, regardless of the Plugin's license terms even if it would otherwise violate the terms of this software's GPLv3, provided that the Plugin is distributed free of charge.
+
+Derived works of this software may keep or omit this Exception.

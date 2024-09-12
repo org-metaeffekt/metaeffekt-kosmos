@@ -1,0 +1,16 @@
+canonicalName: Checkmk License
+category: Checkmk
+spdxIdentifier: checkmk
+
+otherIds:
+  - "scancode:checkmk"
+
+alternativeNames:
+  - "Checkmk License"
+  - "Micah Cowan"
+
+evidence:
+  matches:
+    - "Redistribution of this program in any form, with or without modifications, is permitted, provided that the above 
+       copyright is retained in distributions of this program in source form"
+

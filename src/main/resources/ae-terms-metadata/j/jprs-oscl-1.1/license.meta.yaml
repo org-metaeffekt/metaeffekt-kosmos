@@ -1,0 +1,22 @@
+canonicalName: Japan Registry Services Open Source Code License 1.1
+category: JPRS Open Source
+shortName: JPRS-Open-Source-1.1
+
+otherIds:
+  - "scancode:jprs-oscl-1.1"
+
+alternativeNames:
+  - "Japan Registry Services Open Source Code License v1.1"
+  - "JPRS Open Source Code License 1.1"
+  - "JPRS Open Source Code License v1.1"
+
+evidence:
+  matches:
+    - "JPRS hereby grants you a worldwide, royalty-free, non-exclusive license, subject to third party intellectual property claims"
+    - "under intellectual property rights (other than patent or trademark) licensable by JPRS to use, reproduce, modify, display, perform, sublicense and distribute the Code (or portions thereof) with or without modifications, and/or as part of a derivative work"
+    - "you must include a copy of this OSCL and the notice set forth in EXHIBIT A with every copy of the Code you distribute"
+    - "you may not offer or impose any terms on any source code version that alters or restricts the applicable version of this OSCL or the recipients' rights hereunder"
+    - "All trademarks, service marks, patents, copyrights, trade secrets, and other proprietary rights in or related to the Code are and will remain the exclusive property of JPRS or its licensors, whether or not specifically recognized or perfected under local law except specified in this OSCL"
+    - "JPRS MAKES NO REPRESENTATIONS AND WARRANTIES REGARDING THE USE OF THE CODE, NOR DOES JPRS MAKE ANY REPRESENTATIONS THAT THE CODE WILL BECOME COMMERCIALLY AVAILABLE"
+    - "JPRS, ITS AFFILIATES, AND ITS SUPPLIERS DO NOT WARRANT OR REPRESENT THAT THE CODE IS FREE OF ERRORS OR THAT THE CODE IS SUITABLE FOR TRANSLATION AND/OR LOCALIZATION"
+    - "You hereby agree to indemnify, defend, and hold harmless JPRS for any liability incurred by JRPS due to your terms of warranty, support, indemnity, or liability offered by you to any third party"

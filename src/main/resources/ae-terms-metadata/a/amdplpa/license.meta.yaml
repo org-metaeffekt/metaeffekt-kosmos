@@ -1,0 +1,19 @@
+canonicalName: AMDPLPA License
+category: AMDPLPA
+spdxIdentifier: AMDPLPA
+
+otherIds:
+  - "scancode:amdplpa"
+
+alternativeNames:
+  - "AMDPLPA License"
+  - "AMDPLPA LICENSE"
+
+evidence:
+  matches:
+    - "ANY BREACH OF ANY TERM OF THIS LICENSE SHALL RESULT IN THE IMMEDIATE REVOCATION
+       OF ALL RIGHTS TO REDISTRIBUTE, ACCESS OR USE THIS MATERIAL"
+    - "THIS MATERIAL IS PROVIDED BY ADVANCED MICRO DEVICES, INC"
+    - "This license forms the entire agreement regarding the subject matter hereof
+       and supersedes all proposals and prior discussions and writings between the
+       parties with respect thereto"

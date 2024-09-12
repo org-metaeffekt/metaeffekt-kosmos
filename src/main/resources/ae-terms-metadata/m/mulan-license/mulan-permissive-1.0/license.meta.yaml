@@ -1,0 +1,27 @@
+canonicalName: Mulan Permissive Software License 1.0
+category: Mulan Permissive
+spdxIdentifier: MulanPSL-1.0
+
+
+otherIds:
+  - "scancode:mulanpsl-1.0"
+
+canonicalNameHistory:
+  - "Mulan Permissive Software License 1"
+
+alternativeNames:
+  - "木兰宽松许可证, 第1版 木兰宽松许可证， 第1版"
+
+expressiveEvidence: true
+
+evidence:
+  matches:
+    - "Fill in the blanks in following statement, including insert your software
+       name, the year of the first publication of your software, and your name identified
+       as the copyright owner"
+    - "Create a file named 'LICENSE' which contains the whole context of this
+       License in the first directory of your software package"
+    - "Attach the statement to the appropriate annotated syntax at the beginning
+       of each source file"
+    - "use this software according to the terms and conditions of the Mulan PSL v1"
+    - "授予版权许可"

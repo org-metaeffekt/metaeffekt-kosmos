@@ -1,0 +1,26 @@
+canonicalName: Hacking License
+category: Hacking License
+shortName: Hacking-License
+
+otherIds:
+  - "scancode:hacking-license"
+
+evidence:
+  matches:
+    - "Permission to do with the Hack everything that would otherwise
+          infringe the copyright, database rights, mask works' rights,
+          design rights or other copyright-like rights of the Hackers"
+    - "The Hacking License does not grant you any rights in the names, trade
+       names, trademarks, service marks, or logos of the Hackers and of the
+       Hack, except as required for reasonable and customary use in
+       describing the origin of the Hack and reproducing the content
+       of the copyright notice"
+    - "You must not use any of the rights, title, interests, licenses and
+          permissions provided by this Hacking License in contrast with the Purpose
+          of the Hacking License, nor to otherwise prevent, hinder or inhibit the
+          fruition of the rights, title, interests, licenses and permissions granted
+          by the Hacking License to any third party"
+    - "You must apply the Hacking License to every translation, sequel,
+          adaptation and every other kind of dependent or derivative work
+          based on the Hack that you create, and you yourself must comply
+          with its rules"

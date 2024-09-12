@@ -1,0 +1,33 @@
+canonicalName: Open Software License 2.1
+category: OSL
+spdxIdentifier: OSL-2.1
+
+otherIds:
+  - "scancode:osl-2.1"
+
+alternativeNames:
+ - "Open Software License 2.1"
+ - "OSL-2.1"
+ - "OSL 2.1"
+ - "Open Software Licensev. 2.1"
+ - "Open Software License v.2.1"
+
+evidence:
+  matches:
+    - "This License shall terminate automatically
+       and You may no longer exercise any of the rights granted to You by this License
+       as of the date You commence an action, including a cross-claim or counterclaim,
+       against Licensor or any licensee alleging that the Original Work infringes
+       a patent"
+    - "This License represents the complete agreement concerning
+       the subject matter hereof"
+    - "This License shall terminate immediately and you may no longer exercise any of
+       the rights granted to You by this License upon Your failure to honor the proviso
+       in Section 1(c) herein"
+    - "Termination for Patent Action. This License shall terminate automatically
+       and You may no longer exercise any of the rights granted to You by this License
+       as of the date You commence an action, including a cross-claim or counterclaim,
+       against Licensor or any licensee alleging that the Original Work infringes
+       a patent. This termination provision shall not apply for an action alleging
+       patent infringement by combinations of the Original Work with other software
+       or hardware"

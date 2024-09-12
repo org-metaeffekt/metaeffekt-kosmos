@@ -1,0 +1,22 @@
+canonicalName: AutoOpts Exception (GPL)
+category: GPL AutoOpts Exception
+shortName: AutoOpts-Exception-GPL
+
+type: exception
+
+canonicalNameHistory:
+  - "AutoOpts Exception GPL 2.0"
+
+otherIds:
+  - "scancode:autoopts-exception-2.0"
+
+alternativeNames:
+  - "autoopts-exception-2.0"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with AutoOpts exception (GPL))"
+
+evidence:
+  matches:
+    - "As a special exception, Bruce Korb gives permission for additional
+       uses of the text contained in his release of AutoOpts"

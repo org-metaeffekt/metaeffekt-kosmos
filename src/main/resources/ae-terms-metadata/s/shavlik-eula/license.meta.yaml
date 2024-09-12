@@ -1,0 +1,26 @@
+canonicalName: Shavlik Technologies EULA
+category: Shavlik Technologies
+shortName: Shavlik-EULA
+
+otherIds:
+  - "scancode:shavlik-eula"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, Shavlik Technologies, LLC (\"Shavlik\") grants to
+       the individual or entity installing this product (\"Licensee\"), a non-exclusive, non-transferable license to
+       use the software, together with any updates and data components provided to Licensee under a current
+       Software Support Services Agreement, and any accompanying documentation provided by Shavlik
+       (collectively, the \"Product\"), solely for Licensee’s internal business purposes and only in as many copies
+       and/or for the number of virtual or physical workstations, PCs, servers, and/or other devices scanned,
+       remediated, or reported on using the Software (\"Seats\") as authorized by Shavlik as part of Licensee’s purchase"
+    - "reverse engineer, translate, disassemble, decompile, sell, rent, lease, manufacture, adapt, create derivative
+       works from, or otherwise modify or distribute the Product or any part thereof"
+    - "copy, in whole or in part, the Product with the exception of one copy of the Product for backup or archival purposes"
+
+references:
+  "GPL":
+    matches:
+      - "The Product includes or may include some software programs that are licensed (or sublicensed) to the
+         user under the GNU General Public License (GPL) or other similar software licenses (\"Free Software
+          Licenses\") which"

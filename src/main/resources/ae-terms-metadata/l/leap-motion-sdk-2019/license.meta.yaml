@@ -1,0 +1,21 @@
+canonicalName: Leap Motion SDK Agreement 2019
+category: Leap Motion
+shortName: Leap-Motion-SDK-2019
+
+otherIds:
+  - "scancode:leap-motion-sdk-2019"
+
+evidence:
+  matches:
+    - "To help avoid uncertainty about our licensing terms, please note we have a two-tier license structure for distribution of applications or technology developed with or that use our SDK"
+    - "Applications that are “Specialized Applications” may only be distributed under a separate license from us"
+    - "Also, please note that our SDK is for use only with Leap Motion hardware and software, and you may not use the SDK to develop or evaluate competing hand tracking technology"
+    - "This Leap Motion SDK Agreement (“Agreement”) is between the individual or entity (“you” or “Developer”) that accepts it, and Ultraleap Ltd"
+    - "Conditioned upon compliance with the terms and conditions of this Agreement, Leap Motion hereby grants you a limited, non-exclusive, personal, revocable, non-sublicensable and non-transferable license to"
+    - "Conditioned upon compliance with the terms and conditions of this Agreement, Leap Motion hereby grants you a limited, non-exclusive, personal, revocable, non-transferable license under Leap Motion’s applicable intellectual property rights to the extent necessary to"
+    - "IN NO EVENT WILL LEAP MOTION'S LIABILITY, OR THOSE OF ITS SUPPLIERS, ARISING OUT OF OR RELATED TO THIS AGREEMENT OR TO THE SDK EXCEED ONE THOUSAND DOLLARS"
+
+references:
+  "Apache License":
+    matches:
+      - "Example code made publicly available by Leap Motion on its developer web site is provided subject to the Apache 2.0 license, unless otherwise noted in the license, notice or readme files distributed with the example or in related documentation. The SDK may otherwise include software or other materials that are provided under a separate license agreement, and that separate license will govern the use of such software or other materials in the event of a conflict with this Agreement"

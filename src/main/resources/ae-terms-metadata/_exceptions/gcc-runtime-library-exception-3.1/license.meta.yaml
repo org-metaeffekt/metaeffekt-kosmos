@@ -1,0 +1,39 @@
+canonicalName: GCC Runtime Library Exception 3.1
+category: GCC Runtime Library Exception
+spdxIdentifier: GCC-exception-3.1
+shortName: GCC-Runtime-Library-Exception-3.1
+
+otherIds:
+  - "scancode:gcc-exception-3.1"
+
+type: exception
+
+combinedWith:
+  "GNU Free Documentation License 1.2": GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with GCC Runtime Library exception 3.1)
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with GCC Runtime Library exception 3.1)
+
+evidence:
+  matches:
+    - "When you use GCC to compile a program, GCC may combine portions of
+       certain GCC header files and runtime libraries with the compiled program"
+    - "The purpose of this Exception is to allow compilation of non-GPL * programs to use,
+       in this way, the header files and runtime libraries covered by this Exception"
+    - "The \"Compilation Process\" transforms code entirely represented in
+        non-intermediate languages designed for human-written code, and/or in
+        Java Virtual Machine byte code, into Target Code"
+
+references:
+  "GPL":
+    matches:
+      - "This GCC Runtime Library Exception (\"Exception\") is an additional
+         permission under section 7 of the GNU General Public License, version 3 (\"GPLv3\")"
+      - "It applies to a given file (the \"Runtime Library\") that
+         bears a notice placed by the copyright holder of the file stating that
+         the file is governed by GPLv3 along with this Exception"
+      - "allow compilation of non-GPL"
+      - "governed by version 3 (or a specified later version) of
+         the GNU General Public License (GPL) with the option of using any
+         subsequent versions published by the FSF"
+      - "\"GPL-compatible Software\" is software whose conditions of propagation"
+      - "even if such propagation would otherwise violate the terms of GPLv3"

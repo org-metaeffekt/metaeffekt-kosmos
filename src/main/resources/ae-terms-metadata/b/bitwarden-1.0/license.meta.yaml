@@ -1,0 +1,24 @@
+canonicalName: Bitwarden License 1.0
+category: Bitwarden
+shortName: Bitwarden-1.0
+
+otherIds:
+  - "scancode:bitwarden-1.0"
+
+alternativeNames:
+  - "BITWARDEN LICENSE AGREEMENT Version 1"
+
+evidence:
+  matches:
+    - "Subject to Your compliance with this Agreement,
+       Bitwarden hereby grants to You a limited, non-exclusive, non-transferable,
+       royalty-free license to use the Commercial Modules for the sole purposes of
+       internal development and internal testing, and only in a non-production
+       environment"
+    - "As between Bitwarden and You, Bitwarden owns all
+       right, title and interest in and to the Bitwarden Software, and except as
+       expressly set forth in Sections 2.1, no other license to the Bitwarden Software
+       is granted to You under this Agreement, by implication, estoppel, or otherwise"
+    - "You agree not to: (i) except as expressly permitted in
+       Section 2.1, sell, rent, lease, distribute, sublicense, loan or otherwise
+       transfer the Commercial Modules to any third party"

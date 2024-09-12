@@ -1,0 +1,42 @@
+canonicalName: Permission Terms (variant 041)
+category: Permission
+shortName: PT-Var041
+
+otherIds:
+  - "scancode:x11-doc"
+
+status:
+  - "reviewed 12.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+representedAs: Permission Terms
+
+displayName: "Permission Terms (no representation; no warranty)"
+
+canonicalNameHistory:
+  - "Permission Terms Var041"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, distribute, and sell this documentation
+       for any purpose and without fee is hereby granted, provided that the above
+       copyright notice and this permission notice appear in all copies"
+    - "make*{.{0,1}}* no representations about the suitability for any purpose of the information in this document"
+    - "It is provided \"as-is\" without express or implied warranty"
+  excludes:
+    - "Except as contained in this notice the name of the X Consortium shall not be used in advertising or otherwise to promote the sale use or other dealings in this Software without prior written authorization"
+    - "Permission to use, copy, modify, distribute* and sell this software
+       and its documentation for any purpose is hereby granted without fee,
+       provided that the above copyright notice appear in all copies and
+       that both that copyright notice and this permission notice appear
+       in supporting documentation, and that the name* not be used in advertising or publicity
+       pertaining to distribution of the software without specific, written
+       prior permission"
+    
+licenseTemplate: "<lq>Permission to use, copy, modify, distribute, and sell this documentation for any purpose and 
+                  without fee is hereby granted, provided that the above copyright notice and this permission notice 
+                  appear in all copies. <p>{{copyrightHolderNoRepresentation}} makes no representations about the 
+                  suitability for any purpose of the information in this document.</p> It is provided \"as-is\" without 
+                  express or implied warranty.</lq>"

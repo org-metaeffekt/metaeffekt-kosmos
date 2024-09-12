@@ -1,0 +1,21 @@
+canonicalName: NVIDIA Video Codec SDK License
+category: NVIDIA Video Codec SDK Agreement
+shortName: NVIDIA-Video-Codec-Agreement
+
+otherIds:
+  - "scancode:nvidia-video-codec-agreement"
+
+canonicalNameHistory:
+  - "NVIDIA Video Codec SDK Agreement"
+
+alternativeNames:
+  - "NVIDIA Video Codec SDK Agreement"
+
+evidence:
+  matches:
+    - "Licensee shall, at its own expense fully indemnify, hold harmless, defend and/or settle any claim,
+       suit or proceeding that is asserted by a third party against NVIDIA and its officers, employees or
+       agents, to the extent such claim, suit or proceeding arising from or related to Licensee’s failure to
+       fully satisfy and/or comply with the third party licensing obligations related to the Third Party Technology (a “Claim”)"
+    - "This Agreement shall become effective from the date of the initial download and shall remain in
+       effect for one year thereafter, unless terminated as provided below"

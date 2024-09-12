@@ -1,0 +1,35 @@
+canonicalName: Public Documentation License 1.0
+category: Public Documentation License
+shortName: PDL-1.0
+
+otherIds:
+  - "scancode:pdl-1.0"
+
+alternativeNames:
+  - "pdl-1.0"
+  - "PUBLIC DOCUMENTATION LICENSE Version 1.0"
+
+evidence:
+  matches:
+    - "The Initial Writer hereby grants You a world-wide, royalty-free, non-
+       exclusive license to use, reproduce, prepare Modifications of, compile,
+       publicly perform, publicly display, demonstrate, market, disclose and
+       distribute the Documentation in any form, on any media or via any
+       Electronic Distribution Mechanism or other method now known or later
+       discovered, and to sublicense the foregoing rights to third parties
+       through multiple tiers of sublicensees in accordance with the terms of
+       this License"
+    - "The license rights granted in this Section 2.1 ('Initial Writer Grant')
+       are effective on the date Initial Writer first distributes Original
+       Documentation under the terms of this License"
+    - "Each Contributor hereby grants You a world-wide, royalty-free, non-
+       exclusive license to use, reproduce, prepare Modifications of, compile,
+       publicly perform, publicly display, demonstrate, market, disclose and
+       distribute the Documentation in any form, on any media or via any
+       Electronic Distribution Mechanism or other method now known or later
+       discovered, and to sublicense the foregoing rights to third parties
+       through multiple tiers of sublicensees in accordance with the terms of
+       this License"
+    - "The license rights granted in this Section 2.2 ('Contributor Grant') are
+       effective on the date Contributor first makes Commercial Use of the
+       Documentation"

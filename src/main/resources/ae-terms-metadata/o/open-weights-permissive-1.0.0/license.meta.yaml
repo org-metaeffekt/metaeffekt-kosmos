@@ -1,0 +1,29 @@
+canonicalName: Open Weights Permissive License 1.0.0
+category: Open Weights Permissive
+shortName: open-weights-permissive-1.0.0
+
+otherIds:
+  - "scancode:open-weights-permissive-1.0.0"
+
+classification: permissive
+
+canonicalNameHistory:
+  - "Open Weights Permissive License Version 1.0.0"
+
+alternativeNames:
+  - "Open Weights Permissive License Version 1.0.0"
+  - "Open Weights Permissive License 1.0.0"
+
+evidence:
+  matches:
+    - "This license covers any AI-specific elements, such as neural networks or any other type of machine
+       learning model, deep learning model, artificial intelligence model, software, data, or other material
+       that is designated as being available under this license"
+    - "The licensor grants you the rights to do everything with the licensed elements that would otherwise infringe
+       that contributor’s intellectual property rights, including without limitation copyright, patent rights, and
+       trade secret rights"
+    - "However, this license grants you no trademark or publicity rights"
+    - "If you modify the licensed elements and provide them to others, you may apply terms of your choice; however,
+       if you provide any of the licensed elements to others in a manner that requires the license granted above,
+       you must inform the recipient that the elements are available under this license, either by providing a copy
+       of this license, or a reference to [URL TBD]"

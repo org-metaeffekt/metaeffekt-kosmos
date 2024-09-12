@@ -1,0 +1,17 @@
+canonicalName: Microsoft Edge Developer Tools 2022 License
+category: Microsoft Edge Developer Tools
+shortName: Ms-Edge-Devtools-2022
+
+otherIds:
+  - "scancode:ms-edge-devtools-2022"
+
+alternativeNames:
+  - "Microsoft Edge Developer Tools"
+
+evidence:
+  matches:
+    - "You must comply with all domestic and international export laws and regulations that apply to the software, which include restrictions on destinations, end users, and end use. For further information on export restrictions, visit the Exporting Microsoft Products site"
+    - "If you acquired the software in the United States or Canada, the laws of the state or province where you live (or, if a business, where your principal place of business is located) govern the interpretation of this agreement, claims for its breach, and all other claims (including consumer protection, unfair competition, and tort claims), regardless of conflict of laws principles"
+    - "You have statutory guarantees under the Australian Consumer Law and nothing in this agreement is intended to affect those rights"
+    - "Microsoft is not obligated under this agreement to provide any support services for the software"
+    - "share, publish, distribute, or lend the software, provide the software as a stand-alone hosted solution for others to use, or transfer the software or this agreement to any third-party"

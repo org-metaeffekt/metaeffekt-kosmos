@@ -1,0 +1,23 @@
+canonicalName: JPNIC mdnkit License
+category: JPNIC mdnkit License
+shortName: JPNIC-mdnkit
+
+otherIds:
+  - "scancode:jpnic-mdnkit"
+
+evidence:
+  matches:
+    - "Neither the name of JPNIC may be used to endorse or promote products derived
+       from this Software without specific prior written approval of JPNIC"
+    - "Any person or entities using and/or redistributing this Software under
+       this License Terms and Conditions shall defend indemnify and hold
+       harmless JPNIC from and against any and all judgements damages,
+       expenses, settlement liabilities, cost and other liabilities of any
+       kind as a result of use and redistribution of this Software or any
+       claim, suite, action, litigation or proceeding by any third party
+       arising out of or relates to this License Terms and Conditions"
+    - "This License Terms and Conditions shall be governed by and and
+       construed in accordance with the law of Japan"
+    - "Any person or entities using and/or redistributing this Software under this
+       License Terms and Conditions hereby agrees and consent to the personal and exclusive
+       jurisdiction and venue of Tokyo District Court of Japan"

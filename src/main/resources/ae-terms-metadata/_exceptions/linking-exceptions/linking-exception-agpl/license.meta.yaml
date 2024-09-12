@@ -1,0 +1,36 @@
+canonicalName: Linking Exception (AGPL)
+category: AGPL Linking Exception
+spdxIdentifier: romic-exception
+shortName: Linking-Exception-AGPL
+
+type: exception
+
+canonicalNameHistory:
+  - "AGPL 3.0 Linking Exception"
+  - "Romic Exception"
+
+alternativeNames:
+  - "romic-exception"
+  - "Romic Exception"
+  - "Linking Exception (AGPL)"
+
+otherIds:
+  - "scancode:linking-exception-agpl-3.0"
+
+evidence:
+  matches:
+  - "If you modify this Program, or any covered work, by linking or
+     combining it with other code, such other code is not for that reason
+     alone subject to any of the requirements of the GNU Affero GPL
+     version 3"
+
+references:
+  "AGPL":
+    matches:
+      - "If you modify this Program, or any covered work, by linking or
+         combining it with other code, such other code is not for that reason
+         alone subject to any of the requirements of the GNU Affero GPL
+         version 3"
+  "GPL":
+    matches:
+      - "Additional permission under the GNU Affero GPL version 3 section 7"

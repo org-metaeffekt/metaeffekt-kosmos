@@ -1,0 +1,19 @@
+canonicalName: Quirksmode Copyright Notice
+category: Quirksmode Copyright Notice
+shortName: Quirksmode
+
+otherIds:
+  - "scancode:quirksmode"
+
+alternativeNames:
+  - "http://www.quirksmode.org/about/copyright.html"
+
+evidence:
+  matches:
+    - "You may copy, tweak, rewrite, sell or lease any code example on this site, with one single exception"
+    - "You may translate any page you like to any language you like, provided
+       •	the translation will be available online free of charge
+       •	you prominently display a link to the original at the top of your translation
+       •	you send me the URL when the translation is ready. I will link to your translation from my original page"
+    - "This copyright notice itself does not have a copyright notice; feel free to copy it if you like it"
+    - "You may not copy complete pages or this entire site and put them online on a publicly accessible web space"

@@ -1,0 +1,34 @@
+canonicalName: FPLOT License
+category: FPLOT License
+shortName: FPLOT
+
+otherIds:
+  - "scancode:fplot"
+
+alternativeNames:
+  - "fplot license"
+
+evidence:
+  matches:
+    - "This software is Freeware"
+    - "Permission to use, copy, and distribute this software and its
+       documentation for any purpose with or without fee is hereby granted,
+       provided that the above copyright notice appear in all copies and
+       that both that copyright notice and this permission notice appear
+       in supporting documentation"
+    - "Permission to modify the software is granted, but not the right to
+       distribute the modified code"
+    - "Modifications are to be distributed as patches to released version"
+    - "This software is provided 'as is' without express or implied warranty"
+  excludes:
+    - "Redistributions of source code must retain the above copyright notice,
+       this list of conditions and the following disclaimer"
+    - "Permission to use, copy,
+       modify, and distribute this software and its documentation for any
+       purpose and without fee is hereby granted, without any conditions or
+       restrictions"
+    - "Permission to use, copy, modify, and distribute this software and
+       its documentation for any purpose and without fee is hereby granted,
+       provided that the above copyright notice appear in all copies and
+       that both that copyright notice and this permission notice appear in
+       supporting documentation"

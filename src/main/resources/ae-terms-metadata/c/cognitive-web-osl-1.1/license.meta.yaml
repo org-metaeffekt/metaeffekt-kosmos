@@ -1,0 +1,23 @@
+canonicalName: CognitiveWeb Open Source License 1.1
+category: CognitiveWeb Open Source License
+shortName: Cognitive-Web-OSL-1.1
+
+otherIds:
+  - "scancode:cognitive-web-osl-1.1"
+
+alternativeNames:
+  - "cognitive-web-osl-1.1"
+  - "CognitiveWeb Open Source License Version 1.1"
+
+evidence:
+  matches:
+    - "The contents of this file are subject to the CognitiveWeb Open Source License Version 1.1"
+    - "You may not copy or use this file, in either source code or executable form, except in
+       compliance with the License"
+  excludes:
+    - "You are receiving a copy of the Mozilla Public Suffix List in the following file"
+    - "The contents of this file are subject to the Mozilla Public License Version 1.1"
+    - "Any OSPI Product licensed pursuant to this License is a Licensed Product"
+    - "the Open Source Portfolio Initiative (OSPI) ('Licensor'), and the founding members
+       of OSPI consist of Regents of the University of Minnesota"
+

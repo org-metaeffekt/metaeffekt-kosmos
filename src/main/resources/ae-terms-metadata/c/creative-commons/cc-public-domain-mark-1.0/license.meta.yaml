@@ -1,0 +1,23 @@
+canonicalName: "Creative Commons Public Domain Mark 1.0"
+category: CC-PDM
+shortName: CC-PDM-1.0
+
+alternativeNames:
+  - "Public Domain Mark 1.0"
+
+representedAs: Public Domain
+
+otherIds:
+  - "scancode:cc-pdm-1.0"
+
+evidence:
+  matches:
+    - "This work has been identified as being free of known restrictions under copyright law,
+       including all related and neighboring rights"
+    - "You can copy, modify, distribute and perform the work, even for commercial purposes,
+       all without asking permission"
+    - "The work may not be free of known copyright restrictions in all jurisdictions"
+    - "Persons may have other rights in or related to the work, such as patent or trademark rights,
+       and others may have rights in how the work is used, such as publicity or privacy rights"
+    - "Unless expressly stated otherwise, the person who identified the work makes no warranties about the work, and disclaims
+       liability for all uses of the work, to the fullest extent permitted by applicable law"

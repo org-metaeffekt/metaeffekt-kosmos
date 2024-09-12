@@ -1,0 +1,43 @@
+canonicalName: Permission Terms (variant 006)
+category: Permission
+spdxIdentifier: HPND-doc
+
+status:
+  - "reviewed 30.01.2024"
+
+otherIds:
+  - "scancode:hpnd-doc"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+displayName: Permission Terms (no representation; no warranty)
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var006"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, *{.{0,7}}* distribute this documentation for
+       any purpose and without fee is hereby granted, provided that the above
+       copyright notice and this permission notice appear in all copies"
+    - "make*{.{0,1}}* no representations about the suitability for any purpose of
+       the information in this document"
+    - "This documentation is provided \"as is\" without express or implied warranty"
+  excludes:
+    - "Except as contained in this notice the name of the X Consortium shall not
+       be used in advertising or otherwise to promote the sale use or other dealings
+       in this Software without prior written authorization"
+    
+mappings:
+  "Copyright \\(c\\) 1989 X Consortium, Inc. and Digital Equipment Corporation.NEWLINE-MARKERCopyright \\(c\\) 1992 X Consortium, Inc. and Intergraph Corporation.NEWLINE-MARKERCopyright \\(c\\) 1993 X Consortium, Inc. and Silicon Graphics, Inc.NEWLINE-MARKERCopyright \\(c\\) 1994, 1995 X Consortium, Inc. and Hewlett-Packard Company.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify": " LICENSE-SEGMENT-MARKER Copyright (c) 1989 X Consortium, Inc. and Digital Equipment Corporation.NEWLINE-MARKERCopyright (c) 1992 X Consortium, Inc. and Intergraph Corporation.NEWLINE-MARKERCopyright (c) 1993 X Consortium, Inc. and Silicon Graphics, Inc.NEWLINE-MARKERCopyright (c) 1994, 1995 X Consortium, Inc. and Hewlett-Packard Company.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify"
+
+
+licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this documentation for
+                  any purpose and without fee is hereby granted, provided that the above
+                  copyright notice and this permission notice appear in all copies.
+                  <p>{{copyrightHolderNoRepresentation}} makes no representations about the suitability for any purpose of
+                  the information in this document.</p> This documentation is provided \"as is\"
+                   without express or implied warranty.</lq>"

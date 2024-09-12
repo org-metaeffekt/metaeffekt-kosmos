@@ -1,0 +1,73 @@
+canonicalName: BSD 3-Clause License (variant 040)
+category: BSD
+shortName: BSD-3-Clause-040
+spdxIdentifier: Mackerras-3-Clause
+
+canonicalNameHistory:
+  - "BSD 3-Clause License Var040"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+representedAs: BSD 3-Clause License
+
+otherIds:
+  - "scancode:paul-mackerras-new"
+
+alternativeNames:
+  - "paul-mackerras-new"
+  - "Mackerras-3-Clause"
+  - "Mackerras 3-Clause License"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that the following conditions
+       are met"
+    - "Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in
+       the documentation and/or other materials provided with the
+       distribution"
+    - "The name*{.{0,120}}* must not be used to
+       endorse or promote products derived from this software without
+       prior written permission"
+    - "DISCLAIM ALL WARRANTIES WITH REGARD TO
+       THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+       AND FITNESS"
+    - "IN NO EVENT SHALL *{.{0,120}}* BE LIABLE FOR ANY
+       SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+       WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN
+       AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+       OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
+  excludes:
+    - "Redistributions of any form whatsoever must retain the following
+       acknowledgment"
+    - "Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose is hereby granted without fee provided that the above copyright notice appears in all copies and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of OpenVision not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission"
+    - "for any purpose with or without fee is hereby granted"
+
+standardVariableSet:
+  copyrightHolderNoLiability: "THE AUTHORS"
+  variable3rdClause: "(s) of the authors of this software"
+  copyrightHolderNoWarranty: "THE AUTHORS OF THIS SOFTWARE"
+
+licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without
+                  modification, are permitted provided that the following conditions
+                  are met:
+                  <ol><li>Redistributions of source code must retain the above copyright
+                  notice, this list of conditions and the following disclaimer.</li>
+                  <li>Redistributions in binary form must reproduce the above copyright
+                  notice, this list of conditions and the following disclaimer in
+                  the documentation and/or other materials provided with the
+                  distribution.</li>
+                  <li>The name{{variable3rdClause}} must not be used to
+                  endorse or promote products derived from this software without
+                  prior written permission.</li></ol>
+                  <codeph>{{copyrightHolderNoWarranty}} DISCLAIM ALL WARRANTIES WITH REGARD TO
+                  THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+                  AND FITNESS, IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY
+                  SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+                  WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN
+                  AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+                  OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</codeph></lq>"

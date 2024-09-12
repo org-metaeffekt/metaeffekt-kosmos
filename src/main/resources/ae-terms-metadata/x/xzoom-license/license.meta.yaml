@@ -1,0 +1,17 @@
+canonicalName: XZoom License
+category: XZoom License
+shortName: XZoom
+spdxIdentifier: xzoom
+
+otherIds:
+  - "scancode:xzoom"
+
+alternativeNames:
+  - "XZoom License"
+  - "xzoom License"
+
+evidence:
+  matches:
+    - "This copyright notice and comment are preserved and left at the top of the file"
+    - "The man page is fixed to reflect the change"
+    - "The author of this change adds his name and change description to the list of changes below"

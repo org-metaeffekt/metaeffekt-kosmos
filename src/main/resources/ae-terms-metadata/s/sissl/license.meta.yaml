@@ -1,0 +1,22 @@
+canonicalName: Sun Industry Standards Source License 1.1
+category: SISSL
+spdxIdentifier: SISSL
+
+otherIds:
+  - "scancode:sun-sissl-1.1"
+
+alternativeNames:
+  - "SISSL"
+  - "Sun Industry Standards Source License - Version 1.1"
+
+canonicalNameHistory:
+  - "SISSL 1.1"
+
+evidence:
+  matches:
+    - "The contents of this file are subject to the Sun Standards License Version
+       1.1 (the 'License')"
+    - "In the event of termination under Section 8.1 above, all end user license
+       agreements (excluding distributors and resellers) which have been validly
+       granted by You or any distributor hereunder prior to termination shall survive
+       termination"

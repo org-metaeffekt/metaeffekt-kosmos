@@ -1,0 +1,38 @@
+canonicalName: Font Exception (GPL)
+category: GPL Font Exception
+spdxIdentifier: Font-exception-2.0
+shortName: Font-Exception-GPL
+
+otherIds:
+  - "scancode:font-exception-gpl"
+
+type: exception
+
+canonicalNameHistory:
+  - "Font Exception 2.0"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Font exception (GPL))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Font exception (GPL))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Font exception (GPL))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Font exception (GPL))
+
+evidence:
+  matches:
+    - "As a special exception, if you create a document which uses this font, and embed this font or
+       unaltered portions of this font into the document, this font does not by itself cause the
+       resulting document to be covered by the GNU General Public License"
+    - "This exception does not however invalidate any other reasons why the document might be
+       covered by the GNU General Public License"
+    - "If you modify this font, you may extend this exception to your version of the font, but
+       you are not obligated to do so"
+  excludes:
+    - "LICENSE AGREEMENT AND LIMITED PRODUCT WARRANTY
+             LIBERATION FONT SOFTWARE"
+
+references:
+  "GPL":
+    matches:
+      - "this font does not by itself cause the resulting document to be covered by the GNU General Public License"
+      - "This exception does not however invalidate any other reasons why the document might be covered by the
+         GNU General Public License"

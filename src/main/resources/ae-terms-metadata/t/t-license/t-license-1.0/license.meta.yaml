@@ -1,0 +1,13 @@
+canonicalName: T-License 1.0
+category: T-License
+shortName: T-License-1.0
+
+otherIds:
+  - "scancode:t-license-1.0"
+
+evidence:
+  matches:
+    - "This License Agreement sets forth copyrights and the terms and conditions of use applicable to the source code of T-Kernel distributed by T-Engine Forum and any derivative work created therefrom"
+    - " The copyrights of the Source Code shall be owned by Ken Sakamura"
+    - "As provided for in this Article, T-Engine Forum shall provide, and grant a license to use, the Source Code free of charge to any person who has taken the necessary procedure for registration as prescribed by T-Engine Forum and agreed to the T-License"
+    - "Any of A- members of T-Engine Forum may become the Distributor of Modification by obtaining the approval of T-Engine Forum through the registration procedure as prescribed by the Forum provided that only the department of the A- member which has taken the registration procedure may distribute the Modified Source Code in such a way as provided for in this Article as long as it holds the A- membership"

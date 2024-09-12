@@ -1,0 +1,46 @@
+canonicalName: HP Proliant Essentials EULA
+category: HP Proliant Essentials EULA
+shortName: HP-Proliant-Essentials
+
+otherIds:
+  - "scancode:hp-proliant-essentials"
+
+alternativeNames:
+  - "hp-proliant-essentials EULA"
+
+evidence:
+  matches:
+    - "If the Software does not require an Activation Key and provided that You comply with all the terms
+       and conditions of this Agreement, HP grants You a non-exclusive,
+       non-transferable (except as provided in Section 16), worldwide (except for the
+       countries referenced  in Section 12) license under HP's copyrights, to install,
+       copy on as many computers as you need for your business, use, execute, make
+       archival or backup copies, and display ('Use') the object code version of the
+       Product on the computer(s) on which this Product is installed and in the
+       operating environment as identified by HP in the accompanying materials"
+    - "If the Software requires an Activation Key, and provided that You comply with all terms and conditions of
+       this Agreement, then depending upon the specific hardware configuration You
+       employ, HP grants You the following license  ('License Type') and rights"
+
+references:
+  "GPL":
+    matches:
+      - "IF AND ONLY IF THE PRODUCT INCLUDES SOFTWARE LICENSED UNDER THE GNU GENERAL
+         PUBLIC LICENSE ('GPL SOFTWARE'), YOU MAY OBTAIN A COMPLETE MACHINE-READABLE
+         COPY OF THE GPL SOFTWARE SOURCE CODE ('GPL SOURCE CODE') BY DOWNLOAD"
+      - "INFORMATION ABOUT HOW TO MAKE A WRITTEN REQUEST FOR GPL SOURCE CODE
+         MAY BE FOUND"
+
+segmentation:
+  revert: [
+    { match:
+        "make archival or backup copies, and display (\"Use\") the object code version of the Product on the computer(s) on which this Product is installed and in the operating environment as identified by HP in the accompanying materials.",
+      matchNext:
+        "b. IF SOFTWARE REQUIRES AN ACTIVATION KEY. If the Software requires an Activation Key, and provided that You comply with all terms and conditions of this Agreement"
+    },
+    { match:
+        "a Host/Client Pair or Single Node single computer may not be transferred to any (\"Single Node\") other host or client computers or other single nodes. You can continue to Use the Product on licensed clients when a new server is introduced to the licensed clients.",
+      matchNext:
+        "Cluster More than two computers You have a right to install and physically connected together Use the Product on each in a cluster configuration Clustered Computer."
+    }
+  ]

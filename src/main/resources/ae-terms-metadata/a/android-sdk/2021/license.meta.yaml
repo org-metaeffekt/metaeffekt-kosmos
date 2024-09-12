@@ -1,0 +1,17 @@
+canonicalName: Android Software Development Kit License Agreement 2021
+category: Android SDK
+shortName: Android-SDK-2021
+
+otherIds:
+  - "scancode:android-sdk-2021"
+
+evidence:
+  matches:
+    - "The Android Software Development Kit (referred to in the License Agreement as the \"SDK\" and specifically including the Android system files, packaged APIs, and Google APIs add-ons) is licensed to you subject to the terms of the License Agreement"
+    - "You may not use the SDK if you do not accept the License Agreement"
+    - "You may not use the SDK and may not accept the License Agreement if you are a person barred from receiving the SDK under the laws of the United States or other countries, including the country in which you are resident or from which you use the SDK"
+    - "Subject to the terms of the License Agreement, Google grants you a limited, worldwide, royalty-free, non-assignable, non-exclusive, and non-sublicensable license to use the SDK solely to develop applications for compatible implementations of Android"
+    - "Google agrees that it obtains no right, title or interest from you (or your licensors) under the License Agreement in or to any software applications that you develop using the SDK, including any intellectual property rights that subsist in those applications"
+    - "You agree that you are responsible for maintaining the confidentiality of any developer credentials that may be issued to you by Google or which you may choose yourself and that you will be solely responsible for all applications that are developed under your developer credentials"
+  excludes:
+    - "November 20, 2015"

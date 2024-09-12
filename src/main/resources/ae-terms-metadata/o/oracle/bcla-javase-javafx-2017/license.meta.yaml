@@ -1,0 +1,48 @@
+canonicalName: Oracle Binary Code License Agreement (Java SE and JavaFX 2017)
+category: Oracle BCLA
+shortName: Oracle-BCLA-Java-SE-JavaFX-2017
+
+canonicalNameHistory:
+  - "Oracle Binary Code License Agreement"
+
+otherIds:
+  - "scancode:oracle-bcl-javase-platform-javafx-2017"
+
+alternativeNames:
+  - "https://www.oracle.com/downloads/licenses/binary-code-license.html"
+  - "http://java.com/license"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the Java
+       SE LIUM, including, but not limited to the Java Technology Restrictions and Limitations on Redistribution of
+       these Supplemental Terms, Oracle grants you a non-exclusive, non-transferable, limited license without fees to
+       reproduce and distribute the Software"
+    - "you distribute the Software complete and unmodified and only bundled as part of, and for the
+       sole purpose of running, your Programs"
+    - "the Programs add significant and primary functionality to the Software"
+    - "you do not distribute additional software intended to replace any component(s) of the Software"
+    - "you do not remove or alter any proprietary legends or notices contained in the Software"
+    - "you only distribute the Software subject to a license agreement"
+    - "is a complete, unmodified reproduction of this Agreement"
+    - "protects Oracle's interests consistent with the terms contained in this Agreement"
+    - "you agree to defend and indemnify Oracle and its licensors from and against any damages, costs, liabilities,
+       settlement amounts and/or expenses"
+    - "Oracle grants you a non-exclusive, non-transferable, limited license without fees to reproduce and distribute
+       those files specifically identified as redistributable in the Java SE LIUM (\"Redistributables\")"
+    - "This section pertains to your distribution of the JavaTM SE Development Kit Software (“JDK”) with your printed book or magazine (as those terms are commonly used in the industry) relating to Java technology"
+    - "Additional copyright notices and license terms applicable to portions of the Software are set forth in the Java SE LIUM accessible at"
+
+segmentation:
+  revert: [
+    { match:
+        "THEN SELECT THE \"DECLINE LICENSE AGREEMENT\" (OR THE EQUIVALENT) BUTTON AND YOU MUST NOT USE THE SOFTWARE ON THIS SITE OR ANY OTHER MEDIA ON WHICH THE SOFTWARE IS CONTAINED.",
+      matchNext:
+        "DEFINITIONS. \"Software\" means the software identified above in binary form that you selected for download"
+    },
+    { match:
+        "bug fixes or updates made available by Oracle through Oracle Premier Support, including those made available under Oracle's Java SE Support program.",
+      matchNext:
+        "H. COMMERCIAL FEATURES NOTICE. For purpose of complying with Supplemental Term Section C.(v)(b) and D.(v)(b), your license agreement shall include the following notice"
+    }
+  ]

@@ -1,0 +1,22 @@
+canonicalName: LPL 1.0
+category: LPL
+spdxIdentifier: LPL-1.0
+
+otherIds:
+  - "scancode:lucent-pl-1.0"
+
+alternativeNames:
+  - "LPL, Version 1.0"
+  - "LPL, 1.0"
+  - "LPL 1.0"
+  - "Lucent Public License Version 1.0"
+
+evidence:
+  matches:
+    - "where such changes and/or additions to the Program
+       originate from and are 'Contributed' by that particular Contributor"
+    - "Contributions do not include additions to the Program which: (i) are separate
+       modules of software distributed in conjunction with the Program under their
+       own license agreement, and (ii) are not derivative works of the Program"
+    - "if any, and indicate its consent to characterization of
+       its additions and/or changes as a Contribution"

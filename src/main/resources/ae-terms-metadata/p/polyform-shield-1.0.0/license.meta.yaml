@@ -1,0 +1,40 @@
+canonicalName: Polyform Shield License 1.0.0
+category: Polyform Shield License
+shortName: Polyform-Shield-1.0.0
+
+otherIds:
+  - "scancode:polyform-shield-1.0.0"
+
+alternativeNames:
+  - "[Polyform Shield]"
+  - "https://polyformproject.org/licenses/shield/1.0.0/"
+  - "https://polyformproject.org/licenses/defensive/1.0.0"
+  - "PolyForm Defensive License 1.0.0"
+
+evidence:
+  matches:
+    - "The licensor grants you a copyright license for the
+       software to do everything you might do with the software
+       that would otherwise infringe the licensor's copyright
+       in it for any permitted purpose"
+    - "However, you may
+       only distribute the software according to [Distribution
+       License](#distribution-license) and make changes or new works
+       based on the software according to [Changes and New Works
+       License](#changes-and-new-works-license)"
+    - "The licensor grants you an additional copyright license
+       to distribute copies of the software.  Your license
+       to distribute covers distributing the software with
+       changes and new works permitted by [Changes and New Works
+       License](#changes-and-new-works-license)"
+  excludes:
+    - "Any purpose is a permitted purpose, except for providing to
+       others any product that competes with the software"
+    - "Personal use for research, experiment, and testing for
+       the benefit of public knowledge, personal study, private
+       entertainment, hobby projects, amateur pursuits, or religious
+       observance, without any anticipated commercial application,
+       is use for a permitted purpose"
+    - "Use of the software for the benefit of your company is use for
+       a permitted purpose if your company has fewer than 100 total
+       individuals working as employees and independent contractors"

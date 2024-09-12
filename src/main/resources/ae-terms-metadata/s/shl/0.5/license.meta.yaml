@@ -1,0 +1,42 @@
+canonicalName: Solderpad Hardware License 0.5
+category: SHL
+spdxIdentifier: SHL-0.5
+
+# FIXME-CONCEPT: how to deal with secondaryLicense
+# secondaryLicenses:
+#  - "Apache License 2.0"
+
+otherIds:
+  - "scancode:shl-0.5"
+
+alternativeNames:
+  - "Solderpad Hardware License v0.5"
+  - "SOLDERPAD HARDWARE LICENSE version 0.5"
+  - "SOLDERPAD HARDWARE LICENSE Version 0.5"
+  - "Solderpad Hardware License Version 0.5"
+  - "SHL-0.5"
+
+evidence:
+  matches:
+    - "including intermediate forms such as bytecodes, FPGA bitstreams, artwork and semiconductor topographies"
+    - "You must give any other recipients of the Work or Derivative Works a copy
+       of this License"
+    - "You must cause any modified files to carry prominent notices stating that
+       You changed the files"
+    - "You must retain, in the Source form of any Derivative Works that You distribute,
+       all copyright, patent, trademark, and attribution notices from the Source
+       form of the Work, excluding those notices that do not pertain to any part
+       of the Derivative Works"
+    - "\"Rights\" means copyright and any similar right including design right (whether
+       registered or unregistered), semiconductor topography (mask) rights and database
+       extraction rights (but excluding Patents and Trademarks)"
+
+references:
+  "Apache License":
+    matches:
+      - "This license is based closely on the Apache License Version 2.0, but is not
+         approved or endorsed by the Apache Foundation. A copy of the non-modified
+         Apache License 2.0 can be found at http://www.apache.org/licenses/LICENSE-2.0."
+      - "As this license is not currently OSI or FSF approved, the Licensor permits
+         any Work licensed under this License, at the option of the Licensee, to be
+         treated as licensed under the Apache License Version 2.0 (which is so approved)."

@@ -1,0 +1,43 @@
+canonicalName: BitTorrent License 1.0
+category: BitTorrent
+spdxIdentifier: BitTorrent-1.0
+
+otherIds:
+  - "scancode:bittorrent-1.0"
+
+alternativeNames:
+  - "BitTorrent, Version 1.0"
+  - "BitTorrent, 1.0"
+  - "BitTorrent 1.0"
+  - "BitTorrent-1.0"
+  - "BitTorrent License, Version 1.0"
+  - "BitTorrent License, 1.0"
+  - "BitTorrent License 1.0"
+  - "BitTorrent Open Source License Version 1.0"
+
+evidence:
+  matches:
+    - "This License complies with the Open Source Definition and is derived from
+       the Jabber Open Source License 1.0"
+    - "You may use the Licensed Product for any purpose, but the Licensor is not
+       providing you any warranty whatsoever, nor is the Licensor accepting any liability
+       in the event that the Licensed Product doesn't work properly or causes you
+       any injury or damages"
+    - "Use, reproduce, modify, display, perform, sublicense and distribute any
+       Modifications created by such Contributor or portions thereof, in both Source
+       Code or as an executable program, either on an unmodified basis or as part
+       of Derivative Works"
+  excludes:
+    - "You may sell, accept donations or otherwise receive compensation for executable
+       versions of a Licensed Product, without paying a royalty or other fee to the
+       Licensor or any Contributor, provided that such executable versions contain
+       your or another Contributor's material Modifications. For the avoidance of
+       doubt, to the extent your executable version of a Licensed Product does not
+       contain your or another Contributor's material Modifications, you may not
+       sell, accept donations or otherwise receive compensation for such executable"
+    - "This License complies with the Open Source Definition and is derived from the
+       Jabber Open Source License 1.0 (the \"JOSL\"), which has been approved by Open Source Initiative.
+       Sections 4(c) and 4(f)(iii) from the JOSL have been deleted"
+    - "You may use or give away the Licensed Product, alone or as a component"
+    - "Any OSPI Product licensed pursuant to this License is a Licensed Product"
+

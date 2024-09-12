@@ -1,0 +1,21 @@
+canonicalName: NVIDIA APEX SDK EULA
+category: NVIDIA APEX SDK
+shortName: NVIDIA-APEX-SDK-EULA
+
+otherIds:
+  - "scancode:nvidia-apex-sdk-eula-2011"
+
+alternativeNames:
+  - "NVIDIA APEX SDK EULA"
+
+evidence:
+  matches:
+    - "Redistribution; Physics Applications. Any redistribution of the APEX SDK (in
+       accordance with Section 2 above) or portions thereof must be subject to an end user
+       license agreement including language that"
+    - "prohibits the end user from modifying, reproducing, de-compiling, reverse
+       engineering or translating the APEX SDK"
+    - "prohibits the end user from distributing or transferring the APEX SDK other
+       than as part of the Physics Application"
+    - "disclaims any and all warranties on behalf of NVIDIA and its affiliated
+       companies and licensors"

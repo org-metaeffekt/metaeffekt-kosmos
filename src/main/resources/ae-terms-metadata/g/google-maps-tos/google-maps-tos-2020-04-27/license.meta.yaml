@@ -1,0 +1,24 @@
+canonicalName: Google Maps Platform Terms of Service 2020-04-27
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2020-04-27
+
+otherIds:
+  - "scancode:google-maps-tos-2020-04-27"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2020-04-27"
+
+evidence:
+  matches:
+    - "Google may make changes to the Agreement, including pricing and any linked documents"
+    - "Unless otherwise noted by Google, material changes to the Agreement will become effective 30 days after notice
+       is given, except (a) materially adverse SLA changes will become effective 90 days after notice is given;
+       and (b) changes applicable to new Services or functionality, or required by a court order or applicable law,
+       will be effective immediately"
+    - "Google will provide notice for materially adverse changes to any SLAs"
+  excludes:
+    - "If you have entered into an offline variant of this Agreement, the terms below do not apply, and your offline
+       agreement governs your use of the Google Maps Core Services"
+    - "Last modified: April 2, 2020"
+    - "Last modified: May 02, 2019"
+    - "Last modified: May 6, 2020"

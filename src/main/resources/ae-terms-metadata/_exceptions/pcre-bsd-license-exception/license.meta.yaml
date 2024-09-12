@@ -1,0 +1,24 @@
+canonicalName: PCRE BSD License Exception
+category: PCRE BSD Exception
+shortName: PCRE-BSD-Exception
+spdxIdentifier: PCRE2-exception
+
+otherIds:
+  - "scancode:pcre2-exception"
+
+alternativeNames:
+  - "PCRE BSD License Exception"
+
+type: exception
+
+references:
+  "BSD":
+    matches:
+      - "The second condition in the BSD licence (covering binary redistributions)
+         does not apply all the way down a chain of software"
+
+evidence:
+  matches:
+    - "If binary package A includes PCRE2, it must respect the condition, but if
+       package B is software that includes package A, the condition is not
+       imposed on package B unless it uses PCRE2 independently"

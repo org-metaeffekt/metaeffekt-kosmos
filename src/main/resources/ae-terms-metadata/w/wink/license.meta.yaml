@@ -1,0 +1,19 @@
+canonicalName: Wink License
+category: Wink License
+shortName: Wink
+
+otherIds:
+  - "scancode:wink"
+
+alternativeNames:
+  - "Wink License"
+
+evidence:
+  matches:
+    - "You may not re-distribute this program without contacting the author and getting his consent"
+    - "You may not charge any fee or re-distribution fee for it"
+    - "This notice may not be removed or altered from any distribution"
+    - "No form of decompilation/reverse engineering/disassembling parts or whole of the software be done"
+    - "You may not misrepresent the origin of the software/artwork"
+    - "If you are distributing the package/portions of the package,
+       the files must be clearly indicated that they are part of DebugMode Wink software"

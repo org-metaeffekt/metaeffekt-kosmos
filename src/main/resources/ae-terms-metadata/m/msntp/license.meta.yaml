@@ -1,0 +1,65 @@
+canonicalName: MSNTP Software License
+category: MSNTP Software License
+shortName: MSNTP
+
+otherIds:
+  - "scancode:msntp"
+
+alternativeNames:
+  - "http://fedoraproject.org/wiki/Licensing/MSNTP"
+  - "Free use of the software in source and binary forms is permitted, provided that this entire licence is duplicated in all copies, and that any documentation, announcements, and other materials related to use acknowledge that the software was developed by <AUTHOR> (hereafter refered to as the Author) at the  of .  Neither the name of the Author nor the University of Cambridge may be used to endorse or promote products derived from this material without specific prior written permission.  The Author and the University of  retain the copyright and all other legal rights to the software and make it available non-exclusively.  All users must ensure that the software in all its derivations carries a copyright notice in the form:"
+  - "Free use of the software in source and binary forms is permitted, provided that this entire licence is duplicated in all copies, and that any documentation, announcements, and other materials related to use acknowledge that the software was developed by <AUTHOR> (hereafter refered to as the Author) at the University of Cambridge.  Neither the name of the Author nor the University of Cambridge may be used to endorse or promote products derived from this material without specific prior written permission.  The Author and the University of Cambridge retain the copyright and all other legal rights to the software and make it available non-exclusively.  All users must ensure that the software in all its derivations carries a copyright notice in the form:           (c) Copyright University of Cambridge."
+
+comments:
+
+evidence:
+  matches:
+    - "Free use of MSNTP in source and binary forms is permitted, provided that this
+       entire licence is duplicated in all copies, and that any documentation,
+       announcements, and other materials related to use acknowledge that the software
+       was developed by N.M. Maclaren (hereafter refered to as the Author) at the
+       University of Cambridge"
+    - "Neither the name of the Author nor the University of
+       Cambridge may be used to endorse or promote products derived from this material
+       without specific prior written permission"
+    - "The Author and the University of Cambridge retain the copyright and all other
+       legal rights to the software and make it available non-exclusively"
+    - "All users must ensure that the software in all its derivations carries a copyright notice
+       in the form: (c) Copyright N.M. Maclaren, (c) Copyright University of Cambridge"
+    - "Because the MSNTP software is licensed free of charge, the Author and the
+       University of Cambridge provide absolutely no warranty, either expressed or
+       implied, including, but not limited to, the implied warranties of
+       merchantability and fitness for a particular purpose"
+    - "The entire risk as to the quality and performance of the MSNTP software is with you"
+    - "Should MSNTP prove defective, you assume the cost of all necessary servicing or repair"
+    - "In no event, unless required by law, will the Author or the University of
+       Cambridge, or any other party who may modify and redistribute this software as
+       permitted in accordance with the provisions below, be liable for damages for
+       any losses whatsoever, including but not limited to lost profits, lost monies,
+       lost or corrupted data, or other special, incidental or consequential losses
+       that may arise out of the use or inability to use the MSNTP software"
+    - "Permission is hereby granted for copying and distribution of copies of the
+       MSNTP source and binary files, and of any part thereof, subject to the
+       following licence conditions"
+    - "You may distribute MSNTP or components of MSNTP, with or without additions
+       developed by you or by others"
+    - "No charge, other than an 'at-cost' distribution
+       fee, may be charged for copies, derivations, or distributions of this material
+       without the express written consent of the copyright holders"
+    - "You may also distribute MSNTP along with any other product for sale,
+       provided that the cost of the bundled package is the same regardless of whether
+       MSNTP is included or not, and provided that those interested only in MSNTP must
+       be notified that it is a product freely available from the University of
+       Cambridge"
+    - "If you distribute MSNTP software or parts of MSNTP, with or without
+       additions developed by you or others, then you must either make available the
+       source to all portions of the MSNTP system (exclusive of any additions made by
+       you or by others) upon request, or instead you may notify anyone requesting
+       source that it is freely available from the University of Cambridge"
+    - "You may not omit any of the copyright notices on either the source files,
+       the executable files, or the documentation"
+    - "You may not omit transmission of this License agreement with whatever
+       portions of MSNTP that are distributed"
+    - "Any users of this software must be notified that it is without warranty or
+       guarantee of any nature, express or implied, nor is there any fitness for use
+       represented"

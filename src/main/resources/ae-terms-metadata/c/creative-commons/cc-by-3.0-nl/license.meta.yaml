@@ -1,0 +1,39 @@
+canonicalName: Creative Commons BY 3.0 (NL)
+category: CC-BY
+spdxIdentifier: CC-BY-3.0-NL
+
+representedAs: Creative Commons BY 3.0
+
+otherIds:
+  - "scancode:cc-by-3.0-nl"
+
+alternativeNames:
+  - "CC-BY-3.0-NL"
+  - "Creative Commons Attribution 3.0 Netherlands"
+
+requiresCopyright: false
+requiresLicenseText: false
+requiresNote: true
+noteChecklist:
+  - "give the Original Author credit"
+
+
+evidence:
+  matches:
+    - "Elke keer dat de Gebruiker het Werk of een Verzamelwerk verspreidt of on-line beschikbaar stelt, biedt de
+       Licentiegever de ontvanger een licentie op het Werk aan volgens de algemene voorwaarden van deze Licentie"
+    - "Elke keer dat de Gebruiker een Afgeleid werk verspreidt of on-line beschikbaar stelt, biedt de Licentiegever de
+       ontvanger een licentie op het oorspronkelijke werk aan volgens de algemene voorwaarden van deze Licentie"
+    - "Indien enige bepaling van deze Licentie nietig of niet rechtens afdwingbaar is, zullen de overige voorwaarden
+       van deze Licentie volledig van kracht blijven"
+    - "De nietige of niet-afdwingbare bepaling zal, zonder tussenkomst van de partijen, worden vervangen door een geldige
+       en afdwingbare bepaling waarbij het doel en de strekking van de oorspronkelijke bepaling zoveel mogelijk in acht worden genomen"
+    - "Een verklaring van afstand van in deze Licentie verleende rechten of een wijziging van de voorwaarden van deze
+       Licentie dient schriftelijk te geschieden en getekend te zijn door de partij die verantwoordelijk is voor de verklaring
+       van afstand respectievelijk de partij wiens toestemming voor de wijziging is vereist"
+    - "Deze Licentie bevat de volledige overeenkomst tussen de partijen met betrekking tot het in licentie gegeven Werk"
+    - "Er zijn geen andere afspraken gemaakt met betrekking tot het Werk"
+    - "De Licentiegever is niet gebonden aan enige aanvullende bepalingen die worden vermeld in mededelingen van de Gebruiker"
+    - "Deze licentie kan uitsluitend worden gewijzigd met de wederzijdse, schriftelijke instemming van de Licentiegever en de Gebruiker"
+
+

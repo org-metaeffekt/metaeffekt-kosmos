@@ -1,0 +1,40 @@
+canonicalName: Creative Commons BY-NC-SA 2.0
+category: CC-BY-NC-SA
+spdxIdentifier: CC-BY-NC-SA-2.0
+
+otherIds:
+  - "scancode:cc-by-nc-sa-2.0"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Non Commercial Share Alike 2.0 Generic"
+  - "Creative Commons BY-NC-SA 2.0 (generic)"
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial Share Alike 2.0 Generic"
+  - "CC-BY-NC-SA-2.0"
+  - "Creative Commons Attribution-NonCommercial-ShareAlike 2.0"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "If You create a Derivative Work, upon notice from any
+       Licensor You must, to the extent practicable, remove from the Derivative Work
+       any reference to such Licensor or the Original Author, as requested"
+    - "For the avoidance of doubt, where the Work is a musical composition or sound
+       recording, the synchronization of the Work in timed-relation with a moving
+       image (\"synching\") will be considered a Derivative Work for the purpose of
+       this License"
+    - "\"License Elements\" means the following high-level license attributes as
+       selected by Licensor and indicated in the title of this License: Attribution,
+       Noncommercial, ShareAlike"
+    - "You must include a
+       copy of, or the Uniform Resource Identifier for, this License or other license
+       specified in the previous sentence with every copy or phonorecord of each
+       Derivative Work You distribute, publicly display, publicly perform, or publicly
+       digitally perform"
+  excludes:
+    - "but otherwise you have no rights to make Derivative Works"
+

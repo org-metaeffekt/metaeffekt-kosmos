@@ -1,0 +1,20 @@
+canonicalName: Librato Open License 1.0
+category: Librato Open
+shortName: Librato-Open-1.0
+
+otherIds:
+  - "scancode:librato-exception"
+
+alternativeNames:
+  - "Librato Open License
+     Version 1.0, October, 2016"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted"
+    - "You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License"
+    - "You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions"
+    - "You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License"
+    - "You may install and execute the Work only in conjunction with the direct use of Librato software"
+    - "This Work, any file or any derivative thereof shall not be used in conjunction with any product that competes with any Librato software"

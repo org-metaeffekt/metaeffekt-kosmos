@@ -1,0 +1,35 @@
+canonicalName: Unicode DFS License 2015
+category: Unicode DFS
+spdxIdentifier: Unicode-DFS-2015
+
+otherIds:
+  - "scancode:unicode-dfs-2015"
+  - "osi:Unicode-DFS-2015"
+
+alternativeNames:
+  - "Unicode DFS, Version 2015"
+  - "Unicode DFS, 2015"
+  - "Unicode DFS 2015"
+  - "Unicode-DFS, Version 2015"
+  - "Unicode-DFS, 2015"
+  - "Unicode-DFS 2015"
+  - "Unicode DFS License, Version 2015"
+  - "Unicode DFS License, 2015"
+  - "Unicode DFS License 2015"
+  - "Unicode-DFS License, Version 2015"
+  - "Unicode-DFS License, 2015"
+  - "Unicode-DFS License 2015"
+
+evidence:
+  matches:
+    - "there is clear notice in each modified Data File or in the Software*that the data or software has been modified"
+    - "there is clear notice*in the documentation associated with the Data File(s) or Software that the data or software has been modified"
+    - "this copyright and permission notice appear with all copies of the Data Files or Software"
+    - "this copyright and permission notice appear in associated documentation"
+  excludes:
+    - "to permit persons to whom the Data Files or Software are furnished to do so, provided that either"
+    - "ICU License - ICU 1.8.1 and later
+
+       COPYRIGHT AND PERMISSION NOTICE
+
+       Copyright (c) 1995-2014 International Business Machines Corporation and others"

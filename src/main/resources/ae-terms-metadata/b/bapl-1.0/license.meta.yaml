@@ -1,0 +1,22 @@
+canonicalName: Booz Allen Public License 1.0
+category: Booz Allen Public License
+shortName: BAPL-1.0
+
+otherIds:
+  - "scancode:bapl-1.0"
+
+alternativeNames:
+  - "http://boozallen.github.io/licenses/bapl"
+  - "Booz Allen Public License"
+  - "Booz Allen Public License v1.0"
+
+evidence:
+  matches:
+    - "The Booz Allen Public License allows government, non-profit academic, other non-profit, and commercial entities
+       access to distinctive, disruptive, and robust code with the goal of Empowering People to Change the World&#8480;"
+    - "Products licensed under the Booz Allen Public License are founded on the basis that collective ingenuity can make
+       the largest impact in the community"
+    - "If You distribute the Product or a Derivative, in Object Code or Source Code form, You shall not remove or
+       otherwise modify any proprietary markings or notices contained within or placed upon the Product or any Derivative"
+    - "Any distribution of the Product or a Derivative, in Object Code or Source Code form, shall contain a clear and
+       conspicuous Originator copyright and license reference in accordance with the below"

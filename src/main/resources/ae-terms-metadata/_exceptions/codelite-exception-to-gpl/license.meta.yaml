@@ -1,0 +1,22 @@
+canonicalName: CodeLite Exception (GPL)
+category: CodeLite Exception
+shortName: Codelite-Exception-GPL
+
+canonicalNameHistory:
+  - "CodeLite Exception to GPL"
+
+type: exception
+
+otherIds:
+  - "scancode:codelite-exception-to-gpl"
+
+classification: limited copyleft
+
+alternativeNames:
+  - "CodeLite Exception to GPL"
+
+evidence:
+  matches:
+    - "The only exception is that plugins developed for CodeLite and are linking against CodeLite sources
+       (either static linking or dynamic linking), and the plugin is NOT one of the official plugins (see list below)"
+    - "Can be distributed under a license other than the GPL"

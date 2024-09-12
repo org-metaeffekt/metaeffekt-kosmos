@@ -1,0 +1,18 @@
+canonicalName: Adaptec File License
+category: Adaptec
+shortName: Adaptec-File
+
+otherIds:
+  - "scancode:adaptec-eula"
+
+alternativeNames:
+  - "Adaptec EULA"
+  - "Adaptec by PMC Downloadable Files"
+
+evidence:
+  matches:
+    - "license to use the ADAPTEC Software and related documentation"
+    - "If you are NOT an individual consumer residing in Europe then the following
+       terms, conditions and export compliance requirements apply and are a part of
+       your license"
+    - "ALL SECTIONS EXCEPT AS SPECIFIED HEREIN"

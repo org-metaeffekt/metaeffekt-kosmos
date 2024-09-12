@@ -1,0 +1,25 @@
+canonicalName: Creative Commons BY 2.5
+category: CC-BY
+spdxIdentifier: CC-BY-2.5
+
+otherIds:
+  - "scancode:cc-by-2.5"
+
+classification: permissive
+
+requiresAnnexNotice: true
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+alternativeNames:
+  - "CC-A 2.5"
+  - "CC-BY 2.5"
+  - "CC-BY-2.5"
+  - "http://creativecommons.org/licenses/by/2.5"
+  - "Creative Commons Attribution 2.5 CREATIVE COMMONS CORPORATION
+     IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES"
+  - "Creative Commons Attribution License 2.5"

@@ -1,0 +1,58 @@
+canonicalName: Java Research License 1.5
+category: Java Research License
+shortName: Java-Research-1.5
+
+otherIds:
+  - "scancode:java-research-1.5"
+
+alternativeNames:
+  - "java-research-1.5"
+  - "Java Research License Version 1.5"
+
+evidence:
+  matches:
+    - "Sun is licensing the Technology under this Java Research
+       License (the 'License') to promote research, education,
+       innovation, and development using the Technology"
+    - "COMMERCIAL USE AND DISTRIBUTION OF TECHNOLOGY AND
+       MODIFICATIONS IS PERMITTED ONLY UNDER A SUN COMMERCIAL
+       LICENSE"
+    - "Subject to the conditions contained herein, Sun grants to You a non-exclusive, non-transferable,
+       worldwide, and royalty-free license to do the following for Your Research Use only"
+    - "Reproduce, create Modifications of, and use the
+       Technology alone, or with Modifications"
+    - "Share source code of the Technology alone, or with
+       Modifications, with other Licensees; and"
+    - "Distribute object code of the Technology, alone,
+       or with Modifications, to any third parties for Research
+       Use only, under a license of Your choice that is consistent
+       with this License; and publish papers and books discussing
+       the Technology which may include relevant excerpts that
+       do not in the aggregate constitute a significant portion
+       of the Technology"
+    - "You may use any information in intangible form that you remember after accessing the
+       Technology, except when such use violates Sun's copyrights or patent rights"
+    - "Other than the rights granted herein, Sun retains all rights, title, and interest in
+       Technology, and You retain all rights, title, and interest
+       in Your Modifications and associated specifications, subject to the terms of this License"
+    - "Portions of the Technology may be provided with notices and open source licenses from open
+       source communities and third parties that govern the use of
+       those portions, and any licenses granted hereunder do not
+       alter any rights and obligations you may have under such
+       open source licenses, however, the disclaimer of warranty
+       and limitation of liability provisions in this License will
+       apply to all Technology in this distribution"
+    - "As a condition to Your License, You agree to comply with the
+       following restrictions and responsibilities"
+    - "You must include a copy of this Java Research License in a Readme file for any
+       Technology or Modifications you distribute"
+    - "You must also include the following statement, 'Use and distribution of
+       this technology is subject to the Java Research License
+       included herein', (a) once prominently in the source code
+       tree and/or specifications for Your source code
+       distributions, and (b) once in the same file as Your
+       copyright or proprietary notices for Your binary code distributions"
+    - "You must cause any files containing Your
+       Modification to carry prominent notice stating that You changed the files"
+    - "You must not remove or alter any copyright or other proprietary notices in the Technology"
+    - "Any Technology and Modifications You receive from any Licensee are governed by this License"

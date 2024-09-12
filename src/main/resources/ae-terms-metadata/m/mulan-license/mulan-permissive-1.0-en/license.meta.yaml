@@ -1,0 +1,22 @@
+canonicalName: Mulan Permissive Software License 1.0 (EN)
+category: Mulan Permissive
+shortName: Mulan-Permissive-1.0-en
+
+otherIds:
+  - "scancode:mulanpsl-1.0-en"
+
+canonicalNameHistory:
+  - "Mulan Permissive Software License 1 (English)"
+  - "Mulan Permissive Software License 1.0 (English)"
+
+expressiveEvidence: true
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for revocation under this Section) patent license to make, have made, use, offer for sale, sell, import or otherwise transfer its Contribution where such patent license is only limited to the patent claims owned or controlled by such Contributor now or in future which will be necessarily infringed by its Contribution alone, or by combination of the Contribution with the Software to which the Contribution was contributed, excluding of any patent claims solely be infringed by your or others’ modification or other combinations"
+    - "No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor, except as required to fulfill notice requirements in section 4"
+    - "You may distribute the Software in any medium with or without modification, whether in source or executable forms, provided that you provide recipients with a copy of this License and retain copyright, patent, trademark and disclaimer statements in the Software"
+    - "The Software and Contribution in it are provided without warranties of any kind, either express or implied"
+    - "How to apply the Mulan Permissive Software License，Version 1 (Mulan PSL v1) to your software"
+  excludes:
+    - "无商标许可"

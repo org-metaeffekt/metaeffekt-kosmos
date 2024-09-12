@@ -1,0 +1,20 @@
+canonicalName: Oracle Technology Network Development and Distribution License
+category: OTN
+shortName: OTN-Dev-Dist
+
+otherIds:
+  - "scancode:otn-dev-dist"
+
+evidence:
+  matches:
+    - "You agree that U.S. export control laws and other applicable export and import
+       laws govern your use of the programs, including technical data"
+    - "We grant you a nonexclusive, nontransferable limited license to use the programs"
+    - "for purposes of developing, testing, prototyping and running applications you have
+       developed for your own internal data processing operations"
+    - "to distribute the programs with applications you have developed to your customers
+       provided that each such licensee agrees to license terms consistent with the terms
+       of this Agreement, you do not charge your end users any additional fees for the use
+       of the programs, and your end users may only use the programs to run your applications
+       for their own business operations"
+    - "to use the programs to provide third party demonstrations and training"

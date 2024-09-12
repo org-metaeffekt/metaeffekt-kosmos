@@ -1,0 +1,22 @@
+canonicalName: Barr License
+category: Barr
+spdxIdentifier: Barr
+
+otherIds:
+  - "scancode:barr-tex"
+
+alternativeNames:
+  - "Barr License"
+  - "BARR LICENSE"
+  - "BARR License"
+
+evidence:
+  matches:
+    - "Its use is unrestricted. It may be freely
+       distributed, unchanged, for non-commercial or commercial use"
+    - "If changed, it must be renamed"
+    - "Inclusion in a commercial software package is also permitted,
+       but I would appreciate receiving a free copy for my personal examination and
+       use"
+    - "There are no guarantees that this package is good for anything"
+

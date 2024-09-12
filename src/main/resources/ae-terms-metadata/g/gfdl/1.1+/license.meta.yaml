@@ -1,0 +1,66 @@
+canonicalName: GNU Free Documentation License 1.1 (or any later version)
+category: GFDL
+spdxIdentifier: GFDL-1.1-or-later
+shortName: GFDL-1.1+
+
+# NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
+
+allowsLaterVersions: true
+
+otherIds:
+  - "scancode:gfdl-1.1-plus"
+
+alternativeNames:
+  - "GNU Free Documentation License Version 1.1+"
+  - "GNU Free Documentation License, Version 1.1+"
+  - "GNU Free Documentation License, v1.1+"
+  - "GNU Free Documentation License v1.1+"
+  - "GFDL Version 1.1+"
+  - "GFDL, Version 1.1+"
+  - "GFDL, v1.1+"
+  - "GFDL v1.1+"
+  - "GNU Free Documentation License, Version 1.1 or any later version"
+  - "GNU Free Documentation License (FDL), either version 1.1 of the License, or (at your option) any later version"
+  - "GFDL-1.1+"
+  - "GFDL version 1.1 or later"
+  - "Change license on the manual to GFDLv1.1+"
+
+# FIXME-CONCEPT:
+#  Problem: we cannot differentiate GNU Free Documentation License 1.1 (or any later version) from more specific variants
+#  such as GNU Free Documentation License 1.1 (or any later version; invariants).
+#  We need to specify a hierarchy here and select the most specific (as long as the hierarchy is consistent); this
+#  is an extension of the unspecific modelling eliminating licenses with undefined version.
+
+evidence:
+  matches:
+    - "You may copy and distribute the Document in any medium, either commercially or noncommercially, provided that this License, the copyright notices, and the license notice saying this License applies to the Document are reproduced in all copies, and that you add no other conditions whatsoever to those of this License"
+    - "If you publish printed copies of the Document numbering more than 100, and the Document's license notice requires Cover Texts, you must enclose the copies in covers that carry, clearly and legibly, all these Cover Texts"
+    - "You may copy and distribute a Modified Version of the Document under the conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it"
+    - "Delete any section entitled \"Endorsements\""
+    - "Such a section may not be included in the Modified Version"
+    - "Do not retitle any existing section as \"Endorsements\" or to conflict in title with any Invariant Section"
+  excludes:
+    - "Permission is granted to copy, distribute and/or modify this document under the
+       terms of the GNU Free Documentation License, Version 1.1; with the Invariant
+       Sections being LIST THEIR TITLES, with the Front-Cover Texts being LIST, and
+       with the Back-Cover Texts being LIST. A copy of the license is included in the
+       section entitled \"GNU Free Documentation License\""
+    - "Permission is granted to copy, distribute and/or modify this
+        document under the terms of the GNU Free Documentation License,
+        Version 1.1; with no Invariant Sections, with no Front-Cover Texts,
+        and with no Back-Cover Texts. A copy of the license is included in
+        the section entitled \"GNU Free Documentation License\""
+    - "Permission is granted to copy, distribute and/or modify this document
+       under the terms of the GNU Free Documentation License, Version 1.1
+       or any later version published by the Free Software Foundation;
+       with the Invariant Sections being LIST THEIR TITLES, with the
+       Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
+       A copy of the license is included in the section entitled \"GNU
+        Free Documentation License\".
+        
+        
+        GNU Free Documentation License
+        Version 1.1, March 2000"
+
+mappings:
+  "with or without modifying it, either commercially or noncommercially": "with or without modifying it, either commercially or non-commercially"

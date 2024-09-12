@@ -1,0 +1,19 @@
+canonicalName: OpenMap Software License Agreement
+category: OpenMap Software License Agreement
+shortName: OpenMap
+
+alternativeNames:
+  - "OpenMap Software License Agreement"
+
+otherIds:
+  - "scancode:openmap"
+
+evidence:
+  matches:
+    - "BBN maintains all rights, title and interest in and to
+       OpenMap, including all applicable copyrights, trade secrets,
+       patents and other intellectual rights therein"
+    - "Licensee hereby grants to BBN all right, title and interest into the compilation
+       of OpenMap"
+    - "Licensee shall own all rights, title and interest into the Derivative Works created
+       by Licensee (subject to the compilation ownership by BBN)"

@@ -1,0 +1,44 @@
+canonicalName: Globus Toolkit Public License 2.0
+category: Globus Toolkit Public License
+shortName: GTPL-2.0
+
+otherIds:
+  - "scancode:gtpl-v2"
+
+requiresCopyright: true
+requiresLicenseText: true
+requiresNote: true
+noteChecklist:
+  - "This product includes material developed by the Globus Project (http://www.globus.org/)."
+
+evidence:
+  matches:
+    - "Permission is
+       granted for the installation, use, reproduction, modification, display,
+       performance and redistribution of user files, manuals, and training and
+       demonstration slides (\"Documentation\") distributed with or specifically
+        designated as distributed under the GTPL"
+    - "The Documentation, alone or if included with a redistribution of
+           the Software, must include the following notice: \"This
+        product includes material developed by the Globus Project
+        (http://www.globus.org/)"
+    - "To the extent that patent claims licensable by the University of
+           Southern California and/or by the University of Chicago (as Operator
+           of Argonne National Laboratory) are necessarily infringed by the
+           use or sale of the Software, you and your transferees are granted
+           a non-exclusive, worldwide, royalty-free license under such patent
+           claims, with the rights to make, use, sell, offer to sell, import and
+           otherwise transfer the Software in source code and object code form"
+    - "The Globus Project may publish revised and/or new versions of
+           the GTPL from time to time"
+
+
+licenseTemplate:
+  - "<lq><codeph>SOFTWARE AND DOCUMENTATION ARE PROVIDED BY THE COPYRIGHT HOLDERS AND
+        CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+      BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY,
+      OF SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE OR
+      USE ARE DISCLAIMED.  THE COPYRIGHT HOLDERS AND CONTRIBUTORS MAKE
+      NO REPRESENTATION THAT THE SOFTWARE, DOCUMENTATION, MODIFICATIONS,
+      ENHANCEMENTS OR DERIVATIVE WORKS THEREOF, WILL NOT INFRINGE ANY
+      PATENT, COPYRIGHT, TRADEMARK, TRADE SECRET OR OTHER PROPRIETARY RIGHT</lq></codeph>"

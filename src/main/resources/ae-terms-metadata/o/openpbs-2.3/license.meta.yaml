@@ -1,0 +1,25 @@
+canonicalName: OpenPBS Software License 2.3
+category: OpenPBS Software License
+spdxIdentifier: OpenPBS-2.3
+
+otherIds:
+  - "scancode:openpbs-2.3"
+
+alternativeNames:
+  - "http://fedoraproject.org/wiki/Licensing/OpenPBS"
+  - "OpenPBS Software License v2.3"
+  - "OpenPBS (Portable Batch System) v2.3 Software License"
+  - "OpenPBS Software License 2.3"
+  - "OpenPBS v2.3 Software License"
+
+evidence:
+  matches:
+    - "Commercial and/or non-commercial use of the Software is permitted
+       provided a current software registration is on file at www.OpenPBS.org"
+    - "If use of this software contributes to a publication, product, or
+       service, proper attribution must be given"
+    - "Redistribution in any form is only permitted for non-commercial, non-profit purposes"
+    - "There can be no charge for the Software or any software incorporating the Software"
+    - "Further, there can be no expectation of revenue generated as a consequence of
+       redistributing the Software"
+

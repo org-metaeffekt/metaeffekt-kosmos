@@ -1,0 +1,17 @@
+canonicalName: C/Migemo License
+category: C/Migemo License
+shortName: CMigemo
+
+otherIds:
+  - "scancode:cmigemo"
+
+alternativeNames:
+  - "http://fedoraproject.org/wiki/Licensing/CMigemo"
+
+evidence:
+  matches:
+    - "Those who agreed with the following conditions may use this software"
+    - "Those who won't agree with them should stop using this software and should
+       remove the files related to this software from the memory media they are using"
+    - "The managers have a duty to resolve malfunctions of this software"
+    - "The managers have no responsibility for any damages the users may cause and may sustain"

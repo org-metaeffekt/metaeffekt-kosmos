@@ -1,0 +1,26 @@
+canonicalName: NCSA HTTPd License 1995
+category: NCSA HTTPd License
+shortName: ncsa-httpd-1995
+
+otherIds:
+  - "scancode:ncsa-httpd-1995"
+
+classification: proprietary free
+
+alternativeNames:
+  - "NCSA HTTPd License 1995"
+
+evidence:
+  matches:
+    - "NCSA HTTPd software, both binary and source (hereafter, Software) is copyrighted by The Board
+       of Trustees of the University of Illinois (UI), and ownership remains with the UI"
+    - "The UI grants you (hereafter, Licensee) a license to use the Software for academic, research and
+       internal business purposes only, without a fee"
+    - "Licensee may distribute the binary and source code (if released) to third parties provided that the
+       copyright notice and this statement appears on all copies and that no charge is associated with
+       such copies"
+    - "By using the right to terminate this license immediately by written notice upon Licensee's breach of,
+       or non-compliance with, any of its terms"
+    - "Licensee may be held legally responsible for any copyright infringement that is caused or encouraged
+       by Licensee's failure to abide by the terms of this license"
+

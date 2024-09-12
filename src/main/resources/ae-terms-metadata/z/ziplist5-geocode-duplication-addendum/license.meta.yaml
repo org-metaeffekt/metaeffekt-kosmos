@@ -1,0 +1,43 @@
+canonicalName: ZIPList5 Geocode Duplication License Addendum
+category: ZIPList5 Geocode Duplication License Addendum
+shortName: ZIPList5-Geocode-Duplication-Addendum
+
+otherIds:
+  - "scancode:ziplist5-geocode-duplication-addendum"
+
+alternativeNames:
+  - "ZIPList5 Geocode Duplication License Addendum"
+
+evidence:
+  matches:
+    - "Please read this ZIPList5 Geocode Duplication License Addendum before duplicating ZIPList5 Geocode"
+    - "This Duplication License Addendum amends and supplements the ZIPList5 Geocode End-User Enterprise License
+       or End-User Workstation License to which it is attached"
+    - "You and your organization, as the Licensee, indicate your acceptance of the Terms and Conditions of this
+       Addendum by duplicating and distribution to third parties derivative works containing ZIPList5 Geocode
+       in whole or in part"
+    - "If you do not agree to the terms of this Duplication License Addendum, you are not permitted to duplicate
+       ZIPList5 Geocode for distribution to third parties, and you must immediately notify CD Light,
+       LLC for a refund of the duplication license addendum purchase price"
+    - "CD Light, LLC grants Licensee the following additional non-exclusive, world-wide rights with respect
+       to ZIPList5 Geocode"
+    - "Licensee may: (a) use ZIPList5 Geocode in accordance with the terms of this Addendum;
+       (b) make multiple copies of ZIPList5 Geocode for backup or archival purposes;
+       (c) incorporate ZIPList5 Geocode, in whole or in part, into a derivative work, for commercial or non-profit
+       distribution outside of Licensee's organization; and
+       (d) make and sell multiple copies of the derivative work containing ZIPList5 Geocode, provided Licensee
+       makes no more copies than the number specified by the ZIPList5 Geocode Duplication License Addendum invoice
+       issued to Licensee by CD Light, LLC"
+    - "Licensee may NOT: (a) use, copy, or distribute ZIPList5 Geocode except as provided in this Addendum;
+       (b) modify, adapt, or translate ZIPList5 Geocode in whole or in part, except as provided in this Addendum; or
+       (c) copy and/or distribute ZIPList5 Geocode in its entirety as a database file containing nothing other
+       than raw data"
+  excludes:
+    - "Geocode at multiple locations and/or on multiple computers or workstations"
+    - "transfer, rent, lease, lend, copy, modify, translate, sublicense, timeshare, or electronically transmit ZIPList5
+       Geocode or any derivatives thereof to any third party"
+    
+references:
+  "ZIPList5 Geocode End-User Enterprise License Agreement":
+    matches:
+      - "This Duplication License Addendum amends and supplements the ZIPList5 Geocode End-User Enterprise License or End-User Workstation License to which it is attached"

@@ -1,0 +1,27 @@
+canonicalName: Microsoft Software License (MSN WebGrease)
+category: Microsoft Software
+shortName: MS-Software-MSN-Webgrease
+
+otherIds:
+  - "scancode:ms-msn-webgrease"
+
+canonicalNameHistory:
+  - "Microsoft MSN WebGrease License"
+
+alternativeNames:
+  - "Microsoft MSN WebGrease License"
+  - "MICROSOFT MSN WEBGREASE"
+
+evidence:
+  matches:
+    - "You may permit distributors of your programs to copy and distribute the Distributable
+       Code as part of those programs"
+    - "INTERNET-BASED SERVICES. Microsoft provides Internet-based services with the software"
+    - "It may change or cancel them at any time"
+    - "You may not use these services in any way that could harm them or impair anyone else’s use of them"
+    - "You may not use the services to try to gain unauthorized access to any service, data,
+       account or network by any means"
+    - "If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles"
+  excludes:
+    - "AS DESCRIBED BELOW, USING THE SOFTWARE ALSO OPERATES AS YOUR CONSENT TO THE TRANSMISSION OF CERTAIN COMPUTER INFORMATION DURING ACTIVATION, VALIDATION AND FOR INTERNET-BASED SERVICES"
+    - "AS DESCRIBED BELOW, USING SOME FEATURES ALSO OPERATES AS YOUR CONSENT TO THE TRANSMISSION OF CERTAIN STANDARD COMPUTER INFORMATION FOR INTERNET-BASED SERVICES"

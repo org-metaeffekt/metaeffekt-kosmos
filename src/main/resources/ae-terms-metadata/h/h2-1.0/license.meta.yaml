@@ -1,0 +1,26 @@
+canonicalName: H2 License 1.0
+category: H2 License
+shortName: H2-1.0
+
+otherIds:
+  - "scancode:h2-1.0"
+
+alternativeNames:
+  - "H2 License - Version 1.0"
+  - "h2-1.0"
+
+evidence:
+  matches:
+    - "As between Initial Developer and the Contributors, each party is responsible for
+       claims and damages arising, directly or indirectly, out of its utilization of
+       rights under this License and You agree to work with Initial Developer and
+       Contributors to distribute such responsibility on an equitable basis"
+    - "Nothing herein is intended or shall be deemed to constitute any admission of liability"
+    - "Initial Developer may designate portions of the Covered Code as 'Multiple-Licensed'"
+    - "'Multiple-Licensed' means that the Initial Developer permits you to
+       utilize portions of the Covered Code under Your choice of this or the
+       alternative licenses, if any, specified by the Initial Developer in the file
+       described in Exhibit A"
+  excludes:
+    - "These additional terms described in this Openbravo Public License – Additional Terms shall
+       apply to the Covered Code under this License"

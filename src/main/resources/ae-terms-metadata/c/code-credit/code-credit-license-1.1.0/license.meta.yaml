@@ -1,0 +1,30 @@
+canonicalName: Code Credit License 1.1.0
+category: Code Credit License
+shortName: Code-Credit-License-1.1.0
+
+otherIds:
+  - "scancode:code-credit-license-1.1.0"
+
+alternativeNames:
+  - "Code Credit License
+
+     Version 1.1.0"
+
+
+evidence:
+  matches:
+    - "Make sure everyone who gets a copy of any part of
+       this software from you, with or without changes,
+       also gets the text of this license or a link to
+       <https://codecreditlicense.com/license/1.1.0>"
+    - "In general, give credit in such a way that others can
+       freely and readily find a written notice identifying
+       this software, by name, as a contribution to your goods
+       or services, as well as each contributor, by name, as a
+       contributor to this software.  Do not do anything to stop
+       others from sharing, publishing, or using those credits"
+    - "For software provided to users to
+       run on their own computers, give credit in documentation,
+       notice files, and any \"about\" page or screen.  For software
+        provided as a web service, give credit in `credits.txt`
+        according to <https://creditstxt.com>"

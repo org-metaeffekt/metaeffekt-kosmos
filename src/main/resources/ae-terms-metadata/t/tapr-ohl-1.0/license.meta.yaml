@@ -1,0 +1,29 @@
+canonicalName: TAPR Open Hardware 1.0
+category: TAPR OHL
+spdxIdentifier: TAPR-OHL-1.0
+
+otherIds:
+  - "scancode:tapr-ohl-1.0"
+
+alternativeNames:
+  - "TAPR-OHL-1.0"
+  - "TAPR Open Hardware License v1.0"
+  - "TAPR Open Hardware License Version 1.0"
+
+evidence:
+  matches:
+    - "You may modify the documentation and make products based upon it"
+    - "You may use products for any legal purpose without limitation"
+    - "You may distribute unmodified documentation, but you must include the complete
+       package as you received it"
+    - "You may distribute products you make to third parties, if you either include
+       the documentation on which the product is based, or make it available without
+       charge for at least three years to anyone who requests it"
+
+references:
+  "GPL":
+    matches:
+    - "Unlike the GPL, the OHL is not primarily a copyright license"
+    - "A copyright-oriented license such as the GPL better suits these creations"
+    - "Like the GNU General Public License, the OHL is designed to guarantee your
+       freedom to share and to create"

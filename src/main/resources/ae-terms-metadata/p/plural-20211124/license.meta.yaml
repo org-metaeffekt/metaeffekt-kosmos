@@ -1,0 +1,51 @@
+canonicalName: Plural License 2021
+category: Plural License
+shortName: Plural-2021
+
+otherIds:
+  - "scancode:plural-20211124"
+
+alternativeNames:
+  - "Plural Licensing 20211124"
+
+expectedMatches:
+  - "MIT License"
+  - "Apache License 2.0"
+  - "GNU Affero General Public License 3.0"
+
+#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
+ignoreMatches:
+  - "MIT License"
+  - "Apache License 2.0"
+  - "GNU Affero General Public License 3.0"
+
+evidence:
+  matches:
+    - "You may be licensed to use source code to create compiled versions not produced by Plural Labs, Inc. in one of three ways"
+    - "Under a commercial license available from Plural Labs, Inc. by contacting commercial@plural.sh"
+    - "Creating a licensed installation on app.plural.sh"
+    - "You are licensed to use the source code in Admin Tools and Configuration Files (plural/) under the Apache License v2.0"
+    - "We promise that we will not enforce the copyleft provisions in AGPL v3.0 against you if your application (a) does not link to the Plural Platform directly, but exclusively uses the Plural Admin Tools and Configuration Files, and (b) you have not modified, added to or adapted the source code of Plural in a way that results in the creation of a “modified version” or “work based on” Plural as these terms are defined in the AGPL v3.0 license"
+
+references:
+  "AGPL":
+    matches:
+      - "1. Under the Free Software Foundation’s GNU AGPL v.3.0, subject to the exceptions outlined in this policy; or
+         2. Under a commercial license available from Plural Labs, Inc. by contacting commercial@plural.sh
+         3. Creating a licensed installation on app.plural.sh"
+      - "We promise that we will not enforce the copyleft provisions in AGPL v3.0 against you if your application (a) does not
+         link to the Plural Platform directly, but exclusively uses the Plural Admin Tools and Configuration Files, and
+         (b) you have not modified, added to or adapted the source code of Plural in a way that results in the creation of
+         a “modified version” or “work based on” Plural as these terms are defined in the AGPL v3.0 license."
+  "Apache License":
+    matches:
+      - "3. Creating a licensed installation on app.plural.sh
+
+         You are licensed to use the source code in Admin Tools and Configuration Files (plural/) under the Apache License v2.0."
+  "MIT":
+    matches:
+      - "Plural Licensing
+
+         SOFTWARE LICENSING
+
+         You are licensed to use compiled versions of the Plural platform produced by Plural Labs, Inc. under an MIT LICENSE"

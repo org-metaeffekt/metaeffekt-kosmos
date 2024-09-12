@@ -1,0 +1,25 @@
+canonicalName: Fair License
+category: Fair
+spdxIdentifier: Fair
+
+otherIds:
+  - "scancode:fair"
+  - "osi:Fair"
+
+requiresLicenseText: false
+requiresCopyright: false
+
+alternativeNames:
+- "Fair License"
+- "FAIR LICENSE"
+- "FAIR License"
+- "http://opensource.org/licenses/fair.php"
+- "http://www.opensource.org/licenses/fair.php"
+- "https://spdx.org/licenses/fair"
+
+evidence:
+  matches:
+    - "Usage of the works is permitted provided that this instrument is retained
+       with the works, so that any entity that uses the works is notified of this
+       instrument"
+    - "THE WORKS ARE WITHOUT WARRANTY"

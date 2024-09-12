@@ -1,0 +1,25 @@
+canonicalName: ilmid License
+category: ilmid License
+shortName: ilmid
+
+otherIds:
+  - "scancode:ilmid"
+
+alternativeNames:
+  - "ilmid license"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify and distribute this
+       software and its documentation is hereby granted,
+       provided that both the copyright notice and this
+       permission notice appear in all copies of the software,
+       derivative works or modified versions, and any portions
+       thereof, that both notices appear in supporting
+       documentation, and that the use of this software is
+       acknowledged in any publications resulting from using
+       the software"
+    - "I ALLOW FREE USE OF THIS SOFTWARE IN ITS 'AS IS'
+       CONDITION AND DISCLAIM ANY LIABILITY OF ANY KIND FOR
+       ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS
+       SOFTWARE"

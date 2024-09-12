@@ -1,0 +1,47 @@
+canonicalName: EDRDG General Dictionary License 2000
+category: EDRDG General Dictionary
+shortName: EDRDG-2000
+
+otherIds:
+  - "scancode:edrdg-2000"
+
+alternativeNames:
+  - "ELECTRONIC DICTIONARY RESEARCH AND DEVELOPMENT GROUP GENERAL DICTIONARY LICENCE STATEMENT"
+
+# FIXME-CONCEPT: expectedMatches
+ignoreMatches:
+  - "Creative Commons BY-SA 3.0"
+
+references:
+  "GPL":
+    matches:
+    - "however the placing of the KANJD212 and EDICTH files under the GNU GPL has been withdrawn as of 25 March 2000"
+
+evidence:
+  matches:
+    - "In March 2000, James William Breen assigned ownership of the copyright of the
+       dictionary files assembled, coordinated and edited by him to the The Electronic
+       Dictionary Research and Development Group, then at Monash University (hereafter
+       \"the Group\"), on the understanding that the Group will foster the development
+        of the dictionary files, and will utilize all monies received for use of the
+        files for the further development of the files, and for research into computer
+        lexicography and electronic dictionaries"
+    - "Special Conditions for the KANJIDIC, KANJD212 and KANJIDIC2 Files
+       In addition to licensing arrangements described above, the following additional
+       conditions apply to the KANJIDIC, KANJD212 and KANJIDIC2 files"
+    - "Note that in all cases, the addition of material to the files or to extracts
+       from the files does not remove or in any way diminish the Group's copyright
+       over the files. Users of material from the files must NOT claim copyright over
+       that material"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "Any individual or organization in possession of copies of the files, upon becoming aware that a possible copyright infringement may be present in the files, must undertake to contact the Group immediately with details of the possible infringement. 7. Prior Permission All permissions for use of the files granted by James William Breen prior to March 2000 will be honoured and maintained, however the placing of the KANJD212 and EDICTH files under the GNU GPL has been withdrawn as of 25 March 2000.",
+
+        matchNext: "8. Special Conditions for the KANJIDIC, KANJD212 and KANJIDIC2 Files In addition to licensing arrangements described above, the following additional conditions apply to the KANJIDIC, KANJD212 and KANJIDIC2 files. The following people have granted permission for material for which they hold copyright to be included in the files, and distributed under the above conditions, while retaining their copyright over that material: Jack HALPERN: The SKIP codes. Note that the SKIP codes are under their own similar Creative Common licence. See Jack Halpern's conditions_of_use page. Christian WITTERN and Koichi YASUOKA: The Pinyin information. Urs APP: the Four Corner codes and the Morohashi information. Mark SPAHN and Wolfgang HADAMITZKY: the kanji descriptors from their dictionary. Charles MULLER: the Korean readings. Joseph DE ROO: the De Roo codes. 9. Enquiries All enquiries to: The Electronic Dictionary Research and Development Group Attn: Dr Jim Breen (jimbreen@gmail.com)"
+          
+    }
+
+  ]

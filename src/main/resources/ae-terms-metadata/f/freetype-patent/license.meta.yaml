@@ -1,0 +1,32 @@
+canonicalName: FreeType Patent Grant
+category: FreeType Patent Grant
+shortName: FreeType-Patent
+
+otherIds:
+  - "scancode:freetype-patent"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "each contributor to the Work hereby grants to any individual or legal entity exercising permissions granted by
+       the FreeType Project License and this section (hereafter, \"You\" or \"Your\") a perpetual, worldwide,
+       non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license"
+    - "where such license applies only to those
+       patent claims licensable by such contributor that are necessarily
+       infringed by their contribution(s) alone or by combination of their
+       contribution(s) with the Work to which such contribution(s) was submitted"
+    - "If You institute patent litigation against any entity
+       (including a cross-claim or counterclaim in a lawsuit) alleging that
+       the Work or a contribution incorporated within the Work constitutes
+       direct or contributory patent infringement, then any patent licenses
+       granted to You under this License for that Work shall terminate as of
+       the date such litigation is filed"
+
+references:
+  "FreeType":
+    matches:
+      - "subject to the terms and conditions of the FreeType Project License"
+      - "each contributor to the Work hereby grants to any individual or legal entity exercising permissions granted
+         by the FreeType Project License "

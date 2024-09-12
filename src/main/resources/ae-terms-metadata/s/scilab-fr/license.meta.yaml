@@ -1,0 +1,18 @@
+canonicalName: SCILAB License (FR)
+category: SCILAB License
+shortName: SCILAB-FR
+
+otherIds:
+  - "scancode:scilab-fr"
+
+alternativeNames:
+  - "Licence SCILAB"
+
+evidence:
+  matches:
+    - "La présente licence a pour objet d'établir les conditions dans
+       lesquelles vous pouvez utiliser, modifier et diffuser le LOGICIEL"
+    - "Toutefois l'INRIA et l'ENPC demeurent les auteurs du LOGICIEL et conservent
+       la jouissance et l'usage de tous les droits qui y sont attachés"
+    - "Toute utilisation ou diffusion commerciale du LOGICIEL DERIVE
+       doit être préalablement autorisée par l'INRIA et l'ENPC"

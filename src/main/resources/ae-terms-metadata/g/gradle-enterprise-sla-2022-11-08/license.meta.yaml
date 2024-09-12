@@ -1,0 +1,21 @@
+canonicalName: Gradle Enterprise Software License Agreement 2022-11-08
+category: Gradle Enterprise Software License Agreement
+shortName: Gradle-Enterprise-SLA-2022-11-08
+
+otherIds:
+  - "scancode:gradle-enterprise-sla-2022-11-08"
+
+alternativeNames:
+  - "Gradle Enterprise Software License Agreement"
+
+evidence:
+  matches:
+    - "This Gradle Enterprise Software License Agreement (the “Agreement”) is entered into as of the date these terms are accepted by Customer (as defined below) (“Effective Date”), by and between Gradle, Inc., a Delaware corporation with its principal place of business at 2261 Market Street #4081, San Francisco, CA 94114 (“Gradle” or “Company”) and the end user of the Software (as defined below), on behalf of itself or its Affiliates (“Customer”) (each of Gradle and Customer a “Party” and together, the “Parties”)"
+    - "“User” means a person who accesses, uses, interacts with or directs the Software in the performance of its functions and/or contributing code to a source repository that has a build that is connected with Gradle Enterprise to collect build data, use the Gradle Enterprise build cache or use the Gradle Enterprise testing agent"
+    - "If Software is disabled by any such License Key Mechanism during the applicable Order Form Term in the absence of any unauthorized use of the Software, Gradle shall promptly provide Software “keys” to enable the Software at Customer’s request"
+    - "Each Order Form shall specify the authorized scope of use for the Software, which may include, as applicable, (i) usage metrics and (ii) the number and type of authorized Seats (as defined below) (collectively, “Scope of Use”)"
+    - "Upon any renewal of the applicable Order Form Term, Gradle shall invoice Customer for all Seats at once (including the Seats added pursuant to an expansion Order Form), at the then-current price"
+    - "Subject to the terms and conditions of this Agreement, Gradle grants to Customer a non-exclusive, non-sublicensable and non-transferable license to install and use the Software during the applicable Order Form Term in accordance with this Agreement, the Scope of Use, the Documentation and the Order Form"
+    - "All Software provided by Gradle, including third party embedded software, shall have the latest security patches installed as follows: (i) for Software provided by Gradle, all security patches shall be made available to Customer promptly upon release"
+
+

@@ -1,0 +1,24 @@
+canonicalName: JAHIA Sustainable Enterprise License 2.0
+category: JAHIA Sustainable Enterprise License (JSEL)
+shortName: jsel-2.0
+
+otherIds:
+  - "scancode:jsel-2.0"
+
+classification: commercial
+
+canonicalNameHistory:
+  - "JAHIA Sustainable Enterprise License (JSEL) 2.0"
+
+alternativeNames:
+  - "JAHIA Sustainable Enterprise License (JSEL) 2.0"
+  - "JAHIA Sustainable Enterprise License 2.0"
+
+evidence:
+  matches:
+    - "You have agreed to the terms of this License by selecting the 'Accept'
+       button at the end of the JSEL or executing a hardcopy JSEL or a document
+       that expressly referred to the License with Jahia Solutions Group SA ('JSG')"
+    - "The Commercial Use must be approved by You and JSG with the signature of a
+       related document, delivered by JSG, in order to become effective"
+    - "Capitalized terms used in this License are defined in the Definitions section"

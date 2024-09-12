@@ -1,0 +1,21 @@
+canonicalName: Android Software Development Kit License Agreement 2015
+category: Android SDK
+shortName: Android-SDK-2015
+
+otherIds:
+  - "scancode:android-sdk-license"
+
+evidence:
+  matches:
+    - "Subject to the terms of the License Agreement, Google grants you a limited,
+       worldwide, royalty-free, non-assignable, non-exclusive, and non-sublicensable
+       license to use the SDK solely to develop applications for compatible
+       implementations of Android"
+    - "You may not use this SDK to develop applications for other platforms
+       (including non-compatible implementations of Android) or to develop another SDK"
+    - "You are of course free to develop applications for other platforms, including
+       non-compatible implementations of Android, provided that this SDK is not used
+       for that purpose"
+  excludes:
+    - "your must make the users aware that the information will be available to your application"
+    - "July 27, 2021"

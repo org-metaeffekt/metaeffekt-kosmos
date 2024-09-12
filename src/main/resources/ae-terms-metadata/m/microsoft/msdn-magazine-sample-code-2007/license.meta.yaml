@@ -1,0 +1,13 @@
+canonicalName: Microsoft MSDN Magazine Sample Code EULA 2007
+category: Microsoft MSDN Magazine Sample Code EULA
+shortName: MSDN-Magazine-Sample-Code-2007
+
+otherIds:
+  - "scancode:msdn-magazine-sample-code-2007"
+
+evidence:
+  matches:
+    - "Your license rights to the MS Samples are conditioned upon your (i) not incorporating Identified Software into, or combining Identified Software with, the MS Samples or a derivative work thereof"
+    - "“Identified Software” means software which is licensed pursuant to terms that directly or indirectly (A) create, or purport to create, obligations for Microsoft with respect to the MS Samples or derivative work thereof or (B) grant, or purport to grant, to any third party any rights or immunities under Microsoft’s intellectual property or proprietary rights in the MS Samples or derivative work thereof"
+    - "Solely with respect to the sample source code contained in the Software (“MS Samples”), Microsoft also grants you  a limited, nonexclusive, royalty-free license to"
+    - "use and modify the source code version of those portions of the MS Samples for the sole purposes of designing, developing, and testing your software product(s)"

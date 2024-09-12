@@ -1,0 +1,64 @@
+canonicalName: Code Project Open License 1.02
+category: CPOL
+spdxIdentifier: CPOL-1.02
+
+otherIds:
+  - "scancode:cpol-1.02"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "Code Project Open License 1.02"
+  - "CPOL-1.02"
+  - "Code Project Open License (CPOL) 1.02"
+  - "CPOL, Version 1.02"
+  - "CPOL, 1.02"
+  - "CPOL 1.02"
+
+evidence:
+  matches:
+    - "This does not
+       restrict you from including the Work or any part of the Work inside a larger
+       software distribution that itself is being sold"
+
+grants:
+  Source code delivery OR Binary delivery:
+    matches:
+      - "allow developers to use the Source Code and Executable Files provided as part of the Work in any application
+         in any form"
+    obligations:
+      Source code delivery OR Binary delivery:
+        matches:
+          - "You agree not to remove any of the original copyright*notices*that may appear in the Source Code or
+             Executable Files."
+          - "You agree not to remove any of the original*patent*notices*that may appear in the Source Code or
+             Executable Files"
+          - "You agree not to remove any of the original*trademark*notices*that may appear in the Source Code or
+             Executable Files"
+          - "You agree not to remove any of the original*associated disclaimers that may appear in the Source Code or
+             Executable Files"
+          - "You must include a copy of*this License with every copy of the Executable Files or Source Code You
+             distribute"
+          - "You must include*the Uniform Resource Identifier for, this License with every copy of the Executable
+             Files or Source Code You distribute"
+          - "You may otherwise modify Your copy of this Work (excluding the Articles) in any way to create a Derivative
+             Work"
+          - "provided that You insert a prominent notice in each changed file stating how*and where You changed that
+             file"
+          - "You agree not to advertise or in any way imply that this Work is a product of Your own"
+          - "The name of the Author may not be used to endorse or promote products derived from the Work"
+          - "You may not offer or impose any terms on the Work that alter or restrict the terms of this License or the
+             recipients exercise of the rights granted hereunder"
+          - "You agree not to use the Work for illegal, immoral or improper purposes, or on pages containing illegal,
+             immoral or improper material"
+          - "You agree to defend, indemnify and hold harmless the Author and the Publisher from and against any claims,
+             suits, losses, damages, liabilities, costs, and expenses (including reasonable legal or attorneys'' fees)
+             resulting from or relating to any use of the Work by You"
+
+references:
+  "Public Domain":
+    matches:
+      - "You may apply bug fixes, portability fixes and other modifications obtained
+         from the Public Domain or from the Author. A Work modified in such a way shall
+         still be considered the standard version and will be subject to this License"

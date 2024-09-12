@@ -1,0 +1,21 @@
+canonicalName: Microsoft SQL Server Data Tools License
+category: Microsoft SQL Server Data Tools License
+shortName: MS-SQL-Server-Data-Tools
+
+otherIds:
+  - "scancode:ms-sql-server-data-tools"
+
+alternativeNames:
+  - "Microsoft SQL Server Data Tools License"
+
+evidence:
+  matches:
+    - "You may copy and distribute the object code form of the Microsoft SQL Server Data-Tier
+       Application Framework ('Distributable Code') in programs you develop; and"
+    - "You may permit distributors of your programs to copy and distribute the Distributable
+       Code as part of those programs"
+    - "for any Distributable Code having a filename extension of .lib, distribute only the
+       results of running such Distributable Code through a linker with your program"
+    - "transfer the software or this agreement to any third party"
+    - "The software includes other Microsoft SQL Server technologies"
+    - "The software may install automatic updates, which cannot be turned off"

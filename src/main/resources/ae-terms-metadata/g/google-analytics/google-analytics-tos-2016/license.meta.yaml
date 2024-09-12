@@ -1,0 +1,22 @@
+canonicalName: Google Analytics Terms of Service 2016
+category: Google Analytics Terms of Service
+shortName: Google-Analytics-TOS-2016
+
+otherIds:
+  - "scancode:google-analytics-tos-2016"
+
+alternativeNames:
+  - "Google Analytics Terms of Service 2016"
+
+evidence:
+  matches:
+    - "You will not and will not assist or permit any third party to, pass
+       information to Google that Google could use or recognize as personally
+       identifiable information"
+    - "You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service"
+    - "You may participate in an integrated version of Google Analytics and certain DoubleClick
+       and Google advertising services ('Google Analytics Advertising Features')"
+    - "If You use Google Analytics Advertising Features, You will adhere to the Google Analytics
+       Advertising Features policy (available at support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409)
+       Your access to and use of any DoubleClick or Google advertising service is subject to the applicable terms
+       between You and Google regarding that service"

@@ -1,0 +1,41 @@
+canonicalName: Creative Commons BY-SA 3.0
+category: CC-BY-SA
+spdxIdentifier: CC-BY-SA-3.0
+
+otherIds:
+  - "scancode:cc-by-sa-3.0"
+
+requiresCopyright: false
+requiresLicenseText: false
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+alternativeNames:
+  - "Creative Commons Attribution Share Alike 3.0"
+  - "CC-BY-SA-3.0"
+  - "Creative Commons Attribution-ShareAlike 3.0"
+  - "Creative Common Attribution-ShareAlike 3.0"
+  - "http://creativecommons.org/licenses/by-sa/3.0/"
+  - "http://creativecommons.org/licenses/by-sa/3.0"
+  - "Creative Commons Attribution-Share Alike 3.0"
+  - "https://creativecommons.org/licenses/by-sa/3.0/"
+  - "Creative Commons Attribution-ShareAlike Licence (V3.0)"
+
+evidence:
+  matches:
+  - "You may Distribute or Publicly Perform the Work only under the terms of
+     this License"
+  - "You may Distribute or Publicly Perform an Adaptation only under the terms
+     of: (i) this License; (ii) a later version of this License with the same License
+     Elements as this License; (iii) a Creative Commons jurisdiction license (either
+     this or a later license version) that contains the same License Elements as
+     this License (e.g., Attribution-ShareAlike 3.0 US)); (iv) a Creative Commons
+     Compatible License. If you license the Adaptation under one of the licenses
+     mentioned in (iv), you must comply with the terms of that license"
+  - "You must, unless a request has been made pursuant to Section 4(a), keep intact
+     all copyright notices for the Work"
+  excludes:
+    - "THE LICENSOR IS NOT NECESSARILY AN INTERGOVERNMENTAL ORGANIZATION (IGO), AS DEFINED IN THE LICENSE BELOW"
+    - "http://creativecommons.org/licenses/by-sa/3.0/legalcode"
+

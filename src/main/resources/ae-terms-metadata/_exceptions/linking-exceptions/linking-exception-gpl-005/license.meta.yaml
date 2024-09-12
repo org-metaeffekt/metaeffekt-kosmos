@@ -1,0 +1,32 @@
+canonicalName: Linking Exception (GPL; variant 005)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-005
+
+canonicalNameHistory:
+  - "Unlimited Linking Exception (to GPL)"
+
+otherIds:
+  - "scancode:unlimited-linking-exception-gpl"
+
+type: exception
+
+evidence:
+  matches:
+    - "In addition to the permissions in the GNU General Public License, the
+       Free Software Foundation gives you unlimited permission to link the
+       compiled version of this file with other programs, and to distribute
+       those programs without any restriction coming from the use of this file"
+    - "(The General Public License restrictions do apply in other
+       respects; for example, they cover modification of the file, and
+       distribution when not linked into another program.)"
+
+references:
+  "GPL":
+    matches:
+      - "(The General Public License restrictions do apply in other
+         respects; for example, they cover modification of the file, and
+         distribution when not linked into another program.)"
+      - "In addition to the permissions in the GNU General Public License, the
+         Free Software Foundation gives you unlimited permission to link the
+         compiled version of this file with other programs, and to distribute
+         those programs without any restriction coming from the use of this file"

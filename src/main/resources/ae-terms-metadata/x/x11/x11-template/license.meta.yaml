@@ -1,0 +1,137 @@
+canonicalName: X11 License
+category: X11
+spdxIdentifier: X11
+
+otherIds:
+  - "scancode:x11-xconsortium"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+alternativeNames:
+  - "X License"
+  - "MIT/X Consortium"
+  - "X/MIT License"
+  - "X11 License"
+  - "MIT X11 License"
+  - "MIT X11 license"
+  - "MIT/X11"
+  - "MIT/X11 License"
+  - "X11 LICENSE"
+  - "Expat~X with X exception"
+  - "This project is MIT/X11 licensed"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of charge, to any person obtaining a copy
+       of this software and associated documentation files (the \"Software\"), to deal
+       in the Software without restriction, including without limitation the rights
+       to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+       copies of the Software, and to permit persons to whom the Software is furnished
+       to do so, subject to the following conditions"
+    - "The above copyright notice and this permission notice shall be included in
+       all copies or substantial portions of the Software"
+    - "IN NO EVENT SHALL *{.{0,120}}* BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+       WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+       IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+       IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
+    - "Except as contained in this notice*{.{0,1}}* the name*{.{0,5}}* of *{.{0,120}}* shall not be used in
+       advertising or otherwise to promote the sale*{.{0,1}}* use or other dealings in this
+       Software without prior written authorization"
+  excludes:
+    - "The above copyright notice including the dates of first publication and either
+       this permission notice or a reference to"
+    - "(a) running on a Xilinx device, or (b) that interact with a Xilinx device through a bus or interconnect"
+    - "Any stylesheet derived from this Software that is publically
+       distributed will be identified with a different name and the
+       version strings in any derived Software will be changed so that
+       no possibility of confusion between the derived package and this
+       Software will exist"
+    - "Contributors to this project agree to grant all rights to the copyright holder
+       of the primary product. Attribution is maintained in the source control history
+       of the product"
+    - "IN NO EVENT SHALL THE DANIEL VEILLARD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM"
+    - "Except as contained in this notice, the name of the XFree86 Project shall not be
+       used in advertising or otherwise to promote the sale, use or other dealings in
+       this Software without prior written authorization from the XFree86 Project"
+    - "XDMCP
+       Copyright 1989, 1998  The Open Group
+       Permission to use, copy, modify, distribute, and sell this software and its
+       documentation for any purpose is hereby granted without fee,"
+
+# this revert is for the xconsortium-container variant
+segmentation:
+  revert: [
+    {
+      match:
+        "Copyright: 1993, 1994 X Consortium",
+      
+      matchNext: "License: MIT Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE X CONSORTIUM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. Except as contained in this notice, the name of the X Consortium shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from the X Consortium."
+    }
+]
+
+
+grants:
+  binary-distribution:
+    subject: binary
+    action: distribute
+    matches:
+    - "to deal in the Software without restriction, including without limitation *{.{0,5}}* the rights to use, copy, modify, merge,
+       publish, distribute, sublicense, and/or sell copies of the Software"
+    obligations:
+      include-permission-license:
+        mandatory: true
+        description: "include permission notice"
+        matches:
+          - "The above copyright notice*shall be included in all copies*of the Software"
+      no-promotion:
+        mandatory: true
+        matches:
+          - "the name* of * shall not be used in advertising or otherwise to promote * this Software"
+
+standardVariableSet:
+  copyrightHolder: "the copyright holders"
+  organization1: "THE COPYRIGHT HOLDERS"
+  organization2: "said copyright holders"
+
+licenseTemplate:
+  "<lq>Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
+  and associated documentation files (the \"Software\"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is furnished
+  to do so, subject to the following conditions:
+  <p>The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.</p>
+  <codeph>THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+  {{organization2}} BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+  IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</codeph><p/>
+  Except as contained in this notice, the name of {{copyrightHolder}} shall not be used in
+  advertising or otherwise to promote the sale, use or other dealings in this
+  Software without prior written authorization from {{organization1}}.</lq>"
+
+mappings:
+  "Copyright \\(c\\) 1987, 1989-1990, 1992-1995 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copy": " LICENSE-SEGMENT-MARKER Copyright (c) 1987, 1989-1990, 1992-1995 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copy"
+  "Copyright \\(c\\) 1994, 1995 Hewlett-Packard CompanyNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining": " LICENSE-SEGMENT-MARKER Copyright (c) 1994, 1995 Hewlett-Packard CompanyNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining"
+  "Copyright 1989 by Hewlett-Packard Company, Palo Alto, California.NEWLINE-MARKERAll Rights ReservedNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and distribute this software and itsNEWLINE-MARKERdocumentation for any purpose and without fee is hereby granted": " LICENSE-SEGMENT-MARKER Copyright 1989 by Hewlett-Packard Company, Palo Alto, California.NEWLINE-MARKERAll Rights ReservedNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and distribute this software and itsNEWLINE-MARKERdocumentation for any purpose and without fee is hereby granted"
+  "Copyright \\(c\\) 1997 Metro Link IncorporatedNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining aNEWLINE-MARKERcopy of this software and associated documentation": " LICENSE-SEGMENT-MARKER Copyright (c) 1997 Metro Link IncorporatedNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining aNEWLINE-MARKERcopy of this software and associated documentation"
+  "Copyright \\(c\\) 2000 by Conectiva S.A. \\(http://www.conectiva.com\\)NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining": " LICENSE-SEGMENT-MARKER Copyright (c) 2000 by Conectiva S.A. (http://www.conectiva.com)NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining"
+  "Copyright \\(C\\) 2001-2004 Harold L Hunt II All Rights Reserved.NEWLINE-MARKERCopyright \\(C\\) Colin Harrison 2005-2008NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtainingNEWLINE-MARKERa copy of this software and": " LICENSE-SEGMENT-MARKER Copyright (C) 2001-2004 Harold L Hunt II All Rights Reserved.NEWLINE-MARKERCopyright (C) Colin Harrison 2005-2008NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtainingNEWLINE-MARKERa copy of this software and"
+  "Copyright 1995 Kaleb S. KEITHLEYNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtainingNEWLINE-MARKERa copy of this software and associated documentation files": " LICENSE-SEGMENT-MARKER Copyright 1995 Kaleb S. KEITHLEYNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtainingNEWLINE-MARKERa copy of this software and associated documentation files"
+  "Copyright 2004, Egbert EichNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copyNEWLINE-MARKERof this software and associated documentation files": " LICENSE-SEGMENT-MARKER Copyright 2004, Egbert EichNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copyNEWLINE-MARKERof this software and associated documentation files"
+  "Copyright \\(c\\) 1994-2003 by The XFree86 Project, Inc.NEWLINE-MARKERCopyright 1997 by Metro Link, Inc.NEWLINE-MARKERCopyright 2003 by David H. Dawes.NEWLINE-MARKERCopyright 2003 by X-Oz Technologies.NEWLINE-MARKERCopyright \\(c\\) 2004, X.Org FoundationNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining aNEWLINE-MARKERcopy of this software and associated documentation": " LICENSE-SEGMENT-MARKER Copyright (c) 1994-2003 by The XFree86 Project, Inc.NEWLINE-MARKERCopyright 1997 by Metro Link, Inc.NEWLINE-MARKERCopyright 2003 by David H. Dawes.NEWLINE-MARKERCopyright 2003 by X-Oz Technologies.NEWLINE-MARKERCopyright (c) 2004, X.Org FoundationNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining aNEWLINE-MARKERcopy of this software and associated documentation"
+  "Copyright 1996 by Thomas E. Dickey <dickey@clark.net>NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER All Rights ReservedNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and distribute this software and itsNEWLINE-MARKERdocumentation for any purpose and without fee is hereby granted,NEWLINE-MARKERprovided that the above copyright notice appear": " LICENSE-SEGMENT-MARKER Copyright 1996 by Thomas E. Dickey <dickey@clark.net>NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER All Rights ReservedNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and distribute this software and itsNEWLINE-MARKERdocumentation for any purpose and without fee is hereby granted,NEWLINE-MARKERprovided that the above copyright notice appear"
+  "Copyright \\(C\\) 2005 Bogdan D. bogdand@users.sourceforge.netNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copy ofNEWLINE-MARKERthis software and associated documentation files": " LICENSE-SEGMENT-MARKER Copyright (C) 2005 Bogdan D. bogdand@users.sourceforge.netNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copy ofNEWLINE-MARKERthis software and associated documentation files"
+  "Copyright © 2002 David DawesNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining aNEWLINE-MARKERcopy of this software and associated": " LICENSE-SEGMENT-MARKER Copyright © 2002 David DawesNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining aNEWLINE-MARKERcopy of this software and associated"
+  "Copyright 1998-1999 Precision Insight, Inc., Cedar Park, Texas.NEWLINE-MARKERCopyright \\(c\\) 2001 Andreas Monitzer.NEWLINE-MARKERCopyright \\(c\\) 2001-2004 Greg Parker.NEWLINE-MARKERCopyright \\(c\\) 2001-2004 Torrey T. LyonsNEWLINE-MARKERCopyright \\(c\\) 2002-2003 Apple Computer, Inc.NEWLINE-MARKERCopyright \\(c\\) 2004-2005 Alexander GottwaldNEWLINE-MARKERCopyright \\(c\\) 2002-2009 Apple Inc.NEWLINE-MARKERCopyright \\(c\\) 2007 Jeremy HuddlestonNEWLINE-MARKERAll Rights Reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining": " LICENSE-SEGMENT-MARKER Copyright 1998-1999 Precision Insight, Inc., Cedar Park, Texas.NEWLINE-MARKERCopyright (c) 2001 Andreas Monitzer.NEWLINE-MARKERCopyright (c) 2001-2004 Greg Parker.NEWLINE-MARKERCopyright (c) 2001-2004 Torrey T. LyonsNEWLINE-MARKERCopyright (c) 2002-2003 Apple Computer, Inc.NEWLINE-MARKERCopyright (c) 2004-2005 Alexander GottwaldNEWLINE-MARKERCopyright (c) 2002-2009 Apple Inc.NEWLINE-MARKERCopyright (c) 2007 Jeremy HuddlestonNEWLINE-MARKERAll Rights Reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining"
+  "XCBNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright \\(C\\) 2001-2006 Bart Massey, Jamey Sharp, and Josh Triplett.NEWLINE-MARKERAll Rights Reserved": " LICENSE-SEGMENT-MARKER XCBNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright (C) 2001-2006 Bart Massey, Jamey Sharp, and Josh Triplett.NEWLINE-MARKERAll Rights Reserved"
+  "listres:NEWLINE-MARKER Copyright \\(c\\) 1989, 1994 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted": " LICENSE-SEGMENT-MARKER listres:NEWLINE-MARKER Copyright (c) 1989, 1994 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"
+  "viewres:NEWLINE-MARKER Copyright \\(c\\) 1989, 1994 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted": " LICENSE-SEGMENT-MARKER viewres:NEWLINE-MARKER Copyright (c) 1989, 1994 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"
+  "xev:NEWLINE-MARKER Copyright \\(c\\) 1988 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted": " LICENSE-SEGMENT-MARKER xev:NEWLINE-MARKER Copyright (c) 1988 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"
+  "xfontsel:NEWLINE-MARKER Copyright \\(c\\) 1985-1989, 1994 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted": " LICENSE-SEGMENT-MARKER xfontsel:NEWLINE-MARKER Copyright (c) 1985-1989, 1994 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"
+  "xmessage:NEWLINE-MARKER Copyright \\(c\\) 1988, 1991, 1994 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted": " LICENSE-SEGMENT-MARKER xmessage:NEWLINE-MARKER Copyright (c) 1988, 1991, 1994 X ConsortiumNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"

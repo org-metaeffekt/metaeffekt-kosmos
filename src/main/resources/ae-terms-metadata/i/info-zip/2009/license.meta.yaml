@@ -1,0 +1,54 @@
+canonicalName: Info-ZIP License 2009
+category: Info-ZIP License
+shortName: Info-ZIP-2009
+spdxIdentifier: Info-ZIP
+
+canonicalNameHistory:
+  - "Info-ZIP License"
+
+otherIds:
+  - "scancode:info-zip-2009-01"
+
+alternativeNames:
+  - "Info ZIP License"
+  - "INFO ZIP LICENSE"
+  - "INFO ZIP License"
+  - "Info-ZIP License"
+  - "INFO-ZIP LICENSE"
+  - "INFO-ZIP License"
+  - "Info-ZIP license"
+  - "https://spdx.org/licenses/info-zip"
+
+evidence:
+  matches:
+    - "This software is provided as is, without warranty of any kind, express or
+       implied"
+    - "In no event shall Info-ZIP or its contributors be held liable for
+       any direct, indirect, incidental, special or consequential damages arising
+       out of the use of or inability to use this software"
+    - "Permission is granted to anyone to use this software for any purpose,
+       including commercial applications, and to alter it and redistribute it
+       freely, subject to *{.{0,25}}*the following restrictions"
+    - "Redistributions of source code (in whole or in part) must retain
+       the above copyright notice, definition, disclaimer, and this list
+       of conditions"
+    - "Redistributions in binary form (compiled executables and libraries)
+       must reproduce the above copyright notice, definition, disclaimer,
+       and this list of conditions in documentation and/or other materials
+       provided with the distribution"
+    - "The sole exception to this condition is redistribution of a standard
+       UnZipSFX binary (including SFXWiz) as part of a self-extracting archive;
+       that is permitted without inclusion of this license, as long as the
+       normal SFX banner has not been removed from the binary or disabled"
+    - "Altered versions--including, but not limited to, ports to new operating
+       systems, existing ports with new graphical interfaces, versions with
+       modified or added functionality, and dynamic, shared, or static library
+       versions not from Info-ZIP--must be plainly marked as such and must not
+       be misrepresented as being the original source or, if binaries,
+       compiled from the original source"
+  excludes:
+    - "The origin of this software must not be misrepresented; you must not
+       claim that you wrote the original software. If you use this software
+       in a product, an acknowledgment in the product documentation would be
+       appreciated but is not required"
+    - "This is version 2007-Mar-4 of the Info-ZIP license"

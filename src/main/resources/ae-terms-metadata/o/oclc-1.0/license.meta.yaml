@@ -1,0 +1,26 @@
+canonicalName: OCLC Research Public License 1.0
+category: OCLC Research Public License
+shortName: OCLC-1.0
+
+alternativeNames:
+  - "http://www.free-soft.org/mirrors/www.opensource.org/licenses/oclc.php"
+  - "OCLC Research Public License 1.0"
+
+otherIds:
+  - "scancode:oclc-1.0"
+
+evidence:
+  matches:
+    - "If you make a Modification and distribute it externally you are a Contributor, and you must provide such
+       Modification in source code form to the Original Contributor within thirty (30) days of such distribution
+       under the terms of the license in Section 1 above in accordance with the instructions below"
+    - "A 'Modification' to the Program is any addition to or deletion from the contents of any file of the Program
+       or of any Modifications and any new file that contains any part of the Program or of any Modifications"
+    - "As a Contributor you represent that your contributions are your original creation(s) and, to the best of your
+       knowledge, no third party has any claim (including but not limited to intellectual property claims) relating to
+       your Modification"
+    - "You represent that your contribution submission includes complete details of any license or other restriction
+       associated with any part of your Modification (including a copy of any applicable license agreement)"
+    - "If, after submitting your contribution, you learn of a third party claim or other restriction relating to your
+       contribution, you shall promptly modify your contribution submission and take all reasonable steps to inform
+       those who may have received the Program containing such Modification"

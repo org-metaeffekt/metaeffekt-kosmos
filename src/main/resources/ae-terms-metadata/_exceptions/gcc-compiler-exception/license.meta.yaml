@@ -1,0 +1,28 @@
+canonicalName: GCC Compiler Exception
+category: GCC Compiler Exception
+shortName: GCC-Compiler-Exception
+
+type: exception
+
+canonicalNameHistory:
+  - "GCC Compiler Exception 2.0"
+
+combinedWith:
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with GCC Compiler exception)
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with GCC Compiler exception)
+
+otherIds:
+  - "scancode:gcc-compiler-exception-2.0"
+
+alternativeNames:
+  - "gcc-compiler-exception-2.0"
+
+evidence:
+  matches:
+    - "As a special exception, if you include this header file into source
+       files compiled by GCC, this header file does not by itself cause
+       the resulting executable to be covered by the GNU General Public
+       License"
+    - "This exception does not however invalidate any other
+       reasons why the executable file might be covered by the GNU General
+       Public License"

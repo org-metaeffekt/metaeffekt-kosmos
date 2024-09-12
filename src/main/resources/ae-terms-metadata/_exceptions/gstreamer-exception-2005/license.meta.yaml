@@ -1,0 +1,25 @@
+canonicalName: GStreamer Exception (2005)
+category: GStreamer Exception
+spdxIdentifier: GStreamer-exception-2005
+shortName: GStreamer-Exception-2005
+
+type: exception
+
+otherIds:
+  - "scancode:gstreamer-exception-2005"
+
+alternativeNames:
+  - "GStreamer Exception (2005)"
+  - "GStreamer-exception-2005"
+
+references:
+  "GPL":
+    matches:
+      - "the permissions granted by the GPL license"
+
+evidence:
+  matches:
+    - "The Totem project hereby grant permission for non-gpl compatible GStreamer
+       plugins to be used and distributed together with GStreamer and Totem"
+    - "This permission are above and beyond the permissions granted by the GPL license
+       Totem is covered by"

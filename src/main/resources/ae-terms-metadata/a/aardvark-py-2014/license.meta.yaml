@@ -1,0 +1,41 @@
+canonicalName: Aardvark I2C/SPI Software and Firmware License 2014
+category: Aardvark I2C/SPI Software and Firmware License
+shortName: aardvark-py-2014
+
+otherIds:
+  - "scancode:aardvark-py-2014"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Aardvark I2C/SPI Software and Firmware License 2014"
+
+evidence:
+  matches:
+    - "The Product is licensed only for use with other Total Phase products"
+    - "Any other use is permitted only with the express written permission of Total Phase"
+    - "The Product may only be copied unmodified in its entirety, with all of the files
+       intact including a verbatim copy of this Agreement"
+    - "Distribution of modified copies is permitted only with the express written permission of Total Phase"
+    - "The Product must not be placed on any publicly-accessible Internet server including,
+       but not limited to, web servers, ftp servers, and file sharing systems"
+    - "Instead, a link should be placed to the Total Phase website where the latest
+       versions may be obtained"
+    - "As a special exemption, a copy of the shared object file, aardvark.dll or aardvark.so
+       ('Shared Object File'), may be distributed separately from the Product, provided that it is part
+       of a separate work ('Separate Work')"
+    - "Such Shared Object Files carry with them all of the rights and limitations outlined in
+       this Agreement, except that it may not be further distributed unless part of the Separate Work"
+    - "Before publicly distributing the Shared Object Files, whether gratis or for a fee, you must notify
+       Total Phase by electronic mail to: sales@totalphase.com to the attention of General Manager"
+    - "Provide a description of the Separate Work, specifically mentioning how any Total Phase hardware
+       and the Shared Object Files will be integrated into the Separate Work and your proposed
+       method of distribution"
+    - "Total Phase will acknowledge the notification within one week"
+    - "You are required to include a copy of this Agreement with your Separate Work"
+    - "Any separate works which include the Product must be plainly marked as such, and must not be
+       misrepresented as the original software"
+    - "You may not modify, translate, reverse-engineer, decompile, disassemble (except and solely to the
+       extent that an applicable statute expressly and specifically prohibits such restrictions),
+       or create derivative works of the Product"
+    - "A separate work that only makes use of the unmodified shared object file is not considered a derivative work"

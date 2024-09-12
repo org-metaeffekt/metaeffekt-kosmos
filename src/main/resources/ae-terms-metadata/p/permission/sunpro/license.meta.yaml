@@ -1,0 +1,24 @@
+canonicalName: Permission Terms (SunPro)
+category: Permission
+spdxIdentifier: SunPro
+
+canonicalNameHistory:
+  - "Permission Terms (Sun)"
+
+alternativeNames:
+    - "SunPro License"
+
+otherIds:
+  - "scancode:sunpro"
+
+representedAs: "Permission Terms"
+
+evidence:
+  matches:
+    - "by Sun Microsystems"
+    - "Permission to use, copy, modify, and distribute this
+       software is freely granted, provided that this notice
+       is preserved"
+
+mappings:
+  "remaining files:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER \\* Copyright \\(C\\) 1993 by Sun Microsystems, Inc. All rights reserved.NEWLINE-MARKER \\*NEWLINE-MARKER \\* Developed at SunPro, a Sun Microsystems, Inc.": " LICENSE-SEGMENT-MARKER remaining files:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER * Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved.NEWLINE-MARKER *NEWLINE-MARKER * Developed at SunPro, a Sun Microsystems, Inc."

@@ -1,0 +1,25 @@
+canonicalName: Ago Private License 1.0
+category: Ago Private License
+shortName: Ago-Private-1.0
+
+otherIds:
+  - "scancode:ago-private-1.0"
+
+requiresLicenseText: false
+requiresCopyright: false
+
+alternativeNames:
+  - "Ago Private License 1.0"
+
+evidence:
+  matches:
+    - "The name of the author may not be used to endorse or promote products
+       derived from this software without specific prior written permission"
+    - "The binary and source may not be sold and/or given away for free"
+    - "The licensee may only create binaries for his own usage, not for any
+       third parties"
+    - "The person using this sourcecode is a developer of said sourcecode"
+    - "This license may be changed without prior notice"
+  excludes:
+    - "Redistribution and use in source and binary forms with or without modification are permitted provided that the following conditions are met"
+    - "Redistributions of source code must retain the above copyright notice this list of conditions and the following disclaimer"

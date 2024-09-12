@@ -1,0 +1,31 @@
+canonicalName: Redistribution Terms (derivative work)
+category: RT
+shortName: RT-derivative-work
+
+canonicalNameHistory:
+  - "BSD 3-Clause License (Tcpdump Group)"
+
+otherIds:
+  - "scancode:bsd-new-derivative"
+
+representedAs: "Redistribution Terms"
+
+
+alternativeNames:
+  - "bsd-new-derivative"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary form*, with or without
+       modification, are permitted provided that the following conditions
+       are met"
+    - "Because this is a derivative work, you must comply with the {'sniffer.c'}
+       terms reproduced above"
+    - "Redistributions of source code must retain the Tcpdump Group copyright
+       notice at the top of this source file, this list of conditions and the
+       following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution"
+    - "The names {'tcpdump'} or {'libpcap'} may not be used to endorse or promote
+       products derived from this software without prior written permission"

@@ -1,0 +1,83 @@
+canonicalName: Open Software License 3.0
+category: OSL
+spdxIdentifier: OSL-3.0
+
+otherIds:
+  - "scancode:osl-3.0"
+  - "osi:OSL-3.0"
+
+alternativeNames:
+  - "Open Software License 3.0"
+
+evidence:
+  matches:
+    - "Neither the names of Licensor, nor the names
+       of any contributors to the Original Work, nor any of their trademarks or service
+       marks, may be used to endorse or promote products derived from this Original
+       Work without express prior permission of the Licensor"
+    - "If any provision of this License is held to be unenforceable,
+       such provision shall be reformed only to the extent necessary to make it enforceable"
+  excludes:
+    - "Licensor represents and declares that it is a not-for-profit organization
+       that derives no revenue whatsoever from the distribution of the Original Work
+       or Derivative Works thereof, or from support or services relating thereto"
+
+grants:
+  Source code delivery:
+    matches:
+      - "to reproduce the Original Work in copies"
+    obligations:
+      Source code delivery:
+        description: null
+        mandatory: false
+        matches:
+          - "to translate, adapt, alter, transform, modify, or arrange the Original
+             Work, thereby creating derivative works"
+          - "with the proviso that copies of*Derivative Works that You distribute
+             or communicate shall be licensed"
+          - "with the proviso that copies of*Derivative Works that You distribute
+             or communicate shall be licensed under this Open Software License"
+          - "You must retain, in the Source Code of any Derivative Works that You create,
+             all copyright*notices from the Source Code of the Original Work"
+          - "You must retain, in the Source Code of any Derivative Works that You create,
+             all* patent, *notices from the Source Code of the Original Work"
+          - "You must retain, in the Source Code of any Derivative Works that You create,
+             all*trademark notices from the Source Code of the Original Work"
+          - "You must cause the Source Code for any Derivative Works that You create
+             to carry a prominent Attribution Notice reasonably calculated to inform recipients
+             that You have modified the Original Work"
+          - "Neither the names of Licensor, nor the names of any contributors to the
+             Original Work, nor any of their trademarks or service marks, may be used
+             to endorse or promote products derived from this Original Work"
+          - "If You distribute or communicate copies of the Original Work or a Derivative
+             Work, You must make a reasonable effort under the circumstances to obtain
+             the express assent of recipients to the terms of this License"
+  Binary delivery:
+    matches:
+      - "to translate, adapt, alter, transform, modify, or arrange the Original Work"
+    obligations:
+      Binary delivery:
+        matches:
+          - "Licensor agrees to provide a machine-readable copy of the Source Code of the
+             Original Work along with each copy of the Original Work that Licensor distributes"
+          - "to translate, adapt, alter, transform, modify, or arrange the Original Work,
+             thereby creating derivative works"
+          - "with the proviso that copies of*Derivative Works that You distribute or communicate shall be licensed
+             under this Open Software License"
+          - "You must retain, in the Source Code of any Derivative
+             Works that You create, all copyright, patent, or trademark notices from the
+             Source Code of the Original Work"
+          - "You must cause the Source Code for any Derivative Works that You create to carry a prominent
+             Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work"
+          - "Licensor reserves the right to satisfy this obligation by placing a machine-readable copy of the
+             Source Code in an information repository"
+          - "by placing a machine-readable copy of the Source Code"
+          - "reasonably calculated to permit inexpensive and convenient access"
+          - "as long as Licensor continues to distribute the Original Work"
+          - "Neither the names of Licensor, nor the names of any contributors to the
+             Original Work, nor any of their trademarks or service marks, may be used
+             to endorse or promote products derived from this Original Work"
+          - "If You distribute or communicate copies of the Original Work or a Derivative
+             Work, You must make a reasonable effort under the circumstances to obtain
+             the express assent of recipients to the terms of this License"
+

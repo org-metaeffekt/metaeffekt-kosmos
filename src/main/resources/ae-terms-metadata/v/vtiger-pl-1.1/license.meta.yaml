@@ -1,0 +1,19 @@
+canonicalName: Vtiger Public License 1.1
+category: Vtiger Public
+shortName: VPL-1.1
+
+otherIds:
+  - "scancode:vpl-1.1"
+
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims"
+    - "under Patent Claims infringed by the making, using, or selling of Modifications made by that Contributor either alone and/or in combination with its Contributor Version (or portions of such combination), to make, use, sell, offer for sale, have made, and/or otherwise dispose of: 1) Modifications made by that Contributor"
+    - "The Modifications which You create or to which You contribute are governed by the terms of this License, including without limitation Section 2.2"
+    - "Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License either on the same media as an Executable version or via an accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available"
+    - "If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Covered Code due to statute, judicial order, or regulation then You must"
+    - "Vtiger may publish revised and/or new versions of the License from time to time"

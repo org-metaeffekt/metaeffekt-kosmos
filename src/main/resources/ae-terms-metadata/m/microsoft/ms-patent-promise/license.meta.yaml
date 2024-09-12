@@ -1,0 +1,26 @@
+canonicalName: Microsoft Patent Promise (.NET Libraries and Runtime Components)
+category: Microsoft Patent Promise
+shortName: MS-Patent-Promise
+
+otherIds:
+  - "scancode:ms-patent-promise"
+
+canonicalNameHistory:
+  - "Microsoft Patent Promise for .NET Libraries and Runtime Components"
+
+alternativeNames:
+  - "Microsoft Patent Promise for .NET Libraries and Runtime Components"
+
+evidence:
+  matches:
+    - "Microsoft Corporation and its affiliates ('Microsoft') promise not to assert
+       any .NET Patents against you for making, using, selling, offering for sale,
+       importing, or distributing Covered Code, as part of either a .NET Runtime or
+       as part of any application designed to run on a .NET Runtime"
+    - "If you file, maintain, or voluntarily participate in any claim in a lawsuit
+       alleging direct or contributory patent infringement by any Covered Code, or
+       inducement of patent infringement by any Covered Code, then your rights under
+       this promise will automatically terminate"
+    - "This promise is not an assurance that (i) any .NET Patents are valid or
+       enforceable, or (ii) Covered Code does not infringe patents or other
+       intellectual property rights of any third party"

@@ -1,0 +1,31 @@
+canonicalName: LLaMA License Agreement 2023
+category: LLaMA
+shortName: LLaMa-2023
+
+otherIds:
+  - "scancode:llama-license-2023"
+
+requiresNote: true
+
+noteChecklist:
+  - "you must provide the attribution notice"
+
+evidence:
+  matches:
+    - "Subject to your compliance with the Documentation and Sections 2, 3, and 5, Meta grants you a non-exclusive,
+       worldwide, non-transferable, non-sublicensable, revocable, royalty free and limited license under Meta’s
+       copyright interests to reproduce, distribute, and create derivative works of the Software solely for your
+       non-commercial research purposes"
+    - "use, modify, copy, reproduce, create derivative works of, or distribute the Software Products (or any derivative
+       works thereof, works incorporating the Software Products, or any data produced by the Software), in whole or in
+       part, for (i) any commercial or production purposes, (ii) military purposes or in the service of nuclear
+       technology, (iii) purposes of surveillance, including any research or development relating to surveillance,
+       (iv) biometric processing, (v) in any manner that infringes, misappropriates, or otherwise violates any
+       third-party rights, or (vi) in any manner that violates any applicable law and violating any privacy or
+       security laws, rules, regulations, directives, or governmental requirements (including the General Data
+       Privacy Regulation (Regulation (EU) 2016/679), the California Consumer Privacy Act, and any and all laws
+       governing the processing of biometric information), as well as all amendments and successor laws to any
+       of the foregoing"
+    - "Together with any copies of the Software Products (as well as derivative works thereof or works incorporating
+       the Software Products) that you distribute, you must provide (i) a copy of this License, and (ii) the following
+       attribution notice: “LLaMA is licensed under the LLaMA License, Copyright (c) Meta Platforms, Inc. All Rights Reserved"

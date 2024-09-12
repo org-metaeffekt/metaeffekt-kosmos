@@ -1,0 +1,22 @@
+canonicalName: Copyfree Open Innovation License 1.0
+category: Copyfree Open Innovation License
+spdxIdentifier: COIL-1.0
+
+otherIds:
+  - "scancode:coil-1.0"
+
+canonicalNameHistory:
+  - "Copyfree Open Innovation License"
+
+alternativeNames:
+  - "Copyfree Open Innovation License"
+  - "https://coil.apotheon.org/plaintext/01.0.txt"
+
+evidence:
+  matches:
+    - "Redistributions, modified or unmodified, in whole or in part, must retain applicable
+       notices of copyright or other legal privilege, these conditions, and the following
+       license terms and disclaimer"
+    - "Subject to these conditions, each holder of copyright or other legal privileges,
+       author or assembler, and contributor of this work, henceforth 'licensor',
+       hereby grants to any person who obtains a copy of this work in any form"

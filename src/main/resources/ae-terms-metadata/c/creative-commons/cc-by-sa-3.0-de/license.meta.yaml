@@ -1,0 +1,26 @@
+canonicalName: Creative Commons BY-SA 3.0 (DE)
+category: CC-BY-SA
+spdxIdentifier: CC-BY-SA-3.0-DE
+
+representedAs: Creative Commons BY-SA 3.0
+
+otherIds:
+  - "scancode:cc-by-sa-3.0-de"
+
+alternativeNames:
+  - "Creative Commons Attribution Share Alike 3.0 Germany"
+  - "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Den Schutzgegenstand in beliebiger Form und Menge zu vervielfältigen, ihn in Sammelwerke zu integrieren und ihn als Teil solcher Sammelwerke zu vervielfältigen"
+    - "Abwandlungen des Schutzgegenstandes anzufertigen, einschließlich Übersetzungen unter Nutzung jedweder Medien, sofern deutlich erkennbar gemacht wird, dass es sich um Abwandlungen handelt"
+    - "den Schutzgegenstand, allein oder in Sammelwerke aufgenommen, öffentlich zu zeigen und zu verbreiten"
+    - "Abwandlungen des Schutzgegenstandes zu veröffentlichen, öffentlich zu zeigen und zu verbreiten"
+  excludes:
+    - "Die Rechteeinräumung gemäß Abschnitt 3 gilt nur für Handlungen, die nicht vorrangig auf einen geschäftlichen
+       Vorteil oder eine geldwerte Vergütung gerichtet sind"

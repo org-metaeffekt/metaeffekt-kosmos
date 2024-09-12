@@ -1,0 +1,77 @@
+canonicalName: Unicode DFS License
+category: Unicode DFS
+shortName: Unicode-DFS
+
+canonicalNameHistory:
+  - "Unicode DFS License 2008"
+
+status:
+  - "reviewed 01.07.22"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:unicode"
+
+alternativeNames:
+  - "Unicode DFS, Version 2008"
+  - "Unicode DFS, 2008"
+  - "Unicode DFS 2008"
+  - "Unicode-DFS, Version 2008"
+  - "Unicode-DFS, 2008"
+  - "Unicode-DFS 2008"
+  - "Unicode DFS License, Version 2008"
+  - "Unicode DFS License, 2008"
+  - "Unicode DFS License 2008"
+  - "Unicode-DFS License, Version 2008"
+  - "Unicode-DFS License, 2008"
+  - "Unicode-DFS License 2008"
+##  - "http://unicode.org/copyright.html"
+##  - "http://www.unicode.org/copyright.html"
+##  - "Unicode License (MIT Style)"
+##  - "https://www.unicode.org/terms_of_use.html"
+##  - "http://www.unicode.org/terms_of_use.html"
+
+evidence:
+  matches:
+    - "the above copyright notice(s) and this permission notice appear with all
+       copies of the Data Files or Software"
+    - "both the above copyright notice(s) and this permission notice appear in
+       associated documentation"
+    - "Except as contained in this notice, the name of a copyright holder shall not
+       be used in advertising or otherwise to promote the sale, use or other dealings
+       in these Data Files or Software without prior written authorization of the
+       copyright holder"
+
+mappings:
+  "contrib/unicode:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER﻿UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE": " LICENSE-SEGMENT-MARKER contrib/unicode:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE"
+
+licenseTemplate:
+  "<lq>Permission is hereby granted, free of charge, to any person obtaining a copy
+   of the Unicode data files and any associated documentation (the \"Data Files\") or
+    Unicode software and any associated documentation (the \"Software\") to deal in
+    the Data Files or Software without restriction, including without limitation the
+    rights to use, copy, modify, merge, publish, distribute, and/or sell copies of
+    the Data Files or Software, and to permit persons to whom the Data Files or
+    Software are furnished to do so, provided that
+    <ol><li>the above copyright notice(s)
+    and this permission notice appear with all copies of the Data Files or Software,</li>
+    <li>both the above copyright notice(s) and this permission notice appear in
+    associated documentation, and</li>
+    <li>there is clear notice in each modified Data
+    File or in the Software as well as in the documentation associated with the Data
+    File(s) or Software that the data or software has been modified.</li></ol>
+    <codeph>THE DATA FILES AND SOFTWARE ARE PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY
+    KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD
+    PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS
+    NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL
+    DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+    WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+    OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR
+    SOFTWARE.</codeph><p/>
+    Except as contained in this notice, the name of a copyright holder shall not
+    be used in advertising or otherwise to promote the sale, use or other dealings
+    in these Data Files or Software without prior written authorization of the
+    copyright holder.</lq>"

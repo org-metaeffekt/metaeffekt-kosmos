@@ -1,0 +1,22 @@
+canonicalName: Polyform Internal Use License 1.0.0
+category: Polyform Internal Use License
+shortName: Polyform-Internal-Use-1.0.0
+
+otherIds:
+  - "scancode:polyform-internal-use-1.0.0"
+
+alternativeNames:
+  - "polyform-internal-use-1.0.0"
+
+evidence:
+  matches:
+    - "The licensor grants you a copyright license for the software
+       to do everything you might do with the software that would
+       otherwise infringe the licensor's copyright in it for any
+       permitted purpose"
+    - "However, you may only make changes or new works based on the
+       software according to [Changes and New Works License](#changes-and-new-works-license),
+       and you may not distribute the software"
+    - "The licensor grants you an additional copyright license to
+       make changes and new works based on the software for any
+       permitted purpose"

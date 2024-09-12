@@ -1,0 +1,22 @@
+canonicalName: Community Specification License 1.0
+category: Community Specification License
+spdxIdentifier: Community-Spec-1.0
+
+otherIds:
+  - "scancode:csl-1.0"
+
+alternativeNames:
+  - "Community Specification License 1.0"
+  - "https://github.com/CommunitySpecification/1.0/blob/master/1._Community_Specification_License-v1.md"
+
+references:
+  "MIT":
+    matches:
+      - "If no source code license is included, the source code will be subject to the MIT License"
+  "CC-BY":
+    matches:
+      - "The text of this Community Specification License is Copyright 2020 Joint Development Foundation and is licensed
+         under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/"
+      - "SPDX-License-Identifier: CC-BY-4.0
+         Standard License Header
+         There is no standard license header for the license"

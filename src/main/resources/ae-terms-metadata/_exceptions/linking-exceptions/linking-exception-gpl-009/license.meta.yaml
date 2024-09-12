@@ -1,0 +1,33 @@
+canonicalName: Linking Exception (GPL; variant 009)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-009
+
+type: exception
+
+otherIds:
+  - "scancode:cygwin-exception-3.0"
+
+canonicalNameHistory:
+  - "Cygwin Exception (to GPL 3.0 or any later version)"
+
+combinedWith:
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with Linking Exception (GPL; variant 009))
+  Cygwin Exception (GPL 3.0+): Cygwin Exception (GPL 3.0+; with Linking Exception (GPL; variant 009))
+
+evidence:
+  matches:
+    - "As a special exception to GPLv3+, Red Hat grants you permission to link
+       software whose sources are distributed under a license that satisfies
+       the Open Source Definition with libcygwin.a, without libcygwin.a
+       itself causing the resulting program to be covered by GPLv3+"
+  excludes:
+    - "This means that you can port an Open Source application to Cygwin™, and
+       distribute that executable as if it didn't include a copy of libcygwin.a linked into it"
+
+references:
+  "GPL":
+     matches:
+       - "As a special exception to GPLv3+, Red Hat grants you permission to link
+          software whose sources are distributed under a license that satisfies
+          the Open Source Definition with libcygwin.a, without libcygwin.a
+          itself causing the resulting program to be covered by GPLv3+."

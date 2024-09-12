@@ -1,0 +1,41 @@
+canonicalName: Eclipse Foundation Software User Agreement 2011
+category: Eclipse Foundation Software User Agreement
+shortName: Eclipse-SUA-2011
+
+otherIds:
+  - "scancode:eclipse-sua-2011"
+
+alternativeNames:
+  - "Eclipse Foundation Software User Agreement February 1, 2011"
+
+evidence:
+  matches:
+    - "Content includes, but is not limited to, source code, object code, documentation and other files maintained in the Eclipse Foundation source code repository (\"Repository\") in software modules (\"Modules\") and made available as downloadable archives (\"Downloads\")"
+    - "Content may be structured and packaged into modules to facilitate delivering, extending, and upgrading the Content"
+    - "The terms and conditions governing Plug-ins and Fragments should be contained in files named \"about.html\""
+    - "If the Feature contains Included Features, the Feature Update License should either provide you with the terms and conditions governing the Included Features or inform you where you can locate them"
+    - "IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS PRIOR TO USE OF THE CONTENT"
+    - "The Eclipse Foundation makes available provisioning software, examples of which include, but are not limited to, p2 and the Eclipse Update Manager*{.{0,40}}*for the purpose of allowing users to install software, documentation, information and/or other materials"
+    - "You shall be responsible for enabling the applicable license agreements relating to the Installable Software to be presented to, and accepted by, the users of the Provisioning Technology in accordance with the Specification"
+
+  excludes:
+    - "Eclipse Foundation Software User Agreement April 14, 2010"
+    - "Eclipse Foundation Software User Agreement April 9, 2014"
+    - "Eclipse Foundation Software User Agreement November 22, 2014"
+    - "A copy of the EPL is provided with this Content and is also available at http://www.eclipse.org/legal/epl-2.0"
+
+references:
+  "EPL":
+    matches:
+      - "Unless otherwise indicated, all Content made available by the Eclipse Foundation is provided to you under the terms and conditions of the Eclipse Public License Version 1.0 (\"EPL\"). A copy of the EPL is provided with this Content and is also available at http://www.eclipse.org/legal/epl-v10.html. For purposes of the EPL, \"Program\" will mean the Content."
+
+masks:
+  matches:
+    - "SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED TO):
+
+           Eclipse Distribution License Version 1.0 (available at http://www.eclipse.org/licenses/edl-v1.0.html)
+           Common Public License Version 1.0 (available at http://www.eclipse.org/legal/cpl-v10.html)
+           Apache Software License 1.1 (available at http://www.apache.org/licenses/LICENSE)
+           Apache Software License 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0)
+           Metro Link Public License 1.00 (available at http://www.opengroup.org/openmotif/supporters/metrolink/license.html)
+           Mozilla Public License Version 1.1 (available at http://www.mozilla.org/MPL/MPL-1.1.html)"

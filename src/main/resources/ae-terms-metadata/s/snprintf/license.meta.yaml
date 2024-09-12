@@ -1,0 +1,27 @@
+canonicalName: snprintf License
+category: snprintf
+spdxIdentifier: snprintf
+
+canonicalNameHistory:
+  - "Patrick Powell License"
+  - "SNPRINTF License"
+
+otherIds:
+  - "scancode:snprintf"
+
+alternativeNames:
+  - "SNPRINTF License"
+  - "Patrick Powell License"
+  - "License: PP"
+  - "snprintf License"
+
+evidence:
+  matches:
+    - "It may be used for any purpose as long as this notice remains intact on all
+       source code distributions"
+
+
+
+
+
+    

@@ -1,0 +1,33 @@
+canonicalName: U-Boot Exception (GPL)
+category: GPL U-Boot Exception
+spdxIdentifier: u-boot-exception-2.0
+shortName: U-Boot-Exception-GPL
+
+type: exception
+
+canonicalNameHistory:
+  - "U-Boot Exception 2.0"
+
+otherIds:
+  - "scancode:u-boot-exception-2.0"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with U-Boot Exception (GPL))
+
+alternativeNames:
+  - "https://spdx.org/licenses/u-boot-exception-2.0"
+  - "The U-Boot Exception"
+
+evidence:
+  matches:
+    - "Even though U-Boot in general is covered by the GPL-2.0/GPL-2.0+, this does *not* cover the so-called
+       \"standalone\" applications that use U-Boot services by means of the jump table provided by U-Boot exactly
+       for this purpose - this is merely considered normal use of U-Boot, and does *not* fall under the heading
+       of \"derived work\""
+
+references:
+  "GPL":
+    matches:
+      - "GPL License Exception:
+
+         Even though U-Boot in general is covered by the GPL-2.0/GPL-2.0+"

@@ -1,0 +1,14 @@
+canonicalName: OpenAI Terms of Use 20230314
+category: OpenAI Terms of Use
+shortName: openAI-TOU-20230314
+
+otherIds:
+  - "scancode:openai-tou-20230314"
+
+evidence:
+  matches:
+    - "These Terms of Use apply when you use the services of OpenAI, L.L.C. or our affiliates, including our application programming interface, software, tools, developer services, data, documentation, and websites (“Services”). The Terms include our Service Terms, Sharing & Publication Policy, Usage Policies, and other documentation, guidelines, or policies we may provide in writing"
+    - "Due to the nature of machine learning, Output may not be unique across users and the Services may generate the same or similar output for OpenAI or a third party"
+    - "Artificial intelligence and machine learning are rapidly evolving fields of study"
+    - "If you want to dispute any Fees or Taxes, please contact ar@openai.com within thirty (30) days of the date of the disputed invoice"
+    - "Confidential Information means nonpublic information that OpenAI or its affiliates or third parties designate as confidential or should reasonably be considered confidential under the circumstances, including software, specifications, and other nonpublic business information"

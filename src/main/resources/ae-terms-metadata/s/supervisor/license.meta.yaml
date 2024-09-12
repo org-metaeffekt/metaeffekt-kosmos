@@ -1,0 +1,39 @@
+canonicalName: Supervisor License
+category: Supervisor License
+shortName: Supervisor
+
+otherIds:
+  - "scancode:supervisor"
+
+#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
+ignoreMatches:
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "BSD 3-Clause License (modification)"
+  - "Disclaimer (variant 001)"
+  - "Permission Terms CWI"
+  - "Python Software Foundation License (undefined)"
+  - "Zope Public License 2.1"
+
+evidence:
+  matches:
+    - "Supervisor is licensed under the following license"
+    - "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met"
+    - "Redistributions in source code must retain the accompanying copyright notice, this list of conditions, and the following disclaimer"
+    - "Redistributions in binary form must reproduce the accompanying copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Names of the copyright holders must not be used to endorse or promote products derived from this software without prior written permission from the copyright holders"
+    - "If any files are modified, you must cause the modified files to carry prominent notices stating that you changed the files and the date of any change"
+    - "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+
+
+mappings:
+  "Medusa, the asynchronous communications framework upon whichNEWLINE-MARKERsupervisor's server and client code is based, was created by SamNEWLINE-MARKERRushing:": " LICENSE-SEGMENT-MARKER Medusa, the asynchronous communications framework upon whichNEWLINE-MARKERsupervisor's server and client code is based, was created by SamNEWLINE-MARKERRushing:"
+  "Supervisor Copyright NoticeNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERSupervisor is Copyright \\(c\\) 2006-2011 Agendaless Consulting and Contributors.": " LICENSE-SEGMENT-MARKER Supervisor Copyright NoticeNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERSupervisor is Copyright (c) 2006-2011 Agendaless Consulting and Contributors."
+
+segmentation:
+  revert: [
+    { match:
+        "Supervisor License https://github.com/Supervisor/supervisor/blob/master/LICENSES.txt",
+      matchNext:
+        "Supervisor is licensed under the following license: A copyright notice accompanies this license document that identifies the copyright holders. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met"
+    }
+  ]

@@ -1,0 +1,21 @@
+canonicalName: GeoLite2 End User License
+category: GeoLite2 End User License Agreement
+shortName: GeoLite2-End-User-2019
+
+canonicalNameHistory:
+  - "GeoLite2 End User License Agreement 2019"
+
+otherIds:
+  - "scancode:maxmind-geolite2-eula-2019"
+
+alternativeNames:
+  - "GeoLite2 End User License Agreement 2019"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, to the extent the Services contain any
+       copyrightable elements those copyrightable elements are governed by the Creative Commons License"
+    - "This product includes GeoLite2 data created by MaxMind, available from"
+    - "In addition and if you are using the Services for internal use, subject to the terms and conditions
+       of this Agreement, MaxMind also hereby grants you a non-exclusive, non-transferable limited license
+       to access and use the Services for your own internal business purposes"

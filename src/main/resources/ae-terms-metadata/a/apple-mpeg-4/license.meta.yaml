@@ -1,0 +1,18 @@
+canonicalName: Apple MPEG-4 License
+category: Apple MPEG-4 License
+shortName: Apple-MPEG-4
+
+otherIds:
+  - "scancode:apple-mpeg-4"
+
+alternativeNames:
+  - "apple-mpeg-4"
+
+evidence:
+  matches:
+    - "This software module was originally developed by Apple Computer, Inc."
+    - "Those intending to use this software module in hardware or software products
+       are advised that its use may infringe existing patents"
+    - "This copyright notice must be included in all copies or derivative works"
+
+

@@ -1,0 +1,40 @@
+canonicalName: Linking Exception (LGPL; variant 003)
+category: LGPL Linking Exception
+spdxIdentifier: OCaml-LGPL-linking-exception
+shortName: Linking-Exception-LGPL-003
+
+otherIds:
+  - "scancode:ocaml-lgpl-linking-exception"
+
+alternativeNames:
+  - "OCaml-LGPL-linking-exception"
+
+type: exception
+
+canonicalNameHistory:
+  - "OCaml LGPL Linking Exception"
+
+evidence:
+  matches:
+    - "As a special exception to the GNU Lesser General Public License, you may link, statically or dynamically,
+       a \"work that uses the OCaml Core System\" with a publicly distributed version of the OCaml Core System to produce
+       an executable file containing portions of the OCaml Core System, and distribute that executable file under terms
+       of your choice, without any of the additional requirements listed in clause 6 of the GNU Lesser General Public License"
+    - "By \"a publicly distributed version of the OCaml Core System\", we mean either the unmodified OCaml Core System
+       as distributed by INRIA, or a modified version of the OCaml Core System that is distributed under the conditions
+       defined in clause 2 of the GNU Lesser General Public License"
+    - "This exception does not however invalidate any other
+       reasons why the executable file might be covered by the GNU Lesser General Public License"
+  excludes:
+    - "As a special exception if you link the code in this file with files compiled with a GNU compiler to produce an executable that does not cause the resulting executable to be covered by the GNU Lesser General Public License"
+
+references:
+  "LGPL":
+    matches:
+      - "OCaml LGPL Linking Exception
+         As a special exception to the GNU Lesser General Public License"
+      - "without any of the additional requirements listed in clause 6 of the GNU Lesser General Public License"
+      - "or a modified version of the OCaml Core System that is distributed under the conditions
+         defined in clause 2 of the GNU Lesser General Public License"
+      - "This exception does not however invalidate any other
+         reasons why the executable file might be covered by the GNU Lesser General Public License"

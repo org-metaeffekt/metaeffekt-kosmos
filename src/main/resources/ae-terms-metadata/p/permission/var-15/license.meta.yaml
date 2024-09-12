@@ -1,0 +1,27 @@
+canonicalName: Permission Terms (sRGB)
+category: Permission
+shortName: PT-no-advertising-no-warranty-no-representation
+
+canonicalNameHistory:
+  - "Permission Terms (sRGB; no advertising; no warranty; no representation)"
+
+representedAs: Permission Terms
+
+otherIds:
+  - "scancode:srgb"
+
+evidence:
+  matches:
+   - "To anyone who acknowledges that the file sRGB Color Space Profile.icm
+      is provided AS IS WITH NO EXPRESS OR IMPLIED WARRANTY"
+   - "permission to use, copy and distribute this file for any purpose is hereby
+      granted without fee"
+   - "provided that the file is not changed including the *copyright notice tag"
+   - "not be used in advertising or publicity pertaining to distribution of the software
+      without specific, written prior permission"
+   - "make* no representation* about the suitability of this software for any purpose"
+  excludes:
+    - "Permission to use, copy, modify, distribute, and sell this software and its
+       documentation for any purpose is hereby granted without fee, provided that
+       the above copyright notice appear in all copies and that both that
+       copyright notice and this permission notice appear in supporting documentation"

@@ -1,0 +1,34 @@
+canonicalName: Esri License
+category: Esri License
+shortName: Esri
+
+otherIds:
+  - "scancode:esri"
+
+alternativeNames:
+  - "esri license"
+
+evidence:
+  matches:
+    - "Products are licensed, not sold. Esri and its licensors own Products and all copies, which are protected by
+       United States and applicable international laws, treaties, and conventions regarding intellectual property
+       and proprietary rights including trade secrets. Licensee agrees to use reasonable means to protect Products
+       from unauthorized use, reproduction, distribution, or publication. Esri and its third-party licensors reserve
+       all rights not specifically granted in this License Agreement including the right to change and improve Products"
+    - "Esri grants to Licensee a personal, nonexclusive, nontransferable license solely to use the Products as set
+       forth in the applicable Ordering Documents (i) for which the applicable license fees have been paid;
+       (ii) in accordance with this License Agreement and the configuration ordered by Licensee or as authorized by
+       Esri or its authorized distributor; and (iii) for the applicable Term or, if no Term is applicable or identified,
+       until terminated in accordance with Article 5. In addition to the Scope of Use in Article 4, Exhibit 1—Scope
+       of Use (E300) applies to specific Products. Addendum 1, Addendum 2, Addendum 3, and Addendum 4 collectively
+       comprise Exhibit 1—Scope of Use (E300) and are also available at http://www.esri.com/legal/software-license"
+    - "Addendums only apply to Products specifically identified within an Addendum. Exhibit 1—Scope of Use (E300)
+       includes Addendums for the following Product types, which are incorporated by reference:
+       a. Software. Terms of use for specific Software products are set forth in Addendum 1.
+       b. Data. Data terms of use are set forth in Addendum 2.
+       c. Online Services. Terms of use for Online Services are set forth in Addendum 3.
+       d. Limited Use Programs. Terms of use for noncommercial, nonprofit, educational, or other
+      limited-use programs are set forth in Addendum 4"
+    - "Products acquired under an evaluation license or under a Beta program are intended for evaluation and testing
+       purposes only and not for commercial use. Any such use is at Licensee's own risk, and the Products do not
+       qualify for Esri or distributor maintenance"

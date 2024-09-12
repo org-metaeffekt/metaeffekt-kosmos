@@ -1,0 +1,34 @@
+canonicalName: Phaser Academic Non-Commercial EULA
+category: Phaser Academic Non-Commercial EULA
+shortName: phaser-academic
+
+otherIds:
+  - "scancode:phaser-academic"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Phaser Academic Non-Commercial EULA"
+
+evidence:
+  matches:
+    - "The Licensee acknowledges that all Intellectual Property Rights in the Software and any copies thereof
+       belong and shall belong to CUTS and the Licensee shall have no rights in or to the Software other than
+       the right to use it in accordance with the terms of the Licence in this Agreement"
+    - "Title to and ownership of any portion of the Software incorporated into Derivatives shall at all times
+       remain with CUTS and the Licensee shall not have any title or ownership interest therein"
+    - "Title to and ownership of any portion of Derivatives created by the Licensee and not owned by CUTS pursuant
+       to Clauses 3.1 and 3.2 above shall be held by the Licensee"
+    - "Nothing contained in this Licence shall be construed to limit CUTS rights to modify or to develop other
+       derivatives of the Software which are similar to or offer the same or similar improvements as any Derivatives
+       developed by the Licensee"
+    - "Error fixes, bug fixes, technical suggestions, comments and suggested improvements to the Software and its
+       code are welcome by the authors of the Software and CUTS, and in agreeing to provide these to the authors or
+       to CUTS the Licensee hereby assigns the Intellectual Property Rights in error fixes, bug fixes, or technical
+       improvements to CUTS which are communicated in any manner or medium to the authors of the Software or CUTS
+       with a reservation of use of those improvements and suggestions by the Licensee subject to the terms and
+       conditions of the Licence in this Agreement"
+  excludes:
+    - "In no event shall CUTS' liability arising from or in connection with this Agreement exceed a sum
+       equivalent to the annual Fee paid by the Licensee to CCLRC for use of the Software"
+

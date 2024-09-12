@@ -1,0 +1,25 @@
+canonicalName: OGC Document Notice
+category: OGC Document Notice
+shortName: OGC-Document-2020
+
+otherIds:
+  - "scancode:ogc-document-2020"
+
+canonicalNameHistory:
+  - "OGC Document Notice 2020"
+
+alternativeNames:
+  - "OGC Document Notice 2020"
+
+evidence:
+  matches:
+    - "Permission to use, copy, and distribute the contents of this document, or the
+       OGC document from which this statement is linked, in any medium for any purpose
+       and without fee or royalty is hereby granted, provided that you include the
+       following on ALL copies of the document, or portions thereof, that you use"
+    - "When space permits, inclusion of the full text of this NOTICE should be
+       provided. We request that authorship attribution be provided in any software,
+       documents, or other items or products that you create pursuant to the
+       implementation of the contents of this document, or any portion thereof"
+    - "The pre-existing copyright notice of the original author, or if it doesn't
+       exist, a notice of the form"

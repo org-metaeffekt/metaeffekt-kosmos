@@ -1,0 +1,34 @@
+canonicalName: Solderpad Hardware License 2.1
+category: SHL
+spdxIdentifier: SHL-2.1
+
+otherIds:
+  - "scancode:shl-2.1"
+
+alternativeNames:
+  - "Solderpad Hardware License v2.1"
+  - "Solderpad Hardware Licence Version 2.1"
+  - "SOLDERPAD HARDWARE LICENSE version 2.1"
+  - "SOLDERPAD HARDWARE LICENSE Version 2.1"
+  - "SHL-2.1"
+
+evidence:
+  matches:
+    - "the instantiation of a hardware design or physical object or material and conversions
+       to other media types, including intermediate forms such as bytecodes, FPGA bitstreams, moulds, artwork and
+       semiconductor topographies (mask works)"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual,
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under the Rights to reproduce, prepare
+       Derivative Works of, make, adapt, repair, publicly display, publicly perform, sublicense, and distribute the
+       Work and such Derivative Works in Source or Object form and do anything in relation to the Work as if the Rights
+       did not exist"
+    - "Terminology in the Apache License is supplemented or modified as follows"
+    - "\"Authorship\": any reference to 'authorship' shall be taken to read \"authorship or design\""
+
+references:
+  "Apache License":
+    matches:
+      - "This license operates as a wraparound license to the Apache License Version 2.0"
+      - "Licensed under the Solderpad Hardware License v 2.1 (the \"License\"); you may not use this file except in
+         compliance with the License, or, at your option, the Apache License version 2.0"
+

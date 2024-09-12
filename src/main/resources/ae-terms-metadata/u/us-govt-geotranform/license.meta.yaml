@@ -1,0 +1,21 @@
+canonicalName: US Government GeoTransform
+category: US Government GeoTransform
+shortName: US-Gov-GeoTransform
+
+otherIds:
+  # NOTE: we do not adopt the typo in the scancode id
+  - "scancode:us-govt-geotranform"
+
+classification: limited copyleft
+
+alternativeNames:
+  - "US Government GeoTransform"
+
+evidence:
+  matches:
+    - "This software is provided openly and freely for use in representing and
+       interchanging environmental data & databases"
+    - "This software was developed for use by the United States Government with unlimited rights"
+    - "The software was developed under contract N61339-98-C-0024 for the Naval Air Warfare Center
+       Training Systems Division by SRI International"
+    - "The software is unclassified and is deemed as Distribution A, approved for Public Release"

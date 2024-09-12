@@ -1,0 +1,193 @@
+canonicalName: Jahia Collaborative Source License 1.3.1
+category: Jahia Collaborative Source License
+shortName: Jahia-1.3.1
+
+otherIds:
+  - "scancode:jahia-1.3.1"
+
+alternativeNames:
+  - "http://www.jahia.org/cms/home/Jahiapedia/Jahia_Licensing"
+
+evidence:
+  matches:
+    - "Original Contributor has developed Specifications and Source Code
+       implementations of certain Technology; and Original Contributor desires to license the Technology to a large
+       community to facilitate research, innovation and product development
+       while maintaining compatibility of such products with the Technology as
+       delivered by Original Contributor; and
+       You desire to license the Technology from Original Contributor on the
+       terms and conditions specified in this License"
+    - "In consideration of the mutual covenants contained herein, You and
+       Original Contributor agree as follows"
+    - "The JAHIA Collaborative Source License and effective
+       attachments ('License') may include three distinct licenses: 1) Research
+       and Development Use, 2) Internal Deployment Use, 3) Contribution Agreement"
+    - "The Research and Development Use license is effective when You execute this License"
+    - "You have agreed to the terms of the JCSL by selecting the 'Accept' button at the end of the JCSL or executing a
+       hardcopy JCSL with Original Contributor"
+    - "The Internal Deployment Use (Attachment C) and the Contribution Agreement
+       (Attachment D) must be signed by You and Original Contributor in order to become effective"
+    - "Once effective, these licenses and the associated requirements and responsibilities are cumulative"
+    - "Capitalized terms used in this License are defined in the Glossary"
+    - "Subject to Your compliance with Sections 3, 8.10 and Attachment A of this License, Original Contributor grants to
+       You a worldwide, royalty-free, non-exclusive license, to the extent of
+       Original Contributor's Intellectual Property Rights covering the Original
+       Code, Upgraded Code and Specifications, to do the following: a) Research and Development Use License:
+       (i) use, reproduce and modify the Original Code, Upgraded Code and
+       Specifications to create Modifications and Reformatted Specifications for
+       Research and Development Use by You,
+       (ii) publish and display Original Code, Upgraded Code and Specifications
+       with, or as part of Modifications, as permitted under Section 3.1 b) below,
+       (iii) reproduce and distribute copies of Original Code and Upgraded Code
+       with, or as part of Modifications, to other Licensees and students for
+       Research and Development Use by You,
+       (iv) compile, reproduce and distribute Original Code and Upgraded Code
+       with, or as part of Modifications, in Executable form, and Reformatted
+       Specifications to anyone for Research and Development Use by You"
+    - "b) Other than the licenses expressly granted in this License, Original
+       Contributor retains all right, title, and interest in Original Code and
+       Upgraded Code and Specifications"
+    - "You hereby grant to each Licensee a license to
+       Your Error Corrections and Shared Modifications, of the same scope and
+       extent as Original Contributor's licenses under Section 2.1 a) above
+       relative to Research and Development Use, Attachment C relative to
+       Internal Deployment Use, and Attachment D relative to Contribution in kind"
+    - "You hereby grant to Original Contributor a
+       worldwide, royalty-free, non-exclusive, perpetual and irrevocable
+       license, to the extent of Your Intellectual Property Rights covering Your
+       Error Corrections, Shared Modifications and Reformatted Specifications,
+       to use, reproduce, modify, display and distribute Your Error Corrections,
+       Shared Modifications and Reformatted Specifications, in any form,
+       including the right to sublicense such rights through multiple tiers of
+       distribution"
+    - "Other than the licenses expressly granted in Sections 2.2 a) and b)
+       above, and the restriction set forth in Section 3.1 d) (iv) below, You
+       retain all right, title, and interest in Your Error Corrections, Shared
+       Modifications and Reformatted Specifications"
+    - "You may use, reproduce, modify, display
+       and distribute Contributor Error Corrections, Shared Modifications and
+       Reformatted Specifications, obtained by You under this License, to the
+       same scope and extent as with Original Code, Upgraded Code and Specifications"
+    - "You may deliver the Source Code of Community Code to other Licensees having at
+       least a Research and Development Use license, for the purpose of
+       furnishing development services to You in connection with Your rights
+       granted in this License"
+    - "All such Licensees must execute appropriate
+       documents with respect to such work consistent with the terms of this
+       License, and acknowledging their work-made-for-hire status or assigning
+       exclusive right to the work product and associated Intellectual Property
+       Rights to You"
+    - "As a condition of exercising the rights granted under Section 2.1 a) above, You agree to comply with
+       the following"
+    - "All Error Corrections and Shared Modifications which You create or contribute to are automatically subject
+       to the licenses granted under Section 2.2 above"
+    - "You are encouraged to license all of Your other Modifications under Section 2.2 as Shared
+       Modifications, but are not required to do so"
+    - "You agree to notify Original Contributor of any errors in the Specification"
+    - "You agree to provide all Your Error Corrections to Original Contributor as soon as reasonably practicable
+       and, in any event, prior to Internal Deployment Use or Commercial Use, if applicable"
+    - "Original Contributor may, at its discretion, post Source Code
+       for Your Error Corrections and Shared Modifications on the Community Web Server"
+    - "You may also post Error Corrections and Shared Modifications on a
+       web-server of Your choice; provided, that You inform the Original
+       Contributor and that You must take reasonable precautions to ensure that
+       only Licensees have access to such Error Corrections and Shared Modifications"
+    - "Such precautions shall include, without limitation and at
+       least, a click-on, download certification of Licensee status required of
+       those attempting to download from the server"
+    - "An example of an acceptable certification is attached as Attachment A-2"
+    - "All Error Corrections and Shared Modifications You create or
+       contribute to must include a file documenting the additions and changes
+       You made and the date of such additions and changes"
+    - "If it is not possible to put the notice in a particular Source Code file due to its
+       structure, then You must include the notice in a location (such as a
+       relevant directory file), where a recipient would be most likely to look for such a notice"
+    - "Community Code may be distributed in Source Code or
+       Executable form to anybody that accepts the JCSL License conditions and
+       becomes a licensee"
+    - "You may not offer or impose any terms on any
+       Community Code that alter the rights, requirements, or responsibilities of such Licensee"
+    - "All Community Code must be Compliant
+       Community Code prior to any Redistribution, whether originating from You or acquired from a third party"
+    - "So if You plan to make any further Shared
+       Modifications to any Community Code previously determined to be Compliant
+       Community Code, you must ensure that it continues to be Compliant Community Code"
+    - "If You make any non shared Modifications to any
+       Community Code without contributing them as Shared Modifications, You
+       must clearly indicate that your distribution is a modified version of the
+       official Community Code and must clearly remind to your Licensees that
+       they also have to accept the JCSL License conditions on your Derivative Work"
+    - "You may distribute Executable version(s) of a
+       Derivative Work to Licensees and other third parties only for the purpose
+       of evaluation and comment in connection with Research and Development Use by You"
+    - "You must ensure that the Executable distribution based on a
+       Derivative Work carries a different mark than the JAHIA Trademarks"
+    - "You may distribute a Derivative Work under a license of Your choice, which
+       may contain terms different from this License, provided (a) that You are
+       in compliance with the terms of this License, and (b) You must make it
+       absolutely clear that any terms which differ from this License are
+       offered by You alone, not by Original Contributor or any other Contributor"
+    - "Any other type of use must be subject to the execution of a
+       complementary license agreement by You and Original Contributor"
+    - "In connection with Research and Development Use by You only, You may use Original
+       Contributor's class, interface and package names only to accurately
+       reference or invoke the Source Code files You modify"
+    - "Original Contributor grants to You a limited license to the extent necessary for
+       such purposes"
+    - "You must retain, in the Source form of any Derivative Works that You distribute, all copyright,
+       patent, trademark, and attribution notices from Community Code, excluding
+       those notices that do not pertain to any part of the Derivative Works"
+    - "You may add Your own copyright statement to Your Modifications"
+    - "You expressly agree that any distribution, in whole or in part, of
+       Modifications developed by You shall only be done pursuant to the terms
+       and conditions of this License"
+    - "You may not include any Source Code of Community Code
+       in any Extensions without the prior consent of the Original Contributor; (ii) Open"
+    - "You agree to refrain from enforcing any Intellectual Property
+       Rights You may have covering any interface(s) of Your Extension, which
+       would prevent the implementation of such interface(s) by Original
+       Contributor or any Licensee"
+    - "This obligation does not prevent You from enforcing any Intellectual Property Right You have that would otherwise
+       be infringed by an implementation of Your Extension"
+    - "You may not add any packages, or any public or protected classes or interfaces with names that
+       originate or might appear to originate from Original Contributor
+       including, without limitation, package or class names which begin with
+       'com.jahia', org.jahia or its equivalents in any subsequent class,
+       interface and/ or package naming convention adopted by Original Contributor"
+    - "It is specifically suggested that You name any new packages
+       using the 'Unique Package Naming Convention' as described in 'The Java
+       Language Specification' by James Gosling, Bill Joy, and Guy Steele, ISBN
+       0-201-63451-1, August 1996"
+    - "Section 7.7 'Unique Package Names', on page 125 of this specification which states, in part"
+    - "'You form a unique package name by first having (or belonging to an
+       organization that has) an Internet domain name, such as 'sun.com'"
+    - "You then reverse the name, component by component, to obtain, in this
+       example, 'com.sun', and use this as a prefix for Your package names,
+       using a convention developed within Your organization to further
+       administer package names"
+    - "Any additional requirements and responsibilities relating to the Technology are listed
+       in Attachment F (Additional Requirements and Responsibilities), if
+       applicable only, and are hereby incorporated into this Section 3"
+    - "Original Contributor may publish revised versions of the License from time to time"
+    - "Each version will be given a distinguishing version number"
+    - "Once a particular version of Community Code has been
+       provided under a version of the License, You may always continue to use
+       such Community Code under the terms of that version of the License"
+    - "You may also choose to use such Community Code under the terms of any subsequent version of the License"
+    - "No one other than Original Contributor has the right to promulgate License versions"
+    - "If Original Contributor decides to stop
+       supporting a collaborative source compliant license policy as defined by
+       the Collaborative Source Initiative (www.collaborativesource.org), goes
+       bankrupt or does not want to adjust this license consequently, Original
+       Contributor shall release the last version available under a
+       collaborative source license under an open source license of his choice
+       as defined by the Open Source Initiative (www.opensource.org)"
+
+segmentation:
+  revert: [
+    { match:
+        "and You desire to license the Technology from Original Contributor on the terms and conditions specified in this License. In consideration of the mutual covenants contained herein, You and Original Contributor agree as follows:",
+      matchNext:
+        "Research and Development Use 1. Introduction. The JAHIA Collaborative Source License and effective attachments (\"License\") may include three distinct licenses: 1) Research and Development Use, 2) Internal Deployment Use, 3) Contribution Agreement"
+    }
+  ]

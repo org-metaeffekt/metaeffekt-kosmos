@@ -1,0 +1,30 @@
+canonicalName: Blitz++ Artistic License
+category: Blitz++ Artistic
+shortName: Blitz-Artistic
+
+otherIds:
+  - "scancode:blitz-artistic"
+
+evidence:
+  matches:
+    - "You may make and give away verbatim copies of the 
+       Standard Version of this Library without restriction, provided that
+       you duplicate all of the original copyright notices, this license,
+       and associated disclaimers"
+    - "The Standard Version of the Library may be distributed as part
+       of a collection of software, provided no more than a reasonable
+       copying fee is charged for the software collection"
+    - "You may apply bug fixes, portability fixes and other modifications
+       derived from the Public Domain or from the Copyright Holder"
+    - "A
+       Library modified in such a way shall still be considered the
+       Standard Version"
+    - "You may otherwise modify your copy of this Library in any way,
+       provided that you insert a prominent notice in each changed file
+       stating how and when you changed that file, and provided that you do
+       at least ONE of the following"
+    - "place your modifications in the Public Domain or otherwise
+       make them Freely Available, such as by posting said
+       modifications to the Blitz++ development list, 
+       and allowing the Copyright Holder to include
+       your modifications in the Standard Version of the Library"

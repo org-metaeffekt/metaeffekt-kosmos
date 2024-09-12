@@ -1,0 +1,17 @@
+canonicalName: McPhee Slideshow License
+category: McPhee-slideshow
+spdxIdentifier: McPhee-slideshow
+
+otherIds:
+  - "scancode:mcphee-slideshow"
+
+alternativeNames:
+  - "McPhee-slideshow"
+  - "McPhee Slideshow License"
+
+evidence:
+  matches:
+    - "everyone is welcome to use this code for any purpose, to modify it, and
+       to copy it in whole or in part for use in other macro sets, with the
+       conditions that this copyright notice be preserved with any significant
+       portion of the code, and that modifications to this file be clearly marked"

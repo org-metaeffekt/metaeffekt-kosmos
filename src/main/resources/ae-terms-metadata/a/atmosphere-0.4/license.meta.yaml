@@ -1,0 +1,34 @@
+canonicalName: Atmosphere Software License 0.4
+category: Atmosphere Software License
+shortName: Atmosphere-0.4
+
+otherIds:
+  - "scancode:atmosphere-0.4"
+
+alternativeNames:
+  - "Atmosphere Software License Version 0.4"
+
+evidence:
+  matches:
+    - "You may copy and distribute verbatim copies of the Program's source code as you
+       receive it, in any medium, provided that you conspicuously and appropriately
+       publish on each copy an appropriate copyright notice and disclaimer of warranty;
+       keep intact all the notices that refer to this License and to the absence of any warranty;
+       and give any other recipients of the Program a copy of this License along with the Program"
+    - "You may charge a fee for the physical act of transferring a copy, and you may at your
+       option offer warranty protection in exchange for a fee"
+    - "You may modify your copy or copies of the Program or any portion of it, thus forming a
+       work based on the Program, and copy and distribute such modifications or work under the terms
+       of Section 1 above, provided that each time you do so you also meet all of these conditions"
+  excludes:
+    - "BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR
+       THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW"
+
+references:
+  "Apache License":
+    matches:
+      - "You may also subject parts of the Program to restrictions derived from the Apache License Version 2."
+      - "if those parts of the Program were previously licensed under the Apache License"
+      - "This is necessary to stay in compliance with the Apache License when relicensing under the Atmosphere License"
+      - "To do this, add the phrase \"subject to restrictions in Apache License Version 2.0"
+      - "or for the files or other parts of the Program that were covered by the Apache License"

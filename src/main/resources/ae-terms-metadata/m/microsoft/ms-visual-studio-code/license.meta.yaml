@@ -1,0 +1,22 @@
+canonicalName: Microsoft Visual Studio Code License
+category: Microsoft Visual Studio Code License
+shortName: MS-Visual-Studio-Code
+
+otherIds:
+  - "scancode:ms-visual-studio-code"
+
+alternativeNames:
+  - "Microsoft Visual Studio Code License"
+  - "MICROSOFT VISUAL STUDIO CODE"
+
+evidence:
+  matches:
+    - "You may obtain the complete corresponding source code from us if and as required under the relevant
+       open source licenses by sending a money order"
+    - "The software gives you the option to download other Microsoft and third party software packages from
+       our extension marketplace or package managers"
+    - "Those packages are under their own licenses, and not this agreement"
+    - "Microsoft does not distribute, license or provide any warranties for any of the third party packages"
+  excludes:
+    - "These laws include restrictions on destinations, end users and end use"
+    - "You have statutory guarantees under the Australian Consumer Law and nothing in this agreement is intended to affect those rights"

@@ -1,0 +1,44 @@
+canonicalName: Creative Commons BY-SA 4.0
+category: CC-BY-SA
+spdxIdentifier: CC-BY-SA-4.0
+
+otherIds:
+  - "scancode:cc-by-sa-4.0"
+
+requiresCopyright: false
+requiresLicenseText: false
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+alternativeNames:
+  - "Creative Commons Attribution-ShareAlike 4.0"
+  - "Creative Commons Attribution ShareAlike 4.0"
+  - "CC-BY-SA-4.0"
+  - "CC BY-SA 4.0"
+  - "CC-BY-SA 4.0"
+
+evidence:
+  matches:
+    - "retain the following if it is supplied by the Licensor with the Licensed Material"
+    - "must be a Creative Commons license with the same License Elements, this version or
+       later, or a BY-SA Compatible License"
+    - "The License Elements of this Public License are Attribution and ShareAlike"
+    - "You must include the text of, or the URI or hyperlink to, the Adapter's
+       License You apply. You may satisfy this condition in any reasonable manner
+       based on the medium, means, and context in which You Share Adapted Material"
+  excludes:
+    - "For the avoidance of doubt, You do not have permission under this Public License
+       to Share Adapted Materia"
+    - "Take any action with the Work that would infringe the non-patent intellectual property laws of any jurisdiction
+       to which You are subject"
+
+references:
+  "Public Domain":
+    matches:
+    - "The text of the
+       Creative Commons public licenses is dedicated to the public domain under the
+       CC0 Public Domain Dedication. Except for the limited purpose of indicating
+       that material is shared under a Creative Commons public license or as otherwise
+       permitted by the Creative Commons policies published"
+

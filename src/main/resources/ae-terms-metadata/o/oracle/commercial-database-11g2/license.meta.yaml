@@ -1,0 +1,14 @@
+canonicalName: Oracle Commercial Database License 11g Release 2 (11.2)
+category: Oracle Commercial Database License 11g Release 2 (11.2)
+shortName: Oracle-Commercial-Database-11g2
+
+otherIds:
+  - "scancode:oracle-commercial-database-11g2"
+
+alternativeNames:
+  - "oracle-commercial-database-11g2"
+
+evidence:
+  matches:
+    - "This Oracle database is subject to commercial licensing terms"
+    - "Refer to http://docs.oracle.com/cd/E11882_01/license.112/e47877/toc.htm for complete details"

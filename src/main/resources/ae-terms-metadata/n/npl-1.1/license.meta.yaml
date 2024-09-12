@@ -1,0 +1,38 @@
+canonicalName: Netscape Public License 1.1
+category: Netscape Public License
+spdxIdentifier: NPL-1.1
+
+otherIds:
+  - "scancode:npl-1.1"
+
+alternativeNames:
+  - "http://www.mozilla.org/MPL/NPL-1.1.html"
+  - "http://www.mozilla.org/NPL/"
+  - "Netscape Public License and MPL / GPL dual license"
+  - "mozilla.org/mpl/MPL/NPL/1.1/"
+  - "https://spdx.org/licenses/npl-1.1"
+  - "NPL-1.1"
+  - "Netscape Public License v1.1"
+
+expectedSpdxMatches:
+  - "Mozilla Public License 1.1"
+  - "Netscape Public License 1.1"
+
+evidence:
+  matches:
+    - "Netscape may include Covered Code in products other than the Netscape's Branded Code which are released
+       by Netscape during the two (2) years following the release date of the Original Code, without such additional
+       products becoming subject to the terms of this License, and may license such additional products on different
+       terms from those contained in this License"
+    - "Netscape may license the Source Code of Netscape's Branded Code, including Modifications incorporated therein,
+       without such Netscape Branded Code becoming subject to the terms of this License, and may license such Netscape
+       Branded Code on different terms from those contained in this License"
+  excludes:
+    - "to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof)
+       with or without Modifications, or as part of a Larger Work"
+
+references:
+  "MPL":
+    matches:
+      - "The Netscape Public License Version 1.1 (\"NPL\") consists of the Mozilla Public License Version 1.1 with the
+         following Amendments, including Exhibit A-Netscape Public License"

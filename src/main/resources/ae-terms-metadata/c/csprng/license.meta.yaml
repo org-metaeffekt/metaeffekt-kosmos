@@ -1,0 +1,23 @@
+canonicalName: CSPRNG Terms
+category: CSPRNG
+shortName: CSPRNG
+
+otherIds:
+  - "scancode:csprng"
+
+alternativeNames:
+  - "csprng license"
+  - "csprng terms"
+  - "Redistribution of the CSPRNG"
+
+evidence:
+  matches:
+    - "Redistribution of the CSPRNG modules and use in source and binary forms,
+       with or without modification, are permitted provided that the following conditions are met"
+    - "Redistributions of source code must retain the above copyright notice
+       and this permission notice in its entirety"
+    - "Redistributions in binary form must reproduce the copyright notice in
+       the documentation and/or other materials provided with the distribution"
+    - "A copy of any bugfixes or enhancements made must be provided to the
+       author, <pgut001@cs.auckland.ac.nz> to allow them to be added to the
+       baseline version of the code"

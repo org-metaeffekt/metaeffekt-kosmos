@@ -1,0 +1,23 @@
+canonicalName: GStreamer Exception (2008)
+category: GStreamer Exception (2008)
+spdxIdentifier: GStreamer-exception-2008
+shortName: GStreamer-Exception-2008
+
+type: exception
+
+otherIds:
+  - "scancode:gstreamer-exception-2008"
+
+alternativeNames:
+  - "GStreamer Exception (2008)"
+  - "GStreamer-exception-2008"
+
+references:
+  "GPL":
+    matches:
+      - "the permissions granted by the GPL license"
+
+evidence:
+  matches:
+    - "This project hereby grants permission for non-GPL compatible GStreamer plugins
+       to be used and distributed together with GStreamer and this project"

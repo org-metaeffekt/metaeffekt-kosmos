@@ -1,0 +1,18 @@
+canonicalName: No Limit Public License
+category: NLPL
+spdxIdentifier: NLPL
+
+otherIds:
+  - "scancode:nlpl"
+
+canonicalNameHistory:
+  - "NLPL"
+
+alternativeNames:
+  - "NO LIMIT PUBLIC LICENSE"
+  - "NLPL"
+
+evidence:
+  matches:
+    - "Terms and conditions for copying, distribution, modification or anything else"
+    - "No limit to do anything with this work and this license"

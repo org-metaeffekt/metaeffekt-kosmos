@@ -1,0 +1,43 @@
+canonicalName: SystemC Open Source License Agreement
+category: SystemC Open Source License Agreement
+shortName: Accellera-Systemc
+
+otherIds:
+  - "scancode:accellera-systemc"
+
+alternativeNames:
+  - "SystemC Open Source License Agreement"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, each Contributor hereby grants to each Recipient a non-
+       exclusive, worldwide, royalty-free license under such Contributor's Copyright Rights to do the following:
+       (a) Use, reproduce, prepare Derivative works of, publicly display, publicly perform and Distribute any
+       Contributions of such Contributor and Derivative works thereof; and
+       (b) Use the know-how, information and knowledge embedded in the Contribution, without any
+       obligation to keep the foregoing confidential so long as the Recipient does not otherwise violate this
+       Agreement"
+    - "Accellera hereby grants to each Recipient a non-exclusive, worldwide, royalty- free license under
+       Accellera's Copyright Rights to use, reproduce, prepare Derivative works of, publicly display, publicly
+       perform and distribute the Accellera Documentation and any Derivative works thereof, subject to the terms
+       and conditions of this Agreement"
+    - "Subject to the terms of this Agreement, each Contributor hereby grants to each Recipient, a worldwide,
+       royalty-free, non-exclusive license under such Contributor's Necessary Patent Claims to make, have made,
+       use, sell, offer for sale, or import: (a) such Contributor's Contributions; (b) those portions of a computer
+       program that either implements, or is compiled from, the Contributor’s unmodified Contribution; and (c)
+       those portions of a computer program that implement, or are compiled from, an Accellera Release"
+    - "Each Contributor represents that, to its knowledge, it has sufficient rights in and to each of its
+       Contributions to grant the licenses set forth in Sections 2.1 and 2.3. Accellera represents that, to its
+       knowledge, it has sufficient rights in the Accellera Documentation to grant the license set forth in Section
+       2.2"
+    - "Except as expressly stated in Sections 2.1, 2.2 and 2.3, Recipient receives no rights or licenses to the
+       intellectual property of any Contributor or Accellera under this Agreement, whether expressly, by implication,
+       estoppel or otherwise. All rights in and to any Contribution not expressly granted under this Agreement are
+       reserved"
+    - "Except as specifically set forth in any Copyright Agreement, Contributor shall ensure that transfers or
+       assignments of all or any part of its right, title, and interest in and to any Contributions contributed or
+       deposited by Contributor hereunder, including all Copyright Rights and patent rights embodied therein,
+       shall be subject to the rights expressly granted in this Agreement including, without limitation, the licenses
+       granted in Sections 2.1 and 2.3. Recipient shall not remove or alter any proprietary notices contained in
+       the Contributions licensed to Recipient hereunder and shall reproduce and include such notices on any copies
+       of the Contributions made by Recipient in any media"

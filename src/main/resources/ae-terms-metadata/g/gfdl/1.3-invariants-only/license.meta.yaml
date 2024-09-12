@@ -1,0 +1,31 @@
+canonicalName: GNU Free Documentation License 1.3 (invariants)
+category: GFDL
+spdxIdentifier: GFDL-1.3-invariants-only
+shortName: GFDL-1.3-invariants
+
+expectedMatches:
+  - "GNU Free Documentation License 1.3"
+
+alternativeNames:
+  - "GFDL-1.3-invariants-only"
+  - "GNU Free Documentation License v1.3 only - invariants"
+  - "GNU Free Documentation License Version 1.3 invariants"
+  - "GNU Free Documentation License Version - 1.3 invariants"
+  - "GNU Free Documentation License Version v1.3 invariants"
+  - "GNU Free Documentation License Version - v1.3 invariants"
+  - "GFDL Version 1.3 - invariants"
+  - "GFDL 1.3 - invariants"
+  - "GFDL Version 1.3 invariants"
+  - "GFDL Version 1.3 (invariants)"
+  - "GFDL v1.3 invariants"
+  - "GFDL v1.3 - invariants"
+
+
+
+references:
+  "CC-BY-SA":
+    matches:
+      - "\"CC-BY-SA\" means the Creative Commons Attribution-Share Alike 3.0 license
+          published by Creative Commons Corporation, a not-for-profit corporation with
+          a principal place of business in San Francisco, California, as well as future
+          copyleft versions of that license published by that same organization"

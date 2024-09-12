@@ -1,0 +1,25 @@
+canonicalName: Permission Terms (HL)
+category: Permission
+shortName: PT-HL
+
+alternativeNames:
+  - "Permission Terms (HL)"
+
+otherIds:
+  - "scancode:ntpl-origin"
+
+displayName: Permission Terms (no advertising; no warranty)
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify and distribute this software and its
+       documentation for any purpose and without fee is hereby granted,
+       provided that the above copyright notice appears in all copies and
+       that both the copyright notice and this permission notice appear in
+       supporting documentation"
+    - "This software is supported as is and without
+       any express or implied warranties, including, without limitation, the
+       implied warranties of merchantability and fitness for a particular
+       purpose"
+    - "must not be used to endorse or promote products derived from this software without prior written permission"

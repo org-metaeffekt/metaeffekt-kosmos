@@ -1,0 +1,31 @@
+canonicalName: Apple Public Source License 1.2
+category: APSL
+spdxIdentifier: APSL-1.2
+
+otherIds:
+  - "scancode:apsl-1.2"
+
+alternativeNames:
+  - "APSL, Version 1.2"
+  - "APSL, 1.2"
+  - "APSL 1.2"
+  - "APSL-1.2"
+  - "APPLE PUBLIC SOURCE LICENSE 1.2"
+  - "APPLE PUBLIC SOURCE LICENSE v1.2"
+  - "APPLE PUBLIC SOURCE LICENSE, 1.2"
+  - "APPLE PUBLIC SOURCE LICENSE Version 1.2"
+  - "Apple Public Source License Ver. 1.2"
+
+evidence:
+  matches:
+    - "This License applies to any program or other work which Apple Computer, Inc"
+    - "As a condition to exercising the rights and licenses granted hereunder, You
+       hereby assume sole responsibility to secure any other intellectual property
+       rights needed, if any"
+    - "For example, if a third party patent license is required to allow You to distribute
+       the Covered Code, it is Your responsibility to acquire that license before distributing
+       the Covered Code"
+  excludes:
+    - "If You Externally Deploy Your Modifications, You must make Source Code
+       of all Your Externally Deployed Modifications either available to those to
+       whom You have Externally Deployed Your Modifications, or publicly available"

@@ -1,0 +1,18 @@
+canonicalName: SMAIL General Public License
+category: SMAIL General Public License
+shortName: SMAIL-GPL
+
+alternativeNames:
+  - "SMAIL GENERAL PUBLIC LICENSE"
+
+otherIds:
+  - "scancode:smail-gpl"
+
+evidence:
+  matches:
+    - "Everyone is permitted to copy and distribute verbatim copies
+       of this license, but changing it is not allowed"
+    - "You can also use this wording to make the terms for other programs"
+    - "You may copy and distribute verbatim copies of SMAIL source code
+       as you receive it, in any medium, provided that you conspicuously and
+       appropriately publish on each copy a valid copyright notice"

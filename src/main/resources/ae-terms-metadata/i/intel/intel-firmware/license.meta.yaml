@@ -1,0 +1,42 @@
+canonicalName: Intel Firmware License
+category: Intel Firmware License
+shortName: Intel-Firmware
+
+otherIds:
+  - "scancode:intel-firmware"
+
+alternativeNames:
+  - "intel-firmware"
+
+evidence:
+  matches:
+    - "Do not use or load this firmware image (the 'Software') until you have carefully
+       read the following terms and conditions"
+    - "By loading or using the Software, you agree to the terms of this Agreement"
+    - "If you do not wish to so agree, do not install or use the Software"
+    - "You may copy and use the Software, subject to these conditions"
+    - "This Software is licensed for use only in conjunction with Intel component
+       products"
+    - "Use of the Software in conjunction with non-Intel component products is not licensed hereunder"
+    - "You may not copy, modify, rent, sell, distribute or transfer any part of the
+       Software except as provided in this Agreement, and you agree to prevent
+       unauthorized copying of the Software"
+    - "You may not reverse engineer, decompile, or disassemble the Software"
+    - "You may not sublicense the Software"
+    - "The Software may contain the software or other property of third party suppliers"
+    - "Title to all copies of the Software remains with Intel or its suppliers"
+    - "The Software is copyrighted and protected by the laws of the United States and other countries, and international treaty
+       provisions"
+    - "You may not remove any copyright notices from the Software"
+    - "Intel may make changes to the Software, or items referenced therein, at any time
+       without notice, but is not obligated to support or update the Software"
+    - "Except as otherwise expressly provided, Intel grants no express or implied right under
+       Intel patents, copyrights, trademarks, or other intellectual property rights"
+    - "You may transfer the Software only if a copy of this license accompanies the
+       Software and the recipient agrees to be fully bound by these terms"
+  excludes:
+    - "If you wish to have a third party consultant or subcontractor (\"Contractor\") perform work on your behalf which 
+       involves access to or use of Software, you shall obtain a written confidentiality agreement from the Contractor 
+       which contains provisions with respect to access to or use of the Software no less restrictive than those set 
+       forth in this Agreement and excluding any distribution rights, and use for any other purpose"
+    - "Contractor or Manufacturer is Intel Corporation, 2200BG Mission College"

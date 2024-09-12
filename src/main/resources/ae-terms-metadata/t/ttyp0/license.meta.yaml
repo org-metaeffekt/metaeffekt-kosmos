@@ -1,0 +1,31 @@
+canonicalName: TTYP0 License
+category: TTYP0 License
+spdxIdentifier: TTYP0
+
+otherIds:
+  - "scancode:ttyp0"
+
+alternativeNames:
+  - "TTYP0 License"
+
+evidence:
+  matches:
+    - "The above copyright notice, this permission notice, and the
+       disclaimer below shall be included in all copies or substantial
+       portions of the Software"
+    - "If the design of any glyphs in the fonts that are contained in the
+       Software or generated during the installation process is modified
+       or if additional glyphs are added to the fonts, the fonts
+       must be renamed"
+    - "The new names may not contain the word 'UW', irrespective of capitalisation;
+       the new names may contain the word 'ttyp0', irrespective of capitalisation,
+       only if preceded by a foundry name different from 'UW'"
+
+segmentation:
+  revert: [
+    { match:
+        "and the disclaimer below shall be included in all copies or substantial portions of the Software.",
+      matchNext:
+        "(2) If the design of any glyphs in the fonts that are contained in the Software or generated during"
+    }
+  ]

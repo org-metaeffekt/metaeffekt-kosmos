@@ -1,0 +1,51 @@
+canonicalName: MonetDB Public License 1.1
+category: MonetDB
+shortName: MonetDB-Public-1.1
+
+otherIds:
+  - "scancode:monetdb-1.1"
+
+alternativeNames:
+  - "MonetDB Public License Version 1.1"
+
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license, subject to
+       third party intellectual property claims"
+    - "under intellectual property rights (other than patent or trademark) Licensable by Initial Developer to use,
+       reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with
+       or without Modifications, and/or as part of a Larger Work"
+    - "Subject to third party intellectual property claims, each Contributor hereby grants You a world-wide,
+       royalty-free, non-exclusive license under intellectual property rights (other than patent or trademark)
+       Licensable by Contributor, to use, reproduce, modify, display, perform, sublicense and distribute the
+       Modifications created by such Contributor (or portions thereof) either on an unmodified basis, with other
+       Modifications, as Covered Code and/or as part of a Larger Work"
+    - "The Modifications which You create or to which You contribute are governed by the terms of this License,
+       including without limitation Section 2.2"
+    - "The Source Code version of Covered Code may be distributed only under the terms of this License or a future
+       version of this License released under Section 6.1, and You must include a copy of this License with every
+       copy of the Source Code You distribute"
+    - "Any Modification which You create or to which You contribute must be made available in Source Code form under
+       the terms of this License either on the same media as an Executable version or via an accepted Electronic
+       Distribution Mechanism to anyone to whom you made an Executable version available"
+    - "If Contributor's Modifications include an application programming interface and Contributor has knowledge of
+       patent licenses which are reasonably necessary to implement that API, Contributor must also include this
+       information in the legal file"
+    - "If it is not possible to put such notice in a particular Source Code file due to its structure, then You must
+       include such notice in a location (such as a relevant directory) where a user would be likely to look for such a notice"
+    - "If it is impossible for You to comply with any of the terms of this License with respect to some or all of
+       the Covered Code due to statute, judicial order, or regulation then You must"
+    - "Once Covered Code has been published under a particular version of the License, You may always continue to
+       use it under the terms of that version"
+    - "This License and the rights granted hereunder will terminate automatically if You fail to comply with terms
+       herein and fail to cure such breach within 30 days of becoming aware of the breach"
+    - "The contents of this file are subject to the MonetDB Public License Version 1.1"
+
+references:
+  "MPL":
+    matches:
+      - "This License is a derivative of the Mozilla Public License (MPL) Version 1.1, where the difference is that all references to \"Mozilla\" and \"Netscape\" have been changed to \"MonetDB\", and that the License has been made subject to the laws of The Netherlands"

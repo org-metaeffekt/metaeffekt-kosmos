@@ -1,0 +1,25 @@
+canonicalName: Cypress Device End User License Agreement
+category: Cypress EULA
+shortName: Cypress-EULA
+
+otherIds:
+  - "scancode:cypress-linux-firmware"
+
+alternativeNames:
+  - "Cypress Device End User License Agreement"
+
+evidence:
+  matches:
+  - "Software Provided in Binary Code Form"
+  - "This paragraph applies to any Software provided in binary code form"
+  - "Subject to the terms and conditions of this Agreement, Cypress Semiconductor
+     Corporation (Cypress) grants you a non-exclusive, non-transferable license under
+     its copyright rights in the Software to reproduce and distribute the Software in
+     object code form only, solely for use in connection with Cypress integrated circuit
+     products (Purpose)"
+
+references:
+  "GPL":
+    matches:
+      - "Portions of the Software may be licensed under free and/or open source
+         licenses such as the GNU General Public License"

@@ -1,0 +1,21 @@
+canonicalName: Zipeg License
+category: Zipeg License
+shortName: Zipeg
+
+otherIds:
+  - "scancode:zipeg"
+
+alternativeNames:
+  - "Zipeg License"
+
+evidence:
+  matches:
+    - "Redistribution and use in any forms, without modification, is permitted provided
+       that the following conditions are met"
+    - "Redistributions must reproduce the above copyright notice, this list of
+       conditions and the following disclaimer in the documentation and/or other
+       materials provided with the distribution"
+    - "Neither the name of the www.zipeg.com nor the names of its contributors may be
+       used to endorse or promote products derived from this software without specific
+       prior written permission"
+

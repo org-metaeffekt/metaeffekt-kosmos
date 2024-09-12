@@ -1,0 +1,29 @@
+canonicalName: Intel Sample Source Code License Agreement 2015
+category: Intel Sample Source Code License Agreement
+shortName: Intel-Sample-Source-Code-2015
+
+otherIds:
+  - "scancode:intel-sample-source-code-2015"
+
+alternativeNames:
+  - "Intel Sample Source Code License Agreement"
+
+comments:
+
+evidence:
+  matches:
+    - "Do not copy, install or use the Materials (as defined below) provided under this license agreement ('Agreement')
+       from Intel Corporation (“Intel”), until you (“You”) have carefully read the following terms and conditions"
+    - "By copying, installing or otherwise using the Materials, You agree to be bound by the terms of this Agreement"
+    - "If You do not agree to the terms of this Agreement, do not copy, install or use the Materials"
+    - "If You are agreeing to the terms and conditions of this Agreement on behalf of a company or other legal entity
+       (“Legal Entity”), You represent and warrant that You have the legal authority to bind that Legal Entity to the
+       Agreement, in which case, 'You' or 'Your' will mean such Legal Entity"
+    - "By agreeing to this Agreement, You affirm that You are of legal age (18 years old or older) to enter into this Agreement"
+    - "If You are not of legal age You may not enter into this Agreement, and either Your parent, legal guardian or Legal
+       Entity must agree to the terms and conditions of this Agreement and enter into this Agreement, in which case, 'You'
+       or 'Your' will mean such parent, legal guardian, or Legal Entity"
+    - "Third Party Programs (as defined below), even if included with the distribution of the Materials, are governed
+       by separate third party license terms, including without limitation, open source software license terms"
+    - "Such third party license terms (and not this Agreement) govern Your use of the Third Party Programs, and Intel
+       is not liable for the Third Party Programs"

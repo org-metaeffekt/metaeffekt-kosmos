@@ -1,0 +1,58 @@
+canonicalName: Appfire EULA
+category: Appfire EULA
+shortName: Appfire-EULA
+
+otherIds:
+  - "scancode:appfire-eula"
+
+alternativeNames:
+  - "appfire-eula"
+
+references:
+  "Atlassian Marketplace Terms of Use":
+    matches:
+      - "This is a “Publisher EULA” as referred to in the Atlassian Marketplace Terms of Use, found at
+         https://www.atlassian.com/licensing/marketplace/termsofuse"
+
+evidence:
+  matches:
+    - "The Products are licensed, not sold, and no ownership right is conveyed to you, irrespective of the use of terms
+       in this EULA such as “purchase” or “sale”"
+    - "For other than No-Charge Products, the Licensor grants you a perpetual (subject to termination for breach),
+       worldwide, non-exclusive, non-transferable, non-sub licensable license to install and use the Software in object
+       code only, limited to the Scope of Use as designated in your Order"
+    - "The Licensor grants you a monthly (paid in advance) subscription for worldwide, non-exclusive, non-transferable,
+       non-sub licensable use of the Hosted Services, subject to automatic renewal for successive monthly terms unless
+       either Licensor or you notifies the other of non-renewal or Licensor ceases to make a particular Hosted Service
+       available. If you cancel, your subscription will terminate at the end of the then-current billing cycle, but you
+       will not be entitled to any credits or refunds for amounts accrued or paid prior to such termination. You
+       acknowledge that Hosted Services are on-line, subscription-based products, hosted by Licensor and/or Atlassian,
+       and that Licensor and/or Atlassian may make changes to the Hosted Services from time to time"
+    - "The Licensor may offer you a time-limited, worldwide, non-exclusive, non-transferable, non-sublicensable limited
+       license for certain Products at no charge, including free accounts, trial use, and access to Beta Versions as
+       defined below (“No-Charge Products”). Your use of No-Charge Products is subject to any additional terms specified
+       by Licensor and is only permitted for the evaluation period designated by Licensor. After the evaluation period
+       is expired you must abide by the Standard Use rights, or must remove and delete all copies of the Software in
+       your possession. You may not use No-Charge Products for competitive analysis or similar purposes. Licensor may
+       terminate your right to use No-Charge Products at any time and for any reason in its sole discretion, without
+       liability to you. You understand that any pre-release and beta products (“Beta Versions”) are still under
+       development, may be inoperable or incomplete and are likely to contain more errors and bugs than generally
+       available Products. Licensor makes no promises that any Beta Versions will ever be made generally available. In
+       some circumstances, Licensor may charge a fee in order to allow you to access Beta Versions, but the Beta
+       Versions will still remain subject to this paragraph. All information regarding the characteristics, features or
+       performance of Beta Versions constitutes Licensor’s Confidential Information. To the maximum extent permitted by
+       applicable law, Licensor disclaims all obligations or liabilities with respect to No-Charge Products, including
+       any Support Services, warranty, and indemnity obligations"
+    - "Your license rights under this EULA are non-exclusive, non-transferable and non-sublicensable. You may not sell,
+       transfer or convey the Software to any third party without Licensor’s prior express written consent. Licensor
+       reserves all rights not expressly granted to the Licensee in this EULA"
+    - "Standard Use licensees are permitted to make one (1) copy of the Software for data protection, archiving and
+       backup purposes only and for no other purpose"
+    - "You may only install the Software and make the Software available for use on hardware systems owned, leased or
+       controlled by you, or your third party service providers so long as you remain responsible for their compliance
+       with the terms and conditions of this EULA"
+    - "This EULA applies whether you purchase Products directly from Licensor, through the Atlassian marketplace,
+       through an authorized Reseller or otherwise. If you purchase through a Reseller, your license rights shall be
+       as stated in the Order placed by Reseller for you, and the Reseller is responsible for the accuracy of any such
+       Order. Resellers are not authorized to make any promises or commitments on Licensor’s behalf, and Licensor is
+       not bound by any obligations to you other than what is included in this EULA"

@@ -1,0 +1,18 @@
+canonicalName: Dotseqn License
+category: Dotseqn
+spdxIdentifier: Dotseqn
+
+otherIds:
+  - "scancode:dotseqn"
+
+alternativeNames:
+  - "Dotseqn License"
+  - "DOTSEQN LICENSE"
+  - "DOTSEQN License"
+
+evidence:
+  matches:
+    - "This file may be freely transmitted and reproduced, but it may not be changed
+       unless the name is changed also (except that you may freely change the paper-size
+       option for"
+    - "This notice must be left intact"

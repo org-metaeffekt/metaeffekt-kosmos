@@ -1,0 +1,26 @@
+canonicalName: Hewlett-Packard BSD variant license
+category: BSD-3-Clause-HP
+spdxIdentifier: BSD-3-Clause-HP
+
+otherIds:
+  - "scancode:bsd-3-clause-hp"
+
+classification: permissive
+
+alternativeNames:
+  - "BSD-3-Clause-HP"
+  - "Hewlett-Packard BSD variant license"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that the following conditions
+       are met"
+    - "Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution"
+    - "Neither the name of the HP nor the names of its
+       contributors may be used to endorse or promote products derived
+       from this software without specific prior written permission"

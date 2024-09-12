@@ -1,0 +1,50 @@
+canonicalName: Creative Commons BY-NC 2.0
+category: CC-BY-NC
+spdxIdentifier: CC-BY-NC-2.0
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Non Commercial 2.0 Generic"
+  - "Creative Commons BY-NC 2.0 (generic)"
+
+requiresAnnexNotice: true
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial 2.0 Generic"
+  - "CC-BY-NC-2.0"
+  - "Creative Commons Attribution-NonCommercial 2.0"
+  - "Creative Commons BY-NC 2.0"
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "give the Original Author credit"
+
+
+otherIds:
+  - "scancode:cc-by-nc-2.0"
+
+evidence:
+  matches:
+    - "You must keep intact all copyright notices for the Work and give the Original Author credit
+       reasonable to the medium or means You are utilizing by conveying the name
+       (or pseudonym if applicable) of the Original Author if supplied"
+    - "to create and reproduce Derivative Works"
+    - "to distribute copies or phonorecords of, display publicly, perform publicly,
+       and perform publicly by means of a digital audio transmission Derivative Works"
+    - "to the extent reasonably practicable, the Uniform
+       Resource Identifier, if any, that Licensor specifies to be associated with
+       the Work, unless such URI does not refer to the copyright notice or licensing
+       information for the Work"
+    - "You may not exercise any of the rights granted to You in Section 3 above
+       in any manner that is primarily intended for or directed toward commercial
+       advantage or private monetary compensation"
+    - "For the avoidance of doubt, where the Work is a musical composition or sound
+       recording, the synchronization of the Work in timed-relation with a moving
+       image (\"synching\") will be considered a Derivative Work for the purpose of
+       this License"
+  excludes:
+    - "\"License Elements\" means the following high-level license attributes as
+       selected by Licensor and indicated in the title of this License: Attribution,
+       Noncommercial, ShareAlike"
+

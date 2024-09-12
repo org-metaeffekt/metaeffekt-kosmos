@@ -1,0 +1,25 @@
+canonicalName: Beerware License
+category: Beerware
+spdxIdentifier: Beerware
+
+otherIds:
+  - "scancode:beerware"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "Beerware"
+  - "BEERWARE"
+  - "Beerware License"
+  - "BEERWARE LICENSE"
+  - "BEERWARE License"
+  - "BEER-WARE LICENSE"
+  - "beer-ware"
+  - "BEER-WARE"
+
+evidence:
+  matches:
+    - "As long as you retain this notice you can do whatever you want with this stuff"
+    - "If we meet some day, and you think this stuff is worth it,
+       you can buy me a beer in return Poul-Henning Kamp"

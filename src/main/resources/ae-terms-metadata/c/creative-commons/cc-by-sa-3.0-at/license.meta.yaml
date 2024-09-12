@@ -1,0 +1,35 @@
+canonicalName: Creative Commons BY-SA 3.0 (AT)
+category: CC-BY-SA
+spdxIdentifier: CC-BY-SA-3.0-AT
+
+representedAs: Creative Commons BY-SA 3.0
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Share Alike 3.0 Austria"
+
+otherIds:
+  - "scancode:cc-by-sa-3.0-at"
+
+alternativeNames:
+  - "CC-BY-SA-3.0-AT"
+  - "Creative Commons BY-SA 3.0 (AT)"
+  - "Creative Commons Attribution Share Alike 3.0 Austria"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Unter den Bedingungen dieser Lizenz erteilt Ihnen der Lizenzgeber - unbeschadet unverzichtbarer Rechte und vorbehaltlich des Abschnitts 3.e) - die vergütungsfreie, räumlich und zeitlich (für die Dauer des Urheberrechts oder verwandten Schutzrechts am Schutzgegenstand) unbeschränkte Nutzungsbewilligung, den Schutzgegenstand in der folgenden Art und Weise zu nutzen"
+    - "Den Schutzgegenstand in beliebiger Form und Menge zu vervielfältigen, ihn in Sammelwerke zu integrieren und ihn als Teil solcher Sammelwerke zu vervielfältigen"
+    - "Den Schutzgegenstand zu bearbeiten, einschließlich Übersetzungen unter Nutzung jedweder Medien anzufertigen, sofern deutlich erkennbar gemacht wird, dass es sich um eine Bearbeitung handelt"
+    - "Den Schutzgegenstand, allein oder in Sammelwerke aufgenommen, öffentlich wiederzugeben und zu verbreiten"
+    - "Bearbeitungen des Schutzgegenstandes zu veröffentlichen, öffentlich wiederzugeben und zu verbreiten"
+    - "Sie dürfen eine Bearbeitung ausschließlich unter den Bedingungen
+       *{.{0,5}}* dieser Lizenz,
+       *{.{0,5}}* einer späteren Version dieser Lizenz mit denselben Lizenzelementen,
+       *{.{0,5}}* einer rechtsordnungsspezifischen Creative-Commons-Lizenz mit denselben Lizenzelementen ab Version 3.0 aufwärts (z.B. Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 US),
+       *{.{0,5}}* der Creative-Commons-Unported-Lizenz mit denselben Lizenzelementen ab Version 3.0 aufwärts, oder
+       *{.{0,5}}* einer mit Creative Commons kompatiblen Lizenz verbreiten oder öffentlich wiedergeben"
+

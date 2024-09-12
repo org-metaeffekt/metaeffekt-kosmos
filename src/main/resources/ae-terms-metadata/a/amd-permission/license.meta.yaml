@@ -1,0 +1,22 @@
+canonicalName: AMD Permission
+category: AMD-Permission
+shortName: AMD-PT
+
+otherIds:
+  - "scancode:amd-linux-firmware-export"
+
+evidence:
+  matches:
+    - "Permission is hereby granted by Advanced Micro Devices, Inc. (\"AMD\"), free of any license fees, to any person
+       obtaining a copy of this microcode in binary form (the \"Software\") (\"You\"), to install, reproduce, copy and
+       distribute copies of the Software and to permit persons to whom the Software is provided to do the same, subject
+       to the following terms and conditions"
+    - "Your use of any portion of the Software shall constitute Your acceptance of the following terms and conditions.
+       If You do not agree to the following terms and conditions, do not use, retain or redistribute any portion of the
+       Software"
+    - "If You redistribute this Software, You must reproduce the above copyright notice and this license with the
+       Software"
+    - "Without specific, prior, written permission from AMD, You may not reference AMD or AMD products in the promotion
+       of any product derived from or incorporating this Software in any manner that implies that AMD endorses or has
+       certified such product derived from or incorporating this Software"
+    - "You may not reverse engineer, decompile, or disassemble this Software or any portion thereof"

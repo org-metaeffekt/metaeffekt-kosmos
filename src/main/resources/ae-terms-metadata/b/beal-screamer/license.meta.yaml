@@ -1,0 +1,19 @@
+canonicalName: Beal Screamer License
+category: Beal Screamer License
+shortName: Beal-Screamer
+
+otherIds:
+  - "scancode:beal-screamer"
+
+alternativeNames:
+  - "beal-screamer"
+  - "License by \"Beal Screamer\""
+
+evidence:
+  matches:
+    - "The purpose of this software is to re-assert your rights over fair use of audio files that you have legally purchased or otherwise obtained legally"
+    - "Please use it for that purpose only"
+    - "Do not use it to unprotect files you don't have a legal right to, or to unprotect legal files for the purpose of re-distributing them to others who do not have a legal right to the content"
+    - "in use of this software obey traditional copyright laws -- but the DMCA may be completely ignored as far as this license concerned (although you must accept responsibility for ignoring this law, since it is enforceable)"
+    - "This is free software, without any warranties, guarantees, or any assurance that it will work as described"
+    - "It relies on certain other software (from Microsoft) operating as it currently does, so I don't take any responsibility for what happens if Microsoft updates their software to render this useless, or even if they put bombs in their new software to erase all your files if they detect this software"

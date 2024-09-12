@@ -1,0 +1,29 @@
+canonicalName: HuggingFace Terms of Service 2022-09-15
+category: HuggingFace Terms of Service
+shortName: huggingface-tos-20220915
+
+otherIds:
+  - "scancode:huggingface-tos-20220915"
+
+classification: commercial
+
+alternativeNames:
+  - "HuggingFace Terms of Service 2022-09-15"
+
+evidence:
+  matches:
+    - "Open-Source Libraries: including Transformers, Datasets and Tokenizers"
+    - "Hugging Face public Hub: where you can build, benchmark, share, version and deploy Models, Datasets
+       and Machine Learning Applications accessible by all Users"
+    - "Hugging Face private Hub: where you can build, benchmark, share, version and deploy Models, Datasets
+       and Machine Learning Applications, that are only accessible by You or your Organization(s)"
+    - "Inference API Service: where you or your organization(s) can run inference via application programming
+       interface on machine learning models publicly or privately hosted on our Model Hub"
+    - "AutoTrain premium Service: create state of the art Models from your own training data, everything being
+       automatically hosted privately on the Model Hub. You can then share them publicly and/or serve them through
+       the Inference API Service for example"
+    - "Expert Acceleration Program: get Premium Support on the use of our open source and all our services and/or products"
+    - "Infinity Service: deploy end-to-end optimized inference pipelines for state of the art Transformers Models"
+    - "Hardware Partner Program: access State of the Art hardware and hardware-specific machine learning
+       optimization techniques for production performance"
+    - "Inference Endpoints: easily deploy machine learning models on dedicated, secure and autoscaling infrastructure"
