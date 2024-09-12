@@ -1,0 +1,20 @@
+canonicalName: Sun Binary Code License J2RE 1.4.2
+category: Sun Binary
+shortName: Sun-BCL-J2RE-1.4.2
+
+otherIds:
+  - "scancode:sun-bcl-j2re-1.4.2"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, including, but not limited to the Java Technology Restrictions of the Supplemental License Terms, Sun grants you a non-exclusive, non-transferable, limited license without license fees to reproduce and use internally Software complete and unmodified for the sole purpose of running Programs"
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"
+    - "UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID"
+    - "TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"
+    - "You acknowledge that at your request or consent optional features of the Software may download, install, and execute applets, applications, software extensions, and updated versions of the Software from Sun"
+    - "You acknowledge that, by your use of optional features of the Software and/or by requesting services that require use of the optional features of the Software, the Software may automatically download, install, and execute software applications from sources other than Sun"
+    - "If Software is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor"
+    - "This Agreement is the entire agreement between you and Sun relating to its subject matter"
+  excludes:
+    - "means computers, including desktop, laptop and tablet computers, or servers, used for general computing functions under end user control"
+

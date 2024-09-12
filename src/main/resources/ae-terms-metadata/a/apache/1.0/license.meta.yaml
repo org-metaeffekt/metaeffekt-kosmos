@@ -1,0 +1,70 @@
+canonicalName: Apache License 1.0
+category: Apache License
+spdxIdentifier: Apache-1.0
+
+status:
+  - "reviewed: 25.10.21"
+
+otherIds:
+  - "scancode:apache-1.0"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+requiresAnnexNotice: false
+
+alternativeNames:
+- "Apache License Version 1.0"
+- "http://www.apache.org/licenses/LICENSE-1.0"
+- "Apache License 1.0"
+- "https://spdx.org/licenses/apache-1.0"
+- "ASL 1.0"
+
+references:
+  "Public Domain":
+    matches:
+      - "This software consists of voluntary contributions made by many individuals on behalf of the Apache Group and
+         was originally based on public domain software"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without modification,
+       are permitted provided that the following conditions are met"
+    - "Products derived from this software may not be called *Apache* nor may
+       *Apache* appear in their name* without prior written permission of the Apache
+       Group"
+    - "THIS SOFTWARE IS PROVIDED BY THE APACHE GROUP AS IS AND ANY EXPRESSED
+       OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+       OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN
+       NO EVENT SHALL THE APACHE GROUP OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+       INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY* OR CONSEQUENTIAL DAMAGES (INCLUDING,
+       BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+       DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
+       OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+       OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+       ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
+
+licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following
+                  conditions are met:
+                  <ol><li>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+                  <li>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer
+                  in the documentation and/or other materials provided with the distribution.</li>
+                  <li>All advertising materials mentioning features or use of this software must display the following acknowledgment:
+                  <i>\"This product includes software developed by the Apache Group for use in the Apache HTTP server project (http://www.apache.org/)
+                   .\"</i></li>
+                   <li>The name \"Apache Server\" and \"Apache Group\" must not be used to endorse or promote products derived from this software
+                   without prior written permission. For written permission, please contact apache@apache.org.</li>
+                   <li>Products derived from this software may not be called \"Apache\" nor may \"Apache\" appear in their name, without prior
+                   written permission of the Apache Group.</li>
+                   <li>Redistributions of any form whatsoever must retain the following acknowledgment:
+                   <i>\"This product includes software developed by the Apache Group for use in the Apache HTTP server
+                   project (http://www.apache.org/).\"</i></li></ol>
+                   <codeph>THIS SOFTWARE IS PROVIDED BY THE APACHE GROUP ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+                   LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN
+                   NO EVENT SHALL THE APACHE GROUP OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+                   OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+                   DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+                   OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+                   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph>
+                   <p>This product includes software developed by the Apache Software Foundation (http://www.apache.org/).</p>
+                   Copyright (c) 1995-1999 The Apache Group. All rights reserved.</lq>"

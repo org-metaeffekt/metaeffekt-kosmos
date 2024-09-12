@@ -1,0 +1,15 @@
+canonicalName: BSD 4.3 RENO License
+category: BSD-4.3RENO
+spdxIdentifier: BSD-4.3RENO
+
+alternativeNames:
+  - "BSD-4.3RENO"
+  - "BSD 4.3 RENO License"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms are permitted
+       provided that this notice is preserved and that due credit is given
+       to the University of California at Berkeley"
+    - "The name of the University may not be used to endorse or promote products
+       derived from this software without specific written prior permission"

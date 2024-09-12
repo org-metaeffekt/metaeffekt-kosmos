@@ -1,0 +1,25 @@
+canonicalName: Linking Exception (LGPL; variant 011)
+category: LGPL Linking Exception
+shortName: Linking-Exception-LGPL-011
+
+canonicalNameHistory:
+  - "Nokia Qt LGPL Exception 1.0"
+
+otherIds:
+  - "scancode:qt-company-exception-lgpl-2.1"
+
+type: exception
+
+combinedWith:
+  "GNU Lesser General Public License 2.1 (or any later version)": "GNU Lesser General Public License 2.1 (or any later version; with Linking exception (LGPL; variant 011))"
+
+evidence:
+  matches:
+    - "As a special exception to the GNU Lesser General Public License version 2.1, the
+       object code form of a \"work that uses the Library\" may incorporate material from
+       a header file that is part of the Library"
+    - "You may distribute such object code
+       under terms of your choice, provided that the incorporated material (i) does not
+       exceed more than 5% of the total size of the Library; and (ii) is limited to
+       numerical parameters, data structure layouts, accessors, macros, inline
+       functions and templates"

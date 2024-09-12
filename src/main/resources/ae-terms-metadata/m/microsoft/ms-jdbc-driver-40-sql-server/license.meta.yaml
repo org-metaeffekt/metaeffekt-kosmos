@@ -1,0 +1,22 @@
+canonicalName: Microsoft Software License (JDBC Driver 4.0 for SQL Server)
+category: Microsoft Software
+shortName: MS-JDBC-Driver-4.0-SQL-Server
+
+otherIds:
+  - "scancode:ms-jdbc-driver-40-sql-server"
+
+alternativeNames:
+  - "MICROSOFT JDBC DRIVER 4.0 FOR SQL SERVER"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices to design, develop and test your programs"
+    - "Unless applicable law gives you more rights despite this limitation, you may use the software only as
+       expressly permitted in this agreement"
+    - "In doing so, you must comply with any technical limitations in the software that only allow you to use
+       it in certain ways"
+    - "Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes"
+    - "As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French"
+    - "YOU BEAR THE RISK OF USING IT"
+  excludes:
+    - "You may install and use any number of copies of the software on your devices running validly licensed copies of Windows 2000, Windows XP, Windows Vista, or Windows Server 2003"

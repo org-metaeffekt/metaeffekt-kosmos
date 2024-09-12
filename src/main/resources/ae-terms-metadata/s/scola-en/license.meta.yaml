@@ -1,0 +1,18 @@
+canonicalName: Statistics Canada Open Licence Agreement
+category: Statistics Canada Open Licence Agreement
+shortName: SCOLA-EN
+
+otherIds:
+  - "scancode:scola-en"
+
+alternativeNames:
+  - "Statistics Canada Open Licence Agreement"
+
+evidence:
+  matches:
+    - "Intellectual property rights, being any and all intellectual property rights recognized by the law,
+       including but not limited to, intellectual property rights protected through legislation, in Value-added
+       Products, shall vest in you, in such person as you shall decide or as determined by law"
+    - "Intellectual property rights that Statistics Canada may have in the Information shall remain the
+       property of Statistics Canada"
+    - "Intellectual property rights that third parties may have in the Information shall remain their property"

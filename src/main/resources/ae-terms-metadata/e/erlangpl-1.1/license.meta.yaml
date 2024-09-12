@@ -1,0 +1,40 @@
+canonicalName: Erlang Public License 1.1
+category: Erlang Public License
+spdxIdentifier: ErlPL-1.1
+
+otherIds:
+  - "scancode:erlangpl-1.1"
+
+alternativeNames:
+  - "ErlPL-1.1"
+  - "http://www.erlang.org/EPLICENSE"
+  - "Erlang Public License v1.1"
+  - "licenses.nuget.org/ErlPL-1.1"
+  - "{{ErlPL-1.1}} https://spdx.org/licenses/ErlPL-1.1"
+  - "https://spdx.org/licenses/erlpl-1.1"
+  - "ERLANG PUBLIC LICENSE Version 1.1"
+
+evidence:
+  matches:
+    - "Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive
+       license, subject to third party intellectual property claims"
+    - "to use, reproduce, modify, display, perform, sublicense and
+       distribute the Modifications created by such Contributor (or
+       portions thereof) either on an unmodified basis, with other
+       Modifications, as Covered Code or as part of a Larger Work"
+    - "under patents now or hereafter owned or controlled by Contributor,
+       to Utilize the Contributor Version (or portions thereof), but
+       solely to the extent that any such patent is reasonably necessary
+       to enable You to Utilize the Contributor Version (or portions
+       thereof), and not to any greater extent that may be necessary to
+       Utilize further Modifications or combinations"
+    - "You should have received a copy of the Erlang Public License along
+       with this software"
+
+references:
+  "MPL":
+    matches:
+      - "CONNECTION TO MOZILLA PUBLIC LICENSE
+         This Erlang License is a derivative work of the Mozilla Public
+         License, Version 1.0. It contains terms which differ from the Mozilla
+         Public License, Version 1.0."

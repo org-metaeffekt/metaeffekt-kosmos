@@ -1,0 +1,26 @@
+canonicalName: Google Maps Platform Terms of Service 2019-11-21
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOA-2019-11-21
+
+otherIds:
+  - "scancode:google-maps-tos-2019-11-21"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2019-11-21"
+
+evidence:
+  matches:
+    - "This is not the current version of this document and is provided for archival purposes.View the current version"
+    - "Customer may not publicly disclose directly or through a third party the results of any comparative or compatibility
+       testing, benchmarking, or evaluation of the Services (each, a “Test”), unless the disclosure includes all information
+       necessary for Google or a third party to replicate the Test"
+    - "If Customer conducts, or directs a third party to conduct, a Test of the Services and publicly discloses the results
+       directly or through a third party, then Google (or a Google directed third party) may conduct Tests of any publicly
+       available cloud products or services provided by Customer and publicly disclose the results of any such Test
+       (which disclosure will include all information necessary for Customer or a third party to replicate the Test)"
+  excludes:
+    - "Last modified: May 02, 2019"
+    - "Last modified: October 1, 2018"
+    - "Last modified: July 19, 2018"
+    - "you must delete this exception statement from your version and license this file solely under the GPL without exception"
+    - "Last modified: May 6, 2020"

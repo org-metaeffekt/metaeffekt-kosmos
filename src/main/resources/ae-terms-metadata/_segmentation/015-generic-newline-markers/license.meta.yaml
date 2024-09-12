@@ -1,0 +1,13 @@
+canonicalName: Segmentation-015
+category: Segmentation
+shortName: Segmentation-015
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "015"
+
+mappings:
+  "NEWLINE-MARKER $!\\s*": "NEWLINE-MARKER "
+  "NEWLINE-MARKER +\\s*": "NEWLINE-MARKER "

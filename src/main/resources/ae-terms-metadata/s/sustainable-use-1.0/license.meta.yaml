@@ -1,0 +1,19 @@
+canonicalName: Sustainable Use License 1.0
+category: Sustainable Use License
+shortName: Sustainable-Use-1.0
+
+otherIds:
+  - "scancode:sustainable-use-1.0"
+
+alternativeNames:
+  - "Sustainable Use License 1.0"
+
+evidence:
+  matches:
+    - "You may use or modify the software only for your own internal business purposes or for non-commercial or personal use"
+    - "You may distribute the software or provide it to others only if you do so free of charge for non-commercial purposes"
+    - "You may not alter, remove, or obscure any licensing, copyright, or other notices of the licensor in the software"
+    - "Any use of the licensor’s trademarks is subject to applicable law"
+    - "You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms"
+    - "If you modify the software, you must include in any modified copies of the software a prominent notice stating that
+       you have modified the software"

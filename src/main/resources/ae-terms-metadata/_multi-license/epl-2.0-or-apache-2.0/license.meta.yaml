@@ -1,0 +1,9 @@
+canonicalName: Eclipse Public License 2.0 + Apache License 2.0
+category: EPL+ASL
+shortName: Eclipse-2.0-OR-Apache-2.0
+
+type: expression
+
+combinedWith:
+  Eclipse Public License 2.0: Eclipse Public License 2.0 + Apache License 2.0
+  Apache License 2.0: Eclipse Public License 2.0 + Apache License 2.0

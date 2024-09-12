@@ -1,0 +1,36 @@
+canonicalName: BSD 4-Clause License (variant 007)
+category: BSD
+shortName: BSD-4-Clause-007
+
+otherIds:
+  - "scancode:avsystem-5-clause"
+
+alternativeNames:
+  - "AVSystem-5-clause License"
+
+representedAs: BSD 4-Clause License
+
+requiresCopyright: true
+requiresLicenseText: true
+
+evidence:
+  matches:
+    - "Copyright by AVSystem sp. z o.o. (AVSystem) 17th March 2022"
+    - "Commercial use of this software, with or without modifications, requires
+         prior notification to AVSystem at sales@avsystem.com of such use"
+    - "Neither the name of the AVSystem nor its collaborators (if any) may be used
+          to offer or promote products derived from this software without prior
+          written consent of the owner"
+
+
+
+licenseTemplate: "<codeph>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT OWNER \"AS IS\" AND ANY DIRECT OR
+  IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+  EVENT SHALL THE COPYRIGHT OWNER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+  BUSINESS INTERRUPTION) HOWEVER CAUSED AND REGARDLESS OF THE SOURCE OF
+  LIABILITY, WHETHER CONTRACT, DIRECT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+  OF THE POSSIBILITY OF SUCH DAMAGE.</codeph>"

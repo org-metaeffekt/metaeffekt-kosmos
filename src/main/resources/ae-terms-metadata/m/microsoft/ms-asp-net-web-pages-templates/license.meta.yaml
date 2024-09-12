@@ -1,0 +1,21 @@
+canonicalName: Microsoft Software License (ASP.NET Web Pages Templates)
+category: Microsoft Software
+shortName: MS-Software-ASP-NET-Web-Pages-Templates
+
+otherIds:
+  - "scancode:ms-asp-net-web-pages-templates"
+
+canonicalNameHistory:
+  - "Microsoft ASP.NET Web Pages Templates License"
+
+alternativeNames:
+  - "Microsoft ASP.NET Web Pages Templates License"
+
+evidence:
+  matches:
+    - "Right to Use and Distribute. The code and text files listed below are “Distributable Code"
+    - "transfer the software or this agreement to any third party"
+    - "or use the software for commercial software hosting services"
+    - "Icons. You may copy and distribute the icons in the Image Library as described in the software documentation"
+  excludes:
+    - "disclose the results of any benchmark tests of the software"

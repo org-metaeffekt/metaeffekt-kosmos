@@ -1,0 +1,44 @@
+canonicalName: Redistribution Terms (variant 007)
+category: RT
+shortName: RT-Var7
+
+otherIds:
+  - "scancode:bsla"
+  - "scancode:bsd-original-uc-1990"
+
+canonicalNameHistory:
+  - "Redistribution Terms Var7"
+
+displayName: "Redistribution Terms (no advertising; no warranty)"
+
+representedAs: "Redistribution Terms"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms are permitted
+       provided that the above copyright notice and this paragraph are
+       duplicated in all such forms and that any documentation,
+       advertising materials, and other materials related to such
+       distribution and use acknowledge that the software was developed by"
+    - "The name of*{.{0,100}}* may not be used to endorse or promote products derived
+       from this software without specific prior written permission"
+    - "THIS SOFTWARE IS PROVIDED AS IS AND WITHOUT ANY EXPRESS OR
+       IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+       WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE"
+  excludes:
+    - "Redistributions of source code must retain the above copyright notice, this
+       list of conditions and the following disclaimer"
+    - "You may make and give away verbatim copies of the source form of the Standard
+       Version of this Package without restriction, provided that you duplicate all
+       of the original copyright notices and associated disclaimers"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution"
+    - "Redistributions of source code must retain the copyright notice this list of
+       conditions and the following disclaimer"
+    - "the software was developed by the University of California, Berkeley"
+    - "The name of the University may not be used to endorse or promote products"
+
+mappings:
+  "THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE":
+    "THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE"

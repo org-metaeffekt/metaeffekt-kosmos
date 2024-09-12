@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 (with Broadcom Linking Exception)
+category: GPL+Broadcom
+shortName: GPL-2.0-Broadcom-Linking-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-broadcom-linking"
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Broadcom Linking Exception)
+  Broadcom Linking Exception (GPL 2.0): GNU General Public License 2.0 (with Broadcom Linking Exception)

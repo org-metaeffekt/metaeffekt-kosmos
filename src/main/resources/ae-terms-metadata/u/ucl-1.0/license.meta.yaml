@@ -1,0 +1,37 @@
+canonicalName: Upstream Compatibility License 1.0
+category: Upstream Compatibility
+spdxIdentifier: UCL-1.0
+
+otherIds:
+  - "scancode:ucl-1.0"
+  - "osi:UCL-1.0"
+
+alternativeNames:
+  - "UCL-1.0"
+  - "Upstream Compatibility License v1.0"
+  - "Upstream Compatibility License v. 1.0"
+
+evidence:
+  matches:
+    - "This Upstream Compatibility License (the 'License') applies to any original
+       work of authorship (the 'Original Work') whose owner (the 'Licensor') has
+       placed the following licensing notice adjacent to the copyright notice for
+       the Original Work"
+    - "Grant of Patent License. Licensor grants You a worldwide, royalty-free,
+       non-exclusive, sublicensable license, under patent claims owned or controlled
+       by the Licensor that are embodied in the Original Work as furnished by the
+       Licensor, for the duration of the patents, to make, use, sell, offer for sale,
+       have made, and import the Original Work and Derivative Works"
+    - "Attribution Rights. You must retain, in the Source Code of any Derivative
+       Works that You create, all copyright, patent, or trademark notices from the
+       Source Code of the Original Work, as well as any notices of licensing and
+       any descriptive text identified therein as an 'Attribution Notice.'"
+    - "You must cause the Source Code for any Derivative Works that You create to carry a
+       prominent Attribution Notice reasonably calculated to inform recipients that
+       You have modified the Original Work"
+
+references:
+  "Apache License":
+    matches:
+      - "all Derivative Work You distribute or communicate shall be licensed under
+         both this Upstream Compatibility License and the Apache License 2.0 or later"

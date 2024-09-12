@@ -1,0 +1,32 @@
+canonicalName: PDF Creator Pilot License Agreement
+category: PDF Creator Pilot License Agreement
+shortName: PDF-Creator-Pilot
+
+otherIds:
+  - "scancode:pdf-creator-pilot"
+
+alternativeNames:
+  - "pdf-creator-pilot"
+
+evidence:
+  matches:
+    - "Types of licenses. There are 5 (five) types of licenses issued for PDF Creator Pilot. These are"
+    - "Small Business License. License issued per company, for an unlimited number of developers provided that total
+       number of employees at time of purchase is less than or equal to 10 (ten). License grants the right to use the
+       Software by web and desktop applications that your company exposes to clients. Only disk-based generation is
+       enabled. The 'Producer' field (a tag which exists in the properties of the generated PDF) always contains the
+       'PDF Creator Pilot' string"
+    - "Web License for Small Business. License issued per company, for an unlimited number of developers provided that
+       total number of employees at time of purchase is less than or equal to 10 (ten). License grants right to use the
+       Software by web and desktop applications that your company exposes to clients. Disk-based and in-memory generation
+       is enabled. You may change the 'Producer' field of generated PDF files"
+    - "In-House License. License issued per company, for an unlimited number of developers. License grants right to use
+       the Software by both web and desktop applications used within your company only. Disk-based and in-memory
+       generation is enabled. The 'Producer' field (a tag which exists in the properties of the generated PDF) always
+       contains the 'PDF Creator Pilot' string"
+    - "Application License. License issued per company, for an unlimited number of developers. License grants right to
+       use the Software by desktop applications that your company sells/distributes to clients. Only disk-based generation
+       is enabled. You may change the 'Producer' field of generated PDF files"
+    - "Web License. License issued per company, for an unlimited number of developers. License grants right to use the
+       Software by both web and desktop applications that your company exposes/sells/distributes to clients. Disk-based
+       and in-memory generation is enabled. You may change the 'Producer' field of generated PDF files"

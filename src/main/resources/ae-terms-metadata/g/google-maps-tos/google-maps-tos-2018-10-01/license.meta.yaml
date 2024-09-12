@@ -1,0 +1,28 @@
+canonicalName: Google Maps Platform Terms of Service 2018-10-01
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2018-10-01
+
+otherIds:
+  - "scancode:google-maps-tos-2018-10-01"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2018-10-01"
+
+evidence:
+  matches:
+    - "This Agreement is effective as of the date Customer clicks to accept the Agreement, or enters into a Reseller
+       Agreement if purchasing through a Reseller (the 'Effective Date')"
+    - "If you are accepting on behalf of Customer, you represent and warrant that: (i) you have full legal authority
+       to bind Customer to this Agreement; (ii) you have read and understand this Agreement; and (iii) you agree,
+       on behalf of Customer, to this Agreement"
+    - "If you do not have the legal authority to bind Customer, please do not click to accept"
+    - "This Agreement governs Customer's access to and use of the Services"
+  excludes:
+    - "Last modified: July 19, 2018"
+    - "Last modified: July 9, 2018"
+    - "This Google Maps Platform License Agreement takes effect on July 16, 2018"
+    - "Last modified: May 02, 2019"
+    - "Last modified: November 21, 2019"
+    - "This is not the current version of this document and is provided for archival purposes.View the current version"
+    - "Last modified: May 6, 2020"
+    - "Last modified: October 31, 2018"

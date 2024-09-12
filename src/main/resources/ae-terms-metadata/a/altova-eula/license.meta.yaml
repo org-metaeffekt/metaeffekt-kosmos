@@ -1,0 +1,134 @@
+canonicalName: Altova EULA
+category: Altova EULA
+shortName: Altova-EULA
+
+otherIds:
+  - "scancode:altova-eula"
+
+alternativeNames:
+  - "ALTOVA® END-USER LICENSE AGREEMENT"
+
+evidence:
+  matches:
+    - "Upon your acceptance of this Agreement Altova grants you a non-exclusive, non-transferable (except as provided below),
+       limited license, without the right to grant sublicenses, to install and use a copy of the Software on one compatible personal computer or workstation up to the Permitted Number of computers"
+    - "Subject to the limitations set forth in Section 1(c), you may install and use a copy of the Software on more than one of your compatible personal computers or workstations if you have purchased a Named-User license"
+    - "Subject to the limitations set forth in Sections 1(d) and 1(e), users may use the software concurrently on a network"
+    - "The Permitted Number of computers and/or users and the type of license, e.g. Installed, Named-Users, and Concurrent-User, shall be determined and specified at such time as you elect to purchase the Software"
+    - "Installed user licenses are intended to be fixed and not concurrent"
+    - "In other words, you cannot uninstall the Software on one machine in order to reinstall that license to a different machine and then uninstall and reinstall back to the original machine"
+    - "Installations should be static"
+    - "Notwithstanding the foregoing, permanent uninstallations and redeployments are acceptable in limited circumstances such as if an employee leaves the company or the machine is permanently decommissioned"
+    - "During the evaluation period, hereinafter defined, only a single user may install and use the software on one (1) personal computer or workstation"
+    - "If you have licensed the Software as part of a suite of Altova software products (collectively, the 'Suite') and have not installed each product individually,
+       then the Agreement governs your use of all of the software included in the Suite"
+    - "If you have licensed SchemaAgent, then the terms and conditions of this Agreement apply to your use of the SchemaAgent server software ('SchemaAgent Server') included therein,
+       as applicable, and you are licensed to use SchemaAgent Server solely in connection with your use of Altova Software and solely for the purposes described in the accompanying documentation"
+    - "If you have licensed Software that enables users to generate source code, your license to install and use a copy of the Software as provided herein permits you to generate source code based on
+       (i) Altova Library modules that are included in the Software (such generated code hereinafter referred to as the 'Restricted Source Code') and
+       (ii) schemas or mappings that you create or provide (such code as may be generated from your schema or mapping source materials hereinafter referred to as the 'Unrestricted Source Code')"
+    - "In addition to the rights granted herein, Altova grants you a non-exclusive, non-transferable, limited license to compile the complete generated code (comprised of the combination of the Restricted Source Code and the Unrestricted Source Code)
+       into executable object code form, and to use, copy, distribute or license that executable"
+    - "You may not distribute or redistribute, sublicense, sell, or transfer the Restricted Source Code to a third-party in the un-compiled form unless said third-party already has a license to the Restricted Source Code through their separate agreement with Altova"
+    - "Notwithstanding anything to the contrary herein, you may not distribute, incorporate or combine with other software, or otherwise use the Altova Library modules or Restricted Source Code,
+       or any Altova intellectual property embodied in or associated with the Altova Library modules or Restricted Source Code, in any manner that would subject the Restricted Source Code to the terms of a copyleft,
+       free software or open source license that would require the Restricted Source Code or Altova Library modules source code to be disclosed in source code form"
+    - "Notwithstanding anything to the contrary herein, you may not use the Software to develop and distribute other software programs that directly compete with any Altova software or service without prior written permission"
+    - "Altova reserves all other rights in and to the Software. With respect to the feature(s) of UModel that permit reverse-engineering of your own source code or other source code that you have lawfully obtained, such use by you does not constitute a violation of this Agreement"
+    - "Except as otherwise expressly permitted in Section 1(j) reverse engineering of the Software is strictly prohibited as further detailed therein"
+    - "In the event Restricted Source Code is incorporated into executable object code form, you will include the following statement in
+       (1) introductory splash screens, or if none, within one or more screens readily accessible by the end-user, and
+       (2) in the electronic and/or hard copy documentation: 'Portions of this program were developed using Altova® [name of Altova Software, e.g. MapForce® 2011] and includes libraries owned by Altova GmbH, Copyright © 2007-2011 Altova GmbH (www.altova.com)'"
+    - "Server Use for Installation and Use of SchemaAgent"
+    - "You may install one (1) copy of the Software on a computer file server within your internal network solely for the purpose of downloading and installing the Software onto other computers within your internal network up to the Permitted Number of computers in a commercial environment only"
+    - "If you have licensed SchemaAgent, then you may install SchemaAgent Server on any server computer or workstation and use it in connection with your Software"
+    - "No other network use is permitted, including without limitation using the Software either directly or through commands, data or instructions from or to a computer not part of your internal network, for Internet or Web-hosting services or by any user not licensed to use this copy of the Software through a valid license from Altova"
+    - "If you have licensed the 'Named-User' version of the software, you may install the Software on up to five (5) compatible personal computers or workstations of which you are the primary user thereby allowing you to switch from one computer to the other as necessary provided that only one (1) instance of the Software will be used by you as the Named-User at any given time"
+    - "If you have purchased multiple Named-User licenses, each individual Named-User will receive a separate license key code"
+    - "If you have licensed a 'Concurrent-User' version of the Software, you may install the Software on any compatible computers in a commercial environment only, up to ten (10) times the Permitted Number of users, provided that only the Permitted Number of users actually use the Software at the same time and further provided that the computers on which the Software is installed are on the same physical computer network"
+    - "The Permitted Number of concurrent users shall be delineated at such time as you elect to purchase the Software licenses"
+    - "Each separate physical network or office location requires its own set of separate Concurrent User Licenses for those wishing to use the Concurrent User versions of the Software in more than one location or on more than one network, all subject to the above Permitted Number limitations and based on the number of users using the Software"
+    - "If a computer is not on the same physical network, then a locally installed user license or a license dedicated to concurrent use in a virtual environment is required"
+    - "Home User restrictions and limitations with respect to the Concurrent User licenses used on home computers are set forth in Section 1(g)"
+    - "If you have purchased Concurrent-User Licenses, you may install a copy of the Software on a terminal server (Microsoft Terminal Server or Citrix Metaframe), application virtualization server (Microsoft App-V, Citrix XenApp, or VMWare ThinApp)
+       or virtual machine environment within your internal network for the sole and exclusive purpose of permitting individual users within your organization to access and use the Software through a terminal server, application virtualization session,
+       or virtual machine environment from another computer provided that the total number of users that access or use the Software concurrently at any given point in time on such network, virtual machine or terminal server does not exceed the Permitted Number;
+       and provided that the total number of users authorized to use the Software through the terminal server, application virtualization session, or virtual machine environment does not exceed ten (10) times the Permitted Number of users"
+    - "In a virtual environment, you must deploy a reliable and accurate means of preventing users from exceeding the Permitted Number of concurrent users"
+    - "Altova makes no warranties or representations about the performance of Altova software in a terminal server, application virtualization session, or virtual machine environment and the foregoing are expressly excluded from the limited warranty in Section 5 hereof"
+    - "Technical support is not available with respect to issues arising from use in such environments"
+    - "You may make one (1) backup and one (1) archival copy of the Software, provided your backup and archival copies are not installed or used on any computer and further provided that all such copies shall bear the original and unmodified copyright, patent and other intellectual property markings that appear on or in the Software"
+    - "You may not transfer the rights to a backup or archival copy unless you transfer all rights in the Software as provided under Section 3"
+    - "In order to further familiarize yourself with the Software and allow you to explore its features and functions, you, as the primary user of the computer on which the Software is installed for commercial purposes, may also install one copy of the Software on only one (1) home personal computer (such as your laptop or desktop) solely for your personal and non-commercial ('HPNC') use"
+    - "This HPNC copy may not be used in any commercial or revenue-generating business activities, including without limitation, work-from-home, teleworking, telecommuting, or other work-related use of the Software"
+    - "The HPNC copy of the Software may not be used at the same time on a home personal computer as the Software is being used on the primary computer"
+    - "Prior to your purchase and as part of the registration for the thirty (30) day evaluation period, as applicable, you will receive an evaluation key code"
+    - "You will receive a purchase key code when you elect to purchase the Software from either Altova GmbH or an authorized reseller"
+    - "The purchase key code will enable you to activate the Software beyond the initial evaluation period"
+    - "You may not re-license, reproduce or distribute any key code except with the express written permission of Altova"
+    - "If the Software that you have licensed is an upgrade or an update, then the latest update or upgrade that you download and install replaces all or part of the Software previously licensed"
+    - "The update or upgrade and the associated license keys does not constitute the granting of a second license to the Software in that you may not use the upgrade or updated copy in addition to the copy of the Software that it is replacing and whose license has terminated"
+    - "Title to the Software is not transferred to you"
+    - "Ownership of all copies of the Software and of copies made by you is vested in Altova, subject to the rights of use granted to you in this Agreement"
+    - "As between you and Altova, documents, files, stylesheets, generated program code (including the Unrestricted Source Code) and schemas that are authored or created by you via your utilization of the Software, in accordance with its Documentation and the terms of this Agreement,
+       are your property unless they are created using Evaluation Software, as defined in Section 4 of this Agreement, in which case you have only a limited license to use any output that contains generated program code (including Unrestricted Source Code) such as Java, C++, C#, VB.NET or XSLT and associated project files and build scripts,
+       as well as generated XML, XML Schemas, documentation, UML diagrams, and database structures only for the thirty (30) day evaluation period"
+    - "Except and to the limited extent as may be otherwise specifically provided by applicable law in the European Union, you may not reverse engineer, decompile, disassemble or otherwise attempt to discover the source code, underlying ideas, underlying user interface techniques or algorithms of the Software by any means whatsoever, directly or indirectly, or disclose any of the foregoing,
+       except to the extent you may be expressly permitted to decompile under applicable law in the European Union, if it is essential to do so in order to achieve operability of the Software with another software program, and you have first requested Altova to provide the information necessary to achieve such operability and Altova has not made such information available"
+    - "Altova has the right to impose reasonable conditions and to request a reasonable fee before providing such information"
+    - "Any information supplied by Altova or obtained by you, as permitted hereunder, may only be used by you for the purpose described herein and may not be disclosed to any third party or used to create any software which is substantially similar to the expression of the Software"
+    - "Requests for information from users in the European Union with respect to the above should be directed to the Altova Customer Support Department"
+    - "You may not loan, rent, lease, sublicense, distribute or otherwise transfer all or any portion of the Software to third parties except to the limited extent set forth in Section 3 or as otherwise expressly provided"
+    - "You may not copy the Software except as expressly set forth above, and any copies that you are permitted to make pursuant to this Agreement must contain the same copyright, patent and other intellectual property markings that appear on or in the Software"
+    - "You may not modify, adapt or translate the Software"
+    - "You may not, directly or indirectly, encumber or suffer to exist any lien or security interest on the Software; knowingly take any action that would cause the Software to be placed in the public domain; or use the Software in any computer environment not specified in this Agreement"
+    - "You may not permit any use of or access to the Software by any third party in connection with a commercial service offering, such as for a cloud-based or web-based SaaS offering"
+    - "You will comply with applicable law and Altova’s instructions regarding the use of the Software"
+    - "You agree to notify your employees and agents who may have access to the Software of the restrictions contained in this Agreement and to ensure their compliance with these restrictions"
+    - "THE SOFTWARE IS NEITHER GUARANTEED NOR WARRANTED TO BE ERROR-FREE NOR SHALL ANY LIABILITY BE ASSUMED BY ALTOVA IN THIS RESPECT"
+    - "NOTWITHSTANDING ANY SUPPORT FOR ANY TECHNICAL STANDARD, THE SOFTWARE IS NOT INTENDED FOR USE IN OR IN CONNECTION WITH, WITHOUT LIMITATION, THE OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION, COMMUNICATION SYSTEMS,
+       AIR TRAFFIC CONTROL EQUIPMENT, MEDICAL DEVICES OR LIFE SUPPORT SYSTEMS, MEDICAL OR HEALTH CARE APPLICATIONS, OR OTHER APPLICATIONS WHERE THE FAILURE OF THE SOFTWARE OR ERRORS IN DATA PROCESSING COULD LEAD TO DEATH, PERSONAL INJURY OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE"
+    - "YOU AGREE THAT YOU ARE SOLELY RESPONSIBLE FOR THE ACCURACY AND ADEQUACY OF THE SOFTWARE AND ANY DATA GENERATED OR PROCESSED BY THE SOFTWARE FOR YOUR INTENDED USE AND YOU WILL DEFEND, INDEMNIFY AND HOLD ALTOVA, ITS OFFICERS AND EMPLOYEES HARMLESS FROM ANY THIRD PARTY CLAIMS, DEMANDS,
+       OR SUITS THAT ARE BASED UPON THE ACCURACY AND ADEQUACY OF THE SOFTWARE IN YOUR USE OR ANY DATA GENERATED BY THE SOFTWARE IN YOUR USE"
+    - "You acknowledge that the Software and any copies that you are authorized by Altova to make are the intellectual property of and are owned by Altova and its suppliers"
+    - "The structure, organization and code of the Software are the valuable trade secrets and confidential information of Altova and its suppliers"
+    - "The Software is protected by copyright, including without limitation by United States Copyright Law, international treaty provisions and applicable laws in the country in which it is being used"
+    - "You acknowledge that Altova retains the ownership of all patents, copyrights, trade secrets, trademarks and other intellectual property rights pertaining to the Software, and that Altova’s ownership rights extend to any images, photographs, animations, videos, audio, music, text and 'applets' incorporated into the Software and all accompanying printed materials"
+    - "You will take no actions which adversely affect Altova’s intellectual property rights in the Software"
+    - "Trademarks shall be used in accordance with accepted trademark practice, including identification of trademark owners’ names"
+    - "Trademarks may only be used to identify printed output produced by the Software, and such use of any trademark does not give you any right of ownership in that trademark"
+    - "Altova®, XMLSpy®, Authentic®, StyleVision®, MapForce®, UModel®, DatabaseSpy®, DiffDog®, SchemaAgent®, SemanticWorks®, MissionKit®, Markup Your Mind®, Nanonull™, RaptorXML™, RaptorXML Server™, RaptorXML +XBRL Server™, Powered By RaptorXML™, FlowForce Server™, and StyleVision Server™ are trademarks of Altova GmbH (pending or registered in numerous countries)"
+    - "Unicode and the Unicode Logo are trademarks of Unicode, Inc. Windows, Windows XP, Windows Vista, Windows 7, and Windows 8 are trademarks of Microsoft"
+    - "W3C, CSS, DOM, MathML, RDF, XHTML, XML and XSL are trademarks (registered in numerous countries) of the World Wide Web Consortium (W3C); marks of the W3C are registered and held by its host institutions, MIT, INRIA and Keio"
+    - "Except as expressly stated above, this Agreement does not grant you any intellectual property rights in the Software"
+    - "Notifications of claimed copyright infringement should be sent to Altova’s copyright agent as further provided on the Altova Web Site"
+    - "Notwithstanding the foregoing, you may transfer all your rights to use the Software to another person or legal entity provided that:
+       (a) you also transfer this Agreement, the Software and all other software or hardware bundled or pre-installed with the Software, including all copies, updates and prior versions, and all copies of font software converted into other formats, to such person or entity;
+       (b) you retain no copies, including backups and copies stored on a computer;
+       (c) the receiving party secures a personalized key code from Altova; and
+       (d) the receiving party accepts the terms and conditions of this Agreement and any other terms and conditions upon which you legally purchased a license to the Software"
+    - "Notwithstanding the foregoing, you may not transfer education, pre-release, or not-for-resale copies of the Software"
+    - "If the product you have received with this license is pre-commercial release or beta Software ('Pre-release Software'), then this Section applies"
+    - "In addition, this section applies to all evaluation and/or demonstration copies of Altova software ('Evaluation Software') and continues in effect until you purchase a license"
+    - "To the extent that any provision in this section is in conflict with any other term or condition in this Agreement, this section shall supersede such other term(s) and condition(s) with respect to the Pre-release and/or Evaluation Software, but only to the extent necessary to resolve the conflict"
+    - "You acknowledge that the Pre-release Software is a pre-release version, does not represent final product from Altova, and may contain bugs, errors and other problems that could cause system or other failures and data loss"
+    - "CONSEQUENTLY, THE PRE-RELEASE AND/OR EVALUATION SOFTWARE IS PROVIDED TO YOU 'AS-IS' WITH NO WARRANTIES FOR USE OR PERFORMANCE, AND ALTOVA DISCLAIMS ANY WARRANTY OR LIABILITY OBLIGATIONS TO YOU OF ANY KIND, WHETHER EXPRESS OR IMPLIED"
+    - "WHERE LEGALLY LIABILITY CANNOT BE EXCLUDED FOR PRE-RELEASE AND/OR EVALUATION SOFTWARE, BUT IT MAY BE LIMITED, ALTOVA’S LIABILITY AND THAT OF ITS SUPPLIERS SHALL BE LIMITED TO THE SUM OF FIFTY DOLLARS (USD $50) IN TOTAL"
+    - "If the Evaluation Software has a time-out feature, then the software will cease operation after the conclusion of the designated evaluation period"
+    - "Upon such expiration date, your license will expire unless otherwise extended"
+    - "Your license to use any output created with the Evaluation Software that contains generated program code (including Unrestricted Source Code) such as Java, C++, C, VB.NET or XSLT and associated project files and build scripts as well as generated XML, XML Schemas, documentation, UML diagrams,
+       and database structures terminates automatically upon the expiration of the designated evaluation period but the license to use such output is revived upon your purchase of a license for the Software that you evaluated and used to create such output"
+    - "Access to any files created with the Evaluation Software is entirely at your risk"
+    - "You acknowledge that Altova has not promised or guaranteed to you that Pre-release Software will be announced or made available to anyone in the future, that Altova has no express or implied obligation to you to announce or introduce the Pre-release Software, and that Altova may not introduce a product similar to or compatible with the Pre-release Software"
+    - "Accordingly, you acknowledge that any research or development that you perform regarding the Pre-release Software or any product associated with the Pre-release Software is done entirely at your own risk"
+    - "During the term of this Agreement, if requested by Altova, you will provide feedback to Altova regarding testing and use of the Pre-release Software, including error or bug reports"
+    - "If you have been provided the Pre-release Software pursuant to a separate written agreement, your use of the Software is governed by such agreement"
+    - "You may not sublicense, lease, loan, rent, distribute or otherwise transfer the Pre-release Software"
+    - "Upon receipt of a later unreleased version of the Pre-release Software or release by Altova of a publicly released commercial version of the Software,
+       whether as a stand-alone product or as part of a larger product, you agree to return or destroy all earlier Pre-release Software received from Altova
+       and to abide by the terms of the license agreement for any such later versions of the Pre-release Software"
+    
+references:
+  "Public Domain":
+    matches:
+      - "knowingly take any action that would cause the Software to be placed in the public domain; or use the Software in any computer environment not specified in this Agreement. You may not permit any use of or access to the Software by any third party in connection with a commercial service offering, such as for a cloud-based or web-based SaaS offering"

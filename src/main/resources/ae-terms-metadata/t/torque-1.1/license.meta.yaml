@@ -1,0 +1,32 @@
+canonicalName: TORQUE License 1.1
+category: TORQUE
+spdxIdentifier: TORQUE-1.1
+
+otherIds:
+  - "scancode:torque-1.1"
+
+alternativeNames:
+  - "TORQUE, Version 1.1"
+  - "TORQUE, 1.1"
+  - "TORQUE 1.1"
+  - "TORQUE License, Version 1.1"
+  - "TORQUE License, 1.1"
+  - "TORQUE License 1.1"
+  - "TORQUE v2.5+ Software License v1.1"
+
+evidence:
+  matches:
+    - "Any Redistribution of source code must retain the above copyright notice
+       and the acknowledgment contained in paragraph 5, this list of conditions and
+       the disclaimer contained in paragraph 5"
+    - "Any Redistribution in binary form must reproduce the above copyright notice
+       and the acknowledgment contained in paragraph 4, this list of conditions and
+       the disclaimer contained in paragraph 5 in the documentation and/or other
+       materials provided with the distribution"
+    - "Redistributions in any form must be accompanied by information on how to
+       obtain complete source code for TORQUE and any modifications and/or additions
+       to TORQUE"
+    - "The source code must either be included in the distribution or
+       be available for no more than the cost of distribution plus a nominal fee,
+       and all modifications and additions to the Software must be freely redistributable
+       by any party (including Licensor) without restriction"

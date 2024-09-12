@@ -1,0 +1,31 @@
+canonicalName: Linking Exception (GPL; variant 016)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-016
+
+canonicalNameHistory:
+  - "NAnt Exception"
+
+otherIds:
+  - "scancode:nant-exception-2.0-plus"
+
+type: exception
+
+alternativeNames:
+  - "NAnt Exception"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 016))
+
+references:
+  "GPL":
+    "matches":
+      - "You must obey the GNU General Public License in all respects for all of the code used"
+
+evidence:
+  matches:
+    - "In addition, as a special exception, Gerry Shaw gives permission to link the
+       code of this program with the Microsoft .NET library (or with modified versions
+       of Microsoft .NET library that use the same license as the Microsoft .NET
+       library), and distribute linked combinations including the two"
+    - "You must obey the GNU General Public License in all respects for all of the code used other
+       than the Microsoft .NET library"

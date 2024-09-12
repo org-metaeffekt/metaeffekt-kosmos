@@ -1,0 +1,12 @@
+canonicalName: GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 2.0
+category: LGPL+GPL
+shortName: LGPL-3.0+-OR-GPL-2.0
+
+type: expression
+
+alternativeNames:
+  - "duallicensed under the GNU LGPLv3+ or the GNU GPLv2"
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 2.0
+  "GNU General Public License 2.0": GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 2.0

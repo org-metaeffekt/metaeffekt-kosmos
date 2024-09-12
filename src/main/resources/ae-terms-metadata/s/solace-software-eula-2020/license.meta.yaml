@@ -1,0 +1,24 @@
+canonicalName: Solace License 2020
+category: Solace License
+shortName: Solace-2020
+
+otherIds:
+  - "scancode:solace-software-eula-2020"
+
+alternativeNames:
+  - "SOLACE CORPORATION LICENCE AGREEMENT FOR SOLACE SOFTWARE"
+
+evidence:
+  matches:
+    - "Provided Licensee complies with this Agreement, SOLACE hereby grants to Licensee
+       a non-exclusive, non-sublicensable (except as permitted in accordance with Section
+       2.6 below), non-transferable, license, during the term of this Agreement, to install
+       and use the Software in object code form during the applicable Subscription Term for
+       the number of Cores specified in the Order, solely for the Licensee’s internal business
+       purposes and in accordance with the terms of this Agreement"
+    - "If Licensee requires a license from SOLACE to enable Licensee to bundle or otherwise
+       make available a Product with Licensee’s own software, such bundling will be pursuant
+       to separate terms to be agreed"
+    - "Provided Licensee complies with this Agreement, Licensee may reproduce the Documentation,
+       for use on an internal basis only, and solely in support of the Licensee’s licensed use
+       of the Software"

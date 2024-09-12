@@ -1,0 +1,37 @@
+canonicalName: GNU Free Documentation License 1.1 (invariants)
+category: GFDL
+spdxIdentifier: GFDL-1.1-invariants-only
+shortName: GFDL-1.1-invariants
+
+baseTerms: GNU Free Documentation License 1.1
+
+expectedSpdxMatches:
+  - "GNU Free Documentation License 1.1"
+
+alternativeNames:
+  - "GNU Free Documentation License v1.1 only - invariants"
+
+otherIds:
+  - "scancode:gfdl-1.1-invariants-only"
+
+# FIXME-RESEARCH / FIXME-CONCEPT: the first match of "GNU Free Documentation License 1.1 (invariants) and the equivalent evidence in GNU Free Documentation License 1.1 (no invariants) match with each other even though they are different. This is critical since that is the only difference in the two licenses. For some reason they don't match with each other when being matched across sentences as one big evidence like this (they also can't exclude each other) :
+#  Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.1; with the Invariant Sections being LIST THEIR TITLES, with the Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST. A copy of the license is included in the section entitled \"GNU Free Documentation License\""
+
+evidence:
+  matches:
+    - "Permission is granted to copy, distribute and/or modify this document under the
+       terms of the GNU Free Documentation License, Version 1.1; with the Invariant
+       Sections being LIST THEIR TITLES, with the Front-Cover Texts being LIST, and
+       with the Back-Cover Texts being LIST. A copy of the license is included in the
+       section entitled \"GNU Free Documentation License\""
+    - "You may copy and distribute the Document in any medium, either commercially or non-commercially, provided that this License, the copyright notices, and the license notice saying this License applies to the Document are reproduced in all copies, and that you add no other conditions whatsoever to those of this License"
+    - "You may not use technical measures to obstruct or control the reading or further copying of the copies you make or distribute"
+    - "You may also lend copies, under the same conditions stated above, and you may publicly display copies"
+    - "If you publish printed copies of the Document numbering more than 100, and the Document's license notice requires Cover Texts, you must enclose the copies in covers that carry, clearly and legibly, all these Cover Texts"
+    - "You may copy and distribute a Modified Version of the Document under the conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it"
+    - "If the Modified Version includes new front-matter sections or appendices that qualify as Secondary Sections and contain no material copied from the Document, you may at your option designate some or all of these sections as invariant"
+    - "Each version of the License is given a distinguishing version number"
+
+
+mappings:
+  "with or without modifying it, either commercially or noncommercially": "with or without modifying it, either commercially or non-commercially"

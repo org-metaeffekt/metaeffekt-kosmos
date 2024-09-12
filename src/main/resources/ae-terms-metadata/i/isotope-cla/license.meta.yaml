@@ -1,0 +1,21 @@
+canonicalName: Isotope Commercial License Agreement
+category: Isotope Commercial License Agreement
+shortName: Isotope-CLA
+
+otherIds:
+  - "scancode:isotope-cla"
+
+alternativeNames:
+  - "Isotope Commercial License Agreement"
+
+evidence:
+  matches:
+    - "You are granted the right to use and to modify the source code of the Software for use in Applications"
+    - "There is no limit or restriction of the number of Applications which use the Software"
+    - "You own any original work authored by you"
+    - "Metafizzy continues to retain all copyright and other intellectual property rights in the Software"
+    - "You are not permitted to move, remove, edit, or obscure any copyright, trademark, attribution, warning or disclaimer notices in the Software"
+    - "You may use the Software only to create Applications that are significantly different than and do not compete with the Software"
+    - "You are granted the license to distribute the Software as part of your Applications on a royalty-free basis"
+    - "Users of your Applications are permitted to use the Software or your modifications of the Software as part of your Applications"
+    - "Users do not need to purchase their own commercial license for the Software, so long as they are not acting as Developers, developing their own commercial Applications with the Software"

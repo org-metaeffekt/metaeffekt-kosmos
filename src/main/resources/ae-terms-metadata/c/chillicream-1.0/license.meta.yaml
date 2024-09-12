@@ -1,0 +1,23 @@
+canonicalName: ChilliCream License 1.0
+category: ChilliCream License
+shortName: ChilliCream-1.0
+
+otherIds:
+  - "scancode:chillicream-1.0"
+
+alternativeNames:
+  - "chillicream license 1"
+  - "Chillicream license 1"
+  - "chillicream License 1"
+  - "ChilliCream License 1"
+
+evidence:
+  matches:
+    - "The licensor grants you a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available"
+    - "You may not move, change, disable, or circumvent the license key functionality"
+    - "The licensor grants you a license, under any patent claims the licensor can license, or becomes able to license"
+    - "You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms"
+    - "If you use the software in violation of these terms, such use is not licensed, and your licenses will automatically terminate"
+    - "As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you"
+  excludes:
+    - "Elastic License 2.0"

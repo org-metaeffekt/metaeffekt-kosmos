@@ -1,0 +1,38 @@
+canonicalName: Public Domain (Bitzi)
+category: Public Domain Bitzi
+shortName: PD-Bitzi
+
+otherIds:
+  - "scancode:bitzi-pd"
+
+alternativeNames:
+  - "http://bitzi.com/publicdomain"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+representedAs: Public Domain
+
+evidence:
+  matches:
+    - "When we publish our source code, we usually place it in 
+       the public domain, whenever possible, to allow the widest 
+       possible reuse and benefit"
+    - "For major standalone files, or as the \"COPYING\" file, we
+        include a version of this longer explanation"
+    - "This work and others bearing the above 
+        label were created by, or on behalf of, the Bitzi 
+        Corporation"
+    - "If other non- 
+       public-domain code or libraries are included, this is 
+       is done under those works' respective licenses"
+    - "The Bitzi Corporation places its portion 
+       of these labelled works into the public domain, 
+       disclaiming all rights granted us by copyright law"
+    - "The Bitzi Corporation reserves 
+       all rights with regard to any of its trademarks which 
+       may appear herein, such as \"Bitzi\", \"Bitcollider\", or
+       \"Bitpedia\""
+    - "Some code and libraries may be 
+       incorporated in this work in accordance with the 
+       licenses offered by their respective rightsholders"

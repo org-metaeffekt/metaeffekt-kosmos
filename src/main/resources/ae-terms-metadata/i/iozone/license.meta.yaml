@@ -1,0 +1,21 @@
+canonicalName: IOzone License
+category: IOzone License
+shortName: IOzone
+
+otherIds:
+  - "scancode:iozone"
+
+alternativeNames:
+  - "iozone license"
+
+evidence:
+  matches:
+    - "License to freely use and distribute this software is hereby granted by the
+       author, subject to the condition that this copyright notice remains intact"
+    - "The author retains the exclusive right to publish derivative works based on this
+       work, including, but not limited to, revised versions of this work"
+    - "THIS SOFTWARE IS PROVIDED BY DON CAPPS AND THE IOZONE CREW 'AS IS' AND ANY
+       EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+       WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+
+

@@ -1,0 +1,22 @@
+canonicalName: GNU General Public License 2.0 (PT)
+category: GPL
+shortName: GPL-2.0-PT
+
+otherIds:
+  - "scancode:cc-gpl-2.0-pt"
+
+alternativeNames:
+  - "Creative Commons Licença Pública Geral do GNU (GPL) [General Public License]"
+  - "Licença Pública Geral do GNU (GPL) [General Public License]"
+
+evidence:
+  matches:
+    - "Incluir o código-fonte correspondente completo, passível de leitura pela máquina"
+
+references:
+  "GPL":
+    matches:
+      - "This is an unofficial translation of the GNU General Public License into Portuguese"
+      - "It was not published by the Free Software Foundation, and does not legally state the distribution terms
+       for software that uses the GNU GPL--only the original English text of the GNU GPL does that"
+      - "However, we hope that this translation will help Portuguese speakers understand the GNU GPL better"

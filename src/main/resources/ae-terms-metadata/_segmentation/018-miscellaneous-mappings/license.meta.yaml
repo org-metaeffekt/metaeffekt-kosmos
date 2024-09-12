@@ -1,0 +1,23 @@
+canonicalName: Segmentation-018
+category: Segmentation
+shortName: Segmentation-018
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "018"
+
+mappings:
+  # (repeat) create marker for empty lines; check why this is required
+  "NEWLINE-MARKER\\s*NEWLINE-MARKER": "NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER"
+
+  # 2 empty lines followed by 'Copyright' starts a new segment
+  "EMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER( Copyright)": "LICENSE-SEGMENT-MARKER8$1"
+
+  # text corrections
+  "NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OU(NEWLINE-MARKEREMPTY-LINE-MARKER)": "NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.$1"
+
+  "//C-": " " # separator found in SumatraPDF
+
+  "NEWLINE-MARKER ; ": "NEWLINE-MARKER " # zlib variant in jsimdext.inc of SumatraPDF

@@ -1,0 +1,26 @@
+canonicalName: GNU Free Documentation License 1.2 (or any later version)
+category: GFDL
+spdxIdentifier: GFDL-1.2-or-later
+shortName: GFDL-1.2+
+
+baseTerms: GNU Free Documentation License 1.2
+
+# NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
+
+allowsLaterVersions: true
+
+alternativeNames:
+  - "GNU Free Documentation License Version 1.2+"
+  - "GNU Free Documentation License, Version 1.2+"
+  - "GNU Free Documentation License, v1.2+"
+  - "GNU Free Documentation License v1.2+"
+  - "GFDL Version 1.2+"
+  - "GFDL, Version 1.2+"
+  - "GFDL, v1.2+"
+  - "GFDL v1.2+"
+  - "GNU Free Documentation License, Version 1.2 or any later version"
+  - "GNU Free Documentation License (FDL), either version 1.2 of the License, or (at your option) any later version"
+  - "GFDL-1.2+"
+  - "GFDL version 1.2 or later"
+  - "Change license on the manual to GFDLv1.2+"
+  - "GNU FDL version 1.2 or later"

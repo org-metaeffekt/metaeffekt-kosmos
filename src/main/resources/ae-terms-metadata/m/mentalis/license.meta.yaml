@@ -1,0 +1,20 @@
+canonicalName: Mentalis Source Code License
+category: Mentalis Source Code License
+shortName: Mentalis
+
+otherIds:
+  - "scancode:mentalis"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that the following conditions are met"
+    - "Redistributions of source code must retain the above copyright notice,
+       this list of conditions and the following disclaimer"
+    - "Neither the name of the copyright owner, nor the names of its
+       contributors may be used to endorse or promote products derived from
+       this software without specific prior written permission"
+  excludes:
+    - "THIS SOFTWARE IS PROVIDED AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING
+       BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY FITNESS FOR A PARTICULAR
+       PURPOSE AND NONINFRINGEMENT ARE DISCLAIMED"

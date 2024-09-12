@@ -1,0 +1,24 @@
+canonicalName: Opera EULA 2018
+category: Opera EULA
+shortName: Opera-EULA-2018
+
+otherIds:
+  - "scancode:opera-eula-2018"
+
+canonicalNameHistory:
+  - "Opera EULA for Computers"
+
+alternativeNames:
+  - "Opera EULA for Computers"
+
+evidence:
+  matches:
+    - "use the executable code version of the Software solely as installed on your personal computer"
+    - "reproduce and distribute the Software solely as included in an application repository for a
+       desktop open source operating system distribution PROVIDED THAT in all cases the Software is distributed"
+    - "This contract is based on English law"
+    - "This EULA will be governed by the laws of England and Wales, without giving effect to any conflicts of
+       law principles that may require the application of the laws of a different country"
+    - "Any and all disputes arising out of or in connection with this EULA, including any question regarding its
+       existence, validity or termination, shall be referred to and finally resolved by arbitration in English in
+       accordance with the UNCITRAL Arbitration Rules for the time being in force at the commencement of the arbitration"

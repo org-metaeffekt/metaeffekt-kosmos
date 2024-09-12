@@ -1,0 +1,18 @@
+canonicalName: GNU General Public License 3.0 (or any later version; with Linking Exception (GPL; variant 009))
+category: GPL+Linking
+shortName: GPL-3.0+-Linking-Exception-009
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-3.0-cygwin"
+
+combinedWith:
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with Linking Exception (GPL; variant 009))
+  Linking Exception (GPL; variant 009): GNU General Public License 3.0 (or any later version; with Linking Exception (GPL; variant 009))
+
+displayName:
+  GNU General Public License 3.0 (or any later version; with Linking Exception (variant 009))
+
+representedAs:
+  GNU General Public License 3.0 (or any later version; with exceptions)

@@ -1,0 +1,23 @@
+canonicalName: Font-Alias License
+category: Font-Alias License
+shortName: Font-Alias
+
+otherIds:
+  - "scancode:font-alias"
+
+alternativeNames:
+  - "font-alias License"
+  - "Font-Alias License"
+
+evidence:
+  matches:
+    - "This software may be used, modified, copied, distributed, and sold,
+       in both source and binary form provided that the above copyright
+       and these terms are retained"
+    - "Under no circumstances is the author responsible for the proper functioning
+       of this software, nor does the author assume any responsibility for damages
+       incurred with its use"
+  excludes:
+    - "Permission is granted to anyone to use , distribute and modify this file in any way "
+
+

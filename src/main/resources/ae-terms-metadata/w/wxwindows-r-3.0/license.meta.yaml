@@ -1,0 +1,37 @@
+canonicalName: wxWindows Restricted Licence 3.0
+category: wxWindows Restricted Licence
+shortName: wxWindows-R-3.0
+
+otherIds:
+  - "scancode:wxwindows-r-3.0"
+
+alternativeNames:
+  - "wxWindows Restricted Licence, Version 3"
+
+evidence:
+  matches:
+    - "Everyone is permitted to copy and distribute verbatim copies
+       of this licence document, but changing it is not allowed"
+    - "This library is free software; you can redistribute it and/or modify it
+       under the terms of the GNU Library General Public Licence as published by
+       the Free Software Foundation; either version 2 of the Licence, or (at
+       your option) any later version"
+    - "This library is distributed in the hope that it will be useful, but
+       WITHOUT ANY WARRANTY; without even the implied warranty of
+       MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE"
+    - "See the GNU Library General Public Licence for more details"
+    - "You should have received a copy of the GNU Library General Public Licence
+       along with this software, usually in a file named COPYING.LIB"
+    - "If not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330,
+       Boston, MA 02111-1307 USA"
+    - "without any restrictions placed on such modifications, and create binary object
+       code versions of such works based on the Library, and you may use, copy,
+       link, modify and distribute such binary object code versions of works
+       based on the Library as if licenced to you under the wxWindows
+       Unrestricted Licence; either version 3 or (at your option) any later version"
+
+references:
+  "LGPL":
+    matches:
+      - "the terms of the GNU Library General Public Licence as published by
+         the Free Software Foundation"

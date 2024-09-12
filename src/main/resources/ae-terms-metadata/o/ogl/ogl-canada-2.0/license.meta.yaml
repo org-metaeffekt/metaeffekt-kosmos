@@ -1,0 +1,30 @@
+canonicalName: Open Government Licence (CAN)
+category: OGL
+spdxIdentifier: OGL-Canada-2.0
+
+otherIds:
+  - "scancode:can-ogl-2.0-en"
+
+alternativeNames:
+  - "OGL-Canada-2.0"
+  - "Open Government Licence - Canada"
+  - "Open Government Licence (CAN)"
+
+canonicalNameHistory:
+  - "Open Government Licence - Canada"
+
+evidence:
+  matches:
+    - "The Information is licensed 'as is', and the Information Provider excludes
+       all representations, warranties, obligations, and liabilities, whether express
+       or implied, to the maximum extent permitted by law"
+    - "The Information Provider is not liable for any errors or omissions in the
+       Information, and will not under any circumstances be liable for any direct,
+       indirect, special, incidental, consequential, or other loss, injury or damage
+       caused by its use or otherwise arising in connection with this licence or
+       the Information, even if specifically advised of the possibility of such loss,
+       injury or damage"
+    - "This licence is governed by the laws of the province of Ontario and the applicable
+       laws of Canada"
+    - "Legal proceedings related to this licence may only be brought in the courts
+       of Ontario or the Federal Court of Canada"

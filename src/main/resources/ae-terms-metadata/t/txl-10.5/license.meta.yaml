@@ -1,0 +1,22 @@
+canonicalName: TXL License 10.5
+category: TXL License
+shortName: TXL-10.5
+
+otherIds:
+  - "scancode:txl-10.5"
+
+alternativeNames:
+  - "http://fossat.googlecode.com/svn/trunk/bin/COPYRIGHT.txt"
+  - "TXL 10.5"
+  - "TXL License"
+  - "TXL 10.5 License"
+
+evidence:
+  matches:
+    - "Permission to copy and redistribute TXL 10.5 is hereby granted PROVIDED
+       that the TXL 10.5 distribution is RETAIINED UNMODIFIED IN ITS ENTIRETY
+       including this file, and that NO CHARGE OF ANY KIND is made for such
+       redistribution"
+    - "John Luis The"
+    - "Lol is lol"
+

@@ -1,0 +1,80 @@
+canonicalName: GNU General Public License 3.0 (or any later version)
+category: GPL
+spdxIdentifier: GPL-3.0-or-later
+shortName: GPL-3.0+
+
+otherIds:
+  - "scancode:gpl-3.0-plus"
+  - "scancode:kde-accepted-gpl"
+  - "osi:GPL-3.0"
+
+expectedMatches:
+  - "GNU General Public License 3.0"
+
+defaultSourceCategory: annex
+
+allowsLaterVersions: true
+
+alternativeNames:
+  - "GNU GENERAL PUBLIC LICENSE version 3 or higher"
+  - "GNU General Public License (GPL) version 3, or any later version"
+  - "GNU General Public License Version 3 or later (GPL)"
+  - "GNU General Public License v3 or later"
+  - "GNU General Public License v3.0 or later"
+  - "GNU General Public License version 3+"
+  - "GNU General Public License, Version 3.0 or any later version"
+  - "GNU General Public License; either version 3 of the License, or (at your option) any later version"
+  - "GNU General Public License version 3 or (at your option) any later version"
+  - "GNU LGP (GNU General Public License), V3 or later"
+  - "GNU General Public License version 3.0 or later"
+  - "GPL-3.0+"
+  - "GPL-3+"
+  - "GPL v3+"
+  - "GPL 3 or later"
+  - "GPL3+"
+  - "GPLv3 +"
+  - "GPLv3+"
+  - "gplv3+"
+  - "GPL-3.0-or-later"
+  - "GNU General Public License (v3 or later)"
+  - "GNU General Public License v3+"
+  - "GNU General Public License, v3.0 or later"
+  - "GNU General Public License, Version 3 and better"
+  - "GNU General Public License, Version 3+"
+  - "GNU GENERAL PUBLIC LICENSE Version 3 or later"
+  - "GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version"
+  - "GNU General Public License as published by the Free Software Foundation, either version 3, or (at your option) any later version"
+  - "GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version"
+  - "GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version"
+  - "GNU General Public License, as published by the Free Software Foundation; either version 3, or (at your option) any later version"
+  - "GPL 3.0 or, Version later"
+  - "GPL 3.0 or, later"
+  - "GPL 3.0 or later"
+  - "GPL-3.0-or, Version later"
+  - "GPL-3.0-or, later"
+  - "GPL-3.0-or later"
+  - "GPL 3.0 or License, Version later"
+  - "GPL 3.0 or License, later"
+  - "GPL 3.0 or License later"
+  - "GPL-3.0-or License, Version later"
+  - "GPL-3.0-or License, later"
+  - "GPL-3.0-or License later"
+  - "GPL version 3 or later"
+  - "GPL version 3.0 or later"
+  - "GNU GPL, version 3 or later"
+  - "GNU General Public License (GNU GPL), version 3 or later"
+  - "GNU General Public License as published by the Free Software Foundation; either version 3 of the license or 
+     (at your option) at any later version"
+
+mappings:
+  "Copyright \\(C\\) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius@glam.ac.uk>": " LICENSE-SEGMENT-MARKER Copyright (C) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius@glam.ac.uk>"
+  "gcc/gm2:NEWLINE-MARKERCopyright \\(C\\) 2007-2019 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius@glam.ac.uk>.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis file is part of GNU Modula-2": " LICENSE-SEGMENT-MARKER gcc/gm2:NEWLINE-MARKERCopyright (C) 2007-2019 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius@glam.ac.uk>.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis file is part of GNU Modula-2"
+  "gm2-libs/Indexing.mod:NEWLINE-MARKER./gm2-libs/errno.def:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright \\(C\\) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius.mulley@southwales.ac.uk>.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software": " LICENSE-SEGMENT-MARKER gm2-libs/Indexing.mod:NEWLINE-MARKER./gm2-libs/errno.def:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright (C) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius.mulley@southwales.ac.uk>.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software"
+  "gcc/gm2/gm2-libiberty/:NEWLINE-MARKERCopyright \\(C\\) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKER Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libiberty/:NEWLINE-MARKERCopyright (C) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKER Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software"
+  "gcc/gm2/gm2-libs-iso/:NEWLINE-MARKERThis has a mix of licenses, both LGPL-2.1 and GPL-3.0, plus the apparentlyNEWLINE-MARKERunmodified definition modules from ISO/IEC": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libs-iso/:NEWLINE-MARKERThis has a mix of licenses, both LGPL-2.1 and GPL-3.0, plus the apparentlyNEWLINE-MARKERunmodified definition modules from ISO/IEC"
+  "gcc/gm2/gm2-libs-iso/\\*.mod:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright \\(C\\) 2009, 2010 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis library is free software": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libs-iso/*.mod:NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright (C) 2009, 2010 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThis library is free software"
+  "gcc/gm2/mc-boot/:NEWLINE-MARKERCopyright \\(C\\) 2001-2018 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius@glam.ac.uk>.NEWLINE-MARKERMix of GPL-3 and LGPL-2.1": " LICENSE-SEGMENT-MARKER gcc/gm2/mc-boot/:NEWLINE-MARKERCopyright (C) 2001-2018 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius@glam.ac.uk>.NEWLINE-MARKERMix of GPL-3 and LGPL-2.1"
+  "gcc/testsuite/gm2/:NEWLINE-MARKERCopyright \\(C\\) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERMix of GPL-2\\+ and GPL-3\\+": " LICENSE-SEGMENT-MARKER gcc/testsuite/gm2/:NEWLINE-MARKERCopyright (C) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERMix of GPL-2+ and GPL-3+"
+  "libgm2/libcor/:NEWLINE-MARKERCopyright \\(C\\) 2005-2019 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius@glam.ac.uk>.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software": " LICENSE-SEGMENT-MARKER libgm2/libcor/:NEWLINE-MARKERCopyright (C) 2005-2019 Free Software Foundation, Inc.NEWLINE-MARKERContributed by Gaius Mulley <gaius@glam.ac.uk>.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software"
+  "libgm2/libmin/:NEWLINE-MARKERCopyright \\(C\\) 2010, 2011, 2012, 2013 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software": " LICENSE-SEGMENT-MARKER libgm2/libmin/:NEWLINE-MARKERCopyright (C) 2010, 2011, 2012, 2013 Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software"
+  "libgm2/p2c/:NEWLINE-MARKERCopyright \\(C\\) 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKER Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software": " LICENSE-SEGMENT-MARKER libgm2/p2c/:NEWLINE-MARKERCopyright (C) 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKER Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software"

@@ -1,0 +1,28 @@
+canonicalName: Hugging Face Optimized Inference License 1.0
+category: Hugging Face Optimized Inference License
+shortName: hfoil-1.0
+
+otherIds:
+  - "scancode:hfoil-1.0"
+
+classification: source-available
+
+alternativeNames:
+  - "Hugging Face Optimized Inference License 1.0"
+  - "Hugging Face Optimized Inference License 1.0 (HFOILv1.0)"
+
+evidence:
+  matches:
+    - "You may not distribute the Software as a hosted or managed, and paid service, where the service
+       grants users access to any substantial set of the features or functionality of the Software"
+    - "If you wish to do so, You will need to be granted additional rights from the Licensor which will
+       be subject to a separate mutually agreed agreement"
+    - "You may not sublicense the Software under any other terms than those listed in this License"
+    - "attach a notice stating the Modifications of the Software You made; and - attach a notice stating
+       that the Modifications of the Software are released under this License Agreement"
+    - "give any recipients of the Software a copy of this License Agreement; - retain all Explanatory
+       Documentation; and if sharing the Modifications of the Software, add Explanatory
+       Documentation documenting the changes made to create the Modifications of the Software; -
+       retain all copyright, patent, trademark and attribution notices"
+    - "Licensor reserves the right to restrict Use of the Software in violation of
+       this License Agreement, upon which Your licenses will automatically terminate"

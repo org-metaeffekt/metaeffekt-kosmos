@@ -1,0 +1,41 @@
+canonicalName: Code Project Open License (CPOL) 1.0
+category: Code Project Open License (CPOL)
+shortName: CPOL-1.0
+
+otherIds:
+  - "scancode:cpol-1.0"
+
+alternativeNames:
+  - "The Code Project Open License (CPOL) 1.0"
+  - "Code Project Open License (CPOL) 1.0"
+
+evidence:
+  matches:
+    - "Source Code and Executable Files can be used in commercial applications"
+    - "Source Code and Executable Files can be redistributed"
+    - "Source Code can be modified to create derivative works"
+    - "You may use the standard version of the Source Code or Executable Files in Your own applications"
+    - "You may apply bug fixes, portability fixes and other modifications
+       obtained from the Public Domain or from the Author. A Work modified
+       in such a way shall still be considered the standard version and
+       will be subject to this License"
+    - "You may otherwise modify Your copy of this Work (excluding the
+       Articles) in any way to create a Derivative Work, provided that You
+       insert a prominent notice in each changed file stating how, when
+       and where You changed that file"
+    - "You may distribute the standard version of the Executable Files and
+       Source Code or Derivative Work in aggregate with other (possibly
+       commercial) programs as part of a larger (possibly commercial)
+       software distribution"
+    - "The Articles discussing the Work published in any form by the
+       author may not be distributed or republished without the Author's
+       consent. The author retains copyright to any such Articles. You may
+       use the Executable Files and Source Code pursuant to this License
+       but you may not repost or republish or otherwise distribute or make
+       available the Articles, without the prior written consent of the Author"
+    - "Any subroutines or modules supplied by You and linked into the Source
+       Code or Executable Files this Work shall not be considered part of this
+       Work and will not be subject to the terms of this License"
+  excludes:
+    - "The Article accompanying the Work may not be distributed or republished
+       without the Author's consent"

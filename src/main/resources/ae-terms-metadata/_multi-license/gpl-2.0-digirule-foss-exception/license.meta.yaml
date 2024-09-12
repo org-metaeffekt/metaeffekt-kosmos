@@ -1,0 +1,11 @@
+canonicalName: GNU General Public License 2.0 (with DigiRule FOSS License Exception (GPL 2.0))
+category: GPL+DigiRule-FOSS
+shortName: GPL-2.0-DigiRule-FOSS-2.0
+
+type: expression
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with DigiRule FOSS License Exception (GPL 2.0))"
+  "DigiRule FOSS License Exception (GPL 2.0)": "GNU General Public License 2.0 (with DigiRule FOSS License Exception (GPL 2.0))"

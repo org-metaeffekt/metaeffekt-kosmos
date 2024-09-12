@@ -1,0 +1,35 @@
+canonicalName: TeX Live License
+category: TeX Live
+shortName: TeX-Live
+
+alternativeNames:
+  - "TeX Live License"
+
+otherIds:
+  - "scancode:tex-live"
+
+evidence:
+  matches:
+    - "In general, you may redistribute TeX Live, with or without modification,
+       for profit or not, according to the usual free software tenets"
+    - "If you make any changes to the TeX Live distribution or any
+       package it contains, besides complying with any licensing requirements,
+       you must prominently mention such changes in your modified distribution
+       so that users do not take your work for ours, and know to contact you,
+       not us, in case of questions or problems"
+    - "You absolutely may *not* place your own copyright on the entire
+       distribution, since it is not your work (as stated above, TeX Live is
+       not created by any single person or entity)"
+    - "Acknowledging that TeX Live is developed as a joint effort by all TeX
+       user groups, and encouraging the user/reader to join their user group
+       of choice"
+
+masks:
+  matches:
+    - "To be considered for inclusion on TeX Live, a package must use a free software
+       license, such as the LaTeX Project Public License, the GNU General
+       Public License, the X Window System license, the modified BSD license"
+    - "FSF commentary on existing licenses:
+       http://www.gnu.org/licenses/license-list.html
+       LPPL: http://latex-project.org/lppl.html or texmf/doc/latex/base/lppl.txt
+       LPPL rationale: texmf/doc/latex/base/modguide.pdf"

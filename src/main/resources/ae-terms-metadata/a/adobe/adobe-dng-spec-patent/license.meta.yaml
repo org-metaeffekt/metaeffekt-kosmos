@@ -1,0 +1,21 @@
+canonicalName: Adobe DNG Specification Patent License
+category: Adobe DNG Specification Patent License
+shortName: Adobe-DNG-Spec
+
+otherIds:
+  - "scancode:adobe-dng-spec-patent"
+
+alternativeNames:
+  - "Adobe Digital Negative (DNG) Specification patent license"
+
+evidence:
+  matches:
+    - "Subject to the terms below and solely to permit the reading and writing of image files that comply with
+       the DNG Specification, Adobe hereby grants all individuals and organizations the worldwide, royalty-free,
+       nontransferable, nonexclusive right under all Essential Claims to make, have made, use, sell, import, and
+       distribute Compliant Implementations"
+    - "Adobe may revoke the rights granted above to any individual or organizational licensee in the event that
+       such licensee or its affiliates brings any patent action against Adobe or its affiliates related to the reading
+       or writing of files that comply with the DNG Specification"
+    - "Any Compliant Implementation distributed under this license must include the following notice displayed in a
+       prominent manner within its source code and documentation: 'This product includes DNG technology under license by Adobe'"

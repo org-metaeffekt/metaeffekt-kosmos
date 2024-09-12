@@ -1,0 +1,35 @@
+canonicalName: IBM Java Runtime Environment License
+category: IBM Java Runtime Environment License
+shortName: IBM-JRE
+
+otherIds:
+  - "scancode:ibm-jre"
+
+alternativeNames:
+  - "ibm-jre"
+
+evidence:
+  matches:
+    - "The Program is owned by IBM or an IBM supplier, and is copyrighted and licensed, not sold"
+    - "IBM grants You a nonexclusive license to use the Program when You lawfully acquire it"
+    - "You may 1) use the Program up to the level of use specified in the PoE and 2) make and install copies,
+       including a backup copy, to support such use"
+    - "The terms of this license apply to each copy You make"
+    - "You will reproduce all copyright notices and all other legends of ownership on each copy, or partial copy, of the Program"
+    - "If You acquire the Program as a program upgrade, after You install the upgrade You may not use the Program
+       from which You upgraded or transfer it to another party"
+    - "You will ensure that anyone who uses the Program (accessed either locally or remotely) does so only for Your
+       authorized use and complies with the terms of this Agreement"
+    - "You may not 1) use, copy, modify, or distribute the Program except as provided in this Agreement; 2) reverse
+       assemble, reverse compile, or otherwise translate the Program except as specifically permitted by law without
+       the possibility of contractual waiver; or 3) sublicense, rent, or lease the Program"
+    - "IBM may terminate Your license if You fail to comply with the terms of this Agreement"
+    - "If IBM does so, You must destroy all copies of the Program and its PoE"
+    - "If for any reason You are dissatisfied with the Program and You are the original licensee, You may obtain a
+       refund of the amount You paid for it, if within 30 days of Your invoice date You return the Program and its PoE
+       to the party from whom You obtained it"
+    - "If You downloaded the Program, You may contact the party from whom You acquired it for instructions on how to obtain the refund"
+    - "You may transfer a Program and all of Your license rights and obligations to another party only if that party
+       agrees to the terms of this Agreement"
+    - "When You transfer the Program, You must also transfer a copy of this Agreement, including the Program's PoE"
+    - "After the transfer, You may not use the Program"

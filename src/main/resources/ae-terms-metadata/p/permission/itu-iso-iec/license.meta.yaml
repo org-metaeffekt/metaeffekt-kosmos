@@ -1,0 +1,28 @@
+canonicalName: Permission Terms (ITU/ISO/IEC)
+category: Permission
+shortName: PT-ITU-ISO-IEC
+
+otherIds:
+  - "scancode:jpegxr"
+
+representedAs: Permission Terms
+
+alternativeNames:
+  - "JPEG XR License"
+
+evidence:
+  matches:
+    - "This software module is an implementation of one or more
+       tools as specified by the JPEG XR standard"
+    - "ITU/ISO/IEC give You a royalty-free, worldwide, non-exclusive
+       copyright license to copy, distribute, and make derivative works
+       of this software module or modifications thereof for use in
+       products claiming conformance to the JPEG XR standard as
+       specified by"
+    - "ITU/ISO/IEC give users the same free license to this software
+       module or modifications thereof for research purposes and further
+       ITU/ISO/IEC standardization"
+    - "Those intending to use this software module in products are advised
+       that its use may infringe existing patents"
+    - "ITU/ISO/IEC have no
+       liability for use of this software module or modifications thereof"

@@ -1,0 +1,27 @@
+canonicalName: Microsoft Software License (.NET Library)
+category: Microsoft Software
+shortName: MS-Software-NET-Library
+
+otherIds:
+  - "scancode:ms-net-library"
+
+canonicalNameHistory:
+  - "Microsoft .NET Library License"
+
+alternativeNames:
+  - "Microsoft .NET Library License"
+  - "http://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm"
+  - "https://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm"
+  - "http://go.microsoft.com/fwlink/?LinkID=320539"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software to design, develop and test your programs"
+    - "The software may include third party programs that Microsoft, not the third party, licenses to you under this agreement"
+    - "Notices, if any, for the third party program are included for your information only"
+    - "The software is comprised of Distributable Code. 'Distributable Code' is code that you are permitted
+       to distribute in programs you develop if you comply with the terms below"
+  excludes:
+    - "7. EXPORT RESTRICTIONS. The software is subject to United States export laws and
+       regulations"
+    - "in breach of such material contractual obligations"

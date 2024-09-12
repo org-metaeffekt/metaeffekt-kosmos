@@ -1,0 +1,41 @@
+canonicalName: Permission Terms (variant 014)
+category: Permission
+shortName: PT-Var014
+
+status:
+  - "reviewed 04.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+otherIds:
+  - "scancode:boost-original"
+
+displayName: Permission Terms (no suitability claim; no warranty)
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var014"
+
+evidence:
+  matches:
+    - "Permission to copy, use, modify, sell and distribute this software is granted provided this
+       copyright notice appears in all copies"
+    - "This software is provided \"as is\"
+       without express or implied warranty, and with no claim as to its suitability
+       for any purpose"
+  excludes:
+    - "Permission to copy, use, modify, sell and distribute this software is
+       granted, provided this copyright notice appears in all copies and
+       modified version are clearly marked as such"
+
+mappings:
+  "no claim at to its suitability for any purpose": "no claim as to its suitability for any purpose"
+  "Permission to copy, use, modify, sell and and distribute this": "Permission to copy, use, modify, sell and distribute this"
+
+licenseTemplate: "<lq>Permission to copy, use, modify, sell and distribute this software is granted provided this
+                  copyright notice appears in all copies.<p/> This software is provided \"as is\"
+                  without express or implied warranty, and with no claim as to its suitability
+                  for any purpose.</lq>"
+  

@@ -1,0 +1,20 @@
+canonicalName: Open Publication License 1.0
+category: Open Publication
+shortName: Open-Publication-1.0
+spdxIdentifier: OPUBL-1.0
+
+otherIds:
+  - "scancode:openpub"
+
+alternativeNames:
+  - "Open Publication License v1.0"
+  - "Open Publication License, Version 1.0"
+
+evidence:
+  matches:
+    - "Commercial redistribution of Open Publication-licensed material is permitted"
+    - "Any publication in standard (paper) book form shall require the citation of the
+       original publisher and author"
+    - "The publisher and author's names shall appear on all outer surfaces of the book"
+    - "On all outer surfaces of the book the original publisher's name shall be as large
+       as the title of the work and cited as possessive with respect to the title"

@@ -1,0 +1,56 @@
+canonicalName: CeCILL Free Software License Agreement 2.1
+category: CeCILL
+spdxIdentifier: CECILL-2.1
+
+otherIds:
+  - "scancode:cecill-2.1"
+  - "osi:CECILL-2.1"
+
+alternativeNames:
+  - "CECILL, Version 2.1"
+  - "CECILL, 2.1"
+  - "CECILL 2.1"
+  - "CeCILL FREE SOFTWARE LICENSE AGREEMENT Version 2.1"
+
+masks:
+  matches:
+    - "GNU GPL: means the GNU General Public License version 2 or any subsequent
+       version, as published by the Free Software Foundation Inc.
+
+       GNU Affero GPL: means the GNU Affero General Public License version 3 or any
+       subsequent version, as published by the Free Software Foundation Inc.
+
+       EUPL: means the European Union Public License version 1.1 or any subsequent
+       version, as published by the European Commission."
+
+references:
+  "GPL":
+    matches:
+      - "The Licensee can include a code that is subject to the provisions of one of
+         the versions of the GNU GPL, GNU Affero GPL and/or EUPL in the Modified or
+         unmodified Software, and distribute that entire code under the terms of the
+         same version of the GNU GPL, GNU Affero GPL and/or EUPL"
+      - "The Licensee can include the Modified or unmodified Software in a code that
+         is subject to the provisions of one of the versions of the GNU GPL, GNU Affero
+         GPL and/or EUPL and distribute that entire code under the terms of the same
+         version of the GNU GPL, GNU Affero GPL and/or EUPL"
+  "AGPL":
+    matches:
+      - "The Licensee can include a code that is subject to the provisions of one of
+         the versions of the GNU GPL, GNU Affero GPL and/or EUPL in the Modified or
+         unmodified Software, and distribute that entire code under the terms of the
+         same version of the GNU GPL, GNU Affero GPL and/or EUPL"
+      - "The Licensee can include the Modified or unmodified Software in a code that
+         is subject to the provisions of one of the versions of the GNU GPL, GNU Affero
+         GPL and/or EUPL and distribute that entire code under the terms of the same
+         version of the GNU GPL, GNU Affero GPL and/or EUPL"
+  "EUPL":
+    matches:
+      - "The Licensee can include a code that is subject to the provisions of one of
+         the versions of the GNU GPL, GNU Affero GPL and/or EUPL in the Modified or
+         unmodified Software, and distribute that entire code under the terms of the
+         same version of the GNU GPL, GNU Affero GPL and/or EUPL"
+      - "The Licensee can include the Modified or unmodified Software in a code that
+         is subject to the provisions of one of the versions of the GNU GPL, GNU Affero
+         GPL and/or EUPL and distribute that entire code under the terms of the same
+         version of the GNU GPL, GNU Affero GPL and/or EUPL"

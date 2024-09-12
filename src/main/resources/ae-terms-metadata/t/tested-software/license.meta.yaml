@@ -1,0 +1,20 @@
+canonicalName: Tested Software License
+category: Tested Software License
+shortName: Tested-Software
+
+otherIds:
+  - "scancode:tested-software"
+
+alternativeNames:
+  - "Tested Software License"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "You may use this software for any purpose including modification/redistribution,
+       so long as this header remains intact and that you do not claim any rights of
+       ownership or authorship of this software"
+    - "This software has been tested, but no warranty is expressed or implied"
+

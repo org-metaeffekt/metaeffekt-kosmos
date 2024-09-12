@@ -1,0 +1,27 @@
+canonicalName: Segmentation-020
+category: Segmentation
+shortName: Segmentation-020
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "020"
+
+# FIXME-IMPLEMENT: remove and fix issues using segmentation reverts
+#  Plan: schedule workshop to define approach; try to get rid of reverts here (if implications are within acceptable scope)
+mappings:
+  "LICENSE-SEGMENT-MARKERNEWLINE-MARKER(\\s*This W3C work)": "NEWLINE-MARKER$1"
+  "(Mozilla Public License Version 2.0\\s*)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKERNEWLINE-MARKER(\\s*==========)": "$1NEWLINE-MARKER$3"
+  "(DefinitionsNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(License Grants and ConditionsNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(ResponsibilitiesNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(Inability to Comply Due to Statute or RegulationNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(TerminationNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(LitigationNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(MiscellaneousNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(Versions of the LicenseNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(Source Code Form License NoticeNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+  "(\"Incompatible With Secondary Licenses\" NoticeNEWLINE-MARKER)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKER(---)": "$1$3"
+
+

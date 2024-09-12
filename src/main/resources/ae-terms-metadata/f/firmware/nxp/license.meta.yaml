@@ -1,0 +1,26 @@
+canonicalName: NXP Firmware License
+category: NXP Firmware
+shortName: NXP-Firmware
+
+otherIds:
+  - "scancode:nxp-firmware-patent"
+
+ignoreMatches:
+  - "Patent License Open Source Exception"
+
+alternativeNames:
+  - "NXP Firmware License"
+
+evidence:
+  matches:
+    - "Redistribution. Reproduction and redistribution in binary form, without
+       modification, for use solely in conjunction with a NXP
+       chipset, is permitted provided that the following conditions are met"
+    - "Notwithstanding anything to the contrary herein, Licensor does not grant and
+       Licensee does not receive, by virtue of this agreement or the Licensor's
+       submission of any Software, any license or other rights under any patent or
+       patent application owned by any affiliate of Licensor or any other entity
+       (other than Licensor), whether expressly, impliedly, by virtue of estoppel or
+       exhaustion, or otherwise"
+    - "No reverse engineering, decompilation, or disassembly of this Software is
+        permitted"

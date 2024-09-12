@@ -1,0 +1,43 @@
+canonicalName: Artistic License 2.0 beta4
+category: Artistic License
+shortName: Artistic-2.0-beta4
+
+otherIds:
+  - "OpenCoDE:Artistic-2.0-beta4"
+
+alternativeNames:
+  - "Artistic License Version 2.0beta4"
+  - "Artistic License Version 2 . 0beta4"
+
+evidence:
+  matches:
+    - "Everyone is permitted to copy and distribute verbatim copies
+       of this license document, but changing it is not allowed"
+    - "You are permitted to use the Standard Version and create and use
+       Modified Versions for any purpose without restriction , provided that
+       you do not redistribute the Modified Version to others outside of your
+       company or organization"
+    - "You may make available verbatim copies of the source code of the
+       Standard Version of this Package in any medium without restriction,
+       either gratis or for a Distribution Fee, provided that you duplicate
+       all of the original copyright notices and associated disclaimers"
+    - "At Your discretion, such verbatim copies may or may not include compiled
+       bytecode, object code or binary versions of the corresponding source
+       code in the same medium"
+    - "You may modify your copy of the source code of this Package in any way
+       and distribute that Modified Version (either gratis or for a
+       Distribution Fee, and with or without a corresponding binary, bytecode
+       or object code version of the Modified Version) provided that You
+       clearly indicate what changes You made to the Package, and provided
+       that You do at least ONE of the following"
+    - "make the Modified Version available to the Originator(s) of the
+       Standard Version, under the exact license of the Standard
+       Version, so that the Originator(s) may include your modifications
+       into the Standard Version (at their discretion)"
+    - "modify any installation scripts and procedures so that
+       installation of the Modified Version will never conflict with an
+       installation of the Standard Version, include for each program
+       installed by the Modified Version clear documentation describing
+       how it differs from the Standard Version, and rename your
+       Modified Version so that the name is substantially different from
+       the Standard Version"

@@ -1,0 +1,50 @@
+canonicalName: KDE accepted Modifier (LGPL-3.0+)
+category: KDE accepted Modifier
+shortName: KDE-accepted-Modifier-LGPL-3.0+
+
+type: modifier
+
+canonicalNameHistory:
+  - "KDE Accepted LGPL"
+
+otherIds:
+  - "scancode:kde-accepted-lgpl"
+
+alternativeNames:
+  - "KDE Accepted LGPL"
+
+combinedWith:
+  GNU Lesser General Public License 3.0: GNU Lesser General Public License 3.0 (with KDE accepted Modifier (LGPL-3.0+))
+  GNU Lesser General Public License 3.0 (or any later version): GNU Lesser General Public License 3.0 (or any later version; with KDE accepted Modifier (LGPL-3.0+))
+
+evidence:
+  matches:
+    - "you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published 
+       by the Free Software Foundation; either version 3 of the license or (at your option) any later version that is 
+       accepted by the membership of KDE e.V. (or its successor approved by the membership of KDE e.V.), which shall 
+       act as a proxy as defined in Section 6 of version 3 of the license"
+
+references:
+  "GPL":
+    matches:
+      - "This library is free software; you can redistribute it and/or
+         modify it under the terms of the GNU Lesser General Public
+         License as published by the Free Software Foundation; either
+         version 3 of the license or (at your option) any later version
+         that is accepted by the membership of KDE e.V. (or its successor
+         approved by the membership of KDE e.V.), which shall act as a
+         proxy as defined in Section 6 of version 3 of the license.
+
+         This program is distributed in the hope that it will be useful,
+         but WITHOUT ANY WARRANTY; without even the implied warranty of
+         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+         GNU General Public License for more details."
+  "LGPL":
+    matches:
+      - "This library is free software; you can redistribute it and/or
+         modify it under the terms of the GNU Lesser General Public
+         License as published by the Free Software Foundation; either
+         version 3 of the license or (at your option) any later version
+         that is accepted by the membership of KDE e.V. (or its successor
+         approved by the membership of KDE e.V.), which shall act as a
+         proxy as defined in Section 6 of version 3 of the license."

@@ -1,0 +1,57 @@
+canonicalName: Lisp Lesser General Public License
+category: Lisp Lesser General Public License
+spdxIdentifier: LLGPL
+
+otherIds:
+  - "scancode:llgpl"
+
+alternativeNames:
+  - "Lisp Lesser General Public Licence)"
+  - "LLGPL"
+
+evidence:
+  matches:
+    - "The concept of the GNU Lesser General Public License version 2.1
+       (\"LGPL\") has been adopted to govern the use and distribution of above-
+        mentioned application"
+    - "However, the LGPL uses terminology that is more
+       appropriate for a program written in C than one written in Lisp"
+    - "A \"Library\" in Lisp is a collection of Lisp functions, data and foreign
+        modules"
+    - "The form of the Library can be Lisp source code (for processing
+       by an interpreter) or object code (usually the result of compilation of
+       source code or built with some other mechanisms)"
+    - "Foreign modules are
+       object code in a form that can be linked into a Lisp executable"
+    - "The Library consists of everything in the distribution file set before
+       any modifications are made to the files"
+    - "If any of the functions or
+       classes in the Library are redefined in other files, then those
+       redefinitions ARE considered a work based on the Library"
+    - "It is permitted to add proprietary source code to the Library, but it
+       must be done in a way such that the Library will still run without that
+       proprietary code present"
+
+references:
+  "LGPL":
+    matches:
+      - - "The concept of the GNU Lesser General Public License version 2.1
+           (\"LGPL\") has been adopted to govern the use and distribution of above-
+            mentioned application"
+      - "Section 5 of the LGPL distinguishes between
+         the case of a library being dynamically linked at runtime and one being
+         statically linked at build time"
+      -  "Section 5 of the LGPL states that the
+         former results in an executable that is a \"work that uses the Library.\"
+          Section 5 of the LGPL states that the latter results in one that is a
+          \"derivative of the Library\", which is therefore covered by the LGPL"
+      -   "Since Lisp only offers one choice, which is to link the Library into an
+          executable at build time, we declare that, for the purpose applying the
+          LGPL to the Library, an executable that results from linking a \"work
+          that uses the Library\" with the Library is considered a \"work that uses
+          the Library\" and is therefore NOT covered by the LGPL."
+      -   "Because of this declaration, section 6 of LGPL is not applicable to the
+          Library. However, in connection with each distribution of this
+          executable, you must also deliver, in accordance with the terms and
+          conditions of the LGPL, the source code of Library (or your derivative
+          thereof) that is incorporated into this executable."

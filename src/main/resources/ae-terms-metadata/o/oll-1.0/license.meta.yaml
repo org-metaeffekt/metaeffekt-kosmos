@@ -1,0 +1,26 @@
+canonicalName: Open Logistics License Version 1.0
+category: Open Logistics License
+shortName: OLL-1.0
+
+otherIds:
+  - "scancode:oll-1.0"
+
+alternativeNames:
+  - "Open Logistics License Version 1.0"
+
+evidence:
+  matches:
+    - "You must provide all other recipients of the Subject Matter of the License or
+       of Derivative Works with a copy of this License and inform them that the
+       Subject Matter of the License was originally licensed under this License"
+    - "You must ensure that modified files contain prominent notices indicating that
+       You have modified the files"
+    - "You must retain all copyright, patent, trademark and name credit notices in
+       the Subject Matter of the License in the source code of any Derivative Works
+       You distribute, with the exception of those notices which do not belong to
+       any part of the Derivative Works"
+    - "You must oblige the recipients of the Subject Matter of the License or
+       Derivative Works to incorporate the provisions of this Section 4 into any
+       license under which they distribute the the Subject Matter of the License or
+       Derivative Works to any other recipients"
+

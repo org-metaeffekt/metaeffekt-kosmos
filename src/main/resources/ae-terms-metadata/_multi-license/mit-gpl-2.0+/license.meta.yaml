@@ -1,0 +1,12 @@
+canonicalName: MIT License + GNU General Public License 2.0 (or any later version)
+category: MIT-GPL
+shortName: MIT-GPL-2.0+
+
+type: expression
+
+alternativeNames:
+  - "MIT or GPL-2+"
+  
+combinedWith:
+  "MIT License": MIT License + GNU General Public License 2.0 (or any later version)
+  "GNU General Public License 2.0 (or any later version)": MIT License + GNU General Public License 2.0 (or any later version)

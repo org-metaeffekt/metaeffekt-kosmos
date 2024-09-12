@@ -1,0 +1,65 @@
+canonicalName: Qt License Agreement 4.4.1
+category: Qt License Agreement
+shortName: Qt-Agreement-4.4.1
+
+alternativeNames:
+  - "QT LICENSE AGREEMENT Agreement version 4.4.1"
+  - "QT LICENSE Agreement version 4.4.1"
+  - "QT LICENSE AGREEMENT version 4.4.1"
+
+otherIds:
+  - "scancode:qt-commercial-agreement-4.4.1"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, The Qt Company grants to Licensee a
+       worldwide, non-exclusive, non-transferable license, valid for each Development
+       License Term, to use, modify and copy the Licensed Software by Designated
+       Users on the Development Platforms for the sole purposes of designing,
+       developing, demonstrating and testing Application(s) and/or Devices, and to
+       provide thereto related support and other related services to Customers"
+    - "Each Application and/or Device can only include, incorporate or integrate
+       contributions by such Designated Users who are duly licensed for the applicable
+       Development Platform(s) and Deployment Platform(s) (i.e have a valid license
+       for the appropriate Licensed Software product)"
+    - "Above terms shall not be applicable if and to the extent they conflict with any
+       mandatory provisions of any applicable laws"
+    - "Licensee may at any time designate another Designated User to replace a
+       then-current Designated User by notifying The Qt Company in writing, where such
+       replacement is due to termination of employment, change of job duties, long
+       time absence or other such permanent reason affecting Designated User's need
+       for Licensed Software"
+    - "distribute, by itself or through its Contractors, Redistributables as
+       installed, incorporated or integrated into Applications for execution
+       on the Deployment Platforms, and"
+    - "Licensee acknowledges that The Qt Company has separate products of
+       Licensed Software for the purpose of Applications and Devices
+       respectively, where development and distribution of Devices is only
+       allowed using the correct designated product. Licensee shall make sure
+       and bear the burden of proof that Licensee is using a correct product
+       of Licensed Software entitling Licensee to development and distribution
+       of Devices"
+    - "Licensee shall not remove or alter any copyright, trademark or other
+       proprietary rights notice(s) contained in any portion of the Licensed
+       Software"
+
+references:
+  "LGPL":
+    matches:
+      - "\"Open Source Qt\" shall mean Qt Software available under the terms of the GNU
+        Lesser General Public License, version 2.1 or later (\"LGPL\") or the GNU General
+        Public License, version 2.0 or later (\"GPL\")."
+  "GPL":
+    matches:
+      - "\"Open Source Qt\" shall mean Qt Software available under the terms of the GNU
+        Lesser General Public License, version 2.1 or later (\"LGPL\") or the GNU General
+        Public License, version 2.0 or later (\"GPL\")."
+      
+segmentation:
+  revert: [ {
+    match:
+      "3.4. Further Requirements",
+    matchNext:
+      "The licenses granted above in this Section 3 by The Qt Company to Licensee are"
+    }
+  ]

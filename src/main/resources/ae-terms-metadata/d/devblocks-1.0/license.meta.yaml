@@ -1,0 +1,36 @@
+canonicalName: Devblocks Public License 1.0
+category: Devblocks Public License
+shortName: Devblocks-1.0
+
+otherIds:
+  - "scancode:devblocks-1.0"
+
+alternativeNames:
+  - "`DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)"
+
+evidence:
+  matches:
+    - "Subject to the terms of this License, Licensor grants you a non-transferable, non-exclusive, worldwide,
+       royalty-free copyright license to reproduce this software for private use"
+    - "You are permitted to produce and distribute modifications to this software provided that the
+       following conditions are met"
+    - "You must not alter or obliterate any copyright notices found in this software or its source code"
+    - "Your website and documentation must provide a clearly visible link to this software’s official website"
+    - "You must clearly state that your modifications are an unofficial version that is derived from this software"
+    - "You are not permitted to produce or disseminate any technology or modifications to this software or source
+       code which circumvent its digital copyright protection or interfere with the enforcement of per-seat licensing"
+    - "This software must remain compatible with digital software licenses authorized and issued exclusively by Licensor"
+    - "Your modifications must remain publicly available in source code form, and may not be encrypted, obfuscated,
+       or otherwise rendered intentionally human-unreadable"
+    - "Any modifications you make to this software and its source code must continue to be governed by this License"
+    - "Neither the name of Licensor nor the names of its contributors may be used to endorse or promote redistributions
+       of this software without prior written permission from Licensor"
+    - "You are prohibited from charging a fee for redistributing this software without prior written permission from Licensor"
+    - "You are permitted to produce, install, and publicly distribute modifications to this software which operate as “plugins”"
+    - "Third-party plugins do not modify or distribute the source code of this software; instead, plugins introduce new
+       functionality through an Application Programming Interface (API) to utilize services and resources provided by this software"
+    - "You retain the copyright to any plugins you create"
+    - "You are not required to distribute your plugins"
+    - "You may distribute your plugins under any software license"
+    - "You may sell your plugins, or charge a fee for the development of new plugins"
+    - "You agree that Licensor is not liable for the effects of any third-party plugins that you produce or install"

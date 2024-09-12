@@ -1,0 +1,32 @@
+canonicalName: WTF Public License 1.0
+category: WTFPL
+shortName: WTFPL-1.0
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:wtfpl-1.0"
+
+alternativeNames:
+  - "http://cvs.windowmaker.org/co.php/wm/COPYING.WTFPL"
+  - "http://hg.windowmaker.info/wmaker/file/0a3a3e370483/COPYING.WTFPL"
+  - "do What The Fuck you want to Public License"
+  - "Do What The F\\*ck You Want To Public License"
+
+evidence:
+  matches:
+    - "Everyone is permitted to copy and distribute verbatim copies
+       of this license document, but changing it is not allowed"
+    - "Ok, the purpose of this license is simple and you just
+       DO WHAT THE FUCK YOU WANT TO"
+
+grants:
+  Source code delivery OR Binary delivery:
+    action: null
+    matches:
+      - "DO WHAT THE FUCK YOU WANT TO."
+    obligations:
+      Source code delivery OR Binary delivery:
+        matches:
+          - "DO WHAT THE FUCK YOU WANT TO."

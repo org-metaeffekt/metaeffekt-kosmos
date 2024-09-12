@@ -1,0 +1,38 @@
+canonicalName: Commercial Vaadin Developer License 4.0
+category: Commercial Vaadin Developer License
+shortName: vaadin-cvdl-4.0
+
+otherIds:
+  - "scancode:vaadin-cvdl-4.0"
+
+classification: commercial
+
+alternativeNames:
+  - "Commercial Vaadin Developer License 4.0"
+  - "vaadin-cvdl-4.0"
+
+evidence:
+  matches:
+    - "Licensor grants to Licensee, against full payment of the Subscription fee, a worldwide, royalty-free,
+       non-exclusive limited License to Use Licensed Software in Project(s) by a Developer"
+    - "Licensee shall not, unless expressly provided in Agreement or in the applicable legislation"
+    - "rent, lease or loan Licensed Software or any copy of it"
+    - "remove, obliterate, deface or in any way alter the notice of Licensor’s or a third party’s proprietary
+       rights related to Licensed Software"
+    - "grant sub-licenses to Licensed Software or assign its rights or obligations under this Agreement to a third party"
+    - "Licensee may grant licenses, for free or against a payment, to the Project Result including Licensed
+       Software whether regarded as derivative works or not"
+    - "End Users are not required to have a valid License"
+    - "If the Project Result is further developed or modified by changing its source code or the Project Results
+       is used as a software component or framework in a software development project, all Developers who Use Licensed
+       Software in such a context need to have a valid License"
+    - "If the Project Result is a software development tool, component or environment that provides the functionality
+       of the Licensed Software for use in software development projects, all Developers who Use Licensed Software
+       need to have a valid License"
+    - "All Intellectual Property Rights in and to Licensed Software are and shall at all times remain the sole
+       and exclusive property of Licensor and its third party licensors, if any"
+    - "Licensee will not at any time do or cause to be done any such act or thing which in any way impairs, or
+       intends to impair, any right, title, interest or any Intellectual Property Right of Licensor or its
+       third party licensors"
+    - "Licensee shall not in any manner represent that it has any ownership of any kind in any of the above
+       mentioned Intellectual Property Rights"

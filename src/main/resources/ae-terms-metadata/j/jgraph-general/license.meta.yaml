@@ -1,0 +1,38 @@
+canonicalName: JGraph General License
+category: JGraph General License
+shortName: JGraph-General
+
+otherIds:
+  - "scancode:jgraph-general"
+
+alternativeNames:
+  - "jgraph-general"
+
+evidence:
+  matches:
+    - "JGraph Ltd. grants to you as an individual, a personal, nonexclusive license
+       to install and use the Software for the sole purposes of designing, developing,
+       testing, and deploying application programs which you create"
+    - "You may install copies of the Software on computers in a manner consistent with the type of
+       license purchased"
+    - "A Single Developer License may be installed on a computer
+       and be freely moved from one computer to another, providing that you have
+       purchased a number of Single Developer Licenses equivalent to the maximum
+       possible number of developers using that Software concurrently"
+    - "A Site Developer License may be installed on any number of computers and be used by
+       any number of developers at any time at one geographical location"
+    - "A geographical location is defined as a building or site occupied by the
+       employees of one company or organization"
+    - "If you are an entity, JGraph Ltd. grants you the right to designate
+       one individual within your organization ('Named User') to have the right to use
+       the Software in the manner provided above, in the case of the Single Developer License"
+    - "You may write and compile (including byte-code compile) your own application
+       programs using the Software, including any libraries and source code included
+       for such purpose with the Software"
+    - "You may reproduce and distribute, in executable form only, programs which you create using the
+       Software and accompanying Software libraries without additional license or fees, subject to
+       all of the conditions in this License Agreement"
+    - "You may not distribute any program or file which includes, is created from, or
+       otherwise incorporates portions of the Software if such program or file is a
+       general purpose development tool, library, and/or component, or is otherwise
+       generally competitive with or a substitute for any JGraph Ltd. product"

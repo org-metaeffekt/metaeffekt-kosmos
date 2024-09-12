@@ -1,0 +1,26 @@
+canonicalName: Common Lisp Generic LOOP License
+category: Common Lisp Generic LOOP License
+shortName: generic-loop
+
+otherIds:
+  - "scancode:generic-loop"
+
+classification: permissive
+
+alternativeNames:
+  - "Common Lisp Generic LOOP License"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify and distribute this software and its
+       documentation for any purpose and without fee is hereby granted,
+       provided that the copyright notice appear in all copies and
+       that both that copyright notice and this permission notice appear in
+       supporting documentation"
+    - "The name of the author may not be used in advertising or publicity
+       pertaining to distribution of the software without specific, written
+       prior permission"
+    - "Notice must be given in supporting documentation that copying distribution
+       is by permission of the author"
+    - "The author makes no representations about the suitability of
+       this software for any purpose"

@@ -1,0 +1,36 @@
+canonicalName: Microsoft Software License (ASP.NET MVC 4 extensions)
+category: Microsoft Software
+shortName: MS-Software-ASP-NET-MVC-4-extensions
+
+otherIds:
+  - "scancode:ms-asp-net-mvc4-extensions"
+
+canonicalNameHistory:
+  - "Microsoft ASP.NET MVC 4 Extensions License"
+
+alternativeNames:
+  - "Microsoft ASP.NET MVC 4 Extensions License"
+
+evidence:
+  matches:
+    # FIMXE: discuss with YMA; clarify you may not context
+    - "Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly
+       permitted in this agreement"
+    - "you must comply with any technical limitations in the software that only allow you to use it in certain ways"
+    - "reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law
+       expressly permits, despite this limitation"
+    - "make more copies of the software than specified in this agreement or allowed by applicable law, despite this
+       limitation"
+    - "This agreement will automatically expire on August 1, 2013 or the commercial release of the software, whichever comes first"
+    - "Ce logiciel étant distribué au Québec, Canada, certaines des clauses dans ce contrat sont fournies ci-dessous
+       en français"
+    - "Le présent contrat décrit certains droits juridiques"
+    - "Vous pourriez avoir d’autres droits prévus par les lois de votre pays"
+    - "Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne le
+       permettent pas"
+  excludes:
+    - "The software feature described below connects to Microsoft or service provider computer systems over the
+       Internet"
+    - "In some cases, you will not receive a separate notice when they connect"
+    - "the code be disclosed or distributed in source code form"
+    - "If you comply with these license terms, you have the perpetual rights below"

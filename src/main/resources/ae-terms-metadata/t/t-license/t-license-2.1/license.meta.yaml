@@ -1,0 +1,13 @@
+canonicalName: T-License 2.1
+category: T-License
+shortName: T-License-2.1
+
+otherIds:
+  - "scancode:t-license-2.1"
+
+evidence:
+  matches:
+    - "1. This License Agreement sets forth copyrights and the terms and conditions of use applicable to the programs Distributed by TRON Forum and prescribed below"
+    - "The Developer who has created the Derivative Work of the Source Code may decide at its own discretion not to permit the other Developer to perform the acts set forth in paragraphs (1) through (5) of Article 3.3 when the said other Developer uses the said Derivative Work of the Source Code"
+    - "In the case where part of the source program Distributed under the T-License or μT-License (hereinafter called the \"Existing License Agreement\"), which specifies the terms and conditions of use applicable to the Source Code and was made by TRON Forum before commencement of this License Agreement, is included into the modified part of the Derivative Work of the Source Code by the Developer, the said Derivative Work of the Source Code shall be Distributed in accordance with the terms and conditions set forth in this License Agreement"
+    - "Any use of the Source Code or the Derivative Work of the Source Code other than those stipulated in Articles 3 shall be subject to the prior approval of TRON Forum"

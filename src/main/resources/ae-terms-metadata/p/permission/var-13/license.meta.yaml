@@ -1,0 +1,51 @@
+canonicalName: Permission Terms (variant 013)
+category: Permission
+shortName: PT-Var013
+
+otherIds:
+  - "scancode:cmr-no"
+
+status:
+  - "reviewed 04.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+displayName: Permission Terms (no representation; no warranty)
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var013"
+
+evidence:
+  matches:
+  - "Permission to use, copy, modify, distribute and sell this software
+     and its documentation for any purpose is hereby granted without fee,
+     provided that the above copyright notice appear* in all copies and
+     that both that copyright notice and this permission notice appear*
+     in supporting documentation"
+  - "make*{.{0,1}}* no representations about the suitability of this software for any
+     purpose"
+  excludes:
+    - "not be used in advertising or publicity pertaining"
+    - "Permission to use, copy, modify, distribute and sell this software for any purpose is hereby granted without fee"
+    - "Permission to use and/or redistribute this work is granted under the terms of the LGPL License, with the
+       exception that any usage related to military applications is expressly forbidden"
+    - "Dr John Maddock makes no representations about the suitability of this software for any purpose"
+    - "Boris Fomitchev grants Licensee a non-exclusive, non-transferable, royalty- free
+       license to use STLport and its documentation without fee"
+
+
+mappings:
+  "Copyright 1993 by Davor MaticNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without": " LICENSE-SEGMENT-MARKER Copyright 1993 by Davor MaticNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without"
+  "Copyright 1990,91,92,93 by Thomas Roell, Germany.NEWLINE-MARKERCopyright 1991,92,93 by SGCS \\(Snitily Graphics Consulting Services\\), USA.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without": " LICENSE-SEGMENT-MARKER Copyright 1990,91,92,93 by Thomas Roell, Germany.NEWLINE-MARKERCopyright 1991,92,93 by SGCS (Snitily Graphics Consulting Services), USA.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without"
+
+licenseTemplate:
+  "<lq>Permission to use, copy, modify, distribute and sell this software
+   and its documentation for any purpose is hereby granted without fee,
+   provided that the above copyright notice appear in all copies and
+   that both that copyright notice and this permission notice appear
+   in supporting documentation. <p>{{copyrightHolderNoRepresentation}} makes no
+   representations about the suitability of this software for any
+   purpose.</p> It is provided \"as is\" without express or implied warranty.</lq>"

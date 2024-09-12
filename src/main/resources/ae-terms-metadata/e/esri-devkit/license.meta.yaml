@@ -1,0 +1,18 @@
+canonicalName: Esri Developer Kit License
+category: Esri Developer Kit License
+shortName: Esri-DevKit
+
+otherIds:
+  - "scancode:esri-devkit"
+
+alternativeNames:
+  - "esri-devkit"
+
+evidence:
+  matches:
+    - "All rights reserved under the copyright laws of the United States
+       and applicable international laws, treaties, and conventions"
+    - "You may freely redistribute and use this sample code, with or
+       without modification, provided you include the original copyright
+       notice and use restrictions"
+    - "See use restrictions at /arcgis/developerkit/userestrictions"

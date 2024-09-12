@@ -1,0 +1,25 @@
+canonicalName: Microsoft Limited Community License
+category: Microsoft Limited Community License
+shortName: MS-Limited-Community
+
+otherIds:
+  - "scancode:ms-limited-community"
+
+alternativeNames:
+  - "Microsoft Limited Community License"
+  - "Microsoft Limited Community License (Ms-LCL)"
+
+evidence:
+  matches:
+    - "Your rights to reproduce and distribute the software (or any part of the software), or to create and distribute
+       derivative works of the software, are conditioned on your licensing the software or any larger work you create"
+    - "This license does not grant you any rights to use the Licensor's name, logo, or trademarks"
+    - "If you distribute the software in source code form you may do so only under
+       this license (i.e., you must include a complete copy of this license with your
+       distribution), and if you distribute the software solely in compiled or object
+       code form you may only do so under a license that complies with this license"
+    - "If you begin patent litigation against the Licensor over patents that you
+       think may apply to the software (including a cross-claim or counterclaim in a
+       lawsuit), your license to the software ends automatically"
+    - "The licenses granted in sections 2(A) & 2(B) extend only to the software or larger works that you create that
+       run on a Microsoft Windows operating system product"

@@ -1,0 +1,27 @@
+canonicalName: Creative Commons BY 3.0 (IGO)
+category: CC-BY
+spdxIdentifier: CC-BY-3.0-IGO
+
+otherIds:
+  - "scancode:cc-by-3.0-igo"
+
+alternativeNames:
+  - "Creative Commons Attribution 3.0 IGO"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, the Licensor hereby grants You a worldwide, royalty-free, non-exclusive license to exercise the rights in the Work as follows"
+    - "to Reproduce, Distribute and Publicly Perform the Work, to incorporate the Work into one or more Collections, and to Reproduce, Distribute and Publicly Perform the Work as incorporated in the Collections"
+    - "This License lasts for the duration of the term of the copyright in the Work licensed by the Licensor"
+    - "You must include a copy of, or the Uniform Resource Identifier (URI) for, this License with every copy of the Work You Distribute or Publicly Perform"
+    - "For the avoidance of doubt, You may only use the credit required by this Section for the purpose of attribution in the manner set out above and, by exercising Your rights under this License, You may not implicitly or explicitly assert or imply any connection with, sponsorship or endorsement by the Licensor or others designated for attribution, of You or Your use of the Work, without the separate, express prior written permission of the Licensor or such others"
+    - "\"IGO\" means, solely and exclusively for purposes of this License, an organization established by a treaty or other instrument governed by international law and possessing its own international legal personality. Other organizations established to carry out activities across national borders and that accordingly enjoy immunity from legal process are also IGOs for the sole and exclusive purposes of this License. IGOs may include as members, in addition to states, other entities"
+    - "Where the Licensor is an IGO, any and all disputes arising under this License that cannot be settled amicably shall be resolved in accordance with the following procedure"
+  excludes:
+    - "You may not exercise any of the rights granted to You in Section 3 above in any manner that is primarily intended for or directed toward commercial advantage or private monetary compensation"
+    - "\"License Elements\" means the following high-level license attributes as selected by the Licensor and indicated in the title of this License: Attribution, ShareAlike"
+
+

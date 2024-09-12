@@ -1,0 +1,18 @@
+canonicalName:  Open Web Foundation Final Specification Agreement 1.0 (Patent Only)
+category: Open Web Foundation Final Specification Agreement
+shortName: OWFA-1.0-Patent-Only
+
+requiresLicenseText: false
+requiresCopyright: false
+
+otherIds:
+  - "scancode:owfa-1-0-patent-only"
+
+evidence:
+  matches:
+    - "All rights, grants, and promises made by me to you under this Agreement are terminated if you file, maintain, or voluntarily participate in a lawsuit against me or any person or entity asserting that its Permitted Uses infringe any  Granted Claims you would have had the right to enforce had you signed this Agreement, unless that suit was in response to a corresponding suit first brought against you"
+    - "This promise is not an assurance (i) that any of my copyrights or issued patent claims cover an implementation of the Specification or are enforceable or (ii) that an implementation of the Specification would not infringe intellectual property rights of any third party. Notwithstanding the personal nature of my promise, this promise is intended to be binding on any future owner, assignee or exclusive licensee to whom has been given the right to enforce any Granted Claims against third parties"
+    - "In addition to rights granted in 2.1, on behalf of me and my successors in interest and assigns, I agree to grant to you a no charge, royalty free license to my Granted Claims on reasonable and non-discriminatory terms"
+    - "Except as specifically set forth in this Agreement, no other express or implied patent, trademark, copyright, or other property rights are granted under this Agreement, including by implication, waiver, or estoppel"
+  excludes:
+    - "As a condition of the copyright grant, you must include an attribution to the Specification in any derivative work you make based on the Specification"

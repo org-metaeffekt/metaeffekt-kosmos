@@ -1,0 +1,17 @@
+canonicalName: Stu Nicholls License
+category: Stu Nicholls License
+shortName: Stu-Nicholls
+
+otherIds:
+  - "scancode:stu-nicholls"
+
+alternativeNames:
+  - "Stu Nicholls License"
+
+evidence:
+  matches:
+    - "This copyright notice must be kept untouched in the stylesheet at all times"
+    - "The original version of this stylesheet and the associated (x)html is available at
+       http://www.stunicholls.com/menu/pro_drop_2.html"
+    - "This stylesheet and the associated (x)html may be modified in
+       any way to fit your requirements"

@@ -1,0 +1,21 @@
+canonicalName: Monkeys Audio License Agreement
+category: Monkeys Audio License Agreement
+shortName: Monkeys-Audio
+
+otherIds:
+  - "scancode:monkeysaudio"
+
+alternativeNames:
+  - "Monkey's Audio Program License Agreement"
+
+evidence:
+  matches:
+    - "Monkey's Audio is completely free for personal, educational, or commercial use"
+    - "If you do not agree with any of the above terms, you must cease using Monkey's
+       Audio and remove it from your storage device"
+    - "The Monkey's Audio SDK and source code can be freely used to add APE format
+       playback, encoding, or tagging support to any product, free or commercial"
+    - "Monkey's Audio source can be included in GPL and open-source software,
+       although Monkey's Audio itself will not be subjected to external licensing
+       requirements or other viral source restrictions"
+

@@ -1,0 +1,84 @@
+canonicalName: Plexus License
+category: Plexus
+spdxIdentifier: Plexus
+
+canonicalNameHistory:
+  - "Apache Due Credit Variant"
+
+otherIds:
+  - "scancode:classworlds"
+  - "scancode:apache-due-credit"
+
+alternativeNames:
+  - "Plexus License"
+  - "PLEXUS LICENSE"
+  - "PLEXUS License"
+ 
+requiresCopyright: true
+requiresLicenseText: true
+ 
+evidence:
+  matches:
+    - "Redistribution and use of this software and associated documentation (\"Software\"),
+       with or without modification, are permitted provided that the following conditions are met"
+    - "Redistributions of source code must retain copyright statements and notice*"
+    - "Redistributions must also contain a copy of this document"
+    - "Redistributions in binary form must reproduce the above copyright notice,
+       this list of conditions and the following disclaimer in the documentation
+       and/or other materials provided with the distribution"
+    - "The name *{.{0,120}}* must not be used to endorse or promote products
+       derived from this Software without prior written permission of"
+    - "Products derived from this Software may not be called *{.{0,120}}* appear in their names without prior written permission of
+       *{.{0,150}}* trademark*{.{0,1}}* of"
+    - "Due credit should be given to"
+    - "THIS SOFTWARE IS PROVIDED BY *{.{0,120}}* ``AS IS'' AND ANY
+       EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+       WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+    - "IN NO EVENT SHALL *{.{0,120}}* BE LIABLE FOR ANY DIRECT,
+       INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+       BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+       DATA, OR PROFITS; OR BUSINESS INTERRUPTION)"
+    - "HOWEVER CAUSED AND ON ANY THEORY
+       OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+       OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+       ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
+  excludes:
+    - "The name \"DOM4J\" must not be used to endorse or promote"
+    - "Products derived from this Software may not be called OpenLDAP nor may
+       OpenLDAP appear in their names without prior written permission of the OpenLDAP Foundation"
+    - "THIS SOFTWARE IS PROVIDED BY AUTHOR AND CONTRIBUTORS"
+      
+standardVariableSet:
+  copyrightHolderName: "classworlds nor may classworlds"
+  copyrightHolderMail: "bob@codehaus.org"
+  copyrightHolderCredit: "The Codehaus. (http:classworlds.codehaus.org)"
+  copyrightHolderNoLiability: "THE CODEHAUS OR ITS CONTRIBUTORS"
+  copyrightHolderPermission: "The Codehaus"
+  copyrightHolderNoWarranty: "THE CODEHAUS AND CONTRIBUTORS"
+  copyrightHolderNoPromotion: "classworlds"
+  copyrightHolderTrademark: "The Codehaus. classworlds is a registered trademark of The Codehaus"
+      
+licenseTemplate:
+  "<lq>Redistribution and use of this software and associated documentation (\"Software\"),
+   with or without modification, are permitted provided that the following conditions are met:
+   <ol><li>Redistributions of source code must retain copyright statements and notices.
+    Redistributions must also contain a copy of this document.</li>
+    <li>Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.</li> 
+    <li>The name {{copyrightHolderNoPromotion}} must not be used to endorse or promote products
+    derived from this Software without prior written permission of {{copyrightHolderPermission}}.
+    For written permission, please contact {{copyrightHolderMail}}.</li>
+    <li>Products derived from this Software may not be called {{copyrightHolderName}} appear in their names without prior written permission of
+    {{copyrightHolderTrademark}}.</li>
+    <li>Due credit should be given to {{copyrightHolderCredit}}.</li></ol> 
+    <codeph>THIS SOFTWARE IS PROVIDED BY {{copyrightHolderNoWarranty}} ``AS IS'' AND ANY
+    EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+    IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY DIRECT,
+    INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+    BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
+    OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+    OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+    ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></lq>"

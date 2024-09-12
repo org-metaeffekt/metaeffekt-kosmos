@@ -1,0 +1,22 @@
+canonicalName: CeCILL Free Software License Agreement 2.0
+category: CeCILL
+spdxIdentifier: CECILL-2.0
+
+otherIds:
+  - "scancode:cecill-2.0"
+
+alternativeNames:
+  - "CECILL Free Software License Agreement v2.0"
+  - "CeCILL Free Software License Agreement v2.0"
+  - "CECILL-2.0"
+  - "CeCILL FREE SOFTWARE LICENSE AGREEMENT Notice"
+
+references:
+  "GPL":
+    matches:
+      - "Internal Module: means any or all Module, connected to the Software so that
+         they both execute in the same address space.
+
+         GNU GPL: means the GNU General Public License version 2 or any subsequent
+         version, as published by the Free Software Foundation Inc.
+         "

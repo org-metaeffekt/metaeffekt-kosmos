@@ -1,0 +1,16 @@
+canonicalName: Sun EJB Specification 3.0
+category: Sun EJB
+shortName: Sun-EJB-spec-3.0
+
+#both individual IDs lead to the same license text
+otherIds:
+  - "scancode:sun-ejb-spec-3.0"
+  - "scancode:sun-jsr-spec-04-2006"
+
+evidence:
+  matches:
+    - "Sun hereby grants you a fully- paid, non-exclusive, non-transferable, worldwide, limited license"
+    - "Sun also grants you a perpetual, nonexclusive, non-transferable, worldwide, fully paid-up, royalty free, limited license (without the right to sublicense) under any applicable copyrights or, subject to the provisions of subsection 4 below, patent rights it may have covering the Specification to create and/or distribute an Independent Implementation of the Specification that"
+    - "Java, and Java-related logos, marks and names are trademarks or registered trademarks of Sun Microsystems, Inc. in the U.S. and other countries"
+    - "You need not include limitations (a)-(c) from the previous paragraph or any other particular \"pass through\" requirements in any license You grant concerning the use of your Independent Implementation or products derived from it"
+    - "SUN MAKES NO REPRESENTATIONS OR WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT"

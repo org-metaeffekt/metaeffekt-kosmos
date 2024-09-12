@@ -1,0 +1,62 @@
+canonicalName: Permission Terms (Latex2e notice permission)
+category: Permission
+spdxIdentifier: Latex2e-translated-notice
+
+status:
+  - "reviewed 12.11.2021"
+
+#TODO: Review requirements
+requiresCopyright: false
+requiresLicenseText: false
+
+displayName: "Permission Terms"
+representedAs: "Permission Terms"
+
+canonicalNameHistory:
+  - "Permission Terms Var042"
+  - "Permission Terms (variant 042)"
+
+otherIds:
+  - "scancode:latex2e-translated-notice"
+
+alternativeNames:
+  - "PT-Var042"
+  - "Permission Terms (variant 042)"
+  - "Permission Terms Var042"
+  - "Latex2e-translated-notice"
+  - "Latex2e with translated notice permission"
+  - "Permission Terms (Latex2e with translated notice permission)"
+  - "Permission Terms (Latex2e notice permission)"
+
+evidence:
+  matches:
+  - "Permission is granted to make and distribute verbatim copies of this
+     manual provided the copyright notice and this permission notice are
+     preserved on all copies"
+  - "Permission is granted to copy and distribute modified versions of this
+     manual under the conditions for verbatim copying, provided that the
+     entire resulting derived work is distributed under the terms of a
+     permission notice identical to this one"
+  - "Permission is granted to copy and distribute translations of this
+     manual into another language, under the above conditions for modified
+     versions, except that this permission notice may be stated in a
+     translation approved by the Foundation"
+  excludes:
+  - "Permission is granted to process this file through TeX and print the
+     results, provided the printed document carries copying permission
+     notice identical to this one except for the removal of this paragraph
+     (this paragraph not being relevant to the printed manual)"
+
+mappings:
+  "this permission notice pare preserved on all copies": "this permission notice are preserved on all copies"
+  
+##licenseTemplate: "<lq>Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are
+##                  preserved on all copies.
+##                  <p>Permission is granted to copy and distribute modified versions of this
+##                  manual under the conditions for verbatim copying, provided that the
+##                  entire resulting derived work is distributed under the terms of a
+##                  permission notice identical to this one.</p>
+##                  Permission is granted to copy and distribute translations of this
+##                  manual into another language, under the above conditions for modified
+##                  versions, except that this permission notice may be stated in a
+##                  translation approved by the Foundation.</lq>"

@@ -1,0 +1,21 @@
+canonicalName: dvipdfm License
+category: dvipdfm
+spdxIdentifier: dvipdfm
+
+otherIds:
+  - "scancode:dvipdfm"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "dvipdfm License"
+  - "DVIPDFM LICENSE"
+  - "DVIPDFM License"
+
+evidence:
+  matches:
+  - "A modified version of this file may be distributed, but it should be distributed
+     with a *different* name"
+  - "Changed files must be distributed *together with a complete and unchanged* distribution
+     of these files"

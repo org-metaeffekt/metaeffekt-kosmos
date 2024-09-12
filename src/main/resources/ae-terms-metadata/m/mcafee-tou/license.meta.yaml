@@ -1,0 +1,19 @@
+canonicalName: McAfee Software royalty-Free License
+category: McAfee Software royalty-Free License
+shortName: McAfee-royalty-Free
+
+otherIds:
+  - "scancode:mcafee-tou"
+
+alternativeNames:
+  - "mcafee-tou"
+
+evidence:
+  matches:
+    - "Subject to the Restrictions below, McAfee hereby grants to You a royalty-free, non-exclusive,
+       non-transferable right under its copyrights to download, install, run, operate and display
+       the Software on computers and computer systems within your internal environment"
+    - "The Software provided hereunder is designed to operate as an independent, stand-alone process,
+       buy may interact with other McAfee software products that are licensed to You under a subscription model"
+    - "The License Grant herein does not extend, expand, supersede or otherwise grant You rights which are not
+       specifically granted to You in Your subscription licenses for other McAfee software products"

@@ -1,0 +1,27 @@
+canonicalName: IrfanView EULA
+category: IrfanView EULA
+shortName: IrfanView-EULA
+
+otherIds:
+  - "scancode:irfanview-eula"
+
+alternativeNames:
+  - "irfanview-eula"
+
+evidence:
+  matches:
+    - "This is a legal agreement between you and IrfanView Software (Irfan Skiljan) covering your use of IrfanView (the 'Software')"
+    - "IrfanView is provided as freeware, but only for private, non-commercial use (that means at home)"
+    - "IrfanView is free for educational use (schools, universities, museums and libraries) and for use in charity or humanitarian organisations"
+    - "If you intend to use IrfanView at your place of business or for commercial purposes, please register and purchase it"
+    - "Commercial users: please contact me by E-Mail for prices, discounts and payment methods"
+    - "If you buy IrfanView license(s), Irfanview hereby grants to you a perpetual, worldwide, fully paid-up, non-exclusive license to use the Software solely for your internal business purposes"
+    - "IrfanView Software is owned by Irfan Skiljan and is protected by copyright laws
+       and international treaty provisions"
+    - "Therefore, you must treat the Software like any other copyrighted material"
+    - "You may not distribute, rent, sub-license or otherwise make available to others the Software
+       or documentation or copies thereof, except as expressly permitted in this License without prior
+       written consent from IrfanView (Irfan Skiljan)"
+    - "In the case of an authorized transfer, the transferee must agree to be bound by the terms and conditions of this License Agreement"
+    - "You may not remove any proprietary notices, labels, trademarks on the Software or documentation"
+    - "You may not modify, de-compile, disassemble or reverse engineer the Software"

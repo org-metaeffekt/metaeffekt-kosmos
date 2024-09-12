@@ -1,0 +1,36 @@
+canonicalName: Creative Commons BY-NC-SA 2.0 (FR)
+category: CC-BY-NC-SA
+spdxIdentifier: CC-BY-NC-SA-2.0-FR
+
+representedAs: Creative Commons BY-NC-SA 2.0
+
+otherIds:
+  - "scancode:cc-by-nc-sa-2.0-fr"
+
+alternativeNames:
+  - "CC-BY-NC-SA-2.0-FR"
+  - "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "A chaque reproduction ou communication au public par voie numérique de l'Oeuvre ou d'une Oeuvre dite Collective
+       par l'Acceptant, l'Offrant propose au bénéficiaire une offre de mise à disposition de l'Oeuvre dans des termes
+       et conditions identiques à ceux accordés à la partie Acceptante dans le présent Contrat"
+    - "A chaque reproduction ou communication au public par voie numérique d'une Oeuvre dite Dérivée par l'Acceptant,
+       l'Offrant propose au bénéficiaire une offre de mise à disposition du bénéficiaire de l'Oeuvre originale dans des
+       termes et conditions identiques à ceux accordés à la partie Acceptante dans le présent Contrat"
+    - "La nullité ou l'inapplicabilité d'une quelconque disposition de ce Contrat au regard de la loi applicable
+       n'affecte pas celle des autres dispositions qui resteront pleinement valides et applicables"
+    - "Sans action additionnelle par les parties à cet accord, lesdites dispositions devront être interprétées dans
+       la mesure minimum nécessaire à leur validité et leur applicabilité"
+    - "Aucune limite, renonciation ou modification des termes ou dispositions du présent Contrat ne pourra être acceptée
+       sans le consentement écrit et signé de la partie compétente"
+    - "Ce Contrat constitue le seul accord entre les parties à propos de l'Oeuvre mise ici à disposition"
+    - "Il n'existe aucun élément annexe, accord supplémentaire ou mandat portant sur cette Oeuvre en dehors des éléments mentionnés ici"
+    - "L'Offrant ne sera tenu par aucune disposition supplémentaire qui pourrait apparaître dans une quelconque communication en provenance de l'Acceptant"
+    - "Ce Contrat ne peut être modifié sans l'accord mutuel écrit de l'Offrant et de l'Acceptant"
+    - "Le droit applicable est le droit français"

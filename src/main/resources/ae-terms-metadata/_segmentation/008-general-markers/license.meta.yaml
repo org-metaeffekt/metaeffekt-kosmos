@@ -1,0 +1,20 @@
+canonicalName: Segmentation-008
+category: Segmentation
+shortName: Segmentation-008
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "008"
+
+mappings:
+  # create marker for empty lines
+  "NEWLINE-MARKER\\s*NEWLINE-MARKER": "NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER"
+
+  # introduce segments (debian copyright file format aligned)
+  "NEWLINE-MARKER\\s*Files:": "NEWLINE-MARKERFILE-SEGMENT-MARKERFiles:"
+  "NEWLINE-MARKER\\s*For files:": "NEWLINE-MARKERFILE-SEGMENT-MARKERFiles:"
+  "NEWLINE-MARKER\\s*License:": "NEWLINE-MARKERLICENSE-SEGMENT-MARKERLicense:"
+
+  #NOTE: EMPTY-LINE-MARKERS need to be preserved since otherwise later patterns may match greater blocks

@@ -1,0 +1,33 @@
+canonicalName: InfoNode Software License 1.1
+category: InfoNode Software License
+shortName: InfoNode-1.1
+
+otherIds:
+  - "scancode:infonode-1.1"
+
+alternativeNames:
+  - "infonode-1.1"
+  - "InfoNode Software License Version 1.1"
+
+evidence:
+  matches:
+    - "You may copy and distribute the Work together with a product if all persons that have developed any part of the
+       product that uses functionality of the Work directly or indirectly (i.e. uses software that directly or indirectly
+       uses functionality of the Work) have purchased a developer license for the Work"
+    - "For example, if developer A has developed software that uses the Work, and developer B has developed a product
+       part that uses A's software, both A and B need to have purchased a developer license for the Work"
+    - "You are allowed to use an obfuscator like ProGuard (http://proguard.sourceforge.net) to obfuscate the Work
+       together with a product that uses the Work. No support is provided by NNL for the obfuscated result"
+    - "A product that uses the Work may not directly or indirectly expose any functionality of the Work to other
+       components that are not a part of the product, including, but not limited to, other programs, libraries and plug-ins"
+    - "You may not transfer the grants of this license to anyone. The grants apply to you and noone else"
+    - "You may not grant any rights, including distribution rights, for the Work or any part of the Work to anyone"
+    - "You may not alter, split, merge, modify, adapt, decompile, reverse engineer, disassemble or translate the Work or any part of the Work"
+    - "The only exception is obfuscation as described in section 2.2"
+    - "You may not sell, rent or lease the Work or any part of the Work"
+    - "In the event that you fail to comply with this license, NNL may terminate the license and you must destroy all copies of the Work"
+    - "The Work is protected by copyright laws and international copyright treaties, as well as other intellectual
+       property laws and treaties. This license grants you limited use of the Work"
+    - "NNL retain all right, title and interest, including all copyright and intellectual property rights, in and to,
+       the Work and all copies thereof"
+    - "All rights not specifically granted in this license, including Federal and International Copyrights, are reserved by NNL"

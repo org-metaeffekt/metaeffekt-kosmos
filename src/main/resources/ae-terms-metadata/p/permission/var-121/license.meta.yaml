@@ -1,0 +1,24 @@
+canonicalName: Permission Terms (variant 121)
+category: Permission
+shortName: PT-Var121
+
+otherIds:
+  - "scancode:mit-nagy"
+
+canonicalNameHistory:
+  - "MIT Szabolcs Nagy"
+
+alternativeNames:
+  - "mit-nagy"
+
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and/or distribute this code
+       for any purpose with or without fee is hereby granted"
+    - "There is no warranty"
+  excludes:
+    - "Permission is hereby granted for the distribution of this SDD file
+       as part of Linux or other Open Source operating system kernel in text
+       or binary form as required"

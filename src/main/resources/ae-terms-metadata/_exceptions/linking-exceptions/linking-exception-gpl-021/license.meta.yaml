@@ -1,0 +1,24 @@
+canonicalName: Linking Exception (GPL; variant 021)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-021
+
+canonicalNameHistory:
+  - "Server Handler Exception"
+
+type: exception
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 021))
+
+evidence:
+  matches:
+    - "As a special exception, The Free Software Foundation gives
+       permission for additional uses of the text contained in his release
+       of ServerHandler"
+    - "The exception is that, if you link the ServerHandler library with other
+       files to produce an executable, this does not by itself cause the
+       resulting executable to be covered by the GNU General Public License"
+    - "Your use of that executable is in no way restricted on account of
+       linking the ServerHandler library code into it"
+
+

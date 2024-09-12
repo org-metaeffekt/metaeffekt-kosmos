@@ -1,0 +1,19 @@
+canonicalName: MicroType Express License
+category: MicroType Express (MTX) License
+shortName: MTX-Licensing-Statement
+
+otherIds:
+  - "scancode:mtx-licensing-statement"
+
+canonicalNameHistory:
+  - "MicroType Express (MTX) License"
+
+alternativeNames:
+  - "MicroType Express (MTX) License"
+
+evidence:
+  matches:
+    - "Monotype hereby grants to All a worldwide, non-exclusive, nocharge, royalty-free,
+       irrevocable license under the Licensed Patents to make, use for any purpose, sell,
+       and otherwise distribute and provide Licensed Products and Services, said license
+       having a term until the last to expire of the Licensed Patents"

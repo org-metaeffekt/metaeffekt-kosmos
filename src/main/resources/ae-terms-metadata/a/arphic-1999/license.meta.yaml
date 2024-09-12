@@ -1,0 +1,29 @@
+canonicalName: Arphic Public License 1999
+category: Arphic
+spdxIdentifier: Arphic-1999
+
+otherIds:
+  - "scancode:arphic-public"
+
+alternativeNames:
+ - "Arphic Public License"
+ - "ARPHIC PUBLIC LICENSE"
+ - "文鼎公众授权书"
+ - "文鼎公眾授權書"
+ - "Arphic 1999"
+
+evidence:
+  matches:
+  - "You may copy and distribute verbatim copies of this Font in any medium,
+     without restriction, provided that you retain this license file (ARPHICPL.TXT)
+     unaltered in all copies"
+  - "copy or modify the Font as well as redistribute copies of the Font under the
+     same conditions you received, not price"
+  - "These requirements apply to the modified work as a whole"
+  - "If identifiable sections of that work are not derived from the Font, and can
+     be reasonably considered independent and separate works in themselves, then this
+     License and its terms, do not apply to those sections when you distribute them as
+     separate works"
+  - "Therefore, mere aggregation of another work not based on the Font with the Font on
+     a volume of a storage or distribution medium does not bring the other work under the
+     scope of this License"

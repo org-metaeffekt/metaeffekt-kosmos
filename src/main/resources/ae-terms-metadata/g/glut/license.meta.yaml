@@ -1,0 +1,21 @@
+canonicalName: OpenGL Utility Toolkit License
+category: OpenGL Utility Toolkit License
+shortName: GLUT
+
+otherIds:
+  - "scancode:glut"
+
+alternativeNames:
+  - "OpenGL Utility Toolkit (GLUT) License"
+
+evidence:
+  matches:
+    - "This program is freely distributable without licensing fees and is
+       provided without guarantee or warrantee expressed or  implied"
+    - "This program is -not- in the public domain"
+
+references:
+  "Public Domain":
+    matches:
+      - "This program is freely distributable without licensing fees and is provided without guarantee or warrantee expressed or  implied. This program is -not- in the public domain."
+

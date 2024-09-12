@@ -1,0 +1,14 @@
+canonicalName: SIL Open Font License 1.1 (no reserved font name)
+category: OFL
+spdxIdentifier: OFL-1.1-no-RFN
+
+# NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
+
+otherIds:
+  - "osi:OFL-1.1"
+  - "scancode:ofl-1.1-no-rfn"
+
+evidence:
+  matches:
+    - "This Font Software is licensed under the SIL Open Font License, Version 1.1.
+       with no Reserved Font Name for this Font Software"

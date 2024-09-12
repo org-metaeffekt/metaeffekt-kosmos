@@ -1,0 +1,23 @@
+canonicalName: Simple Public License 2.0
+category: SimPL
+spdxIdentifier: SimPL-2.0
+
+otherIds:
+  - "scancode:simpl-2.0"
+  - "osi:SimPL-2.0"
+
+alternativeNames:
+  - "Simple Public License 2.0"
+  - "https://opensource.org/licenses/SimPL-2.0"
+
+evidence:
+  matches:
+    - "The words are different, but the goal is the same - to guarantee for all users the freedom to share and change software"
+    - "View Summary of Simple Public License 2.0 (SimPL) on TLDRLegal » (Disclaimer)"
+
+references:
+  GPL:
+    matches:
+      - "This Simple Public License 2.0 (SimPL-2.0 for short) is a plain language implementation of GPL 2.0"
+      - "If anyone wonders about the meaning of the SimPL, they should interpret it as consistent with GPL 2.0"
+      - "Licensing it to everyone under SimPL, or substantially similar terms (such as GPL 2.0)"

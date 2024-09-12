@@ -1,0 +1,26 @@
+canonicalName: Slint Royalty-free Desktop and Web Applications License 1.0.1
+category: Slint Royalty-free Desktop and Web Applications
+shortName: Slint-Royalty-Free-1.0.1
+
+otherIds:
+  - "scancode:slint-royalty-free-1.0"
+
+alternativeNames:
+  - "Slint Royalty-free Desktop and Web Applications License, version 1.0.1"
+
+evidence:
+  matches:
+    - "SixtyFPS hereby grants You a world-wide, royalty-free, non-exclusive license to use, reproduce, make available, modify, display, perform, distribute the Software as part of a Desktop or Web Application"
+    - "A Desktop Application is a computer program that is designed to run on a general-purpose computer (PC or notebook), typically installed and executed locally on the computer's operating system"
+    - "The license does not permit to distribute or make the Software publicly available alone and without integration into an Application"
+    - "The license does not permit the use of the Software within Embedded Systems"
+    - "You may distribute the Software as part of an Application, modified or unmodified, provided that You do all of the following"
+    - "SixtyFPS is only liable for conflicting rights of third parties if SixtyFPS was aware of these rights without informing you"
+    - "Unless required by applicable law or agreed to in writing, SixtyFPS provides the SOFTWARE on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE"
+
+references:
+  "GPL":
+    matches:
+      - "The license does not permit to distribute or make the Software publicly available alone and without integration into an Application. For this purpose you may use the Software under the GNU General Public License, version 3.
+
+         The license does not permit the use of the Software within Embedded Systems. An Embedded System is a computer system designed to perform a specific task within a larger mechanical or electrical system. For the purposes of this license, mobile phones are not considered to be Embedded Systems."

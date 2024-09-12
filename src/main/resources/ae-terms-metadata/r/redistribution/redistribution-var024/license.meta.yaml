@@ -1,0 +1,42 @@
+canonicalName: Redistribution Terms (variant 024)
+category: RT
+shortName: RT-Var024
+
+canonicalNameHistory:
+  - "BSD-Original-UC-1986 License"
+
+representedAs: "Redistribution Terms"
+
+otherIds:
+  - "scancode:bsd-original-uc-1986"
+
+alternativeNames:
+  - "bsd-original-uc-1986"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary form* are permitted provided that
+       this notice is preserved and that due credit is given to the University of
+       California Berkeley"
+    - "The name of the University may not be used to endorse or
+       promote products derived from this software without specific prior written
+       permission"
+    - "This software is provided 'as is' without express or implied
+       warranty"
+  excludes:
+    - "Redistribution and use in source and binary forms are permitted
+       provided that the above copyright notice and this paragraph are
+       duplicated in all such forms and that any documentation,
+       advertising materials, and other materials related to such
+       distribution and use acknowledge that the software was developed by"
+    - "Redistribution and use in source and binary forms are permitted
+       provided that the above copyright notice and this paragraph are
+       duplicated in all such forms and that any documentation,
+       and other materials related to such distribution and use
+       acknowledge that the software was developed
+       by the University of California, Berkeley"
+    - "Redistributions of source code must retain the above copyright notice, this
+       list of conditions and the following disclaimer"
+
+mappings:
+  "This software is provieded \"as is\" without express or impliedNEWLINE-MARKERwarranty": "This software is provided \"as is\" without express or impliedNEWLINE-MARKERwarranty"

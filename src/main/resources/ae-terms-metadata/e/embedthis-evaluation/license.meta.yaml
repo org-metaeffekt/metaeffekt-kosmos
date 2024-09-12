@@ -1,0 +1,16 @@
+canonicalName: Embedthis Evaluation License
+category: Embedthis Evaluation
+shortName: Embedthis-Evaluation
+
+otherIds:
+  - "scancode:embedthis-evaluation"
+
+canonicalNameHistory:
+  - "EmbedThis Evaluation License"
+
+evidence:
+  matches:
+    - "This is a License Agreement between Embedthis Software LLC. (“Embedthis”) and you, the Licensee"
+    - "“Software” means the Embedthis software including source code, headers, documentation, data files and the Embedthis Builder and Ioto cloud based management service"
+    - "Licensee acknowledges that the copyright, patent, trade secret and all other intellectual property rights in the Software shall remain the exclusive property of Embedthis"
+    - "Embedthis DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, RELATED TO THE Software, ITS USE OR ANY INABILITY TO USE IT, THE RESULTS OF ITS USE AND THIS Agreement"

@@ -1,0 +1,27 @@
+canonicalName: GCoptimization License 3.0
+category: GCO
+shortName: GCO-3.0
+
+otherIds:
+  - "scancode:gco-v3.0"
+
+alternativeNames:
+  - "GCO-v3.0"
+  - "gco-v3.0"
+ 
+evidence:
+  matches:
+    - "This software and its modifications can be used and distributed for
+       research purposes only"
+    - "Publications resulting from use of this code must cite publications
+       according to the rules given above"
+    - "Only Olga Veksler has the right to redistribute this code, unless expressed
+       permission is given otherwise"
+    - "Commercial use of this code, any of its parts, or its modifications is not permited"
+    - "The copyright notices must not be removed in case of any modifications"
+    - "This Licence commences on the date it is electronically or physically delivered
+       to you and continues in effect unless you fail to comply with any of
+       the terms of the License and fail to cure such breach within 30 days
+       of becoming aware of the breach, in which case the Licence automatically terminates"
+    - "This Licence is governed by the laws of Canada and all disputes arising from or relating
+       to this Licence must be brought in Toronto, Ontario"

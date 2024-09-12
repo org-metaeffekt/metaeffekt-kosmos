@@ -1,0 +1,51 @@
+canonicalName: Adobe General Terms of Use
+category: Adobe General Terms of Use
+shortName: Adobe-General-ToU
+
+otherIds:
+  - "scancode:adobe-general-tou"
+
+alternativeNames:
+  - "Adobe General Terms of Use"
+
+evidence:
+  matches:
+    - "If we provide the Software to you as part of your subscription to use the Services,
+       then subject to your compliance with these terms, we grant you a non-exclusive license
+       to install and use the Software: (a) in the Territory, (b) so long as your subscription is valid,
+       and (c) consistent with these terms and related documentation accompanying the Software"
+    - "'Territory' means worldwide, but excludes any U.S. embargoed countries and countries
+       where you are prohibited from using the Software or the Services"
+    - "You may activate the Software on up to 2 devices (or virtual machines) at a time,
+       if these activations are associated with the same Adobe ID for the same individual,
+       unless stated at http://www.adobe.com/go/activation. However,
+       you may not use the Software on these devices simultaneously"
+    - "If you have purchased a Software license based on number of devices
+       (such as if you have purchased Creative Cloud for education), then this Section 4.2 applies:
+       (a) License. Subject to your compliance with these terms and the license scope specified
+       in the documentation accompanying the Software, we grant you a non-exclusive license
+       to install and use the Software: (1) in the Territory, (2) during the term of the license,
+       (3) within the license scope, and (4) consistent with these terms and related documentation
+       accompanying the Software. (b) Distribution from a Server. If permitted in a license document
+       between us and you, you may copy an image of the Software onto a computer file server within
+       your Intranet for the purpose of downloading and installing the Software onto computers within the same Intranet"
+    - "'Intranet' means a private, proprietary computer network you and your authorized employees and
+       contractors can access. Intranet does not include portions of the Internet, network communities
+       open to suppliers, vendors, or service providers, or network communities open to the public
+       (such as membership or subscription-driven groups, associations, and similar organizations)"
+    - "If the Software is provided as part of the Services without restrictions on subscription or
+       number of devices, then subject to your compliance with these terms, we grant you
+       a non-exclusive license to install and use the Software (a) in the Territory,
+       (b) for the purpose of using and accessing of the Services, and (c) consistent with
+       these terms and related documentation accompanying the Software"
+    - "You must ensure that any permitted copy of the Software that you make contains the same copyright
+       and other proprietary notices that appear on or in the Software"
+    - "Unless permitted in these terms, you must not: (1) modify, port, adapt, or translate the Software;
+       (2) reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software;
+       (3) use or offer the Software on a service bureau basis;
+       (4) (i) circumvent technological measures intended to control access to the Software or
+       (ii) develop, distribute, or use with the Software, products that circumvent the technological measures; or
+       (5) rent, lease, sell, sublicense, assign, or transfer your rights in the Software,
+       or authorize any portion of the Software to be copied onto another’s device. If you purchase
+       Creative Cloud for team or Creative Cloud for education (named user),
+       then you may designate seats pursuant to the applicable documentation"

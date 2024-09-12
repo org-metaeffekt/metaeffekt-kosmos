@@ -1,0 +1,28 @@
+canonicalName: NVIDIA SDK EULA
+category: NVIDIA SDK
+shortName: NVIDIA-SDK-EULA
+
+otherIds:
+  - "scancode:nvidia-sdk-eula-v0.11"
+
+alternativeNames:
+  - "NVIDIA SDK EULA"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, NVIDIA hereby grants you a non-exclusive, nontransferable
+       license, without the right to sublicense (except as expressly provided in this
+       Agreement) to"
+    - "Your application must have material additional functionality, beyond the included
+       portions of the SDK"
+    - "The distributable portions of the SDK shall only be accessed by your application"
+    - "The terms under which you distribute your application must be consistent with the
+       terms of this Agreement, including (without limitation) terms relating to the license
+       grant and license restrictions and protection of NVIDIA’s intellectual property
+       rights. Additionally, you agree that you will protect the privacy, security and legal
+       rights of your application users"
+  excludes:
+    - "NVIDIA makes no representation or warranty that the product described in this guide will be suitable for any specified use without further testing or modification"
+    - "conduct business with respect to NVIDIA’s products in a manner that reflects favorably at all times on the good name, goodwill and reputation of such products"
+    - "In this SDK, the folder that contains sample source code is the
+       apps/samples folder"

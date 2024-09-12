@@ -1,0 +1,34 @@
+canonicalName: OpenSSL Linking Exception (GPL; variant 002)
+category: OpenSSL Linking Exception
+shortName: OpenSSL-Linking-Exception-GPL-002
+  
+canonicalNameHistory:
+  - "OpenSSL Exception (GPL)"
+  - "Linking Exception (GPL; variant 024)"
+  - "OpenSSL Exception (gpl)"
+
+otherIds:
+  - "scancode:openssl-exception-gpl-2.0-plus"
+  - "scancode:gpl-2.0-plus-openssl"
+
+type: exception
+
+evidence:
+  matches:
+    - "If you modify this program, you may extend this exception to your version of the program,
+       but you are not obligated to do so"
+    - "You must obey the GNU GPL in all respects for all of the code used other than
+       OpenSSL and unRAR"
+    - "As a special exception to the GNU General Public License terms,
+       permission is hereby granted to link the code of this program, with or
+       without modification, with any version of the OpenSSL library and/or any
+       version of unRAR, and to distribute such linked combinations"
+
+references:
+  "GPL":
+    matches:
+      - "In other words, you may release your derived work under pure
+         GNU GPL version 2 or later as published by the FSF"
+      - "As a special exception to the GNU General Public License terms,
+         permission is hereby granted to link the code of this program, with or
+         without modification"

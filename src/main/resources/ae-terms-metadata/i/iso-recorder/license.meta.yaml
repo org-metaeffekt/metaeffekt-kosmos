@@ -1,0 +1,18 @@
+canonicalName: ISO Recorder License
+category: ISO Recorder License
+shortName: ISO-Recorder
+
+otherIds:
+  - "scancode:iso-recorder"
+
+alternativeNames:
+  - "iso-recorder"
+
+evidence:
+  matches:
+    - "This utility is free for non-commercial (personal) use. Other types of use
+       should be discussed with the author (a very reasonable person) - see the
+       contact information section"
+    - "Author shall not be liable for any damage resulting from the use of this utility"
+  excludes:
+    - "Dont apply any other version of the GNU license to it"

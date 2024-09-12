@@ -1,0 +1,37 @@
+canonicalName: Libtool Exception (GPL)
+category: GPL Libtool Exception
+spdxIdentifier: Libtool-exception
+shortName: Libtool-Exception-GPL
+
+canonicalNameHistory:
+  - "Libtool Exception"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Libtool exception (GPL))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Libtool exception (GPL))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Libtool exception (GPL))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Libtool exception (GPL))
+
+type: exception
+
+otherIds:
+  - "scancode:libtool-exception"
+  - "scancode:libtool-exception-2.0"
+
+alternativeNames:
+  - "libtool-exception"
+
+evidence:
+  matches:
+    - "As a special exception to the GNU General Public License, if you distribute this file as part of a program or
+       library that is built using GNU Libtool, you may include this file under the same distribution terms that you use
+       for the rest of that program"
+  excludes:
+    - "special exception to the GNU Lesser General Public License"
+
+references:
+  "GPL":
+    matches:
+      - "As a special exception to the GNU General Public License, if you
+         distribute this file as part of a program or library that is built using
+         GNU Libtool"

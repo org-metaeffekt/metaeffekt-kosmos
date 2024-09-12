@@ -1,0 +1,34 @@
+canonicalName: NICTA Public Software Licence 1.0
+category: NICTA Public Software Licence
+spdxIdentifier: NICTA-1.0
+
+otherIds:
+  - "scancode:nicta-psl"
+
+alternativeNames:
+  - "NICTA Public Software Licence 1.0"
+  - "NICTA-PSL-1.0"
+  - "NICTA-1.0"
+  - "NICTA Public Software License, Version 1.0"
+
+evidence:
+  matches:
+    - "By this licence, National ICT Australia Ltd (NICTA) grants permission,
+       free of charge, to any person who obtains a copy of this software
+       and any associated documentation files (\"the Software\") to use and
+       deal with the Software in source code and binary forms without
+       restriction, with or without modification, and to permit persons
+       to whom the Software is furnished to do so, provided that the
+       following conditions are met"
+    - "If applicable legislation implies warranties or conditions, or
+       imposes obligations or liability on NICTA in respect of the Software
+       that cannot be wholly or partly excluded, restricted or modified,
+       NICTA's liability is limited, to the full extent permitted by the
+       applicable legislation, at its option, to"
+    - "Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimers"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimers in
+       the documentation and/or other materials provided with the distribution"
+    - "The name of NICTA may not be used to endorse or promote products
+       derived from this Software without specific prior written permission"

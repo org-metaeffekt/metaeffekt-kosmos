@@ -1,0 +1,13 @@
+canonicalName: GNU General Public License 2.0 (with ProGuard Exception (GPL))
+category: GPL+ProGuard
+shortName: GPL-2.0-Proguard-Exception-GPL
+
+type: expression
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with ProGuard Exception (GPL))
+  ProGuard Exception (GPL): GNU General Public License 2.0 (with ProGuard Exception (GPL))
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+displayName: GNU General Public License 2.0 (with ProGuard Exception)

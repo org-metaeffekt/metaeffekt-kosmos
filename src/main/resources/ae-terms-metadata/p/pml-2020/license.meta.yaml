@@ -1,0 +1,24 @@
+canonicalName: Amazon Program Materials License Agreement 2020
+category: Amazon Program Materials License Agreement
+shortName: APML-2020
+
+otherIds:
+  - "scancode:pml-2020"
+
+alternativeNames:
+  - "Amazon Program Materials License Agreement 2020"
+
+evidence:
+  matches:
+    - "You may use the Program Materials only as expressly authorized under this License Agreement,
+       and only through the interfaces and functionality we designate"
+    - "You must comply with all instructions and requirements in any integration documents, guidelines,
+       or other documentation that we provide, including any usage limits or quotas"
+    - "We may terminate this License Agreement or your right to use any or all of the Program Materials at
+       any time without advance notice to you, in which case you must cease all use of the Program Materials,
+       destroy all copies of the Software in your possession or control, and, at Amazon’s direction, return or
+       destroy any Equipment provided to you"
+    - "You may terminate this License Agreement at any time by taking all actions that would be required if
+       we terminated the License Agreement"
+    - "The following provisions of this License Agreement will survive termination: Sections 1-2, 4-8, 10-12,
+       and any other provisions that, by their nature, are intended to survive"

@@ -1,0 +1,20 @@
+canonicalName: LavanTech License
+category: LavanTech License
+shortName: LavanTech
+
+otherIds:
+  - "scancode:lavantech"
+
+alternativeNames:
+  - "http://www.lavantech.com/license.shtml"
+
+evidence:
+  matches:
+    - "In consideration for the license fee paid, and other good and valuable consideration, LavanTech grants
+       to you only, the Licensee, the non-exclusive, world-wide right to use the Software in accordance with
+       the license You purchase"
+    - "If you are using this product for your employer, this agreement also includes your employer"
+    - "Software that is distributed as Trial/Demo may only be used for testing and evaluation purposes by a single Developer"
+    - "The Trial/Demo Software cannot be distributed as part of your software"
+    - "The software license is valid only for 30 days from the time of download or installation"
+    - "The Trial/Demo Software should be destroyed after the Trial period"

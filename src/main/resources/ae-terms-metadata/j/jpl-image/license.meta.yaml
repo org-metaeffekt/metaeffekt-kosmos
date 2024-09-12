@@ -1,0 +1,17 @@
+canonicalName: JPL Image Use Policy
+category: JPL image
+spdxIdentifier: JPL-image
+
+otherIds:
+  - "scancode:jpl-image"
+
+alternativeNames:
+  - "JPL-image"
+  - "JPL Image Use Policy"
+
+evidence:
+  matches:
+    - "Unless otherwise noted, images and video on JPL public web sites (public sites ending with a jpl.nasa.gov address)
+       may be used for any purpose without prior permission, subject to the special cases noted below"
+    - "Publishers who wish to have authorization may print this page and retain it for their records"
+    - "JPL does not issue image permissions on an image by image basis"

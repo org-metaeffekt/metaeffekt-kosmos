@@ -1,0 +1,18 @@
+canonicalName: Common Lisp LOOP License
+category: LOOP
+spdxIdentifier: LOOP
+
+otherIds:
+  - "scancode:loop"
+
+alternativeNames:
+  - "Common Lisp LOOP License"
+
+evidence:
+  matches:
+    - "The names 'M.I.T.' and 'Massachusetts Institute of Technology' may not be used in advertising or publicity
+       pertaining to distribution of the software without specific, written prior permission"
+    - "The name 'Symbolics' may not be used in advertising or publicity pertaining to distribution of the software
+       without specific, written prior permission"
+    - "Notice must be given in supporting documentation that copying distribution is by permission of Symbolics"
+    - "Symbolics makes no representations about the suitability of this software for any purpose"

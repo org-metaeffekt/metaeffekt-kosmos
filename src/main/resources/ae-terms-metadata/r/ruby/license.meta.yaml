@@ -1,0 +1,22 @@
+canonicalName: Ruby License
+category: Ruby
+spdxIdentifier: Ruby
+
+otherIds:
+  - "scancode:ruby"
+
+alternativeNames:
+  - "Ruby License"
+  - "RubyLicense"
+  - "under the Ruby"
+  - "under Ruby"
+
+evidence:
+  matches:
+  - "You may make and give away verbatim copies of the source form of the software
+     without restriction, provided that you duplicate all of the original copyright
+     notices and associated disclaimers"
+  - "You may modify and include the part of the software into any other software
+     (possibly commercial)"
+  - "But some files in the distribution are not written by the author, so that they
+     are not under these terms"

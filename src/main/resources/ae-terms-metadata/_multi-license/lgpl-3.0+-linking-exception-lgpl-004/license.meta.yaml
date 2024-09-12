@@ -1,0 +1,20 @@
+canonicalName: GNU Lesser General Public License 3.0 (or any later version; with Linking exception (LGPL; variant 004))
+category: LGPL+Linking
+shortName: LGPL-3.0+-Linking-Exception-LGPL-004
+
+canonicalNameHistory:
+  - "GNU Lesser General Public License 3.0 (or any later version; with Cygwin Linking exception)"
+
+type: expression
+
+displayName:
+  "GNU Lesser General Public License 3.0 (or any later version; with Linking exception (variant 004))"
+
+otherIds:
+  - "scancode:lgpl-3.0-cygwin"
+
+representedAs: GNU Lesser General Public License 3.0 (or any later version; with exceptions)
+
+combinedWith:
+  "Linking Exception (LGPL; variant 004)": "GNU Lesser General Public License 3.0 (or any later version; with Linking exception (LGPL; variant 004))"
+  "GNU Lesser General Public License 3.0 (or any later version)": "GNU Lesser General Public License 3.0 (or any later version; with Linking exception (LGPL; variant 004))"

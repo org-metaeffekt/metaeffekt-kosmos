@@ -1,0 +1,55 @@
+canonicalName: Permission Terms (Acer)
+category: Permission
+shortName: PT-Acer
+
+# Note: this license is very similar to "ISC License"
+
+otherIds:
+  - "scancode:x11-acer"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+displayName: Permission Terms (no liability; no warranty)
+representedAs: Permission Terms
+
+alternativeNames:
+  - "X11-Style (Acer)"
+
+evidence:
+  matches:
+    - "Copyright *{.{0,15}}* Abilis Systems Sarl"
+    - "Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS"
+    - "IN NO EVENT SHALL THE
+       AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL
+       DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+       PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+       TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+       PERFORMANCE OF THIS SOFTWARE"
+
+# FIXME-CONCEPT: spelling mistake in the license text "TORTUOUS" has been changed to "TORTIOUS" because of a mapping in
+#   a different license. I had to find this out myself by testing word for word because the license did not match,
+#   which was time-consuming. !Viewer for all mappings/masks needed with search feature or a tool/notification which
+#   tells us if/what masks etc. have been applied from which location (file)!
+
+mappingOrder:
+  - "000"
+
+mappings:
+  "TORTUOUS": "TORTIOUS"
+
+licenseTemplate:
+  "<lq>Permission to use, copy, modify, and/or distribute this software for
+   any purpose with or without fee is hereby granted, provided that the
+   above copyright notice and this permission notice appear in all
+   copies.
+
+   <p><codeph>THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL
+    WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED
+    WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE
+    AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL
+    DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+    PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+    TORTUOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+    PERFORMANCE OF THIS SOFTWARE.</codeph></p></lq>"

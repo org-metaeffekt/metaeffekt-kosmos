@@ -1,0 +1,31 @@
+canonicalName: TeX Exception (GPL)
+category: GPL TeX Exception
+shortName: "TeX-Exception-GPL"
+spdxIdentifier: Texinfo-exception
+
+canonicalNameHistory:
+  - "TeX Exception (to GPL 3.0)"
+  - "TeX Exception"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with TeX exception (GPL))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with TeX exception (GPL))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with TeX exception (GPL))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with TeX exception (GPL))
+
+type: exception
+
+otherIds:
+  - "scancode:tex-exception"
+
+alternativeNames:
+  - "TeX Exception (to GPL 3.0)"
+  - "TeX Exception (GPL)"
+  - "Texinfo-exception"
+  - "Texinfo exception"
+
+evidence:
+  matches:
+    - "As a special exception, when this file is read by TeX when processing
+       a Texinfo source document, you may use the result without
+       restriction"

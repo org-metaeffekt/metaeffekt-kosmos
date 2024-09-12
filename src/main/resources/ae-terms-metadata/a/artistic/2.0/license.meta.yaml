@@ -1,0 +1,85 @@
+canonicalName: Artistic License 2.0
+category: Artistic License
+spdxIdentifier: Artistic-2.0
+
+otherIds:
+  - "scancode:artistic-2.0"
+  - "osi:Artistic-2.0"
+
+status:
+  - "reviewed: 25.10.21"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+alternativeNames:
+  - "Artistic, Version 2.0"
+  - "Artistic, 2.0"
+  - "Artistic 2.0"
+  - "Artistic License, Version 2.0"
+  - "Artistic License, 2.0"
+  - "Artistic License 2.0"
+  - "Artistic License (2.0)"
+  - "Artistic-2"
+  - "Artistic-2.0"
+
+evidence:
+  matches:
+    - "Everyone is permitted to copy and distribute verbatim copies of this license
+       document, but changing it is not allowed"
+    - "You are permitted to use the Standard Version and create and use Modified
+       Versions for any purpose without restriction, provided that you do not Distribute
+       the Modified Version"
+    - "You may Distribute verbatim copies of the Source form of the Standard
+       Version of this Package in any medium without restriction, either gratis or
+       for a Distributor Fee, provided that you duplicate all of the original copyright
+       notices and associated disclaimers"
+    - "You may apply any bug fixes, portability changes, and other modifications
+       made available from the Copyright Holder"
+    - "ensure that installation of your Modified Version does not prevent the
+       user installing or running the Standard Version. In addition, the Modified
+       Version must bear a name that is different from the name of the Standard Version"
+    - "make the Modified Version available to the Copyright Holder of the Standard
+       Version, under the Original License, so that the Copyright Holder may include
+       your modifications in the Standard Version"
+  excludes:
+    - "recipients of the item may redistribute it under the same
+       conditions they received it"
+
+
+licenseTemplate: "<lq>Preamble
+                  <p>This license establishes the terms under which a given free software Package
+                  may be copied, modified, distributed, and/or redistributed. The intent is
+                  that the Copyright Holder maintains some artistic control over the development
+                  of that Package while still keeping the Package available as open source and
+                  free software.</p>
+                  <p>You are always permitted to make arrangements wholly outside of this license
+                  directly with the Copyright Holder of a given Package. If the terms of this
+                  license do not permit the full use that you propose to make of the Package,
+                  you should contact the Copyright Holder and seek a different licensing arrangement.</p>
+                  <p>General Provisions</p>
+                  <p>Any use, modification, and distribution of the Standard or Modified Versions
+                  is governed by this Artistic License. By using, modifying or distributing
+                  the Package, you accept this license. Do not use, modify, or distribute the
+                  Package, if you do not accept this license.</p>
+                  <p>If your Modified Version has been derived from a Modified Version made
+                  by someone other than you, you are nevertheless required to ensure that your
+                  Modified Version complies with the requirements of this license.</p>
+                  <p>This license does not grant you the right to use any trademark, service
+                  mark, tradename, or logo of the Copyright Holder.</p>
+                  <p>This license includes the non-exclusive, worldwide, free-of-charge patent
+                  license to make, have made, use, offer to sell, sell, import and otherwise
+                  transfer the Package with respect to any patent claims licensable by the Copyright
+                  Holder that are necessarily infringed by the Package. If you institute patent
+                  litigation (including a cross-claim or counterclaim) against any party alleging
+                  that the Package constitutes direct or contributory patent infringement, then
+                  this Artistic License to you shall terminate on the date that such litigation
+                  is filed.</p>
+                  <codeph>Disclaimer of Warranty:<p/>
+                  THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS \"AS IS\" AND
+                  WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED WARRANTIES OF MERCHANTABILITY,
+                  FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE DISCLAIMED TO THE
+                  EXTENT PERMITTED BY YOUR LOCAL LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER
+                  OR CONTRIBUTOR WILL BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+                  DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF ADVISED
+                  OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></lq>"

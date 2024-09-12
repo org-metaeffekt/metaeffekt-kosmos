@@ -1,0 +1,26 @@
+canonicalName: Tenable Nessus Software License and Subscription Agreement
+category: Tenable Nessus Software License and Subscription Agreement
+shortName: Tenable-Nessus
+
+otherIds:
+  - "scancode:tenable-nessus"
+
+alternativeNames:
+  - "TENABLE NETWORK SECURITY, INC. NESSUS SOFTWARE LICENSE AND SUBSCRIPTION AGREEMENT"
+
+evidence:
+  matches:
+    - "Software License Grant. 'Software' means (i) Nessus 5.x or higher that You download
+       from any authorized Tenable website, including www.nessus.org, or obtain via Tenable
+       authorized CD or any other Tenable authorized method; (ii) the associated user manuals
+       and user documentation, if any, as well as any patches, updates, improvements, additions,
+       enhancements and other modifications or revised versions of Nessus 5.x or higher that
+       may be provided to You by Tenable from time to time that were developed by Tenable; and
+       (iii) any Nessus daemons, command line interfaces, web server, application programming
+       interfaces ('APIs'), and/or any graphical user interfaces You obtain from Tenable that
+       were developed by Tenable"
+    - "Any software that is not marked as copyrighted by Tenable is not Software as defined under
+       this Agreement and is subject to other license terms as described in the documentation"
+    - "For the avoidance of doubt, any components or software licensed as part of an open source
+       license, if any, are not considered 'Software'"
+

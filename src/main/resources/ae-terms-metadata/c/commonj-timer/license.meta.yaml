@@ -1,0 +1,27 @@
+canonicalName: CommonJ Timer and Work Manager License
+category: CommonJ Timer and Work Manager License
+shortName: CommonJ-Timer
+
+otherIds:
+  - "scancode:commonj-timer"
+
+alternativeNames:
+  - "commonj-timer"
+
+evidence:
+  matches:
+    - "The Timer and Work Manager for Application Servers Specification is being provided
+       by the copyright holders under the following license"
+    - "By using and/or copying this work, you agree that you have read, understood and will comply
+       with the following terms and conditions"
+    - "Permission to copy and display the Timer and Work Manager for Application Servers
+       Specification and/or portions thereof, without modification, in any medium without fee or
+       royalty is hereby granted, provided that you include the following on ALL copies of the
+       Timer and Work Manager for Application Servers Specification, or portions thereof, that
+       you make"
+    - "A link or URL to the Timer and Work Manager for Application Servers Specification at
+       this location: http://dev2dev.bea.com/technologies/commonj/index.jsp
+       or at this location:
+       http://www.ibm.com/developerworks/library/j-commonj-sdowmt/"
+    - "The full text of this copyright notice as shown in the Timer and Work Manager for
+       Application Servers Specification"

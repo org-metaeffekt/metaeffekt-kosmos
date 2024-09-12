@@ -1,0 +1,60 @@
+canonicalName: Segmentation-014
+category: Segmentation
+shortName: Segmentation-014
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "014"
+
+mappings:
+  # specific license segment markers
+  "(\\* BSD_3Clause)": "LICENSE-SEGMENT-MARKER$1"
+  "(\\* X License)": "LICENSE-SEGMENT-MARKER$1"
+  "(\\#\\+end_quote)": "LICENSE-SEGMENT-MARKER$1"
+  "(The documentation is licensed under )": "LICENSE-SEGMENT-MARKER$1"
+
+  "NEWLINE-MARKER \\*\\*\\*\\*\\* NEW LIBC LICENCE\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*v*\\*\\*": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Red Hat Incorporated": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) University of California, Berkeley": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) David M. Gay \\(AT&T 1991, Lucent 1998\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Advanced Micro Devices": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Sun Microsystems": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Hewlett Packard": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Hans-Peter Nilsson": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Stephane Carrez \\(m68hc11-elf/m68hc12-elf targets only\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Christopher G. Demetriou": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) SuperH, Inc.": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Royal Institute of Technology": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Alexey Zelkin": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Andrey A. Chernov": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) FreeBSD": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) S. L. Moshier": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Citrus Project": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Todd C. Miller": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) DJ Delorie \\(i386\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Free Software Foundation LGPL License \\(\\*-linux\\* targets only\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Xavier Leroy LGPL License \\(i\\[3456]86-\\*-linux\\* targets only\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Intel \\(i960\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Hewlett-Packard \\(hppa targets only\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Henry Spencer \\(only \\*-linux targets\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Mike Barcroft": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Konstantin Chuguev \\(--enable-newlib-iconv\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Artem Bityuckiy \\(--enable-newlib-iconv\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) IBM, Sony, Toshiba \\(only spu-\\* targets\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - Alex Tatmanjants \\(targets using libc/posix\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - M. Warner Losh \\(targets using libc/posix\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - Andrey A. Chernov \\(targets using libc/posix\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - Daniel Eischen \\(targets using libc/posix\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - Jon Beniston \\(only lm32-\\* targets\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - ARM Ltd \\(arm and thumb variant targets only\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - Xilinx, Inc. \\(microblaze-\\* and powerpc-\\* targets\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Texas Instruments Incorporated \\(tic6x-\\*, \\*-tirtos targets\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) National Semiconductor \\(cr16-\\* and crx-\\* targets\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - Adapteva, Inc. \\(epiphany-\\* targets\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) - Altera Corportion \\(nios2-\\* targets\\)": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Ed Schouten - Free BSD": "LICENSE-SEGMENT-MARKER"
+  # "NEWLINE-MARKER \\([0-9]{1,}\\) Red Hat Incorporated": "LICENSE-SEGMENT-MARKER" seems to be duplicate from MatchPreprocessor
+  # "NEWLINE-MARKER \\([0-9]{1,}\\) Artem Bityuckiy \\(--enable-newlib-iconv\\)": "LICENSE-SEGMENT-MARKER" seems to be duplicate from MatchPreprocessor
+  "NEWLINE-MARKER \\([0-9]{1,}\\) Artem Bityuckiy": "LICENSE-SEGMENT-MARKER"

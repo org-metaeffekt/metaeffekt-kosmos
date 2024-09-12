@@ -1,0 +1,18 @@
+canonicalName: mpi Permissive License
+category: mpi Permissive License
+spdxIdentifier: mpi-permissive
+
+otherIds:
+  - "scancode:mpi-permissive"
+
+alternativeNames:
+  - "mpi-permissive"
+  - "mpi Permissive License"
+
+evidence:
+  matches:
+    - "Neither Etnus, nor any of their employees, makes any warranty
+       express or implied, or assumes any legal liability or
+       responsibility for the accuracy, completeness, or usefulness of any
+       information, apparatus, product, or process disclosed, or
+       represents that its use would not infringe privately owned rights"

@@ -1,0 +1,33 @@
+canonicalName: Sun Industry Standards Source License 1.0
+category: Sun Industry Standards Source License
+shortName: Sun-SISSL-1.0
+
+otherIds:
+  - "scancode:sun-sissl-1.0"
+
+alternativeNames:
+  - "Sun Industry Standards Source License 1.0"
+
+evidence:
+  matches:
+    - "Application of License.  The Source Code version of
+       Original Code may be distributed only under the terms of
+       this License or a future version of this License released
+       under Section 6.1, and You must include a copy of this
+       License with every copy of the Source Code You distribute"
+    - "You may not offer or impose any terms on any Source Code
+       version that alters or restricts the applicable version of
+       this License or the recipient's rights hereunder"
+    - "Your license for shipment of the Contributor Version is
+       conditioned upon your full compliance with this Section"
+    - "The Modifications which you create must comply with all
+       requirements set out by the Standards body in effect 120
+       days before You ship the Contributor Version"
+    - "In the event that the Modifications do not meet such requirements,
+       You agree to publish (i) any deviation from the Standards
+       protocol resulting from implementation of your Modifications
+       and (ii) a reference implementation of Your Modifications,
+       and to make any such deviation and reference implementation
+       available to all third parties under the same terms as the
+       license on a royalty free basis within thirty (30) days of
+       Your first customer shipment of Your Modifications"

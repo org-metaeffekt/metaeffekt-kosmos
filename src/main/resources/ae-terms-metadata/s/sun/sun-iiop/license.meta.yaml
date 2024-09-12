@@ -1,0 +1,20 @@
+canonicalName: Sun IIOP License
+category: Sun IIOP License
+shortName: Sun-IIOP
+
+otherIds:
+  - "scancode:sun-iiop"
+
+alternativeNames:
+  - "Sun IIOP License"
+
+evidence:
+  matches:
+    - "You may copy, modify, distribute, or sublicense the LICENSED PRODUCT without charge as part
+       of a product or software program developed by you, so long as you preserve the functionality
+       of interoperating with the Object Management Group's 'Internet Inter-ORB Protocol' version one"
+    - "However, any uses other than the foregoing uses shall require the express written consent of Sun Microsystems, Inc"
+    - "The names of Sun Microsystems, Inc. and any of its subsidiaries or affiliates may not be used in advertising
+       or publicity pertaining to distribution of the LICENSED PRODUCT as permitted herein"
+    - "This license is effective until terminated by Sun for failure to comply with this license"
+    - "Upon termination, you shall destroy or return all code and documentation for the LICENSED PRODUCT"

@@ -1,0 +1,37 @@
+canonicalName: Creative Commons BY-NC-ND 2.0 (AU)
+category: CC-BY-NC-ND
+shortName: CC-BY-NC-ND-2.0-AU
+
+representedAs: Creative Commons BY-NC-ND 2.0
+
+otherIds:
+  - "scancode:cc-by-nc-nd-2.0-au"
+
+alternativeNames:
+  - "Creative Commons BY-NC-ND 2.0 (Australia)"
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "give the Original Author credit"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Licence, Licensor hereby
+       grants You a worldwide, royalty-free, non-exclusive, perpetual (for the
+       duration of the applicable copyright) licence to exercise the rights in
+       the Work as stated below"
+    - "to reproduce the Work, to incorporate the Work into one or more
+       Collective Works, and to reproduce the Work as incorporated in the
+       Collective Works"
+    - "to publish, communicate to the public, distribute copies or records of,
+       exhibit or display publicly, perform publicly and perform publicly by
+       means of a digital audio transmission the Work including as incorporated
+       in Collective Works"
+    - "The above rights may be exercised in all media and formats whether now
+       known or hereafter devised. The above rights include the right to make
+       such modifications as are technically necessary to exercise the rights
+       in other media and formats. All rights not expressly granted by Licensor
+       under this Licence are hereby reserved, including but not limited to the
+       rights set forth in Sections 4(d) and 4(e)"

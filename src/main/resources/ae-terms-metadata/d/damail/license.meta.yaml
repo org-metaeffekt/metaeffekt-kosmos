@@ -1,0 +1,18 @@
+canonicalName: Don't Ask Me About It License
+category: Don't Ask Me About It License
+shortName: DAMAIL
+
+otherIds:
+  - "scancode:damail"
+
+alternativeNames:
+  - "damail license"
+
+evidence:
+  matches:
+    - "Copying and distribution of this file, with or without modification, are
+       permitted in any medium provided you do not contact the author about the file or
+       any problems you are having with the file"
+    - "Add a copyright notice to whatever you want to license and then copy the license
+       text verbatim"
+    - "Don't bother emailing me about it"

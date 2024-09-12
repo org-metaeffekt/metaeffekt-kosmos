@@ -1,0 +1,25 @@
+canonicalName: Permission Terms (Fuzzy Bitmap)
+category: Permission
+spdxIdentifier: FBM
+
+otherIds:
+  - "scancode:fbm"
+
+alternativeNames:
+  - "Fuzzy Bitmap License"
+
+classification: permissive
+
+representedAs: "Permission Terms"
+
+canonicalNameHistory:
+  - "Permission Terms (variant 126)"
+
+evidence:
+  matches:
+    - "Portions of this code Copyright (C) 1989 by Michael Mauldin"
+    - "Permission is granted to use this file in whole or in
+       part for any purpose, educational, recreational or commercial,
+       provided that this copyright notice is retained unchanged"
+    - "This software is available to all free of charge by anonymous
+       FTP and in the UUNET archives"

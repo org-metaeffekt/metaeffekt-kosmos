@@ -1,0 +1,15 @@
+canonicalName: GNU General Public License 3.0 (with Bash exception (GPL))
+category: GPL+Bash
+shortName: GPL-3.0-Bash-Exception-GPL
+
+type: expression
+
+spdxExpression: "[GNU General Public License 3.0] WITH [Bash Exception (GPL)]"
+
+displayName: "GNU General Public License 3.0 (with Bash exception)"
+
+representedAs: GNU General Public License 3.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Bash exception (GPL))
+  "Bash Exception (GPL)": GNU General Public License 3.0 (with Bash exception (GPL))

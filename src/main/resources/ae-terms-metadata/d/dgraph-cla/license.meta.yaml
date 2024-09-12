@@ -1,0 +1,54 @@
+canonicalName: Dgraph Community License Agreement
+category: Dgraph Community
+shortName: DGraph-CLA
+
+otherIds:
+  - "scancode:dgraph-cla"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement,
+       Licensor hereby grants to You a worldwide, non-exclusive,
+       non-transferable limited license to reproduce, prepare Enterprise
+       Derivative Works (as defined below) of, publicly display, publicly
+       perform, sublicense, and distribute Dgraph Enterprise Edition
+       for Your business purposes, for so long as You are not in violation
+       of this Section 2(b) and are current on all payments required by
+       Section 4 below"
+    - "Subject to the terms of this Agreement,
+       Licensor hereby grants to You a worldwide, non-exclusive,
+       non-transferable limited patent license to make, have made, use,
+       offer to sell, sell, import, and otherwise transfer Dgraph
+       Enterprise Edition, where such license applies only to those patent
+       claims licensable by Licensor that are necessarily infringed by
+       their Contribution(s) alone or by combination of their
+       Contribution(s) with the Work to which such Contribution(s) was
+       submitted"
+    - "From time to time Dgraph Labs may
+       use, or provide You access to, Third Party Works in connection
+       Dgraph Enterprise Edition"
+    - "From time to time, in its sole discretion, Dgraph Labs may
+      offer professional services or support for Dgraph, which may now or in
+      the future be subject to additional fees"
+    - "Dgraph
+       Enterprise Edition will materially perform in accordance with the
+       applicable documentation for ninety (90) days after initial delivery to
+       You"
+
+references:
+  "Apache License":
+    matches:
+    - "(a) License to Dgraph Core.  The License for Dgraph
+       Core is the Apache License, Version 2.0 (\"Apache License\").
+      The Apache License includes a grant of patent license, as well as
+      redistribution rights that are contingent on several requirements.
+      Please see
+        
+        http://www.apache.org/licenses/LICENSE-2.0"
+    - "https://cla-assistant.io/dgraph-io/dgraph
+
+      (which is based off of the Apache License), without any additional terms or
+      conditions, payments of royalties or otherwise to Your benefit"

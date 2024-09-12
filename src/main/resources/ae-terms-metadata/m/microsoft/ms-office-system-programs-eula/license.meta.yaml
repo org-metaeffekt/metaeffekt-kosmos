@@ -1,0 +1,25 @@
+canonicalName: Microsoft Supplemental EULA (Office System Programs)
+category: Microsoft Office System Programs Software EULA
+shortName: MS-Office-System-Programs-EULA
+
+otherIds:
+  - "scancode:ms-office-system-programs-eula"
+
+canonicalNameHistory:
+  - "Microsoft Office System Programs Software EULA"
+
+alternativeNames:
+  - "Microsoft Office System Programs Software EULA"
+
+evidence:
+  matches:
+    - "The accompanying Microsoft software includes computer software and may include associated media,
+       printed materials, online or electronic documentation, and Internet-based services (collectively,
+       the 'Components')"
+    - "The Components are provided to update, supplement, or replace existing functionality of the Microsoft
+       Software named above which you previously licensed (the 'Software')"
+    - "Your use of the Components is subject to the terms and conditions of this Supplemental EULA and,
+       as set forth below, the end user license agreement (either from Microsoft or some other entity)
+       under which you have previously licensed the Software (the 'Software EULA')"
+    - "IF YOU DO NOT HAVE A VALIDLY LICENSED COPY OF THE SOFTWARE, YOU ARE NOT AUTHORIZED TO INSTALL,
+       COPY OR OTHERWISE USE THE COMPONENTS AND YOU HAVE NO RIGHTS UNDER THIS SUPPLEMENTAL EULA"

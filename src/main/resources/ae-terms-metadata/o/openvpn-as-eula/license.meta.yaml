@@ -1,0 +1,21 @@
+canonicalName: OpenVPN Access Server EULA
+category: OpenVPN Access Server EULA
+shortName: OpenVPN-AS-EULA
+
+otherIds:
+  - "scancode:openvpn-as-eula"
+
+alternativeNames:
+  - "openvpn-as-eula"
+
+evidence:
+  matches:
+    - "Redistribution of OpenVPN Access Server binary forms and related documents,
+       are permitted provided that redistributions of OpenVPN Access Server binary
+       forms and related documents reproduce the above copyright notice as well as a
+       complete copy of this EULA"
+    - "You agree not to reverse engineer, decompile, disassemble, modify, translate,
+       make any attempt to discover the source code of this software, or create
+       derivative works from this software"
+    - "The OpenVPN Access Server is bundled with other open source software
+       components, some of which fall under different licenses"

@@ -1,0 +1,22 @@
+canonicalName: Broadcom Warranty Disclaimer
+category: Broadcom Warranty Disclaimer
+shortName: Broadcom-Linux-Timer
+
+otherIds:
+  - "scancode:broadcom-linux-timer"
+
+alternativeNames:
+  - "broadcom-linux-timer"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "THIS SOFTWARE IS OFFERED 'AS IS', AND BROADCOM GRANTS NO WARRANTIES OF
+       ANY KIND, EXPRESS OR IMPLIED, BY STATUTE, COMMUNICATION OR OTHERWISE"
+    - "BROADCOM SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTIES OF
+       MERCHANTABILITY, FITNESS FOR A SPECIFIC PURPOSE OR NONINFRINGEMENT
+       CONCERNING THIS SOFTWARE"
+    - "Low resolution timer interface linux specific implementation"
+

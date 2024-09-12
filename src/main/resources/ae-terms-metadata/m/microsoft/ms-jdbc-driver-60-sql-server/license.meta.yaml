@@ -1,0 +1,22 @@
+canonicalName: Microsoft Software License (JDBC Driver 6.0 for SQL Server)
+category: Microsoft Software
+shortName: MS-Software-JDBC-Driver-60-SQL-Server
+
+otherIds:
+  - "scancode:ms-jdbc-driver-60-sql-server"
+
+canonicalNameHistory:
+  - "Microsoft JDBC Driver 6.0 for SQL Server"
+
+alternativeNames:
+  - "Microsoft JDBC Driver 6.0 for SQL Server"
+  - "MICROSOFT JDBC DRIVER 6.0 FOR SQL SERVER"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices"
+    - "The software may include third party programs that Microsoft,
+       not the third party, licenses to you under this agreement"
+    - "Notices, if any, for the third party program are included for your information only"
+  excludes:
+    - "MICROSOFT JDBC DRIVER 4.1 FOR SQL SERVER"

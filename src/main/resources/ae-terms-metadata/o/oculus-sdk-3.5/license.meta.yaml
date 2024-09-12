@@ -1,0 +1,24 @@
+canonicalName: Oculus SDK License 3.5
+category: Oculus SDK
+shortName: Oculus-SDK-3.5
+
+otherIds:
+  - "scancode:oculus-sdk-3.5"
+
+alternativeNames:
+  - "Oculus SDK License 3.5"
+
+evidence:
+  matches:
+    - "You may sublicense and redistribute the source, binary, or object code of the Oculus SDK in whole for no
+       charge or as part of a for-charge piece of Developer Content; provided, however, you may only license,
+       sublicense or redistribute the source, binary or object code of the Oculus SDK in its entirety"
+    - "You must include with all such redistributed or sublicensed Oculus SDK code the following copyright notice"
+    - "You must give any other recipients of the Oculus SDK a copy of this License as such recipients, licensees or
+       sublicensees may only use the Oculus SDK subject to the terms of this License and such recipient's,
+       licensee's or sublicensee's agreement to and acceptance of this License with Oculus"
+
+references:
+  "Public Domain":
+    matches:
+      - "The parties undertake to keep confidential all awards in their arbitration, together with all materials in the proceedings created for the purpose of the arbitration and all other documents produced by another party in the proceedings not otherwise in the public domain, save and to the extent that disclosure may be required of a party by legal duty"

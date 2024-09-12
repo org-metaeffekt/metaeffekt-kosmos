@@ -1,0 +1,26 @@
+canonicalName: GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 2.0 (or any later version)
+category: LGPL+GPL
+shortName: LGPL-3.0+-OR-GPL-2.0+
+
+type: expression
+
+alternativeNames:
+  - "you can redistribute it and/or modify it under the terms of either:
+     the GNU Lesser General Public License as published by the Free
+     Software Foundation; either version 3 of the License, or (at your
+     option) any later version.
+     or
+     the GNU General Public License as published by the Free Software Foundation;
+     either version 2 of the License, or (at your option) any later version"
+  - "LGPL-3+ or GPL-2+"
+  - "GPL-2+ or LGPL-3+"
+  - "under the terms of either the GNU Lesser General Public License as published by the Free Software Foundation;
+     either version 3 of the License, or (at your option) any later version or the GNU General Public License as
+     published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version"
+  - "is dual-licensed under LGPLv3+|GPLv2+"
+  - "either the GNU General Public License version 2.0 or later (see the file COPYINGv2) or the GNU Lesser
+     General Public License version 3.0 or later (see the file COPYING.LESSERv3), or both in parallel as here"
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": "GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 2.0 (or any later version)"
+  "GNU General Public License 2.0 (or any later version)": "GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 2.0 (or any later version)"

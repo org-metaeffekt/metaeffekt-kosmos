@@ -1,0 +1,14 @@
+canonicalName: Cygwin Exception (GPL 3.0+; with Linking Exception (GPL; variant 009))
+category: Cygwin+Linking
+shortName: Cygwin-Linking-Exception-009
+
+type: expression
+
+canonicalNameHistory:
+  - "Cygwin Exception (GPL 3.0+;with Linking Exception (GPL; variant 009))"
+
+combinedWith:
+  Cygwin Exception (GPL 3.0+): Cygwin Exception (GPL 3.0+; with Linking Exception (GPL; variant 009))
+  Linking Exception (GPL; variant 009): Cygwin Exception (GPL 3.0+; with Linking Exception (GPL; variant 009))
+
+displayName: Cygwin Exception (GPL 3.0+;with Linking Exception (variant 009))

@@ -1,0 +1,26 @@
+canonicalName: Canonical Individual Contributor License Agreement (variant 1.2)
+category: Canonical Individual Contributor License Agreement
+shortName: canonical-ha-cla-any-i-1.2
+
+otherIds:
+  - "scancode:canonical-ha-cla-any-i-v1.2"
+
+classification: CLA
+
+canonicalNameHistory:
+  - "Canonical Individual Contributor License Agreement v1.2"
+
+alternativeNames:
+  - "Canonical Individual Contributor License Agreement v1.2"
+  - "Canonical Individual Contributor License Agreement (variant 1.2)"
+  - "canonical-ha-cla-any-i-1.2"
+
+evidence:
+  matches:
+    - "“You” means the individual who Submits a Contribution to Us"
+    - "For patent claims including, without limitation, method, process, and apparatus claims which You own"
+    - "The grant of rights under Section 2 does not violate any grant of rights which You have made to third
+       parties, including Your employer"
+    - "If You are an employee, You have had Your employer approve this Agreement or sign the Entity version
+       of this document"
+    - "If You are less than eighteen years old, please have Your parents or guardian sign the Agreement"

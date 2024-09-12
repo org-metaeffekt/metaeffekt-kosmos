@@ -1,0 +1,28 @@
+canonicalName: Frameworx License 1.0
+category: Frameworx
+spdxIdentifier: Frameworx-1.0
+
+otherIds:
+  - "scancode:frameworx-1.0"
+  - "osi:Frameworx-1.0"
+
+alternativeNames:
+  - "Frameworx, Version 1.0"
+  - "Frameworx, 1.0"
+  - "Frameworx 1.0"
+  - "Frameworx License, Version 1.0"
+  - "Frameworx License, 1.0"
+  - "Frameworx License 1.0"
+  - "THE FRAMEWORX OPEN LICENSE 1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions hereof, The Frameworx Company hereby grants
+       You a non-exclusive license (the License), subject to third party intellectual property
+       claims, and for no fee other than a nominal charge reflecting the costs of physical distribution, to"
+    - "use the Frameworx Code Base, in either Source Code or machine-readable form"
+    - "make modifications, additions and deletions to the content or structure of the Frameworx Code Base; or"
+    - "create larger works or derivative works including the Frameworx Code Base
+       or any portion or element thereof; and"
+    - "release, distribute or make available, either generally or to any specific
+       third-party, any of the foregoing in Source Code or binary form"

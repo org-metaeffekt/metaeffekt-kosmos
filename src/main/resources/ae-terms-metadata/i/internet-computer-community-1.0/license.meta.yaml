@@ -1,0 +1,60 @@
+canonicalName: Internet Computer Community Source License 1.0
+category: Internet Computer
+shortName: Internet-Computer-Community-1.0
+
+otherIds:
+  - "scancode:ic-1.0"
+
+alternativeNames:
+  - "INTERNET COMPUTER COMMUNITY SOURCE LICENSE VERSION 1.0"
+
+evidence:
+  matches:
+    - "If you do not accept the license, do not use the software"
+    - "Copyright Grant - Subject to the terms of this license, including the
+          license conditions and limitations in Section 3, each contributor grants you
+          a non-exclusive, worldwide, royalty-free copyright license to reproduce its
+          contribution, prepare derivative works of its contribution, and distribute
+          its contribution or any derivative works that you create"
+    - "Patent Grant - Subject to the terms of this license, including the
+          license conditions and limitations in Section 3, each contributor grants you
+          a non-exclusive, worldwide, royalty-free license under its licensed patents
+          to make, have made, use, sell, offer for sale, import, and/or otherwise
+          dispose of its contribution in the software or derivative works of the
+          contribution in the software"
+    - "If you distribute any portion of the software, you must retain all
+          copyright, patent, trademark, and attribution notices that are present in the
+          software"
+    - "If you have modified the Software or created derivative works, and
+          distribute such modifications or derivative works, you will cause the
+          modified files to carry prominent notices so that recipients know that they
+          are not receiving the original software"
+    - "DFINITY WILL NOT BE LIABLE FOR ANY DAMAGES RELATED TO THE SOFTWARE OR
+          THIS LICENSE, INCLUDING DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR
+          INCIDENTAL DAMAGES, TO THE MAXIMUM EXTENT THE LAW PERMITS, NO MATTER WHAT
+          LEGAL THEORY IT IS BASED ON (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR
+          DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR
+          A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF YOU OR
+          OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"
+  excludes:
+    - "“Internet Computer Shared Community Source License” is a trademark of the DFINITY Foundation"
+
+references:
+  "Apache License":
+    matches:
+      - "A more permissive license shall include in particular
+           the Apache License Version 2.0 (or future versions thereof) and the MIT
+           License. The decision on such a distribution under a more permissive license
+           is at the sole discretion of the Foundation
+
+           (K) The Foundation reserves all rights not expressly granted to you in this
+           license"
+  "MIT":
+    matches:
+      - "A more permissive license shall include in particular
+            the Apache License Version 2.0 (or future versions thereof) and the MIT
+            License. The decision on such a distribution under a more permissive license
+            is at the sole discretion of the Foundation
+
+            (K) The Foundation reserves all rights not expressly granted to you in this
+            license"

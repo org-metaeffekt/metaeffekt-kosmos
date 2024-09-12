@@ -1,0 +1,25 @@
+canonicalName: Microsoft Windows SDK (for Windows 10 and .NET Framework 6)
+category: Microsoft Windows SDK
+shortName: MS-Windows-SDK-Win10-NET-6
+
+otherIds:
+  - "scancode:ms-windows-sdk-win10-net-6"
+
+alternativeNames:
+  - "MICROSOFT WINDOWS SOFTWARE DEVELOPMENT KIT (SDK) FOR WINDOWS 10"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices to design, develop and test your programs that run on a Microsoft operating system"
+    - "Further, you may install, use and/or deploy via a network management system or as part of a desktop image, any number of copies of the software on computer devices within your internal corporate network to design, develop and test your programs that run on a Microsoft operating system"
+    - "Depending on the specific edition of the software, the number of Utility files you receive with the software may not be equal to the number of Utilities listed in the Utilities List"
+    - "You may install and use any number of copies of the software onto your build machines or servers, solely for the purpose of"
+    - "The software may include third party code that Microsoft, not the third party, licenses to you under this agreement"
+    - "You may copy and distribute the object code form of code listed in REDIST.TXT files plus the files listed on the REDIST.TXT list located at"
+    - "Add significant primary functionality to it in your programs"
+    - "Use Microsoft’s trademarks in your programs’ names or in a way that suggests your programs come from or are endorsed by Microsoft"
+    - "If you intend to make your program available in the Windows Store, the program must comply with the Certification Requirements as defined and described in the App Developer Agreement, currently available at"
+    - "THIS PRODUCT IS LICENSED UNDER THE AVC AND THE VC-1 PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) AND/OR (ii) DECODE AVC, AND VC-1 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO"
+    - "If you use any API to collect personal information from the software, you must comply with all laws and regulations applicable to your use of the data accessed through APIs including without limitation laws related to privacy, biometric data, data protection, and confidentiality of communications"
+    - "The software is licensed, not sold"
+    - "The software is subject to United States export laws and regulations"

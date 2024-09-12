@@ -1,0 +1,17 @@
+canonicalName: Intel MCU Path License 2018
+category: Intel MCU Path License
+shortName: Intel-MCU-2018
+
+otherIds:
+  - "scancode:intel-mcu-2018"
+
+alternativeNames:
+  - "intel-mcu-2018"
+
+evidence:
+  matches:
+    - "Redistribution and use in binary form, without modification, are permitted, provided that the following conditions are met"
+    - "Redistributions must reproduce the above copyright notice and the following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Neither the name of Intel Corporation nor the names of its suppliers may be used to endorse or promote products derived from this software without specific prior written permission"
+    - "No reverse engineering, decompilation, or disassembly of this software is permitted"
+    - "'Binary form' includes any format that is commonly used for electronic conveyance that is a reversible, bit-exact translation of binary representation to ASCII or ISO text, for example 'uuencode'"

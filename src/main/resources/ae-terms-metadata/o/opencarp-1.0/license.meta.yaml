@@ -1,0 +1,26 @@
+canonicalName: openCARP 1.0
+category: openCARP
+shortName: opencarp-1.0
+
+otherIds:
+  - "scancode:opencarp-1.0"
+
+classification: proprietary free
+
+canonicalNameHistory:
+  - "openCARP v1.0"
+
+alternativeNames:
+  - "openCARP v1.0"
+  - "openCARP 1.0"
+
+evidence:
+  matches:
+    - "These requirements apply to the changed work as a whole"
+    - "If identifiable sections of this work do not come from the Program and can be considered separate,
+       this license and its terms do not apply to those sections if you distribute them as separate work"
+    - "However, if you distribute the same sections as part of a whole that is based on the Program, the
+       distribution of the whole must be done in accordance with the terms of this license as outlined in
+       §2, independently of who wrote it"
+    - "The mere merging of another work that is not based on the Program with the Program (or a work based on the
+       Program) does not bring the other work into the scope of this license"

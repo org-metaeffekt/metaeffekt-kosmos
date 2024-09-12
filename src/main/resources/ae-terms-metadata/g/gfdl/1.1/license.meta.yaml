@@ -1,0 +1,85 @@
+canonicalName: GNU Free Documentation License 1.1
+category: GFDL
+spdxIdentifier: GFDL-1.1-only
+shortName: GFDL-1.1
+
+baseTerms: GNU Free Documentation License 1.1
+
+expectedMatches: 
+  - "GNU Free Documentation License 1.1 (or any later version)"
+
+otherIds:
+  - "scancode:gfdl-1.1"
+
+alternativeNames:
+  - "GNU Free Documentation License Version 1.1"
+  - "GNU Free Documentation License, Version 1.1"
+  - "GNU Free Documentation License, v1.1"
+  - "GNU Free Documentation License v1.1"
+  - "GFDL Version 1.1"
+  - "GFDL, Version 1.1"
+  - "GFDL, v1.1"
+  - "GFDL v1.1"
+  - "GFDL-1.1"
+  - "GFDL version 1.1"
+  - "Change license on the manual to GFDLv1.1"
+
+evidence:
+  matches:
+    - "You may copy and distribute a Modified Version of the Document under the conditions
+       of sections 2 and 3 above, provided that you release the Modified Version
+       under precisely this License, with the Modified Version filling the role of
+       the Document, thus licensing distribution and modification of the Modified
+       Version to whoever possesses a copy of it"
+    - "In addition, you must do these things in the Modified Version"
+    - "If you publish or distribute Opaque copies of the Document numbering more
+       than 100, you must either include a machine-readable Transparent copy along
+       with each Opaque copy, or state in or with each Opaque copy a publicly-accessible
+       computer-network location containing a complete Transparent copy of the Document,
+       free of added material, which the general network-using public has access
+       to download anonymously at no charge using public-standard network protocols"
+  excludes:
+    - "If the Document does not identify any Invariant Sections then there are none"
+    - "Permission is granted to copy, distribute and/or modify this document under the
+       terms of the GNU Free Documentation License, Version 1.1; with the Invariant
+       Sections being LIST THEIR TITLES, with the Front-Cover Texts being LIST, and
+       with the Back-Cover Texts being LIST. A copy of the license is included in the
+       section entitled \"GNU Free Documentation License\""
+    - "Permission is granted to copy, distribute and/or modify this
+       document under the terms of the GNU Free Documentation License,
+       Version 1.1; with no Invariant Sections, with no Front-Cover Texts,
+       and with no Back-Cover Texts. A copy of the license is included in
+       the section entitled \"GNU Free Documentation License\""
+    - "Permission is granted to copy, distribute and/or modify this document
+       under the terms of the GNU Free Documentation License, Version 1.1
+       or any later version published by the Free Software Foundation;
+       with the Invariant Sections being LIST THEIR TITLES, with the
+       Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
+       A copy of the license is included in the section entitled \"GNU
+        Free Documentation License\".
+        
+        
+        GNU Free Documentation License
+        Version 1.1, March 2000"
+
+references:
+  "GPL":
+    matches:
+      - "This License is a kind of copyleft, which means that derivative works of
+         the document must themselves be free in the same sense. It complements the
+         GNU General Public License, which is a copyleft license designed for free
+         software"
+      - "If your document contains nontrivial examples of program code, we recommend
+         releasing these examples in parallel under your choice of free software license,
+         such as the GNU General Public License, to permit their use in free software"
+  "GFDL":
+    matches:
+      - "To use this License in a document you have written, include a copy of the
+         License in the document and put the following copyright and license notices
+         just after the title page:
+         Copyright (c) YEAR YOUR NAME. Permission is granted to copy, distribute and/or
+         modify this document under the terms of the GNU Free Documentation License,
+         Version 1.1 or any later version published by the Free Software Foundation;
+         with the Invariant Sections being LIST THEIR TITLES, with the Front-Cover
+         Texts being LIST, and with the Back-Cover Texts being LIST. A copy of the
+         license is included in the section entitled \"GNU Free Documentation License\""

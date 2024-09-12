@@ -1,0 +1,45 @@
+canonicalName: Bison Exception 2.2 (GPL)
+category: GPL Bison Exception
+spdxIdentifier: Bison-exception-2.2
+shortName: Bison-Exception-2.2-GPL
+
+otherIds:
+  - "scancode:bison-exception-2.2"
+
+type: exception
+
+unspecific: false
+
+canonicalNameHistory:
+  - "Bison Exception 2.2"
+  - "Bison Exception (GPL)"
+
+
+combinedWith:
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Bison exception 2.2 (GPL))
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Bison exception 2.2 (GPL))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Bison Exception 2.2 (GPL))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Bison Exception 2.2 (GPL))
+
+alternativeNames:
+  - "BISON-EXCEPTION"
+  - "BISON EXCEPTION"
+  - "BISON Exception"
+  - "Bison-exception-2.2"
+
+expectedSpdxMatches:
+  - "Bison Exception (GPL)"
+  - "Bison Exception"
+
+evidence:
+  matches:
+    - "you may create a larger work that contains part or all of the Bison parser skeleton and distribute that work
+       under terms of your choice"
+    - "Alternatively, if you modify or redistribute the parser skeleton itself, you may (at your option) remove this
+       special exception, which will cause the skeleton and the resulting Bison output files to be licensed under
+       the GNU General Public License without this special exception"
+
+references:
+  "GPL":
+     matches:
+        - "Bison output files to be licensed under the GNU General Public License"

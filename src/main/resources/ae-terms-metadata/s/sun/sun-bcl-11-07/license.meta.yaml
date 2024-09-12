@@ -1,0 +1,21 @@
+canonicalName: Sun Binary Code License 11-07
+category: Sun Binary
+shortName: Sun-BCL-11-07
+
+otherIds:
+  - "scancode:sun-bcl-11-07"
+
+evidence:
+  matches:
+    - "Software is confidential and copyrighted"
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"
+    - "Sun warrants to you that for a period of ninety (90) days from the date of purchase, as evidenced by a copy of the receipt, the media on which Software is furnished (if any) will be free of defects in materials and workmanship under normal use"
+    - "UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID"
+    - "In no event will Sun's liability to you, whether in contract, tort (including negligence), or otherwise, exceed the amount paid by you for Software under this Agreement"
+    - "Subject to the terms and conditions of this Agreement, including, but not limited to Section 4 (Java Technology Restrictions) of these Supplemental Terms, Sun grants you a non-exclusive, non-transferable, limited license without fees to reproduce and distribute the Software, provided that"
+  excludes:
+    - "Additional copyright notices and license terms applicable to portions of the Software are set forth in the"
+
+#matches because of canonicalname being in license text
+ignoreMatches:
+  - "Sun Binary Code License"

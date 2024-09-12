@@ -1,0 +1,18 @@
+canonicalName: Microsoft Direct3D D3D12On7 1.1.0
+category: Microsoft Direct3D D3D12On7
+shortName: MS-Direct3D-D3D120n7-1.1.0
+
+otherIds:
+  - "scancode:ms-direct3d-d3d120n7-1.1.0"
+
+alternativeNames:
+  - "Microsoft Direct3D D3D12On7 1.1.0"
+  - "MICROSOFT DIRECT3D 12 ON WINDOWS 7"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software"
+    - "You may copy and distribute the software (i.e. make available for third parties) in games you develop"
+    - "The software may include other Microsoft applications"
+    - "These license terms apply to those included applications, if any, unless other license terms are
+       provided with the other Microsoft applications"

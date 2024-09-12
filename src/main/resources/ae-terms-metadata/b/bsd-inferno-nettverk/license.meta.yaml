@@ -1,0 +1,20 @@
+canonicalName: BSD 3-Clause License (Inferno Nettverk)
+category: BSD
+spdxIdentifier: BSD-Inferno-Nettverk
+
+otherIds:
+  - "scancode:bsd-inferno-nettverk"
+
+alternativeNames:
+  - "BSD-Inferno-Nettverk"
+
+canonicalNameHistory:
+  - "BSD-Inferno-Nettverk"
+
+evidence:
+  matches:
+    - "This product includes software developed by Inferno Nettverk A/S, Norway"
+    - "The name of the author may not be used to endorse or promote products
+       derived from this software without specific prior written permission"
+    - "any improvements or extensions that they make and grant Inferno Nettverk A/S
+       the rights to redistribute these changes"

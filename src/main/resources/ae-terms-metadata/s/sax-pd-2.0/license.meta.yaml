@@ -1,0 +1,20 @@
+canonicalName: Sax Public Domain Notice 2.0
+category: SAX-PD-2.0
+spdxIdentifier: SAX-PD-2.0
+
+otherIds:
+  - "scancode:sax-pd-2.0"
+
+alternativeNames:
+  - "SAX-PD-2.0"
+  - "Sax Public Domain Notice 2.0"
+
+evidence:
+  matches:
+    - "I hereby abandon any property rights to SAX 2.0 (the Simple API for
+       XML), and release all of the SAX 2.0 source code, compiled code, and
+       documentation contained in this distribution into the Public Domain"
+    - "SAX comes with NO WARRANTY or guarantee of fitness for any purpose"
+  excludes:
+    - "In fact, it's not possible to own a license to SAX, since it's been
+       placed in the public domain"

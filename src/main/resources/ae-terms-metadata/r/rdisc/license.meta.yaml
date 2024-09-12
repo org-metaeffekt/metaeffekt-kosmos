@@ -1,0 +1,19 @@
+canonicalName: Rdisc License
+category: Rdisc
+spdxIdentifier: Rdisc
+
+otherIds:
+  - "scancode:rdisc"
+
+alternativeNames:
+  - "Rdisc License"
+  - "RDISC LICENSE"
+  - "RDISC License"
+
+evidence:
+  matches:
+    - "Rdisc (this program) was developed by Sun Microsystems, Inc."
+    - "Users may copy or modify Rdisc without charge, and they may freely distribute it"
+    - "RDISC IS PROVIDED AS IS WITH NO WARRANTIES OF ANY KIND"
+
+

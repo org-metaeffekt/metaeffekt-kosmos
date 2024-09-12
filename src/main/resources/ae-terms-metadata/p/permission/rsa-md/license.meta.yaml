@@ -1,0 +1,22 @@
+canonicalName: Permission Terms (RSA-MD; no representation; no warranty)
+category: Permission
+shortName: PT-RSA-MD
+
+otherIds:
+  - "scancode:rsa-1990"
+
+alternativeNames:
+  - "Permission Terms (RSA-MD; no representation; no warranty)"
+
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "RSA Data Security, Inc. makes no representations concerning either
+       the merchantability of this software or the suitability of this
+       software for any particular purpose. It is provided \"as is\" without
+       express or implied warranty of any kind"
+  excludes:
+    - "License to copy and use this software is granted provided that it is identified
+       as the RSA Data Security"
+    - "License to copy and use this software is granted for non-commercial Internet Privacy-Enhanced Mail provided that it is identified as"

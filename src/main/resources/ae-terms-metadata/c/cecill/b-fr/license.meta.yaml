@@ -1,0 +1,38 @@
+canonicalName: CeCILL-B Free Software License (FR)
+category: CeCILL-B
+shortName: CeCILL-B-FSL-FR
+
+otherIds:
+  - "scancode:cecill-b"
+
+alternativeNames:
+  - "`CECILL-B` - [CEA CNRS INRIA Logiciel Libre](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.txt)"
+  - "CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-B"
+
+evidence:
+  matches:
+    - "le chargement du Logiciel par tout moyen notamment par téléchargement à partir d'un
+       serveur distant ou par chargement à partir d'un support physique"
+    - "Ce contrat est une licence de logiciel libre dont l'objectif est de conférer aux utilisateurs une très large liberté de modification et de redistribution du logiciel régi par cette licence"
+    - "L'exercice de cette liberté est assorti d'une obligation forte de citation à la charge de ceux qui distribueraient un logiciel incorporant un logiciel régi par la présente licence afin d'assurer que les contributions de tous soient correctement identifiées et reconnues"
+    - "Le Licencié est autorisé à utiliser le Logiciel, sans restriction quant aux domaines d'application, étant ci-après précisé que cela comporte"
+    - "et que, dans le cas où seul le Code Objet du Logiciel est redistribué, le Licencié permette un accès effectif au Code Source complet du Logiciel pendant au moins toute la durée de sa distribution du Logiciel, étant entendu que le coût additionnel d'acquisition du Code Source ne devra pas excéder le simple coût de transfert des données"
+    - "Lorsque le Licencié apporte une Contribution au Logiciel, le Logiciel Modifié peut être distribué sous un contrat de licence autre que le présent Contrat sous réserve du respect des dispositions de l'article 5.3.4"
+    - "à indiquer dans sa documentation qu'il a été réalisé à partir du Logiciel régi par le Contrat, en reproduisant les mentions de propriété intellectuelle du Logiciel"
+
+
+
+  excludes:
+    - "Ce contrat est une licence de logiciel libre dont l'objectif est de conférer aux utilisateurs
+       la liberté de modifier et de réutiliser le logiciel régi par cette licence"
+    - "Ce contrat est une licence de logiciel libre dont l'objectif est de conférer
+       aux utilisateurs la liberté de modification et de redistribution du logiciel
+       régi par cette licence dans le cadre d'un modèle de diffusion «open source»"
+
+references:
+  "CeCILL-C":
+    matches:
+      - "COMPATIBILITE AVEC LES LICENCES CeCILL et CeCILL-C"
+  "CeCILL-B":
+    matches:
+      - "CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-B Avertissement"

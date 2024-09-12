@@ -1,0 +1,19 @@
+canonicalName: SWIG Library License
+category: SWIG Library License
+shortName: SWIG
+
+otherIds:
+  - "scancode:swig"
+
+alternativeNames:
+  - "SWIG Library License"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "You may copy, modify, distribute, and make derivative works based on this
+       software, in source code or object code form, without restriction"
+    - "If you distribute the software to others, you may do so according to the terms of your choice"
+    - "This software is offered as is, without warranty of any kind"

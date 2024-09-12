@@ -1,0 +1,21 @@
+canonicalName: Computational Use of Data Agreement 1.0
+category: Computational Use of Data Agreement
+spdxIdentifier: C-UDA-1.0
+
+otherIds:
+  - "scancode:c-uda-1.0"
+
+alternativeNames:
+  - "Computational Use of Data Agreement v1.0"
+
+evidence:
+  matches:
+    - "You may use, modify, and distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA's terms"
+    - "Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the C-UDA"
+    - "This C-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation"
+
+
+references:
+  "Public Domain":
+    matches:
+      - "This C-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation"

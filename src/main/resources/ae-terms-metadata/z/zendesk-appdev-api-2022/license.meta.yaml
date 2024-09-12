@@ -1,0 +1,15 @@
+canonicalName: Zendesk Application Developer and API Agreement 2022
+category: Zendesk
+shortName: Zendesk-AppDev-API-2022
+
+otherIds:
+  - "scancode:zendesk-appdev-api-2022"
+
+evidence:
+  matches:
+    - "By accepting this Agreement, either by accessing or using the API, or authorizing or permitting any individual to access or use the API, You agree to be bound by this Agreement"
+    - "This Agreement and any and all restrictions and policies implemented by Zendesk from time to time with respect to the API as set forth in the Documentation (“General API Policies”) govern Licensee’s rights to use and access the API for the purpose of developing, implementing and Publishing Applications"
+    - "Subject to this Agreement, including the restrictions set forth in Section 3, Zendesk grants to Licensee a non-exclusive, non-transferable, non-sublicensable, worldwide, revocable right and license during the Term (as defined in Section 13) to"
+    - "Licensee grants to Zendesk a non-exclusive, worldwide, fully paid-up, royalty-free license, for as long as its Applications are Published to a Marketplace to"
+    - "Licensee must comply with all restrictions set forth in this Agreement, the Privacy Policy, and the General API Policies in all uses of the API and Service Data, and in Publishing Applications"
+    - "In order to use and access the API, Licensee must obtain API credentials (a “Token”) by becoming a Subscriber"

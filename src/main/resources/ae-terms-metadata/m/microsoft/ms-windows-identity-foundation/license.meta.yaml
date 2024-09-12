@@ -1,0 +1,26 @@
+canonicalName: Microsoft Windows Identity Foundation License
+category: Microsoft Windows Identity Foundation License
+shortName: ms-windows-identity-foundation
+
+otherIds:
+  - "scancode:ms-windows-identity-foundation"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Microsoft Windows Identity Foundation License"
+
+evidence:
+  matches:
+    - "Microsoft Corporation (or based on where you live, one of its affiliates) licenses this supplement to you"
+    - "If you are licensed to use Microsoft Windows operating systems software (for which this supplement is applicable)
+       (the 'software'), you may use this supplement"
+    - "You may not use it if you do not have a license for the software"
+    - "You may use this supplement with each validly licensed copy of the software"
+    - "The following license terms describe additional use terms for this supplement"
+    - "These terms and the license terms for the software apply to your use of the supplement"
+    - "If there is a conflict, these supplemental license terms apply"
+    - "for any Distributable Code having a filename extension of .lib, distribute only the results of running such
+       Distributable Code through a linker with your program"
+    - "distribute Distributable Code included in a setup program only as part of that setup program without modification"
+    - "require distributors and external end users to agree to terms that protect it at least as much as this agreement"

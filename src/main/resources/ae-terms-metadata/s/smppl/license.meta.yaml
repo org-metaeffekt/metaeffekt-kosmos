@@ -1,0 +1,29 @@
+canonicalName: Secure Messaging Protocol Public License
+category: SMPPL
+spdxIdentifier: SMPPL
+
+otherIds:
+  - "scancode:smppl"
+
+alternativeNames:
+  - "SMP Public License"
+  - "Secure Messaging Protocol (SMP) Public License"
+  - "Secure Messaging Protocol Public License"
+
+evidence:
+  matches:
+    - "You may, free of charge and without additional permission from the U.S. Government,
+       use, copy, modify, sublicense and otherwise distribute the SMP Software or
+       components of the SMP Software, with or without modifications developed by
+       you and/or by others"
+    - "You may, free of charge and without additional permission from the U.S. Government,
+       distribute copies of the SMP Documentation, with or without modifications
+       developed by you and/or by others, at no charge or at a charge that covers
+       the cost of reproducing such copies, provided that this SMP Public License
+       is retained"
+    - "Furthermore, if you distribute the SMP Software or parts of the SMP Software,
+       with or without modifications developed by you and/or others, then you must
+       either make available the source code to all portions of the SMP Software
+       (exclusive of any modifications made by you and/or by others) upon request,
+       or instead you may notify anyone requesting the SMP Software source code that
+       it is freely available from the U.S. Government"

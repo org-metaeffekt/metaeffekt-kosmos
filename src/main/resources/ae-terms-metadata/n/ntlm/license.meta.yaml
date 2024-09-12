@@ -1,0 +1,17 @@
+canonicalName: NTLM License
+category: NTLM License
+shortName: NTLM
+
+alternativeNames:
+  - "NTLM License"
+
+otherIds:
+  - "scancode:ntlm"
+
+evidence:
+  matches:
+    - "You may freely use, copy and distribute this software as long as all copyright notices, including this notice,
+       remain intact and that you do not try to claim it as your own or try to sell it"
+    - "You may alter the code as long as you send me any diffs (this will ensure
+       that you have an easier time of it when you upgrade"
+

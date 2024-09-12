@@ -1,0 +1,17 @@
+canonicalName: Stax License
+category: Stax License
+shortName: Stax
+
+otherIds:
+  - "scancode:stax"
+
+alternativeNames:
+  - "Stax License"
+
+evidence:
+  matches:
+    - "You may choose to distribute Covered Code in Executable form under its own license agreement"
+    - "You may not remove or alter any copyright notices contained within the Covered Code"
+    - "Each Contributor must identify itself as the originator of its contribution to the
+       Covered Code, if any, in a manner that reasonably allows subsequent licensees to identify
+       the originator of each portion of the Covered Code"

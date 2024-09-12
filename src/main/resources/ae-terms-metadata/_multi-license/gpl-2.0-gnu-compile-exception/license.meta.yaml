@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 2.0 (with GNU Compile exception)
+category: GPL+GNU-Compile
+shortName: GPL-2.0-GNU-Compile-Exception
+
+type: expression
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with GNU IO Library exception 2.0)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with GNU Compile exception)"
+  "GNU Compile Exception": "GNU General Public License 2.0 (with GNU Compile exception)"

@@ -1,0 +1,16 @@
+canonicalName: Ian Kaplan License
+category: Ian Kaplan License
+shortName: Ian-Kaplan
+
+otherIds:
+  - "scancode:ian-kaplan"
+
+alternativeNames:
+  - "ian-kaplan"
+
+evidence:
+  matches:
+    - "Use of this program, for any purpose, is granted the author,
+       Ian Kaplan, as long as this copyright notice is included in
+       the source code or any source code derived from this program"
+    - "The user assumes all responsibility for using this code"

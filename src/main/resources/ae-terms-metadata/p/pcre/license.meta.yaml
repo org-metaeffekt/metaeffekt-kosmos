@@ -1,0 +1,32 @@
+canonicalName: PCRE License
+category: PCRE
+shortName: PCRE
+
+alternativeNames:
+  - "PCRE License"
+  - "http://www.pcre.org/licence.txt"
+
+otherIds:
+  - "scancode:pcre"
+
+evidence:
+  matches:
+    - "Permission is granted to anyone to use this software for any purpose on any
+       computer system, and to redistribute it freely, subject to the following
+       restrictions"
+    - "The origin of this software must not be misrepresented, either by
+       explicit claim or by omission"
+    - "In practice, this means that if you use PCRE in software *{.{4,6}}* you distribute to
+       others, commercially or otherwise, you must put a sentence like this"
+
+references:
+  "GPL":
+    matches:
+      - "If PCRE is embedded in any software that is released under the GNU General Purpose Licence (GPL), or Lesser
+         General Purpose Licence (LGPL), then the terms of that licence shall supersede any condition above with which
+         it is incompatible"
+  "LGPL":
+    matches:
+      - "If PCRE is embedded in any software that is released under the GNU General Purpose Licence (GPL), or Lesser
+         General Purpose Licence (LGPL), then the terms of that licence shall supersede any condition above with which
+         it is incompatible"

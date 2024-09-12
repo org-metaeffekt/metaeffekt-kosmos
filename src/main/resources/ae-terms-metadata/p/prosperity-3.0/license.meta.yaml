@@ -1,0 +1,41 @@
+canonicalName: Prosperity Public License 3.0
+category: Prosperity Public License
+shortName: Prosperity-3.0
+
+otherIds:
+  - "scancode:prosperity-3.0"
+
+alternativeNames:
+  - "prosperity-3.0"
+
+evidence:
+  matches:
+    - "This license allows you to use and share this software for noncommercial purposes for free and to try this
+       software for commercial purposes for thirty days."
+    - "In order to receive this license, you have to agree to its rules. Those rules are both obligations under that
+       agreement and conditions to your license"
+    - "Don’t do anything with this software that triggers a rule you can’t or won’t follow"
+    - "Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the
+       text of this license and the contributor and source code lines above"
+    - "You’re excused for unknowingly breaking Notices if you take all practical steps to comply within thirty days of
+       learning you broke the rule"
+    - "Limit your use of this software for commercial purposes to a thirty-day trial period"
+    - "If you use this software for work, your company gets one trial period for all personnel, not one trial per
+       person"
+    - "Use by any charitable organization, educational institution, public research organization, public safety or
+       health organization, environmental protection organization, or government institution doesn’t count as use for
+       a commercial purpose regardless of the source of funding or obligations resulting from the funding"
+
+masks:
+  matches:
+    - "Contributions Back Developing feedback, changes, or additions that you contribute back to the contributor on the
+       terms of a standardized public software license such as the Blue Oak Model License 1.0.0, the Apache License 2.0,
+       the MIT license, or the two-clause BSD license doesn’t count as use for a commercial purpose."
+    # markdown variant
+    - "Developing feedback, changes, or additions that you contribute back to the contributor on the terms of a
+       standardized public software license such as
+       [the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0),
+       [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html),
+       [the MIT license](https://spdx.org/licenses/MIT.html), or
+       [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html)
+       doesn't count as use for a commercial purpose."

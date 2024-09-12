@@ -1,0 +1,21 @@
+canonicalName: Red Hat Trademarks License
+category: Red Hat Trademarks License
+shortName: Red-Hat-Trademarks
+
+otherIds:
+  - "scancode:red-hat-trademarks"
+
+alternativeNames:
+  - "red-hat-trademarks"
+
+evidence:
+  matches:
+    - "Red Hat®, Red Hat Enterprise Linux, and the Shadowman logo, either
+       separately or in combination, are hereinafter referred to as 'Red Hat
+       Trademarks' and are trademarks of Red Hat, Inc., registered in the
+       United States and other countries"
+    - "The redhat-logos package ('Package') contains images that are or include
+       the Red Hat Trademarks and Red Hat trade dress"
+    - "You are granted the right to use the Package only during the normal operation
+       of software programs that call upon the Package"
+    - "No other copyright or trademark license is granted herein"

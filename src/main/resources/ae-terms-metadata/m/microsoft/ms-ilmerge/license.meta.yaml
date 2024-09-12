@@ -1,0 +1,24 @@
+canonicalName: Microsoft ILMerge License
+category: MS ILMerge License
+shortName: MS-ILMerge
+
+canonicalNameHistory:
+  - "MS ILMerge License"
+
+otherIds:
+  - "scancode:ms-ilmerge"
+
+alternativeNames:
+  - "MS ILMerge License"
+  - "ILMerge license"
+  - "MICROSOFT ILMerge"
+
+evidence:
+  matches:
+    - "Microsoft grants you the rights described in this EULA provided
+       that you comply with all terms and conditions of this EULA"
+    - "Microsoft grants to you a personal, nonexclusive, nontransferable,
+       limited license to install and use a reasonable number of copies of
+       the Software on computers residing on your premises for the purposes
+       of designing, developing, and testing, your software product(s),
+       provided that you are the only individual using the Software"

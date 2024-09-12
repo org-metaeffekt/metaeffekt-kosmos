@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with GCC Compiler exception)
+category: GPL+GCC
+shortName: GPL-2.0+-GCC-Compiler-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-gcc-compiler-exception"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with GCC Compiler exception)"
+  "GCC Compiler Exception": "GNU General Public License 2.0 (or any later version; with GCC Compiler exception)"

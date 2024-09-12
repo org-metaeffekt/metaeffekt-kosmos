@@ -1,0 +1,27 @@
+canonicalName: RHeCos License 1.1
+category: RHeCos
+spdxIdentifier: RHeCos-1.1
+
+otherIds:
+  - "scancode:ecosrh-1.1"
+
+alternativeNames:
+  - "RHeCos, Version 1.1"
+  - "RHeCos, 1.1"
+  - "RHeCos 1.1"
+  - "RHeCos License, Version 1.1"
+  - "RHeCos License, 1.1"
+  - "RHeCos License 1.1"
+  - "Red Hat eCos Public License v1.1"
+
+evidence:
+  matches:
+    - "This License applies to code to which the Initial Developer has attached the
+       notice in Exhibit A, and to related Covered Code"
+    - "Red Hat may include Covered Code in products without such additional products
+       becoming subject to the terms of this License, and may license such additional
+       products on different terms from those contained in this License"
+    - "Red Hat may license the Source Code of Red Hat Branded Code without Red Hat
+       Branded Code becoming subject to the terms of this License, and may license
+       Red Hat Branded Code on different terms from those contained in this License"
+

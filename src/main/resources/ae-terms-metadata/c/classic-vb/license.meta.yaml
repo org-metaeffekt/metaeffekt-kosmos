@@ -1,0 +1,31 @@
+canonicalName: Classic VB License
+category: Classic VB License
+shortName: Classic-VB
+
+otherIds:
+  - "scancode:classic-vb"
+
+alternativeNames:
+  - "classic-vb"
+
+evidence:
+  matches:
+    - "All code samples, tools, articles, and other content provided by this website is
+       considered to be protected by United States and international copyright law"
+    - "It is provided for the educational use of site visitors"
+    - "Free license is hereby granted to use the code provided and techniques discussed here within your
+       applications"
+    - "You are not licensed to share any of the samples, or other content
+       on this website, in any form of mass distribution"
+    - "you may not repost on other websites material(s) found here"
+    - "you may not sell compilation CDs or DVDs that contain material taken directly
+       from this website"
+    - "you may provide modules found here, as source, within applications delivered to
+       your clients provided they agree to the same policies stated here and that you
+       both retain the embedded copyright notice(s)"
+    - "you may email samples you consider cool to your friends, if you tell them where
+       you found them"
+    - "you may cite this site and its owner in the credits for your application, if you
+       wish"
+    - "you may choose to donate to support this website, if material found here has
+       saved you time/money"

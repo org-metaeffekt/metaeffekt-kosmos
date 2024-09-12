@@ -1,0 +1,25 @@
+canonicalName: Polyform Small Business License 1.0.0
+category: Polyform Small Business License
+spdxIdentifier: PolyForm-Small-Business-1.0.0
+
+otherIds:
+  - "scancode:polyform-small-business-1.0.0"
+
+alternativeNames:
+  - "[Polyform-Small-Business"
+  - "PolyForm-Small-Business-1.0.0"
+  - "PolyForm Small Business License 1.0.0"
+
+evidence:
+  matches:
+    - "Use of the software for the benefit of your company is use for
+       a permitted purpose if your company has fewer than 100 total
+       individuals working as employees and independent contractors,
+       and less than 1,000,000 USD (2019) total revenue in the prior
+       tax year"
+    - "Adjust this revenue threshold for inflation according
+       to the United States Bureau of Labor Statistics' consumer price
+       index for all urban consumers"
+    - "U.S. city average, for all items, not seasonally adjusted, with
+       1982â€“1984=100 reference base"
+

@@ -1,0 +1,31 @@
+canonicalName: Mulan Public License 2.0
+category: Mulan Public
+shortName: Mulan-Public-2.0
+
+otherIds:
+  - "scancode:mulanpubl-2.0"
+
+alternativeNames:
+  - "Mulan Public License，Version 2 (Mulan PubL v2)"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or Distribute its Contribution or Derivative Work, with modification or not"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for revocation under this Section) patent license to use, make, have made, sell, offer for sale, import or otherwise transfer its Contribution, where such patent license is only limited to the patent claims owned or controlled by such Contributor now or in future which will be necessarily infringed by its Contribution alone, excluding of any patent claims solely be infringed by your modification"
+    - "No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor, except as required to fulfill notice requirements in Section 4"
+    - "You must provide recipients with a copy of this License and retain copyright, trademark, patent and disclaimer statements in the Contribution"
+    - "accompanying the Derivative work, provide recipients with Corresponding Source Code of your Derivative Work under this License"
+    - "accompanying the Derivative Work, provide recipients with a written offer indicating your willingness to provide the Corresponding Source Code of the Derivative Work licensed under this License"
+    - "To apply the Mulan Public License，Version 2 to your work, for easy identification by recipients, you are suggested to complete following three steps"
+
+references:
+  "AGPL":
+    matches:
+      - "If you combine Contribution or your Derivative Work with a work licensed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3 (hereinafter referred to as “AGPLv3”) or its subsequent versions, and according to the AGPLv3 or its subsequent versions, you have an obligation to make the combined work to be licensed under the corresponding license, you can license such combined work under the license, provided that when you Distribute the combined work, you also provide a copy of this License to the recipients, and retain copyright, trademarks, patents, and disclaimer statements in the Contribution. No Contributor will grant additional rights to the recipients of the combined work for your license under AGPLv3 or its subsequent versions.
+
+         7. Disclaimer of Warranty and Limitation of liability"
+  "GPL":
+    matches:
+      - "If you combine Contribution or your Derivative Work with a work licensed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3 (hereinafter referred to as “AGPLv3”) or its subsequent versions, and according to the AGPLv3 or its subsequent versions, you have an obligation to make the combined work to be licensed under the corresponding license, you can license such combined work under the license, provided that when you Distribute the combined work, you also provide a copy of this License to the recipients, and retain copyright, trademarks, patents, and disclaimer statements in the Contribution. No Contributor will grant additional rights to the recipients of the combined work for your license under AGPLv3 or its subsequent versions.
+
+         7. Disclaimer of Warranty and Limitation of liability"

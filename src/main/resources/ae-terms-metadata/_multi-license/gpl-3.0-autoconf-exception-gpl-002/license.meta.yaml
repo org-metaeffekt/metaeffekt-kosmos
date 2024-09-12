@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 3.0 (with Autoconf exception (GPL; variant 003))
+category: GPL+Autoconf
+shortName: GPL-3.0-Autoconf-Exception-GPL-003
+
+type: expression
+
+spdxExpression: "[GNU General Public License 3.0] WITH [Autoconf Exception (GPL; variant 003)]"
+
+displayName: "GNU General Public License 3.0 (with Autoconf exception (variant 003))"
+representedAs: "GNU General Public License 3.0 (with exceptions)"
+
+combinedWith:
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with Autoconf exception (GPL; variant 003))"
+  "Autoconf Exception (GPL; variant 003)": "GNU General Public License 3.0 (with Autoconf exception (GPL; variant 003))"

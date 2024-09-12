@@ -1,0 +1,41 @@
+canonicalName: Creative Commons BY 3.0 (AU)
+category: CC-BY
+spdxIdentifier: CC-BY-3.0-AU
+
+otherIds:
+  - "scancode:cc-by-3.0-au"
+
+representedAs: Creative Commons BY 3.0
+
+alternativeNames:
+  - "Creative Commons BY 3.0 Australia"
+  - "Creative Commons Attribution 3.0 Australia"
+  - "CC-BY-3.0-AU"
+
+requiresCopyright: false
+requiresLicenseText: false
+requiresNote: true
+noteChecklist:
+  - "You must provide [...] the name or pseudonym (if provided) of the Original Author"
+
+evidence:
+  matches:
+    - "Nothing in this Licence is intended to reduce, limit, or restrict any uses free from copyright or rights arising from limitations or exceptions under copyright law or any other applicable laws"
+    - "Distribute and publicly perform the Work, a Derivative Work or the Work as incorporated in any Collection"
+    - "You may Distribute and publicly perform the Work only under the terms of this Licence"
+    - "When You Distribute or publicly perform the Work or any Derivative Work or Collection You must keep intact all copyright notices for the Work"
+    - "In the case of a Derivative Work or Collection, the above attribution should, at a minimum, appear as part of any credits for other contributing authors and be as prominent as the credits for those other authors"
+    - "To the full extent permitted by applicable law, and except for any liability arising from contrary agreement, in no event will the Licensor be liable to You on any legal basis"
+    - "This Licence and the rights granted to You under this Licence shall terminate automatically upon any breach by You of the terms of the Licence"
+
+references:
+  "CC-BY":
+    matches:
+      - "Creative Commons Attribution 3.0 Australia
+
+         CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENCE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
+          Licence
+          
+          THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENCE (\"LICENCE\"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORISED UNDER THIS LICENCE OR COPYRIGHT LAW IS PROHIBITED.
+          
+          BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENCE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS."

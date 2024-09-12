@@ -1,0 +1,19 @@
+canonicalName: Adobe DNG SDK License Agreement
+category: Adobe DNG SDK License Agreement
+shortName: Adobe-DNG-SDK
+
+otherIds:
+  - "scancode:adobe-dng-sdk"
+
+alternativeNames:
+  - "DNG SDK License Agreement"
+
+evidence:
+  matches:
+    - "Subject to the restrictions below and other terms of this Agreement, Adobe hereby grants
+       you a non-exclusive, worldwide, royalty free license to use, reproduce, prepare derivative
+       works from, publicly display, publicly perform, distribute and sublicense the Software for any purpose"
+    - "Subject to the terms of this Agreement, Adobe hereby grants you a non-exclusive, worldwide,
+       royalty free license to make a limited number of copies of the Documentation for your development
+       purposes and to publicly display, publicly perform and distribute such copies"
+    - "You may not modify the Documentation"

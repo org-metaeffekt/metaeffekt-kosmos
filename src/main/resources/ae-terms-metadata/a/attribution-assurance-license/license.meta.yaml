@@ -1,0 +1,28 @@
+canonicalName: Attribution Assurance License
+category: AAL
+spdxIdentifier: AAL
+
+otherIds:
+  - "scancode:attribution"
+  - "osi:attribution"
+
+alternativeNames:
+  - "Attribution Assurance License"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without modification,
+       are permitted provided that the conditions below are met"
+    - "These conditions require a modest attribution to <AUTHOR> (the Author), who hopes that its
+       promotional value may help justify the thousands of dollars in otherwise billable
+       time invested in writing this and other freely available, open-source software"
+    - "Users are entirely responsible, to the exclusion of the Author and any
+       other persons, for compliance with (1) regulations set by owners or administrators
+       of employed equipment, (2) licensing terms of any other software, and (3)
+       local regulations regarding use, including those regarding import, export,
+       and use of encryption software"
+
+references:
+  "BSD":
+    matches:
+    -  "(adapted from the original BSD license)"

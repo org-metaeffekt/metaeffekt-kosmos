@@ -1,0 +1,218 @@
+canonicalName: GNU General Public License 2.0
+category: GPL
+spdxIdentifier: GPL-2.0-only
+shortName: GPL-2.0
+
+otherIds:
+  - "scancode:gpl-2.0"
+  - "osi:GPL-2.0"
+
+defaultSourceCategory: annex
+
+requiresSourceCodeProvision: true
+
+expressiveEvidence: true
+
+status:
+  - "reviewed 29.04.22"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+alternativeNames:
+  - "GNU GENERAL PUBLIC LICENSE Version 2"
+  - "GNU General Public License, Version 2.0"
+  - "GNU GENERAL PUBLIC LICENSE (GPL Version 2, June 1991)"
+  - "GNU GENERAL PUBLIC LICENSE 2.0"
+  - "GNU GENERAL PUBLIC LICENSE V2"
+  - "GNU GENERAL PUBLIC LICENSE Version 2, June 1991"
+  - "GNU GENERAL PUBLIC LICENSE v2"
+  - "GNU GENERAL PUBLIC LICENSE, VERSION 2"
+  - "GNU GENERAL PUBLIC LICENSE, Version 2"
+  - "GNU GENERAL PUBLIC LICENSE, Version 2, June 1991"
+  - "GNU GENERAL PUBLIC LICENSE, Version 2.0"
+  - "GPL-2.0-only"
+  - "GNU GPL 2"
+  - "GNU GPL v2"
+  - "GNU GPL v2.0"
+  - "GNU GPL2"
+  - "GNU General Public License (GPL) v2"
+  - "GNU General Public License (GPL) version 2.0"
+  - "GNU General Public License (GPL), Version 2.0"
+  - "GNU General Public License (GPL), version 2.0"
+  - "GNU General Public License (GPL)v2"
+  - "GNU General Public License (GPL),Version 2"
+  - "GNU General Public License 2"
+  - "GNU General Public License 2 (GPLv2)"
+  - "GNU General Public License 2.0"
+  - "GNU General Public License License, Version 2"
+  - "GNU General Public License V 2.0"
+  - "GNU General Public License Version 2"
+  - "GNU General Public License Version 2 (GPLv2)"
+  - "GNU General Public License Version2"
+  - "GNU General Public License v2"
+  - "GNU General Public License v2.0"
+  - "GNU General Public License version 2"
+  - "GNU General Public License version 2 (GPLv2)"
+  - "GNU General Public License, Version 2"
+  - "GNU General Public License, Version 2 only (GPL)"
+  - "GNU General Public License, Version 2.0"
+  - "GNU General Public License, version 2"
+  - "GNU General Public License, version 2 (GPL-2.0)"
+  - "GNU General Public License, version 2 (GPL2)"
+  - "version 2 of the GNU General Public License"
+  - "GNU GPL v. 2"
+  - "GNU Public License 2.0"
+  - "GNU Public License, Version 2"
+  - "GNU Public License, Version 2.0"
+  - "Gnu General Puplic License, Version 2.0"
+  - "GNU GPL License, Version 2.0"
+  - "GNU General Public License, Version 2 (GPLv2)"
+  - "GNU General Public License, version 2.0"
+  - "GPL v2+"
+  - "GPL 2.0"
+  - "GPL-2.0"
+  - "GPLv2 "
+  - "GPL 2 "
+  - "GPL, Version 2.0"
+  - "GPL, v2"
+  - "GPL-v2"
+  - "GPL2.0"
+  - "GPL2.0 License"
+  - "GPLv2 License"
+  - "GPLv2 license"
+  - "GPL License v.2"
+  - "GPL V2 License"
+  - "GPL Version 2.0"
+  - "GPL license, Version 2.0"
+  - "GPL v2"
+  - "GPL v2.0"
+  - "General Public License 2.0"
+  - "GNU General Public License version 2.0 (GPLv2)"
+  - "GNU General Public License Version 2.0 (GPLv2)"
+  - "GPL-2"
+  - "GPL2"
+  - "GNU General Public License as published by the Free Software Foundation; version 2"
+  - "GNU General Public License (GPL) Version 2"
+  - "GNU General Public License (GPL) version 2"
+  - "The General Public License (GPL) Version 2"
+  - "under the terms of version 2 of the GNU Public License"
+  - "GNU General Public License, Versions 2"
+  - "the terms and conditions of the GNU General Public License version 2 cover"
+  - "is distributed under the terms of the GNU General Public License <http://www.gnu.org/copyleft/gpl.html>
+     version 2 only (\"GPL2\")"
+  - "Version 2 of the GNU General Public License"
+  - "GNU Public License version 2"
+  - "GPL version 2"
+  - "GNU General Public License, v. 2.0"
+  - "GNU General Public License (v2.0"
+  - "GNU Public License (GPL) Version2"
+  - "GNU General Public License, v.2"
+  - "GNU General Public License (Version 2.0)"
+  - "GNU General Public License as published by the Free Software Foundation; Version 2 (GPL)"
+  - "GPL ver.2"
+  - "GNU General Public License (2.0)"
+  - "General Public License as published by the Free Software Foundation, version 2"
+  - "GNU General Public License (Version 2)"
+  - "GNU General Public License (version 2)"
+  - "GNU General Public License (2)"
+  - "GNU General Public License (v2)"
+
+evidence:
+  matches:
+    - "You may copy and distribute verbatim copies of the Program's source
+       code as you receive it, in any medium, provided that you conspicuously
+       and appropriately publish on each copy an appropriate copyright notice
+       and disclaimer of warranty; keep intact all the notices that refer to
+       this License and to the absence of any warranty; and give any other
+       recipients of the Program a copy of this License along with the
+       Program"
+    - "You may charge a fee for the physical act of transferring a copy, and
+       you may at your option offer warranty protection in exchange for a
+       fee"
+    - "You may modify your copy or copies of the Program or any portion of
+       it, thus forming a work based on the Program, and copy and distribute
+       such modifications or work under the terms of Section 1 above,
+       provided that you also meet all of these conditions"
+    - "You must cause the modified files to carry prominent notices
+       stating that you changed the files and the date of any change"
+    - "You must cause any work that you distribute or publish, that in
+       whole or in part contains or is derived from the Program or any part
+       thereof, to be licensed as a whole at no charge to all third parties
+       under the terms of this License"
+    - "If the modified program normally reads commands interactively when
+       run, you must cause it, when started running for such interactive use
+       in the most ordinary way, to print or display an announcement
+       including an appropriate copyright notice and a notice that there is
+       no warranty (or else, saying that you provide a warranty) and that
+       users may redistribute the program under these conditions, and telling
+       the user how to view a copy of this License"
+    - "Exception: if the Program itself is interactive but does not normally print such an
+       announcement, your work based on the Program is not required to print
+       an announcement"
+  excludes:
+    - "Exhibit A. The GNU General Public License Version 2" #NPSL-9.2 uses GPL 2 in Exhibit A
+    - "If the Program as you received it is intended to interact with users through
+       a computer network and if, in the version you received, any user interacting
+       with the Program was given the opportunity to request transmission to that
+       user of the Program's complete source code, you must not remove that facility
+       from your modified version of the Program or work based on the Program, and
+       must offer an equivalent opportunity for all users interacting with your Program
+       through a computer network to request immediate transmission by HTTP of the
+       complete source code of your modified version or other derivative work." # AGPL
+    - "We used to write an empty C file, but that gets complicated with go build -n. We tried using a file that does not exist, but that fails on systems with GCC version"
+    - "docs/GPLv2.TXT"
+    - "vsftpd is licensed under version 2 of the GNU GPL"
+    - "All other obligations under the GPL v2 remain intact"
+    - "This work may also be redistributed and/or modified under the
+       terms of the GNU General Public License, version 2 or any later
+       version, as published by the Free Software Foundation"
+    - "Foreign non-Lisp code that is linked with CLISP or loaded into CLISP through dynamic linking is not
+       exempted from this copyright. I.e. such code, when distributed for use with CLISP,
+       must be distributed under the GPL"
+    - "if you download Linux, which is under the GPLv2"
+
+references:
+  "LGPL":
+     matches:
+        - "(Some other Free Software Foundation software is covered by
+           the GNU *{Lesser|Library}* General Public License instead.)  You can apply it to
+           your programs, too"
+        - "If this is what you want to do, use the GNU *{Lesser|Library}* General
+           Public License instead of this License"
+  "GPL":
+    matches:
+      - "To do so, attach the following notices to the program. *
+         This program is free software; you can redistribute it and/or modify
+         it under the terms of the GNU General Public License as published by
+         the Free Software Foundation; either version 2 of the License, or
+         (at your option) any later version"
+
+masks:
+  matches:
+      - "Some of those programs are provided under licenses deemed incompatible with the GPLv2 by the Free Software
+         Foundation and others."
+
+licenseTemplate:
+  "<lq><codeph>NO WARRANTY</codeph>
+   <p><codeph>BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+   FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN
+   OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
+   PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+   OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+   MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS
+   TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE
+   PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,
+   REPAIR OR CORRECTION.</codeph></p>
+   <codeph>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+   WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+   REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+   INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING
+   OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED
+   TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
+   YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
+   PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGES.</codeph></lq>"
+
+mappings:
+  "GNU General Public License \\(GPL\\) Version 2, June 1991NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright \\(C\\) 1989, 1991 Free Software Foundation, Inc.NEWLINE-MARKER 51 Franklin Street, Fifth FloorNEWLINE-MARKER Boston, MA 02110-1335NEWLINE-MARKER USA": " LICENSE-SEGMENT-MARKER GNU General Public License (GPL) Version 2, June 1991NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright (C) 1989, 1991 Free Software Foundation, Inc.NEWLINE-MARKER 51 Franklin Street, Fifth FloorNEWLINE-MARKER Boston, MA 02110-1335NEWLINE-MARKER USA"

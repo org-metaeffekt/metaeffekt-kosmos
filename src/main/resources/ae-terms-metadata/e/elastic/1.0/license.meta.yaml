@@ -1,0 +1,36 @@
+canonicalName: Elastic License 1.0
+category: Elastic
+shortName: Elastic-1.0
+
+alternativeNames:
+  - "Elastic License April 20, 2018"
+  - "Elastic 1.0"
+  - "Elastic v1.0"
+  - "Elastic License v1.0"
+  - "Elastic License Version 1.0"
+
+otherIds:
+  - "scancode:elastic-license-2018"
+
+evidence:
+  matches:
+    - "Elastic hereby grants to You, AT NO CHARGE and
+       for so long as you are not in breach of any provision of this Agreement, a
+       License to the Basic Features and Functions of the Elastic Software"
+    - "As between Elastic and You, Elastic
+       and its licensors own all right, title and interest in and to the Elastic
+       Software, and except as expressly set forth in Sections 1.1, and 2.1 of this
+       Agreement, no other license to the Elastic Software is granted to You under
+       this Agreement, by implication, estoppel or otherwise"
+    - "a limited,
+       non-exclusive, non-transferable, fully paid up royalty free right and license
+       to the Commercial Software in Source Code format, without the right to grant
+       or authorize sublicenses, to prepare Derivative Works of the Commercial
+       Software"
+
+references:
+  "Apache License":
+    matches:
+      - "For the avoidance of doubt, termination of this Agreement will not affect Your right
+         to use Elastic Software, in either Object Code or Source Code formats, made
+         available under the Apache License Version 2.0"

@@ -1,0 +1,32 @@
+canonicalName: Terracotta Public License 1.0
+category: Terracotta Public License
+shortName: Terracotta-PL-1.0
+
+alternativeNames:
+  - "Terracotta Public License (version 1.0)"
+
+otherIds:
+  - "scancode:tpl-1.0"
+
+expectedSpdxMatches:
+  - "Mozilla Public License 1.1"
+  - "Jaluna Public License 1.1"
+  - "Initial Developer Public License"
+
+evidence:
+  matches:
+    - "under intellectual property rights (other than patent or trademark) Licensable by Initial
+       Developer to use, reproduce, modify, display, perform, sublicense and distribute the Original
+       Code (or portions thereof) with or without Modifications, and/or as part of a Larger Work"
+    - "under Patents Claims infringed by the making, using or selling of Original Code, to make, have
+       made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original Code
+       (or portions thereof)"
+    - "the licenses granted in this Section 2.1 (a) and (b) are effective on the date Initial Developer
+       first distributes or otherwise makes available Original Code under the terms of this License"
+
+references:
+  "CDDL":
+    matches:
+      - "HOWEVER, THIS TPL CONTAINS TERMS WHICH DIFFER FROM THOSE CONTAINED IN THE MPL AND THE CDDL"
+      - "THIS TERRACOTTA PUBLIC LICENSE (TPL) IS SIMILAR TO, AND CONTAINS SAMPLES FROM, THE MOZILLA
+         PUBLIC LICENSE (MPL) AND THE COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL)"

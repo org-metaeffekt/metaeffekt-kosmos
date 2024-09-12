@@ -1,0 +1,18 @@
+canonicalName: VeriSign License
+category: VeriSign License
+shortName: VeriSign
+
+otherIds:
+  - "scancode:verisign"
+
+alternativeNames:
+  - "http://www.verisign.com/repository/CPS"
+
+evidence:
+  matches:
+    - "This file lists the VeriSign, Inc. ('VeriSign') Class 1 Certification
+       Authority Distinguished Name and Public Key information (the 'Information')"
+    - "BY DOWNLOADING OR INSTALLING THE INFORMATION, YOU INDICATE YOUR ACCEPTANCE
+       OF THIS LICENSE"
+    - "IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS LICENSE,
+       DO NOT DOWNLOAD OR USE THE INFORMATION"

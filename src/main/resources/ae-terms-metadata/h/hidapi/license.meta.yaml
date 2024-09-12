@@ -1,0 +1,14 @@
+canonicalName: HIDAPI License
+category: HIDAPI License
+spdxIdentifier: HIDAPI
+
+otherIds:
+  - "scancode:hidapi"
+
+alternativeNames:
+  - "hidapi license"
+
+evidence:
+  matches:
+    - "This software may be used by anyone for any reason so long as the copyright
+       notice in the source files remains intact"

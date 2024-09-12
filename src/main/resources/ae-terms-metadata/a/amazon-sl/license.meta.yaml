@@ -1,0 +1,21 @@
+canonicalName: Amazon Software License
+category: Amazon Software License
+shortName: Amazon-SL
+
+otherIds:
+  - "scancode:amazon-sl"
+
+alternativeNames:
+  - "http://aws.amazon.com/asl/"
+  - "Amazon Software License"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, each Licensor grants to you a perpetual, worldwide,
+       non-exclusive, royalty-free, copyright license to reproduce, prepare derivative works of, publicly display,
+       publicly perform, sublicense and distribute its Work and any resulting derivative works in any form"
+    - "Subject to the terms and conditions of this License, each Licensor grants to you a perpetual, worldwide,
+       non-exclusive, royalty-free patent license to make, have made, use, sell, offer for sale, import,
+       and otherwise transfer its Work, in whole or in part"
+    - "The foregoing license applies only to the patent claims licensable by Licensor that would be infringed by
+       Licensor’s Work (or portion thereof) individually and excluding any combinations with any other materials or technology"

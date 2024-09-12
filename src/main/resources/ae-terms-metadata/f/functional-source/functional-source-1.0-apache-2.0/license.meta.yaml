@@ -1,0 +1,51 @@
+canonicalName: Functional Source License 1.0 (Apache 2.0)
+category: Functional Source
+shortName: Functional-Source-1.0-Apache-2.0
+
+otherIds:
+  - "scancode:fsl-1.0-apache-2.0"
+
+alternativeNames:
+  - "Functional Source License, Version 1.0, Apache 2.0 Change License"
+  - "FSL-1.0-Apache-2.0"
+
+canonicalNameHistory:
+  - "Functional Source License 1.0 (Apache 2.0 Change)"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this License Grant and the Patents, Redistribution and Trademark clauses below, we hereby grant you the right to use, copy, modify, create derivative works, publicly perform, publicly display and redistribute the Software for any Permitted Purpose identified below"
+    - "A Permitted Purpose is any purpose other than a Competing Use"
+    - "Competing Uses specifically include using the Software"
+    - "in a product or service that offers the same or substantially similar functionality to the Software"
+    - "Permitted Purposes specifically include using the Software"
+    - "in connection with software development services or managed services that you provide to a licensee using the Software in accordance with these Terms and Conditions"
+    - "To the extent your use for a Permitted Purpose would necessarily infringe our patents, the license grant above includes a license under our patents"
+    - "If you make a claim against any party that the Software infringes or contributes to the infringement of any patent, then your patent license to the Software ends immediately"
+    - "If you redistribute any copies, modifications or derivatives of the Software, you must include a copy of or a link to these Terms and Conditions and not remove any copyright notices provided in or with the Software"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, TITLE OR NON-INFRINGEMENT"
+    - "Except for displaying the License Details and identifying us as the origin of the Software, you have no right under these Terms and Conditions to use our trademarks, trade names, service marks or product names"
+    - "On the second anniversary of the date we make the Software available, the Software will become available under the Apache 2.0 license"
+    - "On that date, the Terms and Conditions above automatically terminate and the following terms become effective"
+
+references:
+  "Apache License":
+    matches:
+      - "# Functional Source License, Version 1.0, Apache 2.0 Change License
+
+         ## Abbreviation
+
+         FSL-1.0-Apache-2.0
+
+         ## Notice"
+      - "On the second anniversary of the date we make the Software available, the
+         Software will become available under the Apache 2.0 license. On that date, the
+         Terms and Conditions above automatically terminate and the following terms
+         become effective:
+
+         Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use
+          this file except in compliance with the License.
+          
+          You may obtain a copy of the License at
+          
+          http://www.apache.org/licenses/LICENSE-2.0"

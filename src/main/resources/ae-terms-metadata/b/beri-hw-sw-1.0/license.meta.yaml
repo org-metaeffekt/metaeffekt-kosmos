@@ -1,0 +1,38 @@
+canonicalName: BERI Hardware-Software License 1.0
+category: BERI Hardware-Software
+shortName: BERI-Hw-Sw-1.0
+
+otherIds:
+  - "scancode:beri-hw-sw-1.0"
+
+alternativeNames:
+  - "http://www.beri-open-systems.org/legal/license-1-0.txt"
+  - "BERI HARDWARE-SOFTWARE LICENSE v1.0"
+
+evidence:
+  matches:
+    - "Copyright and related rights are licensed under the BERI Hardware-Software
+       License, Version 1.0 (the \"License\")"
+    - "This License is licensed under the terms of this License and in
+       particular clause 7 below (Disclaimer of Warranties) applies in relation
+       to its use"
+    - "If the Work includes a \"NOTICE\" text file as part of its
+       distribution, then any Derivative Works that You distribute must
+       include a readable copy of the attribution notices contained
+       within such NOTICE file, excluding those notices that do not
+       pertain to any part of the Derivative Works, in at least one
+       of the following places"
+
+references:
+  "Apache License":
+    matches:
+      - "This license is based closely on the Apache License Version 2.0, but is
+         not approved or endorsed by the Apache Foundation.  Changes primarily
+         relate to broadening the set of rights covered by the license from simple
+         copyright to other hardware-related rights such as board layouts and CAD
+         files.  A copy of the non-modified Apache License 2.0 can be found at
+         http://www.apache.org/licenses/LICENSE-2.0"
+      - "As this license is not currently OSI or FSF approved, the Licensor
+         permits any Work licensed under this License, at the option of the
+         Licensee, to be treated as licensed under the Apache License Version 2.0
+         (which is so approved)."

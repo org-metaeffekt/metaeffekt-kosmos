@@ -1,0 +1,72 @@
+canonicalName: GNU Free Documentation License 1.3
+category: GFDL
+spdxIdentifier: GFDL-1.3-only
+shortName: GFDL-1.3
+
+baseTerms: GNU Free Documentation License 1.3
+
+otherIds:
+  - "scancode:gfdl-1.3"
+
+alternativeNames:
+  - "GNU Free Documentation License Version 1.3"
+  - "GNU Free Documentation License, Version 1.3"
+  - "GNU Free Documentation License, v1.3"
+  - "GNU Free Documentation License v1.3"
+  - "GFDL Version 1.3"
+  - "GFDL, Version 1.3"
+  - "GFDL, v1.3"
+  - "GFDL v1.3"
+  - "GFDL-1.3"
+  - "GFDL version 1.3"
+  - "Change license on the manual to GFDLv1.3"
+  - "GNU FDL license 1.3"
+
+evidence:
+  matches:
+    - "However, if you cease all violation of this License, then your license from
+       a particular copyright holder is reinstated (a) provisionally, unless and
+       until the copyright holder explicitly and finally terminates your license,
+       and (b) permanently, if the copyright holder fails to notify you of the violation
+       by some reasonable means prior to *{.{0,2}}*days after the cessation"
+    - "If the required texts for either cover are too voluminous to fit legibly,
+       you should put the first ones listed (as many as fit reasonably) on the actual
+       cover, and continue the rest onto adjacent pages"
+    - "Use in the Title Page (and on the covers, if any) a title distinct from
+       that of the Document, and from those of previous versions (which should, if
+       there were any, be listed in the History section of the Document). You may
+       use the same title as a previous version if the original publisher of that
+       version gives permission"
+  excludes:
+    - "Some devices are designed to deny users access to install or run
+       modified versions of the software inside them, although the manufacturer
+       can do so"
+
+references:
+  "GPL":
+    matches:
+      - "This License is a kind of copyleft, which means that derivative works of
+         the document must themselves be free in the same sense. It complements the
+         GNU General Public License, which is a copyleft license designed for free
+         software"
+      - "If your document contains nontrivial examples of program code, we recommend
+         releasing these examples in parallel under your choice of free software license,
+         such as the GNU General Public License, to permit their use in free software"
+  "CC-BY-SA":
+    matches:
+      - "CC-BY-SA means the Creative Commons Attribution-Share Alike 3.0 license
+         published by Creative Commons Corporation, a not-for-profit corporation with
+         a principal place of business in San Francisco, California, as well as future
+         copyleft versions of that license published by that same organization"
+  "GFDL":
+    matches:
+      - "To use this License in a document you have written, include a copy of the
+         License in the document and put the following copyright and license notices
+         just after the title page:
+
+         Copyright (c) YEAR YOUR NAME. Permission is granted to copy, distribute and/or
+         modify this document under the terms of the GNU Free Documentation License,
+         Version 1.3 or any later version published by the Free Software Foundation;
+         with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+         A copy of the license is included in the section entitled \"GNU Free Documentation
+         License\""

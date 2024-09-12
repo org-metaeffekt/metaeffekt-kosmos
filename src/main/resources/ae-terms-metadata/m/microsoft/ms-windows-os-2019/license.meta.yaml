@@ -1,0 +1,28 @@
+canonicalName: Microsoft Windows Operating System License 2019
+category: Microsoft Windows Operating System License
+shortName: MS-Windows-OS-2018
+
+otherIds:
+  - "scancode:ms-windows-os-2018"
+
+alternativeNames:
+  - "Microsoft Windows Operating System License 2019"
+  - "WINDOWS OPERATING SYSTEM"
+
+evidence:
+  matches:
+    - "Some Windows apps provide an access point to, or rely on, online services, and the use of those services is
+       sometimes governed by separate terms and privacy policies, such as the Microsoft Services Agreement at (aka.ms/msa)"
+    - "You can view these terms and policies by looking at the service terms of use or the app’s settings, as applicable"
+    - "The services may not be available in all regions"
+    - "Microsoft, the device manufacturer or installer may include additional apps, which will be subject to separate
+       license terms and privacy policies"
+    - "The software includes Adobe Flash Player that is licensed under terms from Adobe Systems Incorporated at (aka.ms/adobeflash)"
+    - "Adobe and Flash are either registered trademarks or trademarks of Adobe Systems Incorporated in the
+       United States and/or other countries"
+    - "The software may include third-party programs that are licensed to you under this agreement, or under their own terms"
+    - "License terms, notices and acknowledgements, if any, for the third-party programs can be viewed at (aka.ms/thirdpartynotices)"
+    - "To the extent included with Windows, Word, Excel, PowerPoint and OneNote are licensed for your personal,
+       non-commercial use, unless you have commercial use rights under a separate agreement"
+  excludes:
+    - "You may not use it if you do not have a license for the software"

@@ -1,0 +1,26 @@
+canonicalName: Microsoft Developer Agreement 2018
+category: Microsoft Developer Services Agreement
+shortName: MS-Developer-Services-Agreement-2018
+
+canonicalNameHistory:
+  - "Microsoft Developer Services Agreement 2018-06"
+
+otherIds:
+  - "scancode:ms-developer-services-agreement-2018-06"
+
+alternativeNames:
+  - "http://msdn.microsoft.com/en-US/cc300389"
+  - "Microsoft Developer Services Agreement 2018-06"
+  - "Microsoft Developer Agreement"
+
+evidence:
+  matches:
+    - "We may monitor your access and use of the Services (including applicable products and
+       services, website, Content, and data) for purposes of monitoring your compliance with this Agreement"
+    - "Further, your access and use of the Services and for five years after, you must, upon reasonable
+       notice from Microsoft, permit Microsoft or its auditor, at Microsoft’s cost, to conduct audits in
+       connection with your use of the Services, to verify that your compliance with this Agreement"
+    - "You must give Microsoft reasonable access to any personnel, premises, information, systems, books,
+       and records relating to your use of the Services to enable Microsoft to conduct the audit"
+    - "If requested, you must provide us with proof of your compliance with this Agreement"
+    - "Unless Microsoft otherwise specifies, Microsoft may make commercially reasonable changes to a Service or feature from time to time"

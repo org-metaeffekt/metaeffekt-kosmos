@@ -1,0 +1,29 @@
+canonicalName: TCL License (terms only)
+category: TCL License
+shortName: TCL-terms-only
+
+alternativeNames:
+  - "TCL License (terms only)"
+
+representedAs: "TCL License"
+
+otherIds:
+  - "scancode:newlib-historical"
+
+evidence:
+  matches:
+    - "The authors hereby grant permission to use, copy, modify, distribute,
+       and license this software and its documentation for any purpose, provided
+       that existing copyright notices are retained in all copies and that this
+       notice is included verbatim in any distributions"
+    - "No written agreement, license, or royalty fee is required for any of the authorized uses"
+    - "Modifications to this software may be copyrighted by their authors
+       and need not follow the licensing terms described here, provided that
+       the new terms are clearly indicated on the first page of each file where
+       they apply"
+  excludes:
+    # distinguish from SWL
+    - "BY INSTALLING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT,
+       THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS"
+    # distinguish from full TCL
+    - "THE AUTHORS AND DISTRIBUTORS SPECIFICALLY DISCLAIM ANY WARRANTIES"

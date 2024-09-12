@@ -1,0 +1,19 @@
+canonicalName: Google Analytics Terms of Service 2019
+category: Google Analytics Terms of Service
+shortName: Google-Analytics-TOS-2019
+
+otherIds:
+  - "scancode:google-analytics-tos-2019"
+
+requiresLicenseText: false
+requiresCopyright: false
+
+evidence:
+  matches:
+    - "\"GAMC\" means the Google Analytics Measurement Code, which is installed on a Property for the purpose of collecting Customer Data, together with any fixes, updates and upgrades provided to You"
+    - "\"Platform Home\" means the user interface through which You can access certain Google Marketing Platform-level functionality"
+    - "Subject to Section 15, the Service is provided without charge to You for up to 10 million Hits per month per Account"
+    - "Certain Service features are identified as \"Alpha,\" \"Beta,\" \"Experiment,\" (either within the Service or elsewhere by Google) or as otherwise unsupported or confidential"
+    - "You must not circumvent any privacy features (e.g., an opt-out) that are part of the Service"
+    - "If You use the Service on behalf of the Third Party or a Third Party otherwise uses the Service through Your Account, whether or not You are authorized by Google to do so, then You represent and warrant that (a) You are authorized to act on behalf of, and bind to this Agreement, the Third Party to all obligations that You have under this Agreement, (b) Google may share with the Third Party any Customer Data that is specific to the Third Party's Properties, and (c) You will not disclose Third Party's Customer Data to any other party without the Third Party's consent"
+    - "If You link a Property to Firebase (“Firebase Linkage”) as part of using the Service, the following terms, in addition to Sections 1-16 above, will also apply to You, and will also govern Your use of the Service, including with respect to Your use of Firebase Linkage"

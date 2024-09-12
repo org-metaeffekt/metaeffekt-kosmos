@@ -1,0 +1,17 @@
+canonicalName: CxImage License
+category: CxImage License
+shortName: CxImage
+
+otherIds:
+  - "scancode:cximage"
+
+alternativeNames:
+  - "cximage license"
+
+evidence:
+  matches:
+    - "This copy of the CxImage notices is provided for your convenience"
+    - "In case of any discrepancy between this copy and the notices in the file ximage.h that is
+       included in the CxImage distribution, the latter shall prevail"
+    - "If you modify CxImage you may insert additional notices immediately following
+       this sentence"

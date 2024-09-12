@@ -1,0 +1,54 @@
+canonicalName: Permission Terms (Digital Equipment Corporation; variant 002)
+category: Permission
+shortName: PT-DEC-Var002
+spdxIdentifier: HPND-DEC
+
+otherIds:
+  - "scancode:x11-dec2"
+
+canonicalNameHistory:
+  - "X11-Style (DEC 2)"
+
+alternativeNames:
+  - "x11-dec2"
+  - "X11-DEC2"
+  - "X11-Style (DEC 2)"
+  - "HPND-DEC"
+  - "Historical Permission Notice and Disclaimer - DEC variant"
+  - "Historical Permission Notice and Disclaimer (DEC)"
+
+displayName: "Permission Terms (no warranty)"
+representedAs: Permission Terms
+
+requiresCopyright: true
+requiresLicenseText: true
+
+evidence:
+  matches:
+    - "THE INFORMATION IN THIS SOFTWARE IS SUBJECT TO CHANGE WITHOUT NOTICE AND SHOULD
+       NOT BE CONSTRUED AS A COMMITMENT BY DIGITAL EQUIPMENT CORPORATION"
+    - "DIGITAL MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THIS SOFTWARE FOR ANY PURPOSE"
+    - "IT IS SUPPLIED 'AS IS' WITHOUT EXPRESS OR IMPLIED WARRANTY"
+    - "IF THE SOFTWARE IS MODIFIED IN A MANNER CREATING DERIVATIVE COPYRIGHT RIGHTS,
+       APPROPRIATE LEGENDS MAY BE PLACED ON THE DERIVATIVE WORK IN ADDITION TO THAT SET FORTH ABOVE"
+
+licenseTemplate:
+  "<lq><codeph>THE INFORMATION IN THIS SOFTWARE IS SUBJECT TO CHANGE WITHOUT NOTICE AND SHOULD
+   NOT BE CONSTRUED AS A COMMITMENT BY DIGITAL EQUIPMENT CORPORATION. DIGITAL MAKES
+   NO REPRESENTATIONS ABOUT THE SUITABILITY OF THIS SOFTWARE FOR ANY PURPOSE. IT IS
+   SUPPLIED \"AS IS\" WITHOUT EXPRESS OR IMPLIED WARRANTY.</codeph>
+    <p>
+    IF THE SOFTWARE IS MODIFIED IN A MANNER CREATING DERIVATIVE COPYRIGHT RIGHTS,
+    APPROPRIATE LEGENDS MAY BE PLACED ON THE DERIVATIVE WORK IN ADDITION TO THAT SET
+    FORTH ABOVE.</p>
+    <p>
+    Permission to use, copy, modify, and distribute this software and its
+    documentation for any purpose and without fee is hereby granted, provided that
+    the above copyright notice appear in all copies and that both that copyright
+    notice and this permission notice appear in supporting documentation, and that
+    the name of Digital Equipment Corporation not be used in advertising or
+    publicity pertaining to distribution of the software without specific, written
+    prior permission.</p></lq>"
+
+mappings:
+  "COPYRIGHT 1990NEWLINE-MARKER DIGITAL EQUIPMENT CORPORATIONNEWLINE-MARKER MAYNARD, MASSACHUSETTSNEWLINE-MARKER ALL RIGHTS RESERVED.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER THE INFORMATION IN THIS SOFTWARE IS SUBJECT TO CHANGE WITHOUT NOTICE": " LICENSE-SEGMENT-MARKER COPYRIGHT 1990NEWLINE-MARKER DIGITAL EQUIPMENT CORPORATIONNEWLINE-MARKER MAYNARD, MASSACHUSETTSNEWLINE-MARKER ALL RIGHTS RESERVED.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER THE INFORMATION IN THIS SOFTWARE IS SUBJECT TO CHANGE WITHOUT NOTICE"

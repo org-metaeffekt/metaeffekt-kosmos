@@ -1,0 +1,22 @@
+canonicalName: BSD 3-Clause License + GNU General Public License 3.0 (or any later version)
+# as we match an combine based on content of the BSD 3-Clause we use this as category
+category: BSD+GPL
+shortName: BSD-3-Clause-OR-GPL-3.0+
+
+type: expression
+
+combinedWith:
+  "BSD 3-Clause License": "BSD 3-Clause License + GNU General Public License 3.0 (or any later version)"
+  "GNU General Public License 3.0 (or any later version)": "BSD 3-Clause License + GNU General Public License 3.0 (or any later version)"
+
+# compensated by combinedWith
+ignoreMatches:
+  - "BSD 3-Clause License"
+  - "GNU General Public License 3.0 (or any later version)"
+
+alternativeNames:
+  - "BSD 3-Clause License + GNU General Public License 3.0 (or any later version)"
+
+evidence:
+  matches:
+    - "GPL-3+ or BSD-3-clause"

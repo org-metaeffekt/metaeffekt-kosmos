@@ -1,0 +1,30 @@
+canonicalName: Morbig IEEE Std 1003.1 Usage
+category: Morbig IEEE Std 1003.1
+shortName: Morbig-IEEE-1003.1-Usage
+
+otherIds:
+  - "scancode:morbig-ieee-std-usage"
+
+classification: permissive
+
+canonicalNameHistory:
+  - "IEEE Std 1003.1 Text Usage"
+
+alternativeNames:
+  - "Morbig IEEE Std Usage"
+  - "IEEE Std 1003.1 Text Usage"
+
+evidence:
+  matches:
+    - "The Institute of Electrical and Electronics Engineers and The Open Group,
+       have given us permission to reprint portions of their documentation"
+    - "In the following statement, the phrase ``this text'' refers to portions
+       of the system documentation"
+    - "Portions of this text are reprinted and reproduced in electronic form
+       in the source code of Morbig, from IEEE Std 1003.1"
+    - "In the event of any discrepancy between these versions and the original IEEE
+       and The Open Group Standard, the original IEEE and The Open Group Standard is
+       the referee document"
+    - "If descriptions are added to the material that are in conflict with
+       the Standard then such conflicting descriptions must be clearly marked
+       in the text as a conflict with the Standard"

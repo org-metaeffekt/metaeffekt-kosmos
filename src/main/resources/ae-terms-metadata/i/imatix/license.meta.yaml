@@ -1,0 +1,46 @@
+canonicalName: SFL License
+category: SFL
+spdxIdentifier: iMatix
+
+canonicalNameHistory:
+  - "iMatix License"
+
+otherIds:
+  - "scancode:sfl-license"
+
+alternativeNames:
+  - "iMatix License"
+  - "IMATIX LICENSE"
+  - "IMATIX License"
+  - "iMatix STANDARD FUNCTION LIBRARY"
+  - "SFL License Agreement"
+
+evidence:
+  matches:
+    - "You do not need to provide the source code for the Product as part of your
+       product. However, you must do one of these things to comply with the Product
+       License Agreement"
+    - "Provide the source code for Product modules that you use, or"
+    - "Make your product freely available according to a license similar to the
+       GNU General Public License, or the Perl Artistic License, or"
+    - "Add this phrase to the documentation for your product: 'This product uses
+       parts of the iMatix SFL, Copyright © 1991-2000 iMatix Corporation <http://www.imatix.com>'"
+    - "You may freely and at no cost use the Product in any project, commercial,
+       academic, military, or private, so long as you respect the License Agreement"
+    - "The License Agreement does not affect any software except the Product"
+    - "In particular, any application that uses the Product does not itself fall under
+       the License Agreement"
+    - "You may modify any part of the Product, including sources and documentation,
+       except this License Agreement, which you may not modify"
+    - "You must clearly indicate any modifications at the start of each source file"
+    - "The user of any modified Product code must know that the source file is not original"
+
+references:
+  "GPL":
+    matches:
+      - "according to a license similar to the GNU General Public License, or the Perl Artistic License"
+  "Artistic License":
+    matches:
+      - "according to a license similar to the GNU General Public License, or the Perl Artistic License"
+
+

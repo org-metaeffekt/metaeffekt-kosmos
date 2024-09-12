@@ -1,0 +1,20 @@
+canonicalName: GNOME Examples Exception
+category: GNOME-Examples-Exception
+spdxIdentifier: GNOME-examples-exception
+
+otherIds:
+  - "scancode:gnome-examples-exception"
+
+type: exception
+
+canonicalNameHistory:
+  - "GNOME examples exception"
+
+alternativeNames:
+  - "GNOME-examples-exception"
+  - "GNOME examples exception"
+
+evidence:
+  matches:
+    - "As a special exception, the copyright holders give you permission to copy, modify, and distribute
+       the example code contained in this document under the terms of your choosing, without restriction"

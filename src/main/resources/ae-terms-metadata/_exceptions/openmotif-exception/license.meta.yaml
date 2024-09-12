@@ -1,0 +1,32 @@
+canonicalName: Open Motif Exception
+category: Open Motif Exception
+shortName: Open-Motif-Exception
+
+otherIds:
+  - "scancode:openmotif-exception-2.0-plus"
+
+type: exception
+
+alternativeNames:
+  - "Open Motif exception to GPL 2.0 or later"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Open Motif exception)
+
+evidence:
+  matches:
+    - "In addition, as a special exception to the GNU GPL, the copyright holders
+       give permission to link the code of this program with the Motif and Open
+       Motif libraries (or with modified versions of these that use the same
+       license), and distribute linked combinations including the two"
+    - "You must obey the GNU General Public License in all respects for all of
+       the code used other than linking with Motif/Open Motif"
+    #This match produces incomplete matches
+    #- "If you modify this file, you may extend this exception to your version of the file,
+    #   but you are not obligated to do so"
+
+references:
+  "GPL":
+    matches:
+      - "as a special exception to the GNU GPL"
+      - "You must obey the GNU General Public License in all respects"

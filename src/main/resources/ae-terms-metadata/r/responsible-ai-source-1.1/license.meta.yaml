@@ -1,0 +1,31 @@
+canonicalName: Reponsible AI Source Code License 1.1
+category: Reponsible AI Source Code License
+shortName: responsible-ai-source-1.1
+
+otherIds:
+  - "scancode:responsible-ai-source-1.1"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Reponsible AI Source Code License 1.1"
+
+evidence:
+  matches:
+    - "Subject to this License, each Contributor grants You a non-exclusive, worldwide, royalty-free
+       copyright license to reproduce its Contribution, prepare derivative works of its Contribution,
+       and distribute its Contribution or any derivative works of its Contribution that You create"
+    - "If You distribute any portion of the Contribution, You must include a complete copy of this
+       License with the distribution; and"
+    - "You agree that the Contribution, or any derivative work of the Contribution, will not be used
+       by You or any third party subject to Your control, to"
+    - "Detect or infer any legally protected class or aspect of any person, as defined by U.S. Federal Law; and"
+    - "Detect or infer aspects and/or features of an identity any person, such as name, family name,
+       address, gender, sexual orientation, race, religion, age, location (at any geographical level),
+       skin color, society or political affiliations, employment status and/or employment history, and
+       health and medical conditions"
+    - "Age and medical conditions may be inferred solely for the purpose of improving software/hardware
+       accessibility and such data should not be cached or stored without the explicit and time limited
+       permission of Licensor"
+  excludes:
+    - "Version 1.0, February 12, 2019"

@@ -1,0 +1,32 @@
+canonicalName: Broadcom Opus Patent License
+category: Broadcom Opus Patent
+shortName: Broadcom-Opus-Patent
+
+otherIds:
+  - "scancode:broadcom-opus-patent"
+
+evidence:
+  matches:
+    - "Specification means, and includes the following, both
+       individually and collectively, (a) any standard specification of the
+       Opus codec adopted by the IETF Codec Working Group (“Standard”) and (b)
+       any reference implementation (each, a “Reference Implementation”)
+       published by the IETF Codec Working Group in the request for comments
+       (“RFC”) issued by the IETF for the Specification draft for which this
+       License is issued, or any RFC that is issued as an update or new version
+       thereof"
+    - "Licensed
+       Patents means all patents currently owned by Broadcom or acquired hereafter
+       that Broadcom has the right to license as set forth above and that are
+       necessarily infringed by the Specification, where “necessarily
+       infringed” means"
+    - "If you, directly or indirectly via controlled affiliate or
+       subsidiary, agent, or exclusive licensee, file a Claim for patent
+       infringement against any entity alleging that an Implementation in whole
+       or in part constitutes direct or contributory patent infringement, or
+       inducement of patent infringement (a “Claim”), provided that a Reference
+       Implementation also infringes the patents asserted in the Claim, then
+       any patent rights granted to you under this License shall automatically
+       terminate retroactively as of the date you first received the grant"
+
+

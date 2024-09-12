@@ -1,0 +1,15 @@
+canonicalName: Segmentation-019
+category: Segmentation
+shortName: Segmentation-019
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "019"
+
+mappings:
+  # CDDL + GPL with classpath exception
+  "NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKER(NEWLINE-MARKER The GNU General Public License)": "LICENSE-SEGMENT-MARKER$1"
+  "(NEWLINE-MARKER The GNU General Public License ((?!NEWLINE-MARKER).)*NEWLINE-MARKER)LICENSE-SEGMENT-MARKER( Copyright)": "$1$2"
+  "(NEWLINE-MARKER)LICENSE-SEGMENT-MARKER(-[-]*NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER NOTICE PURSUANT TO SECTION 9 OF THE COMMON DEVELOPMENT AND DISTRIBUTION)": "$1$2"

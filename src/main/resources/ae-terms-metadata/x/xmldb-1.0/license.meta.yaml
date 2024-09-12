@@ -1,0 +1,31 @@
+canonicalName: XML:DB Initiative Software License 1.0
+category: XML:DB Initiative Software License
+shortName: XMLDB-1.0
+
+otherIds:
+  - "scancode:xmldb-1.0"
+
+alternativeNames:
+  - "http://xmldb-org.sourceforge.net/index.html"
+  - "http://xmldb-org.sourceforge.net/legal.html"
+  - "XML:DB Initiative Software License 1.0"
+  - "XML:DB Initiative Software License, Version 1.0"
+  - "http://www.xmldb.org/"
+
+evidence:
+  matches:
+    - "The end-user documentation included with the redistribution,
+       if any, must include the following acknowledgment:
+       'This product includes software developed by the
+       XML:DB Initiative (http://www.xmldb.org/)'"
+    - "Alternately, this acknowledgment may appear in the software itself,
+       if and wherever such third-party acknowledgments normally appear"
+    - "The name 'XML:DB Initiative' must not be used to endorse or
+       promote products derived from this software without prior written
+       permission"
+    - "For written permission, please contact info@xmldb.org"
+    - "Products derived from this software may not be called 'XML:DB',
+       nor may 'XML:DB' appear in their name, without prior written
+       permission of the XML:DB Initiative"
+    - "This software consists of voluntary contributions made by many
+       individuals on behalf of the XML:DB Initiative"

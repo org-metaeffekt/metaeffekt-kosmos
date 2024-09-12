@@ -1,0 +1,22 @@
+canonicalName: Google API Terms of Service 2021
+category: Google API
+shortName: Google-API-TOS-2021
+
+otherIds:
+  - "scancode:google-apis-tos-2021"
+
+alternativeNames:
+  - "Google APIs Terms of Service Last modified: November 9, 2021"
+
+evidence:
+  matches:
+    - "Thank you for using Google's APIs, other developer services, and associated software (collectively, \"APIs\")"
+    - "You may not use the APIs and may not accept the Terms if (a) you are not of legal age to form a binding contract with Google, or (b) you are a person barred from using or receiving the APIs under the applicable laws of the United States or other countries including the country in which you are resident or from which you use the APIs"
+    - "In order to access certain APIs you may be required to provide certain information (such as identification or contact details) as part of the registration process for the APIs, or as part of your continued use of the APIs"
+    - "You will comply with all applicable law, regulation, and third party rights (including without limitation laws regarding the import or export of data or software, privacy, and local laws)"
+    - "We may send you certain communications in connection with your use of the APIs. Please review the applicable API documentation for information about opting out of certain types of communication"
+    - "The APIs are designed to help you enhance your websites and applications"
+    - "You will use commercially reasonable efforts to protect user information collected by your API Client, including personal data, from unauthorized access or use and will promptly report to your users any unauthorized access or use of such information to the extent required by applicable law"
+    - "Developer credentials (such as passwords, keys, and client IDs) are intended to be used by you and identify your API Client"
+    - "When a user's non-public content is obtained through the APIs, you may not expose that content to other users or to third parties without explicit opt-in consent from that user"
+    - "The APIs were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable U.S. Federal Acquisition Regulation and agency supplements thereto"

@@ -1,0 +1,34 @@
+canonicalName: Microsoft Software License (.NET Library 2016-05)
+category: Microsoft Software
+shortName: MS-NET-Library-2016-05
+
+otherIds:
+  - "scancode:ms-net-library-2016-05"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the
+       software to design, develop and test your programs"
+    - "The software may collect information about you and your use of the
+       software, and send that to Microsoft"
+    - "The software may include third party programs that
+       Microsoft, not the third party, licenses to you under this agreement"
+    - "software may collect information about you and your use of the
+       software, and send that to Microsoft. Microsoft may use this information to
+       improve our products and services"
+    - "This agreement only
+       gives you some rights to use the software"
+    - "Microsoft reserves all other rights"
+    - "reverse engineer, decompile or disassemble the software, except and only to
+       the extent that applicable law expressly permits, despite this limitation"
+    - "The software is subject to United States export laws and
+       regulations"
+    - "This agreement, and the terms for supplements, updates,
+       Internet-based services and support services that you use, are the entire
+       agreement for the software and support services"
+    - "MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS"
+    - "YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS OR STATUTORY GUARANTEES UNDER YOUR LOCAL
+       LAWS WHICH THIS AGREEMENT CANNOT CHANGE"
+
+ignoreMatches:
+  - "Microsoft Visual Studio 2015 Software Development Kit License"

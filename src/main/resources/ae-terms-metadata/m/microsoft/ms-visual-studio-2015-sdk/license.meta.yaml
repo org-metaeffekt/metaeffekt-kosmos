@@ -1,0 +1,30 @@
+canonicalName: Microsoft Visual Studio 2015 Software Development Kit License
+category: Microsoft Visual Studio 2015 Software Development Kit License
+shortName: ms-visual-2015-sdk
+
+otherIds:
+  - "scancode:ms-visual-2015-sdk"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Microsoft Visual Studio 2015 Software Development Kit License"
+  - "ms-visual-2015-sdk"
+
+evidence:
+  matches:
+    - "It also applies even if Microsoft knew or should have known about the possibility of the damages"
+    - "The above limitation or exclusion may not apply to you because your country may not allow the exclusion
+       or limitation of incidental, consequential or other damages"
+    - "As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French"
+  excludes:
+    - "For more information, see www.microsoft.com/licensing/userights"
+    - "YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE"
+    - "YOU HAVE STATUTORY GUARANTEES UNDER THE AUSTRALIAN CONSUMER LAW"
+    - "This software is a pre-release version"
+    - "include Distributable Code in malicious, deceptive or unlawful programs"
+    - "Reports might unintentionally contain personal information"
+
+ignoreMatches:
+  - "Microsoft Software License (.NET Library 2016-05)"
+  - "Microsoft Software License (.NET Library License 2020-09)"

@@ -1,0 +1,26 @@
+canonicalName: Educational Community License 1.0
+category: ECL
+spdxIdentifier: ECL-1.0
+
+otherIds:
+  - "scancode:ecl-1.0"
+
+alternativeNames:
+  - "Educational Community License 1.0"
+  - "Educational Community License, Version 1.0"
+  - "ECL, Version 1.0"
+  - "ECL, 1.0"
+  - "ECL-1.0"
+  - "ECL 1.0"
+  - "Educational Community License version 1.0"
+
+evidence:
+  matches:
+    - "The full text of the Educational Community License in a location viewable
+       to users of the redistributed or derivative work"
+    - "Any pre-existing intellectual property disclaimers, notices, or terms and
+       conditions"
+    - "Notice of any changes or modifications to the Original Work, including the
+       date the changes were made"
+    - "Any modifications of the Original Work must be distributed in such a manner
+       as to avoid any confusion with the Original Work of the copyright holders"

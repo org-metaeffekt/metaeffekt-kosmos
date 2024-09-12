@@ -1,0 +1,31 @@
+canonicalName: Adobe Acrobat Reader EULA
+category: Adobe Acrobat Reader EULA
+shortName: Adobe-Acrobat-Reader-EULA
+
+otherIds:
+  - "scancode:adobe-acrobat-reader-eula"
+
+alternativeNames:
+  - "Adobe Acrobat Reader EULA ADOBE"
+
+evidence:
+  matches:
+    - "As long as you comply with the terms of this End User License Agreement (the 'Agreement'),
+       Adobe grants to you a non-exclusive license to Use the Software for the purposes described
+       in the Documentation.  Some third party materials included in the Software may be subject
+       to other terms and conditions, which are typically found in a 'Read Me' file located near such materials"
+    - "You may install and Use a copy of the Software on your compatible computer,
+       up to the Permitted Number of computers; or"
+    - "You may install one copy of the Software on your computer file server for the purpose of downloading
+       and installing the Software onto other computers within your internal network up to the Permitted Number
+       or you may install one copy of the Software on a computer file server within your internal network for the
+       sole and exclusive purpose of using the Software through commands, data or instructions (e.g. scripts)
+       from an unlimited number of computers on your internal network.  No other network use is permitted,
+       including but not limited to, using the Software either directly or through commands, data or instructions
+       from or to a computer not part of your internal network, for internet or web hosting services or by any
+       user not licensed to use this copy of the Software through a valid license from Adobe; and"
+    - "You may make one backup copy of the Software, provided your backup copy is not installed or used on any
+       computer. You may not transfer the rights to a backup copy unless you transfer all rights in the Software as provided under Section 4"
+    - "You, as the primary user of the computer on which the Software is installed, may also install the
+       Software on one of your home computers. However, the Software may not be used on your home computer
+       at the same time the Software on the primary computer is being used"

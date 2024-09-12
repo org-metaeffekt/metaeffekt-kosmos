@@ -1,0 +1,21 @@
+canonicalName: Toronto Region Conservation Authority Open Data Licence 1.0
+category: Toronto Region Conservation Authority Open Data Licence
+shortName: TRCA-ODL-1.0
+
+otherIds:
+  - "scancode:trca-odl-1.0"
+
+alternativeNames:
+  - "Toronto and Region Conservation Authority (TRCA) Open Data Licence v1.0"
+
+evidence:
+  matches:
+    - "TRCA grants to the Recipient a royalty-free, world-wide and non-exclusive licence (the 'Licence') to the information (the 'Data'),
+       including for commercial purposes, subject to the terms below"
+    - "Use of any information (the 'Data') indicates your acceptance of the terms below"
+    - "You are free to: Access, copy, process, manage, store and otherwise use the information (the 'Data') other than personal information"
+    - "Modify, distribute, adapt, translate or create derivative works for both personal use and for profit based on the information (the 'Data')"
+    - "You must (where you do any of the above): Where the Recipient engages in the distribution, publication, modification, adaption, translation or the creation of a derivative work based on the Data"
+    - "The Recipient warrants and agrees not to misrepresent the Data or the source of the Data, or to use the Data in any manner which is likely to cause harm or damage to TRCA or contrary to any applicable laws"
+    - "The Recipient agrees that TRCA will be acknowledged as the source of the Data using the following credit statement:
+       'Contains information made available under the Toronto and Region Conservation Authority (TRCA)’s Open Data Licence v 1.0'"

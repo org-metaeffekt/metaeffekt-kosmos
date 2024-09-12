@@ -1,0 +1,42 @@
+canonicalName: Creative Commons BY-NC 4.0
+category: CC-BY-NC
+spdxIdentifier: CC-BY-NC-4.0
+
+otherIds:
+  - "scancode:cc-by-nc-4.0"
+
+requiresAnnexNotice: true
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+requiresLicenseText: false
+
+canonicalNameHistory:
+  - "Creative Commons BY-NC 4.0 (international)"
+
+alternativeNames:
+  - "CC-BY-NC-4.0"
+  - "Creative Commons Attribution Non Commercial 4.0 International"
+  - "Creative Commons Attribution-NonCommercial 4.0 International"
+
+evidence:
+  matches:
+    - "reproduce and Share the Licensed Material, in whole or in part, for NonCommercial
+       purposes only"
+    - "produce, reproduce, and Share Adapted Material for NonCommercial purposes only"
+    - "identification of the creator(s) of the Licensed Material and any others
+       designated to receive attribution, in any reasonable manner requested by the
+       Licensor (including by pseudonym if designated)"
+    - "for the avoidance of doubt, Section 2(a)(1) grants You the right to extract,
+       reuse, reproduce, and Share all or a substantial portion of the contents of
+       the database for NonCommercial purposes only"
+    - "You must comply with the conditions in Section 3(a) if You Share all or
+       a substantial portion of the contents of the database"
+    - "NonCommercial means not primarily intended for or directed towards commercial
+       advantage or monetary compensation"
+  excludes:
+    - "Additional offer from the Licensor – Adapted Material. Every recipient
+       of Adapted Material from You automatically receives an offer from the Licensor
+       to exercise the Licensed Rights in the Adapted Material under the conditions
+       of the Adapter's License You apply"

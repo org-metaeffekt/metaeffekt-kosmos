@@ -1,0 +1,11 @@
+canonicalName: Server Side Public License 1.0 (with OpenSSL Linking Exception (SSPL))
+category: SSPL+OpenSSL Linking
+shortName: SSPL-1.0-OpenSSL-Linking-Exception-SSPL
+
+type: expression
+
+combinedWith:
+  "Server Side Public License 1.0": "Server Side Public License 1.0 (with OpenSSL Linking Exception (SSPL))"
+  "OpenSSL Linking Exception (SSPL)": "Server Side Public License 1.0 (with OpenSSL Linking Exception (SSPL))"
+
+displayName: Server Side Public License 1.0 (with OpenSSL Linking Exception)

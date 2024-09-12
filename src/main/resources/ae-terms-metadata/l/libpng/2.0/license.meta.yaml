@@ -1,0 +1,23 @@
+canonicalName: PNG Reference Library License 2.0
+category: libpng
+spdxIdentifier: libpng-2.0
+
+otherIds:
+  - "scancode:libpng-v2"
+
+alternativeNames:
+  - "PNG Reference Library License 2"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "The origin of this software must not be misrepresented; you
+       must not claim that you wrote the original software.  If you
+       use this software in a product, an acknowledgment in the product
+       documentation would be appreciated, but is not required"
+    - "Altered source versions must be plainly marked as such, and must
+       not be misrepresented as being the original software"
+    - "This Copyright notice may not be removed or altered from any
+       source or altered source distribution"

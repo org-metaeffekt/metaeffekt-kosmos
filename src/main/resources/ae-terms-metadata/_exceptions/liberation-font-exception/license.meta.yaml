@@ -1,0 +1,31 @@
+canonicalName: Liberation Font Exception (GPL)
+category: Liberation Font
+shortName: Liberation-Font-Exception-GPL
+
+type: exception
+
+otherIds:
+  - "scancode:liberation-font-exception"
+
+alternativeNames:
+  - "LICENSE AGREEMENT AND LIMITED PRODUCT WARRANTY
+      LIBERATION FONT SOFTWARE"
+
+evidence:
+  matches:
+    - "As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License"
+    - "If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so"
+    - "As a further exception, any distribution of the object code of the Software in a physical product must provide you the right to access and modify the source code for the Software and to reinstall that modified version of the Software in object code form on the same physical product on which you received it"
+    - "The Software and each of its components, including the source code, documentation, appearance, structure and organization are owned by Red Hat and others and are protected under copyright and other laws"
+    - "If Client makes a redistribution of a modified version of the Software, then Client must modify the files names to remove any reference to the Red Hat trademarks and must not use the Red Hat trademarks in any way to reference or promote the modified Software"
+    - "To the maximum extent permitted under applicable law, the Software is provided and licensed \"as is\" without warranty of any kind, expressed or implied, including the implied warranties of merchantability, non-infringement or fitness for a particular purpose"
+
+references:
+  "GPL":
+    matches:
+      - "LICENSE AGREEMENT AND LIMITED PRODUCT WARRANTY
+          LIBERATION FONT SOFTWARE
+
+          This agreement governs the use of the Software and any updates to the Software, regardless of the delivery mechanism. Subject to the following terms, Red Hat, Inc. (\"Red Hat\") grants to the user (\"Client\") a license to this work pursuant to the GNU General Public License v.2 with the exceptions set forth below and such other terms as are set forth in this End User License Agreement."
+      - "LIBERATION font software  (the \"Software\") consists of TrueType-OpenType formatted font software for rendering LIBERATION typefaces in sans-serif, serif, and monospaced character styles. You are licensed to use, modify, copy, and distribute the Software pursuant to the GNU General Public License v.2 with the following exceptions"
+  

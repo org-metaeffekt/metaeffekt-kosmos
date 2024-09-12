@@ -1,0 +1,19 @@
+canonicalName: GNU General Public License 2.0 (with Font exception (GPL))
+category: GPL+Font
+shortName: GPL-2.0-Font-Exception-GPL
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0] WITH [Font Exception (GPL)]"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with Font exception 2.0)"
+
+displayName: 
+  "GNU General Public License 2.0 (with Font exception)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Font exception (GPL))"
+  "Font Exception (GPL)": "GNU General Public License 2.0 (with Font exception (GPL))"

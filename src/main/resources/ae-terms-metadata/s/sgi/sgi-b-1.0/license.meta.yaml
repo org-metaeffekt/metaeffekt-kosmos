@@ -1,0 +1,44 @@
+canonicalName: SGI B License 1.0
+category: SGI B
+spdxIdentifier: SGI-B-1.0
+
+otherIds:
+  - "scancode:sgi-fslb-1.0"
+
+alternativeNames:
+  - "SGI B, Version 1.0"
+  - "SGI B, 1.0"
+  - "SGI B 1.0"
+  - "SGI-B, Version 1.0"
+  - "SGI-B, 1.0"
+  - "SGI-B 1.0"
+  - "SGI B License, Version 1.0"
+  - "SGI B License, 1.0"
+  - "SGI B License 1.0"
+  - "SGI-B License, Version 1.0"
+  - "SGI-B License, 1.0"
+  - "SGI-B License 1.0"
+  - "SGI FREE SOFTWARE LICENSE B (Version 1.0 1/25/2000)"
+
+evidence:
+  matches:
+    - "'Modifications' means any addition to the substance or structure of the
+       Original Code and/or any addition to or deletion from previous Modifications"
+    - "When Covered Code is released as a series of files"
+    - "Any addition to the contents of a file containing Original Code and/or
+       any addition to or deletion from previous Modifications"
+    - "Any new file that contains any part of the Original Code or previous Modifications"
+    - "'Notice' means any notice in Original Code or Covered Code, as required
+       by and in compliance with this License"
+    - "'Original Code' means source code of computer software code which is
+       described in the source code Notice required by Exhibit A as Original Code,
+       and updates and error corrections specifically thereto"
+    - "'Recipient' means an individual or a legal entity exercising rights under,
+       and complying with all of the terms of, this License or a future version of
+       this License issued under Section 8"
+    - "For legal entities, 'Recipient' includes any entity which controls, is controlled by,
+       or is under common control with Recipient"
+    - "For purposes of this definition, 'control' of an entity means (a)
+       the power, direct or indirect, to direct or manage such entity, or (b) ownership
+       of fifty percent (50%) or more of the outstanding shares or beneficial ownership
+       of such entity"

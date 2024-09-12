@@ -1,0 +1,15 @@
+canonicalName: Segmentation-012
+category: Segmentation
+shortName: Segmentation-012
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "012"
+
+mappings:
+  # Some code in; The levenshtein automata tables in; The following license applies
+  "(NEWLINE-MARKER\\s*Some code in)": "LICENSE-SEGMENT-MARKER$1"
+  "(NEWLINE-MARKER\\s*The levenshtein automata tables in)": "LICENSE-SEGMENT-MARKER$1"
+  "(NEWLINE-MARKER\\s*The following license applies to)": "LICENSE-SEGMENT-MARKER$1"

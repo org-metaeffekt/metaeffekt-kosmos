@@ -1,0 +1,20 @@
+canonicalName: ITU-T Software Tools General Public License
+category: ITU-T Software Tools General Public License
+shortName: ITU-T-GPL
+
+otherIds:
+  - "scancode:itu-t-gpl"
+
+alternativeNames:
+  - "ITU-T Software Tools General Public License"
+  - "ITU-T SOFTWARE TOOLS' GENERAL PUBLIC LICENSE"
+
+evidence:
+  matches:
+    - "You may copy and distribute verbatim copies of the Module's
+       source code as you receive it"
+    - "You may charge a fee for the physical act of transferring a copy"
+    - "You may charge a fee for the physical act of transferring a copy, and you may at your option
+       offer warranty protection in exchange for a fee"
+    - "Mere aggregation of another independent work with the Module (or its derivative) on a volume of
+       a storage or distribution medium does not bring the other work under the scope of these terms"

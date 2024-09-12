@@ -1,0 +1,27 @@
+canonicalName: Data Licence Germany BY-NC 1.0
+category: Data Licence BY-NC
+shortName: DL-DE-BY-NC-1.0
+
+otherIds:
+  - "scancode:dl-de-by-nc-1-0-en"
+
+alternativeNames:
+  - "Data licence Germany – attribution – non-commercial – Version 1.0"
+
+canonicalNameHistory:
+  - "Data Licence BY-NC 1.0"
+
+evidence:
+  matches:
+    - "Any use for non-commercial purposes quoting the source for is permissible"
+    - "Changes, editing, new designs or other amendments shall be marked with information
+       in the source note about relevant changes, or the source note must be deleted if the
+       entity keeping the data requires so"
+    - "The provider makes available the data, contents and services with the diligence necessary
+       for the discharge of its public tasks"
+    - "With reference to their availability and quality, the specifications and quality features
+       assigned by the provider in the meta-data or other descriptions apply to the data, contents and services"
+    - "However, the provider does not assume any liability for the accuracy and completeness of
+       data and contents and for permanent availability of services"
+  excludes:
+    - "Datenlizenz Deutschland – Namensnennung – Version 1.0"

@@ -1,0 +1,31 @@
+canonicalName: Adobe Flex 4 SDK Software License Agreement
+category: Adobe Flex 4 SDK Software License Agreement
+shortName: Adobe-Flex-4-SDK
+
+otherIds:
+  - "scancode:adobe-flex-4-sdk"
+
+alternativeNames:
+  - "ADOBE SYSTEMS INCORPORATED SOFTWARE DEVELOPMENT KIT"
+
+evidence:
+  matches:
+    - "This Agreement governs installation and use of the Flex SDK"
+    - "You agree that this Agreement is like any written negotiated agreement signed by you"
+    - "By clicking to acknowledge agreement to be bound during review of an electronic version
+       of this Agreement or by downloading, copying, installing or using any portion of this SDK,
+       you accept all the terms and conditions of this Agreement"
+    - "This Agreement is enforceable against you and any person or entity that obtains this
+       SDK or on whose behalf they are used: for example, your employer"
+    - "If you do not agree to the terms of this Agreement, do not use any portion of this SDK"
+    - "This Agreement shall apply to any portion of the SDK, regardless of whether other software
+       is referred to or described herein"
+    - "You may have a separate written agreement with Adobe that supplements or
+       supersedes all or portions of this Agreement"
+    - "Your use of some third party materials included in the SDK may be subject to other terms
+       and conditions typically found in a separate license agreement or a 'Read Me' file located
+       near such materials or in the 'Third Party Software Notices and/or Additional Terms and Conditions'
+       found at http://www.adobe.com/go/thirdparty"
+    - "Such other terms and conditions may require you to pass through notices to your end users"
+    - "Such other terms and conditions will supersede all or portions of this Agreement in
+       the event of a conflict with the terms and conditions of this Agreement"

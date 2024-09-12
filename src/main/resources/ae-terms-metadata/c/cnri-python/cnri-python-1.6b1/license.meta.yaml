@@ -1,0 +1,27 @@
+canonicalName: CNRI Open Source License Agreement (Python 1.6b1)
+category: CNRI Open Source License Agreement
+spdxIdentifier: CNRI-Python
+shortName: CNRI-Python-1.6b1
+
+otherIds:
+  - "osi:CNRI-Python"
+
+# please always check that the correct version is references. Per default we mab to the 1.6 version (2005-09).
+alternativeNames:
+  - "http://spdx.org/licenses/CNRI-Python"
+  - "https://spdx.org/licenses/cnri-python"
+  - "http://www.opensource.org/licenses/CNRI-Python"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License Agreement, CNRI hereby
+       grants Licensee a non-exclusive, royalty-free, world-wide license to reproduce,
+       analyze, test, perform and/or display publicly, prepare derivative works,
+       distribute, and otherwise use Python 1.6b1 alone or in any derivative version,
+       provided, however, that CNRIs License Agreement is retained in Python 1.6b1,
+       alone or in any derivative version prepared by Licensee"
+    - "In the event Licensee prepares a derivative work that is based on or incorporates
+       Python 1.6b1 or any part thereof, and wants to make the derivative work available
+       to the public as provided herein, then Licensee hereby agrees to indicate
+       in any such work the nature of the modifications made to Python 1.6b1"
+    - "CNRI is making Python 1.6b1 available to Licensee on an AS IS basis"

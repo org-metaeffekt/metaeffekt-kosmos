@@ -1,0 +1,59 @@
+canonicalName: AgentX++ License Agreement
+category: AgentX++ License Agreement
+shortName: AgentXpp
+
+otherIds:
+  - "scancode:agentxpp"
+
+alternativeNames:
+  - "AGENTX++ LICENSE AGREEMENT"
+
+evidence:
+  matches:
+    - "Source  Code Site  License.  Subject  to the  terms and  conditions of  this
+       Agreement, and upon payment by LICENSEE to LICENSOR of the one-time license  fee
+       set  forth in  Addendum A,  LICENSOR grants  LICENSEE a  perpetual (subject   to
+       termination rights  in Section  6), non-exclusive,  non-transferable license  to
+       reproduce, use,   modify,  or   have  modified   by a   third  party  contractor
+       (modifications  in  accordance to  Section  2.6) subject   to  a confidentiality
+       agreement  no   less restrictive  than   this Agreement,  the   Source Code  for
+       internal  use  only, for   the sole  purpose  of  developing AgentX-enabled SNMP
+       agents at  the Site  (hereafter 'Licensed  Site') specified  by LICENSEE  during
+       license purchase. Additionally,  Customer’s contractors and  employees reporting
+       directly and only to a manager at the Licensed Site, such as telecommuters,  may
+       use the Software Product at  remote locations. Off-site employees re-porting  in
+       any way to a manager at their location are not covered under this Site License"
+    - "Except as  specified in 2.1,  neither the Software  Product Source Code  nor
+       Object Code derived  from the Software  Product may be  redistributed or resold.
+       Executable Code programs derived from the Software Product may be  redistributed
+       and  resold  without limitation  and   without royalty,  provided  that LICENSEE
+       added  significant functionality  to those  derived Excecutable  Code programs.
+       Functionality in this context refers to the program's behavior, not appearance"
+    - "LICENSEE  has no  right to  transfer, or  sublicense
+       the Licensed Software  to  any third   party, except  as  specified in 2.2   and
+       except if the third  party takes over  the business  of LICENSEE"
+    - "LICENSEE  may not:  (i) copy   the Licensed  Software,  except  as  necessary  to
+       use  the  Licensed  Software  in accordance   with   the  license   granted  under
+       Section   2.1  and 2.2,   and except for  a reasonable number of backup copies"
+    - "LICENSEE has no right or license to use any  trademark of LICENSOR during or
+       after the term of this Agreement"
+    - "The Licensed Software is copyrighted.  All proprietary notices  incorporated in,
+       marked on,  or affixed  to the  Licensed Software  by LICENSOR shall be duplicated
+       by LICENSEE on all copies, in whole or in part,  in any form of the Licensed Software
+       and not be altered, removed, or obliterated on such copies"
+    - "LICENSOR reserve  all  rights and  licenses  to the  Licensed
+       Software not expressly granted to LICENSEE under this Agreement"
+    - "Upon execution of this Agreement, and payment of the amounts  due
+       and owing under this Agreement, LICENSOR will provide LICENSEE with one (1) copy
+       of the Software Product by downloading from LICENSOR's Web site"
+
+references:
+  "Public Domain":
+    matches:
+      - "LICENSEE acknowledges that LICENSOR  is the owner of the  Software Product,
+         that  the  Software Product  is confidential  in nature  and not  in the  public
+         domain, that  LICENSOR claims all intellectual  and industrial property   rights
+         granted by  law therein and that, except as set forth herein, LICENSOR does  not
+         hereby grant any  rights or ownership  of the  Software Product to  LICENSEE  or
+         any third  party"
+

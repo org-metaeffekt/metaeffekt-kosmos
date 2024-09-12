@@ -1,0 +1,14 @@
+canonicalName: magaz License
+category: magaz
+spdxIdentifier: magaz
+
+otherIds:
+  - "scancode:magaz"
+
+alternativeNames:
+  - "magaz License"
+
+evidence:
+  matches:
+    - "This software may be freely used, transmitted, reproduced, or modified provided that
+       the copyright notice and this permission is retained"

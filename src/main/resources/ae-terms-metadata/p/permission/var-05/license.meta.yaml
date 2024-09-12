@@ -1,0 +1,43 @@
+canonicalName: Permission Terms (variant 005)
+category: Permission
+spdxIdentifier: HPND-doc-sell
+
+otherIds:
+  - "scancode:hpnd-doc-sell"
+#  - "scancode:x11-doc"
+#this license is not a x11 license - the other identifier makes more sense
+# both scancode IDs are active atm and the licenses are identical except the placeholder - modelling impossible - we have to decide upon one of them
+
+canonicalNameHistory:
+  - "Permission Terms Var005"
+
+displayName: Permission Terms (no representation; no warranty)
+representedAs: Permission Terms
+
+status:
+  - "reviewed 30.01.2024"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, distribute, and sell this
+       documentation for any purpose is hereby granted without fee,
+       provided that the above copyright notice and this permission
+       notice appear in all copies"
+    - "makes no representations about the suitability for any purpose of the information in this document"
+    - "This documentation is provided \"as is\" without express or implied warranty"
+  excludes:
+    - "Except as contained in this notice the name of the X Consortium shall not be used in advertising or otherwise to promote the sale use or other dealings in this Software without prior written authorization"
+
+mappings:
+  "Copyright Digital Equipment Corporation, 1996NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute": " LICENSE-SEGMENT-MARKER Copyright Digital Equipment Corporation, 1996NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute"
+
+licenseTemplate: "<lq>Permission to use, copy, modify, distribute, and sell this
+                  documentation for any purpose is hereby granted without fee,
+                  provided that the above copyright notice and this permission
+                  notice appear in all copies. <p>{{copyrightHolderNoRepresentation}} makes no representations 
+                  about the suitability for any purpose of the information in this document.</p> This documentation is
+                  provided \"as is\" without express or implied warranty.</lq>"

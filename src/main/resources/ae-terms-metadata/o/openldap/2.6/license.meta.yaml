@@ -1,0 +1,25 @@
+canonicalName: OpenLDAP Public License 2.6
+category: OLDAP
+spdxIdentifier: OLDAP-2.6
+
+otherIds:
+  - "scancode:openldap-2.6"
+
+alternativeNames:
+  - "OLDAP, Version 2.6"
+  - "OLDAP, 2.6"
+  - "OLDAP 2.6"
+  - "OLDAP License, Version 2.6"
+  - "OLDAP License, 2.6"
+  - "OLDAP License 2.6"
+  - "OpenLDAP Public License Version 2.6"
+  - "THIS WORK IS SUBJECT TO VERSION 2.6 OF THE OPENLDAP PUBLIC LICENSE"
+
+evidence:
+  matches:
+    - "The names and trademarks of the authors and copyright holders must not
+       be used in advertising or otherwise to promote the sale, use or other dealing
+       in this Software without specific, written prior permission"
+  excludes:
+    - "Due credit should be given to the authors of the Software"
+    - "Due credit should be given to the OpenLDAP Project"

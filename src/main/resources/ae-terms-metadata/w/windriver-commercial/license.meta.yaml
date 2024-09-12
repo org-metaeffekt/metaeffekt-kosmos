@@ -1,0 +1,19 @@
+canonicalName: Wind River License
+category: Wind River License
+shortName: WindRiver-Commercial
+
+otherIds:
+  - "scancode:windriver-commercial"
+
+alternativeNames:
+  - "http://www.windriver.com/licensing/"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "Use the Wind River® Product Activation Portal to activate your software and
+       manage your licenses"
+    - "To use the Product Activation Portal, you will need the License Administrator
+       Essentials sheet that was shipped with your product"

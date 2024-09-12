@@ -1,0 +1,56 @@
+canonicalName: Permission Terms (HPND; sell)
+category: Permission
+shortName: PT-Var035
+spdxIdentifier: HPND-sell-variant
+
+otherIds:
+  - "scancode:x11-keith-packard"
+
+canonicalNameHistory:
+  - "Permission Terms Var035"
+  - "Permission Terms (variant 079)"
+  - "Permission Terms (HPND sell)"
+  - "Historical Permission Notice and Disclaimer - sell variant"
+  - "Permission Terms (variant 035)"
+
+status:
+  - "reviewed 12.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+displayName: "Permission Terms (no advertising; no liability; no representation; no warranty)"
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, distribute, and sell this software and its
+       documentation for any purpose is hereby granted without fee, provided that the
+       above copyright notice appears in all copies *{.{0,10}}* and that both *{.{0,10}}* copyright
+       notice and this permission notice appear in supporting documentation , and that
+       the name *{.{0,100}}* not be used in advertising
+       or publicity pertaining to distribution of the software without specific
+       written prior permission"
+    - "make*{.{0,3}}* no representations about the suitability of this software for any purpose"
+    - "It is provided \"as is\" without express or implied warranty"
+    - "DISCLAIM*{.{0,2}}* ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY 
+       AND FITNESS"
+    - "IN NO EVENT SHALL *{.{0,100}}* BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+       CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF
+       USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+       OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+       PERFORMANCE OF THIS SOFTWARE"
+      
+licenseTemplate: "<lq>Permission to use, copy, modify, distribute, and sell this software and its documentation for any 
+                  purpose is hereby granted without fee provided that the above copyright notice appears in all copies 
+                  and that both that copyright notice and this permission notice appear in supporting documentation, 
+                  and that the name{{copyrightHolderNoAdvertising}} not be used in advertising or publicity pertaining 
+                  to distribution of the software without specific, written prior permission. 
+                  <p>{{copyrightHolderNoRepresentation}} makes no representations about the suitability of this software for 
+                  any purpose.</p><p>It is provided \"as is\" without express or implied warranty.</p>
+                  <codeph>{{copyrightHolderNoWarranty}} DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL 
+                  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE 
+                  LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM 
+                  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, 
+                  ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</codeph></lq>"
+      

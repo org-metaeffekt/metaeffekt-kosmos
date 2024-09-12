@@ -1,0 +1,14 @@
+canonicalName: RSA Proprietary Shrinkwrap License
+category: RSA Proprietary Shrinkwrap License
+shortName: RSA-Proprietary
+
+otherIds:
+  - "scancode:rsa-proprietary"
+
+alternativeNames:
+  - "rsa-proprietary"
+
+evidence:
+  matches:
+    - "The text of this license is secured, and may be viewed at
+       https://www.emc.com/collateral/legal/shrinkwrap-license-combined.pdf"

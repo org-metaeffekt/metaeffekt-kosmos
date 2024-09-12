@@ -1,0 +1,37 @@
+canonicalName: NIST Public Domain Notice
+category: NIST PD
+spdxIdentifier: NIST-PD
+
+otherIds:
+  - "scancode:nist-pd"
+  
+representedAs: Public Domain
+
+alternativeNames:
+  - "nist-pd"
+  - "NIST-PD"
+  - "NIST Public Domain Notice"
+
+evidence:
+  matches:
+    - "This software was developed by employees of the National Institute of
+       Standards and Technology (NIST)"
+    - "Pursuant to title 15 United States Code Section 105, works of NIST
+       employees are not subject to copyright protection in the United States
+       and are considered to be in the public domain"
+    - "NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED
+       OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF
+       MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT
+       AND DATA ACCURACY"
+
+# FIXME-DISCUSS: the exluded reference match belongs to a variant; how shall variants be included here; oneOf
+references:
+  "Public Domain":
+    matches:
+      # - "This software has been contributed to the public domain"
+      - "works of NIST employees are not subject to copyright protection in the United States and are considered 
+         to be in the public domain"
+      
+mappings:
+  "Pursuant to title 15 Untied States Code Section 105, works of NIST":
+    "Pursuant to title 15 United States Code Section 105, works of NIST"

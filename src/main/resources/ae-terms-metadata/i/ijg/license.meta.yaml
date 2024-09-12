@@ -1,0 +1,64 @@
+canonicalName: Independent JPEG Group License
+category: IJG
+spdxIdentifier: IJG
+
+canonicalNameHistory:
+  - "IJG License"
+
+otherIds:
+  - "scancode:ijg"
+
+requiresCopyright: false
+requiresLicenseText: true
+
+alternativeNames:
+  - "IJG License"
+  - "IJG LICENSE"
+
+evidence:
+  matches:
+    - "If you use it in a program,
+       you must acknowledge somewhere in your documentation that you've used the
+       IJG code"
+    - "You can use this software for whatever you want. You don't have to pay
+       us"
+    - "These conditions apply to any software derived from or based on the IJG code,
+       not just to the unmodified library"
+    - "We specifically permit and encourage the use of this software as the basis
+       of commercial products, provided that all warranty or liability claims are
+       assumed by the product vendor"
+    - "It appears that the arithmetic coding option of the JPEG spec is covered by
+       patents owned by IBM"
+  excludes:
+    - "LICENSE TERMS (ships as a part of the libjpeg package in the README file)"
+
+grants:
+  Source code delivery:
+    matches:
+      - "If any part of the source code for this software is distributed"
+    obligations:
+      Source code delivery:
+        matches:
+        - "If any part of the source code for this software is distributed, then this README file must be included"
+        - "with this*no-warranty notice unaltered"
+   #     - "You may not pretend that you wrote this software"
+        - "any additions, deletions, or changes to the original files must be clearly indicated
+            in accompanying documentation"
+        - "Permission for use of this software is granted only if the user accepts full responsibility
+           for any undesirable consequences"
+        - "Permission is NOT granted for the use of any IJG author's name or company name in advertising
+           or publicity relating to this software or products derived from it"
+  Binary delivery:
+    matches:
+      - "If only executable code is distributed"
+    obligations:
+      Binary delivery:
+        matches:
+         - "If only executable code is distributed, then the accompanying documentation
+            must state that this software is based in part on the work of the Independent
+            JPEG Group"
+
+licenseTemplate:
+  "<lq>If only executable code is distributed the IJG License requires, that the accompanying
+   documentation must state that \"this software is based in part on the work of the Independent JPEG Group\".<p/>
+   \"This software is based in part on the work of the Independent JPEG Group\".</lq>"

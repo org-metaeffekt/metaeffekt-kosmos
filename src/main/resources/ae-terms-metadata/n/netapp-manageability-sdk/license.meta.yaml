@@ -1,0 +1,24 @@
+canonicalName: NetApp Manageability SDK License
+category: NetApp Manageability SDK License Agreement
+shortName: NetApp-Manageability-SDK
+
+otherIds:
+  - "scancode:netapp-sdk-aug2020"
+
+canonicalNameHistory:
+  - "NetApp Manageability SDK License Agreement"
+
+evidence:
+  matches:
+    - "Use, reproduce and distribute the language libraries in object code form for those languages
+       where such use, reproduction and distribution is possible in object code form and in source code
+       form only for those languages where such use, reproduction and distribution in object code form is
+       not possible, such as scripting languages, and only as incorporated into the Licensee Application"
+    - "Use, reproduce, modify and create derivatives of the sample code which may include utilities
+       (the \"Sample Derivatives\") and reproduce and distribute the Sample Derivatives in object code
+       form as incorporated in the Licensee Application"
+
+references:
+  "Public Domain":
+    matches:
+      - "You can prove was received by You without confidentiality obligations of any kind prior to the time of disclosure, provided You did not receive the information from any third party in violation of that party's confidentiality obligations, (b) is in the public domain at the time of disclosure, (c) enters the public domain after the time of disclosure through no fault of Yours"

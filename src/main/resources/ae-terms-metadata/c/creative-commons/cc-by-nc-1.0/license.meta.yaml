@@ -1,0 +1,50 @@
+canonicalName: Creative Commons BY-NC 1.0
+category: CC-BY-NC
+spdxIdentifier: CC-BY-NC-1.0
+
+otherIds:
+  - "scancode:cc-by-nc-1.0"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Non Commercial 1.0 Generic"
+  - "Creative Commons BY-NC 1.0 (generic)"
+
+requiresAnnexNotice: true
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial 1.0 Generic"
+  - "CC-BY-NC-1.0"
+  - "Creative Commons Attribution-NonCommercial 1.0"
+  - "Creative Commons BY-NC 1.0 (generic)"
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "give the Original Author credit"
+
+evidence:
+  matches:
+    - "to reproduce the Work, to incorporate the Work into one or more Collective
+       Works, and to reproduce the Work as incorporated in the Collective Works"
+    - "to create and reproduce Derivative Works"
+    - "You may not exercise any of the rights granted to You in Section 3 above
+       in any manner that is primarily intended for or directed toward commercial
+       advantage or private monetary compensation"
+    - "If you distribute, publicly display, publicly perform, or publicly digitally
+       perform the Work or any Derivative Works or Collective Works, You must keep
+       intact all copyright notices for the Work and give the Original Author credit
+       reasonable to the medium or means You are utilizing by conveying the name
+       (or pseudonym if applicable) of the Original Author if supplied"
+  excludes:
+    - "including but not limited to the rights set forth in Sections 4(e) and 4(f)"
+    - "d. For the avoidance of doubt, where the Work is a musical composition"
+    - "You may distribute, publicly display, publicly perform, or publicly digitally
+       perform a Derivative Work only under the terms of this License, and You must
+       include a copy of, or the Uniform Resource Identifier for, this License with
+       every copy or phonorecord of each Derivative Work You distribute, publicly
+       display, publicly perform, or publicly digitally perform"
+    - "For the avoidance of doubt, where the Work is a musical composition or sound
+       recording, the synchronization of the Work in timed-relation with a moving
+       image (\"synching\") will be considered a Derivative Work for the purpose of
+       this License"

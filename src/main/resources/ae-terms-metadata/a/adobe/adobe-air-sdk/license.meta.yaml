@@ -1,0 +1,24 @@
+canonicalName: Adobe AIR SDK EULA 2008
+category: Adobe AIR SDK EULA
+shortName: Adobe-AIR-SDK-2008
+
+otherIds:
+  - "scancode:adobe-air-sdk"
+
+alternativeNames:
+  - "Adobe AIR SDK License"
+
+evidence:
+  matches:
+    - "The SDK Components and any copies that you are authorized by Adobe to make
+       are the intellectual property of and are owned by Adobe Systems Incorporated
+       and its suppliers"
+    - "The structure, organization and code of the SDK Components provided to you in
+       compiled or object code form are the valuable trade secrets
+       and confidential information of Adobe Systems Incorporated and its suppliers"
+    - "The SDK Components are protected by copyright, including without limitation
+       by United States Copyright Law, international treaty provisions and applicable
+       laws in the country in which they are used"
+    - "Except as expressly stated herein, this agreement does not grant you any
+       intellectual property rights in the SDK Components and all rights not expressly
+       granted are reserved by Adobe"

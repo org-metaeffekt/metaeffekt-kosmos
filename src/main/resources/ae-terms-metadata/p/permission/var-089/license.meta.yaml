@@ -1,0 +1,54 @@
+canonicalName: Permission Terms (variant 089)
+category: Permission
+shortName: PT-Var089
+
+otherIds:
+  - "OpenCoDE:PT-Var089"
+
+status:
+  - "reviewed 04.01.2022"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+displayName: "Permission Terms (no warranty)"
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var089"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of charge,
+       to any person obtaining a copy of this file (\"Software\"),
+       to deal in the Software without restriction,
+       including without limitation the rights
+       to use, copy, modify, merge, publish, distribute, sublicense,
+       and/or sell copies of this Software, and to permit persons to
+       whom this file is furnished to do so, subject to the following conditions"
+    - "No *{.{0,100}}* accepts any responsibility for the consequences
+       of using it, or for whether it serves any particular purpose or works at all,
+       unless he or she says so in writing"
+    - "The above copyright notice and this permission notice shall be included
+       in all copies or substantial portions of the Software"
+  excludes:
+    - "to deal in the Software without restriction, including without limitation the rights
+       to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software"
+    - "Permission to use, copy, modify, distribute, and sell this software and its documentation
+       for any purpose is hereby granted without fee, provided that the above copyright notice
+       appear in all copies and that both that copyright notice and this permission notice appear
+       in supporting documentation"
+    - "Unless required by applicable law or agreed to in writing, software
+       distributed under the License is distributed on an 'AS IS' BASIS,
+       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied"
+    
+licenseTemplate: "<lq>Permission is hereby granted, free of charge, to any person obtaining a copy of this file 
+                  (\"Software\"), to deal in the Software without restriction, including without limitation the rights 
+                  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this Software,
+                  and to permit persons to whom this file is furnished to do so, subject to the following conditions:
+                  <p>This Software is distributed with NO WARRANTY OF ANY KIND.</p>
+                  <p>No <copyrightHolderNoResponsibility> accepts any responsibility for the consequences of using it,
+                  or for whether it serves any particular purpose or works at all, unless he or she says so in writing.</p>
+                  The above copyright notice and this permission notice shall be included in all copies or substantial 
+                  portions of the Software.</lq>"

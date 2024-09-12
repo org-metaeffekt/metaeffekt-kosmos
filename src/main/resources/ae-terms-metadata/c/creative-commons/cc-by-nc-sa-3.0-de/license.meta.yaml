@@ -1,0 +1,37 @@
+canonicalName: Creative Commons BY-NC-SA 3.0 (DE)
+category: CC-BY-NC-SA
+spdxIdentifier: CC-BY-NC-SA-3.0-DE
+
+otherIds:
+  - "scancode:cc-by-nc-sa-3.0-de"
+
+representedAs: Creative Commons BY-NC-SA 3.0
+
+alternativeNames:
+  - "CC-BY-NC-SA-3.0-DE"
+  - "Creative Commons Attribution Non Commercial Share Alike 3.0 Germany"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Sie dürfen eine Abwandlung ausschließlich unter den Bedingungen
+       i. dieser Lizenz,
+       ii. einer späteren Version dieser Lizenz mit denselben Lizenzelementen;
+       iii. einer rechtsordnungsspezifischen Creative-Commons-Lizenz mit denselben Lizenzelementen ab Version 3.0
+       aufwärts (z.B. Namensnennung - Keine kommerzielle Nutzung - Weitergabe unter gleichen Bedingungen 3.0 US) oder
+       iv. der Creative-Commons-Unported-Lizenz mit denselben Lizenzelementen ab Version 3.0 aufwärts
+       verbreiten oder öffentlich zeigen ('Verwendbare Lizenz')"
+    - "Sie müssen stets eine Kopie der verwendbaren Lizenz oder deren vollständige Internetadresse in Form des
+       Uniform-Resource-Identifier (URI) beifügen, wenn Sie die Abwandlung verbreiten oder öffentlich zeigen"
+    - "Sie dürfen keine Vertrags- oder Nutzungsbedingungen anbieten oder fordern, die die Bedingungen der verwendbaren
+       Lizenz oder die durch sie gewährten Rechte beschränken"
+    - "Bei jeder Abwandlung, die Sie verbreiten oder öffentlich zeigen, müssen Sie alle Hinweise auf die verwendbare
+       Lizenz und den Haftungsausschluss unverändert lassen"
+    - "Wenn Sie die Abwandlung verbreiten oder öffentlich zeigen, dürfen Sie (in Bezug auf die Abwandlung) keine
+       technischen Maßnahmen ergreifen, die den Nutzer der Abwandlung in der Ausübung der ihm durch die verwendbare Lizenz
+       gewährten Rechte behindern können"
+    - "Dieser Abschnitt 4.b) gilt auch für den Fall, dass die Abwandlung einen Bestandteil eines Sammelwerkes bildet,
+       was jedoch nicht bedeutet, dass das Sammelwerk insgesamt der verwendbaren Lizenz unterstellt werden muss"

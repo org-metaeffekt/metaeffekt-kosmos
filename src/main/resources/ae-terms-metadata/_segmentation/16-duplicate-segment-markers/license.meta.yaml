@@ -1,0 +1,12 @@
+canonicalName: Segmentation-016
+category: Segmentation
+shortName: Segmentation-016
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "016"
+
+mappings:
+  "LICENSE-SEGMENT-MARKERLICENSE-SEGMENT-MARKER": "LICENSE-SEGMENT-MARKER"

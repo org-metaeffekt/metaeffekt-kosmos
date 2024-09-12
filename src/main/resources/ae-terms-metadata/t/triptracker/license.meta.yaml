@@ -1,0 +1,17 @@
+canonicalName: TripTracker Slideshow License
+category: TripTracker Slideshow License
+shortName: TripTracker
+
+otherIds:
+  - "scancode:triptracker"
+
+alternativeNames:
+  - "http://slideshow.triptracker.net"
+  - "TripTracker Slideshow License"
+
+evidence:
+  matches:
+    - "This code may not be modified without express permission of Klika"
+    - "You may not delete, disable, or in any manner alter distinctive brand features rendered by the code"
+    - "The use of this code in derivative work is permitted, provided that the code and this notice are
+       included in full, and provided that the code is used in accordance with these terms"

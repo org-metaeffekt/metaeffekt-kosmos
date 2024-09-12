@@ -1,0 +1,36 @@
+canonicalName: ANTLR Software Rights Notice (with fallback)
+category: ANTLR-PD-Fallback
+spdxIdentifier: ANTLR-PD-fallback
+
+otherIds:
+  - "scancode:antlr-pd-fallback"
+
+type: expression
+
+alternativeNames:
+  - "ANTLR Software Rights Notice with license fallback"
+
+combinedWith:
+  "ANTLR Software Rights Notice": "ANTLR Software Rights Notice (with fallback)"
+
+expectedSpdxMatches:
+  - "ANTLR Software Rights Notice (with fallback)"
+  - "ANTLR Software Rights Notice"
+
+# duplicate identification compensated by combinedWith
+ignoreMatches:
+  - "ANTLR Software Rights Notice"
+
+references:
+  "Public Domain":
+    matches:
+      - "We reserve no legal rights to the ANTLR--it is fully in the public domain"
+      - "In countries where the Public Domain status of the work may not be valid, the author grants a copyright licence to the
+         general public to deal in the work without restriction and permission to sublicence derivates under the terms of any
+         (OSI approved) Open Source licence"
+
+evidence:
+  matches:
+    - "In countries where the Public Domain status of the work may not be valid, the author grants a copyright licence to the
+       general public to deal in the work without restriction and permission to sublicence derivates under the terms of any
+       (OSI approved) Open Source licence"

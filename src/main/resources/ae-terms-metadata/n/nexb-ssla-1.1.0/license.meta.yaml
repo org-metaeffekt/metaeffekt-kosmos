@@ -1,0 +1,24 @@
+canonicalName: nexB Software Subscription License 1.1.0
+category: nexB Software Subscription License
+shortName: nexB-SSLA-1.1.0
+
+canonicalNameHistory:
+  - "nexB Software Subscription License Agreement 1.1.0"
+
+otherIds:
+  - "scancode:nexb-ssla-1.1.0"
+
+alternativeNames:
+  - "nexB Software Subscription License Agreement 1.1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, nexB grants to Licensee a non-exclusive,
+       non-transferable license during the Subscription or Evaluation Period to install and use the Software
+       on the number of computers and for the number of Users specified in the Order Form"
+    - "Subject to the terms and conditions of this Agreement, nexB grants to Licensee a non-exclusive,
+       non-transferable license during the Subscription or Evaluation Period to install and use the Content on
+       the number of computers and for the number of Users specified in the Order Form"
+    - "This is not a perpetual license. Licensee has no right to retain or to use the Software or Content after
+       termination of the applicable Subscription or Evaluation Period for any reason"
+    - "Licensee may not permit access to or use of the Software by any Users other than the Users licensed and paid for by Licensee"

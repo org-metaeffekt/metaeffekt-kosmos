@@ -1,0 +1,37 @@
+canonicalName: CockroachDB Exception (BSL 1.1)
+category: CockroachDB Exception
+shortName: CockroachDB-Exception-BSL-1.1
+
+type: exception
+
+otherIds:
+  - "scancode:cockroachdb-use-grant-for-bsl-1.1"
+
+alternativeNames:
+  - "CockroachDB Additional Use Grant for BSL 1.1"
+
+evidence:
+  matches:
+    - "You may make use of the Licensed Work, provided that
+       you may not use the Licensed Work for a Database
+       Service"
+    - "A “Database Service” is a commercial offering that
+                             allows third parties (other than your employees and
+                             contractors) to access the functionality of the
+                             Licensed Work by creating tables whose schemas are
+                             controlled by such third parties"
+    - "For information about alternative licensing arrangements for the Software,
+       please visit: https://cockroachlabs.com/"
+    - "The Business Source License (this document, or the “License”) is not an Open
+       Source license. However, the Licensed Work will eventually be made available
+       under an Open Source License, as stated in this License"
+
+references:
+  "Apache License":
+    matches:
+      - "Change Date:          2022-10-01
+
+         Change License:       Apache License, Version 2.0
+
+         For information about alternative licensing arrangements for the Software,
+         please visit: https://cockroachlabs.com/"

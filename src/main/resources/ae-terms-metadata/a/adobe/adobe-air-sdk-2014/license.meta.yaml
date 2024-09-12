@@ -1,0 +1,25 @@
+canonicalName: Adobe AIR SDK EULA 2014
+category: Adobe AIR SDK EULA
+shortName: Adobe-AIR-SDK-2014
+
+otherIds:
+  - "scancode:adobe-air-sdk-2014"
+
+alternativeNames:
+  - "Adobe AIR SDK - Warranty disclaimer and license agreement"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this agreement, including the requirements and restrictions below,
+       Adobe grants you the non-exclusive, non-transferable right to use the SDK in accordance with the Documentation as follows"
+    - "You may install and use the Build Tools and Runtime Components solely for purpose of developing compliant Developer Applications"
+    - "You may make a limited and reasonable number of copies of the SDK for purposes of your internal development of Developer Applications"
+    - "You may modify the Sample Code and SDK Source Files provided to you in human readable (i.e., source code) format"
+    - "You may incorporate the modified Sample Code and SDK Source Files into your Developer Applications"
+    - "You may not modify the Build Tools (except for files that are covered by third party licenses that allow you to do so),
+       Documentation or the Runtime Software in any manner. In no event may you take any action to make the SDK subject to a
+       license or scheme in which there is or could be interpreted that, as a condition of use, modification and/or distribution,
+       the SDK be (a) disclosed or distributed in source code form; (b) licensed for the purpose of making derivative works; or
+       (c) redistributable at no charge. You may not delete or in any manner alter the copyright notices, trademarks, logos or
+       related notices, or other proprietary rights notices of Adobe (and its licensors, if any) appearing on or within any
+       portion of the SDK other than Sample Code or SDK Source Files that are substantially modified by you in accordance with this agreement"

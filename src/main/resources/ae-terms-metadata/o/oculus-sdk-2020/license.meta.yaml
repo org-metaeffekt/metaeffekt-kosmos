@@ -1,0 +1,20 @@
+canonicalName: Oculus SDK License 2020
+category: Oculus SDK
+shortName: Oculus-SDK-2020
+
+otherIds:
+  - "scancode:oculus-sdk-2020"
+
+alternativeNames:
+  - "Oculus SDK License 2020"
+
+evidence:
+  matches:
+    - "If the SDK includes any libraries, sample source code, or other materials that we make available specifically
+       for incorporation in your Application (as indicated by applicable documentation), you may incorporate those
+       materials and reproduce and distribute them as part of your Application, including by distributing those
+       materials to third parties contributing to your Application"
+    - "The SDK may include Oculus content that is subject to your additional right to display the content to your
+       end users through the use of the corresponding SDK, as contemplated by the documentation accompanying such SDK"
+    - "Discontinuation of SDK. Oculus reserves the right to discontinue the SDK at any time, in our sole discretion,
+       without notice to you, and without liability or other obligation to you"

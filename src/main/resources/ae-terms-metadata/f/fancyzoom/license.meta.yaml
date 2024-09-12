@@ -1,0 +1,19 @@
+canonicalName: FancyZoom License
+category: FancyZoom License
+shortName: FancyZoom
+
+otherIds:
+  - "scancode:fancyzoom"
+
+alternativeNames:
+  - "fancyzoom license"
+
+evidence:
+  matches:
+    - "USE OF SOURCE ON COMMERCIAL (FOR-PROFIT) WEBSITE REQUIRES ONE-TIME LICENSE FEE PER DOMAIN"
+    - "Reasonably priced! Visit www.fancyzoom.com for licensing instructions"
+    - "Non-commercial (personal) website use is permitted without license/payment"
+    - "Redistribution of source code must retain the above copyright notice,
+       this list of conditions and the following disclaimer"
+    - "Redistribution of source code and derived works cannot be sold without specific
+       written prior permission"

@@ -1,0 +1,21 @@
+canonicalName: CMU Nara Nagoya License
+category: CMU Nara Nagoya License
+shortName: cmu-nara-nagoya
+
+otherIds:
+  - "scancode:cmu-nara-nagoya"
+
+classification: permissive
+
+alternativeNames:
+  - "CMU Nara Nagoya License"
+
+evidence:
+  matches:
+    - "The code must retain the above copyright notice, this list
+       of conditions and the following disclaimer"
+    - "Any modifications must be clearly marked as such"
+    - "Original authors' names are not deleted"
+  excludes:
+    - "The authors' names are not used to endorse or promote products derived
+       from this software without specific prior written permission"

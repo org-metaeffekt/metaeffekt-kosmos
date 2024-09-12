@@ -1,0 +1,35 @@
+canonicalName: Redistribution Terms (variant 025)
+category: RT
+shortName: RT-Var025
+
+otherIds:
+  - "scancode:bsd-simplified-intel"
+
+canonicalNameHistory:
+  - "BSD 2-Clause License (Intel)"
+
+representedAs: "Redistribution Terms"
+
+alternativeNames:
+  - "bsd-simplified-intel"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary form*, with or without modification,
+       are permitted provided that"
+    - "source code distributions retain the above
+       copyright notice and this paragraph in its entirety"
+    - "distributions including binary code include the above copyright notice and this paragraph in its
+       entirety in the documentation or other materials provided with the distribution"
+    - "THIS SOFTWARE IS PROVIDED 'AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED
+       WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+       MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE"
+  excludes:
+    - "''This product includes software developed by the University of California,
+       Lawrence Berkeley Laboratory and its contributors.'' Neither the name of
+       the University nor the names of its contributors may be used to endorse
+       or promote products derived from this software without specific prior
+       written permission"
+    - "all advertising materials mentioning
+       features or use of this software display the following acknowledgement"
+    - "The name of author may not be used to endorse or promote products derived from this software without specific prior written permission"

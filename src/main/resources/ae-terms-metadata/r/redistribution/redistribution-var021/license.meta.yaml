@@ -1,0 +1,21 @@
+canonicalName: Redistribution Terms (variant 021)
+category: RT
+shortName: RT-Var021
+
+canonicalNameHistory:
+  - "BSD License (source distribution obligation)"
+
+representedAs: "Redistribution Terms"
+
+otherIds:
+  - "scancode:bsd-simplified-source"
+
+alternativeNames:
+  - "bsd-simplified-source"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary form*, with or without
+       modification, are permitted provided that redistributions of source
+       code retain the above copyright notice and this comment without
+       modification"

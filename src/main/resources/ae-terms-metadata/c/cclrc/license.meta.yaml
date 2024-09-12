@@ -1,0 +1,24 @@
+canonicalName: CCLRC License
+category: CCLRC License
+shortName: CCLRC
+
+otherIds:
+  - "scancode:cclrc"
+
+alternativeNames:
+  - "CCLRC License"
+
+evidence:
+  matches:
+    - "The Software may be used only as part of the Climate Data Analysis
+       Tools Package, made available to users free of charge"
+    - "any loss of profits, loss of revenue, loss or corruption
+       of data, loss of contracts or opportunity, loss of savings or third
+       party claims (in each case whether direct or indirect)"
+    - "any indirect loss or damage arising out of or in connection with the Software"
+    - "any direct loss or damage arising out of, or in connection
+       with, the Software in each case, whether that loss arises as a result of
+       CCLRC's negligence, or in any other way, even if CCLRC has been
+       advised of the possibility of that loss arising, or if it was within
+       CCLRC's contemplation"
+

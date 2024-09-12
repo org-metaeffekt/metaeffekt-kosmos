@@ -1,0 +1,17 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 016))
+category: GPL+Linking
+shortName: GPL-2.0+-Linking-Exception-GPL-016
+
+type: expression
+
+otherIds:
+    - "scancode:gpl-2.0-plus-nant"
+
+combinedWith:
+  Linking Exception (GPL; variant 016): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 016))
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 016))
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with Linking exception (variant 016))"

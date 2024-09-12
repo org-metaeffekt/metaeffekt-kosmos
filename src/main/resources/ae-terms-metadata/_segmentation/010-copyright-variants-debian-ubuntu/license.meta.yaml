@@ -1,0 +1,24 @@
+canonicalName: Segmentation-010
+category: Segmentation
+shortName: Segmentation-010
+
+ignore: true
+type: structural
+
+mappingOrder:
+  # order within MatchPreprocessor, needs to be revised as soon as a global order exists
+  - "010"
+
+mappings:
+  # detect further segments (variants from copyright files from debian and ubuntu) \n([^\n]*following[^:]*copyright[^:]*:)
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)*?license((?!EMPTY-LINE-MARKER).){0,50}?):(\\s*NEWLINE-MARKER)": "LICENSE-SEGMENT-MARKER$1COLON-MARKER$2"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)*?copyright((?!EMPTY-LINE-MARKER).){0,50}?):(\\s*NEWLINE-MARKER)": "LICENSE-SEGMENT-MARKER$1COLON-MARKER$2"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)*?notice((?!EMPTY-LINE-MARKER).){0,50}?):(\\s*NEWLINE-MARKER)": "LICENSE-SEGMENT-MARKER$1COLON-MARKER$2"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)*?applies((?!EMPTY-LINE-MARKER).){0,50}?):(\\s*NEWLINE-MARKER)": "LICENSE-SEGMENT-MARKER$1COLON-MARKER$2"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)*?apply((?!EMPTY-LINE-MARKER).){0,50}?):(\\s*NEWLINE-MARKER)": "LICENSE-SEGMENT-MARKER$1COLON-MARKER$2"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)*?terms((?!EMPTY-LINE-MARKER).){0,50}?):(\\s*NEWLINE-MARKER)": "LICENSE-SEGMENT-MARKER$1COLON-MARKER$2"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)*?conditions((?!EMPTY-LINE-MARKER).){0,50}?):(\\s*NEWLINE-MARKER)": "LICENSE-SEGMENT-MARKER$1COLON-MARKER$2"
+
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?Some files are((?!EMPTY-LINE-MARKER).)*?):": "LICENSE-SEGMENT-MARKER$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?is copyright((?!EMPTY-LINE-MARKER).)*?):": "LICENSE-SEGMENT-MARKER$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?are copyright((?!EMPTY-LINE-MARKER).)*?):": "LICENSE-SEGMENT-MARKER$1COLON-MARKER"

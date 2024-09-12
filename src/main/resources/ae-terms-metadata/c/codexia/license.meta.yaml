@@ -1,0 +1,19 @@
+canonicalName: Codexia License
+category: Codexia License
+shortName: Codexia
+
+otherIds:
+  - "scancode:codexia"
+
+alternativeNames:
+  - "http://www.codexia.com"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "Some of the code based on Allen Denver's article 'Using the Performance Data Helper Library'"
+    - "Free usage granted in all applications including commercial"
+    - "Do NOT distribute without permission from me"
+    - "I can be reached at mike@codexia.com, http://www.codexia.com"

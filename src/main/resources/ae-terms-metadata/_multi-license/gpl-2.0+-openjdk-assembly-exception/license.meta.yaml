@@ -1,0 +1,19 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with OpenJDK Assembly exception (GPL))
+category: GPL+OpenJDK
+shortName: GPL-2.0+-OpenJDK-Assembly-Exception-GPL
+
+otherIds:
+  - "scancode:gpl-2.0-openjdk"
+
+requiresSourceCodeProvision: true
+
+type: expression
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with OpenJDK Assembly exception (GPL))
+  OpenJDK Assembly Exception (GPL): GNU General Public License 2.0 (or any later version; with OpenJDK Assembly exception (GPL))
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with OpenJDK Assembly exception)"

@@ -1,0 +1,35 @@
+canonicalName: FreeTTS License
+category: FreeTTS License
+shortName: FreeTTS
+
+otherIds:
+  - "scancode:freetts"
+
+# note: "FreeTTS License" and "Permission Terms (Carnegie Mellon University Flite)" have identical license texts except for the copyrights. We still need to maintain both, since they have 2 unique scancode IDs
+
+alternativeNames:
+  - "http://freetts.sourceforge.net/docs/index.php"
+  - "http://freetts.sourceforge.net/license.terms"
+
+evidence:
+  matches:
+    - "All Rights Reserved.  Use is subject to license terms"
+    - "Permission is hereby granted, free of charge, to use and distribute
+       this software and its documentation without restriction, including
+       without limitation the rights to use, copy, modify, merge, publish,
+       distribute, sublicense, and/or sell copies of this work, and to
+       permit persons to whom this work is furnished to do so, subject to
+       the following conditions"
+    - "The code must retain the above copyright notice, this list of
+       conditions and the following disclaimer"
+    - "Any modifications must be clearly marked as such"
+    - "Original authors' names are not deleted"
+    - "The authors' names are not used to endorse or promote products
+       derived from this software without specific prior written
+       permission"
+  excludes:
+    - "THE UNIVERSITY OF EDINBURGH AND THE CONTRIBUTORS TO THIS WORK
+       DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE"
+    - "NAGOYA INSTITUTE OF TECHNOLOGY, NARA INSTITUTE OF SCIENCE AND
+       TECHNOLOGY, CARNEGIE MELLON UNIVERSITY, AND THE CONTRIBUTORS TO
+       THIS WORK DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE"

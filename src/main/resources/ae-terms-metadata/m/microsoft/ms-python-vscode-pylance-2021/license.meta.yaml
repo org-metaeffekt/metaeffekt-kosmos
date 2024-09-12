@@ -1,0 +1,32 @@
+canonicalName: Microsoft Pylance Extension for Visual Studio Code License
+category: Microsoft Pylance Extension for Visual Studio Code License
+shortName: ms-python-vscode-pylance-2021
+
+otherIds:
+  - "scancode:ms-python-vscode-pylance-2021"
+
+classification: commercial
+
+alternativeNames:
+  - "Microsoft Pylance Extension for Visual Studio Code License"
+
+evidence:
+  matches:
+    - "The software may collect information about you and your use of the software, and send that to Microsoft"
+    - "Microsoft may use this information to provide services and improve our products and services"
+    - "You may opt-out of many of these scenarios, but not all, as described in the product documentation"
+    - "There are also some features in the software that may enable you to collect data from users of your applications"
+    - "If you use these features to enable data collection in your applications, you must comply with applicable law,
+       including providing appropriate notices to users of your applications"
+    - "You can learn more about data collection and use in the help documentation and the privacy statement
+       at https://aka.ms/privacy"
+    - "Your use of the software operates as your consent to these practices"
+    - "To the extent Microsoft is a processor or subprocessor of personal data in connection with the software,
+       Microsoft makes the commitments in the European Union General Data Protection Regulation Terms of the
+       Online Services Terms to all customers effective May 25, 2018, at https://docs.microsoft.com/en-us/legal/gdpr"
+  excludes:
+    - "MICROSOFT AZURE SPATIAL ANCHORS"
+
+ignoreMatches:
+  - "Microsoft Azure Spatial Anchors WinRT 2.9.0"
+  - "Microsoft DXSDK.D3DX 9.29.952.3"

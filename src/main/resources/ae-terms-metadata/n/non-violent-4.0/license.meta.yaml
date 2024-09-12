@@ -1,0 +1,22 @@
+canonicalName: Non-Violent Public License 4.0
+category: Non-Violent Public License
+shortName: Non-Violent-4.0
+
+otherIds:
+  - "scancode:non-violent-4.0"
+
+alternativeNames:
+  - "NON-VIOLENT PUBLIC LICENSE v4"
+
+evidence:
+  matches:
+    - "The Non-Violent Public license is a freedom-respecting sharealike license
+       for both the author of a work as well as those subject to a work"
+    - "to Reproduce the Work, to incorporate the Work into one or
+       more Collections, and to Reproduce the Work as incorporated in
+       the Collections"
+    - "to Distribute and Publicly Perform the Work including as
+       incorporated in Collections"
+  excludes:
+    - "The Cooperative Non-Violent Public license is a freedom-respecting sharealike
+       license for both the author of a work as well as those subject to a work"

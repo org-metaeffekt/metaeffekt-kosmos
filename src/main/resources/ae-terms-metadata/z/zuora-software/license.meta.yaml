@@ -1,0 +1,17 @@
+canonicalName: Zuora Software License
+category: Zuora Software Licens
+shortName: Zuora-Software
+
+otherIds:
+  - "scancode:zuora-software"
+
+alternativeNames:
+  - "zuora-software"
+
+evidence:
+  matches:
+    - "Zuora, Inc. or any other trademarks of Zuora, Inc.  may not be used to endorse
+       or promote products derived from this Software without specific prior written
+       permission from Zuora, Inc"
+    - "IN THE EVENT YOU ARE AN EXISTING ZUORA CUSTOMER, USE OF THIS SOFTWARE IS GOVERNED
+       BY THIS AGREEMENT AND NOT YOUR MASTER SUBSCRIPTION AGREEMENT WITH ZUORA"

@@ -1,0 +1,44 @@
+# FIXME-DISCUSS: include Boehm or Mozilla GC in the canonical name
+canonicalName: Permission Terms (variant 009)
+category: Permission
+
+# NOTE: SPDX has chosen an over-specific identifier for this license. We should not adopt this naming.
+spdxIdentifier: Boehm-GC
+
+alternativeNames:
+  - "Boehm-GC"
+  - "Boehm-Demers-Weiser GC License"
+
+canonicalNameHistory:
+  - "Permission Terms Var009"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:mozilla-gc"
+
+displayName: Permission Terms (no warranty)
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "THIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED
+       OR IMPLIED"
+    - "ANY USE IS AT YOUR OWN RISK"
+    - "Permission is hereby granted to use or copy this program
+       for any purpose, provided the above notices are retained on all copies.
+       Permission to modify the code and to distribute modified code is granted,
+       provided the above notices are retained, and a notice that the code was
+       modified is included with the above copyright notice"
+  excludes:
+    - "A few files have other copyright holders"
+    
+licenseTemplate:
+  "<lq>Permission is hereby granted to use or copy this program
+   for any purpose, provided the above notices are retained on all copies.
+   <p>Permission to modify the code and to distribute modified code is granted,
+   provided the above notices are retained, and a notice that the code was
+   modified is included with the above copyright notice.</p>
+   <codeph>THIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED
+   OR IMPLIED. ANY USE IS AT YOUR OWN RISK.</codeph></lq>"

@@ -1,0 +1,14 @@
+canonicalName: Richard Black License
+category: Richard Black License
+shortName: Richard-Black
+
+otherIds:
+  - "scancode:richard-black"
+
+alternativeNames:
+  - "Richard Black License"
+
+evidence:
+  matches:
+    - "This code is copyright 1993 Richard Black"
+    - "You may use this code only if it includes a statement to that effect"

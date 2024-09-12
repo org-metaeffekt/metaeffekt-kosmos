@@ -1,0 +1,23 @@
+pipeline {
+    agent any
+
+    tools {
+        maven 'maven-3.9.6'
+        jdk 'ZULU8'
+    }
+
+    stages {
+        stage('Build metaeffekt-kosmos') {
+            steps {
+                 // construct .local-properties
+                 sh 'echo "ae.terms.metadata.path=src/main/resources/ae-terms-metadata" > .local-properties'
+                 sh 'echo "spdx.license.list.path=.spdx-license-data" >> .local-properties'
+
+                 withMaven(jdk: 'ZULU8', maven: 'maven-3.9.6') {
+                     sh 'mvn -B clean install -Duser.timezone=Europe/Berlin'
+                 }
+            }
+        }
+    }
+
+}

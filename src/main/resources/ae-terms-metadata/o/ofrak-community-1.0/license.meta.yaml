@@ -1,0 +1,40 @@
+canonicalName: OFRAK Community License Agreement 1.0
+category: OFRAK Community License Agreement
+shortName: OFRAK-Community-1.0
+
+otherIds:
+  - "scancode:ofrak-community-1.0"
+
+alternativeNames:
+  - "OFRAK COMMUNITY LICENSE AGREEMENT
+     Version 1.0"
+
+evidence:
+  matches:
+    - "This OFRAK Community License Agreement (“Agreement”) provides users the right
+       to use OFRAK and its components for personal or academic, non-commercial use,
+       as detailed below"
+    - "Subject to the terms and conditions of this Agreement, Red
+       Balloon grants to you a nonexclusive, nonsublicensable, nontransferable,
+       no-charge, royalty-free, limited license to install, use, copy, modify, create
+       derivative works of OFRAK only for (a) Academic Purposes and (b) Non-Commercial
+       Use and to share Derivatives (i) publicly within the community (via publicly
+       available forks on GitHub.com), (ii) for Shared Use for an Academic Purpose,
+       and (iii) with Red Balloon, for the purposes stated in this Agreement"
+    - "For clarity, the foregoing license does not grant to you any right or license to
+       commercialize, distribute or use OFRAK, Derivatives, OFRAK code, OFRAK
+       analysis, OFRAK-modified binaries, or other OFRAK outputs for any other purpose
+       whatsoever, including Commercial Use, other than Academic Purposes or
+       Non-Commercial Use"
+    - "To the extent that you prepare or create any Derivatives,
+       you shall and hereby grant to (a) all users of OFRAK a right and license to
+       such Derivatives upon the terms and conditions set forth in this Agreement and
+       (b) Red Balloon a perpetual, fully paid-up, royalty-free, worldwide and
+       irrevocable, right and license to use, copy, modify, enhance, prepare
+       derivative works of, distribute, with unlimited right to sublicense, make, have
+       made, sell, have sold, import, export and otherwise commercialize such
+       Derivatives"
+    - "You acknowledge that Red Balloon may, but is not obligated to,
+       include your Derivatives in, and otherwise incorporate your Derivatives into,
+       the core OFRAK codebase"
+

@@ -1,0 +1,21 @@
+canonicalName: Cube License
+category: Cube
+spdxIdentifier: Cube
+
+otherIds:
+  - "scancode:cube"
+
+alternativeNames:
+  - "Cube License"
+
+evidence:
+  matches:
+    - "The origin of this software must not be misrepresented; you must not claim
+       that you wrote the original software"
+    - "If you use this software in a product, an acknowledgment in the product documentation
+       would be appreciated but is not required"
+    - "Altered source versions must be plainly marked as such, and must not be
+       misrepresented as being the original software"
+    - "This notice may not be removed or altered from any source distribution"
+    - "Source versions may not be relicensed under a different license without
+       my explicitly written permission"

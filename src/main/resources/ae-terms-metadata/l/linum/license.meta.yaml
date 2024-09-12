@@ -1,0 +1,18 @@
+canonicalName: Linum Software License
+category: Linum Software License
+shortName: Linum
+
+otherIds:
+  - "scancode:linum"
+
+classification: permissive
+
+alternativeNames:
+  - "Linum Software License"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+# FIXME-DISCUSS: This serves no purpose and is deactivated. It is way too vague and would only cause problems. the scancode ID is deprecated. Remove?
+# see No Warranty Marker / Linum Software License
+ignore: true

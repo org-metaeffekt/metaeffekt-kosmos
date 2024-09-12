@@ -1,0 +1,37 @@
+canonicalName: BugSense SDK License
+category: BugSense SDK License
+shortName: Bugsense-SDK
+
+otherIds:
+  - "scancode:bugsense-sdk"
+
+alternativeNames:
+  - "BugSense SDK License"
+
+evidence:
+  matches:
+    - "Subject to and conditioned on compliance with the terms and conditions of this Agreement, including without
+       limitation compliance with the obligations regarding the End User Requirements (defined below), BugSense hereby
+       grants you a nonexclusive, limited, non-transferable, revocable license (without the right to sublicense except
+       as expressly permitted by this Section) to (i) install, use, and copy the BugSense SDK for the purpose of
+       debugging, monitoring, developing and operating your User App and (ii) include the BugSense SDK in your User
+       App and distribute to End Users (directly or indirectly in accordance with your regular distribution channels
+       for the User App) the BugSense SDK as contained within your User App"
+    - "For each distribution and copy of your User App that contains the BugSense SDK, you will require the applicable
+       End User to enter into a legally binding license agreement with you that, at a minimum, complies with the
+       following (such criteria, the \"End User Requirements\"): (a) limits the license grant to use of the User App by
+       the End User on the applicable mobile device(s) on a specified mobile platform; (b) disclaims all warranties
+       by and on behalf of and limits all liabilities of BugSense; (c) prohibits decompilation and other reverse
+       engineering of the BugSense SDK; (d) provides that you will protect the privacy and legal rights of End Users
+       under all applicable laws and regulations, which includes communicating a legally adequate privacy notice;
+       (e) notifies End Users that certain information will be made available to you, BugSense and other entities and
+       that additional charges (e.g., data usage charges) may be incurred by End Users (e.g., in the transmission of
+       such information) by their mobile service providers; (f) obtains sufficient authorization from End Users to
+       transfer such information to you, BugSense and other entities and to permit the storage and processing of such
+       information; and (g) otherwise obtains and maintains any required consents from End Users to allow BugSense
+       (including its service providers) to provide or have provided products and services to you, including without
+       limitation consent for you, BugSense and other entities to access, monitor, use and disclose End User data"
+    - "Except as required by Section 4 below, in the license agreement with End Users (and notwithstanding anything to
+       the contrary in this Section), you will not refer to BugSense by name or with other identifying information;
+       instead, you will address the End User Requirements by referring to your \"suppliers,\" \"licensors\" and
+       \"service providers\" (or using similar words that refer to BugSense)"

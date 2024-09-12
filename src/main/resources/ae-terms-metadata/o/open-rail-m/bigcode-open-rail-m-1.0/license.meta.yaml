@@ -1,0 +1,17 @@
+canonicalName: BigCode Open RAIL-M License 1.0
+category: BigCode Open RAIL-M
+shortName: BigCode-Open-RAIL-M-1.0
+
+otherIds:
+  - "scancode:bigcode-open-rail-m-v1"
+
+alternativeNames:
+  - "BigCode Open RAIL-M v1 License Agreement"
+
+evidence:
+  matches:
+    - "This OpenRAIL-M License Agreement was created under BigCode, an open and collaborative research project aimed at the responsible development and Use of Large Language Models (“LLMs”) for code generation"
+    - "“Contribution” means any work of authorship, including the original version of the Model and any Modifications of the Model that is intentionally submitted to Licensor for inclusion in the Model by the copyright owner or by an individual or entity authorized to submit on behalf of the copyright owner"
+    - "The Model and Modifications of the Model are subject to additional terms as described in Section III, which shall govern the Use of the Model and Modifications of the Model"
+    - "You may Share the Model or Modifications of the Model under any license of your choice that does not contradict the restrictions in Attachment A of this License Agreement and includes"
+

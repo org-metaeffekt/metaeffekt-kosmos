@@ -1,0 +1,19 @@
+canonicalName: Microsoft DirectX SDK EULA
+category: Microsoft DirectX SDK EULA
+shortName: MS-DirectX-SDK-EULA
+
+otherIds:
+  - "scancode:ms-directx-sdk-eula"
+
+evidence:
+  matches:
+    - "You may install and use the SOFTWARE PRODUCT on an unlimited number of computers,
+       including workstations, terminals or other digital electronic devices ('COMPUTERS')
+       to design, develop, and test software application products for use with Microsoft
+       operating system products including Windows NT Workstation 4.0, Windows NT Server 4.0,
+       Windows 95 and subsequent releases thereto ('Application')"
+    - "You may install copies of the SOFTWARE PRODUCT on up to ten (10) COMPUTERS provided
+       that you are the only individual using the SOFTWARE PRODUCT on each such COMPUTER"
+    - "If you are an entity, Microsoft grants you the right to designate one individual
+       within your organization to have the right to use the SOFTWARE PRODUCT in the manner
+       provided above"

@@ -1,0 +1,25 @@
+canonicalName: Defensive Patent License 1.1
+category: Defensive Patent License
+shortName: Defensive-Patent-1.1
+
+otherIds:
+  - "scancode:defensive-patent-1.1"
+
+alternativeNames:
+  - "Defensive Patent License v1.1"
+  - "DPL v1.1"
+
+evidence:
+  matches:
+    - "In order to accept this License, Licensee must qualify as a DPL User (as defined in Section 7.6) and must contact
+       Licensor via the information provided in Licensor’s Offering Announcement to state affirmatively that Licensee
+       accepts the terms of this License"
+    - "Licensee must also communicate the URL of its own Offering Announcement (as defined in Section 7.13) and specify
+       whether it is accepting the License to all Licensor’s Patents or only a subset of those Patents"
+    - "If Licensee is only accepting the License to a subset of Licensor’s Patents, Licensee must specify each individual
+       Patent’s country of issuance and corresponding patent number for which it is accepting a License"
+    - "There is no requirement that the Licensor respond to the Licensee’s affirmative acceptance of this License"
+
+masks:
+  matches:
+    - "Unlike copyright-based licenses such as the GNU General Public License"

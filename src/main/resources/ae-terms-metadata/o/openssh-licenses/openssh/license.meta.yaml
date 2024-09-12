@@ -1,0 +1,107 @@
+canonicalName: OpenSSH License
+category: OpenSSH License
+spdxIdentifier: SSH-OpenSSH
+
+# FIXME-CONCEPT: introduce new system to match multi licenses: program option to define licenses that should be matched
+#   during validation (which are included in the license text - corrected segmentation needed); report if
+#   expected/defined licenses are matched by each segment - this allows a more detailed report and especially a correct
+#   one; customer wants all the relevant details
+# --> expectedMatches
+
+expectedMatches:
+  - "Beerware License"
+  - "BSD 2-Clause License (copyright holder variant)"
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "Permission Terms (variant 075)"
+  - "Public Domain (with disclaimer)"
+  - "Public Domain"
+  - "Redistribution Terms (variant 032)"
+  - "snprintf License"
+  - "ssh-keyscan License"
+  - "X11 License (distribute modifications)"
+
+ignoreMatches:
+  - "Beerware License"
+  - "BSD 2-Clause License (copyright holder variant)"
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "Permission Terms (variant 075)"
+  - "Public Domain (with disclaimer)"
+  - "Public Domain"
+  - "Redistribution Terms (variant 032)"
+  - "snprintf License"
+  - "ssh-keyscan License"
+  - "X11 License (distribute modifications)"
+
+otherIds:
+  - "scancode:openssh"
+
+alternativeNames:
+  - "SSH OpenSSH license"
+
+evidence: 
+  matches:
+    - "As far as I am concerned, the code I have written for this software can be used freely for any purpose"
+    - "Any derived versions of this software must be clearly marked as such, and if the derived work is incompatible with the protocol description in the RFC file, it must be called by a name other than \"ssh\" or \"Secure Shell\""
+    - "All of these restrictively licenced software components which he talks about have been removed from OpenSSH"
+    - "Note that any information and cryptographic algorithms used in this software are publicly available on the Internet and at any major bookstore, scientific library, and patent office worldwide"
+    - "The legal status of this program is some combination of all these permissions and restrictions"
+    - "BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW"
+    - "IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"
+
+references: 
+  "MIT":
+    matches:
+      - "Some code is licensed under a MIT-style license to the following
+              copyright holders:
+
+       	Free Software Foundation, Inc.
+
+       	 Permission is hereby granted, free of charge, to any person obtaining a  
+       	 copy of this software and associated documentation files (the            
+       	 \"Software\"), to deal in the Software without restriction, including      
+         without limitation the rights to use, copy, modify, merge, publish,      
+         distribute, distribute with modifications, sublicense, and/or sell       
+         copies of the Software, and to permit persons to whom the Software is    
+         furnished to do so, subject to the following conditions: 
+                                                                                  
+         The above copyright notice and this permission notice shall be included  
+         in all copies or substantial portions of the Software.  "
+  
+  "BSD":
+    matches:
+      - "EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
+             POSSIBILITY OF SUCH DAMAGES.
+
+         2)
+             The 32-bit CRC compensation attack detector in deattack.c was
+             contributed by CORE SDI S.A. under a BSD-style license"
+      - "This file is part of the OpenSSH software.
+
+         The licences which components of this software fall under are as
+         follows.  First, we will summarize and say that all components
+         are under a BSD licence, or a licence more free than that.
+
+         OpenSSH contains no GPL code"
+
+mappings:
+  "3\\)NEWLINE-MARKER ssh-keyscan was contributed by David Mazieres under a BSD-style": " LICENSE-SEGMENT-MARKER 3) ssh-keyscan was contributed by David Mazieres under a BSD-style license."
+  "NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER5\\)NEWLINE-MARKER One component of the ssh source code is under a 3-clause BSD license,NEWLINE-MARKER held by the University of California, since we pulled these parts fromNEWLINE-MARKER original Berkeley code.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER \\* Copyright \\(c\\) 1983, 1990, 1992, 1993":
+    " LICENSE-SEGMENT-MARKER NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER5)NEWLINE-MARKER One component of the ssh source code is under a 3-clause BSD license,NEWLINE-MARKER held by the University of California, since we pulled these parts fromNEWLINE-MARKER original Berkeley code.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER * Copyright (c) 1983, 1990, 1992, 1993"
+  "b\\) snprintf replacementNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER \\* Copyright Patrick Powell 1995NEWLINE-MARKER \\* This code is based on code written by Patrick PowellNEWLINE-MARKER \\* \\(papowell@astart.com\\) It may be used for any purpose":
+    " LICENSE-SEGMENT-MARKER b) snprintf replacementNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER * Copyright Patrick Powell 1995NEWLINE-MARKER * This code is based on code written by Patrick PowellNEWLINE-MARKER * (papowell@astart.com) It may be used for any purpose"
+  "c\\) Compatibility code \\(openbsd-compat\\)NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Apart from the previously mentioned licenses, various pieces of codeNEWLINE-MARKER in the openbsd-compat/ subdirectory":
+    " LICENSE-SEGMENT-MARKER c) Compatibility code (openbsd-compat)NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Apart from the previously mentioned licenses, various pieces of codeNEWLINE-MARKER in the openbsd-compat/ subdirectory"
+
+
+segmentation:
+  revert: [
+    {match: "6) Remaining components of the software are provided under a standard 2-term BSD licence with the following names as copyright holders: Markus Friedl Theo de Raadt Niels Provos Dug Song Aaron Campbell Damien Miller Kevin Steves Daniel Kouril Wesley Griffin Per Allansson Nils Nordman Simon Wilkinson",
+     matchNext: "Portable OpenSSH additionally includes code from the following copyright holders, also under the 2-term BSD license: Ben Lindstrom Tim Rice Andre Lucas Chris Adams Corinna Vinschen Cray Inc"
+    },
+    { match: "c) Compatibility code (openbsd-compat) Apart from the previously mentioned licenses, various pieces of code in the openbsd-compat/ subdirectory",
+      matchNext: "are licensed as follows:"
+    },
+    { match: "are licensed as follows:",
+      matchNext: "Some code is licensed under a 3-term BSD license, to the following copyright holders: Todd C. Miller Theo de Raadt Damien Miller Eric P. Allman The Regents of the University of California Constantin S. Svintsoff  Redistribution and use in source and binary forms, with or without  modification, are permitted provided that the following conditions  are met:  1. Redistributions of source code must retain the above copyright  notice, this list of conditions and the following disclaimer.  2. Redistributions in binary form must reproduce the above copyright  notice, this list of conditions and the following disclaimer in the  documentation and/or other materials provided with the distribution.  3. Neither the name of the University nor the names of its contributors  may be used to endorse or promote products derived from this software  without specific prior written permission.   THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND  ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE  ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE  FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL  DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS  OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)  HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT  LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY  OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF  SUCH DAMAGE."
+    },
+  ]

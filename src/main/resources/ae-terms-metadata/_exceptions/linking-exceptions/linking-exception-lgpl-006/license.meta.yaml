@@ -1,0 +1,22 @@
+canonicalName: Linking Exception (LGPL; variant 006)
+category: LGPL Linking Exception
+shortName: Linking-Exception-LGPL-006
+ 
+type: exception
+
+canonicalNameHistory:
+  - "GCC Runtime Library Exception 2.0 (to LGPL)"
+
+combinedWith:
+  "GNU Library General Public License 2.0 (or any later version)": GNU Library General Public License 2.0 (or any later version; with Linking exception (LGPL; variant 006))
+
+evidence:
+  matches:
+    - "In addition to the permissions in the GNU Library General Public
+       License, the Free Software Foundation gives you unlimited
+       permission to link the compiled version of this file into
+       combinations with other programs, and to distribute those
+       combinations without any restriction coming from the use of this file"
+    - "The Library Public License restrictions do apply in other
+       respects; for example, they cover modification of the file, and
+       distribution when not linked into a combined executable"

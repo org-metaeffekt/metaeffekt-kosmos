@@ -1,0 +1,42 @@
+canonicalName: David H. Bailey LBNL BSD License 2007
+category: David H. Bailey LBNL BSD License
+shortName: dhb-lbnl-bsd-2007
+
+otherIds:
+  - "scancode:dhb-lbnl-bsd-2007"
+
+classification: limited copyleft
+
+alternativeNames:
+  - "David H. Bailey LBNL BSD License 2007"
+  - "dhb-lbnl-bsd-2007"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the copyright notice, this list of conditions and the following
+       disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Neither the name of the University of California, Lawrence Berkeley National Laboratory, U.S. Dept. of Energy
+       nor the names of its contributors may be used to endorse or promote products derived from this software
+       without specific prior written permission"
+
+segmentation:
+  revert: [
+    { match:
+        "(2) Redistributions in binary form must reproduce the copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.",
+      matchNext:
+        "(3) Neither the name of the University of California, Lawrence Berkeley National Laboratory, U.S. Dept. of Energy nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission."
+    },
+    {
+      match:
+        "are permitted provided that the following conditions are met: (1) Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer.",
+      matchNext:
+        "(2) Redistributions in binary form must reproduce the copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution."
+    },
+    {
+      match:
+        "(1) Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer.",
+      matchNext:
+        "(2) Redistributions in binary form must reproduce the copyright notice, this list of conditions and the following disclaimer"
+    }
+  ]

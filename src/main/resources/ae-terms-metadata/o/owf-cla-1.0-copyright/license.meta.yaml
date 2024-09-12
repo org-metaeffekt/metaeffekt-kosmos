@@ -1,0 +1,20 @@
+canonicalName: OWF Contributor License Agreement 1.0 (copyright only)
+category: OWF Contributor License Agreement
+shortName: OWF-CLA-1.0-copyright
+
+otherIds:
+  - "scancode:owf-cla-1.0-copyright"
+
+alternativeNames:
+  - "OWF Contributor License Agreement 1.0 - Copyright"
+
+evidence:
+  matches:
+    - "This CLA sets forth the terms under which I will participate in and contribute to the development
+       of the Specification"
+    - "Capitalized terms are defined in the CLA’s last section"
+    - "I agree that I will not intentionally take or willfully assist any third party to take any action for
+       the purpose of circumventing my obligations under this CLA"
+    - "As a condition of the copyright grant, you must include an attribution to the Specification in any derivative work you make based on the Specification"
+  excludes:
+    - "\"Granted Claims\" are those patent claims that I own or control, including those patent claims I acquire or control after the Date below, that are infringed by Permitted Uses"

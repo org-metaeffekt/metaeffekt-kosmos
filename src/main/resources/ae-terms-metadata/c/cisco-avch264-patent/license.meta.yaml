@@ -1,0 +1,15 @@
+canonicalName: Cisco AVC/H.264 Patent License
+category: Cisco AVC/H.264 Patent
+shortName: Cisco-AVC/H264-Patent
+
+otherIds:
+  - "scancode:cisco-avch264-patent"
+
+alternativeNames:
+  - "AVC/H.264 Patent Portfolio License Notice"
+
+evidence:
+  matches:
+    - "The binary form of this Software is distributed by Cisco under the AVC/H.264 Patent Portfolio License from MPEG LA, and is subject to the following requirements, which may or may not be applicable to your use of this software"
+    - "The Cisco-provided binary is separately downloaded to an end user’s device, and not integrated into or combined with third party software prior to being downloaded to the end user’s device"
+    - "Any third-party software that makes use of the Cisco-provided binary must reproduce all of the above text, as well as this last condition, in the EULA and/or in another location where licensing information is to be presented to the end user"

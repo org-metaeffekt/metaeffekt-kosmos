@@ -1,0 +1,20 @@
+canonicalName: Jason Mayes License
+category: Jason Mayes License
+shortName: Jason-Mayes
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:jason-mayes"
+
+alternativeNames:
+  - "jason-mayes"
+
+evidence:
+  matches:
+    - "A present to all the developers out there"
+    - "Please keep this disclaimer with my code if you use it"
+    - "Got feedback or questions, ask here:
+       http://www.jasonmayes.com/projects/twitterApi/
+       Updates will be posted to this site"

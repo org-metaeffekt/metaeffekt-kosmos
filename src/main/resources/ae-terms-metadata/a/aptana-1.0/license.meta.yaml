@@ -1,0 +1,22 @@
+canonicalName: Aptana Public License 1.0
+category: Aptana Public License
+shortName: Aptana-1.0
+
+otherIds:
+  - "scancode:aptana-1.0"
+
+alternativeNames:
+  - "http://aptana.com/legal/apl/"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, Aptana hereby grants to You a non-exclusive, worldwide,
+       royalty-free copyright license to reproduce, prepare derivative works of, install, and execute the Program in source code
+       and object code form, in each case solely for Your Internal Use"
+    - "Subject to the terms and conditions of this License, Aptana hereby grants to You a worldwide, non-exclusive, royalty-free,
+       patent license under Aptana's Licensed Patent Claims to make and use the Program in source code and object code form, in each case solely for Your Internal Use"
+    - "As used herein, 'Licensed Patent Claims' means only those patent claims owned by Aptana that are necessarily infringed by Your making and using the Program for Your Internal Use"
+    - "Notwithstanding this Section 2.1(b), no patent license is granted: (i) for code that You delete from the Program or (ii) for infringements caused by:
+       (1) the modification of the Program or (2) the combination of the Program with other software or devices"
+    - "You are not licensed under this License to distribute the Program or derivative works thereof, or to make any use other than Internal Use of the Program or derivative works thereof"
+    - "You may not remove or alter any copyright or other proprietary rights notices, or other means of attribution, contained within the Program"

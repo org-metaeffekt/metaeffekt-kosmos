@@ -1,0 +1,29 @@
+canonicalName: GUILE Exception (GPL)
+category: GPL GUILE Exception
+shortName: GUILE-Exception-GPL
+
+canonicalNameHistory:
+  - "GUILE Exception"
+
+type: exception
+
+otherIds:
+  - "scancode:guile-exception-2.0"
+
+alternativeNames:
+  - "GUILE Exception"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with GUILE exception)
+
+references:
+  "GPL":
+    matches:
+      - "covered by the GNU General Public License"
+
+evidence:
+  matches:
+    - "The exception is that, if you link the GUILE library with other files to produce
+       an executable, this does not by itself cause the resulting executable to be
+       covered by the GNU General Public License"
+    - "Your use of that executable is in no way restricted on account of linking the GUILE library code into it"

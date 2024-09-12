@@ -1,0 +1,14 @@
+canonicalName: Perl 1.0
+category: Perl
+shortName: Perl-1.0
+
+otherIds:
+  - "scancode:perl-1.0"
+
+alternativeNames:
+  - "perl-1.0"
+
+evidence:
+  matches:
+    - "You may copy the perl kit in whole or in part as long as you don't try to
+       make money off it, or pretend that you wrote it"

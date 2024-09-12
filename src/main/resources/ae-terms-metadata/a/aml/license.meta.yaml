@@ -1,0 +1,20 @@
+canonicalName: Apple MIT License
+category: AML
+spdxIdentifier: AML
+
+otherIds:
+  - "scancode:aml"
+
+alternativeNames:
+  - "Apple MIT License"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "This Apple software is supplied to you by Apple Computer, Inc."
+    - "If you do not agree with these terms, please do
+       not use, install, modify or redistribute this Apple software"
+    - "you must retain this notice and the following text and disclaimers in
+       all such redistributions of the Apple Software"

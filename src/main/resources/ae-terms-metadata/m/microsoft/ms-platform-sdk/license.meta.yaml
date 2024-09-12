@@ -1,0 +1,24 @@
+canonicalName: Microsoft Platform SDK License
+category: Microsoft Platform SDK License
+shortName: MS-Platform-SDK
+
+otherIds:
+  - "scancode:ms-platform-sdk"
+
+alternativeNames:
+  - "Microsoft Platform SDK License"
+
+evidence:
+  matches:
+    - "Microsoft grants you the rights described in this EULA provided that you comply
+       with all terms and conditions of this EULA"
+    - "Microsoft grants you a limited, nonexclusive license to use the Software, and
+       to make and use copies of the Software, for the purposes of designing, developing and
+       testing your software applications for use with any version or edition of a Microsoft
+       Windows operating system for personal computers or servers ('Microsoft Operating System Product')"
+    - "The Software contains the SharePoint Portal Server Software Development Kit ('SPSSDK')"
+    - "In addition to the license granted in Section 1.1, Microsoft grants you a limited, nonexclusive
+       license to modify the sample source code located in the SPSSDK solely to design, develop, and test
+       your application internally within your organization"
+    - "Your entire license under this EULA with respect to the SPSSDK is conditioned on your not using the
+       SPSSDK to create software that is incompatible with file formats indexed by Microsoft SharePoint Portal Server 2001"

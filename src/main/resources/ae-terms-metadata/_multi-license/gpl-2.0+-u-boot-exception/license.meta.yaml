@@ -1,0 +1,16 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with U-Boot Exception (GPL))
+category: GPL+U-Boot
+shortName: GPL-2.0+-U-Boot-Exception
+
+otherIds:
+  - "scancode:gpl-2.0-uboot"
+
+type: expression
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with U-Boot Exception (GPL))
+  U-Boot Exception (GPL): GNU General Public License 2.0 (or any later version; with U-Boot Exception (GPL))
+
+displayName: GNU General Public License 2.0 (or any later version; with U-Boot Exception)
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)

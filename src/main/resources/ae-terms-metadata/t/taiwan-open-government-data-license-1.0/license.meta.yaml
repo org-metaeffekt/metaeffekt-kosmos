@@ -1,0 +1,23 @@
+canonicalName: Taiwan Open Government Data License 1.0
+category: Taiwan Open Government Data
+spdxIdentifier: OGDL-Taiwan-1.0
+
+otherIds:
+  - "scancode:ogdl-taiwan-1.0"
+
+alternativeNames:
+  - "OGDL-Taiwan-1.0"
+  - "Taiwan Open Government Data License 1.0"
+
+expectedSpdxMatches:
+  - "Taiwan Open Government Data License 1.0"
+  - "Taiwan Open Government Data License 1.0 (TW)"
+
+evidence:
+  matches:
+    - "The Data Providing Organization grants User a perpetual, worldwide, non-exclusive, irrevocable, royalty-free
+       copyright license to reproduce, distribute, publicly transmit, publicly broadcast, publicly recite, publicly
+       present, publicly perform, compile, adapt to the Open Data provided for any purpose, including but not limited
+       to making all kinds of Derivative Works either as products or services"
+    - "User can sublicense the copyrights which he/she is granted through 2.1. to others"
+    - "The License does not grant any rights in the patents and trademarks"

@@ -1,0 +1,25 @@
+canonicalName: CeCILL-C Free Software License (FR)
+category: CeCILL-C
+shortName: CeCILL-C-FSL
+
+otherIds:
+  - "scancode:cecill-c"
+
+alternativeNames:
+  - "CeCILL-C Free Software License (FRA)"
+
+evidence:
+  matches:
+    - "le chargement du Logiciel par tout moyen notamment par téléchargement à partir d'un
+       serveur distant ou par chargement à partir d'un support physique"
+  excludes:
+    - "désigne l'ensemble des modifications, corrections, traductions, adaptations et/ou nouvelles
+       fonctionnalités intégrées dans le Logiciel par tout Contributeur, ainsi que tout Module Interne"
+    - "Ce contrat est une licence de logiciel libre dont l'objectif est de conférer
+       aux utilisateurs la liberté de modification et de redistribution du logiciel
+       régi par cette licence dans le cadre d'un modèle de diffusion «open source»"
+
+references:
+  "CeCILL-C":
+    matches:
+      - "CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-C Avertissement"

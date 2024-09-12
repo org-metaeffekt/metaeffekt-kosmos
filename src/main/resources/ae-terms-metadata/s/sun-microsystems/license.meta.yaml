@@ -1,0 +1,29 @@
+canonicalName: Permission Terms (Sun Microsystems)
+category: Permission
+spdxIdentifier: Sun-PPP-2000
+
+otherIds:
+  - "scancode:sun-ppp-2000"
+
+alternativeNames:
+  - "Permission Terms (Sun Microsystems)"
+  - "Sun PPP License (2000)"
+  - "Sun-PPP-2000"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software and its
+       documentation is hereby granted, provided that the above copyright
+       notice appears in all copies"
+  excludes:
+    - "You grant ActiveState the right to include Your name"
+    - "The Australian National University makes no representations about
+       the suitability of this software"
+    - "Neither *{.{0,100}}* may be used to endorse or promote products"
+    - "This software is provided without any warranty, express or implied"
+    - "Development of this software was funded, in part, by Cray Research Inc.,
+       UUNET Communications Services Inc., Sun Microsystems Inc., and Scriptics
+       Corporation"
+    - "Inc hold the copyright on behalf of the wider Net-SNMP community"
+    - "The contents of this file are subject to the Sun Industry Standards Source
+       License Version 1.2 (the License)"

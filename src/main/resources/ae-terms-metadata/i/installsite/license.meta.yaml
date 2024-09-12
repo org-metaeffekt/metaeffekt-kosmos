@@ -1,0 +1,25 @@
+canonicalName: InstallSite License Agreement
+category: InstallSite License Agreement
+shortName: InstallSite
+
+otherIds:
+  - "scancode:installsite"
+
+alternativeNames:
+  - "installsite license"
+
+evidence:
+  matches:
+    - "This license agreement grants you the non-exclusive, royalty-free right
+       to use the CONTENTS to create installation programs"
+    - "If the source code is included with the software, you may modify it in any way you like"
+    - "You are not allowed to reproduce or distribute the CONTENTS or any part
+       of it in any form, except as integral part of your installation program"
+    - "Especially you must not include it in a book, distribute it on a CD-ROM
+       or offer it for download from your web site"
+    - "If you intend to do so, please contact the webmaster to get an extended license"
+    - "You may not remove the copyright notices, if any, that are included or
+       attached to the CONTENTS"
+    - "In case the CONTENTS were provided by a person or company other than
+       Stefan Krueger, additional restrictions and license regulations may
+       apply"

@@ -1,0 +1,37 @@
+canonicalName: Google Maps Platform Terms of Service 2018-06-07
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2018-06-07
+
+otherIds:
+  - "scancode:google-maps-tos-2018-06-07"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2018-06-07"
+
+evidence:
+  matches:
+    - "Google will provide the Services to Customer in accordance with the applicable SLA, and Customer may use the
+       Google Maps Core Services in Customer Application(s) in accordance with Section 3 (License)"
+    - "Customer will administer the Services through the online Admin Console"
+    - "To access the Services, Customer must create Project(s) and use its API key(s) in accordance with the Documentation"
+    - "Customer must have an Account to use the Services"
+    - "Customer is responsible for the information it provides in connection with the Account, its passwords, and use of its Account"
+    - "Google may: (a) make new features or functionality available through the Services and (b) add new services to the
+       'Services' definition (by adding them at the URL stated under that definition)"
+    - "Customer’s use of new features or functionality may be contingent on Customer’s agreement to additional terms
+       applicable to the new feature or functionality"
+  excludes:
+    - "Last modified: July 9, 2018"
+    - "This Google Maps Platform License Agreement takes effect on June 11, 2018"
+    - "If you are currently using the Google Maps Standard Plan, this Google Maps Platform License Agreement will
+       govern your use of the Google Maps Platform as of June 11, 2018"
+    - "The current Google Maps Platform Terms of Service, which govern your use of the Google Maps Platform until
+       June 11, 2018,  is available at https://developers.google.com/maps/terms"
+    - "or enters into a Reseller Agreement if purchasing through a Reseller"
+    - "access the Admin Console through which Customer may administer its use of the Services"
+    - "This Google Maps Platform License Agreement takes effect on July 16, 2018"
+    - "If you have entered into an offline variant of this Agreement, the terms below do not apply, and your
+       offline agreement governs your use of the Google Maps Core Services"
+    - "This Section applies if Customer orders the Services from a Reseller under a Reseller Agreement (including the Reseller Order Form)"
+    - "Last modified: May 6, 2020"
+

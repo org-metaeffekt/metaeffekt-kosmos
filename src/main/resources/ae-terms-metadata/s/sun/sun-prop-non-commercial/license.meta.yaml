@@ -1,0 +1,19 @@
+canonicalName: Sun Proprietary Non-Commercial License
+category: Sun Proprietary Non-Commercial License
+shortName: Sun-Prop-Non-Commercial
+
+otherIds:
+  - "scancode:sun-prop-non-commercial"
+
+alternativeNames:
+  - "Sun Proprietary Non-Commercial License"
+
+evidence:
+  matches:
+    - "The Java source code is the confidential and proprietary information
+       of Sun Microsystems, Inc. ('Confidential Information')"
+    - "You shall not disclose such Confidential Information and shall use it only in
+       accordance with the terms of the license agreement you entered into with Sun"
+    - "SUN SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING,
+       MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES"
+

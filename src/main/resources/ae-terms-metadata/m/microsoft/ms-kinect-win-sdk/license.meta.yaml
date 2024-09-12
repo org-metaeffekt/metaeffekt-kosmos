@@ -1,0 +1,40 @@
+canonicalName: Microsoft Kinect for Windows SDK License
+category: Microsoft Kinect for Windows SDK License
+shortName: MS-Kinect-Win-SDK
+
+otherIds:
+  - "scancode:ms-kinext-win-sdk"
+
+alternativeNames:
+  - "Microsoft Kinect for Windows SDK License"
+
+evidence:
+  matches:
+    - "You may (i) install and use any number of copies of the software (only when installed using the
+       accompanying software installer package) on your computer to design, develop, and test your programs
+       that run specifically on a Microsoft Windows operating system, and that are intended for use solely
+       in connection with Microsoft Kinect for Windows sensor, and its associated drivers and runtime software,
+       and no other sensor ('Kinect for Windows Applications'), and (ii) distribute your Kinect for Windows
+       Applications, subject to the terms in this agreement"
+    - "Restricted Use with the Kinect for Xbox 360 Sensor. The Kinect for Xbox 360 sensor is sold subject to
+       the terms of a Limited Warranty and Software License Agreement that permits use of the device solely
+       in connection with an Xbox 360 or Xbox 360 S console"
+    - "Notwithstanding this restriction in the Kinect for Xbox 360 sensor Limited Warranty and Software
+       License Agreement, you may use an unmodified Kinect for Xbox 360 sensor to assist in the design,
+       development, and testing of your Kinect for Windows Applications, subject to the terms and
+       conditions of this agreement"
+    - "All of the other terms of the Kinect for Xbox 360 Limited Warranty and Software License Agreement remain unchanged"
+    - "You agree that end users of Kinect for Windows Applications are not licensed to use Kinect for Xbox 360 sensors
+       in connection with such Kinect for Windows Applications, and that you and your distributors will not directly
+       or indirectly assist, encourage, or enable Kinect for Windows Application end users to do so"
+    - "Included Microsoft Programs. The software includes other Microsoft programs.
+       The license terms with those programs apply to your use of them"
+    - "No High Risk Use. WARNING:
+       The Kinect for Xbox 360 sensor and the Kinect for Windows sensor (the 'Kinect Sensors'),
+       and the software are not fault-tolerant. The Kinect Sensors and the software are not designed or intended
+       for use with any program where failure or fault of any kind of the Kinect Sensors or software could lead
+       to death or serious bodily injury of any person, or to severe physical or environmental damage ('High Risk Use').
+       You are not licensed to, and you agree not to, use, distribute, or sublicense the use of the Kinect Sensors
+       and/or software in, or in conjunction with, High Risk Use.  High Risk Use is STRICTLY PROHIBITED.
+       High Risk Use includes, for example, the following: aircraft navigation and control of other modes of human
+       mass transportation, nuclear or chemical facilities"

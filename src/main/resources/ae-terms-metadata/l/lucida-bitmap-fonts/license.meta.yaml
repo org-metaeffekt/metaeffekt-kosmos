@@ -1,0 +1,40 @@
+canonicalName: Lucida Bitmap Fonts License
+category: Lucida-Bitmap-Fonts
+spdxIdentifier: Lucida-Bitmap-Fonts
+
+otherIds:
+  - "scancode:bigelow-holmes"
+
+alternativeNames:
+  - "Lucida-Bitmap-Fonts"
+  - "Lucida Bitmap Fonts License"
+  - "Bigelow & Holmes Lucida Fonts License"
+
+canonicalNameHistory:
+  - "Lucida Legal Notice"
+
+alternativeShortNames:
+  - "Lucida"
+
+evidence:
+  matches:
+    - "Sun Microsystems, Inc. of Mountain View, California owns
+       the copyright and has design patents pending on many of the icons"
+    - "AT&T is the owner of the OPEN LOOK trademark associated with the
+       materials on this tape"
+    - "Users and possessors of this source code are hereby granted a
+       nonexclusive, royalty-free copyright and design patent license to
+       use this code in individual and commercial software"
+    - "A royalty-free, nonexclusive trademark license to refer to the code
+       and output as 'OPEN LOOK' compatible is available from AT&T if,
+       and only if, the appearance of the icons or glyphs is not changed
+       in any manner except as absolutely necessary to accommodate the
+       standard resolution of the screen or other output device, the code
+       and output is not changed except as authorized herein, and the code
+       and output is validated by AT&T"
+    - "Bigelow & Holmes is the owner of the Lucida (R) trademark for the
+       fonts and bit-mapped images associated with the materials on this tape"
+    - "Users are granted a royalty-free, nonexclusive license to use
+       the trademark only to identify the fonts and bit-mapped images if,
+       and only if, the fonts and bit-mapped images are not modified in any
+       way by the user"

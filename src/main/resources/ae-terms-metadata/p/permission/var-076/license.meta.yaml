@@ -1,0 +1,33 @@
+canonicalName: Permission Terms (pkgconf)
+category: Permission
+spdxIdentifier: pkgconf
+
+status:
+  - "reviewed 23.04.2024"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+displayName: "Permission Terms (no liability; no warranty)"
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var076"
+  - "Permission Terms (variant 076)"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and/or distribute this software for any
+       purpose with or without fee is hereby granted, provided that the above
+       copyright notice and this permission notice appear in all copies"
+    - "This software is provided 'as is' and without any warranty, express or implied"
+    - "In no event shall *{.{0,100}}* be liable for any damages arising from the use of this software"
+
+licenseTemplate:
+  "<lq>
+    Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee 
+    is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+    <p>This software is provided 'as is' and without any warranty, express or implied.</p>
+    In no event shall {{copyrightHolderNoLiability}} be liable for any damages arising from the use of this software.
+   </lq>"

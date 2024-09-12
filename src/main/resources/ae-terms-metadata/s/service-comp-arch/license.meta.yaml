@@ -1,0 +1,36 @@
+canonicalName: Service Component Architecture License
+category: Service Component Architecture License
+shortName: Service-Comp-Arch
+
+otherIds:
+  - "scancode:service-comp-arch"
+
+alternativeNames:
+  - "service-comp-arch"
+  - "License for the Service Component Architecture JavaDoc, Interface Definition files and XSD files"
+
+evidence:
+  matches:
+    - "The Service Component Architecture JavaDoc, Interface Definition files,
+       and XSD files are being provided by the copyright holders under the
+       following license"
+    - "By using and/or copying this work, you agree that
+       you have read, understood and will comply with the following terms and conditions"
+    - "Permission to copy, display, make derivative works of, and distribute
+       the Service Component Architecture JavaDoc, Interface Definition Files
+       and XSD files (the 'Artifacts') in any medium without fee or royalty is
+       hereby granted, provided that you include the following on ALL copies
+       of the Artifacts, or portions thereof, that you make"
+    - "A link or URL to the Artifacts at this location:
+       http://www.osoa.org/display/Main/Service+Component+Architecture+Specifications"
+    - "The full text of this copyright notice as shown in the Artifacts"
+    - "The name and trademarks of the Authors may NOT be used in any manner,
+       including advertising or publicity pertaining to the Service Component
+       Architecture Specification or its contents without specific, written
+       prior permission"
+    - "Title to copyright in the Service Component Architecture Specification and the JavaDoc,
+       Interface Definition Files and XSD Files will at all times remain with the Authors"
+  excludes:
+    - "The Authors grant permission to copy and distribute the WSDL 1.1 Binding Extension for
+       SOAP 1.2 Schema Files in any medium without fee or royalty as long as this notice and
+       license are distributed with them"

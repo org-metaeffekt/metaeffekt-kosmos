@@ -1,0 +1,51 @@
+canonicalName: Sun CC-PP Processing License 1.0
+category: Sun CC-PP Processing License
+shortName: sun-cc-pp-1.0
+
+otherIds:
+  - "scancode:sun-cc-pp-1.0"
+
+alternativeNames:
+  - "(LFI#134993/Form ID#011801)"
+  - "Composite Capability/Preference Profiles (CC/PP) Processing
+     Specification (\"Specification\") Version:
+                           1.0 Status: FCS
+                             Release: October 28, 2003"
+
+evidence:
+  matches:
+    - "Sun also grants you a perpetual,
+       non-exclusive, worldwide, fully paid-up, royalty free,
+       limited license (without the right to sublicense) under any
+       applicable copyrights or patent rights it may have in the
+       Specification to create and/or distribute an Independent
+       Implementation of the Specification that"
+    - "You need not include limitations (i)-(iii) from the
+        previous paragraph or any other particular \"pass through\"
+        requirements in any license You grant concerning the use of
+        your Independent Implementation or products derived from
+        it"
+    - "This Agreement will terminate immediately without notice
+       from Sun if you fail to comply with any material provision
+       of or act outside the scope of the licenses granted above"
+    - "TRADEMARKS No right, title, or interest in or to any
+       trademarks, service marks, or trade names of Sun or Sun's
+       licensors is granted hereunder"
+    - "and \"Licensor
+        Name Space\" shall mean the public class or interface
+        declarations whose names begin with \"java\", \"javax\",
+        \"com.sun\" or their equivalents in any subsequent naming
+        convention adopted by Sun through the Java Community
+        Process, or any recognized successors or replacements
+        thereof"
+    - "No right, title, or interest in or to any
+       trademarks, service marks, or trade names of Sun or Sun's
+       licensors is granted hereunder. Sun, Sun Microsystems, the
+       Sun logo, Java, J2EE, and the Java Coffee Cup logo are
+       trademarks or registered trademarks of Sun Microsystems,
+       Inc. in the U.S. and other countries"
+    - "CHANGES ARE PERIODICALLY ADDED TO THE
+       INFORMATION THEREIN; THESE CHANGES WILL BE INCORPORATED
+       INTO N EW VERSIONS OF THE SPECIFICATION, IF ANY"
+  excludes:
+    - "Enterprise JavaBeansTM Specification (\"Specification\")"

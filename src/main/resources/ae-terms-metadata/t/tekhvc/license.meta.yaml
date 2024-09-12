@@ -1,0 +1,23 @@
+canonicalName: TekHVC License
+category: TekHVC License
+shortName: TekHVC
+
+otherIds:
+  - "scancode:tekhvc"
+
+alternativeNames:
+  - "TekHVC License"
+
+evidence:
+  matches:
+    - "This copyright, permission, and disclaimer notice is reproduced in
+       all copies of this software and any modification thereof and in
+       supporting documentation"
+    - "Any color-handling application which displays TekHVC color
+       cooordinates identifies these as TekHVC color coordinates in any
+       interface that displays these coordinates and in any associated
+       documentation"
+    - "The term \"TekHVC\" is always used, and is only used, in association
+       with the mathematical derivations of the TekHVC Color Space,
+       including those provided in this file and any equivalent pathways and
+       mathematical derivations, regardless of digital* representation"

@@ -1,0 +1,51 @@
+canonicalName: Permission Terms (variant 029)
+category: Permission
+spdxIdentifier: HPND-export-US-modify
+
+otherIds:
+  - "scancode:mit-with-modification-obligations"
+
+status:
+  - "reviewed 30.01.2024"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+displayName: "Permission Terms (no advertising; no representation; no warranty)"
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var029"
+
+evidence:
+  matches:
+    - "Export of this software from the United States of America may require a specific license from the United 
+       States Government"
+    - "It is the responsibility of any person or organization contemplating export to obtain such a license before 
+       exporting"
+    - "WITHIN THAT CONSTRAINT, permission to use, copy, modify, and distribute this software and its documentation for 
+       any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and 
+       that both that copyright notice and this permission notice appear in supporting documentation, and that
+       the name of *{.{0,100}}* not be used in advertising or publicity pertaining to distribution of the software 
+       without specific, written prior permission"
+    - "Furthermore if you modify this software you must label your software as modified software and not distribute 
+       it in such a fashion that it might be confused with the original *{.{0,100}}* software"
+    - "Neither *{.{0,100}}* make*{.{0,1}}* any representations about the suitability of this software for any purpose" 
+    - "It is provided as is without express or implied warranty"
+
+
+licenseTemplate:
+    "<lq>Export of this software from the United States of America may require a specific license from the 
+      United States Government. It is the responsibility of any person or organization contemplating export 
+      to obtain such a license before exporting.
+      <p>WITHIN THAT CONSTRAINT, permission to use, copy, modify, and distribute this software and its 
+      documentation for any purpose and without fee is hereby granted, provided that the above copyright
+      notice appear in all copies and that both that copyright notice and this permission notice appear 
+      in supporting documentation, and that the name of {{copyrightHolderNoAdvertising}} not be used in 
+      advertising or publicity pertaining to distribution of the software without specific, written prior 
+      permission.</p><p>Furthermore if you modify this software you must label your software as modified software 
+      and not distribute it in such a fashion that it might be confused with the original {{copyrightHolder}} 
+      software.</p><p>Neither {{copyrightHolderNoRepresentation}} make any representations about the suitability 
+      of this software for any purpose.</p> It is provided \"as is\" without express or implied warranty.</lq>"
+
+##TODO: Move to export note

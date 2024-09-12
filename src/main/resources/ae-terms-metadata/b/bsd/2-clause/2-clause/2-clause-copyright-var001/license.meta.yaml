@@ -1,0 +1,102 @@
+canonicalName: BSD 2-Clause License (copyright holder variant; retain first lines)
+category: BSD
+spdxIdentifier: BSD-2-Clause-first-lines
+
+otherIds:
+  - "scancode:bsd-2-clause-first-lines"
+
+representedAs: BSD 2-Clause License
+
+requiresCopyright: true
+requiresLicenseText: true
+
+canonicalNameHistory:
+  - "BSD 2-Clause License (copyright holder variant; variant 001)"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary form*{.{0,10}}* with or without
+       modification, are permitted provided that the following conditions are met"
+    - "Redistributions of source code must retain the *{.{0,10}}*copyright notice*{.{0,10}}*, this
+       list of conditions and the following disclaimer as the first lines of this file unmodified"
+    - "Redistributions in binary form must reproduce the *{.{0,10}}*copyright notice,
+       this list of conditions and the following disclaimer in the documentation
+       and/or other materials provided with the distribution"
+    - "THIS SOFTWARE IS PROVIDED BY *{.{0,120}}*\"AS IS\"
+       AND ANY EXPRESS*{.{0,2}}* OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+       IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+       DISCLAIMED"
+    - "IN NO EVENT SHALL *{.{0,120}}*BE LIABLE
+       FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+       DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+       SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)"
+    - "HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+       OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+       OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
+  excludes:
+    - "All advertising materials mentioning features or use of this software
+       must display the following acknowledgement"
+    - "their Contribution(s) (the licensed copyrights of copyright holders and
+       non-copyrightable additions of contributors, in source or binary form) alone"
+    - "Binary redistributions based on modified source code
+       must be clearly marked as modified versions in the documentation
+       and/or other materials provided with the distribution"
+    - "used to endorse or promote products"
+    - "Redistributions must acknowledge that this software was
+       originally developed by the UCSF Resource for Biocomputing,
+       Visualization, and Informatics under support by the NIH
+       National Center for Research Resources, grant P41-RR01081"
+    - "Redistributions of any form whatsoever must retain the following acknowledgment"
+    - "Redistributions for commercial purposes are not permitted without the Allen Institute’s written permission"
+    - "This software is not subject to any export provision of the United States
+       Department of Commerce, and may be exported to any country or planet"
+    - "Redistributions of source code must be licensed under more than one
+       license and must not have the terms of the OSSAL removed"
+    - "Redistributions of source code must retain the above copyright
+                 notice, this list of conditions and the following disclaimer in this
+                 position and unchanged"
+
+mappings:
+  "with or without modification, are permitted provided that the following conditionsare met":
+    "with or without modification, are permitted provided that the following conditions are met"
+  "disclaimer in the documentation and\\/or other materials provided with thedistribution":
+    "disclaimer in the documentation and/or other materials provided with the distribution"
+
+licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification,
+                  are permitted provided that the following conditions are met:
+                  <ol><li>Redistributions of source code must retain the above copyright notice,
+                  this list of conditions and the following disclaimer.</li>
+                  <li>Redistributions in binary form must reproduce the above copyright notice,
+                  this list of conditions and the following disclaimer in the documentation and/or
+                  other materials provided with the distribution.</li></ol>
+                  <codeph>THIS SOFTWARE IS PROVIDED BY {{copyrightHolderNoWarranty}} \"AS IS\"
+                  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+                  WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+                  IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY DIRECT,
+                  INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+                  (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+                  LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+                  ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+                  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+                  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></lq>"
+
+##Varible for above?
+
+segmentation:
+  revert: [
+    { match:
+        "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met",
+      matchNext:
+        "Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer"
+    },
+    { match:
+        "Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer",
+      matchNext:
+        "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution"
+    },
+    { match:
+        "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution",
+      matchNext:
+        "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"\"AS IS\"\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO"
+    }
+  ]

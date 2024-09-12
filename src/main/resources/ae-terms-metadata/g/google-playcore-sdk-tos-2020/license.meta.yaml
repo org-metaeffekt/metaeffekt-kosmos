@@ -1,0 +1,39 @@
+canonicalName: Google Play Core Software Development Kit Terms of Service 2020
+category: Google
+shortName: Google-Playcore-SDK-TOS-2020
+
+otherIds:
+  - "scancode:google-playcore-sdk-tos-2020"
+
+alternativeNames:
+  - "Google-Playcore-SDK-TOS-2020"
+
+evidence:
+  matches:
+    - "Subject to these terms and the terms of the API ToS, you may copy and distribute Redistributable Code solely
+       for inclusion as part of your API Client"
+    - "Google and its licensors own all right, title and interest, including any and all intellectual property and
+       other proprietary rights, in and to Redistributable Code"
+    - "You will not modify, translate, or create derivative works of Redistributable Code"
+  excludes:
+    - "The License Agreement forms a legally binding contract between you and Google in relation to your use of the Preview"
+    - "specifically including the Android system files, packaged APIs, and Google APIs add-ons"
+    - "and not with Google LLCand its worldwide affiliates"
+    - "base software development kit for Fabric made available by Google via the Plugin"
+    - "Upon any termination of this Agreement, Google will stop providing, and You will stop accessing the Service"
+    - "You hereby grant to Google and to recipients of software distributed by Google"
+    - "licensable by Google that are necessarily infringed by this implementation of VP8"
+    - "The Terms include Google's Legal Notices and Privacy Policy"
+    - "you are currently using the Google Maps Standard Plan"
+    - "For an offline variant of this Agreement, you may contact Google for more information"
+    - "Google will provide the Services to Customer in accordance with the Agreement"
+    - "You are responsible for informing users of your app about Google’s processing"
+    - "licensable by Google that are necessarily infringed by this implementation"
+    - "WebM codecs distributed by Google as part of the WebM Project"
+    - "You may need a Google Account in order to use some of our Services"
+    - "These Terms of Service reflect the way Google’s business works"
+    - "Some files in the 'contrib' directory and some configure-generated files that are distributed with libpng
+       have other copyright owners"
+    - "Google+: http://google.com/+TeamDev"
+    - "2012-2013 Google, Inc."
+    - "file sharing or cloud services sites (e.g., Google Drive"

@@ -1,0 +1,20 @@
+canonicalName: GNU General Public License 2.0 (with Bison Exception 2.2 (GPL))
+category: GPL+Bison
+shortName: GPL-2.0-Bison-Exception-2.2-GPL
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0] WITH [Bison Exception 2.2 (GPL)]"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with Bison exception 2.2)"
+  - "GNU General Public License 2.0 (with Bison exception (GPL))"
+
+displayName:
+  "GNU General Public License 2.0 (with Bison 2.2 exception)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Bison Exception 2.2 (GPL))
+  "Bison Exception 2.2 (GPL)": GNU General Public License 2.0 (with Bison Exception 2.2 (GPL))

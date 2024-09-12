@@ -1,0 +1,17 @@
+canonicalName: Microsoft SQL Server Compact License 4.0
+category: Microsoft SQL Server Compact License
+shortName: MS-SQL-Server-Compact-4.0
+
+otherIds:
+  - "scancode:ms-sql-server-compact-4.0"
+
+alternativeNames:
+  - "Microsoft SQL Server Compact 4.0 License"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices to design, develop and test
+       your programs for use with the software"
+    - "The software contains the Microsoft Visual C++ 2008 Express Edition components listed below"
+    - "You may only use these components with the software"
+

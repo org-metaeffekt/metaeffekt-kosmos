@@ -1,0 +1,17 @@
+canonicalName: Red Hat Enterprise Linux EULA
+category: Red Hat Enterprise Linux EULA
+shortName: Red-Hat-Enterprise-Linux-EULA
+
+classification: commercial
+
+otherIds:
+  - "scancode:rh-eula"
+
+alternativeNames:
+  - "RED HAT® ENTERPRISE LINUX® AND RED HAT APPLICATIONS"
+  - "RED HAT ENTERPRISE LINUX AND RED HAT APPLICATIONS"
+
+references:
+  "GPL":
+    matches:
+      - "pursuant to the GNU General Public License v.2"

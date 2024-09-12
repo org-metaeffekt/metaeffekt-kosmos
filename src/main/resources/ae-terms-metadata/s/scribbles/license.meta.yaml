@@ -1,0 +1,16 @@
+canonicalName: Scribbles Demos Recognizer Notice
+category: Scribbles Demos Recognizer Notice
+shortName: Scribbles
+
+otherIds:
+  - "scancode:scribbles"
+
+alternativeNames:
+  - "Scribbles Demos Recognizer Notice"
+
+evidence:
+  matches:
+    - "Copying or modifying this code for any purpose is permitted, provided that this
+       copyright notice is preserved in its entirety in all copies or modifications"
+    - "COMPAQ COMPUTER CORPORATION MAKES NO WARRANTIES, EXPRESSED OR IIMPLIED, AS TO
+       THE USEFULNESS OR CORRECTNESS OF THIS CODE"

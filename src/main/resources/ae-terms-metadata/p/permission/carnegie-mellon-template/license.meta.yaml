@@ -1,0 +1,38 @@
+canonicalName: Permission Terms (Carnegie Mellon)
+category: Permission
+shortName: PT-Carnegie-Mellon
+
+otherIds:
+  - "scancode:cmu-template"
+
+alternativeNames:
+  - "Carnegie Mellon Template License"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+displayName: "Permission Terms (no liability)"
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify and distribute this software and its
+       documentation is hereby granted, provided that both the copyright notice and
+       this permission notice appear in all copies of the software, derivative works
+       or modified versions, and any portions thereof, and that both notices appear
+       in supporting documentation"
+    - "COPYRIGHT HOLDER ALLOWS FREE USE OF THIS SOFTWARE IN ITS \"AS IS\" CONDITION"
+    - "COPYRIGHT HOLDER DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES
+        WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE"
+
+licenseTemplate:
+  - "<lq>Permission to use, copy, modify and distribute this software and its
+     documentation is hereby granted, provided that both the copyright notice and
+     this permission notice appear in all copies of the software, derivative works
+     or modified versions, and any portions thereof, and that both notices appear
+     in supporting documentation.
+
+     <p><codeph>COPYRIGHT HOLDER ALLOWS FREE USE OF THIS SOFTWARE IN ITS \"AS IS\" CONDITION.
+      COPYRIGHT HOLDER DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES
+      WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.</codeph></p></lq>"

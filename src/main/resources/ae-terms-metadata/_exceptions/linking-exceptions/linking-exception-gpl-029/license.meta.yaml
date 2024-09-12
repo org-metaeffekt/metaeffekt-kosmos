@@ -1,0 +1,21 @@
+canonicalName: Linking Exception (GPL; variant 029)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-029
+
+type: exception
+
+otherIds:
+  - "scancode:clojure-exception-to-gpl-3.0"
+
+alternativeNames:
+  - "Clojure Exception to GPL-3.0"
+
+evidence:
+  matches:
+    - "Additional permission under GNU GPL version 3 section 7"
+    - "If you modify this Program, or any covered work, by linking or combining it with any of the below libraries (or a modified version of that library), containing parts covered by the terms of any of the below libraries, the licensors of this Program grant you additional permission to convey the resulting work"
+
+references:
+  "GPL":
+    matches:
+      - "Additional permission under GNU GPL version 3 section 7"

@@ -1,0 +1,26 @@
+canonicalName: Bison Exception
+category: Bison Exception
+spdxIdentifier: Bison-exception-1.24
+
+canonicalNameHistory:
+  - "Bison Exception 2.0"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Bison exception)
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with Bison exception)
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Bison exception)
+
+type: exception
+
+otherIds:
+  - "scancode:bison-exception-2.0"
+
+alternativeNames:
+  - "bison-exception-2.0"
+  - "Bison-exception-1.24"
+  - "Bison exception 1.24"
+
+evidence:
+  matches:
+    - "As a special exception, when this file is copied by Bison into a Bison output file, you may use that output file without restriction"
+    - "This special exception was added by the Free Software Foundation in version 1.24 of Bison"

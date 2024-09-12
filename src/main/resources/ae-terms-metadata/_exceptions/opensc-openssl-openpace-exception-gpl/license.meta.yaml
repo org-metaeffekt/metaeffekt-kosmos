@@ -1,0 +1,18 @@
+canonicalName: OpenSC and OpenSSL Linking Exception (GPL)
+category: GPL Linking Exception
+shortName: OpenSC-OpenSSL-Linking-Exception-GPL
+
+type: exception
+
+otherIds:
+  - "scancode:opensc-openssl-openpace-exception-gpl"
+
+alternativeNames:
+  - "OpenSC and OpenSSL linking exception to GPL in OpenPace"
+
+evidence:
+  matches:
+    - "If you modify this Program, or any covered work, by linking or combining it with OpenSSL (or a modified version of that library), containing parts covered by the terms of OpenSSL's license, the licensors of this Program grant you additional permission to convey the resulting work"
+    - "Corresponding Source for a non-source form of such a combination shall include the source code for the parts of OpenSSL used as well as that of the covered work"
+    - "If you modify this Program, or any covered work, by linking or combining it with OpenSC (or a modified version of that library), containing parts covered by the terms of OpenSC's license, the licensors of this Program grant you additional permission to convey the resulting work"
+    - "Corresponding Source for a non-source form of such a combination shall include the source code for the parts of OpenSC used as well as that of the covered work"

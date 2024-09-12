@@ -1,0 +1,40 @@
+canonicalName: Linking Exception (Asterisk)
+category: Asterisk Linking Exception
+spdxIdentifier: Asterisk-linking-protocols-exception
+shortName: Asterisk-Linking-Exception
+
+type: exception
+
+otherIds:
+  - "scancode:asterisk-linking-protocols-exception"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking Exception (Asterisk))
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Linking Exception (Asterisk))
+
+evidence:
+  matches:
+    - "In addition, Asterisk implements several management/control protocols"
+    - "This includes the Asterisk Manager Interface (AMI), the Asterisk Gateway
+       Interface (AGI), and the Asterisk REST Interface (ARI)"
+    - "It is our belief
+       that applications using these protocols to manage or control an Asterisk
+       instance do not have to be licensed under the GPL or a compatible license,
+       as we believe these protocols do not create a 'derivative work' as referred
+       to in the GPL"
+    - "However, should any court or other judiciary body find that
+       these protocols do fall under the terms of the GPL, then we hereby grant you a
+       license to use these protocols in combination with Asterisk in external
+       applications licensed under any license you wish"
+
+references:
+  "GPL":
+    matches:
+      - "It is our belief
+         that applications using these protocols to manage or control an Asterisk
+         instance do not have to be licensed under the GPL or a compatible license,
+         as we believe these protocols do not create a 'derivative work' as referred
+         to in the GPL. However, should any court or other judiciary body find that
+         these protocols do fall under the terms of the GPL, then we hereby grant you a
+         license to use these protocols in combination with Asterisk in external
+         applications licensed under any license you wish."

@@ -1,0 +1,15 @@
+canonicalName: BSD 3-Clause License + GNU Lesser General Public License 2.1 + MIT License
+category: BSD-LGPL-MIT
+shortName: BSD-3-Clause-LGPL-2.1-MIT
+
+type: expression
+
+alternativeNames:
+  - "Dual licensed under either:
+       // - LGPL 2.1
+       // - a combination of Three-Clause BSD and MIT"
+  
+combinedWith:
+  "BSD 3-Clause License": BSD 3-Clause License + GNU Lesser General Public License 2.1 + MIT License
+  "GNU Lesser General Public License 2.1": BSD 3-Clause License + GNU Lesser General Public License 2.1 + MIT License
+  "MIT License": BSD 3-Clause License + GNU Lesser General Public License 2.1 + MIT License

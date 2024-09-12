@@ -1,0 +1,20 @@
+canonicalName: Linking Exception (Qt)
+category: Linking Exception-Qt
+shortName: Linking-Exception-Qt
+
+type: exception
+
+canonicalNameHistory:
+  - "Qt KDE Linking Exception"
+
+otherIds:
+  - "scancode:qt-kde-linking-exception"
+
+alternativeNames:
+  - "qt-kde-linking-exception"
+
+evidence:
+  matches:
+    - "As a special exception, permission is given to link this program
+       with any edition of Qt, and distribute the resulting executable,
+       without including the source code for Qt in the source distribution"

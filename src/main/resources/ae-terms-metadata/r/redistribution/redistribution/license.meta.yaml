@@ -1,0 +1,6 @@
+canonicalName: Redistribution Terms
+category: Redistribution Terms
+# FIXME-DISCUSS: inconsistency; we use -? only for undefined licenses; proposing to remove th -? in this case.
+shortName: RT-?
+
+unspecific: true

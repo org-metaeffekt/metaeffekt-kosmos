@@ -1,0 +1,22 @@
+canonicalName: Slint Software License Agreement Version 2.0
+category: Slint Software License Agreement
+shortName: slint-commercial-2.0
+
+otherIds:
+  - "scancode:slint-commercial-2.0"
+
+classification: commercial
+
+alternativeNames:
+   - "Slint Software License Agreement Version 2.0"
+
+evidence:
+  matches:
+    - "Slint compiler tool to translate Slint Design Markup Language files to Rust
+       (last stable Rust version at the time of licensed Slint version) and C++
+       (second last C++ version at the time of licensed Slint version)"
+    - "Slint run-time library that can render interactive user-interfaces and
+       provides Rust and C++ APIs (as per above versioning) to control the interfaces"
+    - "API Documentation for Slint and reference documentation for Slint Design
+       Markup Language, and"
+    - "Source code of Slint"

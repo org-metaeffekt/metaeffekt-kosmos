@@ -1,0 +1,22 @@
+canonicalName: Apple Common Documentation License 1.0
+category: Apple Common Documentation License
+shortName: ACDL-1.0
+spdxIdentifier: CDL-1.0
+
+otherIds:
+  - "scancode:acdl-1.0"
+
+alternativeNames:
+  - "http://fedoraproject.org/wiki/Licensing/Common_Documentation_License"
+  - "Apple Common Documentation License v1.0"
+  - "Common Documentation License 1.0"
+  - "http://www.opensource.apple.com/cdl/"
+  - "https://www.gnu.org/licenses/license-list.html#ACDL"
+
+evidence:
+  matches:
+    - "Permission is granted to copy and distribute verbatim copies of this License, but changing or adding
+       to it in any way is not permitted"
+    - "Please read this License carefully before downloading or using this material"
+    - "By downloading or using this material, you are agreeing to be bound by the terms of this License"
+    - "If you do not or cannot agree to the terms of this License, please do not download or use this material"

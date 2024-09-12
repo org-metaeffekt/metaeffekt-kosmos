@@ -1,0 +1,23 @@
+canonicalName: OSSN License 3.0
+category: OSSN
+shortName: OSSN-3.0
+
+otherIds:
+  - "scancode:ossn-3.0"
+
+alternativeNames:
+  - "http://www.opensource-socialnetwork.org/licence"
+  - "OPEN SOURCE SOCIAL NETWORK LICENSE (OSSN LICENSE) v3.0"
+
+evidence:
+  matches:
+    - "You are allowed to modify the program/software subject to the following conditions"
+    - "You shall not remove the copyrights including powered by notice/links"
+    - "You shall not try to apply any techniques that hides copyright,  'powered by' notice/links"
+    - "You are allowed to distribute/sell the copies of product keeping the section 2.1 in mind"
+
+references:
+  "LGPL":
+    matches:
+      - "Some of other open source program/software within this program/software released under different
+         license like GPL, LGPL, MIT etc,  you shall agree to the respective license"

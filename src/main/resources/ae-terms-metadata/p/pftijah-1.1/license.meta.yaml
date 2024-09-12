@@ -1,0 +1,30 @@
+canonicalName: PfTijah Public License 1.1
+category: PfTijah Public
+shortName: PfTijah-1.1
+
+alternativeNames:
+  - "PfTijah Public License Version 1.1"
+
+otherIds:
+  - "scancode:pftijah-1.1"
+
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims"
+    - "under intellectual property rights (other than patent or trademark) Licensable by Initial Developer to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications, and/or as part of a Larger Work"
+    - "The Modifications which You create or to which You contribute are governed by the terms of this License, including without limitation Section 2.2"
+    - "The Source Code version of Covered Code may be distributed only under the terms of this License or a future version of this License released under Section 6.1, and You must include a copy of this License with every copy of the Source Code You distribute"
+    - "Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License either on the same media as an Executable version or via an accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available"
+    - "The \"University of Twente\" may publish revised and/or new versions of the License from time to time"
+    - "The contents of this file are subject to the PfTijah Public License Version 1.1"
+
+references:
+  "MonetDB":
+    matches:
+      - "PfTijah Public License Version 1.1
+
+         This License is a derivative of the MonetDB Public License Version 1.1, where the difference is that all references to \"MonetDB\" and \"CWI\" have been changed to \"PfTijah\" and \"University of Twente\""

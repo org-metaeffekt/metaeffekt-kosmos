@@ -1,0 +1,31 @@
+canonicalName: Atlassian Marketplace Terms of Use
+category: Atlassian Marketplace Terms of Use
+shortName: Atlassian-Marketplace-ToU
+
+otherIds:
+  - "scancode:atlassian-marketplace-tou"
+
+alternativeNames:
+  - "Atlassian Marketplace Terms of Use"
+
+evidence:
+  matches:
+    - "Without limiting the disclaimers, restrictions or other provisions in these Terms of Use,
+       usage of Apps is subject to the license or subscription terms, privacy policies and other
+       applicable terms specified by the Vendor (“Vendor Terms”)"
+    - "Vendor Terms are typically included on the App’s listing page or presented through the Order process"
+    - "You may not use an App if you do not agree to the relevant Vendor Terms"
+    - "Third Party Apps are subject to the third party’s Vendor Terms, not the Atlassian Terms"
+    - "By ordering, installing or enabling any Third Party App, you are entering into the Vendor
+       Terms directly with the applicable third party Vendor. Atlassian is not a party to,
+       or responsible for compliance with, any third party Vendor Terms, and does not guarantee
+       any third party Vendor Terms are adequate for your own needs"
+    - "Please see Section 4 (Data Collection and Sharing) for additional information about how
+       third party Vendors use your data"
+    - "If Atlassian is the Vendor of the App, the Vendor Terms are the Atlassian terms that
+       govern the Atlassian Product with which the App is enabled or used (listed here) and as
+       may be modified from time to time (the “Atlassian Terms”)"
+    - "The Atlassian Terms include the Atlassian Privacy Policy"
+    - "In event of a conflict between these Terms of Use and the Atlassian Terms,
+       the Atlassian Terms will control as to each party’s rights and responsibilities related to the App itself,
+       while these Terms of Use will control as to the Atlassian Marketplace generally"

@@ -1,0 +1,21 @@
+canonicalName: Lucre License
+category: Lucre License
+shortName: Lucre
+
+otherIds:
+  - "scancode:lucre"
+
+alternativeNames:
+  - "Lucre License"
+
+evidence:
+  matches:
+    - "The name 'Lucre' must not be used to endorse or promote products derived
+       from this software without prior written permission"
+    - "This product includes software developed by Ben Laurie for use in the Lucre project"
+    - "INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+       LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION"
+
+
+
+

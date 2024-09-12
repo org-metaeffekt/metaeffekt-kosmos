@@ -1,0 +1,45 @@
+canonicalName: Creative Commons BY-NC-ND 2.5
+category: CC-BY-NC-ND
+spdxIdentifier: CC-BY-NC-ND-2.5
+
+otherIds:
+  - "scancode:cc-by-nc-nd-2.5"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic"
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic"
+  - "Creative Commons Attribution Non Commercial No Derivatives 2.5"
+  - "CC-BY-NC-ND-2.5"
+  - "Creative Commons Attribution-NonCommercial-NoDerivs 2.5"
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "You may not exercise any of the rights granted to You in Section 3 above
+       in any manner that is primarily intended for or directed toward commercial
+       advantage or private monetary compensation"
+  excludes:
+    - "You must, to the extent practicable, remove from the Collective Work any reference to such Licensor or the
+       Original Author, as requested"
+    - "to create and reproduce Derivative Works"
+
+grants:
+  reproduce:
+    action: reproduce
+    matches:
+      - "to reproduce the Work, to incorporate the Work into one or more Collective
+         Works, and to reproduce the Work as incorporated in the Collective Works"
+  distribute:
+    action: distribute
+    matches:
+      - "to distribute copies or phonorecords of, display publicly, perform publicly,
+         and perform publicly by means of a digital audio transmission the Work including
+         as incorporated in Collective Works"
+

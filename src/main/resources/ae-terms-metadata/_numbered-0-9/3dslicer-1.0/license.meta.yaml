@@ -1,0 +1,52 @@
+canonicalName: 3D Slicer Contribution and Software License Agreement 1.0
+category: 3D Slicer
+spdxIdentifier: 3D-Slicer-1.0
+
+otherIds:
+  - "scancode:3dslicer-1.0"
+
+alternativeNames:
+ - "3D Slicer Contribution and Software License Agreement v1.0"
+ - "3D Slicer Contribution and Software License Agreement (\"Agreement\") Version 1.0"
+ - "3D-Slicer-1.0"
+ - "3D Slicer License v1.0"
+
+masks:
+  matches:
+    - "(by way of non-limiting example, the GNU General Public License or other so-called \"reciprocal\" license that
+       requires any derived work to be licensed under the GNU General Public License or other \"open source license\")"
+    - "below is a BSD style license, with extensions to cover contributions and other issues"
+
+segmentation:
+  revert: [
+    { match:
+        "you accept and adhere to all of the terms and conditions of this
+           Software License;",
+      matchNext:
+        "in connection with any copy of or sublicense of all or any portion
+           of the Software, all of the terms and conditions in this Software
+           License shall appear in and shall apply to such copy and such
+           sublicense"
+    }
+  ]
+
+evidence:
+  matches:
+    - "You hereby grant to Brigham, with the right to sublicense, a
+       perpetual, worldwide, non-exclusive, no charge, royalty-free,
+       irrevocable license to use, reproduce, make derivative works of,
+       display and distribute the Contribution"
+    - "If your Contribution is protected by patent, you hereby grant to Brigham,
+       with the right to sublicense, a perpetual, worldwide, non-exclusive, no-charge,
+       royalty-free, irrevocable license under your interest in patent
+       rights covering the Contribution, to make, have made, use, sell and
+       otherwise transfer your Contribution, alone or in combination with
+       any other code"
+    - "You acknowledge and agree that Brigham may incorporate your
+       Contribution into Slicer and may make Slicer available to members
+       of the public on an open source basis under terms substantially in
+       accordance with the Software License set forth in Part B of this
+       Agreement"
+    - "You further acknowledge and agree that Brigham shall
+       have no liability arising in connection with claims resulting from
+       your breach of any of the terms of this Agreement"

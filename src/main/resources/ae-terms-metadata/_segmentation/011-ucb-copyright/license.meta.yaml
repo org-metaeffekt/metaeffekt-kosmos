@@ -1,0 +1,20 @@
+canonicalName: Segmentation-011
+category: Segmentation
+shortName: Segmentation-011
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "011"
+
+mappings:
+  # * The file inet/rcmd.c is under a UCB copyright and the following:
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?is under a((?!EMPTY-LINE-MARKER).)+?copyright and the following):": "LICENSE-SEGMENT-MARKER$1COLON-MARKER"
+  "(EMPTY-LINE-MARKERNEWLINE-MARKER\\s*[-]{2,})": "LICENSE-SEGMENT-MARKER$1"
+  "(EMPTY-LINE-MARKERNEWLINE-MARKER\\s*[=]{2,})": "LICENSE-SEGMENT-MARKER$1"
+  "(EMPTY-LINE-MARKERNEWLINE-MARKER\\s*[\\*]{2,})": "LICENSE-SEGMENT-MARKER$1"
+  "EMPTY-LINE-MARKER(NEWLINE-MARKER\\[[1-9]+[a-z]+\\])": "LICENSE-SEGMENT-MARKER$1"
+  "EMPTY-LINE-MARKER(NEWLINE-MARKER\\([1-9]+[0-9]*\\) [a-zA-Z]*[^NEWLINE-MARKER]*)": "LICENSE-SEGMENT-MARKER$1"
+
+

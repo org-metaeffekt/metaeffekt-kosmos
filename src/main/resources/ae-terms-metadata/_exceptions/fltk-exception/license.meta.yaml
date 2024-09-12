@@ -1,0 +1,29 @@
+canonicalName: FLTK Exception
+category: FLTK Exception
+spdxIdentifier: FLTK-exception
+shortName: FLTK-Exception
+
+type: exception
+
+otherIds:
+  - "scancode:fltk-exception-lgpl-2.0"
+
+combinedWith:
+  "GNU Library General Public License 2.0": GNU Library General Public License 2.0 (with FLTK exception)
+  "GNU Library General Public License 2.0 (or any later version)": GNU Library General Public License 2.0 (or any later version; with FLTK exception)
+
+evidence:
+  matches:
+    - "The FLTK library and included programs are provided under the terms of the
+       GNU Library General Public License (LGPL) with the following exceptions"
+    - "Modifications to the FLTK configure script, config header file, and makefiles
+       by themselves to support a specific platform do not constitute a modified or derivative work"
+    - "Widgets that are subclassed from FLTK widgets do not constitute a derivative work"
+
+references:
+  "LGPL":
+    matches:
+      - "The FLTK library and included programs are provided under the terms of the
+         GNU Library General Public License (LGPL) with the following exceptions"
+      - "If you link the application or widget to a modified version of FLTK, then the changes to
+         FLTK must be provided under the terms of the LGPL in sections 1, 2, and 4"

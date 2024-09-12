@@ -1,0 +1,15 @@
+canonicalName: WTH Public License 1.0
+category: WTHPL
+shortName: WTHPL-1.0
+
+otherIds:
+  - "scancode:wthpl-1.0"
+
+alternativeNames:
+  - "DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE Version 1.0.0"
+
+evidence:
+  matches:
+    - "DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE TERMS AND CONDITIONS FOR COPYING,
+       DISTRIBUTION AND MODIFICATION"
+    - "You just DO WHAT THE HELL YOU WANT TO"

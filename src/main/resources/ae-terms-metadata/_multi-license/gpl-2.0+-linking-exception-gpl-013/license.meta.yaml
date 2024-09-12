@@ -1,0 +1,20 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 013))
+category: GPL+Linking
+shortName: GPL-2.0+-Linking-Exception-GPL-013
+
+otherIds:
+  - "scancode:gpl-2.0-freertos"
+
+type: expression
+
+alternativeNames:
+  - "GPL 2.0 with FreeRTOS exception"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 013))
+  Linking Exception (GPL; variant 013): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 013))
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with Linking exception (variant 013))"

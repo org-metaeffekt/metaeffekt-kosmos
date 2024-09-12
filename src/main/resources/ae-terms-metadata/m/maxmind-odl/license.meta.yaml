@@ -1,0 +1,21 @@
+canonicalName: Maxmind Open Data License
+category: Maxmind Open Data License
+shortName: Maxmind-ODL
+
+otherIds:
+  - "scancode:maxmind-odl"
+
+alternativeNames:
+  - "maxmind-odl"
+
+evidence:
+  matches:
+    - "Redistributions must retain the above copyright notice, this list of
+       conditions and the following disclaimer in the documentation and/or other
+       materials provided with the distribution"
+    - "All advertising materials and documentation mentioning features or use of
+       this database must display the following acknowledgement:
+       'This product includes GeoLite data created by MaxMind, available from
+       http://maxmind.com/'"
+    - "'MaxMind' may not be used to endorse or promote products derived from this
+       database without specific prior written permission"

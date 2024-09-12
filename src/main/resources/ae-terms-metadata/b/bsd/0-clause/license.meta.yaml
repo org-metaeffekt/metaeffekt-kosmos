@@ -1,0 +1,37 @@
+canonicalName: BSD Zero Clause License
+category: BSD
+spdxIdentifier: 0BSD
+
+otherIds:
+  - "scancode:bsd-zero"
+  - "osi:0BSD"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "BSD Zero Clause License"
+  - "0BSD"
+  - "Zero-Clause BSD license"
+
+evidence:
+  matches:
+  - "Permission to use, copy, modify, and/or distribute this software
+     for any purpose with or without fee is hereby granted"
+  - "THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+     REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+     AND FITNESS"
+  - "IN NO EVENT SHALL * BE LIABLE FOR ANY SPECIAL, DIRECT,
+     INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+     LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+     OR OTHER TORT*OUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+     PERFORMANCE OF THIS SOFTWARE"
+  excludes:
+  # cross-exclude ISC license text; disclaimer is shared
+  - "provided that the above copyright notice and this permission notice appear in all copies"
+  - "Negligently writes documentation of their source code's public API in order to bypass this restriction"
+
+mappings:
+  "NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE ONEWLINE-MARKER R PERFORMANCE":
+    "NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE"
+  "Copyright \\(c\\) Microsoft Corporation.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use, copy, modify, and/or distribute this software for anyNEWLINE-MARKER purpose with or without fee is hereby granted.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER THE SOFTWARE IS PROVIDED \"AS IS\"": " LICENSE-SEGMENT-MARKER Copyright (c) Microsoft Corporation.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission to use, copy, modify, and/or distribute this software for anyNEWLINE-MARKER purpose with or without fee is hereby granted.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER THE SOFTWARE IS PROVIDED \"AS IS\""

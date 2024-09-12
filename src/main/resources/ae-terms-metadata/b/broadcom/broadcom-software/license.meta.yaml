@@ -1,0 +1,20 @@
+canonicalName: Broadcom Software License Agreement
+category: Broadcom
+shortName: Broadcom
+
+alternativeNames:
+  - "Broadcom Software License Agreement"
+
+otherIds:
+  - "scancode:broadcom-linux-firmware"
+
+evidence:
+  matches:
+  - "Broadcom hereby grants to Licensee a limited, non-exclusive, non-transferable,
+     royalty-free license"
+  - "to use and integrate the Software with any other
+     software"
+  - "to reproduce and distribute the Software complete,
+     unmodified, and as provided by Broadcom, solely for use with Broadcom
+     proprietary integrated circuit product(s) sold by Broadcom with which the
+     Software was designed to be used, or their successors"

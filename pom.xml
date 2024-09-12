@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.metaeffekt.terms.metadata</groupId>
+    <artifactId>ae-kosmos</artifactId>
+    <version>HEAD-SNAPSHOT</version>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+        <ae.core.version>0.119.0</ae.core.version>
+        <ae.artifact.analysis.version>HEAD-SNAPSHOT</ae.artifact.analysis.version>
+        <artifact.inventory.version>${ae.core.version}</artifact.inventory.version>
+        <artifact.inventory.enabled>true</artifact.inventory.enabled>
+
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.jdk>1.8</maven.compiler.jdk>
+    </properties>
+
+    <build>
+        <!-- Do not include the files in src/main/resources in the jar -->
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <excludes>
+                    <exclude>ae-terms-metadata/**/*</exclude>
+                </excludes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+    </build>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.26</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- test scoped dependencies -->
+
+        <dependency>
+            <groupId>com.metaeffekt.artifact.analysis</groupId>
+            <artifactId>ae-artifact-analysis</artifactId>
+            <version>${ae.artifact.analysis.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.metaeffekt.artifact.analysis</groupId>
+            <artifactId>ae-artifact-flow</artifactId>
+            <version>${ae.artifact.analysis.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.36</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-slf4j-impl</artifactId>
+            <version>2.20.0</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <version>2.20.0</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.10.3</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.10.3</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.platform</groupId>
+            <artifactId>junit-platform-launcher</artifactId>
+            <version>1.10.3</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>com.metaeffekt.artifact.analysis</groupId>
+            <artifactId>ae-common-tmd</artifactId>
+            <version>${ae.artifact.analysis.version}</version>
+            <classifier>tests</classifier>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+</project>

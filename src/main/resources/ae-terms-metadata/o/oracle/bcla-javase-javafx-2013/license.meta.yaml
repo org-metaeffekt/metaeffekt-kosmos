@@ -1,0 +1,20 @@
+canonicalName: Oracle Binary Code License Agreement (Java SE and JavaFX 2013)
+category: Oracle BCLA
+shortName: Oracle-BCLA-Java-SE-JavaFX-2013
+
+otherIds:
+  - "scancode:oracle-bcl-javase-javafx-2013"
+
+alternativeNames:
+  - "Oracle Binary Code License Agreement for Java SE and JavaFX Technologies"
+
+evidence: 
+  matches:
+    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the README File incorporated herein by reference, including, but not limited to the Java Technology Restrictions of these Supplemental Terms, Oracle grants you a non-exclusive, non-transferable, limited license without fees to reproduce internally and use internally the Software complete and unmodified for the purpose of designing, developing, and testing your Programs"
+    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the README File, including but not limited to the Java Technology Restrictions of these Supplemental Terms, Oracle grants you a non-exclusive, non-transferable, limited license without fees to reproduce and distribute those files specifically identified as redistributable in the README File"
+    - "You may not create, modify, or change the behavior of, or authorize your licensees to create, modify, or change the behavior of, classes, interfaces, or subpackages that are in any way identified as \"java\", \"javax\", \"javafx\", \"sun\", \"oracle\" or similar convention as specified by Oracle in any naming convention designation"
+    - "Source code may not be redistributed unless expressly provided for in this Agreement"
+    - "Additional copyright notices and license terms applicable to portions of the Software are set forth in the THIRDPARTYLICENSEREADME file set forth in the Software or otherwise available from Oracle at or through the following URL"
+    - "Either party may terminate this Agreement immediately should any Software become, or in either party's opinion be likely to become, the subject of a claim of infringement of any intellectual property right"
+  excludes:
+    - "License for Archived Java EE Technologies; Last updated 30 January 2012"

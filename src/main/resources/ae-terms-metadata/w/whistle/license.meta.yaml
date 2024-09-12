@@ -1,0 +1,20 @@
+canonicalName: Whistle Communications License
+category: Whistle Communications License
+shortName: Whistle
+
+otherIds:
+  - "scancode:whistle"
+
+alternativeNames:
+  - "Whistle Communications License"
+
+evidence:
+  matches:
+    - "Any and all reproductions of the source or object code must include the
+       copyright notice above and the following disclaimer of warranties; and"
+    - "No rights are granted, in any manner or form, to use Whistle
+       Communications, Inc. trademarks, including the mark 'WHISTLE COMMUNICATIONS' on advertising,
+       endorsements, or otherwise except as such appears in the above copyright notice or in the software"
+    - "WHISTLE COMMUNICATIONS DOES NOT WARRANT, GUARANTEE, OR MAKE ANY
+       REPRESENTATIONS REGARDING THE USE OF, OR THE RESULTS OF THE USE OF THIS
+       SOFTWARE IN TERMS OF ITS CORRECTNESS, ACCURACY, RELIABILITY OR OTHERWISE"

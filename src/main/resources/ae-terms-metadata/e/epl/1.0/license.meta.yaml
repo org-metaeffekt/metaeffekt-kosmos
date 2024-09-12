@@ -1,0 +1,109 @@
+canonicalName: Eclipse Public License 1.0
+category: EPL
+spdxIdentifier: EPL-1.0
+
+otherIds:
+  - "scancode:epl-1.0"
+
+# requires notice in case we want to conclude version 2.0; otherwise not; there is currenty no way to represent this.
+requiresAnnexNotice: true
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: true
+
+alternativeNames:
+    - "Eclipse Public License (EPL) v1.0"
+    - "Eclipse Public License - Version 1.0"
+    - "Eclipse Public License - v 1.0"
+    - "Eclipse Public License 1.0"
+    - "Eclipse Public License v1.0"
+    - "Eclipse Public License Version 1.0"
+    - "Eclipse Public License version 1.0"
+    - "Eclipse Public License, Version 1.0"
+    - "Eclipse Public License (EPL) 1.0"
+    - "Eclipse Public License (EPL), Version 1.0"
+    - "Eclise Public License, Version 1.0"
+    - "Eclipse-1.0"
+    - "EPL (Eclipse Public License), V1.0 or later"
+    - "EPL 1.0"
+    - "EPL-1.0"
+    - "EPLv1"
+    - "EPLv1.0"
+    - "Eclipse Public License v1.0&#xD"
+    - "https://opensource.org/licenses/EPL-1.0"
+    - "http://opensource.org/licenses/EPL-1.0"
+    - "http://www.eclipse.org/legal/epl-v10.html"
+    - "https://www.eclipse.org/legal/epl-v10.html"
+    - "Eclipse Public Licence, Version 1.0"
+    - "Eclipse Public License, Version 1.0 or (at your option) any later version"
+    - "Eclipse Public License - v1.0"
+    - "Eclipse Public License -v 1.0"
+    - "Eclipse Public License v 1.0"
+    - "Eclipse Public License, V 1.0"
+    - "Eclipse Public License, v1.0"
+
+evidence:
+  excludes:
+    - "If Recipient institutes patent litigation against a Contributor with respect to
+       a patent applicable to software (including a cross-claim or counterclaim in a
+       lawsuit), then any patent licenses granted by that Contributor to such Recipient
+       under this Agreement shall terminate as of the date such litigation is filed"
+
+grants:
+  Source code delivery:
+    action: null
+    matches:
+      - "When the Program is made available in source code form"
+      - "\"Contributor\" means any person or entity that distributes the Program"
+    obligations:
+      Source code delivery:
+        description: null
+        mandatory: false
+        matches:
+        - "Agreement must be included with each copy of the Program"
+        - "disclaims on behalf of all Contributors all warranties and conditions"
+        - "Contributors may not remove or alter any copyright notices contained within the Program"
+        - "each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license"
+        - "it must be made available under this Agreement"
+        - "must identify itself as the originator of its Contribution"
+  Binary delivery:
+    matches:
+      - "A Contributor may choose to distribute the Program in object code form"
+    obligations:
+      Binary delivery:
+        matches:
+          - "Contributors may not remove or alter any copyright notices contained within the Program"
+          - "states that source code for the Program is available*informs licensees how to obtain it"
+          - "informs licensees how to obtain it"
+          - "in a reasonable manner on*a medium customarily used for software exchange"
+          - "A Contributor may choose to distribute the Program in object code form under its own license agreement*it complies with the terms and conditions of this Agreement"
+          - "disclaims on behalf of all Contributors all warranties and conditions"
+          - "effectively disclaims on behalf of all Contributors all warranties and conditions"
+          - "excludes on behalf of all Contributors all liability for damages, including
+            direct, indirect, special, incidental and consequential damages"
+  Commercial distribution:
+    matches:
+      - "Commercial distributors of software"
+    obligations:
+      Commercial distribution:
+        matches:
+          - "agrees to defend and indemnify every other Contributor"
+
+licenseTemplate: "<lq><codeph>NO WARRANTY<p/>
+                  EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF
+                  ANY KIND, EITHER EXPRESS OR
+                  IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A
+                  PARTICULAR PURPOSE.</codeph>
+                  <p>Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program and assumes all
+                  risks associated with its
+                  exercise of rights under this Agreement, including but not limited to the risks and costs of program errors, compliance with applicable
+                  laws, damage to or loss of data,
+                  programs or equipment, and unavailability or interruption of operations.</p>
+                  <codeph>DISCLAIMER OF LIABILITY<p/>
+                  EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT,
+                  INDIRECT, INCIDENTAL, SPECIAL,
+                  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+                  WHETHER IN CONTRACT, STRICT LIABILITY,
+                  OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF
+                  ANY RIGHTS GRANTED HEREUNDER,
+                  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</codeph></lq>"

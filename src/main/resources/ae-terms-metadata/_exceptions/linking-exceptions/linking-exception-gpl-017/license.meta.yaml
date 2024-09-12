@@ -1,0 +1,28 @@
+canonicalName: Linking Exception (GPL; variant 017)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-017
+
+type: exception
+
+canonicalNameHistory:
+  - "QCAD Exception"
+
+otherIds:
+  - "scancode:qcad-exception-gpl"
+
+alternativeNames:
+  - "QCAD Exception"
+
+evidence:
+  matches:
+    - "Linking QCAD libraries statically or dynamically with other modules is making
+       a combined work based on the QCAD libraries"
+    - "As a special exception, the copyright holders of QCAD give you permission to
+       link the QCAD libraries with independent modules to produce an executable or script,
+       regardless of the license terms of these independent modules, and to copy and
+       distribute the resulting executable or script under terms of your choice, provided
+       that you also meet, for each linked independent module, the terms and conditions
+       of the license of that module"
+    - "An independent module is a module which is not derived from or based on QCAD"
+    - "If you modify QCAD, you may extend this exception to your version of QCAD, but
+       you are not obliged to do so"

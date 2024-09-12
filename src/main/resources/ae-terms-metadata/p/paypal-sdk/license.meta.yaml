@@ -1,0 +1,18 @@
+canonicalName: PayPal SDK License
+category: PayPal SDK
+shortName: PayPal-SDK
+
+otherIds:
+  - "scancode:paypal-sdk-2013-2016"
+
+alternativeNames:
+  - "PayPal SDK License"
+
+evidence:
+  matches:
+    - "If you choose to distribute the Software in a commercial product, you do so with the understanding that
+       you agree to defend, indemnify and hold harmless PayPal and its suppliers against any losses, damages and
+       costs arising from the claims, lawsuits or other legal actions arising out of such distribution"
+    - "complies with the terms and conditions of this license agreement"
+    - "effectively disclaims all warranties and conditions, express or implied, on behalf of PayPal"
+    - "effectively excludes all liability for damages on behalf of PayPal"

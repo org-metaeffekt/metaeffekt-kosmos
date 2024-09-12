@@ -1,0 +1,20 @@
+canonicalName: MgOpen Font License
+category: MgOpen Font License
+shortName: MgOpen-Font
+
+otherIds:
+  - "scancode:mgopen-font-license"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of charge, to any person obtaining a copy of the fonts accompanying
+       this license (\"Fonts\") and associated documentation files (the \"Font Software\"), to reproduce and
+       distribute the Font Software, including without limitation the rights to use, copy, merge, publish,
+       distribute, and/or sell copies of the Font Software, and to permit persons to whom the Font Software is
+       furnished to do so, subject to the following conditions"
+    - "The Font Software may be modified, altered, or added to, and in particular the designs of glyphs or
+       characters in the Fonts may be modified and additional glyphs or characters may be added to the Fonts,
+       only if the fonts are renamed to names not containing the word \"MgOpen\", or if the modifications are
+       accepted for inclusion in the Font Software itself by the each appointed Administrator"
+    - "This License becomes null and void to the extent applicable to Fonts or Font Software that has been modified
+       and is distributed under the \"MgOpen\" name"

@@ -1,0 +1,15 @@
+canonicalName: Three Part Table License
+category: Three Part Table
+spdxIdentifier: threeparttable
+
+otherIds:
+  - "scancode:threeparttable"
+
+alternativeNames:
+  - "Three Part Table License"
+  - "threeparttable License"
+
+evidence:
+  matches:
+    - "This file may be distributed, modified, and used in other works with just
+       one restriction: modified versions must clearly indicate the modification"

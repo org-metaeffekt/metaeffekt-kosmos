@@ -1,0 +1,17 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with RRDtool FLOSS Exception (GPL))
+category: GPL+RRDtool
+shortName: GPL-2.0+-RRDtool-Floss-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-rrdtool-floss"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with RRDtool FLOSS Exception (GPL))
+  RRDtool FLOSS Exception (GPL): GNU General Public License 2.0 (or any later version; with RRDtool FLOSS Exception (GPL))
+
+displayName:
+    "GNU General Public License 2.0 (or any later version; with RRDtool FLOSS Exception)"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)

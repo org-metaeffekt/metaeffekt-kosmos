@@ -1,0 +1,31 @@
+canonicalName: Linking Exception (Qt; variant 001)
+category: Qt Linking Exception
+shortName: Linking-Exception-Qt-001
+
+type: exception
+
+canonicalNameHistory:
+  - "Qt-QCA Exception 2.0"
+
+otherIds:
+  - "scancode:qt-qca-exception-2.0"
+
+alternativeNames:
+  - "qt-qca-exception-2.0"
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Linking Exception (Qt; variant 001))
+
+evidence:
+  matches:
+    - "As a special exception, the copyright holder(s) give permission to link
+       this program with the Qt Library (commercial or non-commercial edition),
+       and distribute the resulting executable, without including the source
+       code for the Qt library in the source distribution"
+    - "As a special exception, the copyright holder(s) give permission to link
+       this program with any other library, and distribute the resulting
+       executable, without including the source code for the library in the
+       source distribution, provided that the library interfaces with this
+       program only via the following plugin interfaces"
+    - "The Qt Plugin APIs, only as authored by Trolltech"
+    - "The QCA Plugin API, only as authored by Justin Karneges"

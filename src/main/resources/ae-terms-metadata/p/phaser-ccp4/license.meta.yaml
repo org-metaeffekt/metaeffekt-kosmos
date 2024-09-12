@@ -1,0 +1,29 @@
+canonicalName: Phaser Commercial EULA (CCP4)
+category: Phaser Commercial EULA (CCP4)
+shortName: phaser-ccp4
+
+otherIds:
+  - "scancode:phaser-ccp4"
+
+classification: commercial
+
+alternativeNames:
+  - "Phaser Commercial EULA (CCP4)"
+
+evidence:
+  matches:
+    - "the Licensee may use the Software solely for its internal use and the Licensee shall not sell,
+       give, disclose, lend, transfer, sublicense or otherwise distribute the Software to any third party,
+       or allow the Software to be accessed over the internet or in any other manner that would allow access
+       to the Software by anyone other than the Licensee's employees (and consultants and contractors provided
+       such use is solely for the Licensee's internal use and subject to the provisions of this Agreement)"
+    - "the Licensee may create Derivatives solely for its own internal use but shall not distribute the Software
+       or any Derivatives in whole or in part to any third party"
+    - "the Software may be installed and used only on computers owned or leased by the Licensee"
+    - "the Licensee may copy the Software solely to the extent necessary to exercise this Licence, and for backup,
+       disaster recovery and archival purposes, provided that the Licensee shall retain on all copies of the Software"
+  excludes:
+    - "in your capacity as an individual and as an agent for your institution or other entity"
+    - "including the Software which is the subject of the Licence in this Agreement, which has been assembled
+       for the PHENIX Industry Consortium"
+

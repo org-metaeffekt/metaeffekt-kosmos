@@ -1,0 +1,16 @@
+canonicalName: muT License
+category: muT License
+shortName: muT-License
+
+otherIds:
+  - "scancode:mut-license"
+
+alternativeNames:
+  - "µT-License [License Agreement for Source Code of µT-Kernel]"
+
+evidence:
+  matches:
+    - "As provided for in this Article, T-Engine Forum shall provide, and grant a license to use, the Source Code free of charge to the Developer who has taken the necessary procedure for registration as prescribed by T-Engine Forum and agreed to the µT-License"
+    - "Any use of the Source Code or the Derivative Work of the Source Code other than those stipulated in Articles 4 shall be subject to the prior approval of T-Engine Forum"
+    - "The Developer who is a member of T-Engine Forum shall be released from the obligation to give a notice set forth in the preceding Article if the said Developer applies for said release to T-Engine Forum in a manner separately determined by T-Engine Forum"
+    - "T-Engine Forum and the copyright holder of the Source Code warrant that the Source Code does not infringe upon third party's copyrights"

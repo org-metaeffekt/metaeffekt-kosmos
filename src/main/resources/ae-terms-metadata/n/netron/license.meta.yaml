@@ -1,0 +1,40 @@
+canonicalName: Netron Project License
+category: Netron Project License
+shortName: Netron
+
+alternativeNames:
+  - "Netron Project License"
+
+otherIds:
+  - "scancode:netron"
+
+evidence:
+  matches:
+    - "This End User License Agreement constitutes a valid and binding agreement between THE NETRON PROJECTand You, as a user, for the use of the THE NETRON PROJECT software"
+    - "You must enter into this Agreement by clicking on the ACCEPT button in order to be able to install and use the THE NETRON PROJECTsoftware"
+    - "You hereby agree and acknowledge that this Agreement covers all Your use of THE NETRON PROJECT software, whether it be from this installation or from any other terminals where THE NETRON PROJECT software has been installed, by You or by third parties"
+    - "Furthermore, by installing and (continuously) using the THE NETRON PROJECT software You agree to be bound by the terms of this Agreement and any new versions hereof"
+    - "Because the program is licensed free of charge, there is no warranty for the program, to the extent permitted by applicable law"
+    - "except when otherwise stated in writing the copyright holders and/or other parties provide the program 'as is' without warranty of any kind,
+       either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose"
+    - "the entire risk as to the quality and performance of the program is with you"
+    - "should the program prove defective, you assume the cost of all necessary servicing, repair or correction"
+    - "In no event unless required by applicable law or agreed to in writing will any copyright holder, or any other party who may modify and/or redistribute the program as permitted above, be liable to you for damages, including any general, special,
+       incidental or consequential damages arising out of the use or inability to use the program (including but not limited to loss of data or data being rendered inaccurate or losses sustained by you or third parties or a failure of the program to operate with any other programs),
+       even if such holder or other party has been advised of the possibility of such damages"
+    - "Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions"
+    - "The origin of this software must not be misrepresented; you must not claim that you wrote the original software"
+    - "If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required"
+    - "Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software"
+    - "This notice may not be removed or altered from any source distribution"
+    - "You acknowledge and agree that any and all IP Rights to or arising from the THE NETRON PROJECT software are and shall remain the exclusive property of THE NETRON PROJECT and/or its licensors"
+    - "Nothing in this Agreement intends to transfer any such IP Rights to, or to vest any such IP Rights in, You"
+    - "You are only entitled to the limited use of the IP Rights granted to You in this Agreement"
+    - "You will not take any action to jeopardize, limit or interfere with the IP Rights"
+    - "You acknowledge and agree that any unauthorized use of the IP Rights is a violation of this Agreement as well as a violation of intellectual property laws, including without limitation copyright laws and trademark laws"
+    - "This Agreement applies to downloading, installing and using the THE NETRON PROJECT software, free of charge"
+    - "The use of any paid services which may be offered by THE NETRON PROJECT or its Affiliates, is subject to the additional Terms of Service that are published on the THE NETRON PROJECT Website"
+    - "YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN"
+    - "BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO INSTALL THE THE NETRON PROJECT SOFTWARE, YOU EXPRESSLY CONSENT TO BE BOUND BY ITS TERMS AND CONDITIONS AND GRANT TO THE NETRON PROJECT THE RIGHTS SET FORTH HEREIN"
+  excludes:
+    - "This software is provided as is , without warranty of any kind , express or implied"

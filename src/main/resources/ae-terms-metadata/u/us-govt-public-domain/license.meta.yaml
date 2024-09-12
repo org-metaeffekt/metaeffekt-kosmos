@@ -1,0 +1,16 @@
+canonicalName: United States Government Public Domain
+category: United States Government Public Domain
+shortName: US-Gov-Public-Domain
+
+otherIds:
+  - "scancode:us-govt-public-domain"
+
+alternativeNames:
+  - "United States Government Public Domain"
+
+representedAs: Public Domain
+
+evidence:
+  matches:
+    - "Copyright protection under this title is not available
+       for any work of the United States Government"

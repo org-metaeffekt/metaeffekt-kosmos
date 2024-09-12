@@ -1,0 +1,43 @@
+canonicalName: Mozilla Open Software Patent License Agreement 1.0
+category: Mozilla Open Software Patent License Agreement
+shortName: Mozilla-OSPL-1.0
+
+otherIds:
+  - "scancode:mozilla-ospl-1.0"
+
+alternativeNames:
+  - "mozilla-ospl-1.0"
+  - "Mozilla Open Software Patent License Agreement v1"
+
+evidence:
+  matches:
+    - "If you bring a Claim, the licenses granted to you by Mozilla and all other Participants will immediately
+       terminate as of the date you bring such Claim"
+    - "For purposes of the foregoing, a 'Claim' means (a) filing any lawsuit or other legal action (including any
+       action to enjoin import of products) asserting infringement of your Patent by Software, (b) making any written
+       claims of infringement of any of your Patents by Software, including requests to cease and desist infringement,
+       or (c) assisting any third party to bring any such claim"
+    - "However, 'Claims' will not include (x) claims of patent infringement brought by you as counter-claims or
+       cross-claims in any third party claim of patent infringement against you; or (y) invitations or offers to
+       license Patents in connection with Open Patent Licensing"
+    - "You may terminate the License Term by making a public statement of your intention to no longer be party to this
+       Agreement, stating a date of termination of the License Term no earlier than the date of such statement,
+       and stating in good faith that to your knowledge, you will not infringe any Mozilla Patent as of the end of the
+       License Term"
+    - "In such case, the licenses granted to you by all Participants will terminate effective as of the end of the
+       License Term, and your licenses under Section 3(b) will also terminate as of the end of the License Term"
+    - "This is the entire agreement between Mozilla and you on the subject matter of this Agreement"
+    - "In the event that any term or condition contained in this Agreement shall be determined by any court of competent
+       jurisdiction to be unenforceable by reason of its extending for too great a period of time or over too great a
+       geographical area or by reason of its being too extensive in any other respect, it shall be interpreted to extend
+       only over the maximum period of time for which it may be enforceable and/or over the maximum geographical area as
+       to which it may be enforceable and/or to the maximum extent in all other respects as to which it may be enforceable,
+       all as determined by such court in such action"
+    - "The text of this Agreement is provided to you under the CC0 1.0 Universal Waiver"
+    - "Any law or regulation which provides that the language of a contract shall be construed against the drafter will
+       not be used to construe the terms of this Agreement against any Participant"
+
+references:
+  "CC0":
+    matches:
+      - "The text of this Agreement is provided to you under the CC0 1.0 Universal Waiver."

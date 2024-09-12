@@ -1,0 +1,29 @@
+canonicalName: GStreamer Exception
+category: GStreamer Exception
+shortName: GStreamer-Exception
+
+type: exception
+
+otherIds:
+  - "scancode:gstreamer-exception-2.0"
+
+canonicalNameHistory:
+  - "GStreamer Exception 2.0"
+
+alternativeNames:
+  - "gstreamer-exception-2.0"
+
+evidence:
+  matches:
+    - "The GNOME Music authors hereby grant permission for non-GPL compatible
+       GStreamer plugins to be used and distributed together with GStreamer
+       and GNOME Music"
+    - "This permission is above and beyond the permissions
+       granted by the GPL license by which GNOME Music is covered"
+    - "If you modify this code, you may extend this exception to your version of the
+       code, but you are not obligated to do so"
+
+references:
+  "GPL":
+    matches:
+      - "This permission is above and beyond the permissions granted by the GPL license by which GNOME Music is covered"

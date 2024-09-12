@@ -1,0 +1,20 @@
+canonicalName: Cubiware Software License 1.0
+category: Cubiware Software License
+shortName: Cubiware-Software-1.0
+
+otherIds:
+  - "scancode:cubiware-software-1.0"
+
+alternativeNames:
+  - "cubiware-software-1.0"
+  - "Cubiware Sp. z o.o. Software License Version 1.0"
+
+evidence:
+  matches:
+    - "Any rights which are not expressly granted in this License are entirely and
+       exclusively reserved to and by Cubiware Sp. z o.o"
+    - "You may not rent, lease, modify, translate, reverse engineer, decompile, disassemble,
+       or create derivative works based on this Software"
+    - "You may not make access to this Software available to others in connection with a service bureau,
+       application service provider, or similar business, or make any other use of
+       this Software without express written permission from Cubiware Sp. z o.o"

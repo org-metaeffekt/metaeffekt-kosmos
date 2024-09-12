@@ -1,0 +1,19 @@
+canonicalName: Borceux License
+category: Borceux
+spdxIdentifier: Borceux
+
+otherIds:
+  - "scancode:borceux"
+
+alternativeNames:
+  - "Borceux License"
+  - "BORCEUX LICENSE"
+  - "BORCEUX License"
+
+evidence:
+  matches:
+    - "You may freely use, modify, and/or distribute each of the files in
+       this package without limitation"
+    - "The package consists of the following files"
+    - "Of course no support is guaranteed, but the author will attempt to
+       assist with problems"

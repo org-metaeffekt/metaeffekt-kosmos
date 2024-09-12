@@ -1,0 +1,58 @@
+canonicalName: Creative Commons BY 1.0
+category: CC-BY
+spdxIdentifier: CC-BY-1.0
+
+otherIds:
+  - "scancode:cc-by-1.0"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution 1.0 Generic"
+
+requiresAnnexNotice: true
+
+requiresLicenseText: false
+requiresCopyright: false
+requiresNote: true
+noteChecklist:
+  - "give the Original Author credit"
+
+alternativeNames:
+  - "Creative Commons Attribution 1.0 Generic"
+  - "Creative Commons Attribution 1.0"
+  - "CC-BY-1.0"
+  - "http://creativecommons.org/licenses/by/1.0"
+
+evidence:
+  matches:
+    - "to reproduce the Work, to incorporate the Work into one or more Collective
+       Works, and to reproduce the Work as incorporated in the Collective Works"
+    - "to create and reproduce Derivative Works"
+    - "to distribute copies or phonorecords of, display publicly, perform publicly,
+       and perform publicly by means of a digital audio transmission the Work including
+       as incorporated in Collective Works"
+    - "You may distribute, publicly display, publicly perform, or publicly digitally
+       perform the Work only under the terms of this License, and You must include
+       a copy of, or the Uniform Resource Identifier for, this License with every
+       copy or phonorecord of the Work You distribute, publicly display, publicly
+       perform, or publicly digitally perform"
+  excludes:
+    - "You may distribute, publicly display, publicly perform, or publicly digitally
+       perform a Derivative Work only under the terms of this License, and You must
+       include a copy of, or the Uniform Resource Identifier for, this License with
+       every copy or phonorecord of each Derivative Work You distribute, publicly
+       display, publicly perform, or publicly digitally perform"
+    - "You must include a copy of, or the Uniform Resource Identifier for, this License or other license
+       specified in the previous sentence with every copy or phonorecord of each
+       Derivative Work You distribute, publicly display, publicly perform, or publicly
+       digitally perform"
+    - "You may not exercise any of the rights granted to You in Section 3 above
+       in any manner that is primarily intended for or directed toward commercial
+       advantage or private monetary compensation"
+    - "For the avoidance of doubt, where the Work is a musical composition or sound
+       recording, the synchronization of the Work in timed-relation with a moving
+       image (\"synching\") will be considered a Derivative Work for the purpose of
+       this License"
+    - "Every time you download the source code of the software to develope any kind of
+       contribute you must check the registration form at http://lab.hermesnet.it/
+       (Sourceforge registered project at http://sourceforge.net/projects/hermesnetlab/) and
+       fill it in when a subscription is required"

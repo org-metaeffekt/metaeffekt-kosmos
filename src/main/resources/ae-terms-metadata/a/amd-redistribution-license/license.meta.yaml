@@ -1,0 +1,22 @@
+canonicalName: AMD Redistribution
+category: AMD-Redistribution
+shortName: AMD-RL
+
+otherIds:
+  - "scancode:amd-linux-firmware"
+
+alternativeNames:
+  - "AMD Redistribution"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of any license fees,
+       to any person obtaining a copy of this microcode (the 'Software'), to
+       install, reproduce, copy and distribute copies, in binary form only, of
+       the Software and to permit persons to whom the Software is provided to
+       do the same, provided that the following conditions are met"
+    - "No reverse engineering, decompilation, or disassembly of this Software
+       is permitted"
+    - "Redistributions must reproduce the above copyright notice, this
+       permission notice, and the following disclaimers and notices in the
+       Software documentation and/or other materials provided with the Software"

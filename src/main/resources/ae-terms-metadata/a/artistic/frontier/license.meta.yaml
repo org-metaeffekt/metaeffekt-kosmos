@@ -1,0 +1,51 @@
+canonicalName: Frontier Artistic License 1.0
+category: Artistic License
+shortName: Frontier-Artistic-1.0
+
+# currently the category is chosen to avoid contains with the standard Artistic License (undefined)
+
+otherIds:
+  - "scancode:frontier-1.0"
+
+alternativeNames:
+  - "Frontier Artistic License 1.0"
+  - "Artistic License (undefined)"
+
+references:
+  "Public Domain":
+    matches:
+      - "You may apply bug fixes, portability fixes, and other modifications
+         derived from the Public Domain or from the Copyright Holder.  A Package
+         modified in such a way shall still be considered the Standard Version"
+
+evidence:
+  matches:
+    - "Derived from the 'Artistic License'"
+    - "The intent of this document is to state the conditions under which a
+       Package may be copied, such that the Copyright Holder maintains some
+       semblance of artistic control over the development of the package,
+       while giving the users of the package the right to use and distribute
+       the Package in a more-or-less customary fashion, plus the right to
+       make reasonable modifications"
+    - "You may make and give away verbatim copies of the source form of the
+       Standard Version of this Package without restriction, provided that you
+       duplicate all of the original copyright notices and associated disclaimers"
+    - "Place your modifications in the Public Domain or otherwise make them
+       Freely Available, such as by posting said modifications to Usenet or an
+       equivalent medium, or placing the modifications on a major archive site
+       such as ftp.uu.net, or by allowing the Copyright Holder to include your
+       modifications in the Standard Version of the Package"
+  excludes:
+    - "\"Package\" refers to the collection of files distributed by the Copyright Holder,
+       and derivatives of that collection of files created through textual modification"
+    - "It is the intent of this license to allow commercial usage of the Jetty package,
+       so long as the source code is distributed"
+    - "This license was derived from the Artistic license"
+    - "'Jetty' refers to the collection of Java classes that are distributed as a
+       HTTP server with servlet capabilities and associated utilities."
+    - "The Jetty Package is Copyright (c) Mort Bay Consulting Pty. Ltd. (Australia)
+       and others"
+    - "The Standard Version of the Jetty package is available from
+       http://jetty.mortbay.org"
+    - "This license was derived from the Artistic license published on
+       http://www.opensource.com"

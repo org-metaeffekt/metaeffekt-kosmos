@@ -1,0 +1,20 @@
+canonicalName: Creative Commons BY-SA 3.0 (IGO)
+category: CC-BY-SA
+spdxIdentifier: CC-BY-SA-3.0-IGO
+
+otherIds:
+  - "scancode:cc-by-sa-3.0-igo"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "\"IGO\" means, solely and exclusively for purposes of this License, an organization established by a treaty or other instrument governed by international law and possessing its own international legal personality. Other organizations established to carry out activities across national borders and that accordingly enjoy immunity from legal process are also IGOs for the sole and exclusive purposes of this License. IGOs may include as members, in addition to states, other entities"
+    - "\"License Elements\" means the following high-level license attributes as selected by the Licensor and indicated in the title of this License: Attribution, ShareAlike"
+    - "\"Collection\" means a collection of literary or artistic works or other works or subject matter other than works listed in Section 1(b) which by reason of the selection and arrangement of their contents, constitute intellectual creations, in which the Work is included in its entirety in unmodified form along with one or more other contributions, each constituting separate and independent works in themselves, which together are assembled into a collective whole"
+    - "You must include a copy of, or the Uniform Resource Identifier (URI) for, this License with every copy of the Work You Distribute or Publicly Perform"
+    - "If You create a Collection, upon notice from a Licensor You must, to the extent practicable, remove from the Collection any credit (inclusive of any logo, trademark, official mark or official emblem) as required by Section 4(c), as requested"
+    - "Except as otherwise agreed in writing by the Licensor, if You Reproduce, Distribute or Publicly Perform the Work either by itself or as part of any Adaptations or Collections, You must not distort, mutilate, modify or take other derogatory action in relation to the Work which would be prejudicial to the honor or reputation of the Licensor where moral rights apply"
+    - "The rights granted under, and the subject matter referenced, in this License were drafted utilizing the terminology of the Berne Convention for the Protection of Literary and Artistic Works (as amended on September 28, 1979), the Rome Convention of 1961, the WIPO Copyright Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996 and the Universal Copyright Convention (as revised on July 24, 1971)"
+    - "Nothing in this License constitutes or may be interpreted as a limitation upon or waiver of any privileges and immunities that may apply to the Licensor or You, including immunity from the legal processes of any jurisdiction, national court or other authority"

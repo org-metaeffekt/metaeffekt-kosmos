@@ -1,0 +1,40 @@
+canonicalName: Creative Commons BY 4.0
+category: CC-BY
+spdxIdentifier: CC-BY-4.0
+
+otherIds:
+  - "scancode:cc-by-4.0"
+
+requiresAnnexNotice: true
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "CC-BY-4.0"
+  - "Creative Commons Attribution 4.0"
+  - "http://creativecommons.org/licenses/by/4.0/"
+  - "http://creativecommons.org/licenses/by/4.0"
+  - "https://creativecommons.org/licenses/by/4.0/"
+  - "https://creativecommons.org/licenses/by/4.0"
+  - "CC BY 4.0"
+  - "Namensnennung 4.0 International"
+
+evidence:
+  matches:
+    - "reproduce and Share the Licensed Material, in whole or in part"
+    - "produce, reproduce, and Share Adapted Material"
+    - "For the avoidance of doubt, where Exceptions
+       and Limitations apply to Your use, this Public License does not apply, and
+       You do not need to comply with its terms and conditions"
+    - "Exceptions and Limitations. For the avoidance of doubt, where Exceptions
+       and Limitations apply to Your use, this Public License does not apply, and
+       You do not need to comply with its terms and conditions"
+    - "identification of the creator(s) of the Licensed Material and any others
+       designated to receive attribution, in any reasonable manner requested by the
+       Licensor (including by pseudonym if designated)"
+  excludes:
+    - "You must include the text of, or the URI or hyperlink to, the Adapter's
+       License You apply. You may satisfy this condition in any reasonable manner
+       based on the medium, means, and context in which You Share Adapted Material"
+    - "NonCommercial means not primarily intended for or directed towards commercial
+       advantage or monetary compensation"

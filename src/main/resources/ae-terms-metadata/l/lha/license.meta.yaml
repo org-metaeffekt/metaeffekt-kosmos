@@ -1,0 +1,21 @@
+canonicalName: LHA License
+category: LHA
+shortName: LHA
+
+canonicalNameHistory:
+  - LHA
+
+otherIds:
+  - "scancode:lha"
+
+classification: Proprietary Free
+
+evidence:
+  matches:
+    - "If LHa is redistributed with added values, you must put your best effort to include them"
+    - "Also the document clearly indicating that added value was added must be included"
+    - "This program, either as a part of this or as a whole of this, may be
+       included into other programs"
+    - "In this case, that program is not LHa and can not call itself LHa"
+
+

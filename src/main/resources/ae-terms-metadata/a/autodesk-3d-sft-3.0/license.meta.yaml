@@ -1,0 +1,16 @@
+canonicalName: Autodesk 3D Studio File Toolkit License 3.0
+category: Autodesk 3D Studio File Toolkit
+shortName: Autodesk-3D-SFT-3.0
+
+alternativeNames:
+  - "3D Studio File Toolkit for Release 3"
+
+otherIds:
+  - "scancode:autodesk-3d-sft-3.0"
+
+evidence:
+  matches:
+    - "This License and the rights granted hereunder will terminate
+       automatically if you fail to comply with the terms herein"
+    - "All sublicenses to the Autodesk Program which are properly granted shall
+       survive any termination of this license"

@@ -1,0 +1,22 @@
+canonicalName: Kerberos License
+category: Kerberos License
+shortName: Kerberos
+
+otherIds:
+  - "scancode:kerberos"
+
+alternativeNames:
+  - "Kerberos License"
+  - "Kerberos Licence"
+
+#combinedWith:
+#  "Kerberos License": "MIT Kerberos License, OpenVision Terms, Permission Terms (variant 061), Brian Gladman 3-Clause License, BSD 4-Clause License (UC)"
+
+# FIXME-CONCEPT: change to expectedMatches
+# multi-license; validation matches only embedded licenses
+ignoreMatches:
+  - "MIT Kerberos License"
+  - "OpenVision Terms"
+  - "Permission Terms (variant 061)"
+  - "Brian Gladman 3-Clause License"
+  - "BSD 4-Clause License (UC)"

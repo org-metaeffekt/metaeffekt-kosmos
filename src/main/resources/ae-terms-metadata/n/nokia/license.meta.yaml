@@ -1,0 +1,35 @@
+canonicalName: Nokia Open Source License
+category: Nokia License
+spdxIdentifier: Nokia
+
+otherIds:
+  - "scancode:nokos-1.0a"
+  - "osi:nokia"
+
+alternativeNames:
+  - "Nokia License"
+  - "NOKIA LICENSE"
+  - "NOKIA License"
+  - "Nokia Open Source License"
+  - "NOKIA Open Source License"
+  - "NOKOS License"
+
+evidence:
+  matches:
+    - "Subject to the terms of this License, Nokia hereby grants You a world-wide,
+       royalty-free, non-exclusive license, subject to third party intellectual property
+       claims"
+    - "under copyrights Licensable by Nokia to use, reproduce, modify, display,
+       perform, sublicense and distribute the Original Software (or portions thereof)
+       with or without Modifications, and/or as part of a Larger Work;"
+    - "and under Patents Claims necessarily infringed by the making, using or
+       selling of Original Software, to make, have made, use, practice, sell, and
+       offer for sale, and/or otherwise dispose of the Original Software (or portions
+       thereof)"
+    - "The licenses granted in this Section 2.1(a) and (b) are effective on the
+       date Nokia first distributes Original Software under the terms of this License"
+    - "Notwithstanding Section 2.1(b) above, no patent license is granted: 1)
+       for code that You delete from the Original Software; 2) separate from the
+       Original Software; or 3) for infringements caused by: i) the modification
+       of the Original Software or ii) the combination of the Original Software with
+       other software or devices"

@@ -1,0 +1,13 @@
+canonicalName: Lattice Open Source License 2017
+category: Lattice Open Source License
+shortName: Lattice-OSL-2017
+
+otherIds:
+  - "scancode:lattice-osl-2017"
+
+evidence:
+  matches:
+    - "The Provider grants to You a personal, non-exclusive right to use object code created from the Software or a Derivative Work to physically implement the design in devices such as a programmable logic devices or application specific integrated circuits"
+    - "YOU ASSUME RESPONSIBILITY FOR SELECTION OF THE SOFTWARE TO ACHIEVE ITS INTENDED RESULTS AND FOR THE PROPER INSTALLATION, USE, AND RESULTS OBTAINED FROM THE SOFTWARE"
+    - "You agree that neither the Software nor any Derivative Work will be exported, directly or indirectly, into any country or to any person or entity, in violation of laws or regulations of the United States or other applicable governments"
+    - "From time to time Lattice may issue revised versions of the Lattice Open Source License Agreement"

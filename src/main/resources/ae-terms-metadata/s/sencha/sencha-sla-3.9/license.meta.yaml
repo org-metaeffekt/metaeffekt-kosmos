@@ -1,0 +1,32 @@
+canonicalName: Sencha Software License Agreement 3.9
+category: Sencha Software
+shortName: Sencha-SLA-3.9
+
+otherIds:
+  - "scancode:sencha-commercial-3.9"
+
+alternativeNames:
+  - "Sencha Software License Agreement v3.9"
+  - "Sencha Software License Agreement Version 3.9"
+
+evidence:
+  matches:
+    - "Subject to the payment of the fee required, and subject to Your compliance with all of the terms and conditions of this Agreement, We grant to You a revocable, non-exclusive, non-transferable and non-sublicensable license"
+    - "for End Users to use the Sencha SDKs as integrated into Your Applications in accordance with the terms of this Agreement"
+    - "YOU ACKNOWLEDGE THAT TRIAL AND/OR BETA SOFTWARE MIGHT PLACE WATERMARKS ON OUTPUT, CONTAIN LIMITED FUNCTIONALITY, FUNCTION FOR A LIMITED PERIOD OF TIME, OR LIMIT THE FUNCTIONALITY OR TIME OF FUNCTIONING OF ANY OUTPUT"
+    - "We reserve ownership of all intellectual property rights inherent in or relating to the Software, which include, but are not limited to, all copyright, patent rights, all rights in relation to registered and unregistered trademarks"
+    - "You may not redistribute the Sencha SDKs or Modifications other than by including the Sencha SDKs or a portion thereof within Your Application"
+    - "This Agreement and Your right to use the Software and Modifications will terminate immediately if You fail to comply with any of the terms and conditions of this Agreement"
+    - "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE AND OUR RESELLERS DISCLAIM ALL WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE SOFTWARE"
+    - "Under this Commercial License, you are not allowed to create applications that can be described as a development toolkit or library"
+
+references:
+  "GPL":
+    matches:
+      - "Source Software may be made available under this Commercial License and under the GNU General Public License version 3 (GPLv3). This Commercial License requires the payment of a fee for each Designated User (i.e. developer). If you choose not to pay a fee and use the GPLv3 license, you are required to release the source code of any program that you distribute with the Software. If you choose to pay for a Commercial License, you are not required to disclose your source code. No closed source application can include or use Sencha Ext JS or Sencha GXT unless commercially licensed, whether or not you modify these libraries.
+         GPL & Trial Development
+
+         You cannot commence development of an application under GPLv3 license and later convert to a commercial license"
+      - "You are required to ensure that the Sencha SDKs is not reused by or with any applications other than those with which You distribute it as permitted herein. For example, if You install the Sencha SDKs on a customer’s server, that customer is not permitted to use the Sencha SDKs independently of Your Application, and must be informed as such.
+
+         Alternate versions of the Sencha SDKs (\"GPL Version\") may be licensed under the terms of the GNU General Public License versions 3.0 (\"GPL\"). If You, or another third party, has, at any time, developed all or any portion of the Application(s) using a GPL Version, You may not combine such work with the Sencha SDKs licensed hereunder, and You must license such application(s) under the terms of the GNU General Public License version 3."

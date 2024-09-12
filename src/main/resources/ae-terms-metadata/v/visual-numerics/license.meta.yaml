@@ -1,0 +1,18 @@
+canonicalName: Visual Numerics License
+category: Visual Numerics License
+shortName: Visual-Numerics
+
+otherIds:
+  - "scancode:visual-numerics"
+
+alternativeNames:
+  - "Visual Numerics License"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software is freely
+       granted by Visual Numerics, Inc."
+    - "provided that the copyright notice above and the following warranty
+       disclaimer are preserved in human readable form"
+    - "Because this software is licenses free of charge, it is provided 'AS IS',
+       with NO WARRANTY"

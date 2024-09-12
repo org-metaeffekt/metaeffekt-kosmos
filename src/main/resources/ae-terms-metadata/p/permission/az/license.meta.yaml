@@ -1,0 +1,29 @@
+canonicalName: Permission Terms (AZ)
+category: Permission
+spdxIdentifier: xkeyboard-config-Zinoviev
+shortName: PT-AZ
+
+otherIds:
+  - "OpenCoDE:PT-AZ"
+  - "scancode:xkeyboard-config-zinoviev"
+
+alternativeNames:
+  - "Permission Terms (AZ)"
+  - "xkeyboard-config-Zinoviev"
+  - "xkeyboard-config Zinoviev License"
+
+displayName: Permission Terms (no responsibility; no warranty)
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "This software may be used, modified, copied, distributed, and sold,
+       in both source and binary form provided that the above copyright
+       and these terms are retained. Under no circumstances is the author
+       responsible for the proper functioning of this software, nor does
+       the author assume any responsibility for damages incurred with its use"
+    - "Permission is granted to anyone to use, distribute and modify
+       this file in any way, provided that the above copyright notice
+       is left intact and the author of the modification summarizes
+       the changes in this header"
+    - "This file is distributed without any expressed or implied warranty"

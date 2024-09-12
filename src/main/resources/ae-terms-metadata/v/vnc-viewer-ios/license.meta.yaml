@@ -1,0 +1,56 @@
+canonicalName: VNCViewer for iOS EULA
+category: VNCViewer for iOS EULA
+shortName: VNC-Viewer-iOS
+
+otherIds:
+  - "scancode:vnc-viewer-ios"
+
+alternativeNames:
+  - "VNCViewer for iOS END-USER LICENCE AGREEMENT"
+
+evidence:
+  matches:
+    - "The Software, its structure, organisation and algorithms are valuable trade secrets and
+       confidential information and are protected by copyright and other intellectual property laws, and all
+       intellectual property rights in them belong to RealVNC Limited ('RealVNC'), or are licensed to it"
+    - "You must not copy the Software, except as set forth in clause 2 (Permitted End-User Rights and Limitations on Use)"
+    - "Any copies which You are permitted to make pursuant to this Agreement must
+       contain the same copyright and other proprietary notices that appear on the Software"
+    - "RealVNC and You acknowledge that, in the event of any third party claim that the Software or
+       your possession and use of the Software infringes that third party’s intellectual property rights,
+       RealVNC, and not Apple, will be solely responsible for the investigation, defense, settlement and
+       discharge of any such intellectual property infringement claim subject to Clause 5"
+    - "During the term of this Agreement and as long as you comply with the terms of this Agreement
+       RealVNC hereby grants You the non-exclusive, non-transferable end-user rights to install and use
+       one copy of the Software solely and exclusively for your use on any Apple iPhone, iPad or iPod touch
+       that you own or control and as permitted by the Usage Rules set forth in the App Store Terms of Service"
+    - "You may not reproduce, publish, transmit, modify, reverse engineer, reverse compile,
+       disassemble, or otherwise attempt to discover the source code of the Software (except to the extent
+       that this restriction is expressly prohibited by law) or create derivative works from, or publicly display the Software or part thereof"
+    - "Copying or storing or using the Software other than as permitted in
+       Clause 2.1 is expressly prohibited unless you obtain prior written permission from RealVNC"
+    - "You are expressly prohibited from distributing the Software in any format, in whole or in part, for sale,
+       or for commercial use or for any unlawful purpose"
+    - "You may not rent, lease or otherwise transfer the Software or allow it to be copied"
+    - "In the case of any conflict between this Clause 2 and the Usage Rules set forth in the App Store
+       Terms of Service, the App Store Terms of Service shall take precedence"
+    - "This licence shall continue in force unless and until it is terminated by RealVNC by e-mail notice to
+       you, if it reasonably believes that you have breached a material term of this Agreement"
+    - "In the case above, you must delete and destroy all copies of the Software in your possession and control and
+       overwrite any electronic memory or storage locations containing the Software"
+    - "The construction, validity and performance of this Agreement shall be governed in all respects by
+       English law, and the Parties agree to submit to the non-exclusive jurisdiction of the English courts"
+    - "If any provision of this Agreement is found to be invalid by any court having competent jurisdiction,
+       the invalidity of such provision shall not affect the validity of the remaining provisions of this
+       agreement, which shall remain in full force and effect"
+    - "Despite anything else contained in this Agreement, neither party will be liable for any delay in
+       performing its obligations under this Agreement if that delay is caused by circumstances beyond its
+       reasonable control (including, without limitation, any delay caused by an act or omission of the other
+       party) and the party affected will be entitled to a reasonable extension of time for the performance of
+       its obligations"
+    - "No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term"
+    - "You may not assign, subcontract, sublicense or otherwise transfer any of your rights or obligations under this Agreement"
+    - "This Agreement constitutes the entire agreement between You and RealVNC"
+    - "You acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of
+       this Agreement, and that, upon your acceptance of the terms and conditions of this Agreement, Apple
+       will have the right (and will be deemed to have accepted the right) to enforce this Agreement against You as a third party beneficiary thereof"

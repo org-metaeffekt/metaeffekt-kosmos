@@ -1,0 +1,19 @@
+canonicalName: Intel Simplified Software License (October 2022)
+category: Intel Simplified Software License
+shortName: issl-2022
+
+otherIds:
+  - "scancode:issl-2022"
+
+alternativeNames:
+  - "Intel Simplified Software License (October 2022)"
+
+evidence:
+  matches:
+    - "Redistributions must reproduce the above copyright notice and these terms of use in the Software
+       and in the documentation and/or other materials provided with the distribution"
+    - "Neither the name of Intel nor the names of its suppliers may be used to endorse or promote products
+       derived from this Software without specific prior written permission"
+    - "No reverse engineering, decompilation, or disassembly of the Software is permitted, nor any modification
+       or alteration of the Software or its operation at any time, including during execution"
+

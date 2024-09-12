@@ -1,0 +1,20 @@
+canonicalName: Google Analytics Terms of Service 2015
+category: Google Analytics Terms of Service
+shortName: Google-Analytics-TOS-2015
+
+otherIds:
+  - "scancode:google-analytics-tos-2015"
+
+alternativeNames:
+  - "Google Analytics Terms of Service 2015"
+
+evidence:
+  matches:
+    - "These Google Analytics Terms of Service (this 'Agreement') are entered into by
+       Google Inc."
+    - "You will not (and will not allow any third party to) use the Service to track,
+       collect or upload any data that personally identifies an individual"
+    - "Customer Data or Google Analytics Data means the data you collect , process or
+       store using the Service concerning the characteristics and activities of Visitors"
+
+

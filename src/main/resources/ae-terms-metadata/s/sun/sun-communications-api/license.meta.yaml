@@ -1,0 +1,17 @@
+canonicalName: Sun Communications API
+category: Sun Communications
+shortName: Sun-Communications-API
+
+otherIds:
+  - "scancode:sun-communications-api"
+
+evidence:
+  matches:
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"
+    - "Sun warrants to you that for a period of ninety (90) days from the date of purchase, as evidenced by a copy of the receipt, the media on which Software is furnished (if any) will be free of defects in materials and workmanship under normal use"
+    - "UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID"
+    - "TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF OR RELATED TO THE USE OF OR INABILITY TO USE SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"
+    - "All Software and technical data delivered under this Agreement are subject to US export control laws and may be subject to export or import regulations in other countries"
+    - "You are granted a royalty-free right to reproduce and distribute the Software provided that you"
+  excludes:
+    - "JAVA(R) 2 RUNTIME ENVIRONMENT, STANDARD EDITION, VERSION 1.2."

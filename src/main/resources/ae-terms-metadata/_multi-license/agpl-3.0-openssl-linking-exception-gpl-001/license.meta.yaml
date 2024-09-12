@@ -1,0 +1,18 @@
+canonicalName: GNU Affero General Public License 3.0 (with OpenSSL Linking Exception (GPL; variant 001))
+category: AGPL+OpenSSL Linking
+shortName: AGPL-3.0-OpenSSL-Linking-Exception-GPL-001
+
+type: expression
+
+#Not unique
+#canonicalNameHistory:
+#  - "GNU Affero General Public License 3.0 (with OpenSSL exception)"
+
+canonicalNameHistory:
+  - "GNU Affero General Public License 3.0 (with Linking exception (GPL; variant 022))"
+
+spdxExpression: "[GNU Affero General Public License 3.0] WITH [OpenSSL Linking Exception (GPL; variant 001)]"
+
+combinedWith:
+  "GNU Affero General Public License 3.0": "GNU Affero General Public License 3.0 (with OpenSSL Linking Exception (GPL; variant 001))"
+  "OpenSSL Linking Exception (GPL; variant 001)": "GNU Affero General Public License 3.0 (with OpenSSL Linking Exception (GPL; variant 001))"

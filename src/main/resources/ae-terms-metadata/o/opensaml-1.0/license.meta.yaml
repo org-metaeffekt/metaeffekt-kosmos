@@ -1,0 +1,33 @@
+canonicalName: OpenSAML License 1.0
+category: OpenSAML License
+shortName: OpenSAML-1.0
+
+otherIds:
+  - "scancode:opensaml-1.0"
+
+alternativeNames:
+  - "opensaml-1.0"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that the following conditions are met"
+    - "Redistributions of source code must retain the above copyright notice, this
+       list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright notice,
+       this list of conditions and the following disclaimer in the documentation
+       and/or other materials provided with the distribution, if any, must include
+       the following acknowledgment: 'This product includes software developed by
+       the University Corporation for Advanced Internet Development
+       <http://www.ucaid.edu>Internet2 Project"
+    - "Alternately, this acknowledegement may appear in the software itself, if and wherever such third-party
+       acknowledgments normally appear"
+    - "Neither the name of OpenSAML nor the names of its contributors, nor
+       Internet2, nor the University Corporation for Advanced Internet Development,
+       Inc., nor UCAID may be used to endorse or promote products derived from this
+       software without specific prior written permission"
+    - "For written permission, please contact opensaml@opensaml.org"
+    - "Products derived from this software may not be called OpenSAML, Internet2,
+       UCAID, or the University Corporation for Advanced Internet Development, nor
+       may OpenSAML appear in their name, without prior written permission of the
+       University Corporation for Advanced Internet Development"

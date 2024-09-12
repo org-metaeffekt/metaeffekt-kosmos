@@ -1,0 +1,23 @@
+canonicalName: gSOAP Public License 1.3a
+category: gSOAP Public License
+shortName: gSOAP-1.3a
+
+otherIds:
+  - "scancode:gsoap-1.3a"
+
+alternativeNames:
+  - "gSOAP-1.3a"
+  - "gSOAP Public License v1.3a"
+  - "gSOAP Public License Version 1.3a"
+
+evidence:
+  matches:
+    - "Any Modification created by You will be provided to the Initial Developer
+       in Source Code form and are subject to the terms of the License"
+    - "Portions created by gSOAP are Copyright (C) 2001-2004 Robert A. van Engelen,
+       Genivia inc"
+    - "The gSOAP public license is derived from the Mozilla Public License"
+    - "More information on licensing options, support contracts, and consulting can be
+       found at http://genivia.com/Products/gsoap/contract.html"
+  excludes:
+    - "You may obtain a copy of the License at http://www.cs.fsu.edu/ engelen/soaplicense.html"

@@ -1,0 +1,49 @@
+canonicalName: Splunk Software License Agreement
+category: Splunk Software License Agreement
+shortName: Splunk-SLA
+
+alternativeNames:
+  - "Splunk Software License Agreement"
+
+otherIds:
+  - "scancode:splunk-sla"
+
+evidence:
+  matches:
+    - "Subject to Customer’s compliance with this Agreement, including Customer’s timely payment of all
+       License Fees, Splunk grants to Customer a nonexclusive, worldwide, nontransferable, nonsublicensable
+       license during the applicable Term to install and use the Purchased Software within the Licensed Capacity
+       solely for Customer’s Internal Business Purposes"
+    - "If the applicable Order specifies that any Software is provided under an evaluation license or a free trial
+       license, then subject to Customer’s compliance with this Agreement, Splunk grants to Customer a nonexclusive,
+       worldwide, nontransferable, nonsublicensable license during the applicable Term to install and use the Evaluation
+       Software within the Licensed Capacity solely for evaluating whether Customer wishes to purchase a commercial
+       license for such Software"
+    - "Subject to Customer’s compliance with this Agreement, including Customer’s timely payment of all License Fees
+       (if any), Splunk grants to Customer a nonexclusive, worldwide, nontransferable, nonsublicensable license to use
+       Splunk Extensions solely in connection with applicable Software that Customer has licensed from Splunk, subject
+       to the same limitations and restrictions (including with respect to Term and Licensed Capacity) that apply to
+       the Software with which the Splunk Extensions are used"
+
+references:
+  "Apache License":
+    matches:
+      - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"
+  "GPL":
+    matches:
+      - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"
+  "CPL":
+    matches:
+      - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"
+  "LGPL":
+    matches:
+      - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"
+  "MIT":
+    matches:
+      - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"
+  "MPL":
+    matches:
+      - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"
+  "BSD":
+    matches:
+      - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"

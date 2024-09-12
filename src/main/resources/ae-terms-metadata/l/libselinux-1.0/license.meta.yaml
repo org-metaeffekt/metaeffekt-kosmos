@@ -1,0 +1,53 @@
+canonicalName: Public Domain Notice (libselinux)
+category: libselinux
+spdxIdentifier: libselinux-1.0
+
+canonicalNameHistory:
+  - "libselinux public domain notice"
+
+otherIds:
+  - "scancode:selinux-nsa-declaration-1.0"
+
+# FIXME-REVISE: handling unclear; what shall be the outcome
+ignoreMatches:
+  - "Public Domain"
+  - "libselinux License"
+
+representedAs: Public Domain
+
+displayName: "Public Domain"
+
+alternativeNames:
+  - "libselinux public domain notice"
+  - "libselinux-1.0"
+
+expectedSpdxMatches:
+  - "Public Domain"
+  - "Public Domain Notice (libselinux)"
+
+evidence:
+  matches:
+    - "This library (libselinux) is public domain software"
+    - "In no event will NSA be liable for any damages, including loss of data, lost
+       profits, cost of cover, or other special, incidental, consequential, direct
+       or indirect damages arising from the software or the use thereof, however
+       caused and on any theory of liability"
+    - "This limitation will apply even if NSA has been advised of the possibility of such damage"
+    - "You acknowledge that this is a reasonable allocation of risk"
+  excludes:
+    - "This library is public domain software, i.e. not copyrighted"
+
+segmentation:
+  revert: [
+    { match:
+        "Limitation of Liability",
+      matchNext:
+        "In no event will NSA be liable for any damages, including loss of data"
+    },
+    { match:
+        "Warranty Exclusion",
+      matchNext:
+        "You agree that this software is a
+         non-commercially developed program"
+    }
+  ]

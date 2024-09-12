@@ -1,0 +1,20 @@
+canonicalName: On2 VP3 Codec Software Patent Grant
+category: On2 VP3 Codec Software
+shortName: ON2-VP3-Codec-patent
+
+otherIds:
+  - "scancode:on2-patent"
+
+evidence:
+  matches:
+    - "In addition to and irrespective of the copyright license associated
+       with this software, On2 Technologies, Inc. makes the following statement
+       regarding technology used in this software"
+    - "On2 represents and warrants that it shall not assert any rights
+         relating to infringement of On2's registered patents, nor initiate
+         any litigation asserting such rights, against any person who, or
+         entity which utilizes the On2 VP3 Codec Software, including any
+         use, distribution, and sale of said Software"
+    - "This reference implementation is originally derived from the On2 VP3
+       Codec Software, and the Theora video format is essentially compatible
+       with the VP3 video format, consisting of a backward-compatible superset"

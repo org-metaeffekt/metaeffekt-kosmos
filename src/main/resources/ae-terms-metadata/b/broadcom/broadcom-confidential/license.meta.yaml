@@ -1,0 +1,19 @@
+canonicalName: Broadcom Confidential
+category: Broadcom Confidential
+shortName: Broadcom-Confidential
+
+otherIds:
+  - "scancode:broadcom-confidential"
+
+alternativeNames:
+  - "broadcom-confidential"
+  - "Broadcom Confidential"
+
+canonicalNameHistory:
+  - "Broadcom Proprietary"
+
+evidence:
+  matches:
+    - "No portions of this material may be reproduced in any form without the written permission"
+    - "All information contained in this document is Broadcom Corporation company private,
+       proprietary, and trade secret"

@@ -1,0 +1,26 @@
+canonicalName: Simple Public License 1.1
+category: Simple Public License
+shortName: Simpl-1.1
+
+otherIds:
+  - "scancode:simpl-1.1"
+
+alternativeNames:
+  - "SIMPLE PUBLIC LICENSE VERSION 1.1"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software and
+       its documentation, with or without modification, for any purpose and
+       without fee or royalty is hereby granted, provided that you include
+       the following on ALL copies of the software and documentation or
+       portions thereof, including modifications, that you make"
+    - "The full text of this license in a location viewable to users
+       of the redistributed or derivative work"
+    - "Notice of any changes or modifications to the files,
+       including the date changes were made"
+    - "The name, servicemarks and trademarks of the copyright holders
+       may NOT be used in advertising or publicity pertaining to the
+       software without specific, written prior permission"
+    - "Title to copyright in this software and any associated
+       documentation will at all times remain with copyright holders"

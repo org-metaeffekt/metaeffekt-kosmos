@@ -1,0 +1,26 @@
+canonicalName: University of Utah Research Foundation Public License
+category: University of Utah Research Foundation Public License
+shortName: UoFU-RFPL
+
+otherIds:
+  - "scancode:uofu-rfpl"
+
+alternativeNames:
+  - "http://www.cs.utah.edu/~gk/teem/txt/LICENSE.txt"
+  - "UNIVERSITY OF UTAH RESEARCH FOUNDATION PUBLIC LICENSE"
+
+evidence:
+  matches:
+    - "If USER has knowledge that a party claims an
+       intellectual property right in particular functionality or code (or
+       its utilization under this License), USER must include a text file
+       with the source code provided to UNIVERSITY titled 'LEGAL' which
+       describes the claim and the party making the claim in sufficient
+       detail that UNIVERSITY will know whom to contact"
+    - "If USER obtains such knowledge after USER makes the Modification available to
+       UNIVERSITY, USER shall promptly modify the LEGAL file in all copies
+       USER makes available thereafter and shall notify UNIVERSITY that new
+       knowledge has been obtained"
+    - "If Your Modification is an application programming interface and USER owns
+       or controls patents, which are reasonably necessary to implement that API,
+       you must also include this information in the LEGAL file"

@@ -1,0 +1,14 @@
+canonicalName: Time ParseDate License
+category: TPDL
+spdxIdentifier: TPDL
+
+otherIds:
+  - "scancode:tpdl"
+
+alternativeNames:
+  - "Time::ParseDate License"
+
+evidence:
+  matches:
+    - "License hereby granted for anyone to use, modify or redistribute this module at their own risk"
+    - "Please feed useful changes back to cpan@dave.sharnoff.org"

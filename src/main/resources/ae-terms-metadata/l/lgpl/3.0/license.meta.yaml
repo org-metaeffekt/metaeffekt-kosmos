@@ -1,0 +1,176 @@
+canonicalName: GNU Lesser General Public License 3.0
+category: LGPL
+spdxIdentifier: LGPL-3.0-only
+shortName: LGPL-3.0
+
+otherIds:
+  - "scancode:lgpl-3.0"
+  - "osi:LGPL-3.0"
+
+status:
+  - "reviewed 28.01.22"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+defaultSourceCategory: annex
+requiresSourceCodeProvision: true
+
+expectedSpdxMatches:
+  - "GNU Lesser General Public License 3.0"
+  - "GNU General Public License 3.0"
+
+alternativeNames:
+  - "GNU Lesser General Public License, Version 3.0"
+  - "GNU General Lesser Public License (LGPL) version 3.0"
+  - "GNU General Lesser Public License (LGPL) version 3.00"
+  - "GNU General Lesser Public License, Version 3.0"
+  - "GNU LESSER GENERAL PUBLIC LICENSE (LGPL) Version 3.0"
+  - "GNU LESSER GENERAL PUBLIC LICENSE (LGPL) version 3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE - Version 3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE 3.0"
+  - "GNU LESSER GENERAL PUBLIC LICENSE V3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE V3.0"
+  - "GNU LESSER GENERAL PUBLIC LICENSE VERSION 3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE Version 3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE v3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE v3.0"
+  - "GNU LESSER GENERAL PUBLIC LICENSE version 3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE, Version 3.0"
+  - "GNU LESSER GENERAL PUBLIC LICENSE, version 3"
+  - "GNU LGPL 3"
+  - "GNU LGPL V3"
+  - "GNU LGPL Version 3.0"
+  - "GNU LGPL license v3.0"
+  - "GNU LGPL v3"
+  - "GNU LGPL v3.0"
+  - "GNU LGPL, Version 3.0"
+  - "GNU LGPLv3"
+  - "GNU Lesser General Public Licence, Version 3"
+  - "GNU Lesser General Public License (GNU LGPL), Version 3"
+  - "GNU LIBRARY GENERAL PUBLIC LICENSE, Version 3.0"
+  - "GNU Lesser GPL, Version 3"
+  - "GNU Lesser General Public License (LGPL) v3.0"
+  - "GNU Lesser General Public License (LGPL) version 3.0"
+  - "GNU Lesser General Public License (LGPL), Version 3"
+  - "GNU Lesser General Public License (LGPL), Version 3.0"
+  - "GNU Lesser General Public License (LGPL), v.3"
+  - "GNU Lesser General Public License (LGPL), version 3"
+  - "GNU Lesser General Public License (LGPLv3)"
+  - "GNU Lesser General Public License - v 3"
+  - "GNU Lesser General Public License - version 3"
+  - "GNU Lesser General Public License Version 3"
+  - "GNU Lesser General Public License Version 3 (LGPL), 29 June 2007"
+  - "GNU Lesser General Public License Version 3, 29 June 2007"
+  - "GNU Lesser General Public License Version 3.0"
+  - "GNU Lesser General Public License 3"
+  - "GNU Lesser General Public License 3.0"
+  - "GNU Lesser General Public License v3"
+  - "GNU Lesser General Public License v3 (LGPL)"
+  - "GNU Lesser General Public License v3 (LGPL-v3)"
+  - "GNU Lesser General Public License v3 (LGPLv3)"
+  - "GNU Lesser General Public License v3.0"
+  - "GNU Lesser General Public License version 3"
+  - "GNU Lesser General Public License version 3.0"
+  - "GNU Lesser General Public License, LGPL v3"
+  - "GNU Lesser General Public License, Version 3"
+  - "GNU Lesser General Public License, Version 3, 29 June 2007"
+  - "GNU Lesser General Public License, Version 3.0"
+  - "GNU Lesser General Public License, v3"
+  - "GNU Lesser General Public License, v3.0"
+  - "GNU Lesser General Public License, version 3"
+  - "GNU Lesser General Public License, version 3.0"
+  - "GNU Lesser General Public License3"
+  - "GNU Lesser General Public v3"
+  - "GNU Lesser Public License, Version 3"
+  - "GNU LesserGPLv3"
+  - "GNU Library or Lesser General Public License (LGPL) 3.0"
+  - "GNU Lessor/Library Public License, Version 3.0"
+  - "GNU Library or \u0022Lesser\u0022 General Public License version 3.0"
+  - "GNU Library or \u0022Lesser\u0022 General Public License, version 3.0"
+  - "GNU Library or Lesser General Public License (LGPL), Version 3"
+  - "GNU Library or Lesser General Public License v3"
+  - "GNU Library or Lesser General Public License version 3.0"
+  - "Lesser GNU, Version 3.0"
+  - "The GNU Lesser General Public License, Version 3"
+  - "The GNU Lesser General Public License, Version 3.0"
+  - "The GNU Lesser General Public License, version 3"
+  - "The GNU Lesser General Public License, version 3.0"
+  - "The GNU LESSER GENERAL PUBLIC LICENSE, Version 3"
+  - "The GNU Lesser General Public Licence, Version 3.0"
+  - "The Lesser GNU Public License, Version 3.0"
+  - "Lesser GNU Public License, Version 3.0"
+  - "GNU Lesser General Public Licence, Version 3.0"
+  - "LGPL v3"
+  - "LGPL-3.0"
+  - "LGPLv3"
+  - "LGPL 3.0 license"
+  - "LGPL 3"
+  - "LGPL 3.0"
+  - "Lesser General Public License (LGPL) v 3.0"
+  - "Lesser General Public License (LGPL) version 3.0"
+  - "Lesser General Public License (LGPL), v 3.0"
+  - "Lesser General Public License version 3.0"
+  - "LGPL Licence Version 3"
+  - "LGPL License (Version 3.0)"
+  - "LGPL V3 License"
+  - "LGPL Version 3"
+  - "LGPL Version 3.0"
+  - "LGPL license, Version 3.0"
+  - "LGPL v.3"
+  - "LGPL v3.0"
+  - "LGPL3"
+  - "LGPLv3 License"
+  - "LGPv3"
+  - "GNU LESSER GENERAL PUBLIC LICENSE, version 3 (GPL-3.0)"
+  - "GNU Lesser General Public License version 3 (LGPLv3)"
+  - "http://opensource.org/licenses/lgpl-3.0.html"
+  - "http://www.gnu.org/licenses/lgpl-3.0.txt"
+  - "FSF Lesser GNU Public License, Version 3"
+  - "Lesser GPL 3.0"
+  - "The GNU Lesser General Public License, Versions 2.1 and 3"
+  - "LGPL-3"
+  - "https://www.gnu.org/licenses/lgpl-3.0.txt"
+
+evidence:
+  matches:
+    - "This version of the GNU Lesser General Public License incorporates
+       the terms and conditions of version 3 of the GNU General Public
+       License, supplemented by the additional permissions listed below"
+    - "Give prominent notice with each copy of the object code that the
+       Library is used in it and that the Library and its use are covered by this License"
+    - "Accompany the object code with a copy of the GNU GPL and this license document"
+  excludes:
+    - "components of the Software in accordance with LGPL3 and other applicable licenses"
+
+references:
+  "GPL":
+    matches:
+      - "This version of the GNU Lesser General Public License incorporates
+         the terms and conditions of version 3 of the GNU General Public
+         License, supplemented by the additional permissions listed below"
+      - "As used herein, this License refers to version 3 of the GNU Lesser
+         General Public License, and the GNU GPL refers to version 3 of the GNU
+         General Public License"
+
+licenseTemplate:
+  "<lq>Disclaimer of Warranty
+   <p><codeph>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+   APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+   HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY
+   OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+   THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+   PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+   IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+   ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</codeph></p>
+   <p>Limitation of Liability</p>
+   <codeph>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+   WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+   THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+   GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+   USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
+   DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+   PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+   EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+   SUCH DAMAGES.</codeph></lq>"

@@ -1,0 +1,19 @@
+canonicalName: GNU General Public License 3.0 (with Libtool exception (GPL))
+category: GPL+Libtool
+shortName: GPL-3.0-Libtool-Exception-GPL
+
+type: expression
+
+spdxExpression: "[GNU General Public License 3.0] WITH [Libtool Exception (GPL)]"
+
+canonicalNameHistory:
+  - "GNU General Public License 3.0 (with Libtool exception)"
+
+displayName:
+  "GNU General Public License 3.0 (with Libtool exception)"
+
+representedAs: "GNU General Public License 3.0"
+
+combinedWith:
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Libtool exception (GPL))
+  "Libtool Exception (GPL)": GNU General Public License 3.0 (with Libtool exception (GPL))

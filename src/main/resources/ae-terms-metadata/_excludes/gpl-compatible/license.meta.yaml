@@ -1,0 +1,18 @@
+canonicalName: GPL Compatibility
+category: GPL Compatibility
+shortName: GPL-Comatibility
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "GPL Compatibility"
+
+references:
+  "GPL":
+    matches:
+    - "previously distributed under the GNU General Public License"
+
+evidence:
+  matches:
+    - "previously distributed under the GNU General Public License"

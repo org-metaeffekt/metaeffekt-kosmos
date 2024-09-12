@@ -1,0 +1,25 @@
+canonicalName: GNU Lesser General Public License 2.1 (PT)
+category: LGPL
+shortName: LGPL-2.1-PT
+
+otherIds:
+  - "scancode:cc-lgpl-2.1-pt"
+
+alternativeNames:
+  - "Creative Commons Licença Pública Geral Menor do GNU"
+  - "Licença Pública Geral Menor do GNU"
+
+evidence:
+  matches:
+    - "Se a distribuição e/ou uso da Biblioteca for restrito em determinados países, tanto por patentes ou por
+       interfaces protegidas por direito autoral, o titular original dos direitos autorais que colocar a Biblioteca sob
+       esta Licença poderá acrescentar uma limitação geográfica de distribuição explícita excluindo esses países, de
+       modo que a distribuição seja permitida somente nos países ou entre os países que não foram excluídos dessa forma"
+
+references:
+  "LGPL":
+    matches:
+      - "This is an unofficial translation of the GNU Lesser General Public License into Portuguese"
+      - "It was not published by the Free Software Foundation, and does not legally state the distribution terms for
+         software that uses the GNU LGPL--only the original English text of the GNU LGPL does that"
+      - "However, we hope that this translation will help Portuguese speakers understand the GNU LGPL better"

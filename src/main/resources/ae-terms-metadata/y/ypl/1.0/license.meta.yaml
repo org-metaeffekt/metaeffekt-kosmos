@@ -1,0 +1,28 @@
+canonicalName: YPL 1.0
+category: YPL
+spdxIdentifier: YPL-1.0
+
+otherIds:
+  - "scancode:ypl-1.0"
+
+alternativeNames:
+  - "YPL, Version 1.0"
+  - "YPL, 1.0"
+  - "YPL 1.0"
+  - "Yahoo! Public License, Version 1.0"
+
+evidence:
+  matches:
+    - "If You are an individual acting on behalf of a corporation or other
+       entity, Your use of the Software or any Modification is subject to Your having
+       the authority to bind such corporation or entity to this Agreement"
+    - "Providing copies to persons within such corporation or entity is not considered
+       distribution for purposes of this Agreement"
+    - "In the event Yahoo! determines that You have breached this Agreement"
+
+
+
+
+
+
+

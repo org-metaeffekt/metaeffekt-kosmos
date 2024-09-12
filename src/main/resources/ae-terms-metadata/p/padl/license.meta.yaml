@@ -1,0 +1,16 @@
+canonicalName: PADL License
+category: PADL
+spdxIdentifier: PADL
+
+alternativeNames:
+  - "PADL License"
+
+otherIds:
+  - "scancode:padl"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that this notice is preserved
+       and that due credit is given to PADL Software Pty Ltd"
+    - "This software is provided ``as is'' without express or implied warranty"

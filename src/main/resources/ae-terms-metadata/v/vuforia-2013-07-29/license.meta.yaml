@@ -1,0 +1,41 @@
+canonicalName: Vuforia SDK License Agreement 2013-07-29
+category: Vuforia SDK License Agreement
+shortName: Vuforia-2013-07-29
+
+otherIds:
+  - "scancode:vuforia-2013-07-29"
+
+alternativeNames:
+  - "Vuforia SDK License Agreement 2013-07-29"
+
+evidence:
+  matches:
+    - "As more particularly described in the documentation that is provided on the Vuforia-related developer
+       web site for the Software (the 'Documentation'), the Software is intended for use as a development tool
+       to enable the development and testing of visual recognition end-user software applications (the 'Permitted Use')"
+    - "Subject to and conditioned upon compliance with the terms and conditions of this Agreement, including the
+       limitations, conditions, restrictions and obligations set forth below, QUALCOMM Austria hereby grants to You
+       a personal, non-exclusive, non-sublicensable (except as expressly provided in Section 1.6 (Limited Sublicense Rights)
+       non-transferable, revocable, limited copyright license, during the term of this Agreement, to (i) download,
+       install and use the Software (other than Sample Code) in machine-readable (i.e. object code) form solely for
+       the Permitted Use, and (ii) distribute in object code only the Vuforia engine binary files and the Vuforia Word
+       Lists that are included in the Software, solely as such binary files are integrated into and used by each software
+       application that You develop for the Permitted Use in accordance with the Documentation and the terms of this Agreement"
+    - "You may not use the Software and may not accept this Agreement if you are a person barred from receiving the
+       Software under the laws of the United States or any other country including the country in which you are resident
+       or in which you use the Software"
+    - "In addition to any additional software that QUALCOMM Austria provides pursuant to Section 1.8 (Additional Software),
+       the Software licensed hereunder may include the following"
+
+masks:
+  matches:
+    - "You shall not incorporate, link, distribute or use (1) the Software or any other software provided by
+       QUALCOMM Austria, (2) any software, products, documentation, content or other materials developed using the
+       Software, nor (3) any derivative works that You make using the source code portions of the Software (if any), with
+       any code or software licensed under any version of the GNU General Public License (\"GPL\"), Affero General Public
+       License (\"AGPL\"), Lesser General Public License (\"LGPL\"), European Union Public License (\"EUPL\"), Apple
+       Public Source License (\"APSL\"), Common Development and Distribution License (\"CDDL\"), IBM Public License
+       (\"IPL\"), Eclipse Public License (\"EPL\"), Mozilla Public License (\"MPL\"), or any other open source license,
+       in any manner that could cause or could be interpreted or asserted to cause the Software or other QUALCOMM Austria
+       software (or any modifications thereto) to become subject to the terms of the GPL, AGPL, LGPL, EUPL, APSL, CDDL,
+       IPL, EPL, MPL, or such other open source license."

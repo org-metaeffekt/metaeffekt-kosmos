@@ -1,0 +1,21 @@
+canonicalName: Redistribution Terms (variant 005)
+category: RT
+shortName: RT-Var5
+
+otherIds:
+  - "scancode:delorie-historical"
+
+canonicalNameHistory:
+  - "Redistribution Terms Var5"
+
+displayName: "Redistribution Terms (no warranty)"
+
+representedAs: "Redistribution Terms"
+
+evidence:
+  matches:
+    - "Redistribution, modification, and use in source and binary forms is permitted
+       provided that the above copyright notice and following paragraph are
+       duplicated in all such forms"
+    - "This file is distributed WITHOUT ANY WARRANTY; without even the implied
+       warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE"

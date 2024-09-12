@@ -1,0 +1,32 @@
+canonicalName: CeCILL Free Software License Agreement 2.0 (FR)
+category: CeCILL
+shortName: CeCILL-2.0-fr
+
+otherIds:
+  - "scancode:cecill-2.0-fr"
+
+alternativeNames:
+  - "CeCILL Free Software License Agreement v2.0 French"
+  - "Version 2.0 du 2006-09-05"
+
+evidence:
+  matches:
+    - "la désignation d'un droit applicable, le droit français, auquel elle est conforme, tant au regard du droit de la responsabilité civile que du droit de la propriété intellectuelle et de la protection qu'il offre aux auteurs et titulaires des droits patrimoniaux sur un logiciel"
+    - "Les auteurs de la licence CeCILL (pour Ce[a] C[nrs] I[nria] L[ogiciel] L[ibre]) sont"
+    - "Commissariat à l'Energie Atomique - CEA, établissement public de recherche à caractère scientifique, technique et industriel, dont le siège est situé 25 rue Leblanc, immeuble Le Ponant D, 75015 Paris"
+    - "A cet égard l'attention de l'utilisateur est attirée sur les risques associés au chargement, à l'utilisation, à la modification et/ou au développement et à la reproduction du logiciel par l'utilisateur étant donné sa spécificité de logiciel libre, qui peut le rendre complexe à manipuler et qui le réserve donc à des développeurs ou des professionnels avertis possédant des connaissances informatiques approfondies"
+    - "Par ailleurs, si le Concédant détient ou venait à détenir un ou plusieurs brevets d'invention protégeant tout ou partie des fonctionnalités du Logiciel ou de ses composants, il s'engage à ne pas opposer les éventuels droits conférés par ces brevets aux Licenciés successifs qui utiliseraient, exploiteraient ou modifieraient le Logiciel"
+    - "Le droit de distribution comporte notamment le droit de diffuser, de transmettre et de communiquer le Logiciel au public sur tout support et par tout moyen ainsi que le droit de mettre sur le marché à titre onéreux ou gratuit, un ou des exemplaires du Logiciel par tout procédé"
+    - "Le Licencié peut inclure un code soumis aux dispositions d'une des versions de la licence GNU GPL dans le Logiciel modifié ou non et distribuer l'ensemble sous les conditions de la même version de la licence GNU GPL"
+    - "Le Licencié qui a développé une Contribution est titulaire sur celle-ci des droits de propriété intellectuelle dans les conditions définies par la législation applicable"
+
+references:
+  "GPL":
+    matches:
+      - "GNU GPL: désigne la GNU General Public License dans sa version 2 ou
+         toute version ultérieure, telle que publiée par Free Software Foundation
+         Inc.
+
+         Parties: désigne collectivement le Licencié et le Concédant.
+
+         Ces termes s'entendent au singulier comme au pluriel."

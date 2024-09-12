@@ -1,0 +1,12 @@
+canonicalName: WTF Public License 2.0 + MIT License
+category: WTFPL-MIT
+shortName: WTFPL-2.0-MIT
+
+type: expression
+
+alternativeNames:
+  - "Dual licensed under WTFPL and MIT"
+  
+combinedWith:
+  "WTF Public License 2.0": WTF Public License 2.0 + MIT License
+  "MIT License": WTF Public License 2.0 + MIT License

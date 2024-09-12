@@ -1,0 +1,16 @@
+canonicalName: GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)
+category: FDL-GCC-runtime
+shortName: FDL-1.2-GCC-Runtime-Exception-3.1
+
+type: expression
+
+spdxExpression: "[GNU Free Documentation License 1.2] WITH [GCC Runtime Library Exception 3.1]"
+
+alternativeNames:
+  - "GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)"
+
+representedAs: GNU Free Documentation License 1.2
+
+combinedWith:
+  "GNU Free Documentation License 1.2": GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)
+  "GCC Runtime Library Exception 3.1": GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)

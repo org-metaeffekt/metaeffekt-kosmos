@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 3.0 (or any later version; with Cygwin Exception (GPL 3.0+))
+category: GPL-3.0++Cygwin
+shortName: GPL-3.0+-Cygwin-Exception-3.0+
+
+type: expression
+
+displayName: GNU General Public License 3.0 (or any later version; with Cygwin Exception)
+
+combinedWith:
+  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Cygwin Exception (GPL 3.0+))"
+  "Cygwin Exception (GPL 3.0+)": "GNU General Public License 3.0 (or any later version; with Cygwin Exception (GPL 3.0+))"
+  
+
+  

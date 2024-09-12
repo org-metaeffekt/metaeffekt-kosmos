@@ -1,0 +1,20 @@
+canonicalName: US Government Grant of Unlimited Rights
+category: US Government Grant of Unlimited Rights
+shortName: US-Gov-Unlimited-Rights
+
+otherIds:
+  - "scancode:us-govt-unlimited-rights"
+
+alternativeNames:
+  - "US Government Grant of Unlimited Rights"
+
+evidence:
+  matches:
+    - "Under contracts , the U.S. Government obtained
+       unlimited rights in the software and documentation contained herein"
+    - "Unlimited rights are defined in DFAR 252.227-7013(a)(19)"
+    - "By making this public release, the Government intends to confer upon all
+       recipients unlimited rights  equal to those held by the Government"
+    - "These rights include rights to use, duplicate, release or disclose the
+       released technical data and computer software in whole or in part, in
+       any manner and for any purpose whatsoever, and to have or permit others to do so"

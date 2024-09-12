@@ -1,0 +1,25 @@
+canonicalName: Ubuntu Font License 1.0
+category: Ubuntu Font License
+shortName: Ubuntu-Font-1.0
+
+otherIds:
+  - "scancode:ubuntu-font-1.0"
+
+classification: restricted free
+
+alternativeNames:
+  - "Ubuntu Font License"
+  - "Ubuntu Font Licence"
+  - "UBUNTU FONT LICENCE Version 1.0"
+
+canonicalNameHistory:
+  - "Ubuntu Font Licence 1.0"
+
+evidence:
+  matches:
+    - "Each copy of the Font Software must contain the above copyright
+       notice and this licence"
+    - "These can be included either as stand-alone text files, human-readable
+       headers or in the appropriate machine-readable metadata fields within text
+       or binary files as long as those fields can be easily viewed by the user"
+    - "This licence becomes null and void if any of the above conditions are not met"

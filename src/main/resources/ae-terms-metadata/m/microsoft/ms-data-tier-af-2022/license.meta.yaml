@@ -1,0 +1,15 @@
+canonicalName: Microsoft Software License (Data-Tier Application Framework)
+category: Microsoft Software
+shortName: MS-Data-Tier-AF-2022
+
+otherIds:
+  - "scancode:ms-data-tier-af-2022"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices to design, develop and test your programs"
+    - "You may copy and distribute the object code form of the software (\"Distributable Code\") in programs you develop"
+    - "use Microsoft's trademarks in your programs' names or in a way that suggests your programs come from or are endorsed by Microsoft"
+    - "reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation"
+    - "You must comply with all domestic and international export laws and regulations that apply to the software"
+    - "MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS"

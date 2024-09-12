@@ -1,0 +1,23 @@
+canonicalName: mod_dav License Agreement 1.0
+category: mod_dav License Agreement
+shortName: mod-dav-1.0
+
+otherIds:
+  - "scancode:mod-dav-1.0"
+
+alternativeNames:
+  - "http://www.webdav.org/mod_dav/license-1.html"
+  - "mod_dav License Agreement v1"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions
+       and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+       and the following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "All advertising materials mentioning features or use of this software must display the following acknowledgment"
+    - "This product includes software developed by Greg Stein <gstein@lyra.org> for use in the mod_dav module for Apache
+       (http://www.webdav.org/mod_dav/)"
+    - "Products derived from this software may not be called 'mod_dav' nor may 'mod_dav' appear in their names
+       without prior written permission of Greg Stein"
+

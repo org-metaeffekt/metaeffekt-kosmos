@@ -1,0 +1,33 @@
+canonicalName: Excelsior JET Runtime License
+category: Excelsior JET Runtime License
+shortName: Excelsior-JET-Runtime
+
+otherIds:
+  - "scancode:excelsior-jet-runtime"
+
+alternativeNames:
+  - "excelsior-jet-runtime"
+
+evidence:
+  matches:
+    - "Use of the Runtime Components in devices other than General Purpose Desktop Computers And
+       Servers is not allowed under this Agreement"
+    - "Please contact Excelsior for the conditions of such use"
+    - "You may use the Runtime Components in Your applications legally developed under the Development
+       License above for internal business purposes, which may include third party customers’ access to or use of such
+       applications"
+    - "You may redistribute the Runtime Components on the following conditions:
+       You agree to: a. distribute the Runtime Components in object code form only and in conjunction with and as a part
+       of Your software product legally developed under the Development License above; b. not suppress, alter, or remove
+       proprietary rights notices contained therein; c. indemnify, hold harmless, and defend Excelsior and its suppliers from
+       and against any claims or lawsuits, including attorney’s fees, that arise or result from the use or distribution of Your
+       software product; and d. ensure that Your distributors and customers agree to act in a manner consistent with Your
+       obligations under this Agreement"
+    - "Your license agreement with Your distributors and/or customers will: a. not permit Your end users to modify,
+       translate, reverse engineer, decompile, or disassemble the Runtime Components except as expressly permitted by law;
+       b. not permit further distribution of the Runtime Components by end users. c. include statements that Your product: (i)
+       is licensed not sold, and that title to such offering is not passed to the customer, (ii) may include material licensed by a
+       third party, and that You have assumed responsibility for the presence and use of this material; and (iii) comply with the
+       requirements of Section H 'Limited Warranty' as appropriate"
+    - "The runtime license fees applicable to Production Use and Redistribution Use are detailed at
+       http://www.excelsior-usa.com/fees.html"

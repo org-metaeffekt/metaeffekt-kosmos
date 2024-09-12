@@ -1,0 +1,23 @@
+canonicalName: QLogic Firmware License
+category: QLogic Firmware
+shortName: QLogic-Firmware
+
+otherIds:
+  - "scancode:qlogic-firmware"
+
+alternativeNames:
+  - "QLogic Firmware License"
+  - "QLogic Linux Intelligent Ethernet (3000 and 3100 Series) Adapter Firmware"
+
+evidence:
+  matches:
+    - "Redistribution and use in binary form, without modification, for use in
+       conjunction with QLogic authorized products is permitted provided that the
+       following conditions are met"
+    - "The name of QLogic Corporation may not be used to endorse or promote products
+       derived from this software without specific prior written permission"
+    - "Reverse engineering, decompilation, or disassembly of this firmware is not permitted"
+
+
+
+

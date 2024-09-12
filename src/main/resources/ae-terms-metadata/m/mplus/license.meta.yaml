@@ -1,0 +1,17 @@
+canonicalName: mplus Font License
+category: mplus
+spdxIdentifier: mplus
+
+otherIds:
+  - "scancode:m-plus"
+
+alternativeNames:
+  - "mplus Font License"
+  - "m-plus License"
+
+evidence:
+  matches:
+    - "These fonts are free softwares"
+    - "Unlimited permission is granted to use, copy, and distribute it, with or
+       without modification, either commercially and noncommercially"
+    - "THESE FONTS ARE PROVIDED 'AS IS' WITHOUT WARRANTY"

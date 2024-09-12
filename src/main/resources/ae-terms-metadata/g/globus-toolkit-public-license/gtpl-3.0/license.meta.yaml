@@ -1,0 +1,26 @@
+canonicalName: Globus Toolkit Public License 3.0
+category: Globus Toolkit Public License
+shortName: GTPL-3.0
+
+otherIds:
+  - "scancode:gtpl-v3"
+
+alternativeNames:
+  - "Globus Toolkit Public License (GTPL) v3"
+  - "Globus(R) Toolkit Public License Version 3, March 2005"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form"
+    - "If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed"
+    - "You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions"
+    - "You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works"
+    - "You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License"
+    - "Unless required by applicable law or agreed to in writing, Licensor and the U.S. Government provide the Work (and each Contributor provides its Contributions) on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE"
+    - "In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor or the U.S. Government be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor or the U.S. Government has been advised of the possibility of such damages"
+    - "To apply the Globus Toolkit Public License to your work, attach the following boilerplate notice, with the fields enclosed by brackets \"[ ]\" replaced with your own identifying information"
+
+references:
+  "Apache License":
+    matches:
+      - "This license is identical to the Apache License, Version 2.0, January 2004, http://www.apache.org/licenses/LICENSE-2.0, except for the addition of an explicit U.S. Government disclaimer and limitation of liability in paragraphs 7 and 8."

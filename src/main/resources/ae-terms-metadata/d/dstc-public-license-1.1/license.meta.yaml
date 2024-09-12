@@ -1,0 +1,68 @@
+canonicalName: DSTC Public License 1.1
+category: DSTC Public License
+shortName: DSTC-Public-License-1.1
+
+otherIds:
+  - "scancode:dpl-1.1"
+
+alternativeNames:
+  - "Distributed Systems Technology Centre Public License 1.1"
+  - "DSTC Public License (DPL) Version 1.1"
+
+requiresSourceCodeProvision: true
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license,
+       subject to third party intellectual property claims"
+    - "under Patents Claims infringed by the making, using or selling of Original Code, to make,
+       have made, use, practice, sell, and offer for sale, and/or otherwise dispose of the Original
+       Code (or portions thereof)"
+    - "under intellectual property rights (other than patent or trademark) Licensable by Contributor,
+       to use, reproduce, modify, display, perform, sublicense and distribute the Modifications created
+       by such Contributor (or portions thereof) either on an unmodified basis, with other Modifications,
+       as Covered Code and/or as part of a Larger Work"
+    - "The Source Code version of Covered Code may be distributed only under the terms of this License
+       or a future version of this License released under Section 6.1, and You must include a copy of
+       this License with every copy of the Source Code You distribute"
+    - "Any Modification which You create or to which You contribute must be made available in Source Code
+       form under the terms of this License either on the same media as an Executable version or via an
+       accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available"
+    - "If Contributor has knowledge that a license under a third party's intellectual property rights is
+       required to exercise the rights granted by such Contributor under Sections 2.1 or 2.2, Contributor
+       must include a text file with the Source Code distribution titled \"LEGAL\" which describes the claim
+       and the party making the claim in sufficient detail that a recipient will know whom to contact"
+    - "You must duplicate the notice in Exhibit A in each file of the Source Code"
+    - "You may distribute Covered Code in Executable form only if the requirements of Section 3.1-3.5
+       have been met for that Covered Code, and if You include a notice stating that the Source Code
+       version of the Covered Code is available under the terms of this License, including a description
+       of how and where You have fulfilled the obligations of Section 3.2"
+    - "This License applies to code to which the Initial Developer has attached the notice in Exhibit A
+       and to related Covered Code"
+    - "The Distributed Systems Technology Centre (\"DSTC\") may publish revised and/or new versions
+       of the License from time to time"
+    - "If You create or use a modified version of this License (which you may only do in order to apply
+       it to code which is not already Covered Code governed by this License), You must (a) rename Your
+       license so that the phrases \"DSTC\", \"DPL\" or any confusingly similar phrase do not appear in
+       your license (except to note that your license differs from this License) and (b) otherwise make
+       it clear that Your version of the license contains terms which differ from the DSTC Public License"
+    - "COVERED CODE IS PROVIDED UNDER THIS LICENSE ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND,
+       EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE COVERED CODE IS
+       FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING"
+    - "UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT,
+       OR OTHERWISE, SHALL YOU, THE INITIAL DEVELOPER, ANY OTHER CONTRIBUTOR, OR ANY DISTRIBUTOR OF
+       COVERED CODE, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO ANY PERSON FOR ANY INDIRECT,
+       SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION,
+       DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL
+       OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY
+       OF SUCH DAMAGES"
+    - "The Software is not fault-tolerant and is not designed, manufactured or intended for use or
+       resale as on-line control equipment in hazardous environments requiring fail-safe performance,
+       such as in the operation of nuclear facilities, aircraft navigation or communication systems,
+       air traffic control, direct life support machines, or weapons systems, in which the failure of
+       the Software could lead directly to death, personal injury, or severe physical or environmental damage"
+  excludes:
+    - "''Source Tree'' means the whole Source Code or parts of the Source Code which are contained in a single
+       directory or in a hierarchy of directories"

@@ -1,0 +1,28 @@
+canonicalName: Permission Terms (AMD)
+category: Permission
+spdxIdentifier: AMD-newlib
+
+canonicalNameHistory:
+  - "Permission Terms PVar19"
+  - "Permission Terms (property; variant 001)"
+
+otherIds:
+  - "scancode:amd-historical"
+
+alternativeNames:
+  - "AMD newlib License"
+
+displayName: Permission Terms (no warranty)
+representedAs: Permission Terms
+
+evidence:
+  matches:
+  - "This software is the property of * which
+     specifically grants the user the right to modify, use and distribute this
+     software provided this notice is not removed or altered"
+  - "All other rights are reserved"
+  - "MAKES NO WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, WITH REGARD TO THIS
+     SOFTWARE"
+  - "IN NO EVENT SHALL * BE LIABLE FOR *
+     DAMAGES IN CONNECTION WITH OR ARISING FROM THE FURNISHING, PERFORMANCE, OR
+     USE OF THIS SOFTWARE"

@@ -1,0 +1,25 @@
+canonicalName: VVVVVV Source Code License 1.0
+category: VVVVVV Source Code License
+shortName: vvvvvv-scl-1.0
+
+otherIds:
+  - "scancode:vvvvvv-scl-1.0"
+
+classification: proprietary free
+
+alternativeNames:
+  - "VVVVVV Source Code License 1.0"
+
+evidence:
+  matches:
+    - "You may not alter or redistribute this software in any manner that is primarily intended for or directed
+       toward commercial advantage or private monetary compensation"
+    - "This includes, but is not limited to, selling altered or unaltered versions of this software, or including
+       advertisements of any kind in altered or unaltered versions of this software"
+    - "The origin of this software must not be misrepresented; you must not claim that you wrote the original software"
+    - "If you use this software in a product, you are required to include an acknowledgement in the product that this
+       software is the copyright of Terry Cavanagh and is based on the VVVVVV source code"
+    - "Altered source/binary versions must be plainly marked as such, and must not be misrepresented as
+       being the original software"
+    - "You must not distribute any materials from the game which are not included in this repo unless approved by us in writing"
+    - "This notice may not be removed or altered from any source/binary distribution"

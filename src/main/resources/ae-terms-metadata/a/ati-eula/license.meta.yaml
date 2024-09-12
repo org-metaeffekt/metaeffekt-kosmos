@@ -1,0 +1,48 @@
+canonicalName: ATI Software End User License Agreement
+category: ATI Software End User License Agreement
+shortName: ATI-EULA
+
+otherIds:
+  - "scancode:ati-eula"
+
+alternativeNames:
+  - "http://www.amd.com/us/pages/amdhomepage.aspx"
+  - "ati-eula"
+
+evidence:
+  matches:
+    - "Regardless of the media upon which it is distributed, the Software  is
+       licensed to you for use solely in conjunction with ATI hardware products  to
+       which the Software relates ('ATI Hardware')"
+    - "You own the medium on which the Software is recorded, but ATI and,  if
+       applicable,  its  licensors  retain  title  to  the  Software  and   related
+       documentation"
+    - "You may: i) use the Software solely in  connection  with  the  ATI  Hardware  on  a
+       single computer; ii) make one copy of the Software  in  machine-readable  form  for  backup
+       purposes only. You must reproduce on such copy ATI's copyright notice and
+       any other proprietary legends that were  on  the  original  copy  of  the Software;
+       iii) transfer all your license rights in the Software  provided  you  must
+       also transfer a copy of this License, the backup copy  of  the  Software,
+       the ATI Hardware and the related documentation  and  provided  the  other
+       party reads and agrees  to  accept  the  terms  and  conditions  of  this
+       License.  Upon such transfer your license rights are then terminated"
+    - "In addition to the license terms above, with respect  to  portions  of
+       the Software in source code or binary  form  designed  exclusively  for  use
+       with the Linux operating system ('ATI Linux Code'), you  may  use,  display,
+       modify, copy, distribute, allow others to  re-distribute,  package  and  re-
+       package such ATI Linux Code  for  commercial  and  non-commercial  purposes,
+       provided that: i) all binary components of the ATI Linux Code are not  modified  in  any
+       way; ii) the ATI Linux Code is only used  as  part  of  the  Software  and  in
+       connection with ATI Hardware; iii) all copyright notices of ATI are reproduced and you refer
+       to  these license terms; iv) you  may  not  offer  or  impose any terms on the use  of  ATI  Linux
+       Code that alter or restrict this License; and
+       v) if you have modified the ATI Linux Code, such  modifications  will  be
+       made publicly available and are licensed under the  same  terms  provided
+       herein to ATI or any  other  third  party  without  further  restriction,
+       royalty or any other license requirement;
+       vi) to  the  extent  there  is  any ATI sample or  control  panel  source
+       code included in the ATI Linux Code, no rights are granted to modify such
+       code except for portions thereof that  may  be  subject  to  third  party
+       license terms that grant such rights; and
+       vii) ATI is not obligated to provide any maintenance or technical support
+       for any code resulting from ATI Linux Code"

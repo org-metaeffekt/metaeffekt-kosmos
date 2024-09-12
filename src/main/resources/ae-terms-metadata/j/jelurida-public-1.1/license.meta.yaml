@@ -1,0 +1,42 @@
+canonicalName: Jeulurida Public License 1.1
+category: Jeulurida Public License
+shortName: Jelurida-Public-1.1
+
+otherIds:
+  - "scancode:jelurida-public-1.1"
+
+alternativeNames:
+  - "Jeulurida Public License 1.1"
+  - "JELURIDA PUBLIC LICENSE"
+
+evidence:
+  matches:
+    - "The existent copyleft licensing models were designed to protect the value of the
+       code which is created in open source projects. They make sure anyone who builds
+       on top of this code also releases their code under the same copyleft license,
+       thus sharing back with the community and the developers of the original project
+       the added value of the derived work"
+    - "Copyleft licenses however were created long before crypto currency and
+       blockchain technologies appeared, and could not have anticipated the fact that
+       today the value of an open source distributed ledger project is contained not
+       only in the program code being written, but in the unique public blockchain
+       instance or crypto currency token, maintained by this project, with its
+       developers, community and holders sharing the common interest to preserve and
+       increase the value of this blockchain token"
+    - "Crypto currency tokens are also an inseparable part of each distributed ledger
+       software, without which such software cannot really be used. Ensuring that a
+       clone project shares back the modified source code is no longer sufficient to
+       allow the users of the original project access to that derived work, unless they
+       are also allocated some of the newly created tokens in the clone blockchain
+       instance. Thus such allocation is important in order to preserve not only the
+       value of the original tokens, but also to preserve the users freedom to use any
+       works derived from the original software"
+    - "With the above being said, the terms and conditions for using, copying and
+       modification of distributed ledger software programs are outlined below, called
+       the Jelurida Public License (JPL). The JPL is inspired by the GNU General Public
+       License versions 2 and 3, with adaptations specifically aimed at application of
+       the license to distributed ledger software programs; as such the GNU General
+       Public License and any other license terms and conditions other than this JPL
+       are explicitly excluded"
+    - "This Jelurida Public License (JPL) consisting of both General Conditions and
+       Special Conditions"

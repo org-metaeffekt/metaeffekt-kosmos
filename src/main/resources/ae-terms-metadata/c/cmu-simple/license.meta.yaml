@@ -1,0 +1,20 @@
+canonicalName: Carnegie Mellon Simple License
+category: Carnegie Mellon Simple License
+shortName: CMU-Simple
+
+otherIds:
+  - "scancode:cmu-simple"
+
+alternativeNames:
+  - "cmu-simple"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software and its
+       documentation is hereby granted, provided that the above copyright
+       notice appears in all copies"
+    - "This software is provided without any warranty, express or implied"
+  excludes:
+    - "IN NO EVENT SHALL THE AUSTRALIAN NATIONAL UNIVERSITY BE LIABLE"
+
+

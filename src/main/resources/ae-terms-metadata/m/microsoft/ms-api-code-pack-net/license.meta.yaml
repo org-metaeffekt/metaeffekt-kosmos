@@ -1,0 +1,17 @@
+canonicalName: Microsoft Windows API Code Pack for Microsoft .NET Framework License
+category: Microsoft Windows API Code Pack for Microsoft .NET Framework License
+shortName: Ms-Windows-API-Code-Pack-NET-Framework
+
+otherIds:
+  - "scancode:ms-api-code-pack-net"
+
+alternativeNames:
+  - "MICROSOFT WINDOWS API CODE PACK FOR MICROSOFT .NET FRAMEWORK"
+
+evidence:
+  matches:
+    - "You may use any number of copies of the software to design, develop and test your programs that run on a Microsoft Windows operating system"
+    - "You may modify, copy, and distribute the software, in source or compiled form, to run on a Microsoft Windows operating system"
+    - "if you modify the software and distribute such modified files, include prominent notices in such modified files so that recipients know that they are not receiving the original software"
+    - "use Microsoft’s trademarks in your programs’ names or in a way that suggests your programs come from or are endorsed by Microsoft"
+    - "If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort"

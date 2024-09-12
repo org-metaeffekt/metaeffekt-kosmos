@@ -1,0 +1,13 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Unmodified Binary Distribution Exception (GPL))
+category: GPL+Unmodified Binary Distribution Exception
+shortName: GPL-2.0+-UBDL-Exception
+
+type: expression
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+displayName:
+  "GNU General Public License 2.0 (or any later version; with Unmodified Binary Distribution Exception)"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Unmodified Binary Distribution Exception (GPL))
+  Unmodified Binary Distribution Exception (GPL): GNU General Public License 2.0 (or any later version; with Unmodified Binary Distribution Exception (GPL))

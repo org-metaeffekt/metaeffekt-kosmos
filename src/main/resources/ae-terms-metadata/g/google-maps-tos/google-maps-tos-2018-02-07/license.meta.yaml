@@ -1,0 +1,31 @@
+canonicalName: Google Maps Platform Terms of Service 2018-02-07
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2018-02-07
+
+otherIds:
+  - "scancode:google-maps-tos-2018-02-07"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2018-02-07"
+
+evidence:
+  matches:
+    - "Google may provide you with notices, including those regarding changes to the Terms, by email, regular mail,
+       or postings on the Service"
+    - "Google may assign any part of this agreement without written consent"
+    - "Google will not be treated as having waived any rights by not exercising (or delaying the exercise of) any
+       rights under these Terms"
+    - "A waiver will be effective only if Google expressly states in a writing signed by an authorized representative
+       that Google is waiving a specified Term"
+    - "Google’s affiliates and the Indemnified Parties are third-party beneficiaries to the Terms and are entitled to
+       directly enforce, and rely on, any Terms that confer a right or benefit to them"
+    - "There are no other third-party beneficiaries to the Terms"
+    - "These Terms set out all terms agreed between the parties and supersede all other agreements between the parties
+       relating to its subject matter"
+    - "If any term (or part of a term) of these Terms is invalid, illegal or unenforceable, the rest of the Terms
+       will remain in effect"
+    - "You understand and agree that damages for improper use of the Maps API(s) may be irreparable; therefore,
+       Google is entitled to seek equitable relief, including injunctions in any jurisdiction, in addition to all
+       other remedies it may have"
+    - "If these Terms are translated into any other language, and there is a discrepancy between the English text
+       and the translated text, the English text will govern"

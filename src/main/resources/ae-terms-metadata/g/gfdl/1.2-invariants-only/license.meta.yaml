@@ -1,0 +1,19 @@
+canonicalName: GNU Free Documentation License 1.2 (invariants)
+category: GFDL
+spdxIdentifier: GFDL-1.2-invariants-only
+shortName: GFDL-1.2-invariants
+
+baseTerms: GNU Free Documentation License 1.2
+
+expectedSpdxMatches:
+  - "GNU Free Documentation License 1.2"
+
+# NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
+
+alternativeNames:
+  - "GFDL-1.2-invariants-only"
+  - "GNU Free Documentation License v1.2 only - invariants"
+  - "GFDL v1.2 invariants"
+  - "GFDL, v1.2 invariants"
+  - "GFDL 1.2 invariants"
+  - "GFDL 1.2 invariants-only"

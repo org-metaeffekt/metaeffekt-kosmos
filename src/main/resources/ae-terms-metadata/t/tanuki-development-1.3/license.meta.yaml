@@ -1,0 +1,99 @@
+canonicalName: Tanuki Development Software License Agreement 1.3
+category: Tanuki Development
+shortName: Tanuki-Development-1.3
+
+otherIds:
+  - "scancode:tanuki-development"
+
+alternativeNames:
+  - "Tanuki Software, Ltd. Development Software License Agreement Version 1.3"
+
+#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
+ignoreMatches:
+  - "MIT License"
+  - "Permission Terms (variant 069)"
+
+evidence:
+  matches:
+    - "Effective upon the payment of the license fees presented in Exhibit 1, TSI grants to Licensee a non-exclusive, non-transferable, non-sublicensable right and license to use, reproduce, display, sell, lease, distribute and transfer copies, directly or indirectly, of the Software Program and documentation, in executable code form only, as parts of Licensee Products within the Product Group(s) defined in Exhibit 1, for the purposes of marketing such Products to Licensee customers and for internal development of Products, during the period Licensee's subscription of the TSIMS"
+    - "Licensee may not, under any circumstances, distribute or resell the Software Program as a stand-alone product, nor use the Software Program to create any Product to directly compete with the Software Program"
+    - "Where the Licensee qualifies as a Small Business, as defined in Section 2.5, the Product Group restriction is removed and all Licensee Products will be covered by this agreement"
+    - "Licensee shall be solely responsible for all marketing, manufacturing, packaging, documentation production, distribution and customer pricing of the Products, and ensure that the Products and Licensee's such activities shall be in compliance with the applicable laws and regulations"
+    - "Except as otherwise provided in this Agreement, Licensee shall also assume all responsibility and liability to customers for related support and assistance"
+    - "Neither the Software Program nor Product may be modified, nor in any way obfuscate or obstruct the copyright notice and license information displayed in the console and log files by the Software Program on startup"
+    - "Licensee acknowledges that all copyrights in the Software Program and the goodwill associated therewith are vested in and belong to TSI"
+
+references:
+  "GPL":
+    matches:
+      - "Licensor represents and warrants that the Program does not contain any
+         code subject to the GNU General Public License (\"GPL\"), GNU Lesser
+          GPL, \"copyleft\" license, or any other license that requires as a
+          condition of use, modification and/or distribution of such code that
+          other software incorporated into, derived from, or distributed with
+          such code be (i) disclosed or distributed in Source Code Program form;
+          (ii) licensed for the purpose of making derivative works; or (iii)
+          redistributable at no charge"
+  "LGPL":
+    matches:
+      - "Licensor represents and warrants that the Program does not contain any
+       code subject to the GNU General Public License (\"GPL\"), GNU Lesser
+        GPL, \"copyleft\" license, or any other license that requires as a
+        condition of use, modification and/or distribution of such code that
+        other software incorporated into, derived from, or distributed with
+        such code be (i) disclosed or distributed in Source Code Program form;
+        (ii) licensed for the purpose of making derivative works; or (iii)
+        redistributable at no charge"
+
+mappings:
+  "Licensor represents and warrants that the Program does not contain anyNEWLINE-MARKERcode subject to the GNU General Public License \\(\"GPL\"\\), GNU LesserNEWLINE-MARKERGPL, \"copyleft\" license, or any other license that requires as aNEWLINE-MARKERcondition of use, modification and/or distribution of such code thatNEWLINE-MARKERother software incorporated into, derived from, or distributed withNEWLINE-MARKERsuch code be \\(i\\) disclosed or distributed in Source Code Program form;": " LICENSE-SEGMENT-MARKER Licensor represents and warrants that the Program does not contain anyNEWLINE-MARKERcode subject to the GNU General Public License (\"GPL\"), GNU LesserNEWLINE-MARKERGPL, \"copyleft\" license, or any other license that requires as aNEWLINE-MARKERcondition of use, modification and/or distribution of such code thatNEWLINE-MARKERother software incorporated into, derived from, or distributed withNEWLINE-MARKERsuch code be (i) disclosed or distributed in Source Code Program form;"
+
+segmentation:
+  revert: [
+    { match: "BY INSTALLING, COPYING, DOWNLOADING OR USING THE SOFTWARE, YOU, ON BEHALF OF YOURSELF AND/OR THE BUSINESS YOU REPRESENT, AGREE TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS AGREEMENT INCLUDING ALL TERMS AND CONDITIONS INCORPORATED HEREIN BY REFERENCE. The Licensee may optionally request that this agreement be signed by both parties: License Agreement Number: TSILA-____________",
+
+      matchNext: "Pursuant to this DEVELOPMENT SOFTWARE LICENSE AGREEMENT (the \"Agreement\") dated this __th day of ______, 20__ (the \"Effective Date\"), _____________________ (\"Licensee\") and Tanuki Software, Ltd. (\"TSI\") agree to the following terms and conditions"
+
+    },
+    { match: "All amounts payable are gross amounts but exclusive only of any value added tax, sales tax or their equivalent. If any such tax is or will be chargeable, the Licensee shall pay the tax to the Licensor and the Licensor shall provide the Licensee with a tax invoice that meets all conditions necessary to allow the Licensee to reclaim such tax. If according to applicable law or regulations the Licensee is liable for any such tax, the Licensee will account for or pay the tax to the tax authorities. Each Party is responsible for all taxes (including, but not limited to, taxes based upon its income) or levies imposed on it under applicable laws, regulations and tax treaties as a result of this agreement. In the event that a withholding tax is payable, and the Licensee is required to deduct the withholding tax from the payment to the Licensor as required under applicable laws, regulations and tax treaties, the Licensee agrees to furnish evidence of such paid taxes to the Licensor as is sufficient to enable the Licensor to obtain any tax credits available to it. Such evidence must be translated into English or Japanese and be provided with the original, unless approved by the Licensor in writing.",
+      
+      matchNext: "IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their respective duly authorized representatives. LICENSEE TSI __________________________ By: ______________________________ Department name Title: ___________________________ __________________________ Date: ____________________________ Licensee's Authorized Signature ___________________________ Typed or Printed Name ___________________________ Title: ___________________________ Date: ___________________________ Street Address ___________________________ City or Town ___________________________ State or Province ___________________________ Zip Code ___________________________ Country ___________________________"
+    
+    },
+    { match: "IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their respective duly authorized representatives. LICENSEE TSI __________________________ By: ______________________________ Department name Title: ___________________________ __________________________ Date: ____________________________ Licensee's Authorized Signature ___________________________ Typed or Printed Name ___________________________ Title: ___________________________ Date: ___________________________ Street Address ___________________________ City or Town ___________________________ State or Province ___________________________ Zip Code ___________________________ Country ___________________________",
+      
+      matchNext: "EXHIBIT 1 Licensed Software: Java Service Wrapper version ____, __________ Edition __ Bit Licensed Operating System and Hardware Platform: All platforms Licensed Software Commercial Restrictions: None Licensed Software Use: Bundle Development / Deployment. Licensed Software Use Location: Bundle Development/Deployment Worldwide Authorized Number of Users: Unlimited Licensee Small Business Status: [ ] Small Business [ X ] N/A Licensee Product Group(s) Covered by this Agreement: FEES: Software License + first year of TSIMS $ TSIMS for year 2 and onward will be priced at 25% of the then current price of a new Software License. [ ] TSIMS for year 2 and later will be automatically invoiced one month prior to TSIMS expiring unless previously notified in writing of a request not to renew. [ X ] TSIMS for year 2 and later will be invoiced on request. Requests made after TSIMS has expired will be at 125% of the regular price. (Services) None"
+    
+    },
+    { match: "EXHIBIT 1 Licensed Software: Java Service Wrapper version ____, __________ Edition __ Bit Licensed Operating System and Hardware Platform: All platforms Licensed Software Commercial Restrictions: None Licensed Software Use: Bundle Development / Deployment. Licensed Software Use Location: Bundle Development/Deployment Worldwide Authorized Number of Users: Unlimited Licensee Small Business Status: [ ] Small Business [ X ] N/A Licensee Product Group(s) Covered by this Agreement: FEES: Software License + first year of TSIMS $ TSIMS for year 2 and onward will be priced at 25% of the then current price of a new Software License. [ ] TSIMS for year 2 and later will be automatically invoiced one month prior to TSIMS expiring unless previously notified in writing of a request not to renew. [ X ] TSIMS for year 2 and later will be invoiced on request. Requests made after TSIMS has expired will be at 125% of the regular price. (Services) None",
+      
+      matchNext: "EXHIBIT 2 End User License Terms / Copyright Notice All End User Licenses shall include provisions that:"
+    
+    },
+    { match: "EXHIBIT 2 End User License Terms / Copyright Notice All End User Licenses shall include provisions that:",
+      
+      matchNext: "(1) the End User is granted only a personal, nontransferable, and nonexclusive right to use the software only for personal use of the End User;"
+    
+    },
+    { match: "(1) the End User is granted only a personal, nontransferable, and nonexclusive right to use the software only for personal use of the End User;",
+      
+      matchNext: "(2) Licensee and/or its licensors retain all of their intellectual property rights in the software, and no title to such intellectual property is transferred to the End User;"
+    
+    },
+    { match: "(2) Licensee and/or its licensors retain all of their intellectual property rights in the software, and no title to such intellectual property is transferred to the End User;",
+      
+      matchNext: "(3) the End User agrees not to reverse assemble, decompile, or otherwise attempt to derive source code from the TSI software;"
+    
+    },
+    { match: "(3) the End User agrees not to reverse assemble, decompile, or otherwise attempt to derive source code from the TSI software;",
+      
+      matchNext: "(4) Licensee's licensors shall not be liable to the End User for any indirect, consequential, incidental or special damages arising out of the use or license of the software, regardless of the theory of liability (including negligence and strict liability); and"
+    
+    },
+    { match: "(4) Licensee's licensors shall not be liable to the End User for any indirect, consequential, incidental or special damages arising out of the use or license of the software, regardless of the theory of liability (including negligence and strict liability); and",
+      
+      matchNext: "(5) Licensee and/or its licensors will have the right to terminate the license at any time in the event the End Users misuses the software; and A section concerning 3rd party components shall be provided, in all End User licenses, which contains at least the following: The Software Program includes software and documentation components developed in part by Silver Egg Technology, Inc.(\"SET\") prior to 2001 and released under the following license. Copyright (c) 2001 Silver Egg Technology Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sub-license, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software."
+    
+    }
+
+  ]

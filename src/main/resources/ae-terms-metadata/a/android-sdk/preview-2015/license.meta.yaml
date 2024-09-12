@@ -1,0 +1,28 @@
+canonicalName: Android SDK Preview License Agreement
+category: Android SDK Preview
+shortName: Android-SDK-Preview
+
+otherIds:
+  - "scancode:android-sdk-preview-2015"
+
+alternativeNames:
+  - "Android SDK Preview License Agreement"
+
+evidence:
+  matches:
+    - "In order to use the Preview, you must first agree to the License Agreement.
+       You may not use the Preview if you do not accept the License Agreement"
+    - "By clicking to accept and/or using the Preview, you hereby agree to the
+       terms of the License Agreement"
+    - "You may not use the Preview and may not accept the License Agreement if you
+       are a person barred from receiving the Preview under the laws of the United
+       States or other countries including the country in which you are resident or
+       from which you use the Preview"
+    - "If you will use the Preview internally within your company or organization
+       you agree to be bound by the License Agreement on behalf of your employer or
+       other entity, and you represent and warrant that you have full legal authority
+       to bind your employer or such entity to the License Agreement. If you do not
+       have the requisite authority, you may not accept the License Agreement or use
+       the Preview on behalf of your employer or other entity"
+  excludes:
+    - "the terms at https://developer.android.com/guide/playcore/license"

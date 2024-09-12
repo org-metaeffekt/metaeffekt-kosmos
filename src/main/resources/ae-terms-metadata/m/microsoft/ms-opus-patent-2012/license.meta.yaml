@@ -1,0 +1,17 @@
+canonicalName: Microsoft Opus Patent Terms 2012
+category: Microsoft Opus Patent Terms
+shortName: ms-opus-patent-2012
+
+otherIds:
+  - "scancode:ms-opus-patent-2012"
+
+alternativeNames:
+  - "Microsoft Opus Patent Terms
+     11-7-2012"
+
+evidence:
+  matches:
+    - "If you own or control Necessary Claims, the licenses set forth in Section 1 are subject to and will become effective starting on the date that you make a binding public irrevocable commitment to license, on reasonable and non-discriminatory royalty-free licensing terms 1) your Necessary Decoder Claims to all implementers for Specification Implementations, and 2) your Necessary Reference Implementation Claims to all implementers for Code Implementations, where the terms of this Agreement satisfy any reciprocity requirements in your reasonable and non-discriminatory royalty-free licensing terms"
+    - "This license is directly from me to you and you acknowledge as a condition of benefiting from it that no rights from me are received from suppliers, distributors, or otherwise in connection with this license. This license is not an assurance (i) that any of my issued patent claims covers a Specification Implementation or Code Implementation or are enforceable or (ii) that a Specification Implementation or Code Implementation would not infringe intellectual property rights of any third party"
+    - "On behalf of me and my successors in interest and assigns, I agree to offer alternative reasonable and non-discriminatory royalty-bearing licensing terms 1) to my Necessary Decoder Claims solely for your Specification Implementation and 2) to my Necessary Reference Implementations Claims solely for your Code Implementation"
+    - "You may, at your option, continue to rely on the terms set forth in Skype’s past declarations made to the IETF for the Opus Audio Codec, subject to the terms of those declarations and in lieu of the terms of this Agreement solely for the patents set forth in those declarations"

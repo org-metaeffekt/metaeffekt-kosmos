@@ -1,0 +1,20 @@
+canonicalName: ej-technologies EULA
+category: ej-technologies EULA
+shortName: ej-technologies-EULA
+
+otherIds:
+  - "scancode:ej-technologies-eula"
+
+alternativeNames:
+  - "http://www.ej-technologies.com/buy/jprofiler/jprofiler_license.html"
+
+evidence:
+  matches:
+    - "The Software Product is owned by ej-technologies. It is licensed, not sold"
+    - "The Software Product is protected by copyright laws and international
+       copyright treaties, as well as other intellectual property laws and treaties"
+    - "ej-technologies reserves all intellectual property rights, including
+       copyrights and trademark rights"
+    - "According to your order, ej-technologies grants you a non-exclusive,
+       non-transferable license to use the Software Product under certain obligations
+       and limited rights as set forth in this agreement"

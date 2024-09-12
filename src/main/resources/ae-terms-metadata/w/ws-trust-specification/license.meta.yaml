@@ -1,0 +1,60 @@
+canonicalName: WS-Trust Specification
+category: WS-Trust Specification
+shortName: WS-Trust-Specification
+
+status:
+  - "reviewed 01.07.22"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+otherIds:
+  - "scancode:ws-trust-specification"
+
+alternativeNames:
+  - "WS-Trust Specification"
+
+evidence:
+  matches:
+    - "Permission to copy and display the WS-Trust Specification (the \"Specification\", which
+        includes WSDL and schema documents), in any medium without fee or royalty
+        is hereby granted, provided that you include the following on ALL copies of the
+        Specification, that you make"
+    - "The copyright notice as shown in the Specification"
+    - "A link or URL to the Specification at one of the Authors' websites"
+    - "The name and trademarks of the Authors may NOT be used in any manner,
+       including advertising or publicity pertaining to the Specification or
+       its contents without specific, written prior permission"
+    - "Title to copyright in the Specification will at all times remain with the Authors"
+  excludes:
+    - "THE AUTHORS WILL NOT BE LIABLE FOR ANY DIRECT,
+       INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR
+       RELATING TO ANY USE OR DISTRIBUTION OF THESE FILES"
+    
+licenseTemplate:
+  "<lq>Permission to copy and display the WS-Trust Specification (the \"Specification\", which
+    includes WSDL and schema documents), in any medium without fee or royalty
+    is hereby granted, provided that you include the following on ALL copies of the
+    Specification, that you make:
+    <ol><li>A link or URL to the Specification at one of the Authors' websites</li>
+    <li>The copyright notice as shown in the Specification.</li></ol>
+    <p>IBM, Microsoft and Actional, BEA, Computer Associates, Layer 7, Netegrity, Oblix,
+    OpenNetwork, Ping Identity, Reactivity, and Verisign (collectively, the \"Authors\") each
+    agree to grant you a license, under royalty-free and otherwise reasonable,
+    non-discriminatory terms and conditions, to their respective essential patent claims
+    that they deem necessary to implement the Specification.</p>
+    <codeph>THE SPECIFICATION IS PROVIDED \"AS IS,\" AND THE AUTHORS MAKE
+    NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT
+    NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+    PARTICULAR PURPOSE, NON-INFRINGEMENT, OR TITLE; THAT THE CONTENTS OF
+    THE SPECIFICATION ARE SUITABLE FOR ANY PURPOSE; NOR THAT THE
+    IMPLEMENTATION OF SUCH CONTENTS WILL NOT INFRINGE ANY THIRD PARTY
+    PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+    THE AUTHORS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL,
+    INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO ANY
+    USE OR DISTRIBUTION OF THE SPECIFICATION.</codeph>
+    <p>The name and trademarks of the Authors may NOT be used in any manner,
+    including advertising or publicity pertaining to the Specification or
+    its contents without specific, written prior permission. Title to
+    copyright in the Specification will at all times remain with the Authors.</p>
+    No other rights are granted by implication, estoppel or otherwise.</lq>"

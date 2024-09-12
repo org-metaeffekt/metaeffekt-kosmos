@@ -1,0 +1,53 @@
+canonicalName: Internet Computer Shared Community Source License 1.0
+category: Internet Computer
+shortName: Internet-Computer-Shared-1.0
+
+otherIds:
+  - "scancode:ic-shared-1.0"
+
+alternativeNames:
+  - "INTERNET COMPUTER SHARED COMMUNITY SOURCE LICENSE VERSION 1.0"
+
+evidence:
+  matches:
+    - "“Ethereum” is an open-source, blockchain-based, decentralized software
+          platform. \"Foundation\" shall mean DFINITY Stiftung"
+    - "Copyright Grant - Subject to the terms of this license, including the
+          license conditions and limitations in Section 3, each contributor grants you
+          a non-exclusive, worldwide, royalty-free copyright license to reproduce its
+          contribution, prepare derivative works of its contribution, and distribute
+          its contribution or any derivative works that you create"
+    - "Patent Grant - Subject to the terms of this license, including the
+          license conditions and limitations in Section 3, each contributor grants you
+          a non-exclusive, worldwide, royalty-free license under its licensed patents
+          to make, have made, use, sell, offer for sale, import, and/or otherwise
+          dispose of its contribution in the software or derivative works of the
+          contribution in the software"
+    - "Platform Limitation - The licenses granted in sections 2(A) and 2(B)
+          extend only to the software or derivative works that you create that run
+          directly on the Internet Computer platform or the Ethereum network"
+    - "DFINITY WILL NOT BE LIABLE FOR ANY DAMAGES RELATED TO THE SOFTWARE OR
+          THIS LICENSE, INCLUDING DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR
+          INCIDENTAL DAMAGES, TO THE MAXIMUM EXTENT THE LAW PERMITS, NO MATTER WHAT
+          LEGAL THEORY IT IS BASED ON (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR
+          DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR
+          A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF YOU OR
+          OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"
+
+references:
+  "Apache License":
+    matches:
+      - "A more permissive license may be in
+           particular understood as a license that sets asides the platform limitation
+           in section 3 (A) of this license. A more permissive license shall include in
+           particular the Apache License Version 2.0 (or future versions thereof) and
+           the MIT License. The decision on such a distribution under a more permissive
+           license is at the sole discretion of the Foundation"
+  "MIT":
+    matches:
+      - "A more permissive license may be in
+           particular understood as a license that sets asides the platform limitation
+           in section 3 (A) of this license. A more permissive license shall include in
+           particular the Apache License Version 2.0 (or future versions thereof) and
+           the MIT License. The decision on such a distribution under a more permissive
+           license is at the sole discretion of the Foundation"

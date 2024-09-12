@@ -1,0 +1,13 @@
+canonicalName: TeamDev Services License
+category: TeamDev Services License
+shortName: TeamDev-Services
+
+otherIds:
+  - "scancode:teamdev-services"
+
+alternativeNames:
+  - "https://www.teamdev.com/services"
+
+evidence:
+  matches:
+    - "Email us at sales@teamdev.com to request the estimate for your app"

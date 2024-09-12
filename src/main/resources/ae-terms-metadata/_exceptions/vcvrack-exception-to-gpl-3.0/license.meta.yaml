@@ -1,0 +1,27 @@
+canonicalName: VCV Rack Non-Commercial Plugin License Exception (GPL 3.0+)
+category: VCV Rack Non-Commercial Plugin License Exception
+shortName: VCV-Rack-Exception-GPL-3.0+
+
+type: exception
+
+# note: even though scancode says that it is an exception to the GPL-3.0 after looking at the official github of the project it turns out it is actually licensed under the GPL-3.0+
+otherIds:
+  - "scancode:vcvrack-exception-to-gpl-3.0"
+
+combinedWith:
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception)
+
+evidence:
+  matches:
+    - "A Plugin is defined as a software library intended to be linked and executed by this software"
+    - "You are granted the permission to use this software's Application Programming Interface (API) in your Plugin in source and binary forms, as well as link to this software with the Plugin, regardless of the Plugin's license terms even if it would otherwise violate the terms of this software's GPLv3, provided that the Plugin is distributed free of charge"
+    - "Derived works of this software may keep or omit this Exception"
+
+references:
+  "GPL":
+    matches:
+      - "VCV Rack Non-Commercial Plugin License Exception
+
+         A Plugin is defined as a software library intended to be linked and executed by this software.
+
+         You are granted the permission to use this software's Application Programming Interface (API) in your Plugin in source and binary forms, as well as link to this software with the Plugin, regardless of the Plugin's license terms even if it would otherwise violate the terms of this software's GPLv3, provided that the Plugin is distributed free of charge."

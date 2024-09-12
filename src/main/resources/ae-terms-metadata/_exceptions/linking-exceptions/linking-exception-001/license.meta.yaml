@@ -1,0 +1,29 @@
+canonicalName: Linking Exception (variant 001)
+category: Linking Exception
+spdxIdentifier: i2p-gpl-java-exception
+shortName: Linking-Exception-001
+
+otherIds:
+  - "scancode:i2p-gpl-java-exception"
+
+canonicalNameHistory:
+  - "i2p GPL+Java Exception"
+
+type: exception
+
+evidence:
+  matches:
+    - "In addition, as a special exception, *gives permission to link the code of this program with the proprietary
+       Java implementation provided by Sun (or other vendors as well), and distribute linked combinations including the two"
+    - "You must obey the GNU General Public License in all respects for all of the code used other than the proprietary Java
+       implementation"
+    - "If you modify this file, you may extend this exception to your version of the file, but you are
+       not obligated to do so"
+  excludes:
+    - "If you modify file(s) with this exception, you may extend this exception to your
+       version of the file(s), but you are not obligated to do so"
+references:
+  "GPL":
+    matches:
+      - "You must obey the GNU General Public License in all respects for all of the code used other than the proprietary Java
+         implementation"

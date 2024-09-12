@@ -1,0 +1,31 @@
+canonicalName: Linking Exception (GPL; variant 023)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-023
+spdxIdentifier: openvpn-openssl-exception
+
+type: exception
+
+canonicalNameHistory:
+  - "OpenVPN OpenSSL Exception"
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Linking exception (GPL; variant 023))
+
+alternativeNames:
+  - "OpenVPN-OpenSSL-Exception"
+  - "openvpn-openssl-exception"
+
+otherIds:
+  - "scancode:openvpn-openssl-exception"
+
+evidence:
+  matches:
+    - "In addition, as a special exception, * gives permission to link the code of this program with the OpenSSL
+       Library (or with modified versions of OpenSSL that use the same license as OpenSSL), and distribute linked combinations
+       including the two"
+    - "You must obey the GNU General Public License in all respects for all of the code used other than
+       OpenSSL"
+    - "If you modify this file, you may extend this exception to your version of the file, but you are not obligated
+       to do so"
+  excludes:
+    - "This is very similar to openvpn-openssl-exception with a couple key differences"

@@ -1,0 +1,33 @@
+canonicalName: Bootloader Distribution Exception (GPL)
+category: GPL Bootloader Distribution Exception
+spdxIdentifier: Bootloader-exception
+shortName: Bootloader-Distribution-Exception-GPL
+
+type: exception
+
+canonicalNameHistory:
+  - "Bootloader Distribution Exception"
+
+otherIds:
+  - "scancode:bootloader-exception"
+
+alternativeNames:
+    - "Bootloader-exception"
+    - "Bootloader Distribution Exception"
+    - "Bootloader Distribution Exception (GPL)"
+
+evidence:
+  matches:
+    - "In addition to the permissions in the GNU General Public License, the authors give you unlimited permission
+       to link or embed compiled bootloader and related files into combinations with other programs, and to distribute
+       those combinations without any restriction coming from the use of those files"
+    - "The General Public License restrictions do apply in other respects; for example, they cover modification
+       of the files, and distribution when not linked into a combine executable"
+
+references:
+  "GPL":
+    matches:
+      - "In addition to the permissions in the GNU General Public License, the authors give you
+         unlimited permission to link or embed compiled bootloader and related files into combinations
+         with other programs"
+      - "The General Public License restrictions do apply in other respects"

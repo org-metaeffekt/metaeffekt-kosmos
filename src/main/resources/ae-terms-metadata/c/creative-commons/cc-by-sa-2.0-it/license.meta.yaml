@@ -1,0 +1,27 @@
+canonicalName: Creative Commons BY-SA 2.0 (IT)
+category: CC-BY-SA
+shortName: CC-BY-SA-2.0-IT
+
+otherIds:
+  - "OpenCoDE:CC-BY-SA-2.0-IT"
+
+representedAs: Creative Commons BY-SA 2.0
+
+alternativeNames:
+  - "CC-BY-SA-2.0-IT"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "riproduzione dell’Opera, incorporazione dell’Opera in una o più Collezioni di Opere e riproduzione dell’Opera 
+       come incorporata nelle Collezioni di Opere"
+    - "creazione e riproduzione di un’Opera Derivata"
+    - "distribuzione di copie dell’Opera o di supporti fonografici su cui l’Opera è registrata, comunicazione al 
+       pubblico, rappresentazione, esecuzione, recitazione o esposizione in pubblico, ivi inclusa la trasmissione audio 
+       digitale dell’Opera, e ciò anche quando l’Opera sia incorporata in Collezioni di Opere"
+    - "distribuzione di copie dell’Opera o di supporti fonografici su cui l’Opera Derivata è registrata, comunicazione 
+       al pubblico, rappresentazione, esecuzione, recitazione o esposizione in pubblico, ivi inclusa la trasmissione 
+       audio digitale di Opere Derivate"

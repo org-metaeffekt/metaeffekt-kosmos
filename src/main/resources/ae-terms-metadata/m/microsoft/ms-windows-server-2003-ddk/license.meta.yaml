@@ -1,0 +1,27 @@
+canonicalName: Microsoft Windows Server 2003 DDK License
+category: Microsoft Windows Server 2003 DDK License
+shortName: MS-Windows-Server-2003-DDK
+
+otherIds:
+  - "scancode:ms-windows-server-2003-ddk"
+
+alternativeNames:
+  - "Microsoft Windows Server 2003 DDK License"
+
+evidence:
+  matches:
+    - "Microsoft grants you the rights described in this EULA provided that you
+       comply with all terms and conditions of this EULA"
+    - "Microsoft grants to you a personal, non-exclusive, nontransferable, royalty-free
+       license to use the Software, and to make and use five (5) copies of the Software on
+       one or more computers located at your premises solely for the purpose of designing,
+       developing and testing drivers that operate in conjunction with the Software for use
+       with Microsoft Windows 2000 Professional, Microsoft Windows 2000 Server, Microsoft
+       Windows 2000 Advanced Server and Microsoft Windows 2000 Datacenter Server;
+       Microsoft Windows XP, Microsoft Windows XP Service Pack 1; Microsoft Windows Server 2003
+       Standard Edition,  Microsoft Windows Server 2003 Enterprise Edition and Microsoft Windows
+       Server 2003 Datacenter Edition operating system products and any Microsoft operating system
+       product that is a successor to any of the foregoing (each an 'OS Product')"
+    - "You may make and use an unlimited number of copies of any documentation, provided that
+       such copies shall be used only for personal purposes and are not to be republished or distributed
+       (either in hard copy or electronic form) beyond your premises"

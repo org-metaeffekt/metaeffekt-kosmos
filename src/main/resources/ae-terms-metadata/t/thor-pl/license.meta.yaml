@@ -1,0 +1,20 @@
+canonicalName: Thor Public License
+category: Thor Public License
+spdxIdentifier: TPL-1.0
+
+otherIds:
+  - "scancode:thor-pl"
+
+evidence:
+  matches:
+    - "The licence has been renamed to \"TPL\" and \"THOR Public Licence\""
+    - "The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims"
+    - "The Modifications which You create or to which You contribute are governed by the terms of this License, including without limitation Section 2.2"
+    - "The Source Code version of Covered Code may be distributed only under the terms of this License or a future version of this License released under Section 6.1, and You must include a copy of this License with every copy of the Source Code You distribute"
+    - "Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License either on the same media as an Executable version or via an accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available"
+    - "You must duplicate the notice in Exhibit A in each file of the Source Code"
+    - "COVERED CODE IS PROVIDED UNDER THIS LICENSE ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE COVERED CODE IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING"
+    - "This License and the rights granted hereunder will terminate automatically if You fail to comply with terms herein and fail to cure such breach within 30 days of becoming aware of the breach"
+
+
+

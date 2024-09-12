@@ -1,0 +1,24 @@
+canonicalName: Open Web Foundation Final Specification Agreement 1.0
+category: Open Web Foundation Final Specification Agreement
+shortName: OWFa-1.0
+
+requiresLicenseText: false
+requiresCopyright: false
+
+otherIds:
+  - "scancode:owfa-1.0"
+
+classification: Proprietary Free
+
+evidence:
+  matches:
+    - "I grant to you a perpetual (for the duration of the applicable copyright), worldwide, non-exclusive, no-charge,
+       royalty-free, copyright license, without any obligation for accounting to me, to reproduce, prepare derivative
+       works of, publicly display, publicly perform, sublicense, distribute, and implement the Specification to the
+       full extent of my copyright interest in the Specification"
+    - "As a condition of the copyright grant, you must include an attribution to the Specification in any derivative
+       work you make based on the Specification"
+    - "That attribution must include, at minimum, the Specification name and version number"
+
+
+

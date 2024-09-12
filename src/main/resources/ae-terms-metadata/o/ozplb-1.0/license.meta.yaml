@@ -1,0 +1,30 @@
+canonicalName: Australian Public License B 1.0
+category: Australian Public License B
+shortName: OZPLB-1.0
+
+otherIds:
+  - "scancode:ozplb-1.0"
+
+alternativeNames:
+  - "http://www.ok-labs.com/licenses"
+  - "Australian Public Licence B Version 1.0"
+  - "Australian Public Licence B Version 1-0"
+  - "OZPLB Licence"
+  - "Australian Public License B"
+  - "Australian Public Licence B (OZPLB)"
+  - "Australian Public Licence B (OZPLB) Version 1-0"
+
+evidence:
+  matches:
+    - "Permission is granted by National ICT Australia, free of charge, to any person obtaining a copy of this
+       software and any associated documentation files (the 'Software') to deal with the software without restriction,
+       including (without limitation) the rights to use, copy, modify, adapt, merge, publish, distribute,
+       communicate to the public, sublicense, and/or sell, lend or rent out copies of the Software, and to permit
+       persons to whom the Software is furnished to do so, subject to the following conditions"
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers"
+    - "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following
+       disclaimers in the documentation and/or other materials provided with the distribution"
+    - "Neither the name of National ICT Australia, nor the names of its contributors, may be used to endorse
+       or promote products derived from this Software without specific prior written permission"
+  excludes:
+    - "Where the country of The University of Melbourne (as indicated above) is not Australia"

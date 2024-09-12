@@ -1,0 +1,21 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Javascript exception (GPL))
+category: GPL+Javascript
+shortName: GPL-2.0+-Javascript-Exception-GPL
+
+otherIds:
+  - "scancode:gpl-2.0-javascript"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with Javascript exception)"
+
+type: expression
+
+alternativeNames:
+  - "GNU General Public License 2.0 with Javascript exception"
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with Javascript exception)"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Javascript exception (GPL))
+  "Javascript Exception (GPL)": GNU General Public License 2.0 (or any later version; with Javascript exception (GPL))

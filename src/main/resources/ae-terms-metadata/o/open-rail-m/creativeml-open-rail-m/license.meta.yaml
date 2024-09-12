@@ -1,0 +1,57 @@
+canonicalName: CreativeML Open RAIL-M License
+category: CreativeML Open RAIL-M
+shortName: CreativeML-Open-RAIL-M
+
+# NOTE: this license is prominently used on stable diffusion. Yet it is regarded as stand-alone license.
+
+otherIds:
+  - "scancode:stable-diffusion-2022-08-22"
+
+canonicalNameHistory:
+  - "Stable Diffusion License 2022-08-22"
+
+evidence:
+  matches:
+    - "Both copyright and patent grants apply to the Model, Derivatives of the Model and Complementary Material"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, 
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly 
+       display, publicly perform, sublicense, and distribute the Complementary Material, the Model, and Derivatives of 
+       the Model"
+    - "Subject to the terms and conditions of this License and where and as applicable, each Contributor hereby grants 
+       to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this 
+       paragraph) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Model 
+       and the Complementary Material, where such license applies only to those patent claims licensable by such 
+       Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their 
+       Contribution(s) with the Model to which such Contribution(s) was submitted"
+    - "If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) 
+       alleging that the Model and/or Complementary Material or a Contribution incorporated within the Model and/or 
+       Complementary Material constitutes direct or contributory patent infringement, then any patent licenses granted 
+       to You under this License for the Model and/or Work shall terminate as of the date such litigation is asserted 
+       or filed"
+    - "You may host for Third Party remote access purposes (e.g. software-as-a-service), reproduce and distribute 
+       copies of the Model or Derivatives of the Model thereof in any medium, with or without modifications, provided 
+       that You meet the following conditions"
+    - "Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any 
+       type of legal agreement (e.g. a license) governing the use and/or distribution of the Model or Derivatives of 
+       the Model, and You shall give notice to subsequent users You Distribute to, that the Model or Derivatives of the 
+       Model are subject to paragraph 5"
+    - "You must give any Third Party recipients of the Model or Derivatives of the Model a copy of this License"
+    - "You must cause any modified files to carry prominent notices stating that You changed the files"
+    - "You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not 
+       pertain to any part of the Model, Derivatives of the Model"
+    - "You may add Your own copyright statement to Your modifications and may provide additional or different license 
+       terms and conditions - respecting paragraph 4.a. - for use, reproduction, or Distribution of Your modifications, 
+       or for any such Derivatives of the Model as a whole, provided Your use, reproduction, and Distribution of the 
+       Model otherwise complies with the conditions stated in this License"
+    - "The restrictions set forth in Attachment A are considered Use-based restrictions. Therefore You cannot use the 
+       Model and the Derivatives of the Model for the specified restricted uses. You may use the Model subject to this 
+       License, including only for lawful purposes and in accordance with the License. Use may include creating any 
+       content with, finetuning, updating, running, training, evaluating and/or reparametrizing the Model. You shall 
+       require all of Your users who use the Model or a Derivative of the Model to comply with the terms of this 
+       paragraph (paragraph 5)"
+    - "Except as set forth herein, Licensor claims no rights in the Output You generate using the Model. You are 
+       accountable for the Output you generate and its subsequent uses. No use of the output can contravene any 
+       provision as stated in the License"
+  excludes:
+    - "This Open RAIL-M License was created by BigScience, a collaborative open innovation project aimed at the 
+       responsible development and use of large multilingual datasets and Large Language Models"

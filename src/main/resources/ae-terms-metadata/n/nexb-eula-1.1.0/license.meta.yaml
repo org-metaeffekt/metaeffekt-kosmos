@@ -1,0 +1,32 @@
+canonicalName: nexB EULA 1.1.0
+category: nexB EULA
+shortName: nexB-EULA-1.1.0
+
+alternativeNames:
+  - "NEXB EULA 1.1.0"
+
+otherIds:
+  - "scancode:nexb-eula-saas-1.1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, nexB grants to Customer a non-exclusive,
+       non-assignable right during the Subscription (or Evaluation) Period to"
+    - "Use the Service for the number of Users and according to other parameters specified on an Order
+       Form for your internal business purposes"
+    - "Use, copy, reproduce, adapt and modify the Documentation for your internal business purposes"
+    - "Back up and archive your data from the Service at any time"
+    - "The Service, including without limitation all know-how, concepts, logic and specifications, is
+       a proprietary product belonging to us and our licensors, and is protected throughout the world
+       by copyright and other intellectual property rights"
+    - "You retain all ownership and intellectual property rights in and to your data. nexB retains all
+       ownership and intellectual property rights to the Service, Software, Content and Documentation. nexB also
+       retains all ownership and intellectual property rights to anything developed and delivered under this Agreement"
+
+references:
+  "GPL":
+    matches:
+      - "Open Source Licenses include, but are not limited to, the GNU GPL, GNU LGPL, MPL, Apache, BSD and MIT licenses"
+  "LGPL":
+    matches:
+      - "Open Source Licenses include, but are not limited to, the GNU GPL, GNU LGPL, MPL, Apache, BSD and MIT licenses"

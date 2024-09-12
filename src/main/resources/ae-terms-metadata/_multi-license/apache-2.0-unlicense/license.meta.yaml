@@ -1,0 +1,14 @@
+canonicalName: Apache License 2.0 + Unlicense
+category: ASL-Unlicense
+shortName: Apache-2.0-Unlicense
+
+type: expression
+
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 + Unlicense
+  "Unlicense": Apache License 2.0 + Unlicense
+
+alternativeNames:
+  - "Unlicense license and is also duallicensed under an Apache 2.0 license"
+
+

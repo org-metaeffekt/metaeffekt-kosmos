@@ -1,0 +1,33 @@
+canonicalName: Linking Exception (LGPL; variant 004)
+category: LGPL Linking Exception
+shortName: Linking-Exception-LGPL-004
+
+otherIds:
+  - "scancode:cygwin-exception-lgpl-3.0-plus"
+
+type: exception
+
+canonicalNameHistory:
+  - "Cygwin Linking Exception"
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": "GNU Lesser General Public License 3.0 (or any later version; with Linking exception (LGPL; variant 004))"
+
+evidence:
+  matches:
+    - "As a special exception, the copyright holders of the Cygwin library grant
+       you additional permission to link libcygwin.a, crt0.o, and gcrt0.o with
+       independent modules to produce an executable, and to convey the resulting
+       executable under terms of your choice, without any need to comply with the
+       conditions of LGPLv3 section 4"
+    - "An independent module is a module which is
+       not itself based on the Cygwin library"
+
+references:
+  "LGPL":
+    matches:
+    - "As a special exception, the copyright holders of the Cygwin library grant
+       you additional permission to link libcygwin.a, crt0.o, and gcrt0.o with
+       independent modules to produce an executable, and to convey the resulting
+       executable under terms of your choice, without any need to comply with the
+       conditions of LGPLv3 section 4"

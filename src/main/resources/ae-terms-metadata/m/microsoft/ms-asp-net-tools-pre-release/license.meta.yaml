@@ -1,0 +1,41 @@
+canonicalName: Microsoft Pre-Release Software License (ASP.NET tools)
+category: Microsoft Pre-Release Software
+shortName: MS-Pre-Release-Software-ASP-NET-Tools
+
+otherIds:
+  - "scancode:ms-asp-net-tools-pre-release"
+
+canonicalNameHistory:
+  - "Microsoft ASP.NET Tools Pre-Release License"
+
+alternativeNames:
+  - "Microsoft ASP.NET Tools Pre-Release License"
+
+evidence:
+  matches:
+    - "As described below, using some features also operates as your consent to the transmission
+       of certain standard computer information for Internet-based services"
+    - "When commercially available, you must acquire and use the final release version of the
+       software in order to develop and distribute versions of your programs that work with the
+       final commercial release of the software"
+    - "If you give feedback about the software to Microsoft, you give to Microsoft, without charge,
+       the right to use, share and commercialize your feedback in any way and for any purpose"
+    - "You also give to third parties, without charge, any patent rights needed for their products,
+       technologies and services to use or interface with any specific parts of a Microsoft software
+       or service that includes the feedback"
+    - "You will not give feedback that is subject to a license that requires Microsoft to license its
+       software or documentation to third parties because we include your feedback in them"
+    - "These rights survive this agreement"
+    - "You may install and use any number of copies of the software on your premises to design, develop and test your ASP.NET programs"
+  excludes:
+    - "use the software for commercial software hosting services"
+
+segmentation:
+  revert: [
+    { match:
+        "You may install and use any number of copies of the software on your premises to design, develop and test your ASP.NET programs.",
+      matchNext:
+        "Deploy to Hosting Provider. Because the software is a pre-release version, and may not work correctly"
+    }
+  ]
+    

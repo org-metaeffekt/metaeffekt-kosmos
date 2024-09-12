@@ -1,0 +1,32 @@
+canonicalName: KDE accepted Modifier (GPL-3.0+)
+category: KDE accepted Modifier
+shortName: KDE-accepted-Modifier-GPL-3.0+
+
+type: modifier
+
+canonicalNameHistory:
+  - "KDE Accepted GPL"
+
+otherIds:
+  - "scancode:kde-accepted-gpl"
+
+combinedWith:
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with KDE accepted Modifier (GPL-3.0+))
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with KDE accepted Modifier (GPL-3.0+))
+
+evidence:
+  matches:
+    - "This library is free software"
+    - "you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation"
+    - "either version 3 of the license or (at your option) at any later version that is accepted by the membership of KDE e.V. (or its successor approved by the membership of KDE e.V.), which shall act as a proxy as defined in Section 14 of version 3 of the license"
+    - "This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY"
+    - "without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE"
+
+references:
+  "GPL":
+    matches:
+      - "This library is free software; you can redistribute it and/or
+         modify it under the terms of the GNU General Public License as
+         published by the Free Software Foundation; either version 3 of
+         the license or (at your option) at any later version that is
+         accepted by the membership of KDE e.V."

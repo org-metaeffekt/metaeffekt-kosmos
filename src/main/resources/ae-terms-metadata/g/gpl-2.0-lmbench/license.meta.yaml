@@ -1,0 +1,24 @@
+canonicalName: LMBench Restrictions
+category: LMBench Restriction
+shortName: LMBench-Restriction
+
+otherIds:
+  - "scancode:gpl-2.0-lmbench"
+  - "scancode:lmbench-exception-2.0"
+
+alternativeNames:
+  - "gpl-2.0-lmbench"
+
+evidence:
+  matches:
+    - "Distributed under the FSF GPL with additional restriction that results may be
+       published only if
+       (1) the benchmark is unmodified, and
+       (2) the version in the sccsid below is included in the report"
+    - "The set of programs and documentation known as 'lmbench' are distributed under
+       the Free Software Foundation's General Public License with the following
+       additional restrictions (which override any conflicting restrictions in the GPL)"
+    - "You may not distribute results in any public forum, in any publication,
+       or in any other way if you have modified the benchmarks"
+    - "You may not distribute the results for a fee of any kind.  This includes
+       web sites which generate revenue from advertising"

@@ -1,0 +1,12 @@
+canonicalName: MIT License + GNU General Public License 3.0
+category: MIT-GPL
+shortName: MIT-GPL-3.0
+
+type: expression
+
+alternativeNames:
+  - "You may use it under the MIT license or the GPLv3 license"
+  
+combinedWith:
+  "MIT License": MIT License + GNU General Public License 3.0
+  "GNU General Public License 3.0": MIT License + GNU General Public License 3.0

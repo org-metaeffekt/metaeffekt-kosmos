@@ -1,0 +1,13 @@
+canonicalName: Gatling-Highcharts License
+category: Gatling-Highcharts
+shortName: Gatling-Highcharts
+
+otherIds:
+  - "scancode:gatling-highcharts"
+
+evidence:
+  matches:
+    - "This module is protected by a specific license because it integrates the HighCharts & HighStock software, developed by the HighSoft company and protected by a specific licence granted to GatlingCorp in the context of the Gatling software project"
+    - "GatlingCorp grants this license allowing the use, free-of-charge of the report generation module as delivered. No code modification is authorised, no re-use of the code, no copying of all or any part of the code is allowed"
+    - "The involved parties agree that all disputes or controversies arising from the agreement as a result of interpretation, execution and/or termination of the license should be resolved amicably, out of court"
+    - "If this is not possible, any resulting claim will be submitted to the Nanterre Court of Justice, it remains the only legal authority considered competent to deal with these claims, this includes claims relating to incidents, guarantees or multiple party claims"

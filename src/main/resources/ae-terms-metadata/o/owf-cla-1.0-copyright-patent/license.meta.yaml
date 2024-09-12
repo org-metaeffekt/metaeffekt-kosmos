@@ -1,0 +1,15 @@
+canonicalName: OWF Contributor License Agreement 1.0 (Copyright and Patent)
+category: OWF Contributor License Agreement
+shortName: OWF-CLA-1.0-Copyright-Patent
+
+otherIds:
+  - "scancode:owf-cla-1.0-copyright-patent"
+
+evidence:
+  matches:
+    - "I grant to you a perpetual (for the duration of the applicable copyright), worldwide, non-exclusive, no-charge, royalty-free, copyright license, without any obligation for accounting to me, to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, distribute, and implement any Contribution to the full extent of my copyright interest in the Contribution"
+    - "As a condition of the copyright grant, you must include an attribution to the Specification in any derivative work you make based on the Specification"
+    - "I, on behalf of myself and my successors in interest and assigns, irrevocably promise not to assert my Granted Claims against you for your Permitted Uses, subject to the terms and conditions of Section 3.1"
+    - "Except as specifically set forth in this CLA, no other express or implied patent, trademark, copyright, or other property rights are granted under this CLA, including by implication, waiver, or estoppel"
+    - "I acknowledge that I may compete with other participants, that I am under no obligation to implement the Specification, that each participant is free to develop competing technologies and standards, and that each party is free to license its patent rights to third parties, including for the purpose of enabling competing technologies and standards"
+    - "I agree that I will not intentionally take or willfully assist any third party to take any action for the purpose of circumventing my obligations under this CLA"

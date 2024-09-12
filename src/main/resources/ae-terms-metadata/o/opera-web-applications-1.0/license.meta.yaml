@@ -1,0 +1,17 @@
+canonicalName: Opera Web Applications License 1.0
+category: Opera Web Applications
+shortName: Opera-WAL-1.0
+
+otherIds:
+  - "scancode:owal-1.0"
+
+alternativeNames:
+  - "OPERA Web Applications License Version 1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Contribution of such Contributor, if any, and such derivative works, in source code and object code form"
+    - "The limited license granted in this Section is only for the integration of the Contribution with or for the use of the Contribution in connection with other proprietary software of OPERA, including but not limited to OPERA’s browser software"
+    - "Recipient understands that although each Contributor grants the licenses to its Contributions set forth herein, no assurances are provided by any Contributor that the Covered Code does not infringe the patent or other intellectual property rights of any other entity"
+    - "Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, if any, to grant the copyright license set forth in this Agreement"
+    - "Except as expressly stated in this Agreement, no other rights or licenses, express or implied, are granted by OPERA herein, including but not limited to any rights to trademarks, service marks or logos belonging to OPERA, OPERA’s suppliers or to any Contributor"

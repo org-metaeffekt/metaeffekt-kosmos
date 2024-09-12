@@ -1,0 +1,67 @@
+canonicalName: ISC License
+category: ISC
+spdxIdentifier: ISC
+
+
+otherIds:
+  - "scancode:isc"
+  - "osi:ISC"
+
+canonicalNameHistory:
+  - "Permission Terms Var033"
+  - "Permission Terms Var068"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+alternativeNames:
+  - "ISC License"
+  - "ISC Terms"
+  - "ISC Permission"
+  - "isc license"
+  - "'init-license': 'ISC'"
+  - "License: ISC"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and*{.{0,5}}* distribute this software*{.{0,120}}* for any
+       purpose with or without fee is hereby granted"
+    - "provided that the above copyright notice and this permission notice appear in all copies"
+    - "THE SOFTWARE IS PROVIDED AS IS AND *{.{0,75}}*DISCLAIM*{.{0,2}}* ALL WARRANTIES WITH REGARD
+       TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS"
+    - "IN NO EVENT SHALL *{.{0,50}}* BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL
+       DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+       WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+       OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
+  excludes:
+    - "not be used in advertising or publicity
+       pertaining to distribution of the document or software without specific,
+       written prior permission"
+    - "Except as contained in this notice the name of the X Consortium shall not be used in advertising or otherwise to promote the sale use or other dealings in this Software without prior written authorization"
+    - "PERMISSION TO USE, COPY, MODIFY, AND/OR DISTRIBUTE THIS SOFTWARE FOR ANY
+               PURPOSE WITH OR WITHOUT FEE IS HEREBY GRANTED, PROVIDED THAT THE ABOVE
+               COPYRIGHT NOTICE AND THIS PERMISSION NOTICE APPEAR IN ALL COPIES"
+    - "Permission to use, copy, modify, and distribute this software and its
+       documentation for any purpose with or without fee is hereby granted,
+       provided that the above copyright notice and this permission notice
+       appear in all copies"
+    - "Modification and redistribution in source and binary forms is permitted provided
+              that due credit is given to"
+    - "Copyright (c) 2010, Abilis Systems Sarl
+
+       Permission to use, copy, modify, and/or distribute this software"
+    - "Copyright 2018 Eemeli Aro <eemeli@gmail.com>
+
+       Permission to use, copy, modify, and/or distribute this software for any purpose
+       with or without fee is hereby granted"
+
+licenseTemplate: "<lq>Permission to use, copy, modify, and/or distribute this software for any purpose
+                  with or without fee is hereby granted,
+                  provided that the above copyright
+                  notice and this permission notice appear in all copies.<p></p>
+                  <codeph>THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO
+                  THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS.
+                  IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL
+                  DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+                  WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
+                  OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</codeph></lq>"

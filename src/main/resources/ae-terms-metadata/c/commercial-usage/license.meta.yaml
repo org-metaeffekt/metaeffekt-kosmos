@@ -1,0 +1,13 @@
+canonicalName: Qt Commercial License Usage
+category: Commercial License Usage
+shortName: Commercial-Usage
+
+otherIds:
+  - "scancode:digia-qt-commercial"
+
+evidence:
+  matches:
+    - "Licensees holding valid commercial Qt licenses may use this file in
+       accordance with the commercial license agreement provided with the
+       Software or, alternatively, in accordance with the terms contained in
+       a written agreement between you and Digia"

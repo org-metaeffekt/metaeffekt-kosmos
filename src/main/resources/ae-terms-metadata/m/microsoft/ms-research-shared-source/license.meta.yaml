@@ -1,0 +1,22 @@
+canonicalName: Microsoft Research Shared Source License
+category: Microsoft Research Shared Source License
+shortName: MS-Research-Shared-Source
+
+otherIds:
+  - "scancode:ms-research-shared-source"
+
+alternativeNames:
+  - "http://research.microsoft.com/downloads"
+  - "Microsoft Research Shared Source License"
+
+evidence:
+  matches:
+    - "That we have no duty of reasonable care or lack of negligence, and we are not
+       obligated to (and will not) provide technical support for the Software"
+    - "That if you breach this MSR-SSLA or if you sue anyone over patents that you
+       think may apply to or read on the Software or anyone's use of the Software,
+       this MSR-SSLA (and your license and rights obtained herein) terminate automatically"
+    - "Upon any such termination, you shall destroy all of your copies of the Software immediately"
+    - "Sections 5, 6, 7, 8, 9, 10, 13 and 14 of this MSR- SSLA shall survive any termination of this MSR-SSLA"
+    - "That the patent rights, if any, granted to you in this MSR-SSLA only apply to
+       the Software, not to any derivative works you make"

@@ -1,0 +1,27 @@
+canonicalName: Adobe SDK License (indesign)
+category: Adobe SDK License
+shortName: Adobe-Indesign-SDK
+
+otherIds:
+  - "scancode:adobe-indesign-sdk"
+
+alternativeNames:
+  - "Adobe SDK License for INDESIGN, INDESIGN SERVER and INCOPY Software"
+
+evidence:
+  matches:
+    - "Under this License, You may use, modify or merge all or portions of the Sample Code with Your application programs and distribute it only as part of Your products in object code form only"
+    - "Any modified or merged portion of the Sample Code is subject to this License"
+    - "You are required to include Adobe’s copyright notices on Your application programs except for those programs in which You include a copyright notice reflecting the copyright ownership of Developer in such programs"
+    - "Subject to the permissions in 2(a) above, You may use the SDK solely for the purpose of internal development"
+
+references:
+  "GPL":
+    matches:
+      - "shall mean software licensed under the GNU General Public License, the GNU Lesser General Public License or any other license terms that could require"
+  "LGPL":
+    matches:
+      - "shall mean software licensed under the GNU General Public License, the GNU Lesser General Public License or any other license terms that could require"
+  "Public Domain":
+    matches:
+      - "it was in the public domain at or subsequent to the time it was communicated to You by Adobe through no fault of Yours, (b) it was developed by Your employees or agents independently of and without reference to any information communicated to You by Adobe"

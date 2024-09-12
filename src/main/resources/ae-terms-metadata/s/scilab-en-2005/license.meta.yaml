@@ -1,0 +1,22 @@
+canonicalName: SCILAB License
+category: SCILAB License
+shortName: SCILAB
+
+otherIds:
+  - "scancode:scilab-en-2005"
+
+alternativeNames:
+  - "SCILAB License"
+
+evidence:
+  matches:
+    - "INRIA and ENPC authorize you to reproduce and interface all or
+       part of the SOFTWARE with all or part of other software,
+       application packages or toolboxes of which you are owner or
+       entitled beneficiary in order to obtain COMPOSITE SOFTWARE"
+    - "INRIA and ENPC authorize you, free of charge, to circulate and
+       distribute for no charge, for purposes other than commercial,
+       the source and/or object code of COMPOSITE SOFTWARE on any
+       present and future support, providing"
+    - "Any commercial use or distribution of COMPOSITE SOFTWARE shall
+       have been previously authorized by INRIA and ENPC"

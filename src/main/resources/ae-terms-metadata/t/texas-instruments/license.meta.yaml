@@ -1,0 +1,34 @@
+canonicalName: Texas Instruments Limited License
+category: Texas Instruments Limited
+shortName: Texas-Instruments-Limited
+
+otherIds:
+  - "scancode:ti-linux-firmware"
+
+alternativeNames:
+  - "Texas Instruments Limited License"
+
+evidence:
+  matches:
+  - "Texas Instruments Incorporated grants a world-wide, royalty-free, non-exclusive
+     license under copyrights and patents it now or hereafter owns or controls to
+     make, have made, use, import, offer to sell and sell (Utilize) this software
+     subject to the terms herein. With respect to the foregoing patent license, such
+     license is granted solely to the extent that any such patent is necessary to
+     Utilize the software alone. The patent license shall not apply to any
+     combinations which include this software, other than combinations with devices
+     manufactured by or for TI (TI Devices)"
+  - "No hardware patent is licensed hereunder"
+  - "Redistributions must preserve existing copyright notices and reproduce this
+     license (including the above copyright notice and the disclaimer and
+     (if applicable) source code license limitations below) in the documentation
+     and/or other materials provided with the distribution"
+  
+segmentation:
+  revert: [
+    { match:
+        "software licensed and provided to you in object code.",
+      matchNext:
+        "If software source code is provided to you, modification and redistribution of"
+    }
+  ]

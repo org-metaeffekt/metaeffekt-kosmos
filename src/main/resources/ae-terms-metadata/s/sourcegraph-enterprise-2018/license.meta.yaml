@@ -1,0 +1,21 @@
+canonicalName: Sourcegraph Enterprise License 2018
+category: Sourcegraph Enterprise License
+shortName: sourcegraph-enterprise-2018
+
+otherIds:
+  - "scancode:sourcegraph-enterprise-2018"
+
+classification: commercial
+
+alternativeNames:
+  - "Sourcegraph Enterprise License 2018"
+
+evidence:
+  matches:
+    - "Subject to the foregoing sentence, you are free to modify this Software and publish
+       patches to the Software"
+    - "The full text of this Enterprise License shall be included in all copies or
+       substantial portions of the Software"
+    - "For all third party components incorporated into the Sourcegraph Software, those
+       components are licensed under the original license provided by the owner of the
+       applicable component"

@@ -1,0 +1,235 @@
+canonicalName: "GNU General Public License 3.0"
+category: GPL
+spdxIdentifier: GPL-3.0-only
+shortName: GPL-3.0
+
+otherIds:
+  - "scancode:gpl-3.0"
+  - "osi:GPL-3.0"
+
+defaultSourceCategory: annex
+requiresSourceCodeProvision: true
+requiresCopyright: true
+requiresLicenseText: true
+
+alternativeNames:
+  - "GNU GPL version 3 or above"
+  - "GNU General Public License (GPL), Version 3 or later"
+  - "GNU General Public License (GPLV3+)"
+  - "GNU General Public License Version 3+"
+  - "GNU General Public License v3 or later"
+  - "GNU General Public License v3.0 or later"
+  - "GNU General Public License v3, or (at your option) any later version"
+  - "GNU General Public License v3.0, or (at your option) any later version"
+  - "GNU General Public License Version 3 (or later)"
+  - "GNU General Public License version 3 or later"
+  - "GNU General Public License version 3.0 or later"
+  - "GNU General Public License Version 3 or later"
+  - "GNU General Public License Version 3.0 or later"
+  - "GNU General Public License v3.0 or later"
+  - "GNU General Public License, Versions 2 and 3"
+  - "GNU General Public License, Version 3.0"
+  - ">GNU General Public License (GPL), Version 3.0"
+  - "GNU General Public License (GPL), Version 3.0"
+  - "GNU GENERAL PUBLIC LICENSE - Version 3"
+  - "GNU GENERAL PUBLIC LICENSE 3.0"
+  - "GNU GENERAL PUBLIC LICENSE Version 3"
+  - "GNU GENERAL PUBLIC LICENSE v3"
+  - "GNU GENERAL PUBLIC LICENSE v3.0"
+  - "GNU GENERAL PUBLIC LICENSE, Version 3"
+  - "GNU GENERAL PUBLIC LICENSE, Version 3.0"
+  - "GNU GENERAL PUBLIC LICENSE, v3"
+  - "GNU GENERAL PUBLIC LICENSE, version 3"
+  - "GNU GPL 3.0"
+  - "GNU GPL V3"
+  - "GNU GPL V3+"
+  - "GNU GPL license v3"
+  - "GNU GPL v3"
+  - "GNU GPL, Version 3.0"
+  - "GNU GPL, Version 3"
+  - "GNU GPLv3"
+  - "GNU General Public Licence Version 3"
+  - "GNU General Public License (GPL v.3)"
+  - "GNU General Public License (GPL) 3.0"
+  - "GNU General Public License (GPL) Version 3"
+  - "GNU General Public License (GPL) v3"
+  - "GNU General Public License (GPL) version 3"
+  - "GNU General Public License (GPL) version 3.0"
+  - "GNU General Public License (GPL), Version 3"
+  - "GNU General Public License (GPL), Version 3.0"
+  - "GNU General Public License (GPLv3)"
+  - "GNU General Public License (version 3)"
+  - "GNU General Public License 3"
+  - "GNU General Public License 3.0"
+  - "GNU General Public License V3"
+  - "GNU General Public License Version 3"
+  - "GNU General Public License Version 3 (GPL)"
+  - "GNU General Public License Version 3 (GPLv3)"
+  - "GNU General Public License Version 3.0"
+  - "GNU General Public License at version 3"
+  - "GNU General Public License v3"
+  - "GNU General Public License v3 (GPL)"
+  - "GNU General Public License v3 (GPL-3)"
+  - "GNU General Public License v3+"
+  - "GNU General Public License v3.0"
+  - "GNU General Public License v3.0 (GPLv3)"
+  - "GNU General Public License v3.0 only"
+  - "GNU General Public License version 3"
+  - "GNU General Public License version 3 (GPLv3)"
+  - "GNU General Public License version 3.0"
+  - "GNU General Public License version 3.0 (GPLv3)"
+  - "GNU General Public License, Version 3"
+  - "GNU General Public License, Version 3.0"
+  - "GNU General Public License, v3"
+  - "GNU General Public License, version 3"
+  - "GNU General Public License, version 3 (GPL-3.0)"
+  - "GNU General Public License, version 3.0"
+  - "GNU General Public License, version 3.0 (GPLv3)"
+  - "GNU General Purpose License Version 3.0"
+  - "GNU Gpl v3"
+  - "GNU Pubic License 3.0"
+  - "GNU Public License GPL, Version 3.0"
+  - "GNU Public License v3"
+  - "GNU Public License version 3.0"
+  - "GNU Public License, Version 3.0"
+  - "GNU v3 License"
+  - "GNU/GPL v3"
+  - "Gnu General Public License, Version 3"
+  - "Gnu General Public License, Version 3.0"
+  - "GNU GENERAL PUBLIC LICENSE,Version 3"
+  - "GNU General Public License V3.0"
+  - "GNU General Public License v.3"
+  - "GNU General Public License v3.0"
+  - "GNU General Public License v3.0 (GPL3)"
+  - "GNU General Public License, Version 3.0"
+  - "GNU General Purpose License, Version 3.0"
+  - "Gnu Public Licence, Version 3.0"
+  - "GNU Public Licence, Version 3.0"
+  - "GPL v3"
+  - "GPLv3"
+  - "gpl30"
+  - "GPL 3.0"
+  - "GPL-3.0"
+  - "GPL v3+"
+  - "GPL version 3 or any later version"
+  - "GPL-3.0+"
+  - "GPLv3 or later"
+  - "GPLv3 or newer"
+  - "GPL 3"
+  - "GPL 3.0 License"
+  - "GPL Licence Version 3"
+  - "GPL Version 3.0"
+  - "GPL license, Version 3.0"
+  - "GPL v3.0"
+  - "GPL version 3"
+  - "GPL-3"
+  - "GPL3"
+  - "GPL3.0 License"
+  - "GPLv3.0"
+  - "GENERAL PUBLIC LICENSE, version 3 (GPL-3.0)"
+  - "General Public License (GPL) v 3.0"
+  - "General Public License 3"
+  - "General Public License V.3 (GPL3)"
+  - "General Public License, Version 3.0"
+  - "General public licence, v 3"
+  - "gpl_v3"
+  - "GNU GPL version 3"
+  - "GNU General Public License (GPL-3)"
+  - "GNU General Public License GPLv3"
+  - "GPL V3"
+  - "GNU General Public License\" .SS \"Version 3"
+  - "Released under the terms of the GPL; see /usr/share/common-licenses/GPL-3"
+  - "licensed under the GPL v3"  
+  - "GNU General Public License as published by the Free Software Foundation; version 3"
+  - "version 3 of the GNU General Public License"
+
+evidence:
+  matches:
+    - "All rights granted under this License are granted for the term of
+       copyright on the Program, and are irrevocable provided the stated
+       conditions are met.  This License explicitly affirms your unlimited
+       permission to run the unmodified Program.  The output from running a
+       covered work is covered by this License only if the output, given its
+       content, constitutes a covered work.  This License acknowledges your
+       rights of fair use or other equivalent, as provided by copyright law"
+    - "You may make, run and propagate covered works that you do not
+       convey, without conditions so long as your license otherwise remains
+       in force.  You may convey covered works to others for the sole purpose
+       of having them make modifications exclusively for you, or provide you
+       with facilities for running those works, provided that you comply with
+       the terms of this License in conveying all material for which you do
+       not control copyright.  Those thus making or running the covered works
+       for you must do so exclusively on your behalf, under your direction
+       and control, on terms that prohibit them from making any copies of
+       your copyrighted material outside their relationship with you"
+    - "Conveying under any other circumstances is permitted solely under
+       the conditions stated below.  Sublicensing is not allowed; section 10
+       makes it unnecessary"
+  excludes:
+    - "\"This License\" refers to version 3 of the GNU Affero General Public License"
+    - "in the case of code licensed under the GPL v3 for as long as Oracle offers spare parts or customer support for that product model"
+    - "H g L GPL 3 D IcP0" # found (normalized form) in java binaries
+
+references:
+  "AGPL":
+     matches:
+        - "Use with the GNU Affero General Public License.
+           Notwithstanding any other provision of this License, you have
+           permission to link or combine any covered work with a work licensed
+           under version 3 of the GNU Affero General Public License into a single
+           combined work, and to convey the resulting work.  The terms of this
+           License will continue to apply to the part which is the covered work,
+           but the special requirements of the GNU Affero General Public License,
+           section 13, concerning interaction through a network will apply to the
+           combination as such"
+  "LGPL":
+     matches:
+        - "If your program is a subroutine library, you may consider it more useful to permit linking proprietary
+           applications with the library."
+        - "If this is what you want to do, use the GNU Lesser General Public License instead of this License"
+        - "But first, please read <http://www.gnu.org/philosophy/why-not-lgpl.html>"
+  "GPL":
+    matches:
+        - "To do so, attach the following notices to the program.  It is safest
+           to attach them to the start of each source file to most effectively
+           state the exclusion of warranty; and each file should have at least
+           the \"copyright\" line and a pointer to where the full notice is found.
+
+           <one line to give the program's name and a brief idea of what it does.>
+           Copyright (C) <year>  <name of author>
+
+           This program is free software: you can redistribute it and/or modify
+           it under the terms of the GNU General Public License as published by
+           the Free Software Foundation, either version 3 of the License, or
+           (at your option) any later version"
+
+mappings:
+  "gcc/gm2/gm2-libs-min/\\*:NEWLINE-MARKERCopyright \\(C\\) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERmix of GPL-3.0 and LGPL-3.0": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libs-min/*:NEWLINE-MARKERCopyright (C) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERmix of GPL-3.0 and LGPL-3.0"
+  "gcc/gm2/gm2-libs-pim/\\*:NEWLINE-MARKERCopyright \\(C\\) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERmix of GPL-3.0 and LGPL-2.1": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libs-pim/*:NEWLINE-MARKERCopyright (C) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERmix of GPL-3.0 and LGPL-2.1"
+  "gcc/gm2/gm2-libs-ch/\\*:NEWLINE-MARKERCopyright \\(C\\) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERmix of GPL-3.0 and LGPL-2.1": " LICENSE-SEGMENT-MARKER gcc/gm2/gm2-libs-ch/*:NEWLINE-MARKERCopyright (C) 2001-2019 Free Software Foundation, Inc.NEWLINE-MARKERmix of GPL-3.0 and LGPL-2.1"
+  "gcc/gm2/examples:NEWLINE-MARKERCopyright \\(C\\) 2005-2015 Free Software Foundation, Inc.NEWLINE-MARKERMix of LGPL-2.1 and GPL-3.0": " LICENSE-SEGMENT-MARKER gcc/gm2/examples:NEWLINE-MARKERCopyright (C) 2005-2015 Free Software Foundation, Inc.NEWLINE-MARKERMix of LGPL-2.1 and GPL-3.0"
+  "libgm2/liblog/:NEWLINE-MARKERCopyright \\(C\\) 2005-2018 Free Software Foundation, Inc.NEWLINE-MARKERMix of LGPL-2.1 and LGPL-3.": " LICENSE-SEGMENT-MARKER libgm2/liblog/:NEWLINE-MARKERCopyright (C) 2005-2018 Free Software Foundation, Inc.NEWLINE-MARKERMix of LGPL-2.1 and LGPL-3."
+  "libgm2/libulm/:NEWLINE-MARKERCopyright \\(C\\) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKER Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software": " LICENSE-SEGMENT-MARKER libgm2/libulm/:NEWLINE-MARKERCopyright (C) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010NEWLINE-MARKER Free Software Foundation, Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERGNU Modula-2 is free software"
+
+
+licenseTemplate:
+  "<lq>Disclaimer of Warranty
+   <p><codeph>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+   APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+   HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY
+   OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+   THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+   PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+   IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+   ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</codeph></p>
+   <p>Limitation of Liability</p>
+   <codeph>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+   WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+   THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+   GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+   USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
+   DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+   PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+   EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+   SUCH DAMAGES.</codeph></lq>"
+

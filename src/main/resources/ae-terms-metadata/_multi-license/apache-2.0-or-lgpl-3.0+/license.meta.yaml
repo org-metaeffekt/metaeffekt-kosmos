@@ -1,0 +1,18 @@
+canonicalName: Apache License 2.0 + GNU Lesser General Public License 3.0 (or any later version)
+category: Apache+LGPL
+shortName: Apache-2.0-OR-LGPL-3.0+
+
+type: expression
+
+combinedWith:
+  "Apache License 2.0": "Apache License 2.0 + GNU Lesser General Public License 3.0 (or any later version)"
+  "GNU Lesser General Public License 3.0 (or any later version)": "Apache License 2.0 + GNU Lesser General Public License 3.0 (or any later version)"
+
+alternativeNames:
+  - "Apache-2.0 or LGPL-3.0+"
+  - "either the Apache Software License, version 2, or the GNU Lesser General Public License as
+     published by the Free Software Foundation, version 3 or above"
+  - "This software is dual-licensed under: - the Lesser General Public License (LGPL) version 3.0 or, at your option, 
+     any later version; - the Apache Software License (ASL) version 2.0."
+  - "This software is dual-licensed under: the Lesser General Public License (LGPL) version 3.0 or at your option any later version; the Apache Software License (ASL) version 2.0"
+  - "either under the terms of a) the GNU Lesser General Public License as published by the Free Software Foundation either version 3 of the License or (at your option) any later version. b) the terms of the Apache License"

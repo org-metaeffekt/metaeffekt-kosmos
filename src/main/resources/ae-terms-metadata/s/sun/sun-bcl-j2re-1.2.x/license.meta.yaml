@@ -1,0 +1,23 @@
+canonicalName: Sun Binary Code License J2RE 1.2.X
+category: Sun Binary
+shortName: Sun-BCL-J2RE-1.2.x
+
+otherIds:
+  - "scancode:sun-bcl-j2re-1.2.x"
+
+evidence:
+  matches:
+    - "Sun grants you a non-exclusive and non-transferable license for the internal use only of the accompanying software and documentation and any error corrections provided by Sun (collectively \"Software\"), by the number of users and the class of computer hardware for which the corresponding fee has been paid"
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"
+    - "Sun warrants to you that for a period of ninety (90) days from the date of purchase, as evidenced by a copy of the receipt, the media on which Software is furnished (if any) will be free of defects in materials and workmanship under normal use"
+    - "UNLESS SPECIFIED IN THIS AGREEMENT,  ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ARE DISCLAIMED, EXCEPT  TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID"
+    - "Use, duplication, or disclosure by the U.S. Government is subject to restrictions set forth in this Agreement and as provided in DFARS"
+    - "Notwithstanding Section 2, with respect to high risk activities, the following language shall apply"
+    - "agree to the extent Programs are developed which utilize the Windows
+       95/98 style graphical user interface or components contained therein,
+       such applets or applications may only be developed to run on a Windows
+       95/98 or Windows NT platform"
+
+#matches because of canonicalname being in license text
+ignoreMatches:
+  - "Sun Binary Code License"

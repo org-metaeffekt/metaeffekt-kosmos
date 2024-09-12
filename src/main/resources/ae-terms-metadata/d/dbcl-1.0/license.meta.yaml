@@ -1,0 +1,47 @@
+canonicalName: ODC Database Contents License 1.0
+category: ODC Database Contents License
+shortName: DbCL-1.0
+
+otherIds:
+  - "scancode:dbcl-1.0"
+
+alternativeNames:
+  - "https://opendatacommons.org/licenses/dbcl/1.0/"
+  - "http://opendatacommons.org/licenses/dbcl/1.0/"
+  - "dbcl-1.0"
+
+evidence:
+  matches:
+    - "The definitions of the Open Database License (ODbL) 1.0 are incorporated
+       by reference into the Database Contents License"
+    - "The Licensor grants to You a worldwide, royalty-free, non-exclusive, perpetual, irrevocable copyright license to
+       do any act that is restricted by copyright over anything within the
+       Contents, whether in the original medium or any other"
+    - "These rights include, without limitation, the right to
+       sublicense the work"
+    - "You must comply with the ODbL"
+    - "This license does not cover any Database Rights, Database copyright, or contract over the Contents as
+       part of the Database"
+    - "Please see the ODbL covering the Database for more
+       details about Your rights and obligations"
+    - "The Licensor takes the position that factual information is not covered by copyright"
+    - "The DbCL grants you permission for any information having copyright contained in
+       the Contents"
+    - "The Contents are licensed by the Licensor 'as is' and without any
+       warranty of any kind, either express or implied, whether of title, of
+       accuracy, of the presence of absence of errors, of fitness for purpose,
+       or otherwise"
+    - "Some jurisdictions do not allow the exclusion of implied
+       warranties, so this exclusion may not apply to You"
+    - "Subject to any liability that may not be excluded or limited by law,
+       the Licensor is not liable for, and expressly excludes, all liability
+       for loss or damage however and whenever caused to anyone by any use
+       under this License, whether by You or by anyone else, and whether caused
+       by any fault on the part of the Licensor or not"
+    - "This exclusion of liability includes, but is not limited to, any special, incidental,
+       consequential, punitive, or exemplary damages"
+    - "This exclusion applies even if the Licensor has been advised of the possibility of such
+       damages"
+    - "If liability may not be excluded by law, it is limited to actual and
+       direct financial loss to the extent it is caused by proved negligence on
+       the part of the Licensor"

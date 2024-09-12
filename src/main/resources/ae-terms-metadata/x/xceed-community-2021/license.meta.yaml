@@ -1,0 +1,24 @@
+canonicalName: Xceed Community License 2021
+category: Xceed Community License
+shortName: Xceed-Community-2021
+
+otherIds:
+  - "scancode:xceed-community-2021"
+
+alternativeNames:
+  - "Xceed Community License 2021"
+  - "XCEED SOFTWARE, INC. COMMUNITY LICENSE"
+
+evidence:
+  matches:
+    - "All of the Agreement’s terms & conditions are strictly complied with by the Licensee"
+    - "The Software is used for Non-Commercial Use only"
+    - "The Software cannot be resold, licensed, sublicensed or distributed by Licensee in any
+       manner other than as specified above"
+    - "Xceed’s name and logo must appear clearly in the resulting work with an Xceed
+       Copyright notice; the name and notice must be visible, not be hidden"
+    - "Licensee is not authorized to “deploy” the Software for/in any commercial environment"
+    - "Licensee commits not to create a competitive software product based on the Software"
+    - "Licensee is not authorized to sell or license/sub-license/lease the resulting work to
+       anyone nor charge any amounts of money or accept donations or exchange services for
+       the said resulting work"

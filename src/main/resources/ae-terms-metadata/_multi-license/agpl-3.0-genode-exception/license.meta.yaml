@@ -1,0 +1,9 @@
+canonicalName: GNU Affero General Public License 3.0 (with Genode Exception (AGPL 3.0))
+category: AGPL+Genode
+shortName: AGPL-3.0-Genode-Exception
+
+type: expression
+
+combinedWith:
+  GNU Affero General Public License 3.0: GNU Affero General Public License 3.0 (with Genode Exception (AGPL 3.0))
+  Genode Exception (AGPL 3.0): GNU Affero General Public License 3.0 (with Genode Exception (AGPL 3.0))

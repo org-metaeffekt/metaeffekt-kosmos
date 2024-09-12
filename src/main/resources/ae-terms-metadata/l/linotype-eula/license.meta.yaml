@@ -1,0 +1,20 @@
+canonicalName: Linotype EULA
+category: Linotype EULA
+shortName: Linotype-EULA
+
+otherIds:
+  - "scancode:linotype-eula"
+
+alternativeNames:
+  - "http://www.linotype.com/2061-28225/licenseagreementforfontsoftware.html"
+  - "Linotype EULA"
+
+evidence:
+  matches:
+    - "The Font Software underlying this contractual agreement is the
+       intellectual property of Linotype GmbH"
+    - "The term 'Font Software' includes any and all updates, upgrades, expansions,
+       modified versions and working copies of the Font Software to which the licensee,
+       i.e. a natural person and legal person or, within the scope of a legal person, a
+       subsidiary with majority share, has accordingly been granted a license"
+    - "The Font Software remains and shall remain, now and in the future, the property of Linotype GmbH"

@@ -1,0 +1,12 @@
+canonicalName: ISC License + MIT License
+category: ISC+MIT
+shortName: ISC-OR-MIT
+
+type: expression
+
+alternativeNames:
+  - "This software is dual-licensed under the ISC and MIT licenses"
+
+combinedWith:
+  "ISC License": "ISC License + MIT License"
+  "MIT License": "ISC License + MIT License"

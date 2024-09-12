@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 3.0 (with Autoconf exception (GPL; variant 004))
+category: GPL+Autoconf
+shortName: GPL-3.0-Autoconf-Exception-GPL-004
+
+type: expression
+
+spdxExpression: "[GNU General Public License 3.0] WITH [Autoconf Exception (GPL; variant 004)]"
+
+displayName: "GNU General Public License 3.0 (with Autoconf exception (variant 004))"
+representedAs: "GNU General Public License 3.0 (with exceptions)"
+
+combinedWith:
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with Autoconf exception (GPL; variant 004))"
+  "Autoconf Exception (GPL; variant 004)": "GNU General Public License 3.0 (with Autoconf exception (GPL; variant 004))"

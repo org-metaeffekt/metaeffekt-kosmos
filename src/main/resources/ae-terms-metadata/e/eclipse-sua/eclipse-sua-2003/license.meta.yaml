@@ -1,0 +1,39 @@
+canonicalName: Eclipse Foundation Software User Agreement 2003
+category: Eclipse SUA
+shortName: Eclipse-SUA-2003
+
+alternativeNames:
+  - "Eclipse Foundation Software User Agreement 2003"
+
+otherIds:
+  - "scancode:eclipse-sua-2003"
+
+evidence:
+  matches:
+    - "Content includes, but is not limited to, source code, object code, documentation and other
+       files maintained in the Eclipse.org CVS repository (\"Repository\") in CVS modules (\"Modules\")
+       and made available as downloadable archives (\"Downloads\")"
+    - "A Feature is a bundle of one or more Plug-ins and/or Fragments and associated material"
+    - "THE ABOUTS, FEATURE LICENSES AND FEATURE UPDATE LICENSES MAY REFER TO THE CPL OR OTHER LICENSE
+       AGREEMENTS, NOTICES OR TERMS AND CONDITIONS"
+    - "If the Feature contains Included Features, the Feature Update License should either provide you
+       with the terms and conditions governing the Included Features or inform you where you can locate them"
+    - "Eclipse.org Software User Agreement 14th August, 2003"
+  excludes:
+    - "Eclipse Public License Version 1.0 (available at http://www.eclipse.org/legal/epl-v10.html)"
+
+references:
+  "CPL":
+    matches:
+      - "Unless otherwise indicated, all Content made available by Eclipse.org is provided to you under the
+         terms and conditions of the Common Public License Version 1.0 ('CPL')"
+      - "A copy of the CPL is provided with this Content and is also available at http://www.eclipse.org/legal/cpl-v10.html"
+      - "For purposes of the CPL, 'Program' will mean the Content"
+
+masks:
+  matches:
+    - "SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED TO):
+       Apache Software License 1.1 (available at http://www.apache.org/licenses/LICENSE)
+       IBM Public License 1.0 (available at http://oss.software.ibm.com/developerworks/opensource/license10.html)
+       Metro Link Public License 1.00 (available at http://www.opengroup.org/openmotif/supporters/metrolink/license.html)
+       Mozilla Public License Version 1.1 (available at http://www.mozilla.org/MPL/MPL-1.1.html)"

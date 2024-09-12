@@ -1,0 +1,65 @@
+canonicalName: SGI B License 1.1
+category: SGI B
+spdxIdentifier: SGI-B-1.1
+
+otherIds:
+  - "scancode:sgi-freeb-1.1"
+
+alternativeNames:
+  - "SGI B, Version 1.1"
+  - "SGI B, 1.1"
+  - "SGI B 1.1"
+  - "SGI-B, Version 1.1"
+  - "SGI-B, 1.1"
+  - "SGI-B 1.1"
+  - "SGI B License, Version 1.1"
+  - "SGI B License, 1.1"
+  - "SGI B License 1.1"
+  - "SGI-B License, Version 1.1"
+  - "SGI-B License, 1.1"
+  - "SGI-B License 1.1"
+  - "SGI FREE SOFTWARE LICENSE B (Version 1.1 02/22/2000)"
+  - "http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.1.1.doc"
+  - "https://spdx.org/licenses/sgi-b-1.1"
+  - "SGI FREE SOFTWARE LICENSE B (Version 1.1 [02/22/2000])"
+
+comments:
+
+evidence:
+  matches:
+    - "Subject to the terms of this License and any third party intellectual property claims, for the duration of intellectual property protections inherent in the Original Code, SGI hereby grants Recipient a worldwide, royalty-free, non-exclusive license, to do the following:
+       (i) under copyrights Licensable by SGI, to reproduce, distribute, create derivative works from, and, to the extent applicable, display and perform the Original Code and/or any Modifications provided by SGI alone and/or as part of a Larger Work; and
+       (ii) under any Licensable Patents, to make, have made, use, sell, offer for sale, import and/or otherwise transfer the Original Code and/or any Modifications provided by SGI"
+    - "Recipient accepts the terms and conditions of this License by undertaking any of the aforementioned actions"
+    - "The patent license shall apply to the Covered Code if, at the time any related Modification is added, such addition of the Modification causes such combination to be covered by the Licensed Patents"
+    - "The patent license in Section 2.1(ii) shall not apply to any other combinations that include the Modification"
+    - "No patent license is provided under SGI Patents for infringements of SGI Patents by Modifications not provided by SGI or combinations of Original Code and Modifications not provided by SGI"
+    - "Subject to the terms of this License and any third party intellectual property claims, Recipient hereby grants SGI and any other Recipients a worldwide, royalty-free, non-exclusive license, under any Recipient Patents, to make, have made, use, sell, offer for sale, import and/or otherwise transfer the Original Code and/or any Modifications provided by SGI"
+    - "The licenses granted in Section 2.1 and 2.2 are not applicable to implementation in Hardware of the algorithms embodied in the Original Code or any Modifications provided by SGI"
+    - "The Notice set forth in Exhibit A, below, must be conspicuously retained or included in any and all redistributions of Covered Code"
+    - "For distributions of the Covered Code in source code form, the Notice must appear in every file that can include a text comments field"
+    - "in executable form, the Notice and a copy of this License must appear in related documentation or collateral where the Recipient's rights relating to Covered Code are described"
+    - "Any Additional Notice Provisions which actually appears in the Original Code must also be retained or included in any and all redistributions of Covered Code"
+    - "Provided that Recipient is in compliance with the terms of this License, Recipient may, so long as without derogation of any of SGI's rights in and to the Original Code"
+    - "distribute the source code and/or executable version(s) of Covered Code under (1) this License"
+    - "a license identical to this License but for only such changes as are necessary in order to clarify Recipient's role as licensor of Modifications"
+    - "a license of Recipient's choosing, containing terms different from this License, provided that the license terms include this Section 3 and Sections 4, 6, 7, 10, 12, and 13, which terms may not be modified or superseded by any other terms of such license"
+    - "If Recipient elects to use any license other than this License, Recipient must make it absolutely clear that any of its terms which differ from this License are offered by Recipient alone, and not by SGI"
+    - "It is emphasized that this License is a limited license, and, regardless of the license form employed by Recipient in accordance with this Section 3.2, Recipient may relicense only such rights, in Original Code and Modifications by SGI, as it has actually been granted by SGI in this License"
+    - "Recipient hereby agrees to indemnify SGI for any liability incurred by SGI as a result of any such alternative license terms Recipient offers"
+    - "This License and the rights granted hereunder will terminate automatically if Recipient breaches any term herein and fails to cure such breach within 30 days thereof"
+    - "Any sublicense to the Covered Code that is properly granted shall survive any termination of this License, absent termination by the terms of such sublicense"
+    - "Provisions that, by their nature, must remain in effect beyond the termination of this License, shall survive"
+    - "This License does not grant any rights to:
+       (i) any software apart from the Covered Code, nor shall any other rights or licenses not expressly granted hereunder arise by implication, estoppel or otherwise with respect to the Covered Code;
+       (ii) any trade name, trademark or service mark whatsoever, including without limitation any related right for purposes of endorsement or promotion of products derived from the Covered Code, without prior written permission of SGI; or
+       (iii) any title to or ownership of the Original Code, which shall at all times remains with SGI"
+    - "All rights in the Original Code not expressly granted under this License are reserved"
+    - "There are various worldwide laws, regulations, and executive orders applicable to dispositions of Covered Code, including without limitation export, re-export, and import control laws, regulations, and executive orders, of the U.S. government and other countries, and Recipient is reminded it is obliged to obey such laws, regulations, and executive orders"
+    - "Recipient may not distribute Covered Code that
+       (i) in any way infringes (directly or contributorily) any intellectual property rights of any kind of any other person or entity or
+       (ii) breaches any representation or warranty, express, implied or statutory, to which, under any applicable law, it might be deemed to have been subject"
+    - "If Recipient learns of any third party claim that any disposition of Covered Code and/or functionality wholly or partially infringes the third party's intellectual property rights, Recipient will promptly notify SGI of such claim"
+    - "SGI may publish revised and/or new versions of the License from time to time, each with a distinguishing version number"
+    - "Once Covered Code has been published under a particular version of the License, Recipient may, for the duration of the license, continue to use it under the terms of that version, or choose to use such Covered Code under the terms of any subsequent version published by SGI"
+    - "Subject to the provisions of Sections 3 and 4 of this License, only SGI may modify the terms applicable to Covered Code created under this License"

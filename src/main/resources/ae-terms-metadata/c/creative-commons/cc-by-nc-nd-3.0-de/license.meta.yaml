@@ -1,0 +1,36 @@
+canonicalName: Creative Commons BY-NC-ND 3.0 (DE)
+category: CC-BY-NC-ND
+spdxIdentifier: CC-BY-NC-ND-3.0-DE
+
+otherIds:
+  - "scancode:cc-by-nc-nd-3.0-de"
+
+representedAs: Creative Commons BY-NC-ND 3.0
+
+alternativeNames:
+  - "CC-BY-NC-ND-3.0-DE"
+  - "Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Diese Lizenz und die durch sie eingeräumten Nutzungsrechte erlöschen mit Wirkung für die Zukunft im Falle eines
+       Verstoßes gegen die Lizenzbedingungen durch Sie, ohne dass es dazu der Kenntnis des Lizenzgebers vom Verstoß oder
+       einer weiteren Handlung einer der Vertragsparteien bedarf"
+    - "Mit natürlichen oder juristischen Personen, die den Schutzgegenstand enthaltende Sammelwerke unter den Bedingungen
+       dieser Lizenz von Ihnen erhalten haben, bestehen nachträglich entstandene Lizenzbeziehungen jedoch solange weiter,
+       wie die genannten Personen sich ihrerseits an sämtliche Lizenzbedingungen halten"
+    - "Darüber hinaus gelten die Ziffern 1, 2, 5, 6, 7, und 8 auch nach einem Erlöschen dieser Lizenz fort"
+    - "Vorbehaltlich der oben genannten Bedingungen gilt diese Lizenz unbefristet bis der rechtliche Schutz für den Schutzgegenstand ausläuft"
+    - "Davon abgesehen behält der Lizenzgeber das Recht, den Schutzgegenstand unter anderen Lizenzbedingungen anzubieten
+       oder die eigene Weitergabe des Schutzgegenstandes jederzeit einzustellen, solange die Ausübung dieses Rechts nicht
+       einer Kündigung oder einem Widerruf dieser Lizenz (oder irgendeiner Weiterlizenzierung, die auf Grundlage dieser
+       Lizenz bereits erfolgt ist bzw. zukünftig noch erfolgen muss) dient und diese Lizenz unter Berücksichtigung der
+       oben zum Erlöschen genannten Bedingungen vollumfänglich wirksam bleibt"
+    - "Die Rechteeinräumung gemäß Abschnitt 3 gilt nur für Handlungen, die nicht vorrangig auf einen geschäftlichen
+       Vorteil oder eine geldwerte Vergütung gerichtet sind"
+  excludes:
+    - "unbeschadet unverzichtbarer Rechte und vorbehaltlich des Abschnitts 3.c)"

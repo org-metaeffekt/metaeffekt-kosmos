@@ -1,0 +1,12 @@
+canonicalName: Python Software Foundation License 2.0 + BSD Zero Clause License
+category: PSF-BSD
+shortName: PSF-2.0-BSD-0
+
+type: expression
+
+alternativeNames:
+  - "are dual licensed under the PSF License Version 2 and the Zero-Clause BSD license"
+  
+combinedWith:
+  "Python Software Foundation License 2.0": Python Software Foundation License 2.0 + BSD Zero Clause License
+  "BSD Zero Clause License": Python Software Foundation License 2.0 + BSD Zero Clause License

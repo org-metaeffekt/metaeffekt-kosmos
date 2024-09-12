@@ -1,0 +1,18 @@
+canonicalName: SGI OpenGL License
+category: SGI-OpenGL
+spdxIdentifier: SGI-OpenGL
+
+otherIds:
+  - "scancode:x11-opengl"
+
+alternativeNames:
+  - "SGI-OpenGL"
+  - "SGI OpenGL License"
+
+evidence:
+  matches:
+    - "Use, duplication, or disclosure by the Government is subject to
+       restrictions set forth in FAR 52.227.19(c)(2) or subparagraph
+       (c)(1)(ii) of the Rights in Technical Data and Computer Software
+       clause at DFARS 252.227-7013 and/or in similar or successor
+       clauses in the FAR or the DOD or NASA FAR Supplement"

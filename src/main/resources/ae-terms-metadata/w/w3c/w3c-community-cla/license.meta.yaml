@@ -1,0 +1,18 @@
+canonicalName: W3C Community Contributor License Agreement
+category: W3C Community Contributor License Agreement
+shortName: W3C-Community-CLA
+
+otherIds:
+  - "scancode:w3c-community-cla"
+
+evidence:
+  matches:
+    - "This CLA sets forth the terms under which I will participate in and contribute to the development of the Specification, if any, created by the Project"
+    - "Those operational agreements must not conflict with or modify this Community and Business Group Process, the Community Contributor License Agreement (CLA), or the Final Specification Agreement"
+    - "I grant to you a perpetual (for the duration of the applicable copyright), worldwide, non-exclusive, no-charge, royalty-free, copyright license, without any obligation for accounting to me, to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, distribute, and implement any Contribution to the full extent of my copyright interest in the Contribution"
+    - "This requirement includes Essential Claims that I own and any that I have the right to license without obligation of payment or other consideration to an unrelated third party"
+    - "Except as specifically set forth in this CLA, no other express or implied patent, trademark, copyright, or other property rights are granted under this CLA, including by implication, waiver, or estoppel"
+    - "I, in my sole discretion, may withdraw my Contribution, for any reason, by providing written notice of that withdrawal no later than 45 days after the date of my Contribution"
+    - "I acknowledge that the goal of this CLA is to provide coverage for Contributions to the Specification, if any, created by the Project"
+    - "I acknowledge that I may compete with other participants, that I am under no obligation to implement the Specification, that each participant is free to develop competing technologies and standards, and that each party is free to license its patent rights to third parties, including for the purpose of enabling competing technologies and standards"
+    - "I will disclose significant relationships when those relationships might reasonably be perceived as creating a conflict of interest with my role. I will notify W3C of any change in my affiliation using W3C-provided mechanisms"

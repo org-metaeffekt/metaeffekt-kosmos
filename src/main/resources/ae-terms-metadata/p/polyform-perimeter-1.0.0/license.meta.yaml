@@ -1,0 +1,27 @@
+canonicalName: PolyForm Perimeter License 1.0.0
+category: PolyForm Perimeter License
+shortName: PolyForm-Perimeter-1.0.0
+
+otherIds:
+  - "scancode:polyform-perimeter-1.0.0"
+
+alternativeNames:
+  - "PolyForm Perimeter License 1.0.0"
+
+evidence:
+  matches:
+    - "Any purpose is a permitted purpose, except for providing to
+       others any product that competes with the software"
+    - "The licensor grants you a copyright license for the
+       software to do everything you might do with the software
+       that would otherwise infringe the licensor's copyright
+       in it for any permitted purpose"
+    - "However, you may
+       only distribute the software according to [Distribution
+       License](#distribution-license) and make changes or new works
+       based on the software according to [Changes and New Works
+       License](#changes-and-new-works-license)"
+  excludes:
+    - "Any purpose is a permitted purpose, except for providing any
+       product that competes with the software or any product the
+       licensor or any of its affiliates provides using the software"

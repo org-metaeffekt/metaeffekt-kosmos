@@ -1,0 +1,16 @@
+canonicalName: Katharos License 0.1.0
+category: Katharos License
+shortName: Katharos-0.1.0
+
+otherIds:
+  - "scancode:katharos-0.1.0"
+
+alternativeNames:
+  - "The Katharos License v0.1.0"
+
+masks:
+  matches:
+    - "This license has incorporated verbatim and modified portions of the following licenses:
+       - [Hippocratic License Version 2.1](https://firstdonoharm.dev/version/2/1/license.html)
+       - [Do No Harm License](https://github.com/raisely/NoHarm)
+       - [BSD 3-Clause](https://spdx.org/licenses/BSD-3-Clause.html)"

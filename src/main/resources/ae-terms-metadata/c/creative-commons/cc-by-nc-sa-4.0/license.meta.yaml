@@ -1,0 +1,24 @@
+canonicalName: Creative Commons BY-NC-SA 4.0
+category: CC-BY-NC-SA
+spdxIdentifier: CC-BY-NC-SA-4.0
+
+otherIds:
+  - "scancode:cc-by-nc-sa-4.0"
+
+alternativeNames:
+  - "CC-BY-NC-SA-4.0"
+  - "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+  - "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "License Elements means the license attributes listed in the name of a Creative
+       Commons Public License. The License Elements of this Public License are Attribution,
+       NonCommercial, and ShareAlike"
+    - "reproduce and Share the Licensed Material, in whole or in part, for NonCommercial
+       purposes only"
+    - "produce, reproduce, and Share Adapted Material for NonCommercial purposes only"

@@ -1,0 +1,10 @@
+canonicalName: GNU General Public License 3.0 (with GCC Runtime Library Exception 3.0)
+category: GPL-runtime
+shortName: GPL-3.0-GCC-Runtime-Exception-3.0
+
+type: expression
+
+
+combinedWith:
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with GCC Runtime Library Exception 3.0)
+  "GCC Runtime Library Exception 3.0": GNU General Public License 3.0 (with GCC Runtime Library Exception 3.0)

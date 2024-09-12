@@ -1,0 +1,31 @@
+canonicalName: TU Berlin License 2.0
+category: TU Berlin
+spdxIdentifier: TU-Berlin-2.0
+
+otherIds:
+  - "scancode:tu-berlin-2.0"
+
+alternativeNames:
+  - "TU Berlin, Version 2.0"
+  - "TU Berlin, 2.0"
+  - "TU Berlin 2.0"
+  - "TU-Berlin, Version 2.0"
+  - "TU-Berlin, 2.0"
+  - "TU-Berlin 2.0"
+  - "TU Berlin License, Version 2.0"
+  - "TU Berlin License, 2.0"
+  - "TU Berlin License 2.0"
+  - "TU-Berlin License, Version 2.0"
+  - "TU-Berlin License, 2.0"
+  - "TU-Berlin License 2.0"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, * distribute this software for any purpose
+       with or without fee is hereby granted, provided that this notice is not removed
+       and that neither the authors nor the Technische Universitaet Berlin are deemed
+       to have made any representations as to the suitability of this software for
+       any purpose nor are held responsible for any defects of this software"
+    - "Since the original terms of 15 years ago maybe do not make our intentions
+       completely clear given today's refined usage of the legal terms, we append
+       this additional permission"

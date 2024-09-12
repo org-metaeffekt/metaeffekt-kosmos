@@ -1,0 +1,37 @@
+canonicalName: "Server Side Public License 1.0"
+category: SSPL
+spdxIdentifier: SSPL-1.0
+
+otherIds:
+  - "scancode:mongodb-sspl-1.0"
+
+alternativeNames:
+  - "SSPL 1"
+  - "SSPL 1.0"
+  - "SSPL-1.0"
+  - "Server Side Public License, Version 1.0"
+  - "Server Side Public License v1.0"
+  - "Server Side Public License VERSION 1"
+
+evidence:
+  matches:
+    - "The Corresponding Source need not include anything that users can regenerate automatically
+       from other parts of the Corresponding Source"
+    - "The Corresponding Source for a work in source code form is that same work"
+    - "All rights granted under this License are granted for the term of copyright on the Program,
+       and are irrevocable provided the stated conditions are met"
+    - "This License explicitly affirms your unlimited permission to run the unmodified Program,
+       subject to section 13"
+    - "The output from running a covered work is covered by this License only if the output, given
+       its content, constitutes a covered work"
+    - "This License acknowledges your rights of fair use or other equivalent, as provided by copyright law"
+    - "Subject to section 13, you may make, run and propagate covered works that you do not convey, without
+       conditions so long as your license otherwise remains in force"
+    - "You may convey covered works to others for the sole purpose of having them make modifications exclusively
+       for you, or provide you with facilities for running those works, provided that you comply with the terms
+       of this License in conveying all material for which you do not control copyright"
+    - "Those thus making or running the covered works for you must do so exclusively on your behalf, under your
+       direction and control, on terms that prohibit them from making any copies of your copyrighted material
+       outside their relationship with you"
+    - "Conveying under any other circumstances is permitted solely under the conditions stated below"
+    - "Sublicensing is not allowed; section 10 makes it unnecessary"

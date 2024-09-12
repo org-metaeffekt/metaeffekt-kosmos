@@ -1,0 +1,44 @@
+canonicalName: Creative Commons BY 3.0 (DE)
+category: CC-BY
+spdxIdentifier: CC-BY-3.0-DE
+
+representedAs: Creative Commons BY 3.0
+
+otherIds:
+  - "scancode:cc-by-3.0-de"
+
+alternativeNames:
+  - "CC-BY-3.0-DE"
+  - "Creative Commons Attribution 3.0 Germany"
+
+requiresCopyright: false
+requiresLicenseText: false
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Jedes Mal, wenn Sie den Schutzgegenstand für sich genommen oder als Teil eines Sammelwerkes verbreiten oder
+       öffentlich zeigen, bietet der Lizenzgeber dem Empfänger eine Lizenz zu den gleichen Bedingungen und im gleichen
+       Umfang an, wie Ihnen in Form dieser Lizenz"
+    - "Jedes Mal, wenn Sie eine Abwandlung des Schutzgegenstandes verbreiten oder öffentlich zeigen, bietet der Lizenzgeber
+       dem Empfänger eine Lizenz am ursprünglichen Schutzgegenstand zu den gleichen Bedingungen und im gleichen Umfang an,
+       wie Ihnen in Form dieser Lizenz"
+    - "Sollte eine Bestimmung dieser Lizenz unwirksam sein, so bleibt davon die Wirksamkeit der Lizenz im Übrigen davon unberührt"
+    - "Keine Bestimmung dieser Lizenz soll als abbedungen und kein Verstoß gegen sie als zulässig gelten, solange die
+       von dem Verzicht oder von dem Verstoß betroffene Seite nicht schriftlich zugestimmt hat"
+    - "Diese Lizenz (zusammen mit in ihr ausdrücklich vorgesehenen Erlaubnissen, Mitteilungen und Zustimmungen, soweit
+       diese tatsächlich vorliegen) stellt die vollständige Vereinbarung zwischen dem Lizenzgeber und Ihnen in Bezug auf
+       den Schutzgegenstand dar"
+    - "Es bestehen keine Abreden, Vereinbarungen oder Erklärungen in Bezug auf den Schutzgegenstand, die in dieser Lizenz nicht genannt sind"
+    - "Rechtsgeschäftliche Änderungen des Verhältnisses zwischen dem Lizenzgeber und Ihnen sind nur über Modifikationen dieser Lizenz möglich"
+    - "Der Lizenzgeber ist an etwaige zusätzliche, einseitig durch Sie übermittelte Bestimmungen nicht gebunden"
+    - "Diese Lizenz kann nur durch schriftliche Vereinbarung zwischen Ihnen und dem Lizenzgeber modifiziert werden"
+    - "Derlei Modifikationen wirken ausschließlich zwischen dem Lizenzgeber und Ihnen und wirken sich nicht auf die
+       Dritten gemäß Ziffern 8.a) und b) angebotenen Lizenzen aus"
+    - "Sofern zwischen Ihnen und dem Lizenzgeber keine anderweitige Vereinbarung getroffen wurde und soweit Wahlfreiheit besteht,
+       findet auf diesen Lizenzvertrag das Recht der Bundesrepublik Deutschland Anwendung"
+  excludes:
+    - "Weitergehende Änderungen oder Abwandlungen sind jedoch untersagt"
+

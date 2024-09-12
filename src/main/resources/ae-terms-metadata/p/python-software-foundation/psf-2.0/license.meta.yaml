@@ -1,0 +1,40 @@
+canonicalName: Python Software Foundation License 2.0
+category: Python Software Foundation License
+spdxIdentifier: PSF-2.0
+
+otherIds:
+  - "scancode:psf-2.0"
+  - "osi:Python-2.0"
+
+status:
+  - "reviewed 28.01.22"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+ - "Python Software Foundation License"
+ - "PSF-2"
+ - "PSF-2.0"
+ - "PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2"
+ - "PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2.0"
+ - "PSF License v2"
+ - "PSF License v2.0"
+
+evidence:
+  matches:
+    - "This LICENSE AGREEMENT is between the Python Software Foundation
+       (\"PSF\"), and the Individual or Organization (\"Licensee\") accessing and
+       otherwise using this software (\"Python\") in source or binary form and
+       its associated documentation"
+    - "PSF hereby grants Licensee a nonexclusive, royalty-free, world-wide
+       license to reproduce, analyze, test, perform and/or display publicly,
+       prepare derivative works, distribute, and otherwise use Python
+       alone or in any derivative version, provided, however, that PSF's
+       License Agreement and PSF's notice of copyright"
+    - "By copying, installing or otherwise using Python, Licensee
+       agrees to be bound by the terms and conditions of this License Agreement"
+
+mappings:
+  "(SmartyPants license)::": "LICENSE-SEGMENT-MARKER$1COLON-MARKERCOLON-MARKER"
+  "(smartypants.py license)::": "LICENSE-SEGMENT-MARKER$1COLON-MARKERCOLON-MARKER"

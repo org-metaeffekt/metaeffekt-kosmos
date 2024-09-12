@@ -1,0 +1,23 @@
+canonicalName: Mapbox Terms of Service 2021
+category: Mapbox Terms of Service
+shortName: Mapbox-ToS-2021
+
+otherIds:
+  - "scancode:mapbox-tos-2021"
+
+alternativeNames:
+  - "Mapbox Terms of Service 2021"
+  - "mapbox-tos-2021"
+
+evidence:
+  matches:
+    - "In order to use most Services, you must register for or authenticate into a Mapbox account"
+    - "When you use our application program interfaces (APIs), including our SDK Registry/Downloads API,
+       each request to an API must include one of your account's unique API keys"
+    - "Please carefully guard the security of your account and monitor use of your API keys"
+    - "You are responsible for all use of the Services under your account, whether or not authorized,
+       including any use of your API keys. At our discretion, we may make limited exceptions to this policy for
+       unauthorized use of your account if you notify us of the problem promptly"
+    - "You must be 13 years or older to use the Services"
+    - "By registering as a user or providing personal information on the site, you represent that you are
+       at least 13 years old"

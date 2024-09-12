@@ -1,0 +1,19 @@
+canonicalName: Linking Exception (variant 002)
+category: Linking Exception
+shortName: Linking-Exception-002
+
+type: exception
+
+canonicalNameHistory:
+  - "Unlimited Binary Linking Exception"
+
+otherIds:
+  - "scancode:unlimited-binary-use-exception"
+
+alternativeNames:
+  - "Unlimited Binary Linking Exception"
+
+evidence:
+  matches:
+    - "As a special exception, you may use, copy, link, modify and distribute
+       under the user's own terms, binary object code versions of works based on the library"

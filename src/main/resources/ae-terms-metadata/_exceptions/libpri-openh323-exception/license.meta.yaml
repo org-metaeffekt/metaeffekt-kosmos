@@ -1,0 +1,32 @@
+canonicalName: libpri OpenH323 Exception
+category: libpri-OpenH323-exception
+spdxIdentifier: libpri-OpenH323-exception
+shortName: libpri-OpenH323-Exception
+
+type: exception
+
+alternativeNames:
+  - "libpri-OpenH323-exception"
+  - "libpri OpenH323 exception"
+
+otherIds:
+  - "scancode:libpri-openh323-exception"
+
+canonicalNameHistory:
+  - "libpri OpenH323 exception"
+
+evidence:
+  matches:
+    - "As a special exception, libpri may also be linked to the
+       OpenH323 library, so long as the entirity of the derivative
+       work (as defined within the GPL) is licensed either under
+       the MPL of the OpenH323 license or the GPL of libpri"
+
+references:
+  "GPL":
+    matches:
+      - "as defined within the GPL"
+
+  "MPL":
+    matches:
+      - "the MPL of the OpenH323 license or the GPL of libpri"

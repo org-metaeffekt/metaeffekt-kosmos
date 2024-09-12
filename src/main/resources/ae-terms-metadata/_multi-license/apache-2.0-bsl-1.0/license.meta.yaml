@@ -1,0 +1,16 @@
+canonicalName: Apache License 2.0 + Boost Software License 1.0
+category: ASL-BSL
+shortName: Apache-2.0-OR-Boost-1.0
+
+# FIXME-CONCEPT: enable SPDX expressions; consistency check required: never both spdxIdentifier and spdxExpression
+
+type: expression
+
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 + Boost Software License 1.0
+  "Boost Software License 1.0": Apache License 2.0 + Boost Software License 1.0
+  
+evidence:
+  matches:
+    - "The contents of this file may be used under the terms of the Apache License Version 2.0"
+    - "Alternatively the contents of this file may be used under the terms of the Boost Software License Version 1.0"

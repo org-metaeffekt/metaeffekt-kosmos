@@ -1,0 +1,34 @@
+canonicalName: Creative Commons PDDC
+category: CC-PDDC
+spdxIdentifier: CC-PDDC
+
+canonicalNameHistory:
+  - "Creative Commons Public Domain Dedication and Certification"
+
+combinedWith:
+  "Public Domain": "Creative Commons PDDC"
+
+# compensated by combinedWith
+ignoreMatches:
+  - "Public Domain"
+
+alternativeNames:
+  - "CC-PDDC"
+  - "Creative Commons Public Domain Dedication and Certification"
+  - "AOP Public Domain License"
+
+otherIds:
+  - "scancode:cc-pd"
+
+evidence:
+  matches:
+    - "certifies that, to the best of his knowledge,
+       the work of authorship identified is in the public domain of the country from
+       which the work is published"
+    - "hereby dedicates whatever copyright the
+       dedicators holds in the work of authorship identified below (the Work) to
+       the public domain"
+    - "A certifier, moreover, dedicates any copyright interest
+       he may have in the associated work, and for these purposes, is described as
+       a dedicator below"
+

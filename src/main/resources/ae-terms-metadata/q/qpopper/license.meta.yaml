@@ -1,0 +1,39 @@
+canonicalName: Qpopper License
+category: Qpopper License
+shortName: Qpopper
+
+otherIds:
+  - "scancode:qpopper"
+
+alternativeNames:
+  - "Qpopper License"
+
+evidence:
+  matches:
+    - "The protocol greeting banner and the CAPA IMPLEMENTATION
+       response tag must include clear notification that Qpopper has
+       been modified (for example, 'FooPopper-by-Foo-Networks-hacked-from-Qpopper-4.0')"
+    - "Detailed notification of all modifications must be clearly and
+       conspicuously included within the modified source files, and
+       in a separate document.  All of the source files and the
+       document describing the changes must be distributed with the
+       modified software"
+    - "When distributing the modified software the distributing party
+       must clearly and conspicuously communicate to all recipients
+       that the modified software is produced by the party that
+       modified the software and is not a QUALCOMM product"
+    - "The term 'Qpopper' shall not be used in connection with the
+       modified software except in a purely factual manner when
+       describing the history or development of the software"
+    - "The modified software must be licensed to end users using a
+       license agreement which expressly states that portions of the
+       modified software are based on code owned by QUALCOMM
+       Incorporated, that such QUALCOMM code is only provided on the
+       terms stated in this agreement, and that QUALCOMM bears no
+       responsibility whatsoever for any modifications to the QUALCOMM code"
+    - "The modifying party shall defend and indemnify QUALCOMM
+       Incorporated against all claims, losses, liabilities, damages,
+       costs and expenses, including attorney's fees, which QUALCOMM
+       may incur in connection with any intellectual property
+       infringement or similar claim related to the modified
+       software, if such claim is related to that party's modifications"

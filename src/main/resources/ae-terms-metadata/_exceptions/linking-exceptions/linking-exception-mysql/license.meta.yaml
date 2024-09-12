@@ -1,0 +1,26 @@
+canonicalName: Linking Exception (MySQL)
+category: MySQL Linking Exception
+shortName: Linking-Exception-MySQL
+
+otherIds:
+  - "scancode:mysql-linking-exception-2018"
+
+type: exception
+
+canonicalNameHistory:
+  - "MySQL linking exception 2018"
+  - "MySQL Linking Exception 2018"
+
+alternativeNames:
+  - "MySQL linking exception 2018"
+  - "MySQL Linking Exception 2018"
+
+evidence:
+  matches:
+    - "This program is also distributed with certain software (including
+       but not limited to OpenSSL) that is licensed under separate terms,
+       as designated in a particular file or component or in included license
+       documentation"
+    - "The authors of MySQL hereby grant you an additional
+       permission to link the program and your derivative works with the
+       separately licensed software that they have included with MySQL"

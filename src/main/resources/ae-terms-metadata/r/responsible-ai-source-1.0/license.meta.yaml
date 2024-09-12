@@ -1,0 +1,27 @@
+canonicalName: Reponsible AI Source Code License 1.0
+category: Reponsible AI Source Code License
+shortName: responsible-ai-source-1.0
+
+otherIds:
+  - "scancode:responsible-ai-source-1.0"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Reponsible AI Source Code License 1.0"
+
+evidence:
+  matches:
+    - "Predict the likelihood that any person will request to file an insurance claim"
+    - "Determine an insurance premium or deny insurance applications or claims"
+    - "Predict  the likelihood that any person request to file an insurance claim
+       based on determining a lifestyle of a person, medical-test reports, demographic
+       details of a person and/or online activity of a person"
+    - "Determine  an insurance premium or deny insurance applications or claims based
+       on data determining a lifestyle of a person, medical-test reports,
+       demographic details of a person, and/or online activity of a person"
+    - "Deny  an insurance claim based on any predicted likelihood of the possibility
+       of insurance fraud; and"
+    - "Diagnose a medical condition without human oversight"
+  excludes:
+    - "Version 1.1, Nov 20, 2022"

@@ -1,0 +1,21 @@
+canonicalName: Western Power Distribution Open Data Licence 3.0
+category: Western Power Distribution
+shortName: WPD-Open-Data-3.0
+
+otherIds:
+  - "scancode:ogl-wpd-3.0"
+
+alternativeNames:
+  - "Western Power Distribution Open Data Licence v3.0"
+
+evidence:
+  matches:
+    - "The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information subject to the conditions below"
+    - "This Licence does not affect your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations"
+    - "exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application"
+    - "acknowledge WPD as the source of the Information by including the following attribution statement ‘Supported by WPD Open Data'"
+    - "Information that has not been accessed by way of publication or disclosure under information access legislation (including the Freedom of Information Acts for the UK and Scotland) by or with the consent of the Information Provider"
+  excludes:
+    - "These terms are compatible with the Creative Commons Attribution License 4.0
+       and the Open Data Commons Attribution License, both of which license copyright
+       and database rights"

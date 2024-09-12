@@ -1,0 +1,41 @@
+canonicalName: Javascript Exception (GPL)
+category: GPL Javascript Exception
+shortName: Javascript-Exception-GPL
+
+type: exception
+
+canonicalNameHistory:
+  - "Javascript Exception (GPL 2.0)"
+
+otherIds:
+  - "scancode:javascript-exception-2.0"
+
+alternativeNames:
+  - "Javascript exception to GPL 2.0"
+
+combinedWith:
+  ##"GNU General Public License 2.0": "GNU General Public License 2.0 (with Javascript exception)"
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Javascript exception (GPL))
+
+evidence:
+  matches:
+    - "As a special exception to GPL, any HTML file which merely makes function calls
+       to this code, and for that purpose includes it by reference shall be deemed a
+       separate work for copyright law purposes"
+    - "In addition, the copyright holders of
+       this code give you permission to combine this code with free software libraries
+       that are released under the GNU LGPL"
+    - "You may copy and distribute such a system
+       following the terms of the GNU GPL for this code and the LGPL for the libraries"
+    - "If you modify this code, you may extend this exception to your version of the
+       code, but you are not obligated to do so"
+
+references:
+  "GPL":
+    matches:
+      - "You may copy and distribute such a system following the terms of the GNU GPL
+         for this code and the LGPL for the libraries"
+  "LGPL":
+    matches:
+      - "In addition, the copyright holders of this code give you permission to combine
+         this code with free software libraries that are released under the GNU LGPL"

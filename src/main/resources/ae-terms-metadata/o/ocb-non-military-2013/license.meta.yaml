@@ -1,0 +1,21 @@
+canonicalName: OCB License (non-military)
+category: OCB License
+shortName: OCV-non-military
+
+otherIds:
+  - "scancode:ocb-non-military-2013"
+
+alternativeNames:
+  - "OCB License (non-military)"
+
+evidence:
+  matches:
+    - "The license above does not apply to and no license is granted for any Military
+       Use of the Licensed Patents"
+    - "The license above does not apply to and no license is granted for any Software
+       Implementation that does not include the full text of this license in user-readable
+       source code or documentation"
+    - "If you or your affiliates institute patent litigation (including, but not limited to,
+       a cross-claim or counterclaim in a lawsuit) against any entity alleging that any Use
+       authorized by this license infringes another patent, then any rights granted to you
+       under this license automatically terminate as of the date such litigation is filed"

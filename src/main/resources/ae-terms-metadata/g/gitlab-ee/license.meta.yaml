@@ -1,0 +1,23 @@
+canonicalName: GitLab Enterprise Edition License
+category: GitLab Enterprise Edition
+shortName: GitLab-EE
+
+otherIds:
+  - "scancode:gitlab-ee"
+
+alternativeNames:
+  - "The GitLab Enterprise Edition (EE) license (the “EE License”)"
+  - "GitLab Enterprise Edition (EE) license"
+
+references:
+  "MIT":
+    matches:
+      - "Any part of this Software distributed as part of GitLab CE or is served client-side as an image, font, cascading stylesheet (CSS), file which produces or is compiled, arranged, augmented, or combined into client-side JavaScript, in whole or in part, is copyrighted under the MIT Expat license"
+
+evidence:
+  matches:
+    - "Subject to the foregoing sentence, you are free to modify this Software and publish patches to the Software"
+    - "You agree that GitLab and/or its licensors (as applicable) retain all right, title and interest in and to all such modifications and/or patches, and all such modifications and/or patches may only be used, copied, modified, displayed, distributed, or otherwise exploited with a valid GitLab Enterprise Edition subscription for the  correct number of user seats"
+    - "You are not granted any other rights beyond what is expressly stated herein"
+    - "This EE License applies only to the part of this Software that is not distributed as part of GitLab Community Edition (CE)"
+    - "Any part of this Software distributed as part of GitLab CE or is served client-side as an image, font, cascading stylesheet (CSS), file which produces or is compiled, arranged, augmented, or combined into client-side JavaScript, in whole or in part, is copyrighted under the MIT Expat license"

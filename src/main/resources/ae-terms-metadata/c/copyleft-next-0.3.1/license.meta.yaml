@@ -1,0 +1,36 @@
+canonicalName: copyleft next License 0.3.1
+category: copyleft next
+spdxIdentifier: copyleft-next-0.3.1
+
+otherIds:
+  - "scancode:copyleft-next-0.3.1"
+
+alternativeNames:
+  - "copyleft next, Version 0.3.1"
+  - "copyleft next, 0.3.1"
+  - "copyleft next 0.3.1"
+  - "copyleft-next, Version 0.3.1"
+  - "copyleft-next, 0.3.1"
+  - "copyleft-next 0.3.1"
+  - "copyleft next License, Version 0.3.1"
+  - "copyleft next License, 0.3.1"
+  - "copyleft next License 0.3.1"
+  - "copyleft-next License, Version 0.3.1"
+  - "copyleft-next License, 0.3.1"
+  - "copyleft-next License 0.3.1"
+
+evidence:
+  matches:
+    - "If the Derived Work includes material licensed under the GPL, You may instead
+       license the Derived Work under the GPL"
+    - "of this License, provided that compliance with such other license would not
+       conflict with any conditions stated in other sections of this License"
+    - "Each direct and indirect recipient of the Covered Work from You is an intended
+       third-party beneficiary of this License solely as to this section 5, with
+       the right to enforce its terms"
+
+references:
+  "GPL":
+    matches:
+      - "If the Derived Work includes material licensed under the GPL You may instead license the Derived Work under 
+         the GPL"

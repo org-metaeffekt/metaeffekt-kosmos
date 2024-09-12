@@ -1,0 +1,31 @@
+canonicalName: CNCF Individual Contributor License Agreement 1.0
+category: CNCF Individual Contributor License Agreement
+shortName: CNCF-Individual-CLA-1.0
+
+otherIds:
+  - "scancode:cncf-individual-cla-1.0"
+
+alternativeNames:
+  - "CNCF Individual Contributor License Agreement ('Agreement') v1.0"
+  - "Cloud Native Computing Foundation A project of The Linux Foundation Individual Contributor License Agreement ( Agreement ) v1 . 0"
+
+
+mappings:
+  "­" : "-"
+
+evidence:
+  matches:
+    - "In return, the Foundation shall not use Your Contributions in a way that is contrary to the public benefit or
+       inconsistent with its nonprofit status and bylaws in effect at the time of the Contribution"
+    - "Except for the license granted herein to the Foundation and recipients of software distributed by the Foundation"
+    - "If any entity institutes patent litigation against You or any other entity (including a cross-claim or
+       counterclaim in a lawsuit) alleging that your Contribution, or the Work to which you have contributed,
+       constitutes direct or contributory patent infringement, then any patent licenses granted to that entity
+       under this Agreement for that Contribution or Work shall terminate as of the date such litigation is filed"
+    - "This license is for your protection as a Contributor as well as the
+       protection of CNCF, the Foundation and its users; it does not change your rights to use your
+       own Contributions for any other purpose"
+  excludes:
+    - "This version of the Agreement allows an entity (the 'Corporation') to submit Contributions to the
+       Foundation, to authorize Contributions submitted by its designated employees to the Foundation,
+       and to grant copyright and patent licenses thereto"

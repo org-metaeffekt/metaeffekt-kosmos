@@ -1,0 +1,111 @@
+canonicalName: Open Logistics Foundation Corporate Contributor CLA 1.0
+category: Open Logistics Foundation Corporate Contributor CLA
+shortName: OLF-CCLA-1.0
+
+otherIds:
+  - "scancode:olf-ccla-1.0"
+
+alternativeNames:
+  - "Open Logistics Foundation Corporate Contributor CLA 1.0"
+
+evidence:
+  matches:
+    - "This CLA is governed by German law, excluding the UN Convention on Contracts for the International Sale of Goods (CISG)"
+    - "Exclusive place of jurisdiction for all disputes between the parties regarding the interpretation of this CLA is Dortmund"
+    - "This CLA or any provision thereof may be amended or modified only with the mutual consent of the contracting parties as
+       set out in a written instrument"
+    - "This requirement of written form can only be deviated from in writing"
+    - "Any failure by the Open Logistics Foundation or the Contributor to insist that the other Party adhere to a provision
+       of this CLA in a given situation does not affect the right of such Party to require adherence in the same regard
+       at a later date"
+    - "Waiving compliance with a provision in one situation shall not be deemed a waiver of compliance with that provision
+       in the future or as a waiver of the provision in its entirety"
+    - "If any provision of this CLA should prove to be invalid and unenforceable, then the validity of the remaining
+       provisions shall remain unaffected"
+    - "In this case, that provision will be replaced, as far as possible, by an enforceable provision that most closely
+       reflects the meaning of the original provision"
+
+segmentation:
+  revert: [
+    { match:
+        "thereby enabling the Contributor to submit Contributions. Corporation name: Corporation address: Point of Contact / CLA-Manager: E-Mail: Phone: Referred to as “Contributor” or “you” 1 Definitions",
+      matchNext:
+        "(1) “Contribution” means any work protected under copyright, design and/or patent law, including any modifications of or additions to this work as well as adaptations of the work"
+    },
+    { match:
+        "“Source Code” means the version of the code of the respective Contribution – if the Contribution is a software – in the programming language.",
+      matchNext:
+        "(5) “Object Code” means the intermediate product of a compilation or translation process of the Source Code"
+    },
+    { match:
+        "insofar as the Contribution is a software– their Source Code and Object Code in any and all forms. The above usage rights include – where applicable – design rights. 3 Granting of a patent license",
+      matchNext:
+        "(1) For any patents (including pending patent applications) owned and licensable by the Contributor at the time of the submission of the Contribution"
+    },
+    { match:
+        "no patent licenses are granted for the use of a Work or the Contribution which become necessary for lawful use because third party modifications are made to the Work or the respective Contribution after the Contribution has been submitted by the Contributor.",
+      matchNext:
+        "(2) If any entity or person institutes patent litigation against You or any other entity or person (including a cross-claim or counterclaim in a lawsuit) alleging that your Contribution"
+    },
+    { match:
+        "constitutes direct or contributory patent infringement, then any patent licenses granted to that person or entity under this CLA for that Contribution or Work shall terminate as of the date such litigation is filed.",
+      matchNext:
+        "(3) The Contributor is entitled to decide in its own discretion to abandon respectively maintain any patent for which",
+    },
+    { match:
+        "maintain any patent for which he has granted a patent license in accordance with para. 1 of this Section 3. 4 Contributor’s binding representations",
+      matchNext:
+        "(1) The Contributor hereby represents that a. it is entitled to grant the usage rights and - to the extent applicable - patent licenses for Contributions under this CLA, and b"
+    },
+    { match:
+        "communications that the Contributor or any employee specifically named by him/her have clearly marked as “no contribution”, or which are otherwise identified as such in writing, are excluded.",
+      matchNext:
+        "(2) “Work” means any work protected under copyright, design and/or patent law containing a Contribution"
+    },
+    { match:
+        "are persons named by the Open Logistics Foundation or by Contributors who have write access to works or projects undertaken by the Open Logistics Foundation in the version control system.",
+      matchNext:
+        "(4) “Source Code” means the version of the code of the respective Contribution – if the Contribution is a software"
+    },
+    { match:
+        "by granting usage rights under Section 2 above and patent licenses under Section 3 above, they are not infringing any rights granted by the Contributor to third parties.",
+      matchNext:
+        "(2) Furthermore, the Contributor hereby undertakes to identify by name all employees and service providers who submit Contributions or otherwise make them available to the Open Logistics Foundation in the Contributor’s name"
+    },
+    { match:
+        "or which are otherwise identified as such in writing, are excluded. (2) “Work” means any work protected under copyright, design and/or patent law containing a Contribution.",
+      matchNext:
+        "(3) “Committers” are persons named by the Open Logistics Foundation or by Contributors who have write access to works or projects undertaken by the Open Logistics Foundation in the version control system"
+    },
+    { match:
+        "It is the Contributor’s sole responsibility to notify the Open Logistics Foundation if changes need to be made to the list of named employees authorised to make Contributions in the Contributor’s name.",
+      matchNext:
+        "(3) If the Contributor wishes to submit a third-party work, this must take place separately from any Contribution"
+    },
+    { match:
+        "provided that such other use or exploitation does not conflict with the rights granted under this CLA. 7 Obligations of the Open Logistics Foundation",
+      matchNext:
+        "(1) The Open Logistics Foundation is not obliged to incorporate the Contributor’s Contributions into any Work or to use them in any other way"
+    },
+    { match:
+        "provided that such other use or exploitation does not conflict with the rights granted under this CLA. 7 Obligations of the Open Logistics Foundation (1) The Open Logistics Foundation is not obliged to incorporate the Contributor’s Contributions into any Work or to use them in any other way.",
+      matchNext:
+        "(2) If a Work is distributed by the Open Logistics Foundation by way of incorporation of the Contributor’s Contributions or if the Contributions themselves are distributed"
+    },
+    { match:
+        "officers and employees shall not be liable that any of the Contributions is free from any claim of infringement of any patent or any other intellectual property right owned by any third party, accurate, devoid of mistakes, complete and/or usable for any purpose. 10 Other provisions",
+      matchNext:
+        "(1) This CLA is governed by German law, excluding the UN Convention on Contracts for the International Sale of Goods (CISG)"
+    },
+    { match:
+        "This CLA or any provision thereof may be amended or modified only with the mutual consent of the contracting parties as set out in a written instrument. This requirement of written form can only be deviated from in writing.",
+      matchNext:
+        "(2) Any failure by the Open Logistics Foundation or the Contributor to insist that the other Party adhere to a provision"
+    },
+    { match:
+        "Waiving compliance with a provision in one situation shall not be deemed a waiver of compliance with that provision in the future or as a waiver of the provision in its entirety.",
+      matchNext:
+        "(3) If any provision of this CLA should prove to be invalid and unenforceable, then the validity of the remaining provisions shall remain unaffected"
+
+    }
+  ]

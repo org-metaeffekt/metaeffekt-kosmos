@@ -1,0 +1,26 @@
+canonicalName: Nmap Public Source License 0.95
+category: NPSL
+shortName: NPSL-0.95
+
+otherIds:
+  - "scancode:npsl-exception-0.95"
+
+alternativeNames:
+  - "Nmap Public Source License v0.95"
+  - "Nmap Public Source License v.0.95"
+  - "Nmap Public Source License version 0.95"
+  - "NPSL V0.95"
+
+evidence:
+  matches:
+    - "\"Licensor\" means Nmap Software LLC and its successors and assigns"
+    - "Covered Software is licensed to you under the terms of the GPL (Exhibit A), with all the exceptions, clarifications, and additions noted in this Main License Body"
+    - "You are not required to accept this License"
+    - "However, nothing else grants You permission to use, copy, modify or distribute the software or its derivative works"
+    - "Each Contributor hereby grants to Licensor a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Contribution and such Derivative Works in Source or Object form"
+    - "Unless required by applicable law or agreed to in writing, Licensor provides the Covered Software (and each Contributor provides its Contributions) on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE"
+    - "This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Covered Software"
+    - "In addition, mere aggregation of another work not based on the Program with the Program (or with a work based on the Program) on a volume of a storage or distribution medium does not bring the other work under the scope of this License"
+    - "\"These Terms to Your New Program\", but you can find that at https://www.gnu.org/licenses/gpl-2.0.html#SEC4"
+    - "Licensor does not purport to control through this license any software which does not require the rights granted herein"
+    - "In particular, many software packages include the ability to parse Covered Software results provided by an end user or to execute Covered Software that end user may have already installed on their system"

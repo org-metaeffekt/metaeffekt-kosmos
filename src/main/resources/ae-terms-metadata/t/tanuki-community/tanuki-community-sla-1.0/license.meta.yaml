@@ -1,0 +1,42 @@
+canonicalName: Tanuki Community Software License Agreement 1.0
+category: Tanuki Community
+shortName: Tanuki-Community-SLA-1.0
+
+otherIds:
+  - "scancode:tanuki-community-sla-1.0"
+
+alternativeNames:
+  - "Tanuki Software, Inc.  Community Software License Agreement Version 1.0"
+
+expectedMatches:
+  - "MIT License"
+  - "GNU General Public License 2.0"
+
+#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
+ignoreMatches:
+  - "MIT License"
+  - "GNU General Public License 2.0"
+
+evidence:
+  matches:
+    - "PLEASE READ THIS AGREEMENT CAREFULLY BEFORE YOU INSTALL, COPY, DOWNLOAD OR USE THE SOFTWARE ACCOMPANYING THIS PACKAGE"
+    - "Community editions of the Software are made available on the GNU General Public License, Version 2 (\"GPLv2\"), included in Section 3 of this license document"
+    - "A copy of this license must be distributed in full with the Product in a location that is obvious to Your customers"
+    - "The Software Program may not be modified, nor may the Product in any way obfuscate or obstruct the copyright notice and license information displayed in the console and log files by the Software Program on startup"
+
+references:
+  "GPL":
+    matches:
+      - "Community editions of the Software are made available on the GNU
+         General Public License, Version 2 (\"GPLv2\"), included in Section 3 of
+          this license document.  All sections of the Community Software License
+          Agreement must be complied with in addition to those of the GPLv2.
+          
+          
+          Section 2 - Your Obligations
+          
+          A copy of this license must be distributed in full with the Product
+          in a location that is obvious to Your customers"
+
+mappings:
+  "Section 3 - GPLv2 License AgreementNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER GNU GENERAL PUBLIC LICENSENEWLINE-MARKER Version 2, June 1991NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright \\(C\\) 1989, 1991 Free Software Foundation, Inc.NEWLINE-MARKER 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USANEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Everyone is permitted to copy and distribute verbatim copies ofNEWLINE-MARKER this license document, but changing it is not allowed.": " LICENSE-SEGMENT-MARKER Section 3 - GPLv2 License AgreementNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER GNU GENERAL PUBLIC LICENSENEWLINE-MARKER Version 2, June 1991NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright (C) 1989, 1991 Free Software Foundation, Inc.NEWLINE-MARKER 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USANEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Everyone is permitted to copy and distribute verbatim copies ofNEWLINE-MARKER this license document, but changing it is not allowed."

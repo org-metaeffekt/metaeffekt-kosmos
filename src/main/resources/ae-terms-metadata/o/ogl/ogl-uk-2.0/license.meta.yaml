@@ -1,0 +1,23 @@
+canonicalName: Open Government Licence 2.0
+category: OGL UK
+spdxIdentifier: OGL-UK-2.0
+
+otherIds:
+  - "scancode:ogl-uk-2.0"
+
+alternativeNames:
+  - "Open Government Licence v2.0"
+  - "OGL-UK-2.0"
+
+evidence:
+  matches:
+    - "This licence does not grant you any right to use the Information in a way
+       that suggests any official status or that the Information Provider endorses
+       you or your use of the Information"
+    - "The Information is licensed 'as is' and the Information Provider excludes
+       all representations, warranties, obligations and liabilities in relation to
+       the Information to the maximum extent permitted by law"
+    - "The Information Provider is not liable for any errors or omissions in the
+       Information and shall not be liable for any loss, injury or damage of any
+       kind caused by its use"
+    - "The Information Provider does not guarantee the continued supply of the Information"

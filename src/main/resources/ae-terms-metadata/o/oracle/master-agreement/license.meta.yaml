@@ -1,0 +1,17 @@
+canonicalName: Oracle Master Agreement
+category: Oracle Master Agreement
+shortName: Oracle-Master-Agreement
+
+otherIds:
+  - "scancode:oracle-master-agreement"
+
+alternativeNames:
+  - "oracle-master-agreement"
+
+evidence:
+  matches:
+    - "The Oracle Master Agreement (OMA) is the standard agreement that is used to license
+       Oracle programs and acquire related services"
+  excludes:
+    - "unless you have received this Program (alone or as part ofunder an Oracle license
+       agreement (including but not limited to the Oracle Master Agreement)"

@@ -1,0 +1,34 @@
+canonicalName: OpenSSL Linking Exception (LGPL; variant 001)
+category: OpenSSL Linking Exception
+shortName: OpenSSL-Linking-Exception-LGPL-001
+
+type: exception
+
+canonicalNameHistory:
+  - "OpenSSL Exception (LGPL) 2.0"
+  - "Linking Exception (LGPL; variant 008)"
+
+otherIds:
+  - "scancode:openssl-exception-lgpl-2.0-plus"
+
+alternativeNames:
+  - "As an additional exemption you are allowed to compile & link against the OpenSSL libraries as published by the
+     OpenSSL project. See the file COPYING for details."
+
+evidence:
+  matches:
+    - "In addition, as a special exception, the copyright holders give
+       permission to link the code of portions of this program with the
+       OpenSSL library, and distribute linked combinations
+       including the two"
+    - "You must obey the GNU Library General Public License in all respects
+       for all of the code used other than OpenSSL"
+    - "If you modify file(s) with this exception, you may extend this exception to your
+       version of the file(s), but you are not obligated to do so"
+    - "If you delete this exception statement from all source files in the program, then also delete it here"
+
+references:
+  "LGPL":
+    matches:
+      - "You must obey the GNU Library General Public License in all respects
+         for all of the code used other than OpenSSL"

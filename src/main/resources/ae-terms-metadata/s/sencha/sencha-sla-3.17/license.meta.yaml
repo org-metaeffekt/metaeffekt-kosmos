@@ -1,0 +1,22 @@
+canonicalName: Sencha Software License Agreement 3.17
+category: Sencha Software
+shortName: Sencha-SLA-3.17
+
+otherIds:
+  - "scancode:sencha-commercial-3.17"
+
+alternativeNames:
+  - "Sencha Software License Agreement v3.17"
+  - "Sencha Software License Agreement Version 3.17"
+
+evidence:
+  matches:
+    - "Subject to the payment of the fee required, and subject to Your compliance with all of the terms and conditions of this Agreement, except to the extent You has purchased a Subscription License (as defined in Section 7), We grant to You a revocable, non-exclusive, non-transferable, non-sublicensable, perpetual right and license (i) for Designated User(s) to use the Software to create Modifications and Applications"
+    - "In addition to the other terms contained herein, in the event You have downloaded or received beta or pre-release versions of the Software (the “Beta Software”) from Us, subject to Your compliance with all of the terms and conditions of this Agreement, We grant to You a revocable, non-exclusive, non-transferable and non-sublicensable license to install and use the Beta Software strictly for Your internal evaluation and review purposes and not for production purposes"
+    - "You may modify the Sample Code solely for the purposes of designing, developing and testing Applications"
+    - "This is a license agreement and not an agreement for sale"
+    - "You must not remove, obscure or interfere with any copyright, acknowledgment, attribution, trademark, warning or disclaimer statement affixed to, incorporated in or otherwise applied in connection with the Software"
+    - "You may not redistribute the Sencha SDKs or Modifications other than by including the Sencha SDKs or a portion thereof within Your Application"
+    - "You agree not to sublicense, assign or transfer the Sencha Tools or Your rights in the Sencha Tools, or authorize any portion of the Sencha Tools to be copied onto or accessed from another individual’s or entity’s computer except as may be explicitly provided in this Agreement"
+    - "In the event You have obtained a Sencha Ext JS Standard Community Edition license (the “Community Edition”), the following terms apply in addition to the General Terms described in Section 2 above"
+    - "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, WE AND OUR RESELLERS DISCLAIM ALL WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH REGARD TO THE SOFTWARE"

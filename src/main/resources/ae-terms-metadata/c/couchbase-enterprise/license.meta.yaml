@@ -1,0 +1,24 @@
+canonicalName: Couchbase Enterprise Edition License
+category: Couchbase Enterprise Edition License
+shortName: Couchbase-Enterprise
+
+otherIds:
+  - "scancode:couchbase-enterprise"
+
+alternativeNames:
+  - "COUCHBASE INC. ENTERPRISE LICENSE AGREEMENT"
+
+evidence:
+  matches:
+    - "Subject to Licensee's compliance with the terms and
+       conditions of this Agreement, Couchbase Inc. hereby grants to Licensee a
+       perpetual, non-exclusive, non-transferable, non-sublicensable,
+       royalty-free, limited license to install and use the Software only for
+       Licensee's own internal production use on up to two (2) Licensed Servers
+       or for Licensee's own internal non-production use for the purpose of
+       evaluation and/or development on an unlimited number of Licensed
+       Servers"
+    - "The Software may include third party open source software components"
+    - "Couchbase Inc. may, at its discretion, modify, suspend or terminate support
+       at any time upon notice to Licensee"
+

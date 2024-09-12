@@ -1,0 +1,18 @@
+canonicalName: GNU Lesser General Public License 2.1 (or any later version; with Linking exception (LGPL; variant 002))
+category: LGPL-Unlimited
+shortName: LGPL-2.1+-Linking-Exception-LGPL-002
+
+canonicalNameHistory:
+  - "GNU Lesser General Public License 2.1 (or any later version; with Unlimited Linking exception)"
+
+type: expression
+
+displayName:
+  "GNU Lesser General Public License 2.1 (or any later version; with Linking exception (variant 002))"
+
+otherIds:
+  - "scancode:lgpl-2.1-plus-unlimited-linking"
+
+combinedWith:
+  "Linking Exception (LGPL; variant 002)": GNU Lesser General Public License 2.1 (or any later version; with Linking exception (LGPL; variant 002))
+  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Linking exception (LGPL; variant 002))

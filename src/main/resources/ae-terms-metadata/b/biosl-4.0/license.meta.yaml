@@ -1,0 +1,32 @@
+canonicalName: Bosch Internal Open Source License 4.0
+category: BIOSL
+shortName: BIOSL-4.0
+
+otherIds:
+  - "scancode:biosl-4.0"
+
+classification: Unstated License
+
+alternativeNames:
+  - "BIOSL v4"
+  - "Bosch Internal Open Source License Version 4"
+
+evidence:
+  matches:
+    - "Each Licensor hereby grants to each Licensee and its Affiliates a
+       worldwide, perpetual, royalty-free, irrevocable non-exclusive license to
+       make, have made, use, offer to sell, sell, import, and otherwise transfer
+       the Program, where such license applies only to those patent claims
+       licensable by such Licensor that are necessarily infringed by their
+       Contribution(s) alone or by Modified Versions of the Program distributed
+       or used by such Licensor"
+    - "Licenses granted under this License Agreement may not be transferred or
+       assigned to third parties"
+    - "The incorporated copyright notice for each file stating the name of the
+       author and/or the legal entity or third party the author is employed at,
+       the LICENSE file, and this permission notice shall be included in all
+       copies or substantial portions of the Software"
+    - "If any third party software is included in any derivative work the origin,
+       name, version and license of this third party component has to be added
+       to the documentation (this applies for Open Source as well as for
+       proprietary Open Source Software)"

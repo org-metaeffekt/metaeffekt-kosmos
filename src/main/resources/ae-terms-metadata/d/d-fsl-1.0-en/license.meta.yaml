@@ -1,0 +1,29 @@
+canonicalName: German Free Software License
+category: German Free Software License
+shortName: D-FSL-1.0-EN
+
+alternativeNames:
+  - "German Free Software License"
+
+otherIds:
+  - "scancode:d-fsl-1.0-en"
+
+evidence:
+  matches:
+    - "Software is more than a mere economic asset"
+    - "It is the technical foundation of the information society"
+    - "Therefore, the issue of the public share
+       in software is of particular importance"
+    - "Conventionally licensed computer programs are
+       distributed in object code form only, and the
+       user is not entitled to modify or pass on the
+       program to third parties"
+    - "The German Free Software License is based on this license model"
+
+references:
+  "GPL":
+    matches:
+      - "If you distribute or make publicly available
+         the Program or parts thereof - modified or
+         unmodified - in combination with another program
+         licensed under the GNU General Public License (GPL)"

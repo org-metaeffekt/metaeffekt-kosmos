@@ -1,0 +1,22 @@
+canonicalName: Permission Terms (RUC)
+category: Permission
+shortName: PT-RUC
+
+otherIds:
+  - "scancode:llnl"
+
+alternativeNames:
+  - "Permission Terms (RUC)"
+
+displayName: "Permission Terms (no advertising; no liability; no responsibility; no warranty)"
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software for   
+       any purpose without fee is hereby granted, provided that this entire notice is included in all copies of
+       any software which is or
+       includes  a  copy  or  modification  of  this software and in all   
+       copies of the supporting documentation for such software"
+    - "makes any warranty, express or implied, or  assumes  any liability  or  responsibility"
+    - "shall not be used for advertising or product endorsement purposes"

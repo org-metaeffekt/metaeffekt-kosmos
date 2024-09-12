@@ -1,0 +1,24 @@
+canonicalName: YOLO License 2.0
+category: YOLO License
+shortName: YOLO-2.0
+
+otherIds:
+  - "scancode:yolo-2.0"
+
+alternativeNames:
+  - "YOLO License v2"
+
+evidence:
+  matches:
+    - "THIS SOFTWARE LICENSE IS PROVIDED \"ALL CAPS\" SO THAT YOU KNOW IT IS SUPER
+       SERIOUS AND YOU DON'T MESS AROUND WITH COPYRIGHT LAW BECAUSE YOU WILL GET IN
+       TROUBLE HERE ARE SOME OTHER BUZZWORDS COMMONLY IN THESE THINGS WARRANTIES
+       LIABILITY CONTRACT TORT LIABLE CLAIMS RESTRICTION MERCHANTABILITY"
+    - "Darknet is public domain"
+    - "Do whatever you want with it"
+
+references:
+  "Public Domain":
+    matches:
+      - "0. Darknet is public domain.
+         1. Do whatever you want with it."

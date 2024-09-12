@@ -1,0 +1,19 @@
+canonicalName: Autoit EULA
+category: Autoit EULA
+shortName: Autoit-EULA
+
+otherIds:
+  - "scancode:autoit-eula"
+
+alternativeNames:
+  - "autoit-eula"
+  - "https://www.autoitscript.com/site/autoit/"
+
+evidence:
+  matches:
+    - "You may install and use an unlimited number of copies of the SOFTWARE PRODUCT"
+    - "You may reproduce and distribute an unlimited number of copies of the SOFTWARE PRODUCT either in whole or in part; each copy should include all copyright and trademark notices, and shall be accompanied by a copy of this EULA"
+    - "Copies of the SOFTWARE PRODUCT may be distributed as a standalone product or included with your own product"
+    - "You may use the SOFTWARE PRODUCT for commercial purposes"
+    - "You may sell for profit and freely distribute scripts and/or compiled scripts that were created with the SOFTWARE PRODUCT"
+    - "You may not reverse engineer or disassemble the SOFTWARE PRODUCT"

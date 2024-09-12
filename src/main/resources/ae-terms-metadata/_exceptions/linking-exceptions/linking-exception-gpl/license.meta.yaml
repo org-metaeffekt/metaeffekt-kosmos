@@ -1,0 +1,30 @@
+canonicalName: Linking Exception (GPL)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL
+
+type: exception
+
+canonicalNameHistory:
+  - "Linking exception to GPL 2.0+"
+
+otherIds:
+  - "scancode:linking-exception-2.0-plus"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL))
+
+mappingOrder:
+  - "000"
+
+mappings:
+  " This exception does":
+    "This exception does"
+
+evidence:
+  matches:
+    - "As a special exception, if you link this library with other files,
+       some of which are compiled with GCC, to produce an executable,
+       this library does not by itself cause the resulting executable
+       to be covered by the GNU General Public License"
+    - "This exception does not however invalidate any other reasons why
+       the executable file might be covered by the GNU General Public License"

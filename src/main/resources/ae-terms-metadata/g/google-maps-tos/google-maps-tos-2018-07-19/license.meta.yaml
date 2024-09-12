@@ -1,0 +1,35 @@
+canonicalName: Google Maps Platform Terms of Service 2018-07-19
+category: Google Maps Platform Terms of Service
+shortName: Google-Maps-TOS-2018-07-19
+
+otherIds:
+  - "scancode:google-maps-tos-2018-07-19"
+
+alternativeNames:
+  - "Google Maps Platform Terms of Service 2018-07-19"
+
+evidence:
+  matches:
+    - "Google will provide the Services to Customer in accordance with the applicable SLA, and Customer may use the
+       Google Maps Core Services in Customer Application(s) in accordance with Section 3 (License)"
+    - "Google may make changes to this Agreement, including pricing (and any linked documents)"
+    - "Unless otherwise noted by Google, material changes to the Agreement will become effective 30 days after notice
+       is given, except if the changes apply to new functionality in which case they will be effective immediately"
+    - "Google will provide at least 90 days advance notice for materially adverse changes to any SLAs by: (a) sending
+       an email to Customer’s primary point of contact; (b) posting a notice in the Admin Console; or (c) posting a
+       notice to the applicable SLA webpage"
+    - "If Customer does not agree to the revised Agreement, Customer should stop using the Services"
+    - "Google will post any modification to this Agreement to the Terms URL"
+  excludes:
+    - "This Google Maps Platform License Agreement takes effect on July 16, 2018"
+    - "Google will provide the Technical Support Services to Customer in accordance with the Technical Support Services Guidelines"
+    - "Last modified: October 1, 2018"
+    - "For Customers with a billing address in New Zealand, as of November 1, 2018, this Agreement is made and entered
+       into by and between Customer and Google New Zealand Limited, with offices at PWC Tower, Level 27, 188 Quay Street,
+       Auckland, New Zealand 1010, as an authorized reseller in New Zealand of the Services and “Google” means Google
+       Asia Pacific Pte. Ltd. and/or its affiliates (including Google New Zealand Limited) as the context requires"
+    - "Last modified: May 02, 2019"
+    - "Last modified: November 21, 2019"
+    - "This is not the current version of this document and is provided for archival purposes.View the current version"
+    - "Last modified: May 6, 2020"
+    - "Last modified: October 31, 2018"

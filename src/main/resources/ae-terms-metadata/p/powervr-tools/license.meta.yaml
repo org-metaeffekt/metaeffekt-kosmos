@@ -1,0 +1,22 @@
+canonicalName: PowerVR Tools Software License
+category: PowerVR Tools
+shortName: PowerVR-Tools-Software
+
+otherIds:
+  - "scancode:powervr-tools-software-eula"
+
+canonicalNameHistory:
+  - "PowerVR Tools EULA"
+
+alternativeNames:
+  - "PowerVR Tools EULA"
+
+evidence:
+  matches:
+    - "use the Software for the sole purpose of developing, profiling, or assisting
+       in the optimisation of internal, commercial, or non-commercial applications"
+    - "you do not distribute the Software on a stand alone basis"
+    - "you distribute such Software under terms no less restrictive than those in this Agreement"
+    - "you comply with the attribution requirements set out in Appendix 1"
+    - "you are solely responsible for any update, support obligation or other liability that may
+       arise from such distribution"

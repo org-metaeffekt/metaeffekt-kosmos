@@ -1,0 +1,322 @@
+canonicalName: ICU 58 License (or any later version)
+category: ICU
+shortName: ICU-58+
+
+otherIds:
+  - "scancode:unicode-icu-58"
+
+canonicalNameHistory:
+  - "ICU 58 License"
+
+#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
+ignoreMatches:
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "BSD 2-Clause License"
+  - "Nara Institute of Science and Technology License (2003)"
+  - "Time Zone Database Ownership License"
+
+#FIXME-DISCUSS: how do we want to handle the "container variant" - keep like this - create own yaml variant? (this would enable us to use references specificallly for that license text) - other approach?
+# these are for the container variant
+  - "OpenSSL License"
+  - "Artistic License 2.0"
+  - "ISC License"
+  - "MIT License"
+  - "Creative Commons Zero 1.0"
+  - "BSD 3-Clause License"
+  - "Apache License (undefined)"
+  - "Apache License 2.0"
+  - "BSD 3-Clause License (variant 001)"
+  - "BSD 3-Clause License (variant 015)"
+  - "Node License"
+  - "Public Domain"
+  - "zlib License"
+
+alternativeNames:
+  - "COPYRIGHT AND PERMISSION NOTICE (ICU 58 and later)"
+  - "1. ICU License - ICU 1.8.1 to ICU 57.1"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of charge, to any person obtaining
+       a copy of the Unicode data files and any associated documentation
+       (the \"Data Files\") or Unicode software and any associated documentation
+       (the \"Software\") to deal in the Data Files or Software
+       without restriction, including without limitation the rights to use,
+       copy, modify, merge, publish, distribute, and/or sell copies of
+       the Data Files or Software, and to permit persons to whom the Data Files
+       or Software are furnished to do so, provided that either
+       (a) this copyright and permission notice appear with all copies
+       of the Data Files or Software, or
+       (b) this copyright and permission notice appear in associated
+       Documentation"
+    - "THE DATA FILES AND SOFTWARE ARE PROVIDED \"AS IS\", WITHOUT WARRANTY OF
+       ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+       WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+       NONINFRINGEMENT OF THIRD PARTY RIGHTS"
+    - "IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS
+       NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL
+       DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
+       DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+       TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+       PERFORMANCE OF THE DATA FILES OR SOFTWARE"
+    - "Except as contained in this notice, the name of a copyright holder
+       shall not be used in advertising or otherwise to promote the sale,
+       use or other dealings in these Data Files or Software without prior
+       written authorization of the copyright holder"
+  excludes:
+    - "Unicode Data Files include all data files under the directories http://www.unicode.org/Public/"
+    - "Unicode Data Files do not include PDF online code charts under the directory"
+
+# these are also for the container variant - entering references for a license text variant does not work - seperate license variant needed
+#references:
+#  "ISC":
+#    matches:
+#      - "- tree.h (from FreeBSD), copyright Niels Provos. Two clause BSD license.
+#
+#              - inet_pton and inet_ntop implementations, contained in src/inet.c, are
+#                copyright the Internet Systems Consortium, Inc., and licensed under the ISC
+#                license."
+#  "BSD":
+#    matches:
+#      - "- tree.h (from FreeBSD), copyright Niels Provos. Two clause BSD license.
+#
+#               - inet_pton and inet_ntop implementations, contained in src/inet.c, are
+#                 copyright the Internet Systems Consortium, Inc., and licensed under the ISC
+#                 license.
+#
+#               - stdint-msvc2008.h (from msinttypes), copyright Alexander Chemeris. Three
+#                 clause BSD license.
+#
+#               - pthread-fixes.c, copyright Google Inc. and Sony Mobile Communications AB.
+#                 Three clause BSD license.
+#
+#               - android-ifaddrs.h, android-ifaddrs.c, copyright Berkeley Software Design
+#                 Inc, Kenneth MacKay and Emergya (Cloud4all, FP7/2007-2013, grant agreement
+#                 n° 289016). Three clause BSD license."
+#      - "For users of this code who wish to consume it under the \"BSD\" license
+#          rather than under the public domain or CC0 contribution text mentioned
+#          above, the code found under this directory is *also* provided under the
+#          following license (commonly referred to as the BSD 2-Clause License). This
+#          license does not detract from the above stated release of the code into
+#          the public domain, and simply represents an additional license granted by
+#          the Author."
+#  "Public Domain":
+#    matches:
+#      - "The code in this repository code was Written by Gil Tene, Michael Barker,
+#             and Matt Warren, and released to the public domain, as explained at
+#             http://creativecommons.org/publicdomain/zero/1.0/
+#
+#             For users of this code who wish to consume it under the \"BSD\" license
+#          rather than under the public domain or CC0 contribution text mentioned
+#          above, the code found under this directory is *also* provided under the
+#          following license"
+
+# these are also for the container variant
+mappings:
+  "2. Chinese/Japanese Word Break Dictionary Data \\(cjdict.txt\\)NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER The Google Chrome software developed by Google is licensed underNEWLINE-MARKER the BSD license": " LICENSE-SEGMENT-MARKER 2. Chinese/Japanese Word Break Dictionary Data (cjdict.txt)NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER The Google Chrome software developed by Google is licensed underNEWLINE-MARKER the BSD license"
+
+  "Copyright \\(c\\) 1999 Computer Systems and Communication Lab,NEWLINE-MARKER \\ Institute of Information Science, AcademiaNEWLINE-MARKER \\ Sinica. All rights reserved.": " LICENSE-SEGMENT-MARKER Copyright (c) 1999 Computer Systems and Communication Lab,NEWLINE-MARKER  Institute of Information Science, AcademiaNEWLINE-MARKER  Sinica. All rights reserved."
+
+  "6. Google double-conversionNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright 2006-2011, the V8 project authors. All rights reserved.NEWLINE-MARKERRedistribution and use in source and binary forms, with or withoutNEWLINE-MARKERmodification, are permitted provided that the following conditions areNEWLINE-MARKERmet": " LICENSE-SEGMENT-MARKER 6. Google double-conversionNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright 2006-2011, the V8 project authors. All rights reserved.NEWLINE-MARKERRedistribution and use in source and binary forms, with or withoutNEWLINE-MARKERmodification, are permitted provided that the following conditions areNEWLINE-MARKERmet"
+
+  "6. Google double-conversionNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright 2006-2011, the V8 project authors. All rights reserved.NEWLINE-MARKER Redistribution and use in source and binary forms, with or withoutNEWLINE-MARKER modification, are permitted provided that the following conditions areNEWLINE-MARKER met": " LICENSE-SEGMENT-MARKER 6. Google double-conversionNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright 2006-2011, the V8 project authors. All rights reserved.NEWLINE-MARKER Redistribution and use in source and binary forms, with or withoutNEWLINE-MARKER modification, are permitted provided that the following conditions areNEWLINE-MARKER met"
+
+# note: this would be only needed if we decide to match the Open SSL License as Open SSL License (standalone) and the SSLeay license
+#  "This product includes cryptographic software written by Eric YoungNEWLINE-MARKER \\* \\(eay@cryptsoft.com\\). This product includes software written by TimNEWLINE-MARKER \\* Hudson \\(tjh@cryptsoft.com\\).NEWLINE-MARKER \\*NEWLINE-MARKER \\*/NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Original SSLeay License": "This product includes cryptographic software written by Eric YoungNEWLINE-MARKER \\* (eay@cryptsoft.com). This product includes software written by TimNEWLINE-MARKER \\* Hudson (tjh@cryptsoft.com).NEWLINE-MARKER \\*NEWLINE-MARKER \\*/NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER LICENSE-SEGMENT-MARKER Original SSLeay License"
+
+
+
+segmentation:
+  revert: [
+    {
+      match:
+        "3. Lao Word Break Dictionary Data (laodict.txt) Copyright (c) 2013 International Business Machines Corporation and others. All Rights Reserved. Project: http://code.google.com/p/lao-dictionary/ Dictionary: http://lao-dictionary.googlecode.com/git/Lao-Dictionary.txt",
+# FIXME-CONCEPT: runs of hyphen/minuses still break segmentation - no fix found yet
+      matchNext:
+        "License: http://lao-dictionary.googlecode.com/git/Lao-Dictionary-LICENSE.txt (copied below) This file is derived from the above dictionary, with slight modifications."
+      # this text follows and would be included in the match it it worked
+      # ---------------------------------------------------------------------- Copyright (C) 2013 Brian Eugene Wilson, Robert Martin Campbell. All rights reserved.
+    },
+    {
+      match:
+        "4. Burmese Word Break Dictionary Data (burmesedict.txt) Copyright (c) 2014 International Business Machines Corporation and others. All Rights Reserved. This list is part of a project hosted at: github.com/kanyawtech/myanmar-karen-word-lists",
+      matchNext:
+        "--- Copyright (c) 2013, LeRoy Benjamin Sharon All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. Neither the name Myanmar Karen Word Lists, nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission"
+    },
+    {
+      match:
+        "- 4. Burmese Word Break Dictionary Data (burmesedict.txt) Copyright (c) 2014 International Business Machines Corporation and others. All Rights Reserved. This list is part of a project hosted at: github.com/kanyawtech/myanmar-karen-word-lists",
+      matchNext:
+        "- Copyright (c) 2013, LeRoy Benjamin Sharon All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. Neither the name Myanmar Karen Word Lists"
+    },
+# these are also for the container variant
+# NOTE: most of these might not be necessary for matching but improve the performance while scanning by a lot
+    {
+      match:
+        "- llhttp, located at deps/llhttp,",
+      matchNext:
+        "is licensed as follows: \"\"\" This software is licensed under the MIT License. Copyright Fedor Indutny, 2018. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files"
+    },
+    {
+      match:
+        "- corepack, located at deps/corepack,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright © Corepack contributors Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions"
+    },
+    {
+      match:
+        "- OpenSSL, located at deps/openssl,",
+      matchNext:
+        "is licensed as follows: \"\"\" LICENSE ISSUES"
+    },
+    {
+      match:
+        "is licensed as follows: \"\"\" LICENSE ISSUES",
+      matchNext:
+        "The OpenSSL toolkit stays under a double license, i.e. both the conditions of the OpenSSL License and the original SSLeay license apply to the toolkit. See below for the actual license texts. OpenSSL License"
+    },
+    {
+      match:
+        "OpenSSL License",
+      matchNext:
+        " Copyright (c) 1998-2019 The OpenSSL Project. All rights reserved.   Redistribution and use in source and binary forms, with or without  modification, are permitted provided that the following conditions  are met:   1. Redistributions of source code must retain the above copyright"
+    },
+    {
+      match:
+        "- Punycode.js, located at lib/punycode.js,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright Mathias Bynens <https://mathiasbynens.be/> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so"
+    },
+    {
+      match:
+        "- V8, located at deps/v8,",
+      matchNext:
+        "is licensed as follows: \"\"\" This license applies to all parts of V8 that are not externally maintained libraries. The externally maintained libraries used by V8 are: - PCRE test suite, located in test/mjsunit/third_party/regexp-pcre/regexp-pcre.js. This is based on the test suite from PCRE-7.3, which is copyrighted by the University of Cambridge and Google"
+    },
+    {
+      match:
+        "- SipHash, located at deps/v8/src/third_party/siphash,",
+      matchNext:
+          "is licensed as follows: \"\"\" SipHash reference C implementation Copyright (c) 2016 Jean-Philippe Aumasson <jeanphilippe.aumasson@gmail.com> To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty."
+    },
+    {
+      match:
+        "- zlib, located at deps/zlib,",
+      matchNext:
+        "is licensed as follows: \"\"\" zlib.h -- interface of the 'zlib' general purpose compression library version 1.2.11, January 15th, 2017 Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software"
+    },
+    {
+      match:
+        "- npm, located at deps/npm,",
+      matchNext:
+        "is licensed as follows: \"\"\" The npm application Copyright (c) npm, Inc. and Contributors Licensed on the terms of The Artistic License 2.0 Node package dependencies of the npm application Copyright (c) their respective copyright owners Licensed on their respective license terms The npm public registry at"    
+    },
+    {
+      match:
+        "- GYP, located at tools/gyp,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright (c) 2020 Node.js contributors. All rights reserved. Copyright (c) 2009 Google Inc. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer."
+    },
+    {
+      match:
+        "- inspector_protocol, located at tools/inspector_protocol,",
+      matchNext:
+        "is licensed as follows: \"\"\" // Copyright 2016 The Chromium Authors. All rights reserved. // // Redistribution and use in source and binary forms, with or without // modification, are permitted provided that the following conditions are // met:"
+    },
+    {
+      match:
+        "- jinja2, located at tools/inspector_protocol/jinja2,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright (c) 2009 by the Jinja Team, see AUTHORS for more details. Some rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer."
+    },
+    {
+      match:
+        "- markupsafe, located at tools/inspector_protocol/markupsafe,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright (c) 2010 by Armin Ronacher and contributors. See AUTHORS for more details. Some rights reserved. Redistribution and use in source and binary forms of the software as well as documentation, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer."
+    },
+    {
+      match:
+        "- cpplint.py, located at tools/cpplint.py,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright (c) 2009 Google Inc. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer."
+    },
+    {
+      match:
+        "- ESLint, located at tools/node_modules/eslint,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright JS Foundation and other contributors, https://js.foundation Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute"
+    },
+    {
+      match:
+        "- Babel, located at tools/node_modules/@babel,",
+      matchNext:
+        "is licensed as follows: \"\"\" MIT License Copyright (c) 2014-present Sebastian McKenzie and other contributors Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy"
+    },
+    {
+      match:
+        "- gtest, located at deps/googletest,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright 2008, Google Inc. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer"
+    },
+    {
+      match:
+        "- nghttp2, located at deps/nghttp2,",
+      matchNext:
+        "is licensed as follows: \"\"\" The MIT License Copyright (c) 2012, 2014, 2015, 2016 Tatsuhiro Tsujikawa Copyright (c) 2012, 2014, 2015, 2016 nghttp2 contributors Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use"
+    },
+    {
+      match:
+        "- large_pages, located at src/large_pages,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright (C) 2018 Intel Corporation Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use"
+    },
+    {
+      match:
+        "- caja, located at lib/internal/freeze_intrinsics.js,",
+      matchNext:
+          "is licensed as follows: \"\"\" Adapted from SES/Caja - Copyright (C) 2011 Google Inc. Copyright (C) 2018 Agoric Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at"
+    },
+    {
+      match:
+        "- brotli, located at deps/brotli,",
+      matchNext:
+        "is licensed as follows: \"\"\" Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy,"
+    },
+    {
+      match:
+        "- HdrHistogram, located at deps/histogram,",
+      matchNext:
+        "is licensed as follows: \"\"\" The code in this repository code was Written by Gil Tene, Michael Barker, and Matt Warren, and released to the public domain, as explained at http://creativecommons.org/publicdomain/zero/1.0/ For users of this code who wish to consume it under the \"BSD\" license rather than under the public domain or CC0 contribution text mentioned above"
+    },
+    {
+      match:
+        "- highlight.js, located at doc/api_assets/highlight.pack.js,",
+      matchNext:
+        "is licensed as follows: \"\"\" BSD 3-Clause License Copyright (c) 2006, Ivan Sagalaev. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer"
+    },
+    {
+      match:
+        "- node-heapdump, located at src/heap_utils.cc,",
+      matchNext:
+        "is licensed as follows: \"\"\" ISC License Copyright (c) 2012, Ben Noordhuis <info@bnoordhuis.nl> Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies"
+    },
+    {
+      match:
+        "- rimraf, located at lib/internal/fs/rimraf.js,",
+      matchNext:
+        "is licensed as follows: \"\"\" The ISC License Copyright (c) Isaac Z. Schlueter and Contributors Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies"
+    },
+    {
+      match:
+        "- uvwasi, located at deps/uvwasi,",
+      matchNext:
+        "is licensed as follows: \"\"\" MIT License Copyright (c) 2019 Colin Ihrig and Contributors Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify"
+    },
+    {
+      match:
+        "- ICU, located at deps/icu-small,",
+      matchNext:
+        "is licensed as follows: \"\"\" UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE See Terms of Use for definitions of Unicode Inc.’s Data Files and Software. NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING UNICODE INC.'S DATA FILES (\"DATA FILES\"), AND/OR SOFTWARE (\"SOFTWARE\"), YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE. COPYRIGHT AND PERMISSION NOTICE Copyright © 1991-2022 Unicode, Inc. All rights reserved. Distributed under the Terms of Use"
+    },
+  ]

@@ -1,0 +1,18 @@
+canonicalName: Sun Binary Code License SDK 1.4.2
+category: Sun Binary
+shortName: Sun-BCL-SDK-1.4.2
+
+otherIds:
+  - "scancode:sun-bcl-sdk-1.4.2"
+
+evidence:
+  matches:
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"
+    - "Sun warrants to you that for a period of ninety (90) days from the date of purchase, as evidenced by a copy of the receipt, the media on which Software is furnished (if any) will be free of defects in materials and workmanship under normal use. Except for the foregoing, Software is provided \"AS IS\""
+    - "UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID"
+    - "If Software is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then the Government's rights in Software and accompanying documentation will be only as set forth in this Agreement"
+    - "You may not modify the Java Platform Interface (\"JPI\", identified as classes contained within the \"java\" package or any subpackages of the \"java\" package), by creating additional classes within the JPI or otherwise causing the addition to or modification of the classes in the JPI"
+    - "Software may contain source code that, unless expressly licensed for other purposes, is provided solely for reference purposes pursuant to the terms of this Agreement"
+    - "means computers, including desktop, laptop and tablet computers, or servers, used for general computing functions under end user control"
+
+

@@ -1,0 +1,27 @@
+canonicalName: BigDigits License
+category: BigDigits License
+shortName: BigDigits
+
+otherIds:
+  - "scancode:bigdigits"
+
+alternativeNames:
+  - "http://www.di-mgt.com.au/bigdigitsCopyright.txt"
+
+evidence:
+  matches:
+    - "You are permitted to use compiled versions of this code at no charge as
+       part of your own executable files and to distribute unlimited copies of
+       such executable files for any purposes including commercial ones
+       provided you agree to these terms and conditions and  keep the copyright
+       notices intact in the source code and you ensure  that the following
+       characters remain in any object or executable files you distribute AND
+       clearly in any accompanying documentation"
+    - "David Ireland and DI Management Services Pty Limited make no
+       representations concerning either the merchantability of this software
+       or the suitability of this software for any particular purpose"
+    - "It is provided 'as is' without express or implied warranty of any kind"
+    - "Our liability will be limited exclusively to the refund of the money you
+       paid us for the software, namely nothing"
+    - "By using the software you expressly agree to such a waiver"
+    - "If you do not agree to the terms, do not use the software"

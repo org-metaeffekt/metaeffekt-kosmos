@@ -1,0 +1,31 @@
+canonicalName: Google Analytics Terms of Service
+category: Google Analytics Terms of Service
+shortName: Google-Analytics-TOS
+
+otherIds:
+  - "scancode:google-analytics-tos"
+
+alternativeNames:
+  - "GOOGLE ANALYTICS TERMS OF SERVICE"
+
+canonicalNameHistory:
+  - "Google Analytics Terms of Service (undefined)"
+
+evidence:
+  matches:
+    - "\"GATC\" means the Google Analytics Tracking Code, which is installed on a Property"
+    - "Customer Data means the data concerning the characteristics and activities of Visitors
+       that is collected through use of the GATC and then forwarded to the Servers and analyzed
+       by the Processing Software"
+    - "Subject to Section 15, the Service is provided without charge to You for up to 10 million
+       Hits per month per account"
+    - "These Google Analytics Terms of Service (this \"Agreement\") are entered into by
+        Google Inc. (\"Google\") and the entity executing this Agreement (\"You\")"
+
+  excludes:
+    - "Customer Data or Google Analytics Data means the data you collect, process or store using the Service
+       concerning the characteristics and activities of Visitors"
+    - "In the event that Customer uses the functionality in the Product for the purposes of downloading and installing any Cloudera-provided public beta software, such beta software will be subject either to the Apache 2 license, or to the terms and conditions of the Public Beta License located here: (http://ccp.cloudera.com/display/SUPPORT/CLOUDERA+PUBLIC+BETA+AGREEMENT) as applicable"
+    - "that Property may have certain Service settings modified by authorized personnel of Firebase (notwithstanding the settings You may have designated for that Property within the Service).
+
+       Last Updated June 17, 2019"

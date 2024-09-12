@@ -1,0 +1,18 @@
+canonicalName: Paul Mackerras Binary License
+category: Paul Mackerras Binary License
+shortName: Paul-Mackerras-Binary
+
+otherIds:
+  - "scancode:paul-mackerras-binary"
+
+alternativeNames:
+  - "paul-mackerras-binary"
+ 
+evidence:
+  matches:
+    - "Redistributions of any form whatsoever must retain the following acknowledgment"
+    - "'This product includes software developed by Paul Mackerras'"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in
+       the documentation and/or other materials provided with the
+       distribution"

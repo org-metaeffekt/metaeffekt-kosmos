@@ -1,0 +1,13 @@
+canonicalName: proconX Modbus Driver License 4.0
+category: proconX Modbus Driver License
+shortName: proconX-Modbus-4.0
+
+otherIds:
+  - "scancode:proconx-modbus-rev4"
+
+evidence:
+  matches:
+    - "However, nothing else grants You permission to use or distribute the Software or its derivative works"
+    - "However, You may distribute this Software in aggregate with other (possibly commercial) programs as part of a larger (possibly commercial) software distribution provided that You do not advertise this Software as a product of your own"
+    - "BECAUSE THE SOFTWARE IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE SOFTWARE, TO THE EXTENT PERMITTED BY APPLICABLE LAW"
+    - "IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE SOFTWARE AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE SOFTWARE TO OPERATE WITH ANY OTHER SOFTWARE), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"

@@ -1,0 +1,23 @@
+canonicalName: Adaptec Software License
+category: Adaptec
+shortName: Adaptec-Software
+
+otherIds:
+  - "scancode:adaptec-downloadable"
+
+requiresCopyright: false
+requiresLicenseText: false
+alternativeNames:
+  - "ADAPTEC, INC. DOWNLOADABLE SOFTWARE LICENSE"
+  - "Adaptec Software License"
+
+evidence:
+  matches:
+  - "Adaptec grants to you a non-exclusive, non-transferable, worldwide license to copy the
+     Software in object code form only, combine it with your software and distribute it,
+     directly to customers, or through your distribution network"
+  - "You shall have no right to grant any license or sublicense to any third party, to use the Software
+     for any purpose, except a sublicense to use and distribute the copy produced and distributed by you"
+  - "You shall have no right to modify all or any part of the Software"
+  - "You shall not disassemble, decompile or otherwise reverse engineer the Software nor permit any third party to do so"
+  - "All rights not expressly granted herein are reserved by Adaptec"

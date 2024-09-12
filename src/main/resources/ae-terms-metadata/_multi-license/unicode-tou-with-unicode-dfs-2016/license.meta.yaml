@@ -1,0 +1,12 @@
+canonicalName: Unicode Terms of Use + Unicode DFS License 2016
+category: Unicode ToU+Unicode DFS
+shortName: Unicode-ToU-with-Unicode-DFS-2016
+
+type: expression
+
+requiresCopyright: false
+requiresLicenseText: false
+
+combinedWith:
+  Unicode DFS License 2016: Unicode Terms of Use + Unicode DFS License 2016
+  Unicode Terms of Use: Unicode Terms of Use + Unicode DFS License 2016

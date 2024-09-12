@@ -1,0 +1,38 @@
+canonicalName: Creative Commons BY-NC-SA 1.0
+category: CC-BY-NC-SA
+spdxIdentifier: CC-BY-NC-SA-1.0
+
+otherIds:
+  - "scancode:cc-by-nc-sa-1.0"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution Non Commercial Share Alike 1.0 Generic"
+  - "Creative Commons BY-NC-SA 1.0 (generic)"
+
+alternativeNames:
+  - "Creative Commons Attribution Non Commercial Share Alike 1.0 Generic"
+  - "CC-BY-NC-SA-1.0"
+  - "Creative Commons Attribution-NonCommercial-ShareAlike 1.0"
+  - "Creative Commons BY-NC-SA 1.0"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "to create and reproduce Derivative Works"
+    - "to distribute copies or phonorecords of, display publicly, perform publicly,
+       and perform publicly by means of a digital audio transmission Derivative Works"
+    - "You may not exercise any of the rights granted to You in Section 3 above
+       in any manner that is primarily intended for or directed toward commercial
+       advantage or private monetary compensation"
+    - "You may distribute, publicly display, publicly perform, or publicly digitally
+       perform a Derivative Work only under the terms of this License, and You must
+       include a copy of, or the Uniform Resource Identifier for, this License with
+       every copy or phonorecord of each Derivative Work You distribute, publicly
+       display, publicly perform, or publicly digitally perform"
+  excludes:
+    - "\"License Elements\" means the following high-level license attributes as
+       selected by Licensor and indicated in the title of this License: Attribution,
+       Noncommercial, ShareAlike"

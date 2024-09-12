@@ -1,0 +1,24 @@
+canonicalName: Sun JavaMail
+category: Sun JavaMail
+shortName: Sun-JavaMail
+
+otherIds:
+  - "scancode:sun-javamail"
+
+alternativeNames:
+  - "Sun JavaMail"
+
+evidence:
+  matches:
+    - "Restricted Rights. Use, duplication or disclosure by the United States
+       government is subject to the restrictions as set forth in the Rights in
+       Technical Data and Computer Software Clauses in DFARS 252.227-7013(c)
+       (1) (ii) and FAR 52.227-19(c) (2) as applicable"
+    - "Governing Law. Any action related to this Agreement will be governed by
+       California law and controlling U.S. federal law"
+    - "No choice of law rules of any jurisdiction will apply"
+  excludes:
+    - "SUN MICROSYSTEMS, INC. (``SUN'') IS WILLING TO LICENSE ITS Java Transaction API
+       SOFTWARE (``SOFTWARE'') TO YOU (\"CUSTOMER\") ONLY UPON THE CONDITION
+        THAT YOU ACCEPT ALL OF THE TERMS CONTAINED IN THIS LICENSE AGREEMENT
+        (\"AGREEMENT\")"

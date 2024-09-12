@@ -1,0 +1,19 @@
+canonicalName: ZIPList5 Geocode End-User Workstation License
+category: ZIPList5 Geocode End-User Workstation License Agreement
+shortName: ZIPList5-Geocode-EULA-workstation
+
+canonicalNameHistory:
+  - "ZIPList5 Geocode End-User Workstation License Agreement"
+
+otherIds:
+  - "scancode:ziplist5-geocode-end-user-workstation"
+
+alternativeNames:
+  - "ZIPList5 Geocode End-User Workstation License Agreement"
+
+evidence:
+  matches:
+    - "CD Light, LLC grants Licensee the following non-exclusive, world-wide rights with respect to ZIPList5 Geocode"
+    - "use ZIPList5 Geocode in accordance with the terms of this Agreement"
+    - "make one copy of ZIPList5 Geocode for backup or archival purposes"
+    - "install ZIPList5 Geocode at a single location on one computer or one single-user workstation"

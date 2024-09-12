@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Linking exception (GPL))
+category: GPL+Linking
+shortName: GPL-2.0+-Linking-Exception-GPL
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-plus-linking"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL))
+  Linking Exception (GPL): GNU General Public License 2.0 (or any later version; with Linking exception (GPL))

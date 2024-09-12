@@ -1,0 +1,48 @@
+canonicalName: Logica Open Source License 1.0
+category: Logica Open Source License
+shortName: Logica-1.0
+
+otherIds:
+  - "scancode:logica-1.0"
+
+alternativeNames:
+  - "http://opensmpp.logica.com/CommonPart/Download/Download.htm"
+  - "logica-1.0"
+
+evidence:
+  matches:
+    - "Your rights in respect of the Software are confined to the non-exclusive
+       and non-assignable license expressed herein"
+    - "If you breach any of these term and conditions then your license may be terminated"
+    - "The copyright and other intellectual property rights in and in connection
+       with the Software are and shall remain the exclusive property of Logica
+       or its third party licensors"
+    - "You must not remove or alter any copyright or other proprietary notice on any of the software"
+    - "The Software is supplied and licensed on an 'as is' basis without any
+       warranty or representation from Logica of any kind"
+    - "Conditions, warranties and representations that might be attributed
+       to Logica or the Software (including, but not limited to, any implied
+       condition or warranty relating to merchantability, fitness, suitability
+       or quality) are excluded"
+    - "In no event shall Logica be liable in respect of or in connection
+       with the supply, licensing, use or distribution of the software in any
+       form for any direct, special, indirect or consequential loss or damages
+       or for any loss of use, loss of data or of profits or for any business
+       interruption or loss of goodwill"
+    - "Logica shall have no obligation to fix any defect or deficiency
+       in the Software and Logica shall have no liability for any consequences
+       (direct or consequential) that may arise from any such defect or deficiency"
+    - "Logica's maximum liability (if any) in relation to the licensing,
+       provision and/or performance of the Software shall not exceed the price
+       you paid to secure your license"
+    - "The laws of Ireland shall apply to these terms and conditions and shall
+       govern every aspect of the supply and licensing of the Software"
+
+segmentation:
+  revert: [
+    { match:
+        "The copyright and other intellectual property rights in and in connection with the Software are and shall remain the exclusive property of Logica or its third party licensors. You must not remove or alter any copyright or other proprietary notice on any of the software.",
+      matchNext:
+        "To the extent permitted by law and in the absence of a formal written contract between you and Logica the following limitations and exclusions also apply:"
+    }
+  ]

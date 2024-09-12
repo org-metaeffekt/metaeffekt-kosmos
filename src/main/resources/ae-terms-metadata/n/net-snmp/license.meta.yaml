@@ -1,0 +1,63 @@
+canonicalName: Net License SNMP
+category: Net
+spdxIdentifier: Net-SNMP
+
+otherIds:
+  - "scancode:net-snmp"
+
+# FIXME-IMPLEMENT: expectedMatches-topic; AE-741 --> Net SNMP License; make multi-license; match parts
+# This license is put together out of various licenses
+
+# currently, needed of overall test
+ignoreMatches:
+  - "BSD 3-Clause License (variant 001)"
+  - "BSD 3-Clause License (variant 022)"
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "MIT License"
+  - "Permission Terms (CMU; variant 002)"
+
+expectedSpdxMatches:
+  - "BSD 3-Clause License (variant 001)"
+  - "Permission Terms CWI"
+  - "BSD 3-Clause License (variant 022)"
+  - "BSD 3-Clause License (copyright holder variant)"
+
+alternativeNames:
+  - "Net-SNMP License"
+  - "Net, Version SNMP"
+  - "Net, SNMP"
+  - "Net SNMP"
+  - "Net License, Version SNMP"
+  - "Net License, SNMP"
+  - "Net License SNMP"
+  - "In addition, all contributors need to be aware that if the contribution is accepted and
+     incorporated into the Net-SNMP project, it will be redistributed under the terms of the
+     license agreement used for the entire body of work that comprises the Net-SNMP project
+     (see the COPYING file for details)"
+  - "http://net-snmp.sourceforge.net/about/license.html "
+  - "Net SNMP License"
+
+evidence:
+  matches:
+    - "Various copyrights apply to this package, listed in various separate parts below"
+    - "Please make sure that you read all the parts"
+    - "---- Part 1: CMU/UCD copyright notice: (BSD like) -----"
+
+references:
+  "BSD":
+    matches:
+      - "---- Part 1: CMU/UCD copyright notice: (BSD like) -----"
+
+mappings:
+  "(---- Part [0-9]*:)":
+    "LICENSE-SEGMENT-MARKER$1"
+
+masks:
+  matches:
+    - "An additional copyright section has been added as Part 3 below
+       also under a BSD license for the work contributed by Cambridge Broadband Ltd.
+       to the project since 2001.
+
+       An additional copyright section has been added as Part 4 below also under a
+       BSD license for the work contributed by Sun Microsystems, Inc. to the project
+       since 2003."

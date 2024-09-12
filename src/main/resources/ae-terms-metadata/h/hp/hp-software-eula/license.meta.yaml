@@ -1,0 +1,32 @@
+canonicalName: HP Software EULA
+category: HP Software EULA
+shortName: HP-Software-EULA
+
+otherIds:
+  - "scancode:hp-software-eula"
+
+alternativeNames:
+  - "HP Software EULA"
+
+references:
+  "GPL":
+    matches:
+      - "If the Software includes Ancillary Software licensed under the GNU General Public License and/or under
+         the GNU Lesser General Pubic License ('GPL Software')"
+      - "(i) included with the Software that is delivered to You; or (ii) upon your written request, HP will provide to
+         You, for a fee covering the cost of distribution, a complete machine-readable copy of the GPL Source Code,
+         by mail, or (iii) if You obtained the Software by downloading it from a HP website and neither of the preceding
+         options are available, you may download the GPL Source Code from the same website"
+      - "Information about how to make a written request for GPL Source Code may be found in the ancillary.txt file or,
+         if an address is not listed in that file, at the following website: www.hp.com."
+  "LGPL":
+    matches:
+      - "If the Software includes Ancillary Software licensed under the GNU General Public License and/or under
+         the GNU Lesser General Pubic License ('GPL Software')"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement and the payment of any applicable license fee, HP grants You a non-exclusive, non-transferable license to Use (as defined below) in object code form one copy of the Software on one device at a time for Your internal business purposes, unless otherwise indicated above or in applicable Transaction Document(s)"
+    - "To Use Software identified as an update or upgrade, You must first be licensed for the original Software identified by HP as eligible for the update or upgrade"
+    - "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, HP AND ITS SUPPLIERS PROVIDE THE SOFTWARE \"AS IS\" AND WITH ALL FAULTS, AND HEREBY DISCLAIM ALL INDEMNITIES, WARRANTIES AND CONDITIONS, EITHER EXPRESS, IMPLIED, WHETHER BY STATUE, COMMON LAW, CUSTOM OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE AND NON-INFRINGEMENT, ANY IMPLIED WARRANTIES, DUTIES OR CONDITIONS OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE, AND OF LACK OF VIRUSES"
+    - "In the event Software was provided to You for a License Fee, HP will defend or settle any claim against You alleging that HP Branded Software products provided under this Agreement infringes intellectual property rights in the country where they were sold, if You"

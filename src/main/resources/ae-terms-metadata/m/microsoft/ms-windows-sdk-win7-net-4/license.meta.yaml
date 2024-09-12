@@ -1,0 +1,20 @@
+canonicalName: Microsoft Windows SDK for Windows 7 and .NET Framework 4
+category: Microsoft Windows SDK for Windows 7 and .NET Framework
+shortName: MS-Windows-SDK-Win7-NET-4
+
+otherIds:
+  - "scancode:ms-windows-sdk-win7-net-4"
+
+alternativeNames:
+  - "Microsoft Windows SDK for Windows 7 and .NET Framework 4"
+  - "MICROSOFT WINDOWS SOFTWARE DEVELOPMENT KIT FOR WINDOWS 7 and .NET FRAMEWORK 4"
+
+evidence:
+  matches:
+    - "You may install and use any number of copies of the software on your devices to design, develop and test
+       your programs that run on a Microsoft Windows operating system"
+    - "Further, you may install, use and/or deploy via a network management system or as part of a desktop image, any
+       number of copies of the software on computer devices within your internal corporate network to design, develop
+       and test your programs that run on a Microsoft Windows operating system"
+    - "Each copy must be complete, including all copyright and trademark notices"
+    - "You must require end users to agree to the terms that protect the software as much as these License terms"

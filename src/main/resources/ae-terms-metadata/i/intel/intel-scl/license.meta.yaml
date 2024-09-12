@@ -1,0 +1,21 @@
+canonicalName: Intel Source Code License Agreement
+category: Intel Source Code License Agreement
+shortName: Intel-SCL
+
+otherIds:
+  - "scancode:intel-scl"
+
+alternativeNames:
+  - "intel-scl"
+
+evidence:
+  matches:
+    - "Intel grants to you a non-exclusive, non-assignable, copyright license to use the Material for your
+       internal development purposes only"
+    - "Intel grants to you a non-exclusive, non-assignable copyright license to reproduce the  Source,
+       prepare derivative works of the  Source and distribute the  Source or any derivative works thereof that
+       you create, as part of the product or application you develop using the Materials"
+    - "Intel grants to you a non-exclusive, non-assignable copyright license to distribute the Redistributables
+       in binary form, or any portions thereof, as part of the product or application you develop using the Materials"
+    - "Intel grants Licensee a non-transferable, non-exclusive, worldwide, non-sublicenseable license under Intel’s
+       Licensed Patent Claims to make, use, sell, and import the  Source and the Redistributables"

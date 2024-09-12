@@ -1,0 +1,37 @@
+canonicalName: Time Zone Database Ownership License
+category: TZ Database
+shortName: TZ-Database-Ownership
+
+canonicalNameHistory:
+  - "Time Zone Database Ownership Notice"
+
+status:
+  - "reviewed 28.01.22"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+displayName: "Public Domain"
+
+evidence:
+  matches:
+    - "Therefore, BCPs 78 [RFC5378] and 79 [RFC3979] do not apply
+       to the TZ Database or contributions that individuals make to it"
+    - "Rather it is a pre-existing and regularly updated work
+       that is in the public domain, and is intended to remain in the public
+       domain"
+    - "The TZ database itself is not an IETF Contribution or an IETF
+       document"
+
+references:
+  "Public Domain":
+    matches:
+      - "The TZ database itself is not an IETF Contribution or an IETF
+         document.  Rather it is a pre-existing and regularly updated work
+         that is in the public domain, and is intended to remain in the public
+         domain."
+
+
+
+
+

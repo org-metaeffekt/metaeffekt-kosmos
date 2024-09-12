@@ -1,0 +1,16 @@
+canonicalName: GNU General Public License 2.0 (with FOSS License exception 1.0)
+category: GPL+FOSS
+shortName: GPL-2.0-FOSS-Exception-1.0
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0] WITH [FOSS License Exception 1.0]"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with FOSS License exception)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with FOSS License exception 1.0)"
+  "FOSS License Exception 1.0": "GNU General Public License 2.0 (with FOSS License exception 1.0)"

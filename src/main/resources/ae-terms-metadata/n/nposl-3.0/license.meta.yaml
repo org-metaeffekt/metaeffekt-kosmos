@@ -1,0 +1,30 @@
+canonicalName: Non-Profit Open Software License 3.0
+category: NPOSL
+spdxIdentifier: NPOSL-3.0
+
+canonicalNameHistory:
+  - "NPOSL 3.0"
+
+otherIds:
+  - "scancode:nosl-3.0"
+  - "osi:NPOSL-3.0"
+
+alternativeNames:
+  - "NPOSL, Version 3.0"
+  - "NPOSL, 3.0"
+  - "NPOSL 3.0"
+  - "Non-Profit Open Software License 3.0"
+
+evidence:
+  matches:
+    - "to reproduce the Original Work in copies, either alone or as part of a
+       collective work"
+    - "to translate, adapt, alter, transform, modify, or arrange the Original
+       Work, thereby creating derivative works ('Derivative Works') based upon the
+       Original Work"
+    - "to distribute or communicate copies of the Original Work and Derivative
+       Works to the public, with the proviso that copies of Original Work or Derivative
+       Works that You distribute or communicate shall be licensed under this Non-Profit
+       Open Software License or as provided in section 17(d)"
+
+

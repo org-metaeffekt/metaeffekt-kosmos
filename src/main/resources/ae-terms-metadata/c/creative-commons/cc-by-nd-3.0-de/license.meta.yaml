@@ -1,0 +1,46 @@
+canonicalName: Creative Commons BY-ND 3.0 (DE)
+category: CC-BY-ND
+spdxIdentifier: CC-BY-ND-3.0-DE
+
+otherIds:
+  - "scancode:cc-by-nd-3.0-de"
+
+representedAs: Creative Commons BY-ND 3.0
+
+alternativeNames:
+  - "Creative Commons Attribution No Derivatives 3.0 Germany"
+  - "licenses.nuget.org/CC-BY-ND-3.0-DE"
+  - "{{CC-BY-ND-3.0-DE}} https://spdx.org/licenses/CC-BY-ND-3.0-DE"
+  - "Creative Commons Namensnennung - Keine Bearbeitungen 3.0 Deutschland"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "Creative Commons ist nicht Partei dieser Lizenz und übernimmt keinerlei Gewähr oder dergleichen in Bezug auf den Schutzgegenstand"
+    - "Creative Commons haftet Ihnen oder einer anderen Partei unter keinem rechtlichen Gesichtspunkt für irgendwelche Schäden,
+       die - abstrakt oder konkret, zufällig oder vorhersehbar - im Zusammenhang mit dieser Lizenz entstehen"
+    - "Unbeschadet der vorangegangen beiden Sätze, hat Creative Commons alle Rechte und Pflichten eines Lizenzgebers,
+       wenn es sich ausdrücklich als Lizenzgeber im Sinne dieser Lizenz bezeichnet"
+    - "Creative Commons gewährt den Parteien nur insoweit das Recht, das Logo und die Marke 'Creative Commons' zu nutzen, als dies
+       notwendig ist, um der Öffentlichkeit gegenüber kenntlich zu machen, dass der Schutzgegenstand unter einer CCPL steht"
+    - "Ein darüber hinaus gehender Gebrauch der Marke 'Creative Commons' oder einer verwandten Marke oder eines verwandten
+       Logos bedarf der vorherigen schriftlichen Zustimmung von Creative Commons"
+    - "Jeder erlaubte Gebrauch richtet sich nach der Creative Commons Marken-Nutzungs-Richtlinie in der jeweils aktuellen
+       Fassung, die von Zeit zu Zeit auf der Website veröffentlicht oder auf andere Weise auf Anfrage zugänglich gemacht wird"
+    - "Zur Klarstellung: Die genannten Einschränkungen der Markennutzung sind nicht Bestandteil dieser Lizenz"
+  excludes:
+    - "ÜBER DIE IN ZIFFER 5 GENANNTE GEWÄHRLEISTUNG HINAUS HAFTET DER LIZENZGEBER IHNEN GEGENÜBER FÜR SCHÄDEN JEGLICHER
+       ART NUR BEI GROBER FAHRLÄSSIGKEIT ODER VORSATZ, UND ÜBERNIMMT DARÜBER HINAUS KEINERLEI FREIWILLIGE HAFTUNG FÜR
+       FOLGE- ODER ANDERE SCHÄDEN, AUCH WENN ER ÜBER DIE MÖGLICHKEIT IHRES EINTRITTS UNTERRICHTET WURDE"
+    - "Abwandlungen des Schutzgegenstandes anzufertigen, einschließlich Übersetzungen unter Nutzung jedweder Medien,
+       sofern deutlich erkennbar gemacht wird, dass es sich um Abwandlungen handelt"
+    - "Abwandlungen des Schutzgegenstandes zu veröffentlichen, öffentlich zu zeigen und zu verbreiten"
+    - "Die Rechteeinräumung gemäß Abschnitt 3 gilt nur für Handlungen, die nicht vorrangig auf einen geschäftlichen Vorteil
+       oder eine geldwerte Vergütung gerichtet sind ('nicht-kommerzielle Nutzung', 'Non-commercial-Option')"
+    - "Wird Ihnen in Zusammenhang mit dem Schutzgegenstand dieser Lizenz ein anderer Schutzgegenstand überlassen,
+       ohne dass eine vertragliche Verpflichtung hierzu besteht (etwa im Wege von File-Sharing), so wird dies nicht als
+       auf geschäftlichen Vorteil oder geldwerte Vergütung gerichtet angesehen, wenn in Verbindung mit dem Austausch
+       der Schutzgegenstände tatsächlich keine Zahlung oder geldwerte Vergütung geleistet wird"

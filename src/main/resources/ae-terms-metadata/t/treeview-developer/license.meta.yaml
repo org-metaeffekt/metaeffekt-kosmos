@@ -1,0 +1,31 @@
+canonicalName: TreeView Developer License
+category: TreeView Developer License
+shortName: TreeView-Developer
+
+otherIds:
+  - "scancode:treeview-developer"
+
+alternativeNames:
+  - "TreeView License: Developer's License"
+
+evidence:
+  matches:
+    - "GUBUSOFT hereby grants Customer the following non-exclusive, non-transferable
+       right to use the SOFTWARE"
+    - "Customer may not rent, lease, or transfer the rights to the SOFTWARE to someone else"
+    - "Customer may redistribute and use SOFTWARE in source code form provided (a) Customer
+       Applications of SOFTWARE add primary and substantial functionality, and are not merely
+       a set or subset of any of the functionality of the SOFTWARE, or a set or subset of any
+       of the code or other files of the SOFTWARE; (b) the source code retains all source
+       code comments, including all copyright notices, without modification; (c) Customer does
+       do not permit further redistribution of SOFTWARE by their customers; (d) Customer includes
+       a valid copyright notice on their Application; and (e) Customer agrees to indemnify, hold
+       harmless, and defend GubuSoft from and against any claims or lawsuits, including attorneys'
+       fees, that arise or result from the use or distribution of Customer's Application"
+    - "Customer may redistribute and use SOFTWARE in binary form provided (a) Customer Applications
+       of SOFTWARE add primary and substantial functionality, and are not merely a set or subset of
+       any of the functionality of the SOFTWARE, or a set or subset of any of the code or other files
+       of the SOFTWARE; (b) Customer agrees to indemnify, hold harmless, and defend GubuSoft from and
+       against any claims or lawsuits, including attorneys' fees, that arise or result from the use or
+       distribution of Customer's Application; and (c) the following notices are included in the
+       documentation and/or other materials provided with the Customer's Application"

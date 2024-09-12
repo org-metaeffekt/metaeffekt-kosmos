@@ -1,0 +1,29 @@
+canonicalName: Splunk EULA (third-party content)
+category: Splunk EULA
+shortName: Splunk-3PC-EULA
+
+otherIds:
+  - "scancode:splunk-3pp-eula"
+
+alternativeNames:
+  - "splunk-3pp-eula"
+  - "Splunk EULA for Third-Party Content"
+
+evidence:
+  matches:
+    - "Splunk Apps hosts certain content created and published by individuals and entities other than Splunk Inc. or its affiliates ('Splunk')"
+    - "Such third-party content made available through Splunk Apps are licensed, not sold, to you"
+    - "Your license to each content that you obtain through Splunk Apps is subject to your prior acceptance of this End User License Agreement,
+       and you agree that the terms of this Agreement will apply to each Content that you license through Splunk Apps"
+    - "If you are downloading, accessing or using the Content provided or authored by a third-party developer or provider,
+       this Agreement is solely between the developer or provider of the Content ('Licensor') and you, and not with Splunk"
+    - "Licensor, and not Splunk, is solely responsible for the Content, including, without limitation, for any warranties, maintenance and support,
+       notices and consents to be given to Users"
+    - "You agree to foregoing even if the Content has been examined against best practices for Splunk development, deemed cloud compatible or otherwise vetted by Splunk"
+    - "Notwithstanding the above, you acknowledge that Splunk is a third-party beneficiary of this Agreement and that upon your acceptance of the terms of this Agreement,
+       Splunk will have the right to enforce the Agreement against you as a third-party beneficiary thereof"
+    - "Questions, complaints or claims with respect to the Content should be directed solely to the Licensor, whose contact information can be found on the Content Download Page from which the Content is downloaded"
+    - "The Content is to be used only in conjunction with the specific Splunk software product or service identified in materials distributed with the Content, with which such Content was designed to operate ('Splunk Software')"
+    - "Therefore, you may use the Content only if you are an authorized user of the Splunk Software"
+    - "This Agreement does not modify or alter the terms of the software license agreement delivered with the Splunk Software"
+    - "Subject to the terms and conditions of this Agreement, Licensor grants to you a license to download and use the Content in connection with the Splunk Software"

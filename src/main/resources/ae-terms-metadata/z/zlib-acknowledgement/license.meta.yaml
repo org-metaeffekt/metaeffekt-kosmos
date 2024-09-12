@@ -1,0 +1,24 @@
+
+canonicalName: zlib/libpng License (with acknowledgement)
+category: zlib-acknowledgement
+spdxIdentifier: zlib-acknowledgement
+
+canonicalNameHistory:
+  - "zlib/libpng License with Acknowledgement"
+
+otherIds:
+  - "scancode:zlib-acknowledgement"
+
+alternativeNames:
+  - "zlib-acknowledgement"
+  - "zlib/libpng License with Acknowledgement"
+  - "zlib with acknowledgement"
+
+evidence:
+  matches:
+  - "The origin of this software must not be misrepresented; you must not claim that you wrote the original software"
+  - "If you use this software in a product, an acknowledgment (see the following) in the product documentation is
+     required"
+  - "Portions Copyright (c) 2002-2007 Charlie Poole or Copyright (c) 2002-2004
+     James W. Newkirk, Michael C. Two, Alexei A. Vorontsov or Copyright (c) 2000-2002
+     Philip A. Craig"

@@ -1,0 +1,35 @@
+canonicalName: JSR-107 JCache Specification License 2013
+category: JSR-107 JCache Specification License
+shortName: JSR-107-JCache-Spec-2013
+
+otherIds:
+  - "scancode:jsr-107-jcache-spec-2013"
+
+alternativeNames:
+  - "JSR-000107 JCACHE 2.9 Public Review - Updated Specification License"
+
+evidence:
+  matches:
+    - "Review the Specification for the purposes of evaluation"
+    - "developing implementations of the Specification for your internal, non-commercial use"
+    - "discussing the Specification with any third party"
+    - "excerpting brief portions of the Specification in oral or written communications which discuss the
+       Specification provided that such excerpts do not in the aggregate constitute a significant portion of the
+       Technology"
+    - "Distribute implementations of the Specification to third parties for their testing and evaluation use,
+       provided that any such implementation"
+    - "does not modify, subset, superset or otherwise extend the Licensor Name Space, or include any public or
+       protected packages, classes, Java interfaces, fields or methods within the Licensor Name Space other than
+       those required/authorized by the Specification or Specifications being implemented"
+    - "is clearly and prominently marked with the word \"UNTESTED\" or \"EARLY ACCESS\" or \"INCOMPATIBLE\" or \"UNSTABLE\"
+       or \"BETA\" in any list of available builds and in proximity to every link initiating its download, where the
+       list or link is under Licensee's control"
+    - "The grant set forth above concerning your distribution of implementations of the
+       specification is contingent upon your agreement to terminate development and distribution of your \"early draft\"
+       implementation as soon as feasible following final completion of the specification"
+    - "If you fail to do so, the foregoing grant shall be considered null and void. No provision of this Agreement
+       shall be understood to restrict your ability to make and distribute to third parties applications written to
+       the Specification"
+    - "Other than this limited license, you acquire no right, title or interest in or to the Specification or any
+       other Oracle or Greg Luck intellectual property, and the Specification may only be used in accordance with the
+       license terms set forth herein"

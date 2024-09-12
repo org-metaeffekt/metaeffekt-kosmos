@@ -1,0 +1,21 @@
+canonicalName: Permission Terms (Tigra Calendar 3.2)
+category: Permission
+shortName: PT-Tigra-Calendar-3.2
+
+canonicalNameHistory:
+  - "Tigra Calendar License 3.2"
+
+otherIds:
+  - "scancode:tigra-calendar-3.2"
+
+alternativeNames:
+  - "http://www.softcomplex.com/products/tigra_calendar/"
+  - "Tigra Calendar v3.2 License"
+
+displayName: Permission Terms
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "Permission given to use this script in ANY kind of
+       applications if header lines are left unchanged"

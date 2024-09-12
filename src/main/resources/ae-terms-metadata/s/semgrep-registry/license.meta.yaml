@@ -1,0 +1,12 @@
+canonicalName: Semgrep Registry License
+category: Semgrep Registry
+shortName: Semgrep-Registry
+
+otherIds:
+  - "scancode:semgrep-registry"
+
+evidence:
+  matches:
+    - "You may use the rules only with the Semgrep hosted service operated by licensor"
+    - "If you or your company make any written claim that the rules or the Semgrep hosted service infringes or contributes to infringement of any patent, your patent license for the rules granted under these terms ends immediately"
+    - "If the licensor provides you with a notice of your violation, and you cease all violation of this license no later than 30 days after you receive that notice, your licenses will be reinstated retroactively"

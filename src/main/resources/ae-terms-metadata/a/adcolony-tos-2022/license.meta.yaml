@@ -1,0 +1,35 @@
+canonicalName: AdColony Terms of Service for Publishers 2022
+category: AdColony Terms of Service
+shortName: AdColony-TOS-2022
+
+otherIds:
+  - "scancode:adcolony-tos-2022"
+
+evidence:
+  matches:
+    - "AdColony publishing and monetization partners must sign, acknowledge, and agree
+       to their own terms of service document within the AdColony portal"
+    - "These AdColony SDK License and Publisher Terms (this “Agreement”) is made
+       available by AdColony, Inc. (“AdColony”)"
+    - "Subject to the terms and conditions of this Agreement,
+           AdColony grants Developer a non-exclusive, non-transferable, non-
+           sublicenseable, worldwide license to: (a) integrate the AdColony SDK with
+           Developer Apps solely for internal use"
+    - "AdColony periodically releases new versions of the AdColony
+           SDK which may contain new features and fixes, and AdColony may sunset
+           versions of the AdColony SDK"
+    - "All ownership rights, title, and interest in and
+           to the AdColony SDK and AdColony Platform, including all intellectual
+           property rights therein, as such may be modified, upgraded, or enhanced from
+           time to time (“AdColony Property”) will remain and belong exclusively to
+           AdColony"
+    - "Developer hereby grants AdColony
+               the right to sell, and have sold, advertisement inventory in the
+               Developer Apps, and to insert AdColony Ads within such inventory"
+
+references:
+  "Public Domain":
+    matches:
+      - "Confidential Information shall not include information which: (i) is in
+         or has entered the public domain through no breach of this Agreement or
+         other act by a Receiving Party"

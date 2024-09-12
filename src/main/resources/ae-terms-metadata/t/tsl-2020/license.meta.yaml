@@ -1,0 +1,45 @@
+canonicalName: Timescale License Agreement 2020
+category: Timescale
+shortName: TSL-2020
+
+alternativeNames:
+  - "Timescale License Agreement 2020"
+
+otherIds:
+  - "scancode:tsl-2020"
+
+evidence:
+  matches:
+    - "A license to copy, compile, install, and use the
+       Timescale Software and Derivative Works solely for Your own internal
+       business purposes in a manner that does not expose or give access to,
+       directly or indirectly (e.g., via a wrapper), the Timescale Data
+       Definition Interfaces or the Timescale Data Manipulation Interfaces to
+       any person or entity other than You or Your employees and Contractors
+       working on Your behalf"
+    - "Subject to the prohibitions in Section 2.2 below, a license to copy and
+       distribute the Timescale Software source code and binaries solely in
+       unmodified standalone form and subject to the terms and conditions of
+       the most current version of this TSL Agreement"
+
+references:
+  "PostgreSQL":
+    matches:
+      - "Timescale Software that Timescale makes publicly available for distribution from time
+         to time as open source software under the terms of the Apache License
+         Version 2.0 or, in some limited instances, under other open source licenses
+         (such as the PostgreSQL license) as identified in the applicable source
+         code files and/or accompanying notices"
+  "Apache License":
+    matches:
+      - "Timescale Software that Timescale makes publicly available for distribution from time
+         to time as open source software under the terms of the Apache License
+         Version 2.0 or, in some limited instances, under other open source licenses
+         (such as the PostgreSQL license) as identified in the applicable source
+         code files and/or accompanying notices"
+      - "The first piece (referred to herein as the Timescale Open Source Software,
+         as defined below) is open source software that is licensed under the Apache
+         Version 2.0 license"
+      - "The use of Timescale Open Source Software, in both source and executable forms, is governed
+         by the terms of the Apache License Version 2.0, a copy of which is available at
+         https://opensource.org/licenses/Apache-2.0"

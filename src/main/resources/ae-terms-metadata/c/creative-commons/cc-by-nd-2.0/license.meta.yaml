@@ -1,0 +1,39 @@
+canonicalName: Creative Commons BY-ND 2.0
+category: CC-BY-ND
+spdxIdentifier: CC-BY-ND-2.0
+
+otherIds:
+  - "scancode:cc-by-nd-2.0"
+
+canonicalNameHistory:
+  - "Creative Commons Attribution No Derivatives 2.0 Generic"
+  - "Creative Commons BY-ND 2.0 (generic)"
+
+alternativeNames:
+  - "Creative Commons Attribution No Derivatives 2.0 Generic"
+  - "CC-BY-ND-2.0"
+  - "Creative Commons Attribution-NoDerivs 2.0"
+  - "Creative Commons BY-ND 2.0"
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+evidence:
+  matches:
+    - "For the avoidance of doubt, where the Work is a musical composition or sound
+       recording, the synchronization of the Work in timed-relation with a moving
+       image (\"synching\") will be considered a Derivative Work for the purpose of
+       this License"
+    - "to reproduce the Work, to incorporate the Work into one or more Collective
+       Works, and to reproduce the Work as incorporated in the Collective Works"
+    - "to distribute copies or phonorecords of, display publicly, perform publicly,
+       and perform publicly by means of a digital audio transmission the Work including
+       as incorporated in Collective Works"
+    - "but otherwise you have no rights to make Derivative Works"
+    - "Performance Royalties Under Blanket Licenses. Licensor waives the exclusive
+       right to collect, whether individually or via a performance rights society
+       (e.g. ASCAP, BMI, SESAC), royalties for the public performance or public digital
+       performance (e.g. webcast) of the Work"
+  excludes:
+    - "(i) the name of the Original Author (or pseudonym, if applicable) if supplied"

@@ -1,0 +1,15 @@
+canonicalName: Segmentation-013
+category: Segmentation
+shortName: Segmentation-013
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "013"
+
+mappings:
+  "START OF GNU GENERAL PUBLIC LICENSE": ""
+  "%%Copyright:": ""
+
+  # previously covered: ": Copyright|"; may have been related to NOKIA license, which we should monitor
