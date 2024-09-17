@@ -1,0 +1,17 @@
+canonicalName: GNU Lesser General Public License 3.0 (or any later version; with Linking exception (independent module; variant 002))
+category: LGPL+Linking
+shortName: LGPL-3.0+-Linking-Exception-Independent-002
+
+type: expression
+
+spdxExpression: "[GNU Lesser General Public License 3.0 (or any later version)] WITH [Linking Exception (independent module; variant 002)]"
+
+canonicalNameHistory:
+  - "GNU Lesser General Public License 3.0 (or any later version; with ZeroMQ exception)"
+  - "GNU Lesser General Public License 3.0 (or any later version; with Linking exception (independent mondule; variant 002))"
+
+representedAs: "GNU General Public License 3.0 (or any later version)"
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": GNU Lesser General Public License 3.0 (or any later version; with Linking exception (independent module; variant 002))
+  "Linking Exception (independent module; variant 002)": GNU Lesser General Public License 3.0 (or any later version; with Linking exception (independent module; variant 002))

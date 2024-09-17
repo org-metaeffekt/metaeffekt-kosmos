@@ -1,0 +1,15 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 021))
+category: GPL+Linking
+shortName: GPL-2.0+-Linking-Exception-GPL-021
+
+type: expression
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with Server Handler exception)"
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with Linking exception (variant 021))"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 021))
+  "Linking Exception (GPL; variant 021)": GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 021))

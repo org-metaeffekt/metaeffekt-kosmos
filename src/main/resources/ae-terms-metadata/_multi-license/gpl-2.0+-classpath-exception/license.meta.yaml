@@ -1,0 +1,26 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with classpath exception)
+category: GPL+Classpath
+shortName: GPL-2.0+-Classpath-Exception
+
+otherIds:
+  - "scancode:gpl-2.0-classpath"
+  - "scancode:gpl-2.0-independent-module-linking"
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0 (or any later version)] WITH [Classpath Exception]"
+
+alternativeNames:
+  - "GNU General Public License Version 2 with classpath exception"
+  - "GPL 2.0 With Classpath Exception"
+  - "GPL v2 with ClassPath Exception"
+  - "GPL v2 with class path exception"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with classpath exception 2.0)"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with classpath exception)
+  "Classpath Exception": GNU General Public License 2.0 (or any later version; with classpath exception)

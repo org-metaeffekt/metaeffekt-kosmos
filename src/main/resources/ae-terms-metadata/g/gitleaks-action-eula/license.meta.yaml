@@ -1,0 +1,18 @@
+canonicalName: Gitleaks-Action EULA
+category: Gitleaks-Action EULA
+shortName: gitleaks-action-eula
+
+otherIds:
+  - "scancode:gitleaks-action-eula"
+
+classification: commercial
+
+alternativeNames:
+  - "Gitleaks-Action EULA"
+
+evidence:
+  matches:
+    - "This Agreement is effective as of the delivery of the License Key and expires at such time as all license
+       and service subscriptions hereunder have expired in accordance with their own terms (the “Term”)"
+    - "The term of your license under this Agreement shall be specified at your time of purchase"
+    - "Either party may terminate this Agreement (including all related Invoices) if the other party"

@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 2.0 (with Ice exception)
+category: GPL+Ice exception
+shortName: GPL-2.0-Ice-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-ice"
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Ice exception)
+  Ice Exception (GPL 2.0): GNU General Public License 2.0 (with Ice exception)
+
+representedAs: GNU General Public License 2.0 (with exceptions)

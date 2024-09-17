@@ -1,0 +1,17 @@
+canonicalName: GNU General Public License 2.0 (with Linking exception (independent module))
+category: GPL+Linking
+shortName: GPL-2.0-independent-module
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-library"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with Independent Module Linking exception)"
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Linking exception (independent module))"
+  "Linking Exception (independent module)": "GNU General Public License 2.0 (with Linking exception (independent module))"

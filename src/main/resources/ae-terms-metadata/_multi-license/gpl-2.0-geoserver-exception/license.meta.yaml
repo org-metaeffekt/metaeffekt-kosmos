@@ -1,0 +1,9 @@
+canonicalName: GNU General Public License 2.0 (with GeoServer Exception (GPL))
+category: GPL+Geoserver Exception
+shortName: GPL-2.0-Geoserver-Exception
+
+type: expression
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with GeoServer Exception (GPL))
+  GeoServer Exception (GPL): GNU General Public License 2.0 (with GeoServer Exception (GPL))

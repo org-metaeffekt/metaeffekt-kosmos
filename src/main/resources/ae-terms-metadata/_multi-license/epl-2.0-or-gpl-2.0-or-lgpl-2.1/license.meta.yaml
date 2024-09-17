@@ -1,0 +1,13 @@
+canonicalName: Eclipse Public License 2.0 + GNU General Public License 2.0 + GNU Lesser General Public License 2.1
+category: EPL+GPL+LPGL
+shortName: EPL-2.0-OR-GPL-2.0-OR-LPGL-2.1
+
+type: expression
+
+alternativeNames:
+  - "You can use it, redistribute it and/or modify it under the terms of the: Eclipse Public License version 2.0 OR GNU General Public License version 2 OR GNU Lesser General Public License version 2.1"
+
+combinedWith:
+  Eclipse Public License 2.0: Eclipse Public License 2.0 + GNU General Public License 2.0 + GNU Lesser General Public License 2.1
+  GNU General Public License 2.0: Eclipse Public License 2.0 + GNU General Public License 2.0 + GNU Lesser General Public License 2.1
+  GNU Lesser General Public License 2.1: Eclipse Public License 2.0 + GNU General Public License 2.0 + GNU Lesser General Public License 2.1

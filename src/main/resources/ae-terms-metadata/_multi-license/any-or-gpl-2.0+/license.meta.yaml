@@ -1,0 +1,31 @@
+canonicalName: ANY + GNU General Public License 2.0 (or any later version)
+category: ANY+GPL
+shortName: ANY-OR-GPL-2.0+
+
+type: expression
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "ANY + GNU General Public License 2.0 (or any later version)"
+
+# compensated by combinedWith
+ignoreMatches:
+  - "GNU General Public License 2.0 (or any later version)"
+
+alternativeNames:
+  - "ANY + GNU General Public License 2.0 (or any later version)"
+  - "Alternatively, the contents of this package may be used under the terms of the GNU General Public License 
+     (\"GPL\") version 2 or any later version"
+  - "Alternatively the contents of this package may be used under the terms of the GNU General Public License 
+     (\"GPL\") version 2 or any later version"
+
+evidence:
+  matches:
+    - "Alternatively, the contents of this package may be used under the
+      terms of the GNU General Public License (*GPL*) version 2 or any
+      later version, in which case the provisions of the GPL are
+      applicable instead of the above"
+  excludes:
+    - "If you wish to allow the use of
+       your version of this package only under the terms of the GPL and
+       not to allow others to use your version of this file under the BSD
+       license"

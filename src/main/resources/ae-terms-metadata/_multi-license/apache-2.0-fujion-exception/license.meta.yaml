@@ -1,0 +1,11 @@
+canonicalName: Apache License 2.0 (with Fujion Clinical Exception (Apache 2.0))
+category: Apache 2.0+Fujion Exception
+shortName: Apache-2.0-Fujion-Exception
+
+type: expression
+
+representedAs: Apache License 2.0 (with exceptions)
+
+combinedWith:
+  "Apache License 2.0": "Apache License 2.0 (with Fujion Clinical Exception (Apache 2.0))"
+  "Fujion Clinical Exception (Apache 2.0)": "Apache License 2.0 (with Fujion Clinical Exception (Apache 2.0))"

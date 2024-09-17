@@ -1,0 +1,12 @@
+canonicalName: Academic Free License 2.1 + GNU General Public License 2.0 (or any later version)
+category: AFL+GPL
+shortName: AFL-2.1-GPL-2.0+
+
+type: expression
+
+alternativeNames:
+  - "Academic Free License version 2.1, or the GNU General Public License version 2 (or, at your option any later version)"
+
+combinedWith:
+  "Academic Free License 2.1": "Academic Free License 2.1 + GNU General Public License 2.0 (or any later version)"
+  "GNU General Public License 2.0 (or any later version)": "Academic Free License 2.1 + GNU General Public License 2.0 (or any later version)"

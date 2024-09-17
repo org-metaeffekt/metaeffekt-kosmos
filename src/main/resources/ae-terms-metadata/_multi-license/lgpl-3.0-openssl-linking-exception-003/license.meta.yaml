@@ -1,0 +1,20 @@
+canonicalName: GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (LGPL; variant 003))
+category: LGPL+OpenSSL Linking
+shortName: LGPL-3.0-OpenSSL-Linking-Exception-003
+
+type: expression
+
+spdxExpression: "[GNU Lesser General Public License 2.1 (or any later version)] WITH [OpenSSL Linking Exception (LGPL; variant 003)]"
+
+canonicalNameHistory:
+  - "GNU Lesser General Public License 2.1 (or any later version; with OpenSSL exception (lgpl))"
+  - "GNU Lesser General Public License 2.1 (or any later version; with Linking exception (LGPL; variant 010))"
+
+displayName:
+  "GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (variant 003))"
+
+representedAs: GNU Lesser General Public License 2.1 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (LGPL; variant 003))
+  "OpenSSL Linking Exception (LGPL; variant 003)": GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (LGPL; variant 003))

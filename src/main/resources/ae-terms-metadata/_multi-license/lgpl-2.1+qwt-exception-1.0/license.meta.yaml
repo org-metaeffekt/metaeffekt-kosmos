@@ -1,0 +1,16 @@
+canonicalName: GNU Lesser General Public License 2.1 (or any later version; with Qwt exception 1.0)
+category: LGPL+Qwt
+shortName: LGPL-2.1+Qwt-Exception-1.0
+
+canonicalNameHistory:
+  - "GNU Lesser General Public License 2.1 (or any later version with Qwt exception 1.0)"
+
+type: expression
+
+
+otherIds:
+  - "scancode:qwt-1.0"
+
+combinedWith:
+  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Qwt exception 1.0)
+  "Qwt Exception 1.0": GNU Lesser General Public License 2.1 (or any later version; with Qwt exception 1.0)

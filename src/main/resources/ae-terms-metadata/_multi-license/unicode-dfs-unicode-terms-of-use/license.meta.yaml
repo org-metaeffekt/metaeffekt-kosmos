@@ -1,0 +1,9 @@
+canonicalName: "Unicode DFS License + Unicode Terms of Use"
+category: Unicode+Unicode
+shortName: Unicode-DFS+Unicode-ToU
+
+type: expression
+
+combinedWith:
+  Unicode DFS License: "Unicode DFS License + Unicode Terms of Use"
+  Unicode Terms of Use: "Unicode DFS License + Unicode Terms of Use"

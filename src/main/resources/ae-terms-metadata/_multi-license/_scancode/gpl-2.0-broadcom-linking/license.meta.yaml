@@ -1,0 +1,15 @@
+canonicalName: GNU General Public License 2.0 (with Linking exception (independent module; variant 001))
+category: GPL-2.0-Linking
+shortName: GPL-2.0-Indepentend-Linking-Exception-001
+
+otherIds:
+  - "scancode:gpl-2.0-broadcom-linking"
+
+type: expression
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with Broadcom Linking exception)"
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Linking exception (independent module; variant 001))
+  "Linking Exception (independent module; variant 001)": GNU General Public License 2.0 (with Linking exception (independent module; variant 001))

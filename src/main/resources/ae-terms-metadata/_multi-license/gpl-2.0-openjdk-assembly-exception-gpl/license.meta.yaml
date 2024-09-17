@@ -1,0 +1,30 @@
+canonicalName: GNU General Public License 2.0 (with OpenJDK Assembly exception (GPL))
+category: GPL+OpenJDK
+shortName: GPL-2.0-OpenJDK-Assembly-Exception-GPL
+
+requiresSourceCodeProvision: true
+
+spdxExpression: "[GNU General Public License 2.0] WITH [OpenJDK Assembly Exception (GPL)]"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with OpenJDK assembly exception 1.0)"
+  - "GNU General Public License 2.0 (with OpenJDK assembly exception)"
+  - "GNU General Public License 2.0 (with OpenJDK Assembly exception 1.0)"
+
+evidence:
+  excludes:
+    - "This library is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2, or (at your option) any later version"
+
+displayName:
+  "GNU General Public License 2.0 (with OpenJDK Assembly exception)"
+
+type: expression
+
+alternativeNames:
+  - "GNU General Public License 2.0 (with OpenJDK Assembly exception 1.0)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with OpenJDK Assembly exception (GPL))"
+  "OpenJDK Assembly Exception (GPL)": "GNU General Public License 2.0 (with OpenJDK Assembly exception (GPL))"

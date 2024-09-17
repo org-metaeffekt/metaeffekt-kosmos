@@ -1,0 +1,12 @@
+canonicalName: Apache License 2.0 + GNU Lesser General Public License 2.1 (or any later version)
+category: Apache+LGPL
+shortName: Apache-2.0-OR-LGPL-2.1+
+
+type: expression
+
+combinedWith:
+  "Apache License 2.0": "Apache License 2.0 + GNU Lesser General Public License 2.1 (or any later version)"
+  "GNU Lesser General Public License 2.1 (or any later version)": "Apache License 2.0 + GNU Lesser General Public License 2.1 (or any later version)"
+
+alternativeNames:
+  - "The contents of this file is dual-licensed under 2 alternative Open Source/Free licenses: LGPL 2.1 or later and Apache License 2.0"

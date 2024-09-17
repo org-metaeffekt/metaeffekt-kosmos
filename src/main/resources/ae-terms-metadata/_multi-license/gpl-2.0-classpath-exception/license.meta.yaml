@@ -1,0 +1,36 @@
+canonicalName: GNU General Public License 2.0 (with classpath exception)
+category: GPL+Classpath
+shortName: GPL-2.0-Classpath-Exception
+
+# should be replaced with something like : "[canonicalname of gpl 2.0 only] WITH [canonicalname of classpath exception 2.0]"
+# there square brackets should literally be kept and the canonicalname inserted inside them. WITH expression
+
+spdxExpression: "[GNU General Public License 2.0] WITH [Classpath Exception]"
+
+defaultSourceCategory: annex
+requiresSourceCodeProvision: true
+
+classification: limited copyleft
+
+type: expression
+
+alternativeNames:
+  - "<name>GPL2 w/ CPE</name>"
+  - "GPL2+CPE"
+  - "This code is free software; you can redistribute it and/or modify it
+     under the terms of the GNU General Public License version 2 only, as
+     published by the Free Software Foundation. Oracle designates this
+     particular file as subject to the \"Classpath\" exception as provided
+     by Oracle in the LICENSE file that accompanied this code"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with classpath exception 2.0)"
+  - "GPL 2 with classpath exception"
+  - "GPL 2.0 with classpath exception"
+  - "GNU General Public License 2.0 (with Classpath exception)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with classpath exception)
+  "Classpath Exception": GNU General Public License 2.0 (with classpath exception)

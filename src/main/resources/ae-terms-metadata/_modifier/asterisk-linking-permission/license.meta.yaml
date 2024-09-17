@@ -1,0 +1,18 @@
+canonicalName: Asterisk Linking Permission
+category: Asterisk Linking Permission
+shortName: Asterisk-linking
+
+# FIXME-CONCEPT: adjust modifier; use specific modifier category
+type: modifier
+
+evidence:
+  matches:
+    - "Specific permission is also granted to link Asterisk with OpenSSL, OpenH323
+       UniMRCP, and/or the UW IMAP Toolkit and distribute the resulting binary files"
+  excludes:
+    - "In addition, Asterisk implements several management/control protocols.
+       This includes the Asterisk Manager Interface (AMI), the Asterisk Gateway
+       Interface (AGI), and the Asterisk REST Interface (ARI)"
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Asterisk Linking Permission)"

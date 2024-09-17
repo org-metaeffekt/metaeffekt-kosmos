@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Dmitry Koterov exception (GPL))
+category: GPL+Dmitry Koterov
+shortName: GPL-2.0+-Dmitry-Koterov-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-koterov"
+
+displayName: GNU General Public License 2.0 (or any later version; with Dmitry Koterov exception)
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Dmitry Koterov exception (GPL))
+  Dmitry Koterov Exception (GPL): GNU General Public License 2.0 (or any later version; with Dmitry Koterov exception (GPL))

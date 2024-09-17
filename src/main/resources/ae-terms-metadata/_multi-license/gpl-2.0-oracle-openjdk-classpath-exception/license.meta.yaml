@@ -1,0 +1,11 @@
+canonicalName: GNU General Public License 2.0 (with Oracle OpenJDK classpath Exception)
+category: GPL+Oracle
+shortName: GPL-2.0-Oracle-classpath-Exception
+
+type: expression
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Oracle OpenJDK classpath Exception)
+  Oracle OpenJDK classpath Exception: GNU General Public License 2.0 (with Oracle OpenJDK classpath Exception)
+
+representedAs: GNU General Public License 2.0 (with exceptions)

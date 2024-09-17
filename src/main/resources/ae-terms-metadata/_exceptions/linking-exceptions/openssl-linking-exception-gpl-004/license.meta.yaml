@@ -1,0 +1,37 @@
+canonicalName: OpenSSL Linking Exception (GPL; variant 004)
+category: OpenSSL Linking Exception
+shortName: OpenSSL-Linking-Exception-GPL-004
+
+type: exception
+
+canonicalNameHistory:
+  - "OpenSSL Exception"
+  - "Linking Exception (GPL; variant 025)"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with OpenSSL Linking Exception (GPL; variant 004))"
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with OpenSSL Linking Exception (GPL; variant 004))"
+  "GNU Lesser General Public License 2.1": "GNU Lesser General Public License 2.1 (with OpenSSL Linking Exception (GPL; variant 004))"
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with OpenSSL Linking Exception (GPL; variant 004))"
+
+alternativeNames:
+  - "OpenSSL Exception"
+
+evidence:
+  matches:
+    - "In addition, as a special exception, *{.{0,50}}* permission to link the code of its
+       release *{.{0,20}}* with the OpenSSL project's \"OpenSSL\" library (or
+       with modified versions of it that use the same license as
+       the \"OpenSSL\" library), and distribute the linked executables"
+    - "You must obey the GNU *{.{0,7}}* General Public License in all respects for all of
+       the code used other than \"OpenSSL\""
+    - "If you modify this file, you may extend this exception to your version of the file,
+       but you are not obligated to do so"
+  excludes:
+    - "In addition, as a special exception, the copyright holders give
+       permission to link the code of portions of this program with the
+       OpenSSL library under certain conditions as described in each
+       individual source file, and distribute linked combinations
+       including the two"
+    - "In addition, as a special exception, Karl J. Runge gives permission to link the code of its release of x11vnc with the OpenSSL project's \"OpenSSL\" library
+        (or with modified versions of it that use the same license as the \"OpenSSL\" library), and distribute the linked executables"

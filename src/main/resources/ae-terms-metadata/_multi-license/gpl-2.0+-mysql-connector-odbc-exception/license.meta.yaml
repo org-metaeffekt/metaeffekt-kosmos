@@ -1,0 +1,15 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with MySQL Connector ODBC Exception)
+category: GNU+MYSQL
+shortName: GPL-20+-MySQL-Connector-ODBC-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-mysql-connector-odbc"
+
+alternativeNames:
+  - "GPL-2.0-with-MySQL-Connector-ODBC-exception"
+
+combinedWith:
+  MySQL Connector ODBC Exception: GNU General Public License 2.0 (or any later version; with MySQL Connector ODBC Exception)
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with MySQL Connector ODBC Exception)

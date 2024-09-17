@@ -1,0 +1,23 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with OpenSSL Linking Exception (GPL; variant 001))
+category: GPL+OpenSSL Linking
+shortName: GPL-2.0+-OpenSSL-Linking-Exception-001
+
+#not unique
+#canonicalNameHistory:
+#  - "GNU General Public License 2.0 (or any later version; OpenSSL exception)"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 022))"
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0 (or any later version)] WITH [OpenSSL Linking Exception (GPL; variant 001)]"
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with OpenSSL Linking Exception (variant 001))"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with OpenSSL Linking Exception (GPL; variant 001))"
+  "OpenSSL Linking Exception (GPL; variant 001)": "GNU General Public License 2.0 (or any later version; with OpenSSL Linking Exception (GPL; variant 001))"

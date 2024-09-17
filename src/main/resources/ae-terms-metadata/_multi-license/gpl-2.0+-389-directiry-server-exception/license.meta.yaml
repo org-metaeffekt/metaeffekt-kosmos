@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with 389 Directory Server exception)
+category: GPL+389 Directory
+shortName: GPL-2.0+-389-Directory-Server-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-redhat"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with 389 Directory Server exception)
+  389 Directory Server Exception: GNU General Public License 2.0 (or any later version; with 389 Directory Server exception)

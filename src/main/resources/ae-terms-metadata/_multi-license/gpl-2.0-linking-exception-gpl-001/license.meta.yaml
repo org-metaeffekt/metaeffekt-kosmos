@@ -1,0 +1,18 @@
+canonicalName: GNU General Public License 2.0 (with Linking exception (GPL; GNAT))
+category: GPL+Linking
+shortName: GPL-2.0-Linking-Exception-GPL-001
+
+type: expression
+
+displayName:
+  "GNU General Public License 2.0 (with Linking exception (variant 001))"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with Ada Linking exception)"
+  - "GNU General Public License 2.0 (with Linking exception (GPL; variant 001))"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Linking exception (GPL; GNAT))
+  "Linking Exception (GPL; GNAT)": GNU General Public License 2.0 (with Linking exception (GPL; GNAT))

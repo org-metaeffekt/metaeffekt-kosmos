@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 3.0 (or any later version; with GCC Compiler exception)
+category: GPL+GCC
+shortName: GPL-3.0+-GCC-Compiler-Exception
+
+type: expression
+
+canonicalNameHistory:
+  - "GNU General Public License 3.0 (or any later version; with GCC Compiler exception 2.0)"
+
+representedAs: GNU General Public License 3.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with GCC Compiler exception)"
+  "GCC Compiler Exception": "GNU General Public License 3.0 (or any later version; with GCC Compiler exception)"

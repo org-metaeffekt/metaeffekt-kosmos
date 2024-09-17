@@ -1,0 +1,18 @@
+canonicalName: GNU General Public License 3.0 (with OpenSSL Linking Exception (GPL; variant 001))
+category: GPL+OpenSSL Linking
+shortName: GPL-3.0-OpenSSL-Linking-Exception-GPL-001
+
+type: expression
+
+spdxExpression: "[GNU General Public License 3.0] WITH [OpenSSL Linking Exception (GPL; variant 001)]"
+
+canonicalNameHistory:
+ - "GNU General Public License 3.0 (with OpenSSL exception)"
+ - "GNU General Public License 3.0 (with Linking exception (GPL; variant 022))"
+
+displayName:
+  "GNU General Public License 3.0 (with OpenSSL Linking Exception (variant 001))"
+
+combinedWith:
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with OpenSSL Linking Exception (GPL; variant 001))"
+  "OpenSSL Linking Exception (GPL; variant 001)": "GNU General Public License 3.0 (with OpenSSL Linking Exception (GPL; variant 001))"

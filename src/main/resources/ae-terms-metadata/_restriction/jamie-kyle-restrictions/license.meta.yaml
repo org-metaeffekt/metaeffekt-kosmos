@@ -1,0 +1,18 @@
+canonicalName: Jamie Kyle Restrictions
+category: Jamie Kyle Restrictions
+shortName: Jamie-Kyle-Restrictions
+
+type: restriction
+
+alternativeNames:
+  - "MIT Jamie Kyle Restriction"
+
+combinedWith:
+  MIT License: MIT License (with Jamie Kyle Restrictions)
+
+evidence:
+  matches:
+    - "This license is granted to everyone except for the following entities and any of their subsidiaries"
+    - "\"Amazon.com, Inc.\" (for abusive treatment of workers and for working with ICE)"
+    - "\"Canon Inc\" (for working with ICE)"
+    - "\"Tesla, Inc\" (for abusive treatment of workers)"

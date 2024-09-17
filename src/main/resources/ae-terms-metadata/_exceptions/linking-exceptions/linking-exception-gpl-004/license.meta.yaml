@@ -1,0 +1,24 @@
+canonicalName: Linking Exception (GPL; variant 004)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-004
+
+type: exception
+
+canonicalNameHistory:
+  - "GPL-3.0 Linking Exception (OpenSSL; with Corresponding Source)"
+
+combinedWith:
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Linking exception (GPL; variant 004))
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with Linking exception (GPL; variant 004))"
+
+evidence:
+  matches:
+    - "If you modify this program, or any covered work, by linking or
+       combining it with the OpenSSL project's OpenSSL library (or a
+       modified version of that library), containing parts covered by the
+       terms of the OpenSSL or SSLeay licenses, the Free Software Foundation
+       grants you additional permission to convey the resulting work"
+    - "Corresponding Source for a non-source form of such a combination
+       shall include the source code for the parts of OpenSSL used as well
+       as that of the covered work"
+

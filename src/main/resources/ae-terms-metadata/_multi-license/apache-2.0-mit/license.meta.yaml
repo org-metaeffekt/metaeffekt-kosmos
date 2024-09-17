@@ -1,0 +1,20 @@
+canonicalName: Apache License 2.0 + MIT License
+category: Apache-MIT
+shortName: Apache-2.0-OR-MIT
+
+type: expression
+
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 + MIT License
+  "MIT License": Apache License 2.0 + MIT License
+
+alternativeNames:
+  - "is dual licensed under both *{.{0,50}}* The Apache 2.0 License *{.{0,75}}* and *{.{0,50}}* The MIT License"
+  - "MIT OR Apache-2.0"
+  - "Duallicensed under the MIT License or the Apache License version 2.0"
+  - "At your option you may choose either of the following licenses:
+
+       * The MIT License (MIT)
+       * The Apache License 2.0 (Apache-2.0)"
+
+

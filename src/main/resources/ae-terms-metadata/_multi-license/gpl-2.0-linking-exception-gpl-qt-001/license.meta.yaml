@@ -1,0 +1,18 @@
+canonicalName: GNU General Public License 2.0 (with Linking Exception (Qt; variant 001))
+category: GPL+Linking
+shortName: GPL-2.0-Linking-Exception-Qt-001
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-qt-qca"
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Linking Exception (Qt; variant 001))
+  Linking Exception (Qt; variant 001): GNU General Public License 2.0 (with Linking Exception (Qt; variant 001))
+
+displayName:
+  "GNU General Public License 2.0 (with Linking exception (variant 001))"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+

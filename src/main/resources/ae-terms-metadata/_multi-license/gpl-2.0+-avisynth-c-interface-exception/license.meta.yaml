@@ -1,0 +1,16 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Avisynth C Interface exception)
+category: GPL+Avisynth
+shortName: GPL-2.0+-Avisynth-C-Interface-Exception
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0 (or any later version)] WITH [Avisynth C Interface Exception]"
+
+alternativeNames:
+  - "GNU General Public License 2.0 (or any later version; with Avisynth C Interface exception)"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Avisynth C Interface exception)"
+  "Avisynth C Interface Exception": "GNU General Public License 2.0 (or any later version; with Avisynth C Interface exception)"

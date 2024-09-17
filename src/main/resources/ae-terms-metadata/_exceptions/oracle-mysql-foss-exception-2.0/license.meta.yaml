@@ -1,0 +1,36 @@
+canonicalName: Oracle MySQL FOSS Exception (GPL 2.0)
+category: Oracle MySQL Exception
+shortName: Oracle-MySQL-FOSS-Exception
+
+# used to be: Oracle MySQL FOSS Exception (GPL)
+
+type: exception
+
+alternativeNames:
+  - "MySQL FOSS License Exception"
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Oracle MySQL FOSS Exception (GPL 2.0))
+
+evidence:
+  matches:
+    - "We want free and open source software applications under certain licenses to be
+       able to use the GPL-licensed MySQL Connector (specified GPL-licensed MySQL
+       client libraries) despite the fact that not all such FOSS licenses are
+       compatible with version 2 of the GNU General Public License"
+    - "Therefore there are special exceptions to the terms and conditions of the GPLv2
+       as applied to these client libraries, which are identified and described in more
+       detail in the FOSS License Exception at
+       <http://www.mysql.com/about/legal/licensing/foss-exception.html>"
+    - "OSI Certified is a certification mark of the Open Source Initiative"
+
+references:
+  "GPL":
+    matches:
+      - "(specified GPL-licensed MySQL
+         client libraries) despite the fact that not all such FOSS licenses are
+         compatible with version 2 of the GNU General Public License"
+      - "Therefore there are special exceptions to the terms and conditions of the GPLv2
+         as applied to these client libraries, which are identified and described in more
+         detail in the FOSS License Exception at
+         <http://www.mysql.com/about/legal/licensing/foss-exception.html>"

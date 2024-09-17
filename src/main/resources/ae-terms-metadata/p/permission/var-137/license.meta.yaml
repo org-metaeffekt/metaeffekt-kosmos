@@ -1,0 +1,64 @@
+canonicalName: Permission Terms (variant 137)
+category: Permission
+shortName: PT-Var137
+
+canonicalNameHistory:
+  - "Permission Terms (Var001)"
+  - "Permission Terms (variant 001)"
+  - "MIT License (variant 001)"
+status:
+  - "reviewed 04.11.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+displayName: "Permission Terms (no liability; no warranty)"
+representedAs: Permission Terms
+
+combinedWith:
+  BSD 4-Clause License (UC): BSD 4-Clause License (UC) + Permission Terms (variant 137)
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software for any
+       purpose with or without fee is hereby granted, provided that the above
+       copyright notice and this permission notice appear in all copies, and that
+       the name of *{.{0,100}}* not be used in advertising or publicity
+       pertaining to distribution of the document or software without specific,
+       written prior permission"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\" AND *{.{0,100}}* DISCLAIM*{.{0,1}}* ALL
+       WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES
+       OF MERCHANTABILITY AND FITNESS"
+    - "IN NO EVENT SHALL *{.{0,100}}* BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES
+       OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+       WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+       ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
+  excludes:
+    - "Permission to use, copy, modify, distribute, and sell this software and its
+       documentation for any purpose is hereby granted without fee, provided that
+       the above copyright notice appear in all copies and that both that
+       copyright notice and this permission notice appear in supporting
+       documentation"
+    - "Permission to use, copy, modify, and/or distribute this software for any
+       purpose with or without fee is hereby granted"
+    - "Except as contained in this notice the name of the X Consortium shall not be used in 
+       advertising or otherwise to promote the sale use or other dealings in this Software without prior written authorization"
+
+mappings:
+  "Permission to use, copy, modify, and distribute this software for anyNEWLINE-MARKER purpose with or without fee is hereby granted, provided that the aboveNEWLINE-MARKER copyright notice and this permission notice appear in all copies, and thatNEWLINE-MARKER the name of Digital Equipment Corporation not be used in advertising orNEWLINE-MARKER publicity pertaining to distribution of the document or software withoutNEWLINE-MARKER specific, written prior permission": " LICENSE-SEGMENT-MARKER Permission to use, copy, modify, and distribute this software for anyNEWLINE-MARKER purpose with or without fee is hereby granted, provided that the aboveNEWLINE-MARKER copyright notice and this permission notice appear in all copies, and thatNEWLINE-MARKER the name of Digital Equipment Corporation not be used in advertising orNEWLINE-MARKER publicity pertaining to distribution of the document or software withoutNEWLINE-MARKER specific, written prior permission"
+
+
+licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this software for any
+                  purpose with or without fee is hereby granted, provided that the above
+                  copyright notice and this permission notice appear in all copies, and that
+                  the name of {{variablePermissionClause}} not be used in advertising or publicity
+                  pertaining to distribution of the document or software without specific,
+                  written prior permission.<p/>
+                  <codeph>THE SOFTWARE IS PROVIDED \"AS IS\" AND {{copyrightHolderNoWarranty}} DISCLAIMS ALL
+                  WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES
+                  OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL {{copyrightHolderNoLiability}}
+                  BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES
+                  OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+                  WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+                  ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS
+                  SOFTWARE.</codeph></lq>"

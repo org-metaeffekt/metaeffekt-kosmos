@@ -1,0 +1,11 @@
+canonicalName: GNU Lesser General Public License 3.0 (with KDE accepted Modifier (LGPL-3.0+))
+category: LGPL+KDE accepted Modifier
+shortName: LGPL-3.0-KDE-accepted-Modifier
+
+type: expression
+
+displayName: "GNU Lesser General Public License 3.0 (with KDE accepted Modifier)"
+
+combinedWith:
+  GNU Lesser General Public License 3.0: GNU Lesser General Public License 3.0 (with KDE accepted Modifier (LGPL-3.0+))
+  KDE accepted Modifier (LGPL-3.0+): GNU Lesser General Public License 3.0 (with KDE accepted Modifier (LGPL-3.0+))

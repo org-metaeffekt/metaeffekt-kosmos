@@ -1,0 +1,45 @@
+canonicalName: "CC0 1.0 Public Domain Dedication"
+category: CC0-PDD
+shortName: CC0-1.0-PDD
+
+status:
+  - "reviewed: 03.11.21"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "CC0-1.0 Public Domain Dedication"
+  - "CC0 Public Domain Dedication"
+  - "CC0 v 1.0 Public Domain Dedication"
+  - "CC-PDDC-1.0"
+  - "public domain under CC0"
+
+combinedWith:
+  "Public Domain": "CC0 1.0 Public Domain Dedication"
+
+references:
+  "Public Domain":
+     matches:
+        - "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+        - "The person who associated a work with this deed has dedicated the work to the 
+           public domain by waiving all of his or her rights to the work worldwide under 
+           copyright law, including all related and neighboring rights, to the extent 
+           allowed by law"
+
+evidence:
+  matches:
+    - "Public Domain Dedication"
+    - "The person who associated a work with this deed has dedicated the work to the
+       public domain by waiving all of his or her rights to the work worldwide under
+       copyright law, including all related and neighboring rights, to the extent
+       allowed by law"
+    - "You can copy, modify, distribute and perform the work, even for commercial
+       purposes, all without asking permission"
+  excludes:
+    - "produce and reproduce, but not Share, Adapted Material"
+    - "reproduce and Share the Licensed Material, in whole or in part, for NonCommercial
+       purposes only"
+    - "identification of the creator(s) of the Licensed Material and any others
+       designated to receive attribution, in any reasonable manner requested by the
+       Licensor (including by pseudonym if designated)"

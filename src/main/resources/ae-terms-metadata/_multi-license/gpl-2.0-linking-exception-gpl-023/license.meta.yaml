@@ -1,0 +1,15 @@
+canonicalName: GNU General Public License 2.0 (with Linking exception (GPL; variant 023))
+category: GPL+Linking
+shortName: GPL-2.0-Linking-Exception-GPL-023
+
+type: expression
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with OpenVPN OpenSSL Exception)"
+
+displayName:
+  "GNU General Public License 2.0 (with Linking exception (variant 023))"
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Linking exception (GPL; variant 023))"
+  "Linking Exception (GPL; variant 023)": "GNU General Public License 2.0 (with Linking exception (GPL; variant 023))"

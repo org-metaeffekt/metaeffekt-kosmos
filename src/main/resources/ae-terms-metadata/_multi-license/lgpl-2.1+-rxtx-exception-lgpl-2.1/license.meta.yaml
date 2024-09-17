@@ -1,0 +1,9 @@
+canonicalName: GNU Lesser General Public License 2.1 (or any later version; with RXTX Exception (LGPL 2.1))
+category: LPGL+RXTX
+shortName: LGPL-2.1+-RXTX-Exception-LPGL-2.1
+
+type: expression
+
+combinedWith:
+  GNU Lesser General Public License 2.1 (or any later version): GNU Lesser General Public License 2.1 (or any later version; with RXTX Exception (LGPL 2.1))
+  RXTX Exception (LGPL 2.1): GNU Lesser General Public License 2.1 (or any later version; with RXTX Exception (LGPL 2.1))

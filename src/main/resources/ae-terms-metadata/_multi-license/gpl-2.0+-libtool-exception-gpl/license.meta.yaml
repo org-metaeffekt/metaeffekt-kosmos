@@ -1,0 +1,22 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Libtool exception (GPL))
+category: GPL+Libtool
+shortName: GPL-2.0+-Libtool-Exception-GPL
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0 (or any later version)] WITH [Libtool Exception (GPL)]"
+
+otherIds:
+  - "scancode:gpl-2.0-libtool"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with Libtool exception)"
+  
+displayName:
+  "GNU General Public License 2.0 (or any later version; with Libtool exception)"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Libtool exception (GPL))"
+  "Libtool Exception (GPL)": "GNU General Public License 2.0 (or any later version; with Libtool exception (GPL))"

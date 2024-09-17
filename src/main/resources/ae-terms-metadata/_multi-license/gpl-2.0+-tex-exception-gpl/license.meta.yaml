@@ -1,0 +1,19 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with TeX exception (GPL))
+category: GPL+TeX
+shortName: GPL-2.0+-TeX-Exception-GPL
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0 (or any later version)] WITH [TeX Exception (GPL)]"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with TeX Exception)"
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with TeX exception)"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with TeX exception (GPL))
+  "TeX Exception (GPL)": GNU General Public License 2.0 (or any later version; with TeX exception (GPL))

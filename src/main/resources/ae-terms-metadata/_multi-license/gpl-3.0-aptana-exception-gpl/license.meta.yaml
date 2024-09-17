@@ -1,0 +1,18 @@
+canonicalName: GNU General Public License 3.0 (with Aptana Exception (GPL))
+category: GPL+Aptana
+shortName: GPL-3.0-Aptana-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-3.0-aptana"
+
+combinedWith:
+  GNU General Public License 3.0: GNU General Public License 3.0 (with Aptana Exception (GPL))
+  Aptana Exception (GPL): GNU General Public License 3.0 (with Aptana Exception (GPL))
+
+displayName:
+  GNU General Public License 3.0 (with Aptana Exception)
+
+representedAs:
+  GNU General Public License 3.0 (with exceptions)

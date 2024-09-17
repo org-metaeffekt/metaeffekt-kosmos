@@ -1,0 +1,18 @@
+canonicalName: GNU Lesser General Public License 2.1 (or any later version; with Linking exception (LGPL; variant 011))
+category: LGPL-Nokia-Qt
+shortName: LGPL-2.1+-Nokia-Qt-1.0
+
+canonicalNameHistory:
+  - "GNU Lesser General Public License 2.1 (or any later version; with Nokia Qt LGPL exception 1.0)"
+
+displayName:
+  "GNU Lesser General Public License 2.1 (or any later version; with Linking exception (variant 011))"
+
+type: expression
+
+otherIds:
+  - "scancode:lgpl-2.1-qt-company"
+
+combinedWith:
+  "Linking Exception (LGPL; variant 011)": GNU Lesser General Public License 2.1 (or any later version; with Linking exception (LGPL; variant 011))
+  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Linking exception (LGPL; variant 011))

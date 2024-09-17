@@ -1,0 +1,18 @@
+canonicalName: GNU Lesser General Public License 3.0 (or any later version; with Linking exception (LGPL))
+category: LGPL+Linking
+shortName: LGPL-3.0-Linking-Exception-LGPL
+
+canonicalNameHistory:
+  - "GNU Lesser General Public License 3.0 (or any later version; with LGPL-3.0 Linking exception)"
+
+type: expression
+
+displayName:
+  "GNU Lesser General Public License 3.0 (or any later version; with Linking exception)"
+
+otherIds:
+  - "scancode:lgpl-3-plus-linking"
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": GNU Lesser General Public License 3.0 (or any later version; with Linking exception (LGPL))
+  "Linking Exception (LGPL)": GNU Lesser General Public License 3.0 (or any later version; with Linking exception (LGPL))

@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Ekiga Exception (GPL 2.0 or later))
+category: GPL+Ekiga
+shortName: GPL-2.0+-Ekiga-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-plus-ekiga"
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Ekiga Exception (GPL 2.0 or later))
+  Ekiga Exception (GPL 2.0 or later): GNU General Public License 2.0 (or any later version; with Ekiga Exception (GPL 2.0 or later))

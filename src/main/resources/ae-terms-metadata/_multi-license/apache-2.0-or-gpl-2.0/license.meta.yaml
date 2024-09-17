@@ -1,0 +1,13 @@
+canonicalName: Apache License 2.0 + GNU General Public License 2.0
+category: Apache+GPL
+shortName: Apache-2.0-OR-GPL-2.0
+
+type: expression
+
+combinedWith:
+  "Apache License 2.0": "Apache License 2.0 + GNU General Public License 2.0"
+  "GNU General Public License 2.0": "Apache License 2.0 + GNU General Public License 2.0"
+
+alternativeNames:
+  - "This software is licensed under the Apache License, Version 2.0 (the \"Apache License\") or the GNU General 
+     Public License version 2 (the \"GPL License\")"

@@ -1,0 +1,27 @@
+canonicalName: Public Domain + BSD alike
+category: Public Domain + BSD
+shortName: Public-Domain-OR-BSD
+
+alternativeNames:
+  - "Public Domain + BSD alike"
+
+type: expression
+
+ignoreMatches:
+  - "Public Domain"
+  - "BSD alike"
+  - "Openwall MD5 Permissive"
+
+evidence:
+  matches:
+    - "In case this attempt to disclaim copyright and place the software in the
+       public domain is deemed null and void, then the software is
+       Copyright (c) * and it is hereby released to the
+       general public under the following terms:
+       Redistribution and use in source and binary form*, with or without
+       modification, are permitted.
+       There's ABSOLUTELY NO WARRANTY, express or implied."
+
+
+combinedWith:
+  "Public Domain": "Public Domain + BSD alike"

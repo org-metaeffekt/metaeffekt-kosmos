@@ -1,0 +1,23 @@
+canonicalName: FIRST EPSS Usage Agreement
+category: FIRST EPSS Usage Agreement
+shortName: first-epss-usage
+
+otherIds:
+  - "scancode:first-epss-usage"
+
+classification: permissive
+
+alternativeNames:
+  - "FIRST EPSS Usage Agreement"
+
+evidence:
+  matches:
+    - "EPSS is an emerging standard developed by a volunteer group of researchers, practitioners,
+       academics and government personnel"
+    - "We grant the use of EPSS scores freely to the public, subject to the conditions below"
+    - "We reserve the right to update the model and these webpages periodically, as necessary, though we will
+       make every attempt to provide sufficient notice to users in the event of material changes"
+    - "While membership in the EPSS SIG is not required to use or implement EPSS, however, we ask that if you
+       are using EPSS, that you provide appropriate attribution where possible"
+    - "EPSS can be cited either from this website (e.g. 'See EPSS at https://www.first.org/epss')"
+

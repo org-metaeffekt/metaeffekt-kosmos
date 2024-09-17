@@ -1,0 +1,12 @@
+canonicalName: MIT License (with Jamie Kyle Restrictions)
+category: MIT+Jamie-Kyle
+shortName: MIT-Jamie-Kyle-Restrictions
+
+type: expression
+
+otherIds:
+  - "scancode:mit-kyle-restrictions"
+
+combinedWith:
+  MIT License: MIT License (with Jamie Kyle Restrictions)
+  Jamie Kyle Restrictions: MIT License (with Jamie Kyle Restrictions)

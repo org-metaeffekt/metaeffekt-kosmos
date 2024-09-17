@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with GUILE exception)
+category: GPL+GUILE
+shortName: GPL-2.0+-GUILE-Exception
+
+otherIds:
+  - "scancode:gpl-2.0-guile"
+
+type: expression
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with GUILE exception)
+  GUILE Exception (GPL): GNU General Public License 2.0 (or any later version; with GUILE exception)
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)

@@ -1,0 +1,28 @@
+canonicalName: Cryptographic Autonomy License 1.0 (combined work)
+category: CAL-1.0 Combined Work Exception
+spdxIdentifier: CAL-1.0-Combined-Work-Exception
+
+otherIds:
+  - "scancode:cal-1.0-combined-work-exception"
+
+# the combined work association makes it an expression
+type: expression
+
+# this is for validation; can be removed as soon as concept is implemented
+ignoreMatches:
+  - "Cryptographic Autonomy License 1.0"
+
+expectedMatches:
+  - "Cryptographic Autonomy License 1.0"
+
+combinedWith:
+  "Cryptographic Autonomy License 1.0": "Cryptographic Autonomy License 1.0 (combined work)"
+
+alternativeNames:
+  - "CAL-1.0-Combined-Work-Exception"
+  - "Cryptographic Autonomy License 1.0 (Combined Work Exception)"
+  - "Cryptographic Autonomy License 1.0 (combined work)"
+
+expectedSpdxMatches:
+  - "Cryptographic Autonomy License 1.0 (combined work)"
+  - "Cryptographic Autonomy License 1.0"

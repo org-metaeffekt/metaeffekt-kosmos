@@ -1,0 +1,36 @@
+canonicalName: Microsoft Container EULA
+category: Microsoft Container EULA
+shortName: ms-container-eula
+
+otherIds:
+  - "scancode:ms-container-eula"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Microsoft Container EULA"
+
+evidence:
+  matches:
+    - "The software is a collection of components"
+    - "Subject to the other terms of this agreement, Microsoft or third parties grant you the right to run, copy,
+       modify, and redistribute the components under the conditions in the license agreement located in that
+       component's source or object code"
+    - "This agreement does not grant you any right, title, interest, or license in or to any of the Microsoft's
+       trademarks, trade names, trade dress, or logos. You may use Microsoft's corporate name, Product names, and
+       trademarks in plain text (but not logos, trade dress, designs, or word marks in stylized form) to accurately
+       identify and refer to Microsoft and its software"
+    - "However, in making such references, you must refrain from use that is likely to cause confusion about your
+       relationship with Microsoft and must comply with Microsoft's usage guidelines at:
+       https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx"
+    - "You will promptly correct any misuse on notice from Microsoft"
+    - "When an optional telemetry package is installed, the software may collect information about you and your use
+       of the software and send that to Microsoft"
+    - "Microsoft may use this information to provide services and improve our products and services"
+    - "You may opt-out of data collection by removing the telemetry package"
+    - "You can learn more about data collection and use in the software documentation and the privacy statement at
+       https://aka.ms/privacy"
+    - "Your use of the software operates as your consent to these practices"
+    - "To the extent Microsoft is a processor or subprocessor of personal data in connection with the software,
+       Microsoft makes the commitments in the European Union General Data Protection Regulation Terms of the Online
+       Services Terms to all customers effective May 25, 2018, at https://docs.microsoft.com/en-us/legal/gdpr"
