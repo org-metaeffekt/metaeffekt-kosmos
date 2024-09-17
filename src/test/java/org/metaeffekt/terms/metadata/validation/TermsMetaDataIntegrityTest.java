@@ -22,6 +22,8 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     /**
      * {@inheritDoc}
      */
+    //FIXME-RTU: this test is only disabled because it was moved to outer-rim, enable ASAP
+    @Disabled
     @Test
     public void assertUniqueLicenseIdentification_metadata() throws IOException {
         // to speed up validation the reports can be disabled; this save 2/3 of the time
@@ -89,6 +91,8 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
         testTmdSpdxExpressionOrTemplateIsValid(nmd);
     }
 
+    //FIXME-RTU: this test is only disabled because it was moved to outer-rim, enable ASAP
+    @Disabled
     @Test
     public void revertContainsAtLeastAWord() throws IOException {
         revertContainsAtLeastAWord(nmd);
@@ -97,6 +101,8 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     /**
      * {@inheritDoc}
      */
+    //FIXME-RTU: this test is only disabled because it was moved to outer-rim, enable ASAP
+    @Disabled
     @Test
     public void testEulaNameAndMarkerConsistency() {
         testEulaNameAndMarkerConsistency(nmd);
