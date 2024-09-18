@@ -1,0 +1,13 @@
+canonicalName: Segmentation-005
+category: Segmentation
+shortName: Segmentation-005
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "005"
+
+mappings:
+  "&quot;": "\""
+  "&amp;": "&"

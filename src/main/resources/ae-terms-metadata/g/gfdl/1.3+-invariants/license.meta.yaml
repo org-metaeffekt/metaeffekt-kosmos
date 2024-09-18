@@ -3,6 +3,8 @@ category: GFDL
 spdxIdentifier: GFDL-1.3-invariants-or-later
 shortName: GFDL-1.3+-invariants
 
+baseTerms: GNU Free Documentation License 1.3
+
 # NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
 
 allowsLaterVersions: true

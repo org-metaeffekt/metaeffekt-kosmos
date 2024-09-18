@@ -1,0 +1,22 @@
+canonicalName: Permission Terms (acknowledgement)
+category: Permission
+shortName: PT-Acknowledgement
+
+status:
+  - "reviewed 28.01.22"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "Permission Terms (acknowledgement)"
+
+representedAs: Permission Terms
+
+otherIds:
+  - "OpenCoDE:PT-Acknowledgement"
+
+evidence:
+  matches:
+    - "We hereby give permission for information in this file to be
+       used freely subject only to acknowledgement of its origin"

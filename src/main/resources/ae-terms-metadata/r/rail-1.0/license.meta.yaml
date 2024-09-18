@@ -1,0 +1,29 @@
+canonicalName: Restricted Artificial Intelligence License 1.0
+category: RAIL
+shortName: RAIL-1.0
+
+otherIds:
+  - "osi:RAIL-1.0"
+
+alternativeNames:
+  - "Restricted Artificial Intelligence License (version 1.0)"
+  - "Restricted Artificial Intelligence License (RAIL)"
+  - "RAIL-1.0"
+
+canonicalNameHistory:
+  - "Restricted Artificial Intelligence License (RAIL) (version; 1.0)"
+
+evidence:
+  matches:
+    - "To correctly interpret the content of this license, it is important to clarify the meaning of
+       some concepts, or at least how they are used as foundation of this corpus"
+    - "As a start, without a dedicated section, whenever the acronym “AI” will be found, it shall
+       be intended as “Artificial Intelligence”, by common knowledge"
+    - "The Restricted Artificial Intelligence License, or simply RAIL, is a license extension
+       designed to restrict the use, copy, modify, merge, publish, distribute, sublicense of
+       software under an existing open source license, for AI entities"
+    - "By applying the RAIL extension to an existing license, the use, copy, modify, merge,
+       publish, distribute, sublicense of the software under that license for AI entities is
+       prohibited, unless explicitly granted by attaching extra information, as explained in the
+       relative section of this license"
+    - "This restriction applies regardless of the AI's purpose or intended application"

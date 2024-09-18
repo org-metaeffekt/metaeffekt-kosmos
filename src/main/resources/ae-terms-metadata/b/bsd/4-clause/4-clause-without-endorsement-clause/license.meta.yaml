@@ -1,3 +1,4 @@
+# FIXME-DISCUSS: review license
 canonicalName: BSD 4-Clause License (without endorsement clause)
 category: BSD
 shortName: BSD-4-Clause-without-endorsement
@@ -6,7 +7,6 @@ canonicalNameHistory:
   - "BSD 2-Clause License (with advertizing clause)"
 
 representedAs: "BSD 4-Clause License"
-
 
 otherIds:
   - "scancode:bsd-2-clause-plus-advertizing"

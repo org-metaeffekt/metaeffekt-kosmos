@@ -3,6 +3,8 @@ category: GFDL
 spdxIdentifier: GFDL-1.1-only
 shortName: GFDL-1.1
 
+baseTerms: GNU Free Documentation License 1.1
+
 expectedMatches: 
   - "GNU Free Documentation License 1.1 (or any later version)"
 

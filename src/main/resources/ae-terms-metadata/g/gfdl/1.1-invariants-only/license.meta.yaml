@@ -3,6 +3,11 @@ category: GFDL
 spdxIdentifier: GFDL-1.1-invariants-only
 shortName: GFDL-1.1-invariants
 
+baseTerms: GNU Free Documentation License 1.1
+
+expectedSpdxMatches:
+  - "GNU Free Documentation License 1.1"
+
 alternativeNames:
   - "GNU Free Documentation License v1.1 only - invariants"
 

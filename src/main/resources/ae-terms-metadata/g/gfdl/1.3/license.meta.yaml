@@ -3,6 +3,8 @@ category: GFDL
 spdxIdentifier: GFDL-1.3-only
 shortName: GFDL-1.3
 
+baseTerms: GNU Free Documentation License 1.3
+
 otherIds:
   - "scancode:gfdl-1.3"
 

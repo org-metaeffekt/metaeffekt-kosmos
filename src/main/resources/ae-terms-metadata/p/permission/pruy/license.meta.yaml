@@ -1,0 +1,15 @@
+canonicalName: Permission Terms (Pruy)
+category: Permission
+shortName: PT-Pruy
+
+otherIds:
+  - "OpenCoDE:PT-Pruy"
+
+alternativeNames:
+    - "Pruy License"
+
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "This code may be modified and used freely provided the credits remain intact"

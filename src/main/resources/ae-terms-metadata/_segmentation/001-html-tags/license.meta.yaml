@@ -1,0 +1,38 @@
+canonicalName: Segmentation-001
+category: Segmentation
+shortName: Segmentation-001
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "001"
+  - "021"
+
+mappings:
+  "<BR>": "NEWLINE-MARKER"
+  "<P>": "NEWLINE-MARKER"
+  "</P>": "NEWLINE-MARKER"
+  "<p>": "NEWLINE-MARKER"
+  "</p>": "NEWLINE-MARKER"
+  "<br />": ""
+  "<I>": " "
+  "<h3>": ""
+  "</h3>": ""
+  "<h2>": " "
+  "</h2>": " "
+  "<ul>": ""
+  "</ul>": ""
+  "</I>": " "
+  "<acronym>": ""
+  "</acronym>": ""
+  "<\\!\\-\\-docid::SEC23::\\-\\->": ""
+  "<\\/H1>": ""
+  "<center>": ""
+  "</para>": ""
+  "\\<\\/citetitle\\>": ""
+  "<strong>": ""
+  "</strong>": ""
+  "<li>": ""
+  "</li>": ""
+  "<\\/span><\\/div><div class=\"line\"><a name=\"(.{0,10})\"><\\/a><span class=\"lineno\"> (.{0,10})<\\/span>&#160;<span class=\"comment\"> \\*": ""

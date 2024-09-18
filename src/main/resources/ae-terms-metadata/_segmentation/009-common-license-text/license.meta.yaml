@@ -1,0 +1,28 @@
+canonicalName: Segmentation-009
+category: Segmentation
+shortName: Segmentation-009
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "009"
+
+mappings:
+  # eliminate "<text> following <text>: that matches common licenses
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?This license((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?To use((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?A world-wide((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?A Distributor((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?Redistribution((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?Permission((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?You may((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?Your reproduction((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?Installation((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?The user((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?Original Work):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?meanings):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?meaning®):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?title of this License):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?30 days):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?terms are used):": "$1COLON-MARKER"

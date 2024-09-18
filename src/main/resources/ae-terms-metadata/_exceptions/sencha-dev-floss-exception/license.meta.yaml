@@ -47,8 +47,7 @@ references:
 
 masks:
   matches:
-    - "If you fail to comply with any of the terms in this Exception then all rights granted to you herein are void and your rights immediately revert back to those granted in the GPL v3.
-        Open Source License List
+    - "Open Source License List
         License name     Version(s)/Copyright Date
         Academic Free License    2.0
         Apache Software License    2.0

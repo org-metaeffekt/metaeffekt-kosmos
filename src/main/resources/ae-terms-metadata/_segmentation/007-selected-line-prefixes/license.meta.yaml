@@ -1,0 +1,20 @@
+canonicalName: Segmentation-007
+category: Segmentation
+shortName: Segmentation-007
+
+ignore: true
+type: structural
+
+mappingOrder:
+  - "007"
+
+mappings:
+  # eliminate selected line prefixes
+  "# Begin": "LICENSE-SEGMENT-MARKER"
+  "NEWLINE-MARKER\\s*dnl ": "NEWLINE-MARKER "
+  "NEWLINE-MARKER[>]+ ": "NEWLINE-MARKER"
+  "NEWLINE-MARKER [>]+ ": "NEWLINE-MARKER"
+  "NEWLINE-MARKER\\s*#": "NEWLINE-MARKER"
+
+  # reduce remaining whitespace chars to single space
+  "\\s+": " "

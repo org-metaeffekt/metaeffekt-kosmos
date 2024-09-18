@@ -1,0 +1,14 @@
+canonicalName: Permission Terms
+category: Permission
+shortName: PT
+
+status:
+  - "reviewed 28.01.22"
+
+alternativeNames:
+  - "Permission Terms"
+
+articleRequired: false
+
+otherIds:
+  - "OpenCoDE:PT"

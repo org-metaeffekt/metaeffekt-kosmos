@@ -3,6 +3,8 @@ category: GFDL
 spdxIdentifier: GFDL-1.1-no-invariants-only
 shortName: GFDL-1.1-no-invariants
 
+baseTerms: GNU Free Documentation License 1.1
+
 otherIds:
   - "scancode:gfdl-1.1-no-invariants-only"
 
