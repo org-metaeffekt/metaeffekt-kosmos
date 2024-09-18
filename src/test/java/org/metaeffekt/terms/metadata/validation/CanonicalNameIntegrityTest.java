@@ -15,9 +15,8 @@ public class CanonicalNameIntegrityTest extends AbstractCanonicalNameIntegrityTe
      * {@inheritDoc}
      */
     @Test
-    @Disabled
     public void createCanonicalNamesFile() throws IOException {
-        final File canonicalNamesFile = new File("src/main/resources/ae-terms-metadata/_external/history/current-release-canonical-names.txt");
+        final File canonicalNamesFile = new File("src/main/resources/ae-terms-metadata/_external/history/all-canonical-names.txt");
         final NormalizationMetaData normalizationMetaData = TermsMetaDataResolver.get();
 
         createCanonicalNamesFile(canonicalNamesFile, normalizationMetaData);
@@ -26,7 +25,6 @@ public class CanonicalNameIntegrityTest extends AbstractCanonicalNameIntegrityTe
     /**
      * {@inheritDoc}
      */
-    @Disabled
     @Test
     public void testCanonicalNames() throws IOException {
 
