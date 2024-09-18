@@ -15,7 +15,6 @@ pipeline {
 
                  withMaven(jdk: 'ZULU8', maven: 'maven-3.9.6') {
                      sh 'mvn -B clean install -Duser.timezone=Europe/Berlin
-                 }
             }
         }
     }
