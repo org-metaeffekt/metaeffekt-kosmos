@@ -1,4 +1,4 @@
-# metæffekt TermsMetaData (TMD)
+# metæffekt Kosmos
 
 ## Structure
 
@@ -26,11 +26,13 @@ For details see [test](src/test/README.md).
 
 ## References
 
-The metæffekt TermsMetaData (TMD) are build based on various external sources including:
+The metæffekt Kosmos is build based on various external sources including:
 
 * https://fedoraproject.org/wiki/Licensing:Main?rd=Licensing
 * https://spdx.org/licenses/
 * https://spdx.org/licenses/exceptions-index.html 
 * https://github.com/nexB/scancode-toolkit
 * https://wikijs.opencode.de/de/Hilfestellungen_und_Richtlinien/Lizenzcompliance
+
+TODO: licensing
 
