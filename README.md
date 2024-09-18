@@ -1,4 +1,4 @@
-# metæffekt TermsMetaData (TMD)
+# metæffekt Kosmos
 
 ## Structure
 
