@@ -14,6 +14,7 @@ public class CanonicalNameIntegrityTest extends AbstractCanonicalNameIntegrityTe
     /**
      * {@inheritDoc}
      */
+    @Disabled // creation is not implicit; this is a helper method
     @Test
     public void createCanonicalNamesFile() throws IOException {
         final File canonicalNamesFile = new File("src/main/resources/ae-terms-metadata/_external/history/all-canonical-names.txt");

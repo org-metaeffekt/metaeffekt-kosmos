@@ -3050,3 +3050,4 @@ Zrythm Exception (AGPL 3.0)
 Zuora Software License
 Zveno Research License
 Time Zone Database Ownership License
+Time Zone Database Ownership Notice
