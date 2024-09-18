@@ -55,6 +55,10 @@ pipeline {
 
         stage('Build metaeffekt-kosmos (using HEAD-SNAPSHOTs)') {
             steps {
+                 // construct .local-properties
+                 sh 'echo "ae.terms.metadata.path=src/main/resources/ae-terms-metadata" > .local-properties'
+                 sh 'echo "spdx.license.list.path=.spdx-license-data" >> .local-properties'
+
                  withMaven(jdk: 'ZULU8', maven: 'maven-3.9.6') {
                      sh 'mvn -B clean install -Duser.timezone=Europe/Berlin -Dae.core.version=HEAD-SNAPSHOT -Dae.artifact.analysis.version=HEAD-SNAPSHOT'
                  }
