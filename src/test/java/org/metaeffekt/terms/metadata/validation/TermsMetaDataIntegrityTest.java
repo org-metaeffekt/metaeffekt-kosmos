@@ -22,8 +22,6 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     /**
      * {@inheritDoc}
      */
-    //FIXME-RTU: this test is only disabled because it was moved to outer-rim, enable ASAP
-    @Disabled
     @Test
     public void assertUniqueLicenseIdentification_metadata() throws IOException {
         // to speed up validation the reports can be disabled; this save 2/3 of the time
@@ -67,12 +65,6 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
         reportAndRemoveObsoleteMetaFolder(baseDir);
     }
 
-    @Test
-    @Disabled
-    public void deleteMetaFolder() throws IOException {
-        File baseDir = new File("src/main/resources/ae-terms-metadata");
-        deleteMetaFolder(baseDir);
-    }
 
     @Test
     @Disabled
@@ -91,7 +83,7 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
         testTmdSpdxExpressionOrTemplateIsValid(nmd);
     }
 
-    //FIXME-RTU: this test is only disabled because it was moved to outer-rim, enable ASAP
+    //FIXME-KKL: is this test important? I don't really understand what it does but it fails for Kosmos
     @Disabled
     @Test
     public void revertContainsAtLeastAWord() throws IOException {
@@ -101,10 +93,17 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     /**
      * {@inheritDoc}
      */
-    //FIXME-RTU: this test is only disabled because it was moved to outer-rim, enable ASAP
+    // this test is currently disabled since there are no markers in Kosmos atm
     @Disabled
     @Test
     public void testEulaNameAndMarkerConsistency() {
         testEulaNameAndMarkerConsistency(nmd);
+    }
+
+    @Test
+    @Disabled // this is a utility test
+    public void deleteMetaFolder() throws IOException {
+        File baseDir = new File("src/main/resources/ae-terms-metadata");
+        deleteMetaFolder(baseDir);
     }
 }
