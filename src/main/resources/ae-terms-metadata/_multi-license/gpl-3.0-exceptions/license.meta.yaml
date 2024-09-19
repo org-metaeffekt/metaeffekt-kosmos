@@ -1,0 +1,6 @@
+canonicalName: GNU General Public License 3.0 (with exceptions)
+category: GPL
+shortName: GPL-3.0-exceptions
+
+type: expression
+baseTerms: GNU General Public License 3.0

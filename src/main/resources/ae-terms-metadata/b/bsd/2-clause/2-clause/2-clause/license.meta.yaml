@@ -1,0 +1,141 @@
+canonicalName: BSD 2-Clause License
+category: BSD
+spdxIdentifier: BSD-2-Clause
+
+status:
+  - "reviewed: 25.10.21"
+    
+canonicalNameHistory:
+  - "BSD-2-Clause"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+expectedSpdxMatches:
+  - "BSD 2-Clause License (copyright holder variant)"
+  - "BSD 2-Clause License"
+
+# Remark: this is when matching
+combinedWith:
+  "BSD 2-Clause License (copyright holder variant)": "BSD 2-Clause License"
+
+# compensated by combinedWith
+ignoreMatches:
+  - "BSD 2-Clause License (copyright holder variant)"
+
+otherIds:
+  - "scancode:bsd-simplified"
+  - "osi:BSD-2-Clause"
+
+alternativeNames:
+  - "2-clause BSD license"
+  - "BSD 2-Clause License"
+  - "BSD-2-Clause"
+  - "BSD 2-Clause"
+  - "BSD 2-clause"
+  - "BSD Software License, 2-clause version"
+  - "BSD-2 License"
+  - "2-clause BSDL"
+  - "BSD 2-Clause Licens"
+  - "BSD-2"
+  - "BSD2-Clause License"
+  - "BSD 2 Clause"
+  - "BSD 2 clause"
+  - "Two-clause BSD-style license"
+  # this contradicts the hypothesis that 2-clause is not new, revised or simplified) or this is multiple where
+  - "BSD 2-Clause \"New\" or \"Revised\" license"
+  - "BSD 2-clause \"Simplified\" License"
+  - "BSD 2-clause \"Simplified\" or \"FreeBSD\" License"
+  - "http://opensource.org/licenses/BSD-2-Clause"
+  - "bsd_2"
+  # this is a project-specific BSD 2-Clause link
+  - "https://www.freebsd.org/copyright/freebsd-license.html"
+  - "FreeBSD License"
+  - "two-clause BSD License"
+  - "2-Clause BSD license"
+  - "2 clause BSD license"
+  - "2-clause BSD licenses"
+
+alternativeShortNames:
+  - "BSD2c"
+
+evidence:
+  matches:
+    - "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"
+       AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+       IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+       DISCLAIMED"
+    - "IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE 
+        FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+        DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+        SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)"
+    - "HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+       OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+       OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions and the following
+       disclaimer"
+  excludes:
+    - "Neither the name of the copyright holder nor the names of its contributors
+       may be used to endorse or promote products derived from this software without
+       specific prior written permission"
+    - "Neither the name"
+    - "nor the names of project contributors may be used to endorse or promote products derived from this 
+       software without specific prior written permission"
+    - "Redistributions for commercial purposes are not permitted without the Allen Institute’s written permission"
+    - "This software may only be redistributed and used in connection with an 
+       Atmel microcontroller product"
+    - "Neither the names of Kitware, Inc., the Insight Software Consortium,
+      nor the names of their contributors may be used to endorse or promote
+      products derived from this software without specific prior written
+      permission."
+
+grants:
+  binary-distribution:
+    subject: binary
+    action: distribute
+    matches:
+    - "Redistribution and use in source and binary forms, with or without
+       modification, are permitted provided that the following conditions are met"
+    obligations:
+      include-conditions:
+        mandatory: true
+        description: "reproduce list of conditions"
+        matches:
+        - "Redistributions in binary form must reproduce the above copyright notice,
+           this list of conditions and the following disclaimer in the documentation
+           and/or other materials provided with the distribution"
+      include-copyright:
+        mandatory: true
+        description: "reproduce copyright"
+        matches:
+        - "Redistributions in binary form must reproduce the above copyright notice,
+           this list of conditions and the following disclaimer in the documentation
+           and/or other materials provided with the distribution"
+      include-disclaimer:
+        mandatory: true
+        description: "reproduce disclaimer"
+        matches:
+        - "Redistributions in binary form must reproduce the above copyright notice,
+           this list of conditions and the following disclaimer in the documentation
+           and/or other materials provided with the distribution"
+
+licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification,
+                  are permitted provided that the following conditions are met:
+                  <ol><li>Redistributions of source code must retain the above copyright notice,
+                  this list of conditions and the following disclaimer.</li>
+                  <li>Redistributions in binary form must reproduce the above copyright notice,
+                  this list of conditions and the following disclaimer in the documentation and/or
+                  other materials provided with the distribution.</li></ol>
+                  <codeph>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"
+                  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+                  WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+                  IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+                  INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+                  (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+                  LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+                  ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+                  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+                  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></lq>"
+
+mappings:
+  "IN NO EVENT HALL": "IN NO EVENT SHALL"

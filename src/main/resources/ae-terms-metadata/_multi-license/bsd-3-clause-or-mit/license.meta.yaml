@@ -1,0 +1,21 @@
+canonicalName: BSD 3-Clause License + MIT License
+category: BDS+MIT
+shortName: BSD-3-Clause-OR-MIT
+
+type: expression
+
+combinedWith:
+  "BSD 3-Clause License": "BSD 3-Clause License + MIT License"
+  "MIT License": "BSD 3-Clause License + MIT License"
+
+# compensated by combinedWith
+ignoreMatches:
+  - "BSD 3-Clause License"
+  - "MIT License"
+
+alternativeNames:
+  - "BSD-3-Clause OR MIT"
+  - "released under two licenses: new BSD, and MIT. You may pick the license that best suits your development needs"
+  - "New BSD and MIT"
+  - "Available via the MIT or new BSD license"
+

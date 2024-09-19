@@ -174,7 +174,6 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
      * {@inheritDoc}
      */
     //FIXME-RTU: this test is only disabled because it was moved to outer-rim, enable ASAP
-    @Disabled
     @Test
     public void testRepresentedAsIntegrity() {
         testRepresentedAsIntegrity(nmd);

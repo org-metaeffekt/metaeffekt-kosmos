@@ -1,0 +1,12 @@
+canonicalName: BSD 2-Clause License + MIT License
+category: BSD+MIT
+shortName: BSD-2-Clause-OR-MIT
+
+type: expression
+
+alternativeNames:
+  - "BSD-2-Clause OR MIT"
+
+combinedWith:
+  "BSD 2-Clause License": "BSD 2-Clause License + MIT License"
+  "MIT License": "BSD 2-Clause License + MIT License"

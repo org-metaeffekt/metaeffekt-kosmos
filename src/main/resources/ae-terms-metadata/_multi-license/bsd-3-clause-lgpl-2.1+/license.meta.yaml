@@ -1,0 +1,12 @@
+canonicalName: BSD 3-Clause License + GNU Lesser General Public License 2.1 (or any later version)
+category: BSD-LGPL
+shortName: BSD-3-Clause-LGPL-2.1+
+
+type: expression
+
+alternativeNames:
+  - " LGPL-2.1 + or BSD-3-clause"
+  
+combinedWith:
+  "BSD 3-Clause License": BSD 3-Clause License + GNU Lesser General Public License 2.1 (or any later version)
+  "GNU Lesser General Public License 2.1 (or any later version)": BSD 3-Clause License + GNU Lesser General Public License 2.1 (or any later version)
