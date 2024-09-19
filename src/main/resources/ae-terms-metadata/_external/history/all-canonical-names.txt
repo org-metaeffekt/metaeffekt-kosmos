@@ -3063,3 +3063,10 @@ GNU Lesser General Public License 2.1 (with exceptions)
 GNU Lesser General Public License 2.1 (or any later version; with exceptions)
 GNU Lesser General Public License 3.0 (or any later version; with exceptions)
 Redistribution Terms
+BSD alike
+GNU General Public License 2.0 (with Asterisk Linking Permission)
+BSD 2-Clause License (copyright holder variant)
+BSD 3-Clause License (copyright holder variant)
+Qt Commercial License
+GPL Compatibility
+FreeType Project License

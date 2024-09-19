@@ -1,0 +1,14 @@
+canonicalName: "ECMA License + BSD 3-Clause License (copyright holder variant)"
+category: ECMA+BSD
+shortName: ECMA+BSD-3-Clause-copyright-holder
+
+type: expression
+
+#note: this is unspecific and for general matching of most of the specifications
+displayName: "ECMAScript Language Specification"
+
+combinedWith:
+  ECMA License: "ECMA License + BSD 3-Clause License (copyright holder variant)"
+  BSD 3-Clause License (copyright holder variant): "ECMA License + BSD 3-Clause License (copyright holder variant)"
+
+

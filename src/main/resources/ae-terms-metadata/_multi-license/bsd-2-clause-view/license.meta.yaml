@@ -1,0 +1,20 @@
+canonicalName: BSD 2-Clause License (with authors view)
+category: BSD
+spdxIdentifier: BSD-2-Clause-Views
+
+otherIds:
+
+representedAs: "BSD 2-Clause License"
+
+type: expression
+
+alternativeNames:
+  - "BSD 2-Clause with views sentence"
+
+expectedSpdxMatches:
+  - "BSD 2-Clause License (copyright holder variant)"
+  - "BSD 2-Clause License"
+
+combinedWith:
+  "BSD 2-Clause License": "BSD 2-Clause License (with authors view)"
+  "Authors View Marker": "BSD 2-Clause License (with authors view)"
