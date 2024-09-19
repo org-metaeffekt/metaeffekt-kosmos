@@ -85,22 +85,6 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
         testUniqueness_betweenHistoryAndActiveCanonicalNames(nmd);
     }
 
-    /**
-     * {@inheritDoc}
-     */
-    @Disabled("There is no strict rule for uniqueness but the test is useful for manually finding issues.")
-    public void testUniqueness_otherIds() {
-        testUniqueness_otherIds(nmd);
-    }
-
-    /**
-     * {@inheritDoc}
-     */
-    @Disabled
-    @Test
-    public void validateOSISPDXIdentifier() {
-        validateOSISPDXIdentifier(nmd);
-    }
 
     /**
      * {@inheritDoc}
@@ -255,8 +239,6 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
     /**
      * {@inheritDoc}
      */
-    //FIXME-RTU: this test is only disabled because it was moved to outer-rim, enable ASAP
-    @Disabled
     @Test
     public void checkReferences() {
         checkReferences(nmd);
@@ -270,14 +252,6 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
         testStandardVariableSets(nmd);
     }
 
-    /**
-     * {@inheritDoc}
-     */
-    @Disabled
-    @Test
-    public void checkScancodeReferencesAreUnique() {
-        checkScancodeReferencesAreUnique(nmd);
-    }
 
     /**
      * {@inheritDoc}
@@ -316,5 +290,31 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
     @Test
     public void checkForExceptionsInWrongFolder() {
         checkForExceptionsInWrongFolder(nmd);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    @Disabled("There is no strict rule for uniqueness but the test is useful for manually finding issues.")
+    public void testUniqueness_otherIds() {
+        testUniqueness_otherIds(nmd);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    @Disabled
+    @Test
+    public void validateOSISPDXIdentifier() {
+        validateOSISPDXIdentifier(nmd);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    @Disabled
+    @Test
+    public void checkScancodeReferencesAreUnique() {
+        checkScancodeReferencesAreUnique(nmd);
     }
 }
