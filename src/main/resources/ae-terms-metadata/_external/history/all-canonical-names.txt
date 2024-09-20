@@ -3070,3 +3070,25 @@ BSD 3-Clause License (copyright holder variant)
 Qt Commercial License
 GPL Compatibility
 FreeType Project License
+FreeType Project License + GNU General Public License 2.0
+Authors View Marker
+BSD 2-Clause License (copyright holder variant; with Authors View Marker)
+BSD 2-Clause License (copyright holder variant; with authors view)
+BSD 2-Clause License (copyright variant)
+BSD 2-Clause License (variant 015)
+BSD 2-Clause License (with authors view)
+BSD 2-Clause License + MIT License
+BSD 3-Clause License (copyright holder  variant)
+BSD 3-Clause License (copyright variant)
+BSD 3-Clause License (NumPy)
+BSD 3-Clause License + GNU General Public License 2.0
+BSD 3-Clause License + GNU General Public License 2.0 (or any later version)
+BSD 3-Clause License + GNU General Public License 3.0 (or any later version)
+BSD 3-Clause License + GNU Lesser General Public License 2.1 (or any later version)
+BSD 3-Clause License + GNU Lesser General Public License 2.1 + MIT License
+BSD 3-Clause License + MIT License
+BSD-2-Clause
+ECMA License
+ECMA License + BSD 3-Clause License (copyright holder variant)
+FreeType Project License (copyright holder variant)
+FreeType Project License (copyright variant)
