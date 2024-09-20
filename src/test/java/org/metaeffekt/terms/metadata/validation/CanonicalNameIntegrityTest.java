@@ -1,6 +1,7 @@
 package org.metaeffekt.terms.metadata.validation;
 
 import com.metaeffekt.artifact.analysis.common.tmd.validation.AbstractCanonicalNameIntegrityTest;
+import com.metaeffekt.artifact.analysis.utils.FileUtils;
 import com.metaeffekt.artifact.terms.TermsMetaDataResolver;
 import com.metaeffekt.artifact.terms.model.NormalizationMetaData;
 import org.junit.jupiter.api.Disabled;
@@ -17,7 +18,8 @@ public class CanonicalNameIntegrityTest extends AbstractCanonicalNameIntegrityTe
     @Disabled // creation is not implicit; this is a helper method
     @Test
     public void createCanonicalNamesFile() throws IOException {
-        final File canonicalNamesFile = new File("src/main/resources/ae-terms-metadata/_external/history/current-release-canonical-names.txt");
+        final File canonicalNamesFile = new File("src/main/resources/ae-terms-metadata/_external/history/all-canonical-names.txt");
+        FileUtils.delete(canonicalNamesFile);
         final NormalizationMetaData normalizationMetaData = TermsMetaDataResolver.get();
 
         createCanonicalNamesFile(canonicalNamesFile, normalizationMetaData);
