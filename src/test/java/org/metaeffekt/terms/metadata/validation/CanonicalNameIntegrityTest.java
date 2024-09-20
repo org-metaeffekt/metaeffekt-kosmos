@@ -19,10 +19,9 @@ public class CanonicalNameIntegrityTest extends AbstractCanonicalNameIntegrityTe
     @Test
     public void createCanonicalNamesFile() throws IOException {
         final File canonicalNamesFile = new File("src/main/resources/ae-terms-metadata/_external/history/all-canonical-names.txt");
-        FileUtils.delete(canonicalNamesFile);
         final NormalizationMetaData normalizationMetaData = TermsMetaDataResolver.get();
 
-        createCanonicalNamesFile(canonicalNamesFile, normalizationMetaData);
+        createCanonicalNamesFile(canonicalNamesFile, normalizationMetaData, true);
     }
 
     /**
