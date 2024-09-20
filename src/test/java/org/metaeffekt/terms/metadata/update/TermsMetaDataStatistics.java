@@ -9,6 +9,7 @@ import com.metaeffekt.artifact.terms.model.Grant;
 import com.metaeffekt.artifact.terms.model.NormalizationMetaData;
 import com.metaeffekt.artifact.terms.model.Obligation;
 import com.metaeffekt.artifact.terms.model.TermsMetaData;
+import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;
@@ -16,6 +17,7 @@ import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 
+@Slf4j
 public class TermsMetaDataStatistics {
     public void updateLicenseStatistics(File licenseMetaDataDir, File reportTargetFile) {
         NormalizationMetaData normalizationMetaData = new NormalizationMetaData(licenseMetaDataDir);
@@ -741,9 +743,9 @@ public class TermsMetaDataStatistics {
                 countLicensesWithData++;
             }
         }
-        System.out.println(countAllLicenses);
-        System.out.println(countLicensesWithData);
-        System.out.println(countLicensesWithData / countAllLicenses * 100 + "%");
+        log.info("{}", countAllLicenses);
+        log.info("{}", countLicensesWithData);
+        log.info("{}", countLicensesWithData / countAllLicenses * 100 + "%");
     }
 
 }
