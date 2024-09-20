@@ -1,0 +1,26 @@
+canonicalName: NIST NVD API Terms of Use
+category: NIST NVD API Terms of Use
+shortName: nist-nvd-api-tou
+
+otherIds:
+  - "scancode:nist-nvd-api-tou"
+
+classification: permissive
+
+alternativeNames:
+  - "NIST NVD API Terms of Use"
+
+evidence:
+  matches:
+    - "The National Vulnerability Database (NVD) was created by the National Institute of Standards and Technology
+       (NIST) and is being made available as a public service"
+    - "The NVD offers some of its public data in machine-readable format via an Application Programming Interface ('API')"
+    - "This service is offered subject to this Terms of Use and NIST Website Policies (collectively, the 'Terms of Use' or 'TOU')"
+    - "The NVD API is intended to be used to develop a service or services to search, display, analyze, retrieve,
+       view and otherwise 'get' information from NVD data"
+    - "Examples of specific use cases are described in the guidance on the NVD’s website"
+    - "Enterprise scale development that uses the NVD should consult this guidance"
+    - "Services which utilize or access the NVD API are asked to display the following notice prominently within the
+       application: 'This product uses the NVD API but is not endorsed or certified by the NVD"
+    - "You may use the NVD name in order to identify the source of API content subject to these rules"
+    - "You may not use the NVD name, to imply endorsement of any product, service, or entity, not-for-profit, commercial or otherwise"
