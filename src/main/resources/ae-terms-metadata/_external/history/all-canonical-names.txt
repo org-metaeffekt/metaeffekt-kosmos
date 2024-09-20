@@ -232,7 +232,6 @@ Blitz++ Artistic License
 Bloomberg BLPAPI License
 Blue Oak Model License 1.0.0
 Boehm-Demers-Weiser GC License
-Boehm-Demers-Weiser GC License (without fee)
 Boost Software License 1.0
 Bootloader Distribution Exception
 Bootloader Distribution Exception (GPL)
@@ -3094,3 +3093,4 @@ Zope Public License 2.1
 Zrythm Exception (AGPL 3.0)
 Zuora Software License
 Zveno Research License
+Freetype2 Project License
