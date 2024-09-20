@@ -232,6 +232,7 @@ Blitz++ Artistic License
 Bloomberg BLPAPI License
 Blue Oak Model License 1.0.0
 Boehm-Demers-Weiser GC License
+Boehm-Demers-Weiser GC License (without fee)
 Boost Software License 1.0
 Bootloader Distribution Exception
 Bootloader Distribution Exception (GPL)
@@ -2015,6 +2016,7 @@ nexB Software Subscription License Agreement 1.1.0
 NICTA Public Software Licence 1.0
 NICTA Restriction
 Niels Ferguson License
+NIST NVD API Terms of Use
 NIST Public Domain Notice
 NIST Public Domain Notice (with license fallback)
 NIST Software License
