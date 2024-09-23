@@ -231,7 +231,6 @@ Blender License 2010
 Blitz++ Artistic License
 Bloomberg BLPAPI License
 Blue Oak Model License 1.0.0
-Boehm-Demers-Weiser GC License
 Boost Software License 1.0
 Bootloader Distribution Exception
 Bootloader Distribution Exception (GPL)
