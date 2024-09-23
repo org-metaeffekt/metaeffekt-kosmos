@@ -3,7 +3,7 @@
 The TMD folder contains the license database of metæffekt universe.
 
 The metadata is organised in a dedicated folder structure, which is primarily alphabetically sorted.
-In addition, TMD contains several special folders, starting with an underscore *(_)*. 
+In addition, TMD contains several special folders, starting with an underscore *(_)*.
 
 ## Special folders
 * [_exceptions](_exceptions/README.md)
@@ -31,7 +31,7 @@ The **".meta"** folder contains runtime information.
 ## Examples:
 
 The Apache License 2.0 can be found under:
-    
+
     ae-terms-metadata > a > apache > 2.0
 
 The Classpath Exception can be found under:
@@ -48,7 +48,7 @@ The folder structure follows certain conventions:
 * Organise Terms Metadata by provider and version if several versions exist; e.g. check structure in license-metadata/a/apache
 
 ### `canonicalName` conventions
- 
+
 * Variants are expressed in the canonicalName either by adding a modifier in brackets or by numbering a variant (var-001)
 
 ### `combinedWith` conventions

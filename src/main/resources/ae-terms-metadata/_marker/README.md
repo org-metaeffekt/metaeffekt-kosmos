@@ -4,7 +4,7 @@ Markers are used to give hints for the result interpretation.
 
 ## Modelling
 
-- document purpose of marker in `comments` 
+- document purpose of marker in `comments`
 - use one-of matching when dealing with marker modelling
 
 consider major license categories while modelling such as:
