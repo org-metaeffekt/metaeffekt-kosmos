@@ -1,6 +1,10 @@
+# FIXME-DISCUSS: since STLPort is also not within the text of this license, i'd recommend a Permission Terms (STL) instead.
 canonicalName: STLport License 4.5
 category: STLport License
 shortName: STLport-4.5
+
+# NOTE: SPDX has chosen an over-specific identifier for this license. We do not adopt this naming.
+spdxIdentifier: Boehm-GC-without-fee
 
 otherIds:
   - "scancode:stlport-4.5"
