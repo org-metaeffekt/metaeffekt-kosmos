@@ -317,4 +317,12 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
     public void checkScancodeReferencesAreUnique() {
         checkScancodeReferencesAreUnique(nmd);
     }
+
+    /**
+     * {@inheritDoc}
+     */
+    @Test
+    public void checkConsistencyUnspecificLicenses() {
+        checkConsistencyUnspecificLicenses(nmd);
+    }
 }
