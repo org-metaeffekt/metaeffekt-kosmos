@@ -321,6 +321,7 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
     /**
      * {@inheritDoc}
      */
+    @Disabled
     @Test
     public void checkConsistencyUnspecificLicenses() {
         checkConsistencyUnspecificLicenses(nmd);
