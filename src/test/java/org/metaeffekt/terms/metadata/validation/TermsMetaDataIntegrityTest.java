@@ -16,8 +16,8 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
 
     private static final Logger LOG = LoggerFactory.getLogger(TermsMetaDataIntegrityTest.class);
 
-    private final static NormalizationMetaData nmd = TermsMetaDataResolver.get();
-    private final NormalizationMetaDataUtils normalizationMetaDataUtils = new NormalizationMetaDataUtils(new File("src/main/resources/ae-terms-metadata"));
+    private static final File tmdBaseDir = new File("src/main/resources/ae-terms-metadata");
+    private static final NormalizationMetaData nmd = new NormalizationMetaData(tmdBaseDir);
 
     /**
      * {@inheritDoc}
@@ -39,30 +39,24 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     @Test
     public void assertUniqueLicenseIdentification_metadataCategory() throws IOException {
         final String categories = "BSD";
-        final NormalizationMetaData normalizationMetaData = new NormalizationMetaData(normalizationMetaDataUtils.getLicenseMetaDataDir());
 
-        assertUniqueLicenseIdentification_metadataCategory(normalizationMetaData, categories);
+        assertUniqueLicenseIdentification_metadataCategory(nmd, categories);
     }
 
     @Disabled
     @Test
     public void assertUniqueLicenseIdentification_metadataSingle() throws IOException {
-        final String licenseName = "Apache License 2.0";
-        NormalizationMetaData normalizationMetaData = new NormalizationMetaData(normalizationMetaDataUtils.getLicenseMetaDataDir());
-
-        assertUniqueLicenseIdentification_metadataSingle(normalizationMetaData, licenseName);
+        assertUniqueLicenseIdentification_metadataSingle(nmd, "Apache License 2.0");
     }
 
     @Test
     public void reportAndRemoveObsoleteMetaFolder() throws IOException {
-        File baseDir = new File("src/main/resources/ae-terms-metadata");
-        reportAndRemoveObsoleteMetaFolder(baseDir);
+        reportAndRemoveObsoleteMetaFolder(tmdBaseDir);
     }
 
     @Test
     public void reportAndRemoveEmptyFolders() throws IOException {
-        File baseDir = new File("src/main/resources/ae-terms-metadata");
-        reportAndRemoveObsoleteMetaFolder(baseDir);
+        reportAndRemoveObsoleteMetaFolder(tmdBaseDir);
     }
 
 
@@ -103,7 +97,6 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     @Test
     @Disabled // this is a utility test
     public void deleteMetaFolder() throws IOException {
-        File baseDir = new File("src/main/resources/ae-terms-metadata");
-        deleteMetaFolder(baseDir);
+        deleteMetaFolder(tmdBaseDir);
     }
 }

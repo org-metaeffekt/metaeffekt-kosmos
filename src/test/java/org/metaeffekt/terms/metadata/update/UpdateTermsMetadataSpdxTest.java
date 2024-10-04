@@ -15,19 +15,14 @@ public class UpdateTermsMetadataSpdxTest extends AbstractUpdateTermsMetadataSpdx
 
     private static final Logger LOG = LoggerFactory.getLogger(UpdateTermsMetadataSpdxTest.class);
 
-    private final NormalizationMetaDataUtils normalizationMetaDataUtils = new NormalizationMetaDataUtils(new File("src/main/resources/ae-terms-metadata"));
-
-
     /**
      * {@inheritDoc}
      */
     @Test
     public void updateTermsMetaDataFromSPDX() throws IOException {
 
-        final NormalizationMetaData normalizationMetaData = new NormalizationMetaData(normalizationMetaDataUtils.getLicenseMetaDataDir());
         final File localProperties = new File(".local-properties");
-
-        updateTermsMetaDataFromSPDX(normalizationMetaData, localProperties);
+        updateTermsMetaDataFromSPDX(localProperties);
     }
 
     /**

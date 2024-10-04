@@ -19,7 +19,8 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
 
     private static final Logger LOG = LoggerFactory.getLogger(TermsMetaDataConventionTest.class);
 
-    private final static NormalizationMetaData nmd = TermsMetaDataResolver.get();
+    private static final File tmdBaseDir = new File("src/main/resources/ae-terms-metadata");
+    private static final NormalizationMetaData nmd = new NormalizationMetaData(tmdBaseDir);
 
     /**
      * {@inheritDoc}
@@ -109,7 +110,7 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
     @Test
     public void testFolderConventions() throws Exception {
         final NormalizationMetaData nmd = TermsMetaDataResolver.get();
-        testFolderConventions(nmd);
+        testFolderConventions(tmdBaseDir, nmd);
     }
 
     /**
