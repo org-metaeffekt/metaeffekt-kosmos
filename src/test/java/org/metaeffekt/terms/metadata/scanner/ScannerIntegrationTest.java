@@ -18,8 +18,8 @@ import java.util.List;
     @Slf4j
     public class ScannerIntegrationTest extends AbstractScannerIntegrationTest {
 
-        private final NormalizationMetaDataUtils normalizationMetaDataUtils = new NormalizationMetaDataUtils(new File("src/main/resources/ae-terms-metadata"));
-        final NormalizationMetaData normalizationMetaData = TermsMetaDataResolver.get();
+        private static final File tmdBaseDir = new File("src/main/resources/ae-terms-metadata");
+        private static final NormalizationMetaData nmd = new NormalizationMetaData(tmdBaseDir);
 
         /**
          * {@inheritDoc}
@@ -37,7 +37,7 @@ import java.util.List;
             excludes.add("Philippe De Muyter License");
             excludes.add("Python License 2.0");
 
-            assertUniqueLicenseIdentification(normalizationMetaData, excludes, skipUntilLicense, deleteAnalysisFolder);
+            assertUniqueLicenseIdentification(nmd, excludes, skipUntilLicense, deleteAnalysisFolder);
         }
     }
 
