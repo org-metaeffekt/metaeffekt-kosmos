@@ -17,9 +17,6 @@ alternativeNames:
 requiresCopyright: false
 requiresLicenseText: false
 
-expectedMatches:
-  - "LaTeX Project Public License 1.0 (or any later version)"
-
 evidence:
   matches:
     - "The LaTeX Project Public License (LPPL) is the license under which the base

@@ -160,17 +160,6 @@ evidence:
        must offer an equivalent opportunity for all users interacting with your Program
        through a computer network to request immediate transmission by HTTP of the
        complete source code of your modified version or other derivative work." # AGPL
-    - "We used to write an empty C file, but that gets complicated with go build -n. We tried using a file that does not exist, but that fails on systems with GCC version"
-    - "docs/GPLv2.TXT"
-    - "vsftpd is licensed under version 2 of the GNU GPL"
-    - "All other obligations under the GPL v2 remain intact"
-    - "This work may also be redistributed and/or modified under the
-       terms of the GNU General Public License, version 2 or any later
-       version, as published by the Free Software Foundation"
-    - "Foreign non-Lisp code that is linked with CLISP or loaded into CLISP through dynamic linking is not
-       exempted from this copyright. I.e. such code, when distributed for use with CLISP,
-       must be distributed under the GPL"
-    - "if you download Linux, which is under the GPLv2"
 
 references:
   "LGPL":
@@ -192,6 +181,7 @@ masks:
   matches:
       - "Some of those programs are provided under licenses deemed incompatible with the GPLv2 by the Free Software
          Foundation and others."
+      - "if you download Linux, which is under the GPLv2"
 
 licenseTemplate:
   "<lq><codeph>NO WARRANTY</codeph>

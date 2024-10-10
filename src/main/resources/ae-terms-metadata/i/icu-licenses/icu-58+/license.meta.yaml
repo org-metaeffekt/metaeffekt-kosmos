@@ -8,28 +8,27 @@ otherIds:
 canonicalNameHistory:
   - "ICU 58 License"
 
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
-  - "BSD 3-Clause License (copyright holder variant)"
-  - "BSD 2-Clause License"
-  - "Nara Institute of Science and Technology License (2003)"
+expectedMatches:
+#  - "BSD 3-Clause License (copyright holder variant)"
+#  - "BSD 2-Clause License"
+#  - "Nara Institute of Science and Technology License (2003)"
   - "Time Zone Database Ownership License"
 
 #FIXME-DISCUSS: how do we want to handle the "container variant" - keep like this - create own yaml variant? (this would enable us to use references specificallly for that license text) - other approach?
 # these are for the container variant
-  - "OpenSSL License"
-  - "Artistic License 2.0"
-  - "ISC License"
-  - "MIT License"
-  - "Creative Commons Zero 1.0"
-  - "BSD 3-Clause License"
-  - "Apache License (undefined)"
-  - "Apache License 2.0"
-  - "BSD 3-Clause License (variant 001)"
-  - "BSD 3-Clause License (variant 015)"
-  - "Node License"
-  - "Public Domain"
-  - "zlib License"
+#  - "OpenSSL License"
+#  - "Artistic License 2.0"
+#  - "ISC License"
+#  - "MIT License"
+#  - "Creative Commons Zero 1.0"
+#  - "BSD 3-Clause License"
+#  - "Apache License (undefined)"
+#  - "Apache License 2.0"
+#  - "BSD 3-Clause License (variant 001)"
+#  - "BSD 3-Clause License (variant 015)"
+#  - "Node License"
+#  - "Public Domain"
+#  - "zlib License"
 
 alternativeNames:
   - "COPYRIGHT AND PERMISSION NOTICE (ICU 58 and later)"

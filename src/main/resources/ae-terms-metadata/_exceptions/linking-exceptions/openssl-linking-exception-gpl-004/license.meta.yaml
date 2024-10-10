@@ -28,10 +28,9 @@ evidence:
     - "If you modify this file, you may extend this exception to your version of the file,
        but you are not obligated to do so"
   excludes:
-    - "In addition, as a special exception, the copyright holders give
-       permission to link the code of portions of this program with the
-       OpenSSL library under certain conditions as described in each
-       individual source file, and distribute linked combinations
-       including the two"
-    - "In addition, as a special exception, Karl J. Runge gives permission to link the code of its release of x11vnc with the OpenSSL project's \"OpenSSL\" library
-        (or with modified versions of it that use the same license as the \"OpenSSL\" library), and distribute the linked executables"
+    - "In addition, as a special exception, the copyright holders give permission to link the code of portions of this 
+       program with the OpenSSL library under certain conditions as described in each individual source file, and 
+       distribute linked combinations including the two"
+    - "In addition, as a special exception, Karl J. Runge gives permission to link the code of its release of x11vnc 
+       with the OpenSSL project's \"OpenSSL\" library (or with modified versions of it that use the same license as 
+       the \"OpenSSL\" library), and distribute the linked executables"

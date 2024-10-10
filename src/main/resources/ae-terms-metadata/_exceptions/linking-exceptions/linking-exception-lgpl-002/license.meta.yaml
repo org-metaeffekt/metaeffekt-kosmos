@@ -25,8 +25,7 @@ evidence:
        linked into another program.)"
   excludes:
     - "Note that people who make modified versions of this file are not
-          obligated to grant this special exception for their modified
-          versions"
+       obligated to grant this special exception for their modified versions"
 
 references:
   "LGPL":

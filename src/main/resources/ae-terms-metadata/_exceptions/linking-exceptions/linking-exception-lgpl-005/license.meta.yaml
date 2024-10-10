@@ -13,6 +13,7 @@ combinedWith:
   "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Linking exception (LGPL; variant 005))
 
 alternativeNames:
+  - "Linking Exception (LGPL; variant 005)"
   - "GCC exception, Version 2.0"
   - "GCC exception, 2.0"
   - "GCC exception 2.0"

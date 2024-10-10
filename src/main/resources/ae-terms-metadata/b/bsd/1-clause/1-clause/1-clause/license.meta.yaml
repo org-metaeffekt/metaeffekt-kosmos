@@ -51,7 +51,10 @@ evidence:
        not required"
     - "The name of the author may not be used to endorse or promote products
        derived from this software without specific prior written permission"
-    - "Redistributions in bytecode form must reproduce the above copyright notice this list of conditions and the following disclaimer in the documentation and or other materials provided with the distribution"
+    - "Redistributions in bytecode form must reproduce the above copyright notice this list of conditions and the
+       following disclaimer in the documentation and or other materials provided with the distribution"
+    - "Redistributions in binary form must reproduce at minimum a disclaimer substantially similar to the 'NO WARRANTY' disclaimer below
+       ('Disclaimer') and any redistribution must be conditioned"
 
 grants:
   binary-distribution:

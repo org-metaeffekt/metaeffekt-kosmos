@@ -2,7 +2,8 @@ canonicalName: CNRI Open Source License Agreement (Python 1.6.1)
 category: CNRI Open Source License Agreement
 spdxIdentifier: CNRI-Python-GPL-Compatible
 
-ignore: true
+# FIXME-DISCUSS: we ignore the license with SPDX identfier. Remove the other?
+# ignore: true
 # see FIXME in "CNRI License Agreement"
 
 canonicalNameHistory:

@@ -1,27 +1,10 @@
+# FIXME-DISCUSS: this is an addition to GPL not a stand-alone license
 canonicalName: Flowplayer License (GPL 3.0)
 category: Flowplayer
 shortName: Flowplayer-GPL-3.0
 
 otherIds:
   - "scancode:flowplayer-gpl-3.0"
-
-references:
-  "GPL":
-    matches:
-      - "This program is free software: you can redistribute it and/or modify it under
-         the terms of the GNU General Public License as published by the Free Software
-         Foundation, either version 3 of the License, or (at your option) any later
-         version.
-
-         This program is distributed in the hope that it will be useful, but WITHOUT ANY
-         WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-         PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-         You should have received a copy of the GNU General Public License along with
-         this program.  If not, see <http://www.gnu.org/licenses/>.
-
-         The Flowplayer Free version is released under the GNU GENERAL PUBLIC LICENSE
-         Version 3 (GPL)"
 
 evidence:
   matches:
@@ -41,3 +24,6 @@ evidence:
     - "If you convey this program (or any modifications of it) and assume contractual
        liability for the program to recipients of it, you agree to indemnify
        Flowplayer, Ltd."
+
+ignoreMatches:
+  - "GNU General Public License 3.0 (or any later version)"

@@ -34,6 +34,7 @@ evidence:
        of FreeRTOS used and an offer by yourself to provide the FreeRTOS source code (including any modifications you may
        have made) should the recipient request it"
     - "The combined work is not itself an RTOS, scheduler, kernel or related product"
+  # FIXME-REVIEW: excludes
   excludes:
     - "Iot: This release adds support to create a Stream and Code signing for Amazon FreeRTOS job"
     - "Operating Systems

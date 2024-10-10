@@ -1,6 +1,6 @@
 canonicalName: Ubuntu Font License 1.0
 category: Ubuntu Font License
-shortName: Ubuntu-Font-1.0
+spdxIdentifier: Ubuntu-font-1.0
 
 otherIds:
   - "scancode:ubuntu-font-1.0"

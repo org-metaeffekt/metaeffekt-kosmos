@@ -21,7 +21,7 @@ evidence:
     - "Thus, the terms and conditions of the GNU
        General Public License cover the whole combination"
   excludes:
-    - "In addition , as a special exception , the copyright holder of stunnel gives you permission to combine stunnel
+    - "In addition, as a special exception, the copyright holder of stunnel gives you permission to combine stunnel
        with free software programs or libraries that are released under the GNU LGPL and with code included in the
-       standard release of OpenSSL under the OpenSSL License ( or modified versions of such
-       code , with unchanged license )"
+       standard release of OpenSSL under the OpenSSL License (or modified versions of such
+       code, with unchanged license)"

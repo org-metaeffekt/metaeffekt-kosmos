@@ -27,5 +27,6 @@ evidence:
        OpenSSL"
     - "If you modify this file, you may extend this exception to your version of the file, but you are not obligated
        to do so"
+  # FIXME-REVIEW: excludes; rather a reference
   excludes:
     - "This is very similar to openvpn-openssl-exception with a couple key differences"

@@ -5,15 +5,8 @@ shortName: ParaView-1.2
 otherIds:
   - "scancode:paraview-1.2"
 
+# FIXME-IMPLEMENT: review
 expectedMatches:
-  - "BSD 3-Clause License (copyright holder variant)"
-  - "BSD 3-Clause License (modification; copyright holder variant 001)"
-  - "Los Alamos National Laboratory License"
-  - "HDF5 Software Library and Utilities License"
-
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
-  - "BSD 3-Clause License (copyright holder variant)"
   - "BSD 3-Clause License (modification; copyright holder variant 001)"
   - "Los Alamos National Laboratory License"
   - "HDF5 Software Library and Utilities License"

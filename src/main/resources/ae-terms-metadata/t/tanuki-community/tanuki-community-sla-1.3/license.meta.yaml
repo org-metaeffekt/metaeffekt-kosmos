@@ -13,12 +13,6 @@ expectedMatches:
   - "GNU General Public License 2.0"
   - "GNU General Public License 3.0"
 
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
-  - "MIT License"
-  - "GNU General Public License 2.0"
-  - "GNU General Public License 3.0"
-
 evidence:
   matches:
     - "Community editions of the Software are made available on the GNU General Public License, Version 2 (\"GPLv2\") or Version 3 (\"GPLv3\"), included in Sections 4 and 5 of this license document"

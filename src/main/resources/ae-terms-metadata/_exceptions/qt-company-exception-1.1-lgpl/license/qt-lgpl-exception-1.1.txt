@@ -16,5 +16,5 @@ material is limited to
 (ii) data structure layouts;
 (iii) accessors; and
 (iv) small macros, templates and inline functions of five lines or less in length.
-Furthermore, you are not required to apply this additional permission to a modified version of the Library.
 
+Furthermore, you are not required to apply this additional permission to a modified version of the Library.

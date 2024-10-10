@@ -31,12 +31,12 @@ evidence:
        instance. Thus such allocation is important in order to preserve not only the
        value of the original tokens, but also to preserve the users freedom to use any
        works derived from the original software"
-    - "With the above being said, the terms and conditions for using, copying and
-       modification of distributed ledger software programs are outlined below, called
-       the Jelurida Public License (JPL). The JPL is inspired by the GNU General Public
-       License versions 2 and 3, with adaptations specifically aimed at application of
-       the license to distributed ledger software programs; as such the GNU General
-       Public License and any other license terms and conditions other than this JPL
-       are explicitly excluded"
     - "This Jelurida Public License (JPL) consisting of both General Conditions and
        Special Conditions"
+
+references:
+  "GPL":
+    matches:
+      - "inspired by the GNU General Public License versions 2 and 3,
+         with adaptations specifically aimed at application of the license to
+         distributed ledger software programs"

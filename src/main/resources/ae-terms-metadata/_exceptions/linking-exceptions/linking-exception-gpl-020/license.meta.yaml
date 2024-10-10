@@ -17,6 +17,7 @@ evidence:
        resulting executable to be covered by the GNU General Public
        License.  Your use of that executable is in no way restricted on
        account of linking the SANE library code into it"
+  # FIXME-REVIEW: excludes; check whether exclude can be removed
   excludes:
     - "This exception does not, however, invalidate any other reasons why
        the executable file might be covered by the GNU General Public

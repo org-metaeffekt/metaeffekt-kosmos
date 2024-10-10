@@ -13,9 +13,13 @@ canonicalNameHistory:
 
 evidence:
   matches:
+    - "Permission is hereby granted, free of charge, to any person obtaining a copy
+       of these Fonts and associated documentation files"
     - "The above copyright and trademark notices and this permission notice shall be
        included in all copies of one or more of the Font Software"
     - "The Font Software may not be modified, altered, or added to, and in particu-
        lar the designs of glyphs or characters in the Fonts may not be modified nor
        may additional glyphs or characters be added to the Fonts"
     - "This License becomes null and void when the Fonts or Font Software have been modified"
+    - "Except as contained in this notice, the names of Bigelow & Holmes Inc. and
+       URW++ GmbH. shall not be used in advertising"

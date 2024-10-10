@@ -11,11 +11,8 @@ alternativeNames:
 combinedWith:
   "MIT License": "MIT License"
 
-# expect the license text matches the MIT License
-ignoreMatches:
-  - "MIT License"
-
 expectedMatches:
+  - "ACE License"
   - "MIT License"
 
 # the revert is required to prevent the extra newlines to dissect the text

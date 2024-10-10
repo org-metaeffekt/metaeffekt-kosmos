@@ -13,12 +13,6 @@ expectedMatches:
   - "Apache License 2.0"
   - "GNU Affero General Public License 3.0"
 
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
-  - "MIT License"
-  - "Apache License 2.0"
-  - "GNU Affero General Public License 3.0"
-
 evidence:
   matches:
     - "You may be licensed to use source code to create compiled versions not produced by Plural Labs, Inc. in one of three ways"

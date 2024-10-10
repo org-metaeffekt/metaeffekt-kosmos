@@ -27,8 +27,7 @@ evidence:
     - "If you modify this font, you may extend this exception to your version of the font, but
        you are not obligated to do so"
   excludes:
-    - "LICENSE AGREEMENT AND LIMITED PRODUCT WARRANTY
-             LIBERATION FONT SOFTWARE"
+    - "LICENSE AGREEMENT AND LIMITED PRODUCT WARRANTY LIBERATION FONT SOFTWARE"
 
 references:
   "GPL":

@@ -47,7 +47,6 @@ evidence:
      the License, but only in their entirety and only with respect to the Combined
      Software"
   excludes:
-    - "The LLVM exception handling intrinsics (which all start with
-       ``llvm.eh.`` prefix), are described in the `LLVM Exception Handling"
-    - "This document is the central repository for all information pertaining to
-       exception handling in LLVM"
+    - "The LLVM exception handling intrinsics (which all start with ``llvm.eh.`` prefix), are described in the 
+       `LLVM Exception Handling"
+    - "This document is the central repository for all information pertaining to exception handling in LLVM"

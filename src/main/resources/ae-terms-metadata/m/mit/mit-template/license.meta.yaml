@@ -55,14 +55,13 @@ alternativeNames:
   - "License [MIT](LICENSE)"
   - "under the [MIT](License) license"
 
-#FIXME-CONCEPT: Enable wildcards for broader matching - Error: "Wildcard not supported in match string"
 evidence:
   matches:
-  - "THE SOFTWARE IS PROVIDED *WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  - "THE SOFTWARE IS PROVIDED *{.{0,40}}*WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
      WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
-  - "IN NO EVENT SHALL * BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
-     AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNEC*TION WITH THE SOFTWARE OR THE USE OR
-     OTHER DEALINGS * THE SOFTWARE"
+  - "IN NO EVENT SHALL *{.{0,70}}* BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+     AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNEC*{.{0,3}}*TION WITH THE SOFTWARE OR THE USE OR
+     OTHER DEALINGS *{.{0,60}}* THE SOFTWARE"
   excludes:
   - "not be used in advertising or otherwise to promote the sale, use or other deal*ings in this Software without prior
      written authorization"
@@ -133,14 +132,19 @@ mappings:
     "FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT"
   "NONINFRINGEMENT- IN":
     "NONINFRINGEMENT. IN"
-  "acorn-bigintNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/bigint` folder is compiled from code licensed as MIT:": " LICENSE-SEGMENT-MARKER acorn-bigintNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/bigint` folder is compiled from code licensed as MIT:"
-  "acorn-import-metaNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/import-meta` folder is compiled from code licensed as MIT:": " LICENSE-SEGMENT-MARKER acorn-import-metaNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/import-meta` folder is compiled from code licensed as MIT:"
-  "acorn-dynamic-importNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/dynamic-import` folder is licensed as MIT:": " LICENSE-SEGMENT-MARKER acorn-dynamic-importNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/dynamic-import` folder is licensed as MIT:"
+  "acorn-bigintNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/bigint` folder is compiled from code licensed as MIT:":
+    " LICENSE-SEGMENT-MARKER acorn-bigintNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/bigint` folder is compiled from code licensed as MIT:"
+  "acorn-import-metaNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/import-meta` folder is compiled from code licensed as MIT:":
+    " LICENSE-SEGMENT-MARKER acorn-import-metaNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/import-meta` folder is compiled from code licensed as MIT:"
+  "acorn-dynamic-importNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/dynamic-import` folder is licensed as MIT:":
+    " LICENSE-SEGMENT-MARKER acorn-dynamic-importNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/dynamic-import` folder is licensed as MIT:"
 
 #FIXME-RESEARCH: moving this expression to "BSD 3-Clause License (copyright holder variant)" causes the scanner to process it differently. the outcome of the segmentation is different. segmentations should apply globally - what is going on here?
-  "The text of both licenses areNEWLINE-MARKERprovided below.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe \"New\" BSD License": "The text of both licenses areNEWLINE-MARKERprovided below.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER LICENSE-SEGMENT-MARKER The \"New\" BSD License"
+  "The text of both licenses areNEWLINE-MARKERprovided below.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe \"New\" BSD License":
+    "The text of both licenses areNEWLINE-MARKERprovided below.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER LICENSE-SEGMENT-MARKER The \"New\" BSD License"
 
-  "MIT LicenseNEWLINE-MARKER-----------NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright \\(c\\) 2011-2016, The Dojo FoundationNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted": " LICENSE-SEGMENT-MARKER MIT LicenseNEWLINE-MARKER-----------NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright (c) 2011-2016, The Dojo FoundationNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted"
+  "MIT LicenseNEWLINE-MARKER-----------NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright \\(c\\) 2011-2016, The Dojo FoundationNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted":
+    " LICENSE-SEGMENT-MARKER MIT LicenseNEWLINE-MARKER-----------NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright (c) 2011-2016, The Dojo FoundationNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted"
   "This license applies to GeographicLib, versions 1.12 and later.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright 2008-2012 Charles KarneyNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copy": " LICENSE-SEGMENT-MARKER This license applies to GeographicLib, versions 1.12 and later.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright 2008-2012 Charles KarneyNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copy"
   "Copyright \\(C\\) 2000 Jakub Jelinek \\(jakub@redhat.com\\)NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copyNEWLINE-MARKERof this software and associated documentation files": " LICENSE-SEGMENT-MARKER Copyright (C) 2000 Jakub Jelinek (jakub@redhat.com)NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission is hereby granted, free of charge, to any person obtaining a copyNEWLINE-MARKERof this software and associated documentation files"
   "BROTLINEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright \\(c\\) 2009, 2010, 2013-2016 by the Brotli Authors": " LICENSE-SEGMENT-MARKER BROTLINEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERCopyright (c) 2009, 2010, 2013-2016 by the Brotli Authors"
@@ -152,7 +156,8 @@ mappings:
   "The libhsail-rt library is licensed under the following termsCOLON-MARKER EMPTY-LINE-MARKERNEWLINE-MARKER Copyright \\(C\\) 2015-2017 Free Software Foundation, Inc.": " LICENSE-SEGMENT-MARKER The libhsail-rt library is licensed under the following termsCOLON-MARKER EMPTY-LINE-MARKERNEWLINE-MARKER Copyright (C) 2015-2017 Free Software Foundation, Inc."
   "luit:NEWLINE-MARKER Copyright \\(c\\) 2001 by Juliusz ChroboczekNEWLINE-MARKER Copyright \\(c\\) 2002 by Tomohiro KUBOTANEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted": " LICENSE-SEGMENT-MARKER luit:NEWLINE-MARKER Copyright (c) 2001 by Juliusz ChroboczekNEWLINE-MARKER Copyright (c) 2002 by Tomohiro KUBOTANEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"
   "xdriinfo:NEWLINE-MARKER Client application for querying drivers' configuration informationNEWLINE-MARKER Copyright \\(C\\) 2003 Felix KuehlingNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted": " LICENSE-SEGMENT-MARKER xdriinfo:NEWLINE-MARKER Client application for querying drivers' configuration informationNEWLINE-MARKER Copyright (C) 2003 Felix KuehlingNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"
-  "Software without prior written authorization from The Open Group.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright \\(c\\) 2009 Apple Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted": "Software without prior written authorization from The Open Group.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER LICENSE-SEGMENT-MARKER Copyright (c) 2009 Apple Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"
+  "Software without prior written authorization from The Open Group.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright \\(c\\) 2009 Apple Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted":
+    "Software without prior written authorization from The Open Group.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER LICENSE-SEGMENT-MARKER Copyright (c) 2009 Apple Inc.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Permission is hereby granted"
 
 grants:
   binary-distribution:
@@ -253,6 +258,6 @@ segmentation:
     { match:
         "is licensed as follows: \"\"\" MIT License",
       matchNext:
-        "Copyright (C) 2018-2020 Guy Bedford Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+        "Copyright (C) 2018-2020 Guy Bedford Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction"
     },
   ]

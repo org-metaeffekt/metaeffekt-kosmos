@@ -22,6 +22,7 @@ evidence:
   excludes:
     - "If you modify file(s) with this exception, you may extend this exception to your
        version of the file(s), but you are not obligated to do so"
+
 references:
   "GPL":
     matches:

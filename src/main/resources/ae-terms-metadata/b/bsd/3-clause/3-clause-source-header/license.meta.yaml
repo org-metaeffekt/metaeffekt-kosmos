@@ -48,3 +48,9 @@ evidence:
     - "THIS SOFTWARE IS PROVIDED AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING BUT NOT LIMITED
        TO THE IMPLIED WARRANTIES OF MERCHANTABILITY FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
        ARE DISCLAIMED"
+
+references:
+  "GPL":
+    matches:
+      - "This file is available under both the GNU General Public License
+        ´and a BSD-style copyright; see LICENSE.FlashPoint for details"

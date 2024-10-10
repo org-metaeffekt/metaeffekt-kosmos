@@ -10,6 +10,7 @@ combinedWith:
   "Disclaimer (variant 002)": Public Domain (with disclaimer)
   "Public Domain": Public Domain (with disclaimer)
 
+# FIXME-IMPLEMENT: why is this ignored; remove or document
 ignore: true
 
 alternativeNames:

@@ -5,11 +5,16 @@ shortName: X11-XFree86-1.0
 otherIds:
   - "scancode:xfree86-1.0"
 
+canonicalNameHistory:
+# from duplicate, now removed license:
+  - "XFree86 Permission"
+
 representedAs: X11 License
 
 alternativeNames:
   - "XFree86 1.0 license."
   - "XFree86 License 1.0"
+  - "XFree86 Permission"
 
 evidence:
   matches:

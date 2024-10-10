@@ -20,6 +20,7 @@ evidence:
        OpenSSL library under certain conditions as described in each
        individual source file, and distribute linked combinations
        including the two"
+  # FIXME-REVIEW: excludes; verify
   excludes:
     - "You must obey the GNU Affero General Public License V3 or later in all respects
        for all of the code used other than OpenSSL or the components mentioned above"

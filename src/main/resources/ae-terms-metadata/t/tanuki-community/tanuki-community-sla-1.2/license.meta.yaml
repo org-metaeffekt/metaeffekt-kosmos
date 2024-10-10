@@ -12,11 +12,6 @@ expectedMatches:
   - "MIT License"
   - "GNU General Public License 2.0"
 
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
-  - "MIT License"
-  - "GNU General Public License 2.0"
-
 evidence:
   matches:
     - "This license agreement is a legal agreement between you (\"Licensee\") and Tanuki Software, Ltd. (\"TSI\"), which includes computer software, associated media, printed materials, and may include online or electronic documentation"

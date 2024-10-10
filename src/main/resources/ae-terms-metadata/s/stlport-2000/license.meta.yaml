@@ -9,14 +9,11 @@ evidence:
   matches:
     - "Boris Fomitchev grants Licensee a non-exclusive, non-transferable, royalty- free
        license to use STLport and its documentation without fee"
-    - "By downloading, using, or copying STLport or any portion thereof, Licensee
-       agrees to abide by the intellectual property laws and all other applicable laws
-       of the United States of America, and to all of the terms and conditions of this
-       Agreement"
-    - "Licensee shall maintain the following copyright and permission notices on
-       STLport sources and its documentation unchanged"
-    - "This material is provided \"as is\", with absolutely no warranty expressed or
-        implied"
+    - "By downloading, using, or copying STLport or any portion thereof, Licensee agrees to abide by the
+       intellectual property laws and all other applicable laws of the United States of America, and to all
+       of the terms and conditions of this Agreement"
+    - "Licensee shall maintain the following copyright and permission notices on STLport sources and its documentation unchanged"
+    - "This material is provided \"as is\", with absolutely no warranty expressed or implied"
     - "Any use is at your own risk"
     - "Permission to use, copy, modify, distribute and sell this software and its
        documentation for any purpose is hereby granted without fee, provided that the

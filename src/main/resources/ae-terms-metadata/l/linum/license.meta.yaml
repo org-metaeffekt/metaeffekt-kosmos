@@ -14,5 +14,6 @@ requiresCopyright: false
 requiresLicenseText: false
 
 # FIXME-DISCUSS: This serves no purpose and is deactivated. It is way too vague and would only cause problems. the scancode ID is deprecated. Remove?
-# see No Warranty Marker / Linum Software License
+# see No Warranty Marker / Linum Software License; set to deprecated for now
 ignore: true
+deprecated: true

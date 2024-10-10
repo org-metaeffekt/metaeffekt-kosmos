@@ -12,11 +12,6 @@ expectedMatches:
   - "MIT License"
   - "GNU General Public License 2.0"
 
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
-  - "MIT License"
-  - "GNU General Public License 2.0"
-
 evidence:
   matches:
     - "PLEASE READ THIS AGREEMENT CAREFULLY BEFORE YOU INSTALL, COPY, DOWNLOAD OR USE THE SOFTWARE ACCOMPANYING THIS PACKAGE"

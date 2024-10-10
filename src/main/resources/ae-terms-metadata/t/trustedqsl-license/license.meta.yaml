@@ -1,0 +1,23 @@
+canonicalName: TrustedQSL License
+category: TrustedQSL
+spdxIdentifier: TrustedQSL
+
+alternativeNames:
+  - "TrustedQSL License"
+
+evidence:
+  matches:
+    - "Any redistribution of source code must retain the above copyright notice, this list of
+       conditions and the disclaimer shown in Paragraph 5 (below)"
+    - "Redistribution in binary form must reproduce the above copyright notice, this list of
+       conditions and the disclaimer shown in Paragraph 5 (below) in the documentation and/or
+       other materials provided with the distribution"
+    - "Products derived from or including this software may not use 'Logbook of the World'
+       or 'LoTW' or any other American Radio Relay League, Incorporated trademarks or servicemarks
+       in their names without prior written permission of the ARRL"
+    - "See Paragraph 6 (below) for contact information"
+    - "Use of this software does not imply endorsement by ARRL of products derived from or including
+       this software and vendors may not claim such endorsement"
+    - "This software consists of voluntary contributions made by many individuals on behalf of the ARRL"
+    - "More information on the 'Logbook of The World' project and the ARRL is available from the ARRL
+       Web site at www.arrl.org"

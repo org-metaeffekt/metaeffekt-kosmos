@@ -13,7 +13,6 @@ alternativeNames:
 combinedWith:
   "GNU Lesser General Public License 2.1 (or any later version)": "GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception 2.1 (LGPL))"
 
-
 evidence:
   matches:
     - "As an additional permission to the GNU Lesser General Public License version
@@ -37,6 +36,7 @@ evidence:
        five lines or less in length"
     - "Furthermore, you are not required to apply this additional permission to a
        modified version of the Library"
+  # REVIEW: these excludes are necessary to differentiate between other explcit named variants.
   excludes:
     - "The Qt Company Qt LGPL Exception version 1.1"
     - "Nokia Qt LGPL Exception version 1.1"

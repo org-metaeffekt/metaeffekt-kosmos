@@ -28,5 +28,8 @@ evidence:
        software"
     - "The special exception does not apply to any modifications of
        the software"
+  # FIXME-REVIEW: excludes; reference
   excludes:
-      - "Not withstanding the above, under no circumstances may you combine this software in any way with any other Broadcom software provided under a license other than the GPL, without Broadcom's express prior written consent"
+      - "Not withstanding the above, under no circumstances may you combine this software in any way with any other 
+         Broadcom software provided under a license other than the GPL, without Broadcom's express prior written 
+         consent"

@@ -28,6 +28,7 @@ evidence:
     - "An independent module is a module which is *{.{0,10}}* derived from *{.{0,10}}* based on this library"
     - "If you modify this library, you may extend this exception to your version of the library,
        but you are not obligated to do so"
+  # FIXME-REVIEW: excludes; all references
   excludes:
     - "Linking this library statically or dynamically with other modules is making a
        combined work based on this library. Thus, the terms and conditions of the

@@ -5,19 +5,13 @@ shortName: Open-Diameter
 otherIds:
   - "scancode:open-diameter"
 
+expectedMatches:
+  - "GNU General Public License 2.0 (or any later version)"
+  - "GNU Lesser General Public License 2.1 (or any later version)"
+
 evidence:
   matches:
     - "Open Diameter: Open-source software for the Diameter and Diameter related protocols"
     - "Copyright *{.{0,20}}* Open Diameter Project"
     - "This software consists of two parts, namely LGPL Part and GPL Part, which use different licences as described below"
 
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
-  - "GNU General Public License 2.0 (or any later version)"
-  - "GNU Lesser General Public License (undefined)"
-  - "GNU Lesser General Public License 2.1 (or any later version)"
-
-expectedMatches:
-  - "GNU General Public License 2.0 (or any later version)"
-  - "GNU Lesser General Public License (undefined)"
-  - "GNU Lesser General Public License 2.1 (or any later version)"

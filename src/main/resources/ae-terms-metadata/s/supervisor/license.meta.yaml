@@ -5,11 +5,11 @@ shortName: Supervisor
 otherIds:
   - "scancode:supervisor"
 
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
+# FIXME-IMPLEMENT: review
+expectedMatches:
   - "BSD 3-Clause License (copyright holder variant)"
-  - "BSD 3-Clause License (modification)"
-  - "Disclaimer (variant 001)"
+#  - "BSD 3-Clause License (modification)"
+#  - "Disclaimer (variant 001)"
   - "Permission Terms CWI"
   - "Python Software Foundation License (undefined)"
   - "Zope Public License 2.1"
@@ -26,8 +26,10 @@ evidence:
 
 
 mappings:
-  "Medusa, the asynchronous communications framework upon whichNEWLINE-MARKERsupervisor's server and client code is based, was created by SamNEWLINE-MARKERRushing:": " LICENSE-SEGMENT-MARKER Medusa, the asynchronous communications framework upon whichNEWLINE-MARKERsupervisor's server and client code is based, was created by SamNEWLINE-MARKERRushing:"
-  "Supervisor Copyright NoticeNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERSupervisor is Copyright \\(c\\) 2006-2011 Agendaless Consulting and Contributors.": " LICENSE-SEGMENT-MARKER Supervisor Copyright NoticeNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERSupervisor is Copyright (c) 2006-2011 Agendaless Consulting and Contributors."
+  "Medusa, the asynchronous communications framework upon whichNEWLINE-MARKERsupervisor's server and client code is based, was created by SamNEWLINE-MARKERRushing:":
+    " LICENSE-SEGMENT-MARKER Medusa, the asynchronous communications framework upon whichNEWLINE-MARKERsupervisor's server and client code is based, was created by SamNEWLINE-MARKERRushing:"
+  "Supervisor Copyright NoticeNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERSupervisor is Copyright \\(c\\) 2006-2011 Agendaless Consulting and Contributors.":
+    " LICENSE-SEGMENT-MARKER Supervisor Copyright NoticeNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERSupervisor is Copyright (c) 2006-2011 Agendaless Consulting and Contributors."
 
 segmentation:
   revert: [

@@ -8,42 +8,52 @@ otherIds:
 alternativeNames:
   - "Tanuki Software, Ltd. Development Software License Agreement Version 1.3"
 
-#FIXME-DELETE: composite license; delete after implementation of concept feature - change to "expectedMatches"?
-ignoreMatches:
-  - "MIT License"
-  - "Permission Terms (variant 069)"
+expectedMatches:
+  - "MIT License" # the MIT license is embedded in section 13; there is also another mention at the very and (without disclaimer)
 
 evidence:
   matches:
-    - "Effective upon the payment of the license fees presented in Exhibit 1, TSI grants to Licensee a non-exclusive, non-transferable, non-sublicensable right and license to use, reproduce, display, sell, lease, distribute and transfer copies, directly or indirectly, of the Software Program and documentation, in executable code form only, as parts of Licensee Products within the Product Group(s) defined in Exhibit 1, for the purposes of marketing such Products to Licensee customers and for internal development of Products, during the period Licensee's subscription of the TSIMS"
-    - "Licensee may not, under any circumstances, distribute or resell the Software Program as a stand-alone product, nor use the Software Program to create any Product to directly compete with the Software Program"
-    - "Where the Licensee qualifies as a Small Business, as defined in Section 2.5, the Product Group restriction is removed and all Licensee Products will be covered by this agreement"
-    - "Licensee shall be solely responsible for all marketing, manufacturing, packaging, documentation production, distribution and customer pricing of the Products, and ensure that the Products and Licensee's such activities shall be in compliance with the applicable laws and regulations"
-    - "Except as otherwise provided in this Agreement, Licensee shall also assume all responsibility and liability to customers for related support and assistance"
-    - "Neither the Software Program nor Product may be modified, nor in any way obfuscate or obstruct the copyright notice and license information displayed in the console and log files by the Software Program on startup"
-    - "Licensee acknowledges that all copyrights in the Software Program and the goodwill associated therewith are vested in and belong to TSI"
+    - "Effective upon the payment of the license fees presented in Exhibit 1, TSI grants to Licensee a non-exclusive, 
+       non-transferable, non-sublicensable right and license to use, reproduce, display, sell, lease, distribute and 
+       transfer copies, directly or indirectly, of the Software Program and documentation, in executable code form only, 
+       as parts of Licensee Products within the Product Group(s) defined in Exhibit 1, for the purposes of marketing 
+       such Products to Licensee customers and for internal development of Products, during the period Licensee's 
+       subscription of the TSIMS"
+    - "Licensee may not, under any circumstances, distribute or resell the Software Program as a stand-alone product, 
+       nor use the Software Program to create any Product to directly compete with the Software Program"
+    - "Where the Licensee qualifies as a Small Business, as defined in Section 2.5, the Product Group restriction is 
+       removed and all Licensee Products will be covered by this agreement"
+    - "Licensee shall be solely responsible for all marketing, manufacturing, packaging, documentation production, 
+       distribution and customer pricing of the Products, and ensure that the Products and Licensee's such activities 
+       shall be in compliance with the applicable laws and regulations"
+    - "Except as otherwise provided in this Agreement, Licensee shall also assume all responsibility and liability to 
+       customers for related support and assistance"
+    - "Neither the Software Program nor Product may be modified, nor in any way obfuscate or obstruct the copyright 
+       notice and license information displayed in the console and log files by the Software Program on startup"
+    - "Licensee acknowledges that all copyrights in the Software Program and the goodwill associated therewith are 
+       vested in and belong to TSI"
 
 references:
   "GPL":
     matches:
       - "Licensor represents and warrants that the Program does not contain any
          code subject to the GNU General Public License (\"GPL\"), GNU Lesser
-          GPL, \"copyleft\" license, or any other license that requires as a
-          condition of use, modification and/or distribution of such code that
-          other software incorporated into, derived from, or distributed with
-          such code be (i) disclosed or distributed in Source Code Program form;
-          (ii) licensed for the purpose of making derivative works; or (iii)
-          redistributable at no charge"
+         GPL, \"copyleft\" license, or any other license that requires as a
+         condition of use, modification and/or distribution of such code that
+         other software incorporated into, derived from, or distributed with
+         such code be (i) disclosed or distributed in Source Code Program form;
+         (ii) licensed for the purpose of making derivative works; or (iii)
+         redistributable at no charge"
   "LGPL":
     matches:
       - "Licensor represents and warrants that the Program does not contain any
-       code subject to the GNU General Public License (\"GPL\"), GNU Lesser
-        GPL, \"copyleft\" license, or any other license that requires as a
-        condition of use, modification and/or distribution of such code that
-        other software incorporated into, derived from, or distributed with
-        such code be (i) disclosed or distributed in Source Code Program form;
-        (ii) licensed for the purpose of making derivative works; or (iii)
-        redistributable at no charge"
+         code subject to the GNU General Public License (\"GPL\"), GNU Lesser
+         GPL, \"copyleft\" license, or any other license that requires as a
+         condition of use, modification and/or distribution of such code that
+         other software incorporated into, derived from, or distributed with
+         such code be (i) disclosed or distributed in Source Code Program form;
+         (ii) licensed for the purpose of making derivative works; or (iii)
+         redistributable at no charge"
 
 mappings:
   "Licensor represents and warrants that the Program does not contain anyNEWLINE-MARKERcode subject to the GNU General Public License \\(\"GPL\"\\), GNU LesserNEWLINE-MARKERGPL, \"copyleft\" license, or any other license that requires as aNEWLINE-MARKERcondition of use, modification and/or distribution of such code thatNEWLINE-MARKERother software incorporated into, derived from, or distributed withNEWLINE-MARKERsuch code be \\(i\\) disclosed or distributed in Source Code Program form;": " LICENSE-SEGMENT-MARKER Licensor represents and warrants that the Program does not contain anyNEWLINE-MARKERcode subject to the GNU General Public License (\"GPL\"), GNU LesserNEWLINE-MARKERGPL, \"copyleft\" license, or any other license that requires as aNEWLINE-MARKERcondition of use, modification and/or distribution of such code thatNEWLINE-MARKERother software incorporated into, derived from, or distributed withNEWLINE-MARKERsuch code be (i) disclosed or distributed in Source Code Program form;"

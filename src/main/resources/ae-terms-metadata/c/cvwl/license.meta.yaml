@@ -2,12 +2,9 @@ canonicalName: Collaborative Virtual Workspace License
 category: Collaborative Virtual Workspace License
 shortName: CVWL
 
-ignoreMatches:
+expectedMatches:
   - "GNU General Public License 2.0"
   - "Mozilla Public License 1.0"
-
-combinedWith:
-  "Collaborative Virtual Workspace License": "Collaborative Virtual Workspace License + GNU General Public License 2.0 + Mozilla Public License 1.0"
 
 otherIds:
   - "scancode:cvwl"

@@ -2,28 +2,16 @@ canonicalName: Node License
 category: Node License
 shortName: node-js
 
+# FIXME-IMPLEMENT: verify
 expectedMatches:
-  - "BSD 2-Clause License (copyright holder variant)"
-  - "BSD 3-Clause License (copyright holder variant)"
-  - "OpenSSL License (standalone)"
-  - "Permission Terms (variant 077)"
-
-
-# FIXME-CONCEPT: licenses that we define in expectedMatches should not cause a crash after being matched. Even though being listed in expectedMatches, the test states that "license match is not unique in context"
-ignoreMatches:
-# these should be in expectedMatches but cause the overallTest to crash (license match not unique) - move to expectedMatches after fix
-  - "zlib License"
-  - "Node License"
-  - "Apache License 2.0"
-  - "Artistic License 2.0"
+  - "BSD 4-Clause License (variant 006)"
   - "MIT License"
   - "ISC License"
-
-
-#those matches occured only after exluding(ignoreMatches) all of the ones above - this is probably due to excludes;
-  - "BSD 4-Clause License (variant 006)"
-  - "BSD 3-Clause License (variant 007)"
+  - "zlib License"
   - "BSD 3-Clause License (attribution; copyright holder variant)"
+  - "Artistic License 2.0"
+  - "Apache License 2.0"
+  - "BSD 3-Clause License (variant 007)"
 
 alternativeNames:
   - "Node-js License"
