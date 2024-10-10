@@ -297,10 +297,12 @@ BSD 2-Clause License Var007
 BSD 3-Clause (Flex)
 BSD 3-Clause (GPL addition)
 BSD 3-Clause (JGraph)
+BSD 3-Clause acpica variant
 BSD 3-Clause Clear License
 BSD 3-Clause Clear License (copyright variant)
 BSD 3-Clause Flex variant
 BSD 3-Clause License
+BSD 3-Clause License (acpica)
 BSD 3-Clause License (Atmel Microcontroller)
 BSD 3-Clause License (Atmel)
 BSD 3-Clause License (Axis)
@@ -426,6 +428,7 @@ BSD Distributed Processing Technology License
 BSD License (source distribution obligation)
 BSD Mylex License
 BSD Protection License
+BSD Systemics W3Works License
 BSD Source Code Attribution
 BSD Source Code License
 BSD Zero Clause License
@@ -445,6 +448,7 @@ bzip2 License 1.0.6
 C/Migemo License
 Cadence License
 Caldera License
+Caldera License (copyright notice)
 Caldera License (without preamble)
 Canonical Entity Contributor License Agreement (variant 1.2)
 Canonical Entity Contributor License Agreement v1.2
@@ -513,6 +517,7 @@ CMU License
 CMU Nara Nagoya License
 CNCF Individual Contributor License Agreement 1.0
 CNRI Jython License
+CNRI License Agreement
 CNRI Open Source License Agreement (Python 1.6)
 CNRI Open Source License Agreement (Python 1.6.1)
 CNRI Open Source License Agreement (Python 1.6b1)
@@ -767,6 +772,7 @@ Do No Harm 0.1
 DOC License
 Docbook License
 DocBook Schema License
+DocBook Stylesheet License
 DocBook XML License
 DOM4J License
 Don't Ask Me About It License
@@ -901,6 +907,7 @@ FreeType Project License
 FreeType Project License (copyright holder variant)
 FreeType Project License (copyright variant)
 FreeType Project License + GNU General Public License 2.0
+Freetype2 Project License
 Freeware Public License
 Froala Open Web Design License
 Frontier Artistic License 1.0
@@ -2798,6 +2805,8 @@ Synopsys Attribution License
 Syntext Serna Exception
 SystemC Open Source License Agreement
 Systemics BSD variant license
+Systemics W3Works BSD variant license
+Systemics W3Works License
 T-Engine Public License
 T-License (AMP T-Kernel Standard Extension)
 T-License (AMP T-Kernel)
@@ -2880,6 +2889,7 @@ Trolltech Exception 1.2 (GPL)
 TrueCrypt License 3.1
 Truly Free License
 Trusster Open Source License
+TrustedQSL License
 Trusted Computing Group Spec License 1.0
 Trusted Computing Group Spec License 2.0
 Trustonic Proprietary License 2013
@@ -3018,12 +3028,14 @@ X11 License (Adobe)
 X11 License (contributors agreement)
 X11 License (distribute modifications)
 X11 License (Open Group)
+X11 License (swapped)
 X11 License (variant 003)
 X11 License (X Consortium Veillard)
 X11 License (XFree86 1.0)
 X11 License Distribution Modification (variant)
 X11 License Distribution Modification Variant
 X11 Open Group
+X11 swapped final paragraphs
 X11-R5 Authors
 X11-Style (Adobe)
 X11-Style (Adobe-DEC)
@@ -3036,6 +3048,7 @@ X11-Style (Quarterdeck)
 X11-Style (Silicon Graphics)
 X11-Style (Stanford University)
 X11-Style (Tektronix)
+X11-Style (swapped)
 X11-Style (Xilinx)
 x11vnc OpenSSL Exception
 Xceed Community License 2021
@@ -3092,4 +3105,3 @@ Zope Public License 2.1
 Zrythm Exception (AGPL 3.0)
 Zuora Software License
 Zveno Research License
-Freetype2 Project License

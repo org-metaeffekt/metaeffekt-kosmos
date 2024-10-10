@@ -37,6 +37,8 @@ import java.util.List;
             excludes.add("Philippe De Muyter License");
             excludes.add("Python License 2.0");
 
+            excludes.add("ACE License");
+
             assertUniqueLicenseIdentification(nmd, excludes, skipUntilLicense, deleteAnalysisFolder);
         }
     }
