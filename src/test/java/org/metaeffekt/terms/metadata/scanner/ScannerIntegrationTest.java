@@ -34,7 +34,6 @@ import java.util.List;
             excludes.add("Net License SNMP");
             excludes.add("Philippe De Muyter License");
             excludes.add("Python License 2.0");
-            excludes.add("Node License");
             excludes.add("ACE License");
 
             assertUniqueLicenseIdentification(nmd, excludes, skipUntilLicense, deleteAnalysisFolder);
