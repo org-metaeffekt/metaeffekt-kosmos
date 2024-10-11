@@ -5,8 +5,6 @@ shortName: Public-Domain
 otherIds:
   - "scancode:public-domain"
 
-classification: public domain
-
 articleRequired: false
 requiresCopyright: false
 requiresAnnexNotice: false

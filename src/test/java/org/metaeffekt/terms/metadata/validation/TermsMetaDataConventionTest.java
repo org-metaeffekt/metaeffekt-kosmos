@@ -234,7 +234,7 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
      */
     @Test
     public void reportRedundantClassifications() throws IOException {
-        reportRedundantClassifications(nmd);
+            reportRedundantClassifications(nmd);
     }
 
     /**
