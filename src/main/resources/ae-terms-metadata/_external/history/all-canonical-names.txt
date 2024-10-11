@@ -205,6 +205,7 @@ BEA Public License 2.1
 Beal Screamer License
 Beerware License
 Bellcore License
+BeOpen Python Open Source License Agreement 1.0
 BERI Hardware-Software License 1.0
 Berkeley Database License
 BigCode Open RAIL-M License 1.0
@@ -303,6 +304,9 @@ BSD 3-Clause Clear License (copyright variant)
 BSD 3-Clause Flex variant
 BSD 3-Clause License
 BSD 3-Clause License (acpica)
+BSD 3-Clause License (attribution)
+BSD 3-Clause License (attribution; copyright holder variant)
+BSD 3-Clause License (attribution; copyright variant)
 BSD 3-Clause License (Atmel Microcontroller)
 BSD 3-Clause License (Atmel)
 BSD 3-Clause License (Axis)
@@ -340,6 +344,7 @@ BSD 3-Clause License (source header; variant 001)
 BSD 3-Clause License (Sun Microsystems)
 BSD 3-Clause License (Tcpdump Group)
 BSD 3-Clause License (TwistedSNMP)
+BSD 3-Clause License (variant 007)
 BSD 3-Clause License (variant 008)
 BSD 3-Clause License (variant 011)
 BSD 3-Clause License (variant 015)
@@ -375,6 +380,7 @@ BSD 3-Clause License + GNU General Public License 3.0 (or any later version)
 BSD 3-Clause License + GNU Lesser General Public License 2.1 (or any later version)
 BSD 3-Clause License + GNU Lesser General Public License 2.1 + MIT License
 BSD 3-Clause License + MIT License
+BSD 3-Clause License Var007
 BSD 3-Clause License Var008
 BSD 3-Clause License Var011
 BSD 3-Clause License Var015
@@ -399,6 +405,7 @@ BSD 4-Clause License (UC) + Permission Terms (variant 137)
 BSD 4-Clause License (variant 001)
 BSD 4-Clause License (variant 002)
 BSD 4-Clause License (variant 004)
+BSD 4-Clause License (variant 006)
 BSD 4-Clause License (variant 007)
 BSD 4-Clause License (voices)
 BSD 4-Clause License (with cryptography import laws)
@@ -407,6 +414,7 @@ BSD 4-Clause License (without endorsement clause)
 BSD 4-Clause License Var001
 BSD 4-Clause License Var002
 BSD 4-Clause License Var004
+BSD 4-Clause License Var006
 BSD 4.3 RENO License
 BSD 4.3 TAHOE License
 BSD 5-Clause License
@@ -1318,6 +1326,7 @@ Hauppauge End-User Firmware License Agreement
 Hauppauge OEM/IHV/ISV Firmware License Agreement
 Hazelcast Community License 1.0
 HDF5 License
+HDF5 Software Library and Utilities License
 Health Administration Corporation Open Source License 1.2
 Helios EULA
 Helix DNA Technology Binary Research Use License
@@ -1686,6 +1695,7 @@ LMBench Restriction (GPL)
 LMBench Restrictions
 Logica Open Source License 1.0
 Lontium Linux Firmware License
+Los Alamos National Laboratory License
 LPL 1.0
 LPL 1.02
 LPPL 1.3a
@@ -2485,6 +2495,7 @@ PyGres License 2.2
 Python ldap License
 Python License 2.0
 Python License 2.0.1
+Python Software Foundation License (undefined)
 Python Software Foundation License 2.0
 Python Software Foundation License 2.0 + BSD Zero Clause License
 Q Public License 1.0

@@ -1,0 +1,24 @@
+canonicalName: BeOpen Python Open Source License Agreement 1.0
+category: Python Software Foundation License
+shortName: BeOpen-Python-1.0
+
+alternativeNames:
+  - "BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1"
+  - "BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0"
+
+evidence:
+  matches:
+    - "This LICENSE AGREEMENT is between BeOpen.com (\"BeOpen\"), having an
+       office at 160 Saratoga Avenue, Santa Clara, CA 95051, and the
+       Individual or Organization (\"Licensee\") accessing and otherwise using
+       this software in source or binary form and its associated
+       documentation (\"the Software\")"
+    - "BeOpen hereby grants Licensee a non-exclusive,
+       royalty-free, world-wide license to reproduce, analyze, test, perform
+       and/or display publicly, prepare derivative works, distribute, and
+       otherwise use the Software alone or in any derivative version,
+       provided, however, that the BeOpen Python License is retained in the
+       Software, alone or in any derivative version prepared by Licensee"
+    - "This License Agreement does not grant permission to use BeOpen trademarks or
+       trade names in a trademark sense to endorse or promote products or services of
+       Licensee, or any third party"
