@@ -27,11 +27,9 @@ import java.util.List;
         @Test
         public void assertUniqueLicenseIdentification() throws IOException {
             String skipUntilLicense = "";
-            boolean deleteAnalysisFolder = false;
+            boolean deleteAnalysisFolder = true;
             List<String> excludes = new ArrayList<>();
 
-            excludes.add("CNRI Open Source License Agreement (Python 1.6.1)");
-            excludes.add("Collaborative Virtual Workspace License");
             excludes.add("Linum Software License");
             excludes.add("Net License SNMP");
             excludes.add("Philippe De Muyter License");
