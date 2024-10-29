@@ -1,0 +1,9 @@
+canonicalName: "GNU General Public License (undefined; or any later version)"
+category: GPL
+shortName: GPL-?+
+
+defaultSourceCategory: annex
+
+unspecific: true
+
+allowsLaterVersions: true

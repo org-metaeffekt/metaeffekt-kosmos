@@ -1,0 +1,105 @@
+canonicalName: BSD (undefined)
+category: BSD
+shortName: BSD-?
+
+unspecific: true
+
+# despite bsd licenses usually require a copyright the decision here is to not demand a copyright
+requiresCopyright: false
+
+requiresLicenseText: false
+
+canonicalNameHistory:
+  - "BSD alike"
+
+alternativeNames:
+  - "The license can be found at /usr/share/common-licenses/BSD"
+# points to BSD 2-Clause, but some project use this url to reference a BSD 3-Clause.
+  - "http://www.opensource.org/licenses/bsd-license.php"
+  - "A modified BSD License (BSD)"
+  - "AOL flavor of BSD 3-Clause License"
+  - "ASM License (BSD 3-Clause License)"
+  - "2-clause BSD-like license"
+  - "Aduna BSD license"
+  - "BSD Simplified"
+  - "BSD Style"
+  - "BSD style"
+  - "BSD style license"
+  - "BSD style modified by Coverity"
+  - "BSD-2 based"
+  - "BSD-Style"
+  - "BSD-Style + Attribution"
+  - "BSD-Style License"
+  - "BSD-like"
+  - "BSD-like Circumflex License"
+  - "BSD-style"
+  - "BSD-style License"
+  - "BSD-style license"
+  - "BSD/Apache style, see LICENSE.txt"
+  - "Circumflex License (BSD-like)"
+  - "Clear BSD"
+  - "Clear BSD License"
+  - "DBPool (BSD-style) License"
+  - "DuraSpace BSD License"
+  - "Dynatrace BSD"
+  - "Grinder License (modified BSD)"
+  - "JCLAP (BSD-style) License"
+  - "JGraph Ltd - 3 clause BSD license"
+  - "Modified BSD"
+  - "Modified BSD TelnetD license"
+  - "Modified BSD-Style license"
+  - "Oracle BSD License"
+  - "Prior BSD License"
+  - "SLF4J License (BSD-Style)"
+  - "Slf4j License"
+  - "Simplified BSD"
+  - "Simplified BSD License"
+  - "Simplified BSD license"
+  - "Simplified BSD or BSD 2-Clause"
+  - "TA-Lib BSD License"
+  - "VALJOGen BSD-style license"
+  - "WQuery License (BSD-style)"
+  - "jME BSD License"
+  - "Localytics Modified BSD License"
+  - "\"BSD license"
+  - "BSD License"
+  - "BSD licence"
+  - "Standard BSD"
+  - "BSD License (FreeBSD)"
+  - "BSD PUBLIC LICENSE"
+  - "BSD License (original)"
+  - "BSD Standard License"
+  - "BSDLicense"
+  - "BSD Software License"
+  - "BSD-License"
+  - "BSD-license"
+  - "Berkeley License"
+  - "Berkeley Software Distribution (BSD) License"
+  - "Licence BSD"
+  - "Licensed under BSD"
+  - "BSD-variant"
+
+expressiveEvidence: true
+
+# FIXME-CONCEPT: masks are a too strong instrument for this purpose. Check whether other options are possible. See above.
+
+# MASKS USE CASES:
+# - explanatory comparison to other licenses
+# - reference to a BSD-project artifact such as an implementation of DES
+masks:
+  matches:
+    - "is not visible on BSD - like systems"
+    - "which is similar to the original BSD license"
+    - "A BSD-style DES \"crypt\" password"
+    - "String ALGORITHM_BSD_CRYPT_DES = \"bsd-crypt-des\""
+    - "int BSD_CRYPT_DES_HASH_SIZE = 8;"
+    - "int BSD_CRYPT_DES_SALT_SIZE = 3;"
+#    - "BSDUnixDESCryptPassword clone();" # should not be required; isolate case if observed
+#    - "BSDUnixDESCryptPassword" # should not be required; isolate case if observed
+    - "This list documents those licenses which are more restrictive than a BSD-like license"
+    - "The Cougaar Open Source License (COSL) is a modified version of the OSI approved BSD License"
+    - "scaled-down version of the 'modified' BSD license"
+    - "This is a legacy BSD-like license, but includes a specific requirement"
+    - "usually MIT X11 licenses with the name of the copyright holder (s) in the license statement but also some BSD - like licenses"
+    - "In any case the notes about licensing are never more restrictive than the BSD License"
+    - "%define GOT_SYMBOL  __GLOBAL_OFFSET_TABLE_	; BSD-style a.out supports PIC" # bsd-style ref in jsimdext.inc

@@ -1,0 +1,19 @@
+canonicalName: Google API Terms of Service (undefined)
+category: Google API
+shortName: Google-API-TOS-?
+
+unspecific: true
+
+alternativeNames:
+  - "Google APIs Terms of Service 
+     Last modified:"
+
+evidence:
+  matches:
+    - "Thank you for using Google's APIs, other developer services, and associated software (collectively, \"APIs\")"
+    - "You may not use the APIs and may not accept the Terms if (a) you are not of legal age to form a binding contract with Google"
+    - "your misuse or your end user's misuse of the APIs"
+
+  excludes:
+    - "Google APIs Terms of Service Last modified: November 9, 2021"
+    - "Terms & Privacy ML KIT Terms of Service"

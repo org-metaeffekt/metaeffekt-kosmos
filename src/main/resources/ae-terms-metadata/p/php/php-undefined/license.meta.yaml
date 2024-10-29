@@ -1,0 +1,12 @@
+canonicalName: PHP License (undefined)
+category: PHP License
+shortName: PHP-?
+
+unspecific: true
+
+alternativeShortNames:
+  - "PHP"
+
+masks:
+  matches:
+    - "Based on 'The PHP License'"

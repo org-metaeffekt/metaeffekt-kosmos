@@ -1,0 +1,69 @@
+canonicalName: GNU Lesser General Public License (undefined)
+category: LGPL
+shortName: LGPL-?
+
+defaultSourceCategory: annex
+
+unspecific: true
+
+alternativeNames:
+  - "GNU LESSER GENERAL PUBLIC LICENSE"
+  - "GNU LESSER GENERAL PUBLIC LICENSE (LGPL)"
+  - "GNU LGPL"
+  - "GNU Lesser"
+  - "GNU Lesser GPL"
+  - "GNU Lesser General Public"
+  - "GNU Lesser General Public Lcense"
+  - "GNU Lesser General Public Licence"
+  - "GNU Lesser General Public License"
+  - "GNU Lesser General Public License (GPL)"
+  - "GNU Lesser General Public License (LGPL)"
+  - "GNU Lesser Public License"
+  - "Lesser GNU General Public License"
+  - "// same or different license"
+  - "GNU Library General Public License (LGPL)"
+  - "GNU Library or Lesser General Public License"
+  - "GNU Library or Lesser General Public License (LGPL)"
+  - "Gnu LGPL"
+  - "GNU lesser general public license"
+  - "LGPL (GNU Lesser General Public License)"
+  - "LGPL - GNU LESSER GENERAL PUBLIC LICENSE"
+  - "Lesser GNU Public License"
+  - "The GNU Lesser General Public License"
+  - "LGPL"
+  - "Lesser General Public License"
+  - "Lesser General Public License (LGPL)"
+  - "LGPL License"
+  - "LGPL License"
+  - "LGPL open source license"
+  - "GNU General Public License (LGPL)"
+  - "licensed under LGPL and"
+
+evidence:
+  excludes:
+    - "that uses the GNU LGPL--only the original English text of the GNU LGPL does that"
+    - "help Portuguese speakers understand the GNU LGPL better"
+    - "As a relaxation of clause 6 of the LGPL"
+    - "The concept of the GNU Lesser General Public License version 2.1
+      (\"LGPL\") has been adopted to govern the use and distribution of above-
+      mentioned application"
+    - "This end user license agreement (\"EULA\") governs the use of the JBoss
+       Enterprise Middleware and any related updates, source code, appearance,
+       structure and organization (the \"Programs\"), regardless of the delivery mechanism"
+    - "BRAINSTEM DEVELOPMENT KIT SOFTWARE PACKAGE LICENSE AGREEMENT"
+    - "The GNU General Public License gives permission to release a modified version without this exception"
+    - "Static linking of programs with the libwebsockets library does not
+       constitute a derivative work and does not require the author to provide 
+       source code for the program, use the shared libwebsockets libraries, or
+       link their program against a user-supplied version of libwebsockets"
+    - "If the terms of the GNU Lesser General Public License could not be determined on the date of certification"
+    - "You should have received a copy of the GNU Lesser General Public License along with this library"
+# FIXME: check implications
+#    - "OCaml-LGPL-linking-exception" # SPDX identifier standalone matches LGPL (undefined)
+#    - "Qt-LGPL-exception-1.1" # SPDX identifier standalone matches LGPL (undefined)
+
+# MASKS USE CASE: explanatory, but non-binding association
+masks:
+  matches:
+    - "The implementation is inspired by terralib http://www.terralib.org (LGPL)"
+    - "the complete text of the GNU Lesser General Public License can be found in usr share commonlicenses LGPL"

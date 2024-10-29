@@ -1,0 +1,18 @@
+canonicalName: SIL Open Font License (undefined)
+category: OFL
+shortName: OFL-?
+
+alternativeNames:
+  - "SIL OPEN FONT LICENSE"
+  - "SIL Open Font License"
+  - "SIL Font License"
+  - "SIL Open Font License (undefined)"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+unspecific: true
+
+masks:
+  matches:
+    - "See OFL-1.1 and OFL-1.1-no-RFN for alternatives"

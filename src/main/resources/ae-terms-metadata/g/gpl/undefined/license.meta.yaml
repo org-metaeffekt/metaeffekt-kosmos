@@ -1,0 +1,63 @@
+canonicalName: GNU General Public License (undefined)
+category: GPL
+shortName: GPL-?
+
+defaultSourceCategory: annex
+
+unspecific: true
+
+alternativeNames:
+  - "GNU GENERAL PUBLIC LICENSE"
+  - "GNU GPL"
+  - "GNU General Public Library"
+  - "GNU General Public License"
+  - "GNU General Public License (GPL)"
+  - "GNU General Public License</name"
+  - "GNU Public License"
+  - "GNU Public license"
+  - "GPL License"
+  - "GNU General Public License as published by the Free Software Foundation"
+  - "Distributable under GPL"
+  - "licensed under GPL"
+  - "GNU General Public License with Classpath Exception"
+  - "GNU General Public License with Classpath exception"
+  - "GPL with classpath exception"
+  - "http://www.gnu.org/licenses/gpl.html"
+  - "GNU GENERAL PUBLIC LICENSE including GPL linking exception"
+  - "General Public License (GPL)"
+  - "The Debian package is (C) 2008, Canonical Ltd and (C) 2011, Torsten Werner <twerner@debian.org> and is licensed under the GPL"
+    # research (resolve ambiguity induced by typo)
+  - "GLP with Classpath Exception"
+    #Knowning that Perl is under GPL
+  - "This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself"
+  - "licensed under the GPL"
+  - "under the terms of the GPL"
+  - "used and distributed according to the terms of the gnu general public license"
+  - "under the terms and conditions of the GPL"
+    # 2018-02-15: removed 'GPL' as the term is too ambiguous
+
+# MASKS USE CASE: explanatory text on general level
+masks:
+  matches:
+    - "This file can can be used in projects which are not available under
+       the GNU General Public License or the GNU Library General Public
+       License but which still want to provide support for the GNU gettext
+       functionality."
+    - "The provided data structures and external interfaces from this code
+       are not restricted to be used by modules with a GPL compatible license."
+    - "GPL On Debian machines the full text of the GNU General Public License can be found in the file usr share commonlicenses GPL"
+    - "only for programs that are compatible with the GNU General Public License"
+    - "On Debian systems you can find a local copy of the GNU General Public License
+       in /usr/share/common-licenses/MPL-1.1"
+    - "it became clear that the ability to use Python with software available under the GNU General
+       Public License (GPL) was very desirable"
+    - "as such the GNU General Public License and any other license terms and conditions other than
+       this JPL are explicitly excluded"
+    - "Insofar as a script file is dual licensed under GPL, Microsoft neither
+       took the code under GPL nor distributes it thereunder but under the
+       terms set out in this paragraph"
+    - "The GNU General Public License gives permission to release a modified version without this exception"
+    - "Licensees that do modify the Program, taking advantage of the open-source
+       license, may not use the Flowplayer mark or Flowplayer logos and must change the
+       logo as follows"
+    - "the Universal General Public License (UGPL) is intended to guarantee your freedom"

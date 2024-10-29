@@ -1,0 +1,53 @@
+canonicalName: LaTeX Project Public License (undefined)
+category: LPPL
+shortName: LPPL-?
+
+unspecific: true
+
+alternativeNames:
+  - "LPPL"
+  - "LaTeX Project Public License"
+
+segmentation:
+  revert: [
+    { match:
+        "PREAMBLE",
+      matchNext:
+        "========" },
+    { match:
+        "MAINTENANCE OF THE WORK",
+      matchNext:
+        "=======================" },
+    { match:
+        "WHETHER AND HOW TO DISTRIBUTE WORKS UNDER THIS LICENSE",
+      matchNext:
+        "======================================================" },
+    { match:
+        "DEFINITIONS",
+      matchNext:
+        "===========" },
+    { match:
+        "CONDITIONS ON DISTRIBUTION AND MODIFICATION",
+      matchNext:
+        "===========================================" },
+    { match:
+        "NO WARRANTY",
+      matchNext:
+        "===========" },
+    { match:
+        "Choosing This License or Another License",
+      matchNext:
+        "----------------------------------------" },
+    { match:
+        "A Recommendation on Modification Without Distribution",
+      matchNext:
+        "-----------------------------------------------------" },
+    { match:
+        "How to Use This License",
+      matchNext:
+        "-----------------------" }
+  ]
+
+
+
+

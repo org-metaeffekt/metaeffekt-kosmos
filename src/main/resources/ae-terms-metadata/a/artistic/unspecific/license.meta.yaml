@@ -1,0 +1,26 @@
+canonicalName: Artistic License (undefined)
+category: Artistic License
+shortName: Artistic-?
+
+unspecific: true
+
+alternativeNames:
+  - "Artistic License"
+  - "Artistic license"
+  #Knowning that Perl is under Artistic
+  - "you can redistribute it and/or modify it under the same terms as Perl itself"
+
+evidence:
+  excludes:
+    - "Frontier Artistic License"
+    - "offer the machine-readable source of the Package, with your modifications, by mail order"
+    - "This license was derived from the Artistic license"
+    - "Simplified Artistic License"
+    - "place your modifications in the Public Domain or otherwise make them Freely Available, such as by posting said
+       modifications to the Blitz++ development list, and allowing the Copyright Holder to include your modifications 
+       in the Standard Version of the Library"
+    - "The Berkeley Artistic License"
+
+masks:
+  matches:
+    - "On Debian systems you can find a copy of the Artistic license"

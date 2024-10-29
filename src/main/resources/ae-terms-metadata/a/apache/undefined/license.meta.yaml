@@ -1,0 +1,41 @@
+canonicalName: Apache License (undefined)
+category: Apache License
+shortName: Apache-?
+
+unspecific: true
+
+alternativeNames:
+    - "Apache ASL"
+    - "Apache LICENSE"
+    - "Apache License"
+    - "Apache Software Licenese"
+    - "Apache Software License"
+    - "Apache Software Licenses"
+    - "Apache license"
+    - "Apache Licence"
+    - "ASL"
+    - "Apache Software Licensegradlew, Version 2.0"
+    - "Apache Public License"
+#    - "This product includes software developed at The Apache Software Foundation" # this is not a licensing hint
+#    - "http://www.apache.org/licenses/" # this is not a licensing hint
+
+expressiveEvidence: true
+
+evidence:
+    excludes:
+        - "RuntimePackageDependency.optional(JACKSON_CORE_ASL.getName())"
+        - "public static final ModuleIdentifier JACKSON_CORE_ASL = ModuleIdentifier.create(\"org.codehaus.jackson.jackson-core-asl\")"
+        - "addDependency(moduleSpecification, moduleLoader, JACKSON_CORE_ASL, true, false)"
+        - "import static org.jboss.as.jaxrs.JaxrsSubsystemDefinition.JACKSON_CORE_ASL"
+        - "which is a derivation of both the XFree86® license and the Apache License, version 1.1"
+        - "This product includes software developed by the JBind Project (http://www.jbind.org/)"
+        - "$ ASL $"
+        - "$4ASL $"
+        - "ART ASL ASZ"
+        - "SLK ASL BBG"
+        - "[https://cla-assistant.io/redpanda-data/redpanda] (which is based off of the
+           Apache License), without any additional terms or conditions"
+
+masks:
+    matches:
+        - "The Apache license is terminated if the user sues anyone"

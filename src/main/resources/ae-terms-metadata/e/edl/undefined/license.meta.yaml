@@ -1,0 +1,10 @@
+canonicalName: Eclipse Distribution License (undefined)
+category: BSD
+shortName: EDL-?
+
+unspecific: true
+
+# FIMXE: move alternative name to 1.0 version
+
+alternativeNames:
+  - "Eclipse Distribution License"

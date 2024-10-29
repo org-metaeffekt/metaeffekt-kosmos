@@ -18,6 +18,6 @@ evidence:
 expectedMatches:
   - "MIT License"
   - "GNU General Public License 2.0"
-#  - "BSD (undefined)"
+  - "BSD (undefined)"
   - "GNU Lesser General Public License 2.1"
   - "Public Domain"

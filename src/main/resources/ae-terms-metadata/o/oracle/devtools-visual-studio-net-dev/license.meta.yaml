@@ -19,3 +19,10 @@ evidence:
     - "If you distribute a license to the United States government, the programs, including documentation, shall be considered commercial computer software and you will place a legend, in addition to applicable copyright notices, on the documentation, and on the media label, substantially similar to the following"
   excludes:
     - "Oracle Technology Network Developer License Terms for JAVA EE SDK"
+
+references:
+  "GPL":
+    matches:
+      - "You also may not combine the Oracle program with programs licensed under the GNU General Public License 
+         (\"GPL\") in any manner that could cause, or could be interpreted or asserted to cause, the Oracle program, 
+         or any modifications thereto, to become subject to the terms of the GPL"

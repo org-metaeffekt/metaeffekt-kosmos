@@ -1,0 +1,20 @@
+canonicalName: Mozilla Public License (undefined)
+category: MPL
+shortName: MPL-?
+
+defaultSourceCategory: annex
+
+unspecific: true
+
+alternativeNames:
+  - "Mozilla Public License"
+  - "Mozilla Public License (MPL)"
+
+evidence:
+  excludes:
+    - "rename Your license so that the phrases 'Mozilla', 'MOZILLAPL',
+       'MOZPL', 'Netscape', 'MPL', 'NPL', or any confusingly similar phrases do
+       not appear in your license"
+    - "modified version of Section 11 of the Mozilla Public License to name
+       venue for any disputes arising from license"
+    - "under the terms of any subsequent version of the License published by Openbravo"
