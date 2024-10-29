@@ -1,0 +1,17 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 027))
+category: GPL+Linking
+shortName: GPL-2.0+-Linking-Exception-GPL-027
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-gcc"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with Linking exception (variant 027))"
+
+combinedWith:
+  Linking Exception (GPL; variant 027): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 027))
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 027))
