@@ -13,14 +13,16 @@ ignoreMatches:
   - "BSD 3-Clause License (variant 001)"
   - "BSD 3-Clause License (variant 022)"
   - "BSD 3-Clause License (copyright holder variant)"
-  - "MIT License"
   - "Permission Terms (CMU; variant 002)"
+  - "MIT License"
 
 expectedSpdxMatches:
   - "BSD 3-Clause License (variant 001)"
   - "Permission Terms CWI"
   - "BSD 3-Clause License (variant 022)"
   - "BSD 3-Clause License (copyright holder variant)"
+  - "Permission Terms (CMU; variant 002)"
+  - "MIT License"
 
 alternativeNames:
   - "Net-SNMP License"

@@ -11,6 +11,11 @@ canonicalNameHistory:
 alternativeNames:
   - "NVIDIA ISAAC EULA"
 
+#FIXME-REVIEW
+expectedMatches:
+  - "NVIDIA SDK EULA"
+  - "NVIDIA NGX EULA"
+
 evidence:
   matches:
     - "Subject to the terms of this Agreement, NVIDIA hereby grants you a non-

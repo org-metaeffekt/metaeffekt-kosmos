@@ -5,8 +5,6 @@ spdxIdentifier: BSD-3-Clause-HP
 otherIds:
   - "scancode:bsd-3-clause-hp"
 
-classification: permissive
-
 alternativeNames:
   - "BSD-3-Clause-HP"
   - "Hewlett-Packard BSD variant license"

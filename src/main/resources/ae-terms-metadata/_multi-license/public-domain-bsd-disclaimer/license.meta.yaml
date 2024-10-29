@@ -2,6 +2,8 @@ canonicalName: Public Domain (with disclaimer)
 category: Public Domain
 shortName: Public-Domain-with-disclaimer
 
+# this was ignored for 3 years - may cause issues!
+
 type: expression
 
 representedAs: Public Domain
@@ -9,9 +11,6 @@ representedAs: Public Domain
 combinedWith:
   "Disclaimer (variant 002)": Public Domain (with disclaimer)
   "Public Domain": Public Domain (with disclaimer)
-
-# FIXME-IMPLEMENT: why is this ignored; remove or document
-ignore: true
 
 alternativeNames:
   - "Public Domain (with disclaimer)"

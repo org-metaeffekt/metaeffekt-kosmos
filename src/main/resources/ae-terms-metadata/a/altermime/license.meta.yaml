@@ -5,8 +5,6 @@ shortName: AlterMIME
 otherIds:
   - "scancode:altermime"
 
-classification: limited copyleft
-
 evidence:
   matches:
     - "Redistributions qualify as \"freeware\" or \"Open Source Software\" under

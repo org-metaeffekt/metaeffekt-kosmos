@@ -5,8 +5,6 @@ shortName: ugui
 otherIds:
   - "scancode:ugui"
 
-classification: permissive
-
 alternativeNames:
   - "UGUI License"
 

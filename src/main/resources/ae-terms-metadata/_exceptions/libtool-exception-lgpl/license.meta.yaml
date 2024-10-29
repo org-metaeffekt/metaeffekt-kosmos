@@ -7,8 +7,6 @@ type: exception
 otherIds:
   - "scancode:libtool-exception-lgpl"
 
-classification: limited copyleft
-
 alternativeNames:
   - "GNU Libtool exception to LGPL"
 

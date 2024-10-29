@@ -7,6 +7,9 @@ otherIds:
 
 ##SPDX combines the OpenSSL License and the SSLeay License under OpenSSL License
 ## -> We match both Licenses.
+expectedMatches:
+  - "Original SSLeay License"
+
 
 requiresCopyright: true
 requiresLicenseText: true

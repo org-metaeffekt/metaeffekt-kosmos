@@ -5,8 +5,6 @@ spdxIdentifier: SchemeReport
 otherIds:
   - "scancode:schemereport"
 
-classification: permissive
-
 alternativeNames:
   - "Scheme Language Report License"
   - "licenses.nuget.org/SchemeReport"

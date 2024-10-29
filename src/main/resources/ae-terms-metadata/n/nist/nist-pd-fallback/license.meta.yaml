@@ -5,8 +5,6 @@ spdxIdentifier: NIST-PD-fallback
 otherIds:
   - "scancode:nist-pd-fallback"
 
-classification: permissive
-
 alternativeNames:
   - "NIST Public Domain Notice (with license fallback)"
   - "NIST Public Domain Notice with license fallback"

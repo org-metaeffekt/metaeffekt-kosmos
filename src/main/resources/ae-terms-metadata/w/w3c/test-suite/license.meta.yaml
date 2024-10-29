@@ -8,6 +8,10 @@ otherIds:
 alternativeNames:
   - "W3C Test Suite Licence"
 
+#FIXME-REVIEW: the named match on "FAQ" is causing this, maybe remodel FAQ
+expectedMatches:
+  - "FAQ"
+
 evidence:
   matches:
   - "Permission to copy, and distribute the contents of this document, or the W3C document from which this statement is

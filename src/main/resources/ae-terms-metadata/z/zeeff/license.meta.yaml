@@ -5,8 +5,6 @@ spdxIdentifier: Zeeff
 otherIds:
   - "scancode:zeeff"
 
-classification: permissive
-
 alternativeNames:
   - "Zeeff License"
 

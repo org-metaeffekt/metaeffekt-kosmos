@@ -10,6 +10,10 @@ alternativeNames:
 otherIds:
   - "scancode:cc-by-3.0-us"
 
+# FIXME-REVIEW
+expectedMatches:
+  - "Creative Commons BY 3.0"
+
 requiresCopyright: false
 requiresLicenseText: false
 requiresNote: true

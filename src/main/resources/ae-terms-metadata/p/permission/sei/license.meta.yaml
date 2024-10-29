@@ -1,14 +1,18 @@
-canonicalName: MIT License (SEI)
-category: MIT
-shortName: MIT-SEI
+canonicalName: Permission Terms (SEI)
+category: Permission
+shortName: PT-SEI
 
-# FIXME-IMPLEMENT: check whether close enough to MIT; otherwise Permissions Terms
+canonicalNameHistory:
+  - "MIT License (SEI)"
 
 otherIds:
   - "scancode:vince"
 
 alternativeNames:
   - "MIT (SEI)"
+
+displayName: Permission Terms (no warranty)
+representedAs: Permission Terms
 
 evidence:
   matches:

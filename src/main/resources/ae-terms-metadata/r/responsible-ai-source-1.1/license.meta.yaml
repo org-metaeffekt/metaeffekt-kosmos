@@ -1,13 +1,14 @@
-canonicalName: Reponsible AI Source Code License 1.1
-category: Reponsible AI Source Code License
+canonicalName: Responsible AI Source Code License 1.1
+category: Responsible AI Source Code License
 shortName: responsible-ai-source-1.1
 
 otherIds:
   - "scancode:responsible-ai-source-1.1"
 
-classification: proprietary free
-
 alternativeNames:
+  - "Responsible AI Source Code License 1.1"
+
+canonicalNameHistory:
   - "Reponsible AI Source Code License 1.1"
 
 evidence:

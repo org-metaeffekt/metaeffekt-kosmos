@@ -1,0 +1,51 @@
+canonicalName: NVIDIA Deep Learning Container License 2021
+category: NVIDIA Deep Learning Container License
+shortName: nvidia-dlc-2021
+
+otherIds:
+  - "scancode:nvidia-dlc-2021"
+
+classification: proprietary free
+
+alternativeNames:
+  - "NVIDIA Deep Learning Container License 2021"
+  - "NVIDIA DEEP LEARNING CONTAINER LICENSE"
+  - "nvidia-dlc-2021"
+
+evidence:
+  matches:
+    - "This license can be accepted only by an adult of legal age of majority in the
+       country in which the CONTAINER is used"
+    - "If you are under the legal age of majority, you must ask your parent or legal
+       guardian to consent to this license"
+    - "If you are entering this license on behalf of a company or other legal entity,
+       you represent that you have legal authority and “you” will mean the entity you
+       represent"
+    - "By using the CONTAINER, you affirm that you have reached the legal age of
+       majority, you accept the terms of this license, and you take legal and financial
+       responsibility for the actions of your permitted users"
+    - "Install and use copies of the CONTAINER, and modify and create derivative
+       works of samples or example source code delivered in the CONTAINER (if
+       applicable), to develop and test services and applications"
+    - "Deploy the CONTAINER on infrastructure you own or lease to offer a service to
+       third parties, without distributing the CONTAINER or exposing the NVIDIA APIs in
+       the CONTAINER directly to such service users, and"
+    - "Develop and extend the CONTAINER to create a Compatible (as defined below)
+       derived CONTAINER that includes the entire CONTAINER plus other software with
+       primary functionality, to develop and compile applications, and distribute such
+       derived CONTAINER to run applications, subject to the distribution requirements
+       indicated in this license"
+    - "As used in this section, “Compatible” means that extensions to the CONTAINER must
+       not adversely affect the functionality of the other components in the CONTAINER"
+    - "The following notice shall be included in modifications and derivative works
+       of source code distributed: “This software contains source code provided by
+       NVIDIA Corporation.”"
+    - "You agree to distribute the CONTAINER subject to the terms at least as
+       protective as the terms of this license, including (without limitation) terms
+       relating to the license grant, license restrictions and protection of NVIDIA’s
+       intellectual property rights. Additionally, you agree that you will protect the
+       privacy, security and legal rights of your application users"
+    - "You agree to notify NVIDIA in writing of any known or suspected distribution
+       or use of the CONTAINER not in compliance with the requirements of this license,
+       and to enforce the terms of your agreements with respect to the distributed
+       CONTAINER"

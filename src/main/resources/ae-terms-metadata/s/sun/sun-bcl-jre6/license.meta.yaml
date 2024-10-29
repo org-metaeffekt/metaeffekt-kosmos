@@ -1,0 +1,29 @@
+canonicalName: Sun BCL JRE 6
+category: Sun BCL JRE
+shortName: sun-bcl-jre6
+
+otherIds:
+  - "scancode:sun-bcl-jre6"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Sun BCL JRE 6"
+  - "sun-bcl-jre6"
+  - "Binary Code License Agreement for the JAVA SE RUNTIME ENVIRONMENT (JRE) VERSION 6"
+
+evidence:
+  matches:
+    - "Software embedded in or bundled with industrial control systems, wireless mobile telephones, wireless handheld
+       devices, kiosks, TV/STB, Blu-ray Disc devices, telematics and network control switching equipment, printers
+       and storage management systems, and other related systems are excluded from this definition and not licensed
+       under this Agreement"
+    - "If any provision of this Agreement is held to be unenforceable, this Agreement will remain in effect with
+       the provision omitted, unless omission would frustrate the intent of the parties, in which case this Agreement
+       will immediately terminate"
+  excludes:
+    - "Commercial Features In Java SE Product Editions) of the Java SE documentation accessible"
+    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the
+       Java SE LIUM incorporated herein by reference"
+    - "Sun Microsystems, Inc. Binary Code License Agreement for the JAVA 2 PLATFORM STANDARD EDITION RUNTIME ENVIRONMENT 5.0"
+    - "Java 2 Software Development Kit (J2SDK), Standard Edition, Version 1.3.x Sun Microsystems, Inc. Binary Code License"

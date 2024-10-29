@@ -6,6 +6,11 @@ shortName: Oracle-MySQL-FOSS-Exception
 
 type: exception
 
+otherIds:
+  - "scancode:oracle-mysql-foss-exception-2.0"
+
+classification: limited copyleft
+
 alternativeNames:
   - "MySQL FOSS License Exception"
 

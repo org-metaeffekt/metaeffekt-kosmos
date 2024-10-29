@@ -5,14 +5,11 @@ shortName: ms-container-eula
 otherIds:
   - "scancode:ms-container-eula"
 
-classification: proprietary free
-
 alternativeNames:
   - "Microsoft Container EULA"
 
 evidence:
   matches:
-    - "The software is a collection of components"
     - "Subject to the other terms of this agreement, Microsoft or third parties grant you the right to run, copy,
        modify, and redistribute the components under the conditions in the license agreement located in that
        component's source or object code"

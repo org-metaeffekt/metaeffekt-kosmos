@@ -5,8 +5,6 @@ shortName: nist-nvd-api-tou
 otherIds:
   - "scancode:nist-nvd-api-tou"
 
-classification: permissive
-
 alternativeNames:
   - "NIST NVD API Terms of Use"
 

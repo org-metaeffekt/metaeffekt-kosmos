@@ -1,0 +1,36 @@
+canonicalName: NXLOG Public License 1.0
+category: NXLOG Public License
+shortName: nxlog-public-license-1.0
+
+otherIds:
+  - "scancode:nxlog-public-license-1.0"
+
+classification: source-available
+
+canonicalNameHistory:
+  - "NXLOG Public License v1.0"
+
+alternativeNames:
+  - "NXLOG Public License 1.0"
+  - "NXLOG Public License v1.0"
+  - "NXLOG PUBLIC LICENSE v1.0"
+
+evidence:
+  matches:
+    - "You may copy and distribute verbatim (i.e. unmodified) copies of the Software as you receive it, in any medium"
+    - "You may modify the Software, create works based on the Software and distribute copies of such, in any medium"
+    - "By downloading, using, modifying and copying the Software (or any work based on the Software), you indicate
+       your acceptance of this license to do so, and all its terms and conditions for using, copying, distributing
+       and modifying the Software or works based on it"
+    - "Nothing other than this license grants you permission to modify, distribute the program or its derivative works"
+    - "If you do not accept these terms and conditions, do not use, modify or distribute the Software"
+    - "The Software may be copied and distributed with or without modifications in source code and object code form
+       and may be used for commercial and non-commercial purposes provided that the following restrictions are met"
+    - "Distribution of the Software is prohibited if any payment is made in connection with such distribution"
+    - "You may only charge a reasonable fee to cover the costs of copying and redistribution"
+    - "Bundling the Software with a commercial product or using it to provide commercial services is prohibited if
+       your product or service explicitly depends on the Software to be able to operate or function"
+    - "You may use the Software without modifications to provide commercial services or to bundle it with your
+       product provided that your service or product can also operate or function without the Software"
+    - "A commercial license is available if you wish to incorporate the Software into your product or service which
+       explicitly depends on the Software to be able to operate or function"

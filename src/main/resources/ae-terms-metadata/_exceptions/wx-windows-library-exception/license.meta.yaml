@@ -43,6 +43,7 @@ evidence:
     - "You should have received a copy of the GNU Library General Public Licence along with this software, usually
        in a file named COPYING.LIB. If not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330,
        Boston, MA 02111-1307 USA"
+    # FIXME-REVIEW: exclude
     - "modify and distribute under the user's own terms"
 
 references:

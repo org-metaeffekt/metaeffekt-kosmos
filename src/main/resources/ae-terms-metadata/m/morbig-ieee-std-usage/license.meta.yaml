@@ -5,8 +5,6 @@ shortName: Morbig-IEEE-1003.1-Usage
 otherIds:
   - "scancode:morbig-ieee-std-usage"
 
-classification: permissive
-
 canonicalNameHistory:
   - "IEEE Std 1003.1 Text Usage"
 

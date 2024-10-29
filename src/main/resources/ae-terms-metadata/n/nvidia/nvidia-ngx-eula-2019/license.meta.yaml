@@ -8,6 +8,11 @@ otherIds:
 alternativeNames:
   - "NVIDIA NGX EULA"
 
+#FIXME-REVIEW
+expectedMatches:
+  - "NVIDIA SDK EULA"
+  - "NVIDIA Software License (SDK)"
+
 evidence:
   matches:
     - "Install and use the SDK"

@@ -47,10 +47,7 @@ evidence:
        LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
        OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
        SUCH DAMAGE"
-  excludes:
-    - "The names 'OpenSSL Toolkit' and 'OpenSSL Project' must not be used to endorse or promote
-       products derived from this software without prior written permission"
-    - "Neither the name of"
+
       
 licenseTemplate:
   "<lq>Redistribution and use in source and binary forms, with or without

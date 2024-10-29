@@ -2,16 +2,19 @@ canonicalName: Node License
 category: Node License
 shortName: node-js
 
-# FIXME-IMPLEMENT: verify
+
+
 expectedMatches:
-  - "BSD 4-Clause License (variant 006)"
   - "MIT License"
   - "ISC License"
   - "zlib License"
-  - "BSD 3-Clause License (attribution; copyright holder variant)"
   - "Artistic License 2.0"
   - "Apache License 2.0"
-  - "BSD 3-Clause License (variant 007)"
+  - "Permission Terms (MIT old style variant 003)"
+  - "OpenSSL License (standalone)"
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "BSD 2-Clause License (copyright holder variant)"
+
 
 alternativeNames:
   - "Node-js License"

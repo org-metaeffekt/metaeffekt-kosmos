@@ -15,34 +15,9 @@ evidence:
     - "all Project Xming dlls and binaries are made 'fresh' and consistent from strictly controlled source code
        (using a cross-compiler toolchain also built, by me, from canonical sources); none are supplied from third-party builds"
 
-# FIXME-IMPLEMENT: model as multi license. For all references should be covered by existing licenses (or model them)
-references:
-  "Public Domain":
-    matches:
-      - "This agreement is mandatory for Project Xming releases and components downloaded from this website, but not Public Domain releases from [WWW]SourceForge Project Xming"
-      - "Please distribute freely Public Domain releases from SourceForge.
-
-         Redistributing any part (or whole) of the Xming website"
-      - "Xming installers and components are Public Domain if put on [WWW]SourceForge, by me. You can do what you like with Public Domain releases including freely distributing them"
-      - "The encryption methods and algorithms used are freely available in the Public Domain and therefore not subject to export controls in Europe"
-  "GPL":
-    matches:
-    - "and at the same time, all component source licenses are GPL compatible"
-    - "No source code is GPL licensed in any release, other than for run.exe, and any GPL COPYING file or file marking
-       (e.g. in Xming 6.9.0.31), can be assumed to be an error and deleted/ignored. Put simply: Xming is not licensed under
-       the GPL and non-copyleft; but the Run utility is (N.B. run.exe, and its source, are now separate from Project Xming)"
-    - "Note: builders of FreeType can [WWW]choose to use GPLv2 instead"
-  "LGPL":
-    matches:
-    - "Xming dynamically links to one LGPL library"
-    - "(an LGPLv2.1 file in [WWW]gettext-0.17/gettext-runtime/intl/)"
-    - "is dynamically-linked from Xming and supplied compliant with LGPLv2.1"
-  "BSD":
-    matches:
-    - "[WWW]FreeType2 source under this BSD-style license (which has a credit clause)."
-  "MIT":
-    matches:
-    - "[WWW]PuTTY is used under its permissive MIT license"
-  "GCC Runtime Library Exception":
-    matches:
-    - "Header files and runtime libraries from the [WWW]GNU Complier Collection are included in compiled code under the GCC runtime library exception"
+expectedMatches:
+  - "MIT License"
+  - "GNU General Public License 2.0"
+  - "BSD (undefined)"
+  - "GNU Lesser General Public License 2.1"
+  - "Public Domain"

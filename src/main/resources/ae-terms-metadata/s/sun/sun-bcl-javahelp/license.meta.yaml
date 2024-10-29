@@ -1,0 +1,30 @@
+canonicalName: Sun BCL JavaHelp
+category: Sun BCL JavaHelp
+shortName: sun-bcl-javahelp
+
+otherIds:
+  - "scancode:sun-bcl-javahelp"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Sun BCL JavaHelp"
+  - "sun-bcl-javahelp"
+  - "SUN JavaHelp(TM) 2.0"
+  - "JAVAHELP(TM) VERSION 2.0 SUPPLEMENTAL LICENSE"
+
+evidence:
+  matches:
+    - "Sun grants you a non-exclusive and non-transferable license for the internal use only of the accompanying
+       software and documentation and any error corrections provided by Sun (collectively 'Software'), by the
+       number of users and the class of computer hardware for which the corresponding fee has been paid"
+    - "This Agreement is effective until terminated"
+    - "You may terminate this Agreement at any time by destroying all copies of Software"
+    - "This Agreement will terminate immediately without notice from Sun if you fail to comply with any
+       provision of this Agreement"
+    - "Upon Termination, you must destroy all copies of Software"
+    - "Subject to the terms and conditions of this Agreement, including, but not limited to Section 4 (Java(TM)
+       Technology Restrictions) of these Supplemental Terms, Sun grants you a non-exclusive, non-transferable,
+       limited license to reproduce internally and use internally the binary form of the Software complete and
+       unmodified for the sole purpose of designing, developing and testing your Java applets and applications
+       intended to run on the Java platform ('Programs')"

@@ -5,8 +5,6 @@ shortName: oswego-concurrent
 otherIds:
   - "scancode:oswego-concurrent"
 
-classification: permissive
-
 alternativeNames:
   - "Oswego Concurrent License"
   - "http://gee.cs.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/sun-u.c.license.pdf"

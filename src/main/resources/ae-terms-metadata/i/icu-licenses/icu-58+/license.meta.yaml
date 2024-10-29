@@ -8,13 +8,14 @@ otherIds:
 canonicalNameHistory:
   - "ICU 58 License"
 
+# FIXME-REVIEW: isn't the matched BSD license a reference?
 expectedMatches:
-#  - "BSD 3-Clause License (copyright holder variant)"
-#  - "BSD 2-Clause License"
-#  - "Nara Institute of Science and Technology License (2003)"
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "BSD 2-Clause License"
+  - "Nara Institute of Science and Technology License (2003)"
   - "Time Zone Database Ownership License"
 
-#FIXME-DISCUSS: how do we want to handle the "container variant" - keep like this - create own yaml variant? (this would enable us to use references specificallly for that license text) - other approach?
+#FIXME-DISCUSS: how do we want to handle the "container variant" - keep like this - create own yaml variant? (this would enable us to use references specifically for that license text) - other approach?
 # these are for the container variant
 #  - "OpenSSL License"
 #  - "Artistic License 2.0"

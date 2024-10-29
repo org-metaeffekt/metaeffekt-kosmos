@@ -11,6 +11,10 @@ canonicalNameHistory:
 alternativeNames:
   - "Info-Zip License 1997"
 
+# FIXME-REVIEW
+expectedMatches:
+  - "Public Domain"
+
 evidence:
   matches:
     ##- "Info-ZIP file COPYING * last updated 5 Oct 97"

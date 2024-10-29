@@ -8,6 +8,11 @@ otherIds:
 alternativeNames:
   - "NVIDIA SDK EULA"
 
+#FIXME-REVIEW
+expectedMatches:
+  - "NVIDIA Software License (SDK)"
+  - "NVIDIA NGX EULA"
+
 evidence:
   matches:
     - "Subject to the terms of this Agreement, NVIDIA hereby grants you a non-exclusive, nontransferable

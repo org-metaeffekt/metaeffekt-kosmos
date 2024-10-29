@@ -5,8 +5,6 @@ shortName: netdata-ncul1
 otherIds:
   - "scancode:netdata-ncul1"
 
-classification: proprietary free
-
 canonicalNameHistory:
   - "Netdata Cloud UI License v1.0 (NCUL1)"
 

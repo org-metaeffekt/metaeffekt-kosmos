@@ -8,6 +8,10 @@ alternativeNames:
 otherIds:
   - "scancode:truecrypt-3.1"
 
+#FIXME-REVIEW
+expectedMatches:
+  - "zlib License"
+
 evidence:
   matches:
     - "Provided that You comply with all applicable terms and

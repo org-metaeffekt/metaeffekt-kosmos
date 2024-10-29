@@ -19,8 +19,6 @@ alternativeNames:
   - "NAIST Terms"
   - "Nara Institute of Science and Technology License (2003)"
 
-# FIXME-IMPLEMENT: review license modelling
-
 evidence:
   matches:
     - "Nara Institute of Science and Technology (NAIST), the copyright holders, disclaims all warranties with regard to
@@ -48,6 +46,12 @@ evidence:
        quality, performance, merchantability and fitness for a particular purpose of
        the program and the nonexistence of any infringement or violation of
        any right of any third party"
+    - "Therefore, neither*{.{0,50}}*or any other
+       organization that participated in or was otherwise related to the
+       development of the program and their respective officials, directors,
+       officers and other employees shall be held liable for any and all
+       damages"
+
   excludes:
     - "ICOT Free Software that ICOT releases"
     - "Revised ICOT Free Software after its release"
@@ -84,14 +88,7 @@ evidence:
        expand the Program for the purposes of enhancing and/or improving its
        function, performance and/or quality as well as to add one or more
        programs or documents developed by Users of the Program"
-    - "ICU License - ICU 1.8.1 and later
 
-       COPYRIGHT AND PERMISSION NOTICE
-
-       Copyright (c) 1995-2014 International Business Machines Corporation and others"
-    - "1. ICU License - ICU 1.8.1 to ICU 57.1
-
-       COPYRIGHT AND PERMISSION NOTICE"
 
 licenseTemplate:
   "<lq>Use, reproduction, and distribution of this software is permitted. 

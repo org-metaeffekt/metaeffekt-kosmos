@@ -7,8 +7,6 @@ type: exception
 otherIds:
   - "scancode:qskinny-exception-lgpl-2.1"
 
-classification: limited copyleft
-
 alternativeNames:
   - "QSkinny Exception to LGPL 2.1"
   - "qskinny-exception-lgpl-2.1"

@@ -6,8 +6,6 @@ otherIds:
   # NOTE: we do not adopt the typo in the scancode id
   - "scancode:us-govt-geotranform"
 
-classification: limited copyleft
-
 alternativeNames:
   - "US Government GeoTransform"
 

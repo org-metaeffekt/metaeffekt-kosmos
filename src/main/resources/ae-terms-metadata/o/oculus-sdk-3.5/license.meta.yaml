@@ -8,6 +8,10 @@ otherIds:
 alternativeNames:
   - "Oculus SDK License 3.5"
 
+#FIXME-REVIEW
+expectedMatches:
+  - "Oculus SDK License"
+
 evidence:
   matches:
     - "You may sublicense and redistribute the source, binary, or object code of the Oculus SDK in whole for no

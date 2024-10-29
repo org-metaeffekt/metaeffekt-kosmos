@@ -5,10 +5,12 @@ shortName: phaser-ccp4
 otherIds:
   - "scancode:phaser-ccp4"
 
-classification: commercial
-
 alternativeNames:
   - "Phaser Commercial EULA (CCP4)"
+
+#FIXME-REVIEW
+expectedMatches:
+  - "Phaser Commercial EULA (Phenix)"
 
 evidence:
   matches:

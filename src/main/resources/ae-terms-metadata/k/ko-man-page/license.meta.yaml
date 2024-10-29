@@ -5,8 +5,6 @@ shortName: ko-man-page
 otherIds:
   - "scancode:ko-man-page"
 
-classification: permissive
-
 alternativeNames:
   - "Korean Manpage Project License"
 

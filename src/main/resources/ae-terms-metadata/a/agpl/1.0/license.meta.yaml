@@ -158,7 +158,8 @@ evidence:
     - "Our decision will be guided by the two goals of preserving the free status of all derivatives of our free software
        and of promoting the sharing and reuse of software generally"
   excludes:
-    - "evelopers often release their software under open licenses out of a charitable impulse to help users accomplish their tasks more easily"
+    - "evelopers often release their software under open licenses out of a charitable impulse to help users accomplish 
+       their tasks more easily"
 
 references:
   "GPL":

@@ -5,10 +5,12 @@ shortName: phaser-academic
 otherIds:
   - "scancode:phaser-academic"
 
-classification: proprietary free
-
 alternativeNames:
   - "Phaser Academic Non-Commercial EULA"
+
+#FIXME-REVIEW
+expectedMatches:
+  - "Phaser Commercial EULA (CCP4)"
 
 evidence:
   matches:

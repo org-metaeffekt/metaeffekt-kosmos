@@ -1,0 +1,27 @@
+canonicalName: Sun BCL JIMI SDK
+category: Sun BCL JIMI SDK
+shortName: sun-bcl-jimi-sdk
+
+otherIds:
+  - "scancode:sun-bcl-jimi-sdk"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Sun BCL JIMI SDK"
+  - "sun-bcl-jimi-sdk"
+  - "JIMI SDK Version 2.0 Sun Microsystems"
+  - "JIMI SDK, Version 2.0 SUPPLEMENTAL LICENSE"
+
+evidence:
+  matches:
+    - "Sun Microsystems, Inc. ('Sun') grants you a non-exclusive and non- transferable license for the internal
+       use only of the accompanying software, documentation and any error corrections provided by Sun (collectively
+       'Software'), by the number of users and the class of computer hardware for which the corresponding fee has
+       been paid"
+    - "Subject to your obligation to indemnify Sun pursuant to Section 3 below, Sun grants to you a non-exclusive,
+       non-transferable limited license to use the Software without fee for evaluation of the Software and for
+       development of Java(TM) applets and applications provided that you may not re-distribute the Software in
+       whole or in part, except as provided in Section 1.b below"
+    - "The Software may contain source code which is provided for reference purposes only, and may not be modified
+       (except for the purpose of correcting errors) or redistributed"

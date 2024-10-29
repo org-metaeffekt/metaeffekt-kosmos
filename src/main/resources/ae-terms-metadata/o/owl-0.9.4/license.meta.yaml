@@ -1,0 +1,27 @@
+canonicalName: Open Works License 0.9.4
+category: Open Works License
+shortName: owl-0.9.4
+
+otherIds:
+  - "scancode:owl-0.9.4"
+
+classification: permissive
+
+canonicalNameHistory:
+  - "Open Works License v0.9.4"
+
+alternativeNames:
+  - "Open Works License 0.9.4"
+  - "Open Works License"
+  - "owl-0.9.4"
+
+evidence:
+  matches:
+    - "Permission is hereby granted by the holder(s) of copyright or other legal
+       privileges, author(s) or assembler(s), and contributor(s) of this work, to any
+       person who obtains a copy of this work in any form, to reproduce, modify,
+       distribute, publish, sell, sublicense, use, and/or otherwise deal in the
+       licensed material without restriction, provided the following conditions are met"
+    - "Redistributions, modified or unmodified, in whole or in part, must retain
+       applicable copyright and other legal privilege notices, the above license
+       notice, these conditions, and the following disclaimer"

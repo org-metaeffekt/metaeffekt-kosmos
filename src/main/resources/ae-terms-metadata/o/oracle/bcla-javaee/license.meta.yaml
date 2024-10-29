@@ -10,16 +10,36 @@ alternativeNames:
 
 evidence:
   matches:
-    - "ORACLE  AMERICA, INC. (\"ORACLE\"), FOR AND ON BEHALF OF ITSELF AND ITS SUBSIDIARIES AND AFFILIATES UNDER COMMON CONTROL, IS WILLING TO  LICENSE  THE SOFTWARE  TO YOU ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS CONTAINED IN THIS BINARY CODE LICENSE AGREEMENT AND SUPPLEMENTAL  LICENSE TERMS"
-    - "Subject to the terms and conditions of this Agreement including, but not limited to, the Java Technology Restrictions of the Supplemental License Terms, Oracle grants you a non-exclusive, non-transferable, limited license without license fees to reproduce and use internally the Software complete and unmodified for the sole purpose of running Programs"
+    - "ORACLE  AMERICA, INC. (\"ORACLE\"), FOR AND ON BEHALF OF ITSELF AND ITS SUBSIDIARIES AND AFFILIATES UNDER
+       COMMON CONTROL, IS WILLING TO  LICENSE  THE SOFTWARE  TO YOU ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF
+       THE TERMS CONTAINED IN THIS BINARY CODE LICENSE AGREEMENT AND SUPPLEMENTAL  LICENSE TERMS"
+    - "Subject to the terms and conditions of this Agreement including, but not limited to, the Java Technology
+       Restrictions of the Supplemental License Terms, Oracle grants you a non-exclusive, non-transferable, limited
+       license without license fees to reproduce and use internally the Software complete and unmodified for the sole
+       purpose of running Programs"
     - "Title to Software and all associated intellectual property rights is retained by Oracle and/or its licensors"
     - "Unless enforcement is prohibited by applicable law, you may not modify, decompile, or reverse engineer Software"
     - "You acknowledge that the Software is developed for general use in a variety of information management applications"
-    - "ORACLE FURTHER DISCLAIMS ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT"
-    - "IN NO EVENT SHALL ORACLE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF PROFITS, REVENUE, DATA OR DATA USE, INCURRED BY YOU OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, EVEN IF ORACLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ORACLE'S ENTIRE LIABILITY FOR DAMAGES HEREUNDER SHALL IN NO EVENT EXCEED ONE THOUSAND DOLLARS"
-    - "You acknowledge and agree as between you and Oracle that Oracle owns the ORACLE and JAVA trademarks and all ORACLE- and JAVA-related trademarks, service marks, logos and other brand designations"
-    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the README File incorporated herein by reference, including, but not limited to the Java Technology Restrictions of these Supplemental Terms, Oracle grants you a non-exclusive, non-transferable, limited license without fees to reproduce internally and use internally the Software complete and unmodified for the purpose of designing, developing, and testing your Programs"
-    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the README  File, including but not limited to the Java Technology Restrictions of these Supplemental Terms, Oracle grants you a non-exclusive,  non-transferable, limited license without fees to reproduce and distribute  those files specifically identified as redistributable in the README File"
+    - "ORACLE FURTHER DISCLAIMS ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED
+       WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NONINFRINGEMENT"
+    - "IN NO EVENT SHALL ORACLE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES,
+       OR DAMAGES FOR LOSS OF PROFITS, REVENUE, DATA OR DATA USE, INCURRED BY YOU OR ANY THIRD PARTY, WHETHER IN AN
+       ACTION IN CONTRACT OR TORT, EVEN IF ORACLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. ORACLE'S ENTIRE
+       LIABILITY FOR DAMAGES HEREUNDER SHALL IN NO EVENT EXCEED ONE THOUSAND DOLLARS"
+    - "You acknowledge and agree as between you and Oracle that Oracle owns the ORACLE and JAVA trademarks and all
+       ORACLE- and JAVA-related trademarks, service marks, logos and other brand designations"
+    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the README
+       File incorporated herein by reference, including, but not limited to the Java Technology Restrictions of these
+       Supplemental Terms, Oracle grants you a non-exclusive, non-transferable, limited license without fees to reproduce
+       internally and use internally the Software complete and unmodified for the purpose of designing, developing, and
+       testing your Programs"
+    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the README
+       File, including but not limited to the Java Technology Restrictions of these Supplemental Terms, Oracle grants
+       you a non-exclusive,  non-transferable, limited license without fees to reproduce and distribute  those files
+       specifically identified as redistributable in the README File"
   excludes:
     - "License for Archived Java SE Technologies; last updated 02 April 2013"
-    - "You may not use the Commercial Features for running Programs, Java applets or applications in your internal business operations or for any commercial or production purpose, or for any purpose other than as set forth in Sections B, C, D and E of these Supplemental Terms"
+    - "You may not use the Commercial Features for running Programs, Java applets or applications in your internal
+       business operations or for any commercial or production purpose, or for any purpose other than as set forth
+       in Sections B, C, D and E of these Supplemental Terms"
+    - "Sun Microsystems, Inc. Binary Code License Agreement for the JAVA SE RUNTIME ENVIRONMENT (JRE) VERSION 6"

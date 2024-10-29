@@ -5,8 +5,6 @@ shortName: ibm-glextrusion
 otherIds:
   - "scancode:ibm-glextrusion"
 
-classification: permissive
-
 alternativeNames:
   - "IBM glextrusion License"
 

@@ -5,8 +5,6 @@ shortName: MIT-Synopsys
 otherIds:
   - "scancode:mit-synopsys"
 
-classification: permissive
-
 alternativeNames:
   - "mit-synopsys"
   - "MIT Synopsys License"

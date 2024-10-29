@@ -5,8 +5,6 @@ shortName: fpdf
 otherIds:
   - "scancode:fpdf"
 
-classification: permissive
-
 alternativeNames:
   - "FPDF License"
 

@@ -5,8 +5,6 @@ shortName: gitleaks-action-eula
 otherIds:
   - "scancode:gitleaks-action-eula"
 
-classification: commercial
-
 alternativeNames:
   - "Gitleaks-Action EULA"
 

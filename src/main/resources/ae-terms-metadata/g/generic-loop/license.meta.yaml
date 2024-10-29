@@ -5,8 +5,6 @@ shortName: generic-loop
 otherIds:
   - "scancode:generic-loop"
 
-classification: permissive
-
 alternativeNames:
   - "Common Lisp Generic LOOP License"
 

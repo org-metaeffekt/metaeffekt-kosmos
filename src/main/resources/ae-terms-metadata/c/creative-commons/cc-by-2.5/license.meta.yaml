@@ -5,8 +5,6 @@ spdxIdentifier: CC-BY-2.5
 otherIds:
   - "scancode:cc-by-2.5"
 
-classification: permissive
-
 requiresAnnexNotice: true
 
 requiresLicenseText: false

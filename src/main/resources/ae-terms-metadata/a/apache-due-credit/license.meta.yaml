@@ -7,8 +7,6 @@ deprecated: true
 otherIds:
   - "scancode:apache-due-credit"
 
-classification: permissive
-
 alternativeNames:
   - "Apache Due Credit Variant"
   - "apache-due-credit"

@@ -10,8 +10,6 @@ type: exception
 otherIds:
   - "scancode:codelite-exception-to-gpl"
 
-classification: limited copyleft
-
 alternativeNames:
   - "CodeLite Exception to GPL"
 

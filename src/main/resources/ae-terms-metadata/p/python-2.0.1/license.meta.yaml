@@ -27,15 +27,14 @@ evidence:
     - "PSF is making Python 2.0.1 available to Licensee on an \"AS IS\" basis"
     - "By copying, installing or otherwise using Python 2.0.1, Licensee agrees to be bound by the terms and conditions of this License Agreement"
 
-# FIXME-DISCUSS: after fixing the segmentation issue in the code fix the following:
-## 1: remove: "ignore: true"
-## 2: Fix the segmentation (mappings).
-## 3: See which licenses get matched and adjust ignoreMatches/expectedMatches and the expectedSpdxMatches, as well as the displayName accordingly. Maybe remove display name?
+# FIXME-IMPLEMENT: after fixing the segmentation issue (caused by the hyphens) in the code fix the following:
+## 1: Fix the segmentation (mappings).
+## 2: See which licenses get matched and adjust ignoreMatches/expectedMatches and the expectedSpdxMatches, as well as the displayName accordingly.
 # FIXME-CONCEPT: see Jira: "AEU-148"
 # these should create new segments, but they don't. probably another hyphen issue.
-#mappings:
-#  "BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. This LICENSE AGREEMENT is between BeOpen.com \\(\"BeOpen\"\\), having an office at 160 Saratoga Avenue, Santa Clara, CA 95051, and the Individual or Organization \\(\"Licensee\"\\) accessing and otherwise using this software in source or binary form and its associated documentation": " LICENSE-SEGMENT-MARKER BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. This LICENSE AGREEMENT is between BeOpen.com (\"BeOpen\"), having an office at 160 Saratoga Avenue, Santa Clara, CA 95051, and the Individual or Organization (\"Licensee\") accessing and otherwise using this software in source or binary form and its associated documentation"
-#  "CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1NEWLINE-MARKER EMPTY-LINE-MARKERNEWLINE-MARKER1. This LICENSE AGREEMENT is between the Corporation for National Research Initiatives, having an office at 1895 Preston White Drive, Reston, VA 20191 \\(\"CNRI\"\\), and the Individual or Organization \\(\"Licensee\"\\) accessing and otherwise using Python 1.6.1 software in source or binary form": " LICENSE-SEGMENT-MARKER CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1NEWLINE-MARKER EMPTY-LINE-MARKERNEWLINE-MARKER1. This LICENSE AGREEMENT is between the Corporation for National Research Initiatives, having an office at 1895 Preston White Drive, Reston, VA 20191 (\"CNRI\"), and the Individual or Organization (\"Licensee\") accessing and otherwise using Python 1.6.1 software in source or binary form"
+mappings:
+  "BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. This LICENSE AGREEMENT is between BeOpen.com \\(\"BeOpen\"\\), having an office at 160 Saratoga Avenue, Santa Clara, CA 95051, and the Individual or Organization \\(\"Licensee\"\\) accessing and otherwise using this software in source or binary form and its associated documentation": " LICENSE-SEGMENT-MARKER BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. This LICENSE AGREEMENT is between BeOpen.com (\"BeOpen\"), having an office at 160 Saratoga Avenue, Santa Clara, CA 95051, and the Individual or Organization (\"Licensee\") accessing and otherwise using this software in source or binary form and its associated documentation"
+  "CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1NEWLINE-MARKER EMPTY-LINE-MARKERNEWLINE-MARKER1. This LICENSE AGREEMENT is between the Corporation for National Research Initiatives, having an office at 1895 Preston White Drive, Reston, VA 20191 \\(\"CNRI\"\\), and the Individual or Organization \\(\"Licensee\"\\) accessing and otherwise using Python 1.6.1 software in source or binary form": " LICENSE-SEGMENT-MARKER CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1NEWLINE-MARKER EMPTY-LINE-MARKERNEWLINE-MARKER1. This LICENSE AGREEMENT is between the Corporation for National Research Initiatives, having an office at 1895 Preston White Drive, Reston, VA 20191 (\"CNRI\"), and the Individual or Organization (\"Licensee\") accessing and otherwise using Python 1.6.1 software in source or binary form"
 
 # these get applied and work how they should
 segmentation:

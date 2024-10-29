@@ -11,6 +11,10 @@ canonicalNameHistory:
 alternativeNames:
   - "OGC Document Notice 2020"
 
+#FIXME-REVIEW: this seems to be wrong, maybe revise how we match FAQ?
+expectedMatches:
+  - "FAQ"
+
 evidence:
   matches:
     - "Permission to use, copy, and distribute the contents of this document, or the

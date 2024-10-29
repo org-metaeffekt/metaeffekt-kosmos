@@ -5,11 +5,11 @@ shortName: Supervisor
 otherIds:
   - "scancode:supervisor"
 
-# FIXME-IMPLEMENT: review
+# FIXME-REVIEW
 expectedMatches:
+  - "BSD 3-Clause License (modification)"
   - "BSD 3-Clause License (copyright holder variant)"
-#  - "BSD 3-Clause License (modification)"
-#  - "Disclaimer (variant 001)"
+  - "Disclaimer (variant 001)"
   - "Permission Terms CWI"
   - "Python Software Foundation License (undefined)"
   - "Zope Public License 2.1"
@@ -37,5 +37,10 @@ segmentation:
         "Supervisor License https://github.com/Supervisor/supervisor/blob/master/LICENSES.txt",
       matchNext:
         "Supervisor is licensed under the following license: A copyright notice accompanies this license document that identifies the copyright holders. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met"
-    }
+    },
+    { match:
+        "Some software in this distribution is released under the Zope Public License (as marked in its file header): Zope Public License (ZPL) Version 2.1",
+      matchNext:
+        "A copyright notice accompanies this license document that identifies the copyright holders. This license has been certified as open source. It has also been designated as GPL compatible by the Free Software Foundation (FSF). Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions in source code must retain the accompanying copyright notice, this list of conditions, and the following disclaimer. 2. Redistributions in binary form must reproduce the accompanying copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. Names of the copyright holders must not be used to endorse or promote products derived from this software without prior written permission from the copyright holders. 4. The right to distribute this software or to use it for any purpose does not give you the right to use Servicemarks (sm) or Trademarks (tm) of the copyright holders."
+    },
   ]

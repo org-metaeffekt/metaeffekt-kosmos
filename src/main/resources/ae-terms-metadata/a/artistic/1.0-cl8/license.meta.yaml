@@ -34,7 +34,5 @@ evidence:
        of the commercial distribution. Such use shall not be construed as a distribution
        of this Package"
   excludes:
-    - "You may embed this Package's interpreter
-       within an executable of yours (by linking); this shall be construed as a mere
-       form of aggregation, provided that the complete Standard Version of the interpreter
-       is so embedded"
+    - "You may embed this Package's interpreter within an executable of yours (by linking); this shall be construed as 
+       a mere form of aggregation, provided that the complete Standard Version of the interpreter is so embedded"

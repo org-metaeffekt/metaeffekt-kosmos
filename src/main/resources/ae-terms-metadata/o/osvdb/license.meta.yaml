@@ -1,0 +1,29 @@
+canonicalName: Open Sourced Vulnerability Database (OSVDB) License
+category: Open Sourced Vulnerability Database (OSVDB) License
+shortName: osvdb
+
+otherIds:
+  - "scancode:osvdb"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Open Sourced Vulnerability Database (OSVDB) License"
+
+evidence:
+  matches:
+    - "The OSVDB contains contributions made by many individuals on behalf of OSF and OSVDB, both voluntarily and
+       commercially retained, based on published vulnerability information"
+    - "All contributions made by volunteers become the property of OSF / OSVDB"
+    - "If the OSVDB is the basis of, or integrated with in any manner a commercially available product or service
+       you MUST notify OSVDB by providing details on the usage and reach a licensing agreement prior to usage"
+    - "This includes using OSVDB data in security products, security services, generating vulnerability statistics/
+       metrics, funded academic research, or any form of analytics used in a commercial manner (including 'free'
+       reports used for marketing)"
+    - "Usage requests can be submitted for approval to officers[at]opensecurityfoundation.org"
+    - "Use of OSVDB in a non-profit or educational organization, in the same manners listed prior requires explicit
+       permission from OSF, and may require licensing"
+    - "Obtaining data from this website in a programmatic fashion (e.g. scraping via enumeration, web robot, crawler,
+       etc) is prohibited"
+    - "Such activity is likely to trigger security software that will permanently block your IP from accessing the site"
+    - "OSVDB must be given required credit if the data is used in any manner, both non-profit or commercially (see #3)"

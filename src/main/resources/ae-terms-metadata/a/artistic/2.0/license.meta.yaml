@@ -9,6 +9,10 @@ otherIds:
 status:
   - "reviewed: 25.10.21"
 
+# FIXME-REVIEW: please confirm this
+ignoreMatches:
+  - "FSF Permit"
+
 requiresCopyright: true
 requiresLicenseText: true
 
@@ -43,8 +47,7 @@ evidence:
        Version, under the Original License, so that the Copyright Holder may include
        your modifications in the Standard Version"
   excludes:
-    - "recipients of the item may redistribute it under the same
-       conditions they received it"
+    - "recipients of the item may redistribute it under the same conditions they received it"
 
 
 licenseTemplate: "<lq>Preamble

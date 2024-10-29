@@ -6,8 +6,6 @@ otherIds:
   - "scancode:mir-os"
   - "osi:MirOS"
 
-classification: permissive
-
 alternativeNames:
   - "MirOS Licence"
   - "http://opensource.org/licenses/miros.html"

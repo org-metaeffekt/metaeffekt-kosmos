@@ -21,8 +21,8 @@ evidence:
        work based on the Program, and copy and distribute such modifications or work under the terms
        of Section 1 above, provided that each time you do so you also meet all of these conditions"
   excludes:
-    - "BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR
-       THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW"
+    - "BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY 
+       APPLICABLE LAW"
 
 references:
   "Apache License":

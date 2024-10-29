@@ -1,0 +1,23 @@
+canonicalName: Research Software Disclaimer
+category: Research Software Disclaimer
+shortName: research-disclaimer
+
+otherIds:
+  - "scancode:research-disclaimer"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Research Software Disclaimer"
+
+evidence:
+  matches:
+    - "This program is provided free of charge for the user's personal, non-commercial, educational or experimental use"
+    - "All title, ownership and rights to this program and any copies remain with the copyright holder, irrespective
+       of the ownership of the media on which the program resides"
+    - "The user is permitted to create derivative works to this program"
+    - "However, all copies of the program and its derivative works must contain the Minibase copyright notice,
+       the unestablished software disclaimer and this user agreement"
+    - "The user understands and agrees that this program and any derivative works are to be used solely for
+       experimental purposes and are not to be sold or commercially exploited in any manner without express
+       written permission"

@@ -2,6 +2,8 @@ canonicalName: Systemics W3Works License
 category: Systemics
 shortName: Systemics-W3Works
 spdxIdentifier: BSD-Systemics-W3Works
+otherIds:
+  - "scancode:bsd-systemics-w3works"
 
 canonicalNameHistory:
   - "Systemics W3Works BSD variant license"

@@ -5,8 +5,6 @@ shortName: hfoil-1.0
 otherIds:
   - "scancode:hfoil-1.0"
 
-classification: source-available
-
 alternativeNames:
   - "Hugging Face Optimized Inference License 1.0"
   - "Hugging Face Optimized Inference License 1.0 (HFOILv1.0)"

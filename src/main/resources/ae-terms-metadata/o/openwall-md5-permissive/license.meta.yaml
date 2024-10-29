@@ -6,8 +6,6 @@ otherIds:
   - "scancode:openwall-md5-permissive"
   - "scancode:bcrypt-solar-designer"
 
-classification: permissive
-
 alternativeNames:
   - "Openwall MD5 Permissive"
   - "bcrypt Solar Designer License"

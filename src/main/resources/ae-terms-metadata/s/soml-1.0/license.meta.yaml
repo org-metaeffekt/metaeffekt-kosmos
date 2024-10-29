@@ -1,0 +1,33 @@
+canonicalName: Software for Open Models License 1.0
+category: Software for Open Models License (SOM)
+shortName: soml-1.0
+
+otherIds:
+  - "scancode:soml-1.0"
+
+classification: copyleft
+
+canonicalNameHistory:
+  - "Software for Open Models License (SOM) 1.0"
+
+alternativeNames:
+  - "Software for Open Models License (SOM) 1.0"
+  - "Software for Open Models License (SOM) Version 1.0"
+
+evidence:
+  matches:
+    - "This license governs use of the accompanying Software"
+    - "If you use the Software, you accept this license"
+    - "If you do not accept the license, do not use the Software"
+    - "This license is intended to encourage open release of models created, modified, processed, or
+       otherwise used via the Software under open licensing terms, and should be interpreted in light
+       of that intent"
+    - "Licensor grants you a non-exclusive, worldwide, royalty-free copyright license to copy, modify,
+       and distribute the Software and any modifications of the Software you create under this license"
+    - "The foregoing license includes without limitation the right to create, modify, and use Models
+       using this Software"
+    - "Licensor grants you a non-exclusive, worldwide, royalty-free license, under any patents owned or
+       controlled by Licensor, to make, have made, use, sell, offer for sale, import, or otherwise exploit
+       the Software"
+    - "No license is granted to patent rights that are not embodied in the operation of the Software in the
+       form provided by Licensor"

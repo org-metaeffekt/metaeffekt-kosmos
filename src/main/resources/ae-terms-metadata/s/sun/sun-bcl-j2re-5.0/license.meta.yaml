@@ -1,0 +1,28 @@
+canonicalName: Sun BCL J2RE 5.0
+category: Sun BCL J2RE
+shortName: sun-bcl-j2re-5.0
+
+otherIds:
+  - "scancode:sun-bcl-j2re-5.0"
+
+classification: proprietary free
+
+alternativeNames:
+  - "http://java.sun.com/j2se/1.5.0/jre-1_5_0_06-license.txt"
+  - "Sun BCL J2RE 5.0"
+  - "sun-bcl-j2re-5.0"
+
+evidence:
+  matches:
+    - "These Supplemental License Terms add to or modify the terms of the Binary Code License Agreement"
+    - "Capitalized terms not defined in these Supplemental Terms shall have the same meanings ascribed to
+       them in the Binary Code License Agreement"
+    - "These Supplemental Terms shall supersede any inconsistent or conflicting terms in the Binary Code
+       License Agreement, or in any license contained within the Software"
+    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the Software
+       'README' file incorporated herein by reference, including, but not limited to the Java Technology
+       Restrictions of these Supplemental Terms, Sun grants you a non-exclusive, non-transferable, limited
+       license without fees to reproduce internally and use internally the Software complete and unmodified
+       for the purpose of designing, developing, and testing your Programs"
+  excludes:
+    - "Sun Microsystems, Inc. Binary Code License Agreement for the JAVA SE RUNTIME ENVIRONMENT (JRE) VERSION 6"

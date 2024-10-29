@@ -5,8 +5,6 @@ spdxIdentifier: Cronyx
 otherIds:
   - "scancode:cronyx"
 
-classification: permissive
-
 alternativeNames:
   - "Cronyx License"
 

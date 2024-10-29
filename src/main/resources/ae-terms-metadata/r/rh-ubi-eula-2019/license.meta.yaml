@@ -1,0 +1,22 @@
+canonicalName: Red Hat Universal Base Image EULA
+category: Red Hat Universal Base Image EULA
+shortName: rh-ubi-eula-2019
+
+otherIds:
+  - "scancode:rh-ubi-eula-2019"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Red Hat Universal Base Image EULA"
+
+evidence:
+  matches:
+    - "Subject to the terms of this EULA, Red Hat, Inc. (“Red Hat”) grants to you a perpetual, worldwide license
+       to the Programs (each of which may include multiple software components)"
+    - "With the exception of the Red Hat trademark identified in Section 2 below, each software component is governed
+       by a license that permits you to run, copy, modify, and redistribute (subject to certain obligations in some
+       cases) the software components"
+    - "This EULA pertains solely to the Programs and does not limit your rights under, or grant you rights that
+       supersede, the license terms applicable to any particular component"
+    - "The license terms applicable to each software component are provided in the source code of that component"

@@ -5,8 +5,6 @@ shortName: capec-tou
 otherIds:
   - "scancode:capec-tou"
 
-classification: permissive
-
 alternativeNames:
   - "Common Attack Pattern Enumeration and Classification ToU"
 

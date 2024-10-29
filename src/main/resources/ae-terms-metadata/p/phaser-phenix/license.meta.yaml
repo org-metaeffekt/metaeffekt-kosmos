@@ -5,10 +5,12 @@ shortName: phaser-phenix
 otherIds:
   - "scancode:phaser-phenix"
 
-classification: commercial
-
 alternativeNames:
   - "Phaser Commercial EULA (Phenix)"
+
+#FIXME-REVIEW
+expectedMatches:
+  - "Phaser Commercial EULA (CCP4)"
 
 evidence:
   matches:

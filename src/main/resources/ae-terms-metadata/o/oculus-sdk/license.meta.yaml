@@ -8,6 +8,10 @@ otherIds:
 alternativeNames:
   - "Oculus SDK License"
 
+#FIXME-REVIEW
+expectedMatches:
+  - "Oculus SDK License"
+
 evidence:
   matches:
     - "If the SDK includes any libraries, sample source code, or other materials that we make available specifically

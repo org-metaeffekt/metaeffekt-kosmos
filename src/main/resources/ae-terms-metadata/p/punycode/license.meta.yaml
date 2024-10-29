@@ -5,8 +5,6 @@ shortName: punycode
 otherIds:
   - "scancode:punycode"
 
-classification: permissive
-
 alternativeNames:
   - "Punycode License"
 

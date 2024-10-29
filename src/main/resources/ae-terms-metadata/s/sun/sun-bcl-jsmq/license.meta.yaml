@@ -1,0 +1,24 @@
+canonicalName: Sun BCL JSMQ
+category: Sun BCL JSMQ
+shortName: sun-bcl-jsmq
+
+otherIds:
+  - "scancode:sun-bcl-jsmq"
+
+classification: proprietary free
+
+alternativeNames:
+  - "SUN Java System Message Queue License"
+  - "Sun BCL JSMQ"
+  - "sun-bcl-jsmq"
+
+evidence:
+  matches:
+    - "If you have not paid the applicable fees for Message Queue EE, Sun grants you a non-exclusive, non-transferable,
+       royalty-free and limited license to use Message Queue EE internally for the sole purpose of evaluation, for a
+       period of ninety (90) days from the date you begin using the Message Queue EE features. No license to Message
+       Queue EE is granted hereunder for any other purpose, including any commercial or production use of Message Queue EE"
+    - "Sun is under no obligation to provide you with support, updates, error corrections or any other service for
+       Software licensed for evaluation"
+    - "You may not publish or provide the results of any benchmark or comparison tests run on Software to any third
+       party without the prior written consent of Sun"

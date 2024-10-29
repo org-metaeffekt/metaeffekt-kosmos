@@ -2,8 +2,6 @@ canonicalName: Python License 2.0
 category: Python-2.0
 spdxIdentifier: Python-2.0
 
-# Rename license folder
-
 otherIds:
   - "osi:Python-2.0"
   - "scancode:python"
@@ -35,7 +33,10 @@ expectedSpdxMatches:
   - "CNRI License Agreement"
 
 displayName: "Python Software Foundation License 2.0, BeOpen Python Open Source License Agreement 1.0, CNRI License Agreement"
-  
+
+# FIXME-IMPLEMENT: after fixing the segmentation issue (caused by the hyphens) in the code fix the following:
+## 1: Fix the segmentation (mappings).
+## 2: See which licenses get matched and adjust ignoreMatches/expectedMatches and the expectedSpdxMatches.
 segmentation:
   revert: [
     { match:
