@@ -1,0 +1,14 @@
+canonicalName: Artistic Reference
+category: Artistic Reference
+shortName: Artistic-Reference
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "Artistic Reference"
+
+masks:
+  matches:
+    - "The Artistic License in /usr/share/common-licenses is the one coming
+       from Perl and its SPDX name is \"Artistic License 1.0 (Perl)\""

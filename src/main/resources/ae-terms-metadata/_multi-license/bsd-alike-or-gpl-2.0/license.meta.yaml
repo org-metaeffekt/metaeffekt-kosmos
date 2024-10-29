@@ -1,0 +1,21 @@
+canonicalName: BSD (undefined) + GNU General Public License 2.0
+category: BSD+GPL2
+shortName: BSD-undefined-OR-GPL-2.0
+
+canonicalNameHistory:
+  - "BSD alike + GNU General Public License 2.0"
+
+type: expression
+
+combinedWith:
+  "GNU General Public License 2.0": "BSD (undefined) + GNU General Public License 2.0"
+  "BSD (undefined)": "BSD (undefined) + GNU General Public License 2.0"
+
+# compensated by combinedWith
+ignoreMatches:
+  - "BSD (undefined)"
+  - "GNU General Public License 2.0 (or any later version)"
+
+alternativeNames:
+  - "under the terms of either (your choice) the GNU General Public License version 2, or a BSD style license"
+  - "under the terms of either the BSD License or the GNU General Public License (GPL) Version 2"

@@ -1,0 +1,9 @@
+canonicalName: False BSD reference
+category: False BSD reference
+shortName: False-BSD-reference
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "False BSD reference"

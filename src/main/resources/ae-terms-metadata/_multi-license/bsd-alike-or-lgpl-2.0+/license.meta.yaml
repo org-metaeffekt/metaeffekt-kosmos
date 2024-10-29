@@ -1,0 +1,36 @@
+canonicalName: BSD (undefined) + GNU Library General Public License 2.0 (or any later version)
+category: BSD+LGPL
+shortName: BSD-OR-LGPL-2.0+
+
+canonicalNameHistory:
+  - "BSD alike + GNU Library General Public License 2.0 (or any later version)"
+
+type: expression
+
+# FIXME-CONCEPT: these default combineWith could be implicit for expressions
+combinedWith:
+  "BSD (undefined)": "BSD (undefined) + GNU Library General Public License 2.0 (or any later version)"
+  "GNU Library General Public License 2.0 (or any later version)": "BSD (undefined) + GNU Library General Public License 2.0 (or any later version)"
+
+# due to coupling in text
+ignoreMatches:
+  - "GNU Library General Public License 2.0 (or any later version)"
+
+references:
+  "LGPL":
+    matches:
+      - "This clause is necessary due to a potential bad interaction between the LGPL and
+                the restrictions contained in a BSD-style copyright"
+  "BSD":
+    matches: 
+      - "This clause is
+         necessary due to a potential *{.{0,17}}* between the*{.{0,3}}* GPL and
+         the restrictions contained in a BSD-style copyright"
+
+evidence:
+  matches:
+    - "ALTERNATIVELY, this product may be distributed under the terms of
+       LGPLv2+, in which case the provisions of the LGPL are
+       required INSTEAD OF the above restrictions"
+    - "This clause is necessary due to a potential bad interaction between the LGPL and
+       the restrictions contained in a BSD-style copyright"

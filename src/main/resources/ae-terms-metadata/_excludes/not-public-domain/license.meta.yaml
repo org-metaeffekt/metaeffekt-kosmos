@@ -1,0 +1,29 @@
+canonicalName: Not Public Domain
+category: Not Public Domain
+shortName: Not-Public-Domain
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "Not Public Domain"
+
+references:
+  "Public Domain":
+    matches:
+      - "All Linux Documentation Project manuals are copyrighted by their respective authors. THEY ARE NOT IN THE PUBLIC DOMAIN"
+      - "A certifier has taken reasonable steps to verify the copyright status of this work. Certifier recognizes that 
+         his good faith efforts may not shield him from liability if in fact the work certified is not in the public 
+         domain"
+      - "is not in the public domain; it is copyrighted and there
+         are restrictions on its distribution, but these restrictions are
+         designed to permit everything that a good cooperating citizen would want
+         to do"
+      - "LICENSEE acknowledges that LICENSOR  is the owner of the  Software Product,
+         that  the  Software Product  is confidential  in nature  and not  in the  public
+         domain, that  LICENSOR claims all intellectual  and industrial property   rights
+         granted by  law therein"
+
+evidence:
+  matches:
+    - "not in the public domain"

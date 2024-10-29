@@ -1,0 +1,16 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Autoconf exception)
+category: GPL+Autoconf
+shortName: GPL-2.0+-Autoconf-Exception
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0 (or any later version)] WITH [Autoconf Exception]"
+
+alternativeNames:
+  - "GNU General Public License 2.0 (or any later version; with Autoconf exception)"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Autoconf exception)"
+  "Autoconf Exception": "GNU General Public License 2.0 (or any later version; with Autoconf exception)"

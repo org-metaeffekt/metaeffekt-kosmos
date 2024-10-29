@@ -1,0 +1,14 @@
+canonicalName: MIT License + GNU General Public License (undefined)
+category: MIT-GPL
+shortName: MIT-GPL-?
+
+type: expression
+
+alternativeNames:
+  - "Dual licensed under the MIT and GPL licenses"
+  - "dual licensed under the MIT and GPL licenses"
+  - "Dual licensed under the MIT (MIT-LICENSE.txt) and GPL (GPL-LICENSE.txt) licenses"
+  
+combinedWith:
+  "MIT License": MIT License + GNU General Public License (undefined)
+  "GNU General Public License (undefined)": MIT License + GNU General Public License (undefined)

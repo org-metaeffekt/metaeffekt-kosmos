@@ -1,0 +1,16 @@
+canonicalName: BSD Style Reference
+category: BSD Style Reference
+shortName: BSD-Style-Reference
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "BSD Style Reference"
+
+references:
+  "BSD":
+    matches:
+    - "Actually both licenses are BSD-style Open Source licenses"
+    - "Someone asked for clarification on what this means treat it as a very mild form of the BSD license in which 
+       you're not required to include LONG LEGAL DISCLAIMERS IN ALL CAPS"

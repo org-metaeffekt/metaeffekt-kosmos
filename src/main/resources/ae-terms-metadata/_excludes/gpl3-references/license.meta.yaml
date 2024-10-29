@@ -1,0 +1,18 @@
+canonicalName: GPL Reference GPL3
+category: GPL Reference
+shortName: GPL-Reference-GPL3
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "GPL Reference GPL3"
+
+references:
+  "GPL":
+    matches:
+    - "The GNU General Public License v3 text is contained in /usr/share/common-licenses/GPL-3"
+
+evidence:
+  matches:
+    - "The GNU General Public License v3 text is contained in /usr/share/common-licenses/GPL-3."

@@ -1,0 +1,20 @@
+canonicalName: GNU Lesser General Public License (undefined) + Common Public License (undefined)
+category: LGPL-CPL
+shortName: LGPL-CPL
+
+type: expression
+
+combinedWith:
+  "GNU Lesser General Public License (undefined)": GNU Lesser General Public License (undefined) + Common Public License (undefined)
+  "Common Public License (undefined)": GNU Lesser General Public License (undefined) + Common Public License (undefined)
+  LZMA SDK 2006 Exception: GNU Lesser General Public License (undefined) + Common Public License (undefined; with LZMA SDK 2006 exception)
+#  "LZMA SDK 2006 Exception": GNU Lesser General Public License (undefined; with LZMA SDK 2006 Exception) + Common Public License (undefined; with LZMA SDK 2006 Exception)
+
+alternativeNames:
+  - "LZMA SDK is licensed under two licenses:
+     1) GNU Lesser General Public License (GNU LGPL)
+     2) Common Public License (CPL)
+     It means that you can select one of these two licenses and
+     follow rules of that license"
+
+

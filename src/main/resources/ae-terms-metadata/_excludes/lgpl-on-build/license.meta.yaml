@@ -1,0 +1,19 @@
+canonicalName: LGPL on build
+category: LGPL on build
+shortName: LGPL-on-build
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "LGPL on build"
+
+references:
+  "LGPL":
+    matches:
+    - "is licensed under the LGPL (please see individual files"
+
+evidence:
+  matches:
+    - "is licensed under the LGPL (please see individual files"
+    - "This code is only referenced when building"

@@ -1,0 +1,18 @@
+canonicalName: LGPL Reference LGPL3
+category: GPL Reference
+shortName: LGPL-Reference-LGPL3
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "LGPL Reference LGPL3"
+
+references:
+  "GPL":
+    matches:
+    - "The GNU General Public License v2 text is contained in /usr/share/common-licenses/GPL-3"
+
+evidence:
+  matches:
+    - "The GNU General Public License v2 text is contained in /usr/share/common-licenses/GPL-2."

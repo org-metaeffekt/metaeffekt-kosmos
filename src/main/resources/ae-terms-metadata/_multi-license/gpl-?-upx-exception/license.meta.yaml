@@ -1,0 +1,17 @@
+canonicalName: GNU General Public License (undefined; with UPX exception)
+category: GPL+UPX
+shortName: GPL-?-UPX-Exception
+
+type: expression
+
+representedAs: "GNU General Public License (undefined)"
+
+combinedWith:
+  "GNU General Public License (undefined)": "GNU General Public License (undefined; with UPX exception)"
+  "UPX Exception": "GNU General Public License (undefined; with UPX exception)"
+
+evidence:
+  excludes:
+    - "you can redistribute them and/or modify them under the terms of the GNU General Public License as published by 
+       the Free Software Foundation; either version 2 of the License, or (at your option) any later version"
+

@@ -1,0 +1,16 @@
+canonicalName: GNU General Public License (undefined; with font display exception)
+category: GPL+Font-Display
+shortName: GPL-Font-Display-Exception
+
+type: expression
+
+alternativeNames:
+  - "GNU General Public License (undefined; with Font Display exception)"
+  - "GNU General Public License (undefined; with font display exception)"
+
+representedAs: "GNU General Public License (undefined)"
+
+combinedWith:
+  "Font Display Exception": GNU General Public License (undefined; with font display exception)
+  "GNU General Public License (undefined)": GNU General Public License (undefined; with font display exception)
+

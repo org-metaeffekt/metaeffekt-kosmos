@@ -1,0 +1,14 @@
+canonicalName: GPL Incompatible
+category: GPL Incompatible
+shortName: GPL-Incompatible
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "GPL Incompatible"
+
+references:
+  "GPL":
+    matches:
+    - "Note that both licenses are incompatible with the GPL"

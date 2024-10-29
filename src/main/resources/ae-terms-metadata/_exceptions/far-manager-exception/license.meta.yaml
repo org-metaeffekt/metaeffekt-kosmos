@@ -1,0 +1,21 @@
+canonicalName: Far Manager Exception
+category: Far Manager Exception
+shortName: Far-Manager-Exception
+
+type: exception
+
+otherIds:
+  - "scancode:far-manager-exception"
+
+alternativeNames:
+  - "far-manager-exception"
+
+combinedWith:
+  BSD 3-Clause License (variant 001): BSD 3-Clause License (variant 001; with Far Manager Exception)
+
+evidence:
+  matches:
+    - "Far Manager plugins that use only the following header files from this
+       distribution (none or any): farcolor.hpp, farkeys.hpp, plugin.hpp,
+       farcolorW.pas, farkeysW.pas and pluginW.pas; can be distributed under any other
+       possible license with no implications from the above license on them"

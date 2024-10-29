@@ -1,0 +1,33 @@
+canonicalName: ANY + GNU Library General Public License 2.0 (or any later version)
+category: ANY+LGPL
+shortName: ANY-OR-LGPL-2.0+
+
+type: expression
+
+# FIXME-RESEARCH: multi-license matches "GNU Library General Public License 2.0 (or any later version) + GNU Library General Public License 2.0 (or any later version)" for some reason. removing the combinedWith and looking for related entries which could cause this was unsuccessful
+
+alternativeNames:
+  - "ANY + GNU Library General Public License 2.0 (or any later version)"
+
+combinedWith:
+  "GNU Lesser General Public License (undefined)": ANY + GNU Library General Public License 2.0 (or any later version)
+
+# compensated by combinedWith
+ignoreMatches:
+  - "GNU Lesser General Public License (undefined)"
+  - "GNU Library General Public License 2.0 (or any later version)"
+
+references:
+  "LGPL":
+    matches:
+      - "Alternatively, the contents of this file may be used under the terms of the
+         LGPL license (the GNU LIBRARY GENERAL PUBLIC LICENSE)"
+
+evidence:
+  matches:
+    - "Alternatively, the contents of this file may be used under the terms of the
+       LGPL license (the GNU LIBRARY GENERAL PUBLIC LICENSE)"
+    - "This library is free software; you can redistribute it and/or modify it
+       under the terms of the MPL as stated above or under the terms of the GNU
+       Library General Public License as published by the Free Software Foundation;
+       either version 2 of the License, or any later version."

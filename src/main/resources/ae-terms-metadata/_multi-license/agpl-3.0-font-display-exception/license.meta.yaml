@@ -1,0 +1,23 @@
+canonicalName: GNU Affero General Public License 3.0 (with font display exception)
+category: AGPL+Autoconf
+shortName: AGPL-3.0-Font-Display-Exception
+
+otherIds:
+  - "scancode:ps-or-pdf-font-exception-20170817"
+
+spdxExpression: "[GNU Affero General Public License 3.0] WITH [Font Display Exception]"
+
+alternativeNames:
+  - "GNU Affero General Public License 3.0 (with font display exception)"
+  - "GNU Affero General Public License 3.0 (with Font Display exception)"
+
+canonicalNameHistory:
+  - "GNU Affero General Public License 3.0 (with Font Display exception)"
+
+type: expression
+
+representedAs: GNU Affero General Public License 3.0
+
+combinedWith:
+  "GNU Affero General Public License 3.0": "GNU Affero General Public License 3.0 (with font display exception)"
+  "Font Display Exception": "GNU Affero General Public License 3.0 (with font display exception)"

@@ -1,0 +1,16 @@
+canonicalName: GNU Lesser General Public License (undefined) + Common Public License (undefined; with LZMA SDK 2006 exception)
+category: LGPL+CPL
+shortName: LGPL-undefined+CPL-undefined-LZMA-SDK-2006-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:lzma-sdk-2006"
+
+alternativeNames:
+  - "LZMA SDK 2006"
+
+combinedWith:
+  "LZMA SDK 2006 Exception": GNU Lesser General Public License (undefined) + Common Public License (undefined; with LZMA SDK 2006 exception)
+  "GNU Lesser General Public License (undefined) + Common Public License (undefined)": GNU Lesser General Public License (undefined) + Common Public License (undefined; with LZMA SDK 2006 exception)
+

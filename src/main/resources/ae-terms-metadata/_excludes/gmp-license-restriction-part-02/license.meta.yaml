@@ -1,0 +1,17 @@
+canonicalName: GMP License Restriction (Part 02)
+category: GMP License Restriction
+shortName: GMP-Restriction-Part-02
+
+type: reference
+
+alternativeNames:
+  - "GMP License Restriction (Part 02)"
+
+masks:
+  matches:
+      - "However to be able to use and link against libgnutls a program needs to be
+         available under a license compatible with LGPLv3+ or GPLv2+ since GnuTLS
+         requires nettle which requires GMP. GMP (>= 6.0.0) is dual licensed
+         LGPLv3+ or GPLv2+. Starting with 3.5.7 libunistring is needed, too. It also
+         is dual licensed LGPLv3+ or GPLv2+ (libunistring 0.9.7 and above, earlier
+         version were LGPLv3+ only.)"

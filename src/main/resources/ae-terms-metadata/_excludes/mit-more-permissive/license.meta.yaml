@@ -1,0 +1,14 @@
+canonicalName: MIT more permissive
+category: MIT more permissive
+shortName: MIT-more-permissive
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "MIT more permissive"
+
+masks:
+  matches:
+    - "This is more permissive than the previous LGPLv2 license and
+       is still compatible with the GPL and LGPL"

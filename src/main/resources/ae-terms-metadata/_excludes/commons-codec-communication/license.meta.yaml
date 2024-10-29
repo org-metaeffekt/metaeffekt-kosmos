@@ -1,0 +1,18 @@
+canonicalName: Apache Commons Codec Communication Reference
+category: Apache Commons Codec Communication
+shortName: Apache-Commons-Codec-Communication-Reference
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "Apache Commons Codec Communication Reference"
+
+masks:
+  matches:
+    - "How's this:
+       Copyright 2007 by Kevin Atkinson
+       Permission to use, copy, modify, distribute and sell the file"
+    - "I would suggest you use either the MIT/X11
+       licence or the 2 or 3 clause BSD licence, as both of these can be
+       combined with both the ASL 2.0 licence and GPL v2+ [2]"

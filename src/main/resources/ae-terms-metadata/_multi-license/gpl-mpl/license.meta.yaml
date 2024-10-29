@@ -1,0 +1,18 @@
+canonicalName: GNU General Public License (undefined) + Mozilla Public License (undefined)
+category: GPL-MPL
+shortName: GPL-MPL
+
+type: expression
+
+combinedWith:
+  "GNU General Public License (undefined)": GNU General Public License (undefined) + Mozilla Public License (undefined)
+  "Mozilla Public License (undefined)": GNU General Public License (undefined) + Mozilla Public License (undefined)
+
+alternativeNames:
+  - "either the MPL alone or the GPL alone"
+
+mappingOrder:
+  - "000"
+
+mappings:
+  "licenceseither": "licences either"

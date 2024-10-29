@@ -1,0 +1,62 @@
+canonicalName: BSD 3-Clause License (modification; copyright holder variant)
+category: BSD
+shortName: BSD-3-Clause-Modification-copyright-variant
+
+representedAs: BSD 3-Clause License
+
+requiresCopyright: true
+requiresLicenseText: true
+
+canonicalNameHistory:
+  - "BSD 3-Clause License Modification (copyright variant)"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without modification,
+       are permitted provided that the following conditions are met"
+    - "Redistributions in source code must retain the accompanying
+       copyright notice, this list of conditions, and the following disclaimer"
+    - "Redistributions in binary form must reproduce the accompanying copyright notice,
+       this list of conditions, and the following disclaimer in the documentation and/or
+       other materials provided with the distribution"
+    - "Name* must not be used to endorse or promote
+       products derived from this software without prior written permission from the copyright holders"
+    - "If any files are modified, you must cause the modified files to carry
+       prominent notices stating that you changed the files and the date of any change"
+    - "THIS SOFTWARE IS PROVIDED BY *\"AS IS\" AND ANY EXPRESSED OR
+       IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+       AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+    - "IN NO EVENT SHALL *BE LIABLE FOR ANY DIRECT, INDIRECT,
+       INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+       PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)"
+    - "HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+       OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+       EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
+  excludes:
+    - "The right to distribute this software or to use it for
+       any purpose does not give you the right to use
+       Servicemarks (sm) or Trademarks (tm) of the copyright
+       holders. Use of them is covered by separate agreement
+       with the copyright holders"
+
+licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification,
+                  are permitted provided that the following conditions are met:
+                  <ol><li>Redistributions in source code must retain the accompanying copyright notice,
+                  this list of conditions, and the following disclaimer.</li>
+                  <li>Redistributions in binary form must reproduce the accompanying copyright notice,
+                  this list of conditions, and the following disclaimer in the documentation and/or other
+                  materials provided with the distribution.</li>
+                  <li>Name{{variable3rdClause}} must not be used to endorse or promote products derived
+                  from this software without prior written permission from the copyright holders.</li>
+                  <li>If any files are modified, you must cause the modified files to carry prominent notices
+                  stating that you changed the files and the date of any change.</li></ol>
+                  <p>Disclaimer</p>
+                  <codeph>THIS SOFTWARE IS PROVIDED BY {{copyrightHolderNoWarranty}} \"AS IS\" AND ANY EXPRESSED OR IMPLIED WARRANTIES,
+                   INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+                   FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+                   IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+                   SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+                   OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+                   HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+                   TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+                   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></lq>"

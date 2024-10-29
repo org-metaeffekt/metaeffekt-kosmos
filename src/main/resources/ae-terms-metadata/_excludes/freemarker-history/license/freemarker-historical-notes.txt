@@ -1,0 +1,12 @@
+Historical notes
+----------------
+
+FreeMarker 1.x was released under the LGPL license. Later, by
+community consensus, we have switched over to a BSD-style license. As
+of FreeMarker 2.2pre1, the original author, Benjamin Geer, has
+relinquished the copyright in behalf of Visigoth Software Society.
+
+With FreeMarker 2.3.21 the license has changed to Apache License,
+Version 2.0, and the owner has changed from Visigoth Software Society
+to three of the FreeMarker 2.X developers, Attila Szegedi, Daniel
+Dekany, and Jonathan Revusky.

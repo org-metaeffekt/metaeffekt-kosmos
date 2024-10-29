@@ -1,0 +1,29 @@
+canonicalName: ANY + GNU General Public License (undefined)
+category: ANY+GPL
+shortName: ANY-OR-GPL-?
+
+type: expression
+
+combinedWith:
+  "GNU General Public License (undefined)": "ANY + GNU General Public License (undefined)"
+
+# compensated by combinedWith
+ignoreMatches:
+  - "GNU General Public License (undefined)"
+
+alternativeNames:
+  - "Alternatively, this software may be distributed under the terms of the GNU Public License"
+
+references:
+  "GPL":
+    matches:
+      - "under the terms of the GNU General Public
+         License (GPL), in which case the provisions of the GPL apply INSTEAD OF
+         those given above"
+
+evidence:
+  matches:
+    - "ALTERNATIVELY, provided that this notice is retained in full, this
+       product may be distributed under the terms of the GNU General Public
+       License (GPL), in which case the provisions of the GPL apply INSTEAD OF
+       those given above"

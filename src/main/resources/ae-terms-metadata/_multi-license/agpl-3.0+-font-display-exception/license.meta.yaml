@@ -1,0 +1,9 @@
+canonicalName: GNU Affero General Public License 3.0 (or any later version; with font display exception)
+category: AGPL+Autoconf
+shortName: AGPL-3.0+-Font-Display-Exception
+
+type: expression
+
+combinedWith:
+  "GNU Affero General Public License 3.0 (or any later version)": "GNU Affero General Public License 3.0 (or any later version; with font display exception)"
+  "Font Display Exception": "GNU Affero General Public License 3.0 (or any later version; with font display exception)"

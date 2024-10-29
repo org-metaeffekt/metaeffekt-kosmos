@@ -1,0 +1,26 @@
+canonicalName: Gettext Use Reference
+category: Gettext Use Reference
+shortName: Gettext-Use-Reference
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "Gettext Use Reference"
+
+references:
+  "GPL":
+    matches:
+    - "not available under the GNU General Public License or the GNU Library General Public
+       License but which still want to provide support for the GNU gettext"
+
+
+evidence:
+  matches:
+    - "This file can * be used in projects which are not available under
+       the GNU General Public License or the GNU Library General Public
+       License but which still want to provide support for the GNU gettext
+       functionality.
+       Please note that the actual code of the GNU gettext library is covered
+       by the GNU Library General Public License, and the rest of the GNU
+       gettext package * is covered by the GNU General Public License"

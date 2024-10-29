@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with UPX exception)
+category: GPL+UPX
+shortName: GPL-2.0+-UPX-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:gpl-2.0-plus-upx"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with UPX exception)
+  UPX Exception: GNU General Public License 2.0 (or any later version; with UPX exception)

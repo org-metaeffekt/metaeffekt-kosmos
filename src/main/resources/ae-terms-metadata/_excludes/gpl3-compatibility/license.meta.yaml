@@ -1,0 +1,20 @@
+canonicalName: GPL Compatibility GPL3
+category: GPL Reference
+shortName: GPL-Compatibility-GPL3
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "GPL Compatibility GPL3"
+
+references:
+  "GPL":
+    matches:
+    - "Note that  this license  is  compatible  to the  GNU General  Public
+           License version 3"
+
+evidence:
+  matches:
+    - "Note that  this license  is  compatible  to the  GNU General  Public
+           License version 3"

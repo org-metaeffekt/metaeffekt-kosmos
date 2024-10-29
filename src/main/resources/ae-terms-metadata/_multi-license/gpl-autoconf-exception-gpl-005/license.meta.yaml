@@ -1,0 +1,19 @@
+canonicalName: GNU General Public License (undefined; with Autoconf exception (GPL; variant 005))
+category: GPL+Autoconf
+shortName: GPL-Autoconf-Exception-GPL-005
+
+type: expression
+
+spdxExpression: "[GNU General Public License (undefined)] WITH [Autoconf Exception (GPL; variant 005)]"
+
+canonicalNameHistory:
+  - "GNU General Public License (undefined; with Autoconf Macro exception)"
+
+displayName:
+  "GNU General Public License (undefined; with Autoconf exception (variant 005))"
+
+representedAs: "GNU General Public License (undefined)"
+
+combinedWith:
+  "GNU General Public License (undefined)": "GNU General Public License (undefined; with Autoconf exception (GPL; variant 005))"
+  "Autoconf Exception (GPL; variant 005)": "GNU General Public License (undefined; with Autoconf exception (GPL; variant 005))"

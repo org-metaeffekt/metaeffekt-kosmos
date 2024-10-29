@@ -1,0 +1,20 @@
+canonicalName: Spring EPL Reference
+category: Spring EPL Reference
+shortName: Spring-EPL-Reference
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "Spring EPL Reference"
+
+references:
+  "EPL":
+    matches:
+      - "To the extent any open source subcomponents are licensed under the EPL"
+
+evidence:
+  matches:
+      - "To the extent any open source subcomponents are licensed under the EPL and/or
+         other similar licenses that require the source code and/or modifications to
+         source code to be made available"

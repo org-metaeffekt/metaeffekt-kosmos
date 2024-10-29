@@ -1,0 +1,23 @@
+canonicalName: Nokia Copyright Exclude
+category: Nokia Copyright Exclude
+shortName: Nokia-Copyright-Exclude
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "Nokia Copyright Exclude"
+
+# in some debian copyright files (i.e. perl) the scan detects the Nokia license due to an unfortunate
+# combination of copyright content and license separator. This exclude is to eliminate this false detection.
+
+# using regular expression (on normalized string) for explicit detection.
+
+references:
+  "Nokia License":
+    matches:
+      - "^Copyright : [0-9]* , Nokia License :"
+
+evidence:
+  matches:
+      - "^Copyright : [0-9]* , Nokia License :"

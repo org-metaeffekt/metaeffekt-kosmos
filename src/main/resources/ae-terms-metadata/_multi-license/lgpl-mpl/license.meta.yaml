@@ -1,0 +1,14 @@
+canonicalName: GNU Lesser General Public License (undefined) + Mozilla Public License (undefined)
+category: LGPL-MPL
+shortName: LGPL-MPL
+
+type: expression
+
+combinedWith:
+  "GNU Lesser General Public License (undefined)": GNU Lesser General Public License (undefined) + Mozilla Public License (undefined)
+  "Mozilla Public License (undefined)": GNU Lesser General Public License (undefined) + Mozilla Public License (undefined)
+
+alternativeNames:
+  - "LGPL and the MPL"
+
+

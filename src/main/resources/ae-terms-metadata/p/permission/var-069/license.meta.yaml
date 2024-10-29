@@ -1,0 +1,59 @@
+canonicalName: Permission Terms (variant 069)
+category: Permission
+shortName: PT-Var069
+
+status:
+  - "reviewed 30.12.2021"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+
+displayName: "Permission Terms"
+representedAs: Permission Terms
+
+canonicalNameHistory:
+  - "Permission Terms Var069"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of charge, to any person
+       obtaining a copy of this software and associated documentation files
+       (the \"Software\"), to deal in the Software without restriction,
+       including without limitation the rights to use, copy, modify, merge,
+       publish, distribute, sublicense, and/or sell copies of the Software,
+       and to permit persons to whom the Software is furnished to do so,
+       subject to the following conditions"
+    - "The above copyright notice and this permission notice shall be
+       included in all copies or substantial portions of the Software"
+  excludes:
+    - "IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+       DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+       OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+       OR OTHER DEALINGS IN THE SOFTWARE"
+    - "THE SOFTWARE IS PROVIDED \"AS-IS\" AND WITHOUT WARRANTY OF ANY KIND,
+       EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY
+       WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+       OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+       FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
+    - "IN NO EVENT SHALL THE AUTHOR
+       OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+       EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+       PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+       BUSINESS INTERRUPTION)"
+    - "In no event shall the authors or copyright holders be liable for any claim, damages or other liability,
+       whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software 
+       or the use or other dealings in the software"
+    - "THIS SOFTWARE IS PROVIDED \"AS-IS\" AND WITHOUT WARRANTY OF ANY KIND,
+        EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY
+        WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE"
+    - "Carnegie Mellon, CERT and CERT Coordination Center are registered in the U.S. Patent and Trademark Office by Carnegie Mellon University"
+    
+licenseTemplate: "<lq>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
+                  associated documentation files (the \"Software\"), to deal in the Software without restriction,
+                  including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+                  and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,
+                  subject to the following conditions:<p/>
+                  The above copyright notice and this permission notice shall be included in all copies or substantial 
+                  portions of the Software.</lq>"

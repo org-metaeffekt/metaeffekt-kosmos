@@ -1,0 +1,30 @@
+canonicalName: GMP License Restriction (Part 01)
+category: GMP License Restriction
+shortName: GMP-Restriction-Part-01
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "GMP License Restriction (Part 01)"
+
+references:
+  "LGPL":
+    matches:
+      - "Note, however, that version 6.0.0 and later of the gmplib library used
+         by GnuTLS are distributed under a LGPLv3+ or GPLv2+ dual license, and
+         as such binaries of this library need to adhere to either LGPLv3+ or
+         GPLv2+ license"
+  "GPL":
+    matches:
+      - "Note, however, that version 6.0.0 and later of the gmplib library used
+         by GnuTLS are distributed under a LGPLv3+ or GPLv2+ dual license, and
+         as such binaries of this library need to adhere to either LGPLv3+ or
+         GPLv2+ license"
+
+evidence:
+  matches:
+      - "Note, however, that version 6.0.0 and later of the gmplib library used
+         by GnuTLS are distributed under a LGPLv3+ or GPLv2+ dual license, and
+         as such binaries of this library need to adhere to either LGPLv3+ or
+         GPLv2+ license"

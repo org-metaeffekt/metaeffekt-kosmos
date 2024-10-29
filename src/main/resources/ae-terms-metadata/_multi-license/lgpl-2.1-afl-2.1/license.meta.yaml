@@ -1,0 +1,13 @@
+canonicalName: GNU Lesser General Public License 2.1 + Academic Free License 2.1
+category: LGPL-AFL
+shortName: LGPL-2.1-AFL-2.1
+
+type: expression
+
+alternativeNames:
+  - "under the terms of either the GNU Lesser General Public License Version 2 or the Academic Free Licence Version 2.1"
+  
+combinedWith:
+  "GNU Lesser General Public License 2.1": GNU Lesser General Public License 2.1 + Academic Free License 2.1
+  "GNU Lesser General Public License (undefined)": GNU Lesser General Public License 2.1 + Academic Free License 2.1
+  "Academic Free License 2.1": GNU Lesser General Public License 2.1 + Academic Free License 2.1

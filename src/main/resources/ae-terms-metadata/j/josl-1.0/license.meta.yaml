@@ -7,8 +7,8 @@ otherIds:
   - "osi:JOSL-1.0"
 
 # FIXME-REVIEW
-#expectedMatches:
-#  - "Open Source Portfolio License 1.0"
+expectedMatches:
+  - "Open Source Portfolio License 1.0"
 
 alternativeNames:
   - "http://www.opensource.org/licenses/jabberpl.php"

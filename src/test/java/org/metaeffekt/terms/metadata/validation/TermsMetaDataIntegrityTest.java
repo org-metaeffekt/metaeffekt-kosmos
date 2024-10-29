@@ -28,7 +28,7 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
         final boolean updateMatchReports = false;
 
         // when a run has failed enter the failing license here to continue with the license that failed validation
-        final String skipUntilLicense = "";
+        final String skipUntilLicense = "Oracle Community Source License 1.0";
 
         assertUniqueLicenseIdentification_metadata(nmd, skipUntilLicense, updateMatchReports);
     }

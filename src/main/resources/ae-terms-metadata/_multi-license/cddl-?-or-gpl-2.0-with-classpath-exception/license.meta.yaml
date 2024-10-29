@@ -1,0 +1,21 @@
+canonicalName: CDDL (undefined) + GNU General Public License 2.0 (with classpath exception)
+category: CDDL-GPL
+shortName: CDDL-?-or-GPL-2.0-with-classpath-exception
+
+type: expression
+
+canonicalNameHistory:
+  - "CDDL (undefined) + GNU General Public License 2.0 (with classpath exception 2.0)"
+
+combinedWith:
+  "GNU General Public License 2.0": "CDDL (undefined) + GNU General Public License 2.0 (with classpath exception)"
+  "CDDL 1.0": "CDDL 1.0 + GNU General Public License 2.0 (with classpath exception)"
+  "CDDL 1.1": "CDDL 1.1 + GNU General Public License 2.0 (with classpath exception)"
+  "CDDL (undefined)": "CDDL (undefined) + GNU General Public License 2.0 (with classpath exception)"
+
+alternativeNames:
+  - "The contents of this file are subject to the terms of either the GNU General Public License Version 2 only
+     (\"GPL\") or the Common Development and Distribution License(\"CDDL\")"
+  - "CDDL + GPLv2 with classpath exception"
+
+

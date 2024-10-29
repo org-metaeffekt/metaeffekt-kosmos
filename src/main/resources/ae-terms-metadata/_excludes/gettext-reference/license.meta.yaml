@@ -1,0 +1,32 @@
+canonicalName: Gettext Reference
+category: Gettext Reference
+shortName: Gettext-Reference
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "Gettext Reference"
+
+references:
+  "Apache License":
+    matches:
+    - "Of course you have to respect the GNU Lesser General Public
+       License which covers the use of the GNU 'gettext' library"
+  "GPL":
+    matches:
+    - "Of course you have to respect the GNU Lesser General Public
+       License which covers the use of the GNU 'gettext' library"
+  "LGPL":
+    matches:
+    - "Of course you have to respect the GNU Lesser General Public
+       License which covers the use of the GNU 'gettext' library"
+  "Artistic License":
+    matches:
+    - "Of course you have to respect the GNU Lesser General Public
+       License which covers the use of the GNU 'gettext' library"
+
+evidence:
+  matches:
+    - "Of course you have to respect the GNU Lesser General Public
+       License which covers the use of the GNU 'gettext' library"

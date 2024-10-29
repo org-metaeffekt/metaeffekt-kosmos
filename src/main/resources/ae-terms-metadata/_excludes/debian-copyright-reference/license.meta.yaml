@@ -1,0 +1,18 @@
+canonicalName: Copyright Reference
+category: Copyright Reference
+shortName: Debian-Copyright-Reference
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "Copyright Reference"
+
+references:
+  "MIT":
+    matches:
+    - "This code is released under the MIT Licence see the Copyright file"
+
+evidence:
+  matches:
+    - "This code is released under the MIT Licence see the Copyright file"

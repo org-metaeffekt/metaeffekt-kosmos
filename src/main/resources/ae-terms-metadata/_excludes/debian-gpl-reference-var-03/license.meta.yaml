@@ -1,0 +1,20 @@
+canonicalName: Debian GPL Reference (variant 003)
+category: Debian GPL Reference
+shortName: Debian-GPL-Reference-Var3
+
+ignore: true
+type: reference
+
+canonicalNameHistory:
+  - "Debian GPL Reference Var3"
+
+references:
+  "GPL":
+    matches:
+    - "On Debian GNU/Linux systems, the text of the GNU General Public License,
+        version 2 can be found in `/usr/share/common-licenses/GPL-2'"
+
+evidence:
+  matches:
+    - "On Debian GNU/Linux systems, the text of the GNU General Public License,
+       version 2 can be found in"

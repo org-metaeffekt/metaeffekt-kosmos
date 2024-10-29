@@ -1,0 +1,12 @@
+canonicalName: Apache License 2.0 + BSD (undefined)
+category: Apache-BSD
+shortName: Apache-2.0-BSD
+
+type: expression
+
+alternativeNames:
+  - "This file is dual licensed under the terms of the Apache License, Version 2.0, and the BSD License"
+  
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 + BSD (undefined)
+  "BSD (undefined)": Apache License 2.0 + BSD (undefined)

@@ -1,0 +1,7 @@
+Alternatively, the contents of this file may be used under the terms of the
+LGPL license (the GNU LIBRARY GENERAL PUBLIC LICENSE)
+
+This library is free software; you can redistribute it and/or modify it
+under the terms of the MPL as stated above or under the terms of the GNU
+Library General Public License as published by the Free Software Foundation;
+either version 2 of the License, or any later version.

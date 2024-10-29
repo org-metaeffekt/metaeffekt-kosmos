@@ -1,0 +1,16 @@
+canonicalName: GNU General Public License (undefined; with Autoconf exception)
+category: GPL+Autoconf
+shortName: GPL-Autoconf-Exception-?
+
+type: expression
+
+unspecific: true
+
+alternativeNames:
+  - "GNU General Public License (undefined; with Autoconf exception)"
+
+representedAs: "GNU General Public License (undefined)"
+
+combinedWith:
+  "GNU General Public License (undefined)": "GNU General Public License (undefined; with Autoconf exception)"
+  "Autoconf Exception": "GNU General Public License (undefined; with Autoconf exception)"

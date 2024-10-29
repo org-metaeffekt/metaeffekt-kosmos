@@ -1,0 +1,18 @@
+canonicalName: GPL Reference GPL2
+category: GPL Reference
+shortName: GPL-Reference-GPL2
+
+ignore: true
+type: reference
+
+alternativeNames:
+  - "GPL Reference GPL2"
+
+references:
+  "GPL":
+    matches:
+    - "The GNU General Public License v2 text is contained in /usr/share/common-licenses/GPL-3"
+
+evidence:
+  matches:
+    - "The GNU General Public License v2 text is contained in /usr/share/common-licenses/GPL-2."

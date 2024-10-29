@@ -1,0 +1,5 @@
+ALTERNATIVELY, this product may be distributed under the terms of
+LGPLv2+, in which case the provisions of the LGPL are
+required INSTEAD OF the above restrictions.  (This clause is
+necessary due to a potential bad interaction between the LGPL and
+the restrictions contained in a BSD-style copyright.)

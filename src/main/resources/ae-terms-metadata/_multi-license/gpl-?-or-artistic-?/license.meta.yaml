@@ -1,0 +1,16 @@
+canonicalName: GNU General Public License (undefined) + Artistic License (undefined)
+category: GPL+Artistic
+shortName: GPL-?-OR-Artistic-?
+
+type: expression
+
+unspecific: true
+
+alternativeNames:
+  - "You may distribute this work under the terms of either the GNU General Public License or the Artistic License"
+  - "You may distribute under the terms of either the GNU General Public License or the Artistic License as specified in the README file"
+  
+combinedWith:
+  "Artistic License (undefined)": GNU General Public License (undefined) + Artistic License (undefined)
+  "GNU General Public License (undefined)": GNU General Public License (undefined) + Artistic License (undefined)
+

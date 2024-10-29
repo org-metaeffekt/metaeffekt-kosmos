@@ -1,0 +1,20 @@
+canonicalName: Debian GPL Reference (variant 002)
+category: Debian GPL Reference
+shortName: Debian-GPL-Reference-Var2
+
+ignore: true
+type: reference
+
+canonicalNameHistory:
+  - "Debian GPL Reference Var2"
+
+references:
+  "GPL":
+    matches:
+    - "On Debian systems the GNU General Public License (GPL) version 2 is located on
+       the filesystem at /usr/share/common-licenses/GPL-2"
+
+evidence:
+  matches:
+    - "On Debian systems the GNU General Public License (GPL) version 2 is located on
+       the filesystem at"

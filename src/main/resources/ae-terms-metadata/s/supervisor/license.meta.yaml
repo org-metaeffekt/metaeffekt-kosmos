@@ -7,9 +7,9 @@ otherIds:
 
 # FIXME-REVIEW
 expectedMatches:
-#  - "BSD 3-Clause License (modification)"
+  - "BSD 3-Clause License (modification)"
   - "BSD 3-Clause License (copyright holder variant)"
-#  - "Disclaimer (variant 001)"
+  - "Disclaimer (variant 001)"
   - "Permission Terms CWI"
   - "Python Software Foundation License (undefined)"
   - "Zope Public License 2.1"
