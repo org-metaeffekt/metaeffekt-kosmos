@@ -14,8 +14,6 @@
 
         <ae.core.version>0.125.0</ae.core.version>
         <ae.artifact.analysis.version>0.125.0</ae.artifact.analysis.version>
-        <artifact.inventory.version>${ae.core.version}</artifact.inventory.version>
-        <artifact.inventory.enabled>true</artifact.inventory.enabled>
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>

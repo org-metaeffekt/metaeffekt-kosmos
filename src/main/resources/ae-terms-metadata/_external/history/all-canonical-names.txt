@@ -304,11 +304,11 @@ BSD 3-Clause Clear License (copyright variant)
 BSD 3-Clause Flex variant
 BSD 3-Clause License
 BSD 3-Clause License (acpica)
+BSD 3-Clause License (Atmel Microcontroller)
+BSD 3-Clause License (Atmel)
 BSD 3-Clause License (attribution)
 BSD 3-Clause License (attribution; copyright holder variant)
 BSD 3-Clause License (attribution; copyright variant)
-BSD 3-Clause License (Atmel Microcontroller)
-BSD 3-Clause License (Atmel)
 BSD 3-Clause License (Axis)
 BSD 3-Clause License (clear)
 BSD 3-Clause License (clear; copyright holder variant)
@@ -436,9 +436,9 @@ BSD Distributed Processing Technology License
 BSD License (source distribution obligation)
 BSD Mylex License
 BSD Protection License
-BSD Systemics W3Works License
 BSD Source Code Attribution
 BSD Source Code License
+BSD Systemics W3Works License
 BSD Zero Clause License
 BSD-2-Clause
 BSD-3 Clause License (with addition and missing disclaimer parts)
@@ -2066,6 +2066,7 @@ NucleusIcons EULA
 Numerical Recipes Notice
 NVIDIA 2002 Proprietary License
 NVIDIA APEX SDK EULA
+NVIDIA Deep Learning Container License 2021
 NVIDIA ISAAC EULA
 NVIDIA License (government qualifications)
 NVIDIA License with Government Qualifications
@@ -2075,6 +2076,8 @@ NVIDIA Software License (SDK)
 NVIDIA User Notice
 NVIDIA Video Codec SDK Agreement
 NVIDIA Video Codec SDK License
+NXLOG Public License 1.0
+NXLOG Public License v1.0
 NXP Firmware License
 NXP Linux Firmware License
 NXP MC Firmware License
@@ -2154,11 +2157,14 @@ Open Software License 1.1
 Open Software License 2.0
 Open Software License 2.1
 Open Software License 3.0
+Open Sourced Vulnerability Database (OSVDB) License
 Open Use of Data Agreement 1.0
 Open Web Foundation Final Specification Agreement 1.0
 Open Web Foundation Final Specification Agreement 1.0 (Patent Only)
 Open Weights Permissive License 1.0.0
 Open Weights Permissive License Version 1.0.0
+Open Works License 0.9.4
+Open Works License v0.9.4
 OpenAI Terms of Use 20230314
 OpenBD Exception (GPL 3.0)
 OpenBD Exception (GPL)
@@ -2322,6 +2328,9 @@ Permission Terms (Intel Corporation)
 Permission Terms (ITU/ISO/IEC)
 Permission Terms (Kazlib)
 Permission Terms (Latex2e notice permission)
+Permission Terms (MIT old style variant 002)
+Permission Terms (MIT old style variant 003)
+Permission Terms (MIT old style variant 004)
 Permission Terms (Modified MIT License for Public Domain)
 Permission Terms (Netrek)
 Permission Terms (Nettrek)
@@ -2341,6 +2350,7 @@ Permission Terms (Python CWI)
 Permission Terms (Realmode)
 Permission Terms (RSA-MD; no representation; no warranty)
 Permission Terms (RUC)
+Permission Terms (SEI)
 Permission Terms (SL)
 Permission Terms (Southampton IT Innovation Centre)
 Permission Terms (sRGB)
@@ -2548,7 +2558,9 @@ Red Hat Enterprise Linux EULA
 Red Hat EULA JBoss Enterprise Middleware License
 Red Hat GNU General Public License 2.0-Based EULA
 Red Hat Logos License
+Red Hat Standard End User License Agreement
 Red Hat Trademarks License
+Red Hat Universal Base Image EULA
 Redis Source Available License Agreement 1.0
 Redis Source Available License Agreement 2.0
 Redistribution Terms
@@ -2576,9 +2588,13 @@ Redistribution Terms Var018
 Redistribution Terms Var5
 Redistribution Terms Var6
 Redistribution Terms Var7
+Redpanda Community License Agreement
 Regexp License
 Reponsible AI Source Code License 1.0
 Reponsible AI Source Code License 1.1
+Research Software Disclaimer
+Responsible AI Source Code License 1.0
+Responsible AI Source Code License 1.1
 Restricted Artificial Intelligence License (RAIL) (version; 1.0)
 Restricted Artificial Intelligence License 1.0
 RHeCos License 1.1
@@ -2668,6 +2684,8 @@ Sendmail License 8.13
 Sendmail License 8.16
 Sendmail License 8.23
 Sendmail License 8.23 (variant 001)
+Sendmail Open Source License 1.1
+Sendmail Open Source License v1.1
 Server Handler Exception
 Server Side Public License 1.0
 Server Side Public License 1.0 (with OpenSSL Linking Exception (SSPL))
@@ -2719,6 +2737,8 @@ SoftFloat Legal Notice
 SoftFloat Legal Notice (with Prominent Notice)
 SoftFloat Legal Notice 2c
 softSurfer License
+Software for Open Models License (SOM) 1.0
+Software for Open Models License 1.0
 Software Grant & Corporate Contributor License Agreement 1.0
 Software Grant and Corporate Contributor License Agreement 1.0
 Software Heritage Contributor License Agreement 1.1
@@ -2768,7 +2788,12 @@ strongSwan Exception
 Stu Nicholls License
 stunnel Exception
 SugarCRM License 1.1.3
+Sun BCL J2RE 5.0
 Sun BCL Java Servlet Implementation Classes 2.1.1
+Sun BCL JavaHelp
+Sun BCL JIMI SDK
+Sun BCL JRE 6
+Sun BCL JSMQ
 Sun Binary Code License 11-06
 Sun Binary Code License 11-07
 Sun Binary Code License J2RE 1.2.X
@@ -2900,9 +2925,9 @@ Trolltech Exception 1.2 (GPL)
 TrueCrypt License 3.1
 Truly Free License
 Trusster Open Source License
-TrustedQSL License
 Trusted Computing Group Spec License 1.0
 Trusted Computing Group Spec License 2.0
+TrustedQSL License
 Trustonic Proprietary License 2013
 TTWL Tabs
 TTYP0 License
@@ -3058,8 +3083,8 @@ X11-Style (OAR)
 X11-Style (Quarterdeck)
 X11-Style (Silicon Graphics)
 X11-Style (Stanford University)
-X11-Style (Tektronix)
 X11-Style (swapped)
+X11-Style (Tektronix)
 X11-Style (Xilinx)
 x11vnc OpenSSL Exception
 Xceed Community License 2021
