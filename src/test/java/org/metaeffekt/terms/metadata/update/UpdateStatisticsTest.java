@@ -6,7 +6,6 @@ import java.io.File;
 
 public class UpdateStatisticsTest {
 
-
     @Test
     public void updateStatistics() {
         new TermsMetaDataStatistics().updateLicenseStatistics(

@@ -1,0 +1,99 @@
+canonicalName: BSD 3-Clause License (variant 001)
+category: BSD
+shortName: BSD-3-Clause-001
+
+representedAs: BSD 3-Clause License
+
+canonicalNameHistory:
+  - "BSD 3-Clause License Var001"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+mappings:
+  "ARISING IN ANY WAY OUT OF THE USE OF THIS OFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE":
+    "ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
+  "derived from this software withough specific prior written permission":
+    "derived from this software without specific prior written permission"
+  "this list of conditions and the following disclaimer in theNEWLINE-MARKER the documentation":
+    "this list of conditions and the following disclaimer inNEWLINE-MARKER the documentation"
+  "Copyright \\(C\\) 1999,2000 by Eric Sunshine <sunshine@sunshineco.com>NEWLINE-MARKERCopyright \\(C\\) 2001-2005 by Thomas Winischhofer, Vienna, Austria.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERAll rights reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERRedistribution and use in source and binary forms, with or withoutNEWLINE-MARKERmodification, are permitted provided that the following": " LICENSE-SEGMENT-MARKER Copyright (C) 1999,2000 by Eric Sunshine <sunshine@sunshineco.com>NEWLINE-MARKERCopyright (C) 2001-2005 by Thomas Winischhofer, Vienna, Austria.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERAll rights reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERRedistribution and use in source and binary forms, with or withoutNEWLINE-MARKERmodification, are permitted provided that the following"
+
+alternativeNames:
+  - "This file is a 1:1 port from the OpenBSD blowfish.c"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary form* with or without
+       modification, are permitted provided that the following conditions are
+       met"
+    - "Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in
+       the documentation and/or other materials provided with the
+       distribution"
+    - "The name* may not be used to
+       endorse or promote products derived from this software without
+       specific prior written permission"
+    - "THIS SOFTWARE IS PROVIDED BY *``AS IS'' AND ANY EXPRESS OR
+       IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+       WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+       DISCLAIMED"
+    - "IN NO EVENT SHALL *BE LIABLE FOR ANY DIRECT,
+       INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+       (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+       SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)"
+    - "HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+       STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+       IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+       POSSIBILITY OF SUCH DAMAGE"
+  excludes:
+    - "All advertising materials mentioning features or use of this software must display the following acknowledgement"
+    - "You may make and give away verbatim copies of the source form of the Standard
+       Version of this Package without restriction"
+    - "Altered source versions must be plainly marked as such" # bzip 1.0.6
+    - "All modifications to the source code must be clearly marked as such"
+    - "and the entire permission notice in its entirety"
+    - "This software may only be redistributed and used in connection with an 
+       Atmel microcontroller product"
+    - "Changes to this license can be made only by the copyright author with 
+       explicit written consent"
+    - "Where this Software is combined with software released under the terms of 
+       the GNU General Public License (\"GPL\") and the terms of the GPL would require the
+       combined work to also be released under the terms of the GPL, the terms
+       and conditions of this License will apply in addition to those of the
+       GPL with the exception of any terms or conditions of this License that
+       conflict with, or are expressly prohibited by, the GPL"
+    - "THIS SOFTWARE IS NOT FAULT TOLERANT AND SHOULD NOT BE USED IN ANY
+       SITUATION ENDANGERING HUMAN LIFE OR PROPERTY"
+
+standardVariableSet:
+  variable3rdClause: "(s) of the authors of this software"
+  authorNoWarranty: "BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS"
+  authorNoLiability: "THE COPYRIGHT HOLDERS OR CONTRIBUTORS"
+
+licenseTemplate: 
+  "<lq>Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions are
+   met:
+   <ol><li>Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.</li>
+   <li>Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.</li>
+   <li>The name{{variable3rdClause}} may not be used to
+   endorse or promote products derived from this software without
+   specific prior written permission.</li></ol>
+   <codeph>THIS SOFTWARE IS PROVIDED BY {{authorNoWarranty}} ``AS IS'' AND ANY EXPRESS OR
+   IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+   WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+   DISCLAIMED. IN NO EVENT SHALL {{authorNoLiability}} BE LIABLE FOR ANY DIRECT,
+   INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+   (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+   SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+   HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+   STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+   IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+   POSSIBILITY OF SUCH DAMAGE.</codeph></lq>"

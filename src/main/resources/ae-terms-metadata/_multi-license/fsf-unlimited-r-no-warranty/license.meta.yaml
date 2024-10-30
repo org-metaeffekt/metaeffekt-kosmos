@@ -1,0 +1,10 @@
+canonicalName: FSF Unlimited License (with retention; no warranty)
+category: FSF Unlimited
+shortName: FSFULLR-no-warranty
+
+type: expression
+
+combinedWith:
+  "FSF Unlimited License (with retention)": "FSF Unlimited License (with retention; no warranty)"
+  "No Warranty Marker": "FSF Unlimited License (with retention; no warranty)"
+   

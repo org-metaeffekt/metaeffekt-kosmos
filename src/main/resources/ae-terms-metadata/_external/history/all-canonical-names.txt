@@ -4,6 +4,7 @@
 4Suite License 1.1
 Aardvark I2C/SPI Software and Firmware License 2014
 Abstyles License
+Academic Free License (undefined)
 Academic Free License 1.1
 Academic Free License 1.2
 Academic Free License 2.0
@@ -58,6 +59,7 @@ Agilio Firmware License Agreement
 Ago Private License 1.0
 AGPL 3.0 Linking Exception
 AGPL Generic Additional Terms
+Aladdin Free Public License (undefined)
 Aladdin Free Public License 8.0
 Aladdin Free Public License 9.0
 Alasir Licence
@@ -91,16 +93,20 @@ Anti-Capitalist Software License 1.4
 Anti-Captialist Software License 1.4
 ANTLR Software Rights Notice
 ANTLR Software Rights Notice (with fallback)
+ANY + GNU General Public License (undefined)
 ANY + GNU General Public License 2.0
 ANY + GNU General Public License 2.0 (or any later version)
 ANY + GNU General Public License 2.0 (Variant 001)
+ANY + GNU Library General Public License 2.0 (or any later version)
 Any OSI License
 Any Source Available License 1.0
 Anyone But Richard Stallman License
 Apache 2.0 (with LLVM exception (Apache))
 Apache 2.0 (with LLVM exception)
 Apache 2.0 Linking Exception
+Apache Commons Codec Communication Reference
 Apache Due Credit Variant
+Apache License (undefined)
 Apache License 1.0
 Apache License 1.1
 Apache License 1.1 (Phorum)
@@ -109,6 +115,7 @@ Apache License 2.0 (with exceptions)
 Apache License 2.0 (with Fujion Clinical Exception (Apache 2.0))
 Apache License 2.0 (with LLVM exception)
 Apache License 2.0 + Boost Software License 1.0
+Apache License 2.0 + BSD (undefined)
 Apache License 2.0 + Eclipse Public License 1.0
 Apache License 2.0 + GNU General Public License 2.0
 Apache License 2.0 + GNU Lesser General Public License 2.1 (or any later version)
@@ -148,11 +155,13 @@ ARM Cortex-Mx Proprietary
 ARM LLVM Software Grant License Agreement
 Arphic Public License 1999
 Array Input Method Public License
+Artistic License (undefined)
 Artistic License 1.0
 Artistic License 1.0 (cl8)
 Artistic License 1.0 (Perl)
 Artistic License 2.0
 Artistic License 2.0 beta4
+Artistic Reference
 Artop Software License
 Artop Software License (preparatory development)
 Ascender Corporation End User License
@@ -176,15 +185,20 @@ Australian Public License B 1.0
 Australian Public License B 1.1
 AuthorizeNet Software Development Kit (SDK) License
 Authors View Marker
+Autoconf Exception
+Autoconf Exception (GPL)
 Autoconf Exception (GPL; variant 001)
 Autoconf Exception (GPL; variant 002)
 Autoconf Exception (GPL; variant 003)
 Autoconf Exception (GPL; variant 004)
+Autoconf Exception (GPL; variant 005)
+Autoconf Exception 2.0
 Autoconf Exception 2.0 (variant 001)
 Autoconf Exception 2.0 Var001
 Autoconf Exception 3.0
 Autoconf Exception 3.0 (variant 001)
 Autoconf Exception 3.0 Var001
+Autoconf Macro Exception
 Autoconf Simple Exception 2.0
 Autodesk 3D Studio File Toolkit License 3.0
 Autoit EULA
@@ -265,6 +279,10 @@ Broadcom WICED Development Kit License Agreement
 Broadleaf Fair Use License Agreement 1.0
 Brocade Firmware License
 Bruno Podetti License
+BSD (undefined)
+BSD (undefined) + GNU General Public License (undefined)
+BSD (undefined) + GNU General Public License 2.0
+BSD (undefined) + GNU Library General Public License 2.0 (or any later version)
 BSD 1-Clause Build System License
 BSD 1-Clause Clear License
 BSD 1-Clause License
@@ -282,6 +300,8 @@ BSD 2-Clause License (copyright variant)
 BSD 2-Clause License (Intel)
 BSD 2-Clause License (no disclaimer)
 BSD 2-Clause License (no modification; no disclaimer)
+BSD 2-Clause License (patent)
+BSD 2-Clause License (patent; copyright holder variant)
 BSD 2-Clause License (Red Hat)
 BSD 2-Clause License (Simplified Darwin)
 BSD 2-Clause License (unchanged)
@@ -295,6 +315,8 @@ BSD 2-Clause License (with authors view)
 BSD 2-Clause License + MIT License
 BSD 2-Clause License Var004
 BSD 2-Clause License Var007
+BSD 2-Clause Patent License
+BSD 2-Clause Patent License (copyright variant)
 BSD 3-Clause (Flex)
 BSD 3-Clause (GPL addition)
 BSD 3-Clause (JGraph)
@@ -325,13 +347,21 @@ BSD 3-Clause License (Lawrence Berkeley National Labs)
 BSD 3-Clause License (Lawrence Berkeley National Labs; copyright holder variant)
 BSD 3-Clause License (Lawrence Berkeley National Labs; copyright variant)
 BSD 3-Clause License (mark modification)
+BSD 3-Clause License (modification)
 BSD 3-Clause License (modification; copyright holder variant 001)
+BSD 3-Clause License (modification; copyright holder variant)
+BSD 3-Clause License (no military use)
+BSD 3-Clause License (no military use; copyright holder variant)
 BSD 3-Clause License (no modification)
+BSD 3-Clause License (no nuclear use)
+BSD 3-Clause License (no nuclear use; copyright holder variant)
 BSD 3-Clause License (no nuclear use; disclaimer variant)
 BSD 3-Clause License (no nuclear use; disclaimer variant; copyright holder variant)
 BSD 3-Clause License (no nuclear warranty)
 BSD 3-Clause License (no nuclear warranty; copyright variant)
 BSD 3-Clause License (no trademark)
+BSD 3-Clause License (no-nuclear use acknowledgement 2014)
+BSD 3-Clause License (no-nuclear use acknowledgement 2014; copyright variant)
 BSD 3-Clause License (not intended for nuclear use)
 BSD 3-Clause License (not intended for nuclear use; copyright holder variant)
 BSD 3-Clause License (NumPy)
@@ -344,6 +374,8 @@ BSD 3-Clause License (source header; variant 001)
 BSD 3-Clause License (Sun Microsystems)
 BSD 3-Clause License (Tcpdump Group)
 BSD 3-Clause License (TwistedSNMP)
+BSD 3-Clause License (variant 001)
+BSD 3-Clause License (variant 001; with Far Manager Exception)
 BSD 3-Clause License (variant 007)
 BSD 3-Clause License (variant 008)
 BSD 3-Clause License (variant 011)
@@ -353,6 +385,7 @@ BSD 3-Clause License (variant 037)
 BSD 3-Clause License (variant 038)
 BSD 3-Clause License (variant 039)
 BSD 3-Clause License (variant 040)
+BSD 3-Clause License (variant 041)
 BSD 3-Clause License (variant 043)
 BSD 3-Clause License (variant 047)
 BSD 3-Clause License (variant 049)
@@ -380,6 +413,9 @@ BSD 3-Clause License + GNU General Public License 3.0 (or any later version)
 BSD 3-Clause License + GNU Lesser General Public License 2.1 (or any later version)
 BSD 3-Clause License + GNU Lesser General Public License 2.1 + MIT License
 BSD 3-Clause License + MIT License
+BSD 3-Clause License Modification
+BSD 3-Clause License Modification (copyright variant)
+BSD 3-Clause License Var001
 BSD 3-Clause License Var007
 BSD 3-Clause License Var008
 BSD 3-Clause License Var011
@@ -389,6 +425,7 @@ BSD 3-Clause License Var037
 BSD 3-Clause License Var038
 BSD 3-Clause License Var039
 BSD 3-Clause License Var040
+BSD 3-Clause License Var041
 BSD 3-Clause No Nuclear License
 BSD 3-Clause No Nuclear License (copyright variant)
 BSD 4-Clause License
@@ -430,6 +467,10 @@ BSD alike
 BSD alike (AES)
 BSD alike (display obligation)
 BSD Alike (Energy Plus)
+BSD alike + GNU General Public License (undefined)
+BSD alike + GNU General Public License (undefined) 002
+BSD alike + GNU General Public License 2.0
+BSD alike + GNU Library General Public License 2.0 (or any later version)
 BSD Artwork License
 BSD Brian Clapper License
 BSD Distributed Processing Technology License
@@ -438,6 +479,7 @@ BSD Mylex License
 BSD Protection License
 BSD Source Code Attribution
 BSD Source Code License
+BSD Style Reference
 BSD Systemics W3Works License
 BSD Zero Clause License
 BSD-2-Clause
@@ -451,6 +493,7 @@ BugSense SDK License
 Business Source License 1.0
 Business Source License 1.1
 BYTEmark License
+bzip2 License
 bzip2 License 1.0.5
 bzip2 License 1.0.6
 C/Migemo License
@@ -474,10 +517,18 @@ Cavium Software License Agreement
 Cavium Targeted Hardware License
 CC + Corporate Accountability Lab
 CC0 1.0 Public Domain Dedication
+CC0 Universal (undefined)
 CC0 Universal 1.0
 CCLRC License
+CDDL (undefined)
+CDDL (undefined) + GNU General Public License 2.0 (with classpath exception 2.0)
+CDDL (undefined) + GNU General Public License 2.0 (with classpath exception)
 CDDL 1.0
+CDDL 1.0 + GNU General Public License 2.0 (with classpath exception 2.0)
+CDDL 1.0 + GNU General Public License 2.0 (with classpath exception)
 CDDL 1.1
+CDDL 1.1 + GNU General Public License 2.0 (with classpath exception 2.0)
+CDDL 1.1 + GNU General Public License 2.0 (with classpath exception)
 CeCILL B License
 CeCILL C License
 CeCILL Free Software License Agreement 1.0
@@ -553,6 +604,8 @@ Common Development and Distribution License 1.1
 Common Lisp Generic LOOP License
 Common Lisp LOOP License
 Common Public Attribution License 1.0
+Common Public License (undefined)
+Common Public License (undefined) + GNU Lesser General Public License 2.1 (or any later version) + GNU General Public License 2.0 (or any later version)
 Common Public License 0.5
 Common Public License 1.0
 Common Vulnerability Enumeration License
@@ -582,6 +635,7 @@ copyleft next License 0.3.0
 copyleft next License 0.3.1
 Copyright Holder Agreement Exception (GPL 2.0)
 Copyright notice to the ec fonts
+Copyright Reference
 Cornell Lossless JPEG License
 Corporate Accountability Lab Software
 Couchbase Community Edition License
@@ -592,6 +646,7 @@ CppCoreGuidelines License
 CRAPL 0 BETA 1
 Crashlytics Agreement 2018
 CRCalc License
+Creative Commons (undefined)
 Creative Commons Attribution 1.0 Generic
 Creative Commons Attribution 2.0 Generic
 Creative Commons Attribution No Derivatives 1.0 Generic
@@ -615,6 +670,7 @@ Creative Commons Attribution Share Alike 1.0 Generic
 Creative Commons Attribution Share Alike 2.0 Generic
 Creative Commons Attribution Share Alike 2.5 Generic
 Creative Commons Attribution Share Alike 3.0 Austria
+Creative Commons BY (undefined)
 Creative Commons BY 1.0
 Creative Commons BY 2.0
 Creative Commons BY 2.0 (UK)
@@ -680,6 +736,7 @@ Creative Commons BY-ND 3.0 (DE)
 Creative Commons BY-ND 3.0 (unported)
 Creative Commons BY-ND 4.0
 Creative Commons BY-ND 4.0 (international)
+Creative Commons BY-SA (undefined)
 Creative Commons BY-SA 1.0
 Creative Commons BY-SA 2.0
 Creative Commons BY-SA 2.0 (IT)
@@ -753,6 +810,13 @@ DataMekanix License
 David H. Bailey LBNL BSD License 2007
 David H. Bailey Limited BSD License 2015
 Day Specification License
+Debian GPL Reference
+Debian GPL Reference (variant 002)
+Debian GPL Reference (variant 003)
+Debian GPL Reference (variant 004)
+Debian GPL Reference Var2
+Debian GPL Reference Var3
+Debian GPL Reference Var4
 Debian reportbug License
 Defensive Patent License 1.1
 Dennis Ferguson License
@@ -766,8 +830,10 @@ diffmark License
 Digia Qt Exception 2.1 (LGPL)
 DigiRule FOSS License Exception (GPL 2.0)
 Digital Mars Zlib License
+Disclaimer (var-01)
 Disclaimer (var-02)
 Disclaimer (var-03)
+Disclaimer (variant 001)
 Disclaimer (variant 002)
 Disclaimer (variant 003)
 DivX Open License 1.0
@@ -799,6 +865,7 @@ Dynamic Drive Terms of Use
 Dynamic HTML Lab Public License
 Dynarch Developer Agreement
 Dynarch Linkware Agreement
+Eclipse Distribution License (undefined)
 Eclipse Foundation Software User Agreement 2001
 Eclipse Foundation Software User Agreement 2002
 Eclipse Foundation Software User Agreement 2003
@@ -810,6 +877,7 @@ Eclipse Foundation Software User Agreement 2014
 Eclipse Foundation Software User Agreement 2014-11
 Eclipse Foundation Software User Agreement 2017
 Eclipse Foundation Specification License 1.0
+Eclipse Public License (undefined)
 Eclipse Public License 1.0
 Eclipse Public License 2.0
 Eclipse Public License 2.0 + Apache License 2.0
@@ -837,6 +905,7 @@ Eiffel Forum License 2.0
 ej-technologies EULA
 Ekiga Exception (GPL 2.0 or later)
 Ekiga exception to GPL 2.0 or later
+Elastic License (undefined)
 Elastic License 1.0
 Elastic License 2.0
 ElementTree License
@@ -876,7 +945,10 @@ Facebook License Agreement (Nuclide Software)
 Facebook Software License
 Fair License
 Fair Source License 0.9
+False BSD reference
 FancyZoom License
+FAQ
+Far Manager Exception
 FASTBuild License (2012-2020)
 FastCGI License for Spec Implementation
 FatFs License
@@ -889,6 +961,7 @@ Floodgap Free Software License
 Flora License 1.1
 Flowplayer License (GPL 3.0)
 FLTK Exception
+Font Display Exception
 Font Exception (GPL)
 Font Exception 2.0
 Font-Alias License
@@ -907,6 +980,7 @@ FreeBSD Doc License Var001
 FreeBSD Documentation License
 FreeBSD unmodified first lines License
 FreeImage Public License 1.0
+Freemarker Historic Note
 FreeRTOS Exception 2.0
 FreeSurfer Software License Agreement 1.0
 FreeTTS License
@@ -914,6 +988,7 @@ FreeType Patent Grant
 FreeType Project License
 FreeType Project License (copyright holder variant)
 FreeType Project License (copyright variant)
+FreeType Project License (with Autoconf exception)
 FreeType Project License + GNU General Public License 2.0
 Freetype2 Project License
 Freeware Public License
@@ -925,6 +1000,10 @@ FSF All Permissive License (without warranty)
 FSF Unlimited License
 FSF Unlimited License (with License Retention and Warranty Disclaimer)
 FSF Unlimited License (With License Retention and Warranty Disclaimer)
+FSF Unlimited License (with retention)
+FSF Unlimited License (with retention; no warranty)
+FSF Unlimited License (with retention; with Autoconf exception (GPL))
+FSF Unlimited License (with retention; with Autoconf exception 2.0)
 FtpBean License
 Fujion Clinical Exception (Apache 2.0)
 Functional Source License 1.0 (Apache 2.0 Change)
@@ -954,6 +1033,8 @@ GeoLite2 End User License
 GeoLite2 End User License Agreement 2019
 GeoServer Exception (GPL)
 German Free Software License
+Gettext Reference
+Gettext Use Reference
 Ghostscript General Public License 1988
 Giftware License
 GitHub CodeQL Terms and Conditions 2020
@@ -968,6 +1049,8 @@ Globus Toolkit Public License 2.0
 Globus Toolkit Public License 3.0
 Glulxe License
 GLX Public License 1.0
+GMP License Restriction (Part 01)
+GMP License Restriction (Part 02)
 Gmsh Exception
 Gmsh exception>
 GNAT Exception
@@ -977,9 +1060,13 @@ GNAT-Exception
 GNOME Examples Exception
 GNOME examples exception
 Gnome GCR Documentation License
+GNU Affero General Public License (undefined)
 GNU Affero General Public License 3.0
 GNU Affero General Public License 3.0 (or any later version)
+GNU Affero General Public License 3.0 (or any later version; with font display exception)
 GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL; with source provision obligation))
+GNU Affero General Public License 3.0 (with Font Display exception)
+GNU Affero General Public License 3.0 (with font display exception)
 GNU Affero General Public License 3.0 (with Genode Exception (AGPL 3.0))
 GNU Affero General Public License 3.0 (with Linking exception (AGPL; variant 001))
 GNU Affero General Public License 3.0 (with Linking exception (GPL; variant 022))
@@ -988,6 +1075,7 @@ GNU Affero General Public License 3.0 (with OpenSSL Linking Exception (GPL; vari
 GNU Compile Exception
 GNU Elib General Public License
 GNU emacs General Public License 1988
+GNU Free Documentation License (undefined)
 GNU Free Documentation License 1.1
 GNU Free Documentation License 1.1 (invariants)
 GNU Free Documentation License 1.1 (no invariants)
@@ -1005,6 +1093,15 @@ GNU Free Documentation License 1.3 (invariants)
 GNU Free Documentation License 1.3 (no invariants)
 GNU Free Documentation License 1.3 (or any later version)
 GNU Free Documentation License 1.3 (or any later version; invariants)
+GNU General Public License (undefined)
+GNU General Public License (undefined) + Artistic License (undefined)
+GNU General Public License (undefined) + Mozilla Public License (undefined)
+GNU General Public License (undefined; or any later version)
+GNU General Public License (undefined; with Autoconf exception (GPL; variant 005))
+GNU General Public License (undefined; with Autoconf exception)
+GNU General Public License (undefined; with Autoconf Macro exception)
+GNU General Public License (undefined; with font display exception)
+GNU General Public License (undefined; with UPX exception)
 GNU General Public License 1.0
 GNU General Public License 1.0 (or any later version)
 GNU General Public License 2.0
@@ -1013,7 +1110,12 @@ GNU General Public License 2.0 (or any later version)
 GNU General Public License 2.0 (or any later version; OpenSSH Linking exception)
 GNU General Public License 2.0 (or any later version; with 389 Directory Server exception)
 GNU General Public License 2.0 (or any later version; with Ada Linking exception)
+GNU General Public License 2.0 (or any later version; with Autoconf exception (GPL))
 GNU General Public License 2.0 (or any later version; with Autoconf exception (GPL; variant 004))
+GNU General Public License 2.0 (or any later version; with Autoconf exception (GPL; variant 005))
+GNU General Public License 2.0 (or any later version; with Autoconf exception 2.0)
+GNU General Public License 2.0 (or any later version; with Autoconf exception)
+GNU General Public License 2.0 (or any later version; with Autoconf Macro exception)
 GNU General Public License 2.0 (or any later version; with Autoconf Simple exception 2.0)
 GNU General Public License 2.0 (or any later version; with autoconf simple exception)
 GNU General Public License 2.0 (or any later version; with AutoOpts exception (GPL))
@@ -1069,13 +1171,18 @@ GNU General Public License 2.0 (or any later version; with TeX exception (GPL))
 GNU General Public License 2.0 (or any later version; with TeX Exception)
 GNU General Public License 2.0 (or any later version; with U-Boot Exception (GPL))
 GNU General Public License 2.0 (or any later version; with Unmodified Binary Distribution Exception (GPL))
+GNU General Public License 2.0 (or any later version; with UPX exception)
 GNU General Public License 2.0 (PT)
 GNU General Public License 2.0 (with Ada Linking exception)
 GNU General Public License 2.0 (with Adaptec conditions)
 GNU General Public License 2.0 (with Asterisk Linking Permission)
+GNU General Public License 2.0 (with Autoconf exception (GPL))
 GNU General Public License 2.0 (with Autoconf exception (GPL; variant 001))
 GNU General Public License 2.0 (with Autoconf exception (GPL; variant 004))
+GNU General Public License 2.0 (with Autoconf exception (GPL; variant 005))
 GNU General Public License 2.0 (with Autoconf exception 2.0 (variant 001))
+GNU General Public License 2.0 (with Autoconf exception)
+GNU General Public License 2.0 (with Autoconf Macro exception)
 GNU General Public License 2.0 (with Autoconf Simple exception 2.0)
 GNU General Public License 2.0 (with autoconf simple exception)
 GNU General Public License 2.0 (with Avisynth C Interface exception)
@@ -1136,8 +1243,12 @@ GNU General Public License 3.0 (or any later version; with Ada Linking exception
 GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 002))
 GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 003))
 GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 004))
+GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 005))
 GNU General Public License 3.0 (or any later version; with Autoconf exception 3.0 (variant 001))
 GNU General Public License 3.0 (or any later version; with Autoconf exception 3.0)
+GNU General Public License 3.0 (or any later version; with autoconf exception)
+GNU General Public License 3.0 (or any later version; with Autoconf exception)
+GNU General Public License 3.0 (or any later version; with Autoconf Macro exception)
 GNU General Public License 3.0 (or any later version; with Autoconf Simple exception 2.0)
 GNU General Public License 3.0 (or any later version; with Bash exception (GPL))
 GNU General Public License 3.0 (or any later version; with Bash Exception)
@@ -1172,8 +1283,10 @@ GNU General Public License 3.0 (with Aptana Exception (GPL))
 GNU General Public License 3.0 (with Autoconf exception (GPL; variant 002))
 GNU General Public License 3.0 (with Autoconf exception (GPL; variant 003))
 GNU General Public License 3.0 (with Autoconf exception (GPL; variant 004))
+GNU General Public License 3.0 (with Autoconf exception (GPL; variant 005))
 GNU General Public License 3.0 (with Autoconf exception 3.0)
 GNU General Public License 3.0 (with Autoconf exception)
+GNU General Public License 3.0 (with Autoconf Macro exception)
 GNU General Public License 3.0 (with Bash exception (GPL))
 GNU General Public License 3.0 (with Bison exception (GPL))
 GNU General Public License 3.0 (with Bison Exception 2.2 (GPL))
@@ -1200,6 +1313,10 @@ GNU General Public License 3.0 (with TeX exception (GPL))
 GNU General Public License 3.0 (with TeX Exception)
 GNU IO Library Exception 2.0
 GNU JavaMail Exception
+GNU Lesser General Public License (undefined)
+GNU Lesser General Public License (undefined) + Common Public License (undefined)
+GNU Lesser General Public License (undefined) + Common Public License (undefined; with LZMA SDK 2006 exception)
+GNU Lesser General Public License (undefined) + Mozilla Public License (undefined)
 GNU Lesser General Public License 2.1
 GNU Lesser General Public License 2.1 (or any later version with Qwt exception 1.0)
 GNU Lesser General Public License 2.1 (or any later version)
@@ -1222,6 +1339,7 @@ GNU Lesser General Public License 2.1 (with Linking exception (GPL; variant 025)
 GNU Lesser General Public License 2.1 (with Linking exception (LGPL; variant 010))
 GNU Lesser General Public License 2.1 (with OpenSSL Linking Exception (GPL; variant 004))
 GNU Lesser General Public License 2.1 (with OpenSSL Linking Exception (LGPL; variant 003))
+GNU Lesser General Public License 2.1 + Academic Free License 2.1
 GNU Lesser General Public License 2.1 + Mozilla Public License 1.1 + GNU General Public License 2.0 (or any later version)
 GNU Lesser General Public License 3.0
 GNU Lesser General Public License 3.0 (or any later version)
@@ -1264,6 +1382,7 @@ Google Analytics Terms of Service (undefined)
 Google Analytics Terms of Service 2015
 Google Analytics Terms of Service 2016
 Google Analytics Terms of Service 2019
+Google API Terms of Service (undefined)
 Google API Terms of Service 2021
 Google Individual Contributor License Agreement
 Google Maps Platform Terms of Service 2018-02-07
@@ -1286,6 +1405,7 @@ Google Patent License (WebM)
 Google Patent License (WebRTC)
 Google Play Core Software Development Kit Terms of Service 2020
 Google Software Grant and Corporate Contributor License Agreement
+Google Terms of Service (undefined)
 Google Terms of Service 2013
 Google Terms of Service 2014
 Google Terms of Service 2017
@@ -1297,7 +1417,11 @@ GPL 2.0 with classpath exception
 GPL 2.0 with libgit2 exception
 GPL 3.0 Linking Exception
 GPL Compatibility
+GPL Compatibility GPL3
 GPL Cooperation Commitment 1.0
+GPL Incompatible
+GPL Reference GPL2
+GPL Reference GPL3
 GPL-3.0 Linking Exception (OpenSSL; with Corresponding Source)
 GPL-3.0 Linking Exception (with Corresponding Source)
 Gradle Enterprise Software License Agreement 2022-11-08
@@ -1414,6 +1538,7 @@ iMatix License
 Imlib2 License
 Independent JPEG Group License
 Independent Module Linking Exception
+Indiana University Extreme Lab Software License (undefined)
 Indiana University Extreme Lab Software License 1.2
 Indiana University Extreme! Lab Software License 1.1.1
 Indiana University Extreme! Lab Software License 1.2
@@ -1438,6 +1563,7 @@ Info-Zip License 2007-03
 Info-ZIP License 2009
 InfoNode Software License 1.1
 Initial Developer Public License
+Inner Net License (undefined)
 Inner Net License 2.0
 Inner Net License 2.00
 Inner Net License v2.0
@@ -1557,6 +1683,7 @@ LAL 1.2
 LAL 1.3
 Lance Norskog License
 Larabie Fonts EULA
+LaTeX Project Public License (undefined)
 LaTeX Project Public License 1.0
 LaTeX Project Public License 1.1
 LaTeX Project Public License 1.2
@@ -1570,6 +1697,8 @@ Leap Motion SDK Agreement 2019
 LEGO Open Source License Agreement
 Leptonica License
 Lesser General Public License (Linguistic Resources)
+LGPL on build
+LGPL Reference LGPL3
 LGPL-3.0 Linking Exception
 LHA
 LHA License
@@ -1708,6 +1837,7 @@ LumiSoft Mail Server License
 Lyubinskiy dropdown License
 Lyubinskiy popup-window License
 LZMA Exception
+LZMA SDK 2006 Exception
 LZMA SDK License (versions 9.11 to 9.20)
 LZMA SDK License 2008
 LZMA SDK License 9.11 to 9.20
@@ -1896,6 +2026,7 @@ MirOS Licence
 MIT (export control)
 MIT (NFA) License
 MIT Addition License
+MIT alike
 MIT alike (PKINIT)
 MIT Festival (variant)
 MIT INRIA W3C 1995
@@ -1923,17 +2054,20 @@ MIT License (remotely interaction)
 MIT License (SEI)
 MIT License (Synthesis Toolkit)
 MIT License (testregex)
+MIT License (undefined)
 MIT License (variant 001)
 MIT License (variant 003)
 MIT License (with advertising)
 MIT License (with enna advertising)
 MIT License (with Jamie Kyle Restrictions)
 MIT License (X.Net)
+MIT License + GNU General Public License (undefined)
 MIT License + GNU General Public License 2.0
 MIT License + GNU General Public License 2.0 (or any later version)
 MIT License + GNU General Public License 3.0
 MIT License + GNU General Public License 3.0 (or any later version)
 MIT License Modern Variant
+MIT more permissive
 MIT Old Style License
 MIT Old Style License (002)
 MIT Old Style License (sparse)
@@ -1958,6 +2092,7 @@ Motosoto License
 Moxa Licence
 Moxa License
 Mozilla Open Software Patent License Agreement 1.0
+Mozilla Public License (undefined)
 Mozilla Public License 1.0
 Mozilla Public License 1.1
 Mozilla Public License 2.0
@@ -2020,6 +2155,7 @@ Netdata Cloud UI License v1.0 (NCUL1)
 Nethack General Public License
 Netizen Open Source License 1.0
 Netron Project License
+Netscape Public License (undefined)
 Netscape Public License 1.0
 Netscape Public License 1.1
 New Relic License
@@ -2042,7 +2178,9 @@ Nmap Public Source License 0.93
 Nmap Public Source License 0.94
 Nmap Public Source License 0.95
 No Limit Public License
+No Warranty Marker
 Node License
+Nokia Copyright Exclude
 Nokia Open Source License
 Nokia Qt LGPL Exception 1.0
 Non White Heterosexual Male
@@ -2056,6 +2194,7 @@ Nortel DASA License
 Northwoods Software SLA 2021
 Norwegian Licence (Open Government Data)
 Norwegian Licence for Open Government Data 2.0
+Not Public Domain
 Noweb License
 NPOSL 3.0
 NRL 2-Clause License
@@ -2089,6 +2228,7 @@ NYSL 0.9982
 NYSL 0.9982 (JP)
 O Young Jong License
 O'Reilly Code Sample Notice
+OASIS IPR Policy
 OASIS IPR Policy 2013
 OASIS IPR Policy 2014
 OASIS Specification License
@@ -2157,6 +2297,7 @@ Open Software License 1.1
 Open Software License 2.0
 Open Software License 2.1
 Open Software License 3.0
+Open Source Portfolio License 1.0
 Open Sourced Vulnerability Database (OSVDB) License
 Open Use of Data Agreement 1.0
 Open Web Foundation Final Specification Agreement 1.0
@@ -2175,6 +2316,7 @@ OpenGL Utility Toolkit License
 OpenI Public License 1.0
 OpenJDK Assembly Exception (GPL)
 OpenJDK Assembly Exception 1.0
+OpenLDAP Public License (undefined)
 OpenLDAP Public License 1.1
 OpenLDAP Public License 1.2
 OpenLDAP Public License 1.3
@@ -2213,6 +2355,7 @@ OpenSSL Exception (LGPL) 2.1
 OpenSSL Exception (MongoDB SSPL)
 OpenSSL License
 OpenSSL License (standalone)
+OpenSSL License + BSD 3-Clause License (copyright holder variant) + GNU General Public License (undefined)
 OpenSSL Linking Exception (AGPL 3.0+; variant 003)
 OpenSSL Linking Exception (AGPL; variant 001)
 OpenSSL Linking Exception (AGPL; variant 002)
@@ -2268,6 +2411,7 @@ Oracle Technology Network License Agreement
 Oracle Technology Network License Agreement 2014
 Oracle Web Sites Terms of Use
 Original SSLeay License
+OSET PL (undefined)
 OSET Public License 2.1
 OSF 1990 License
 OSGi Specification License 2.0
@@ -2389,6 +2533,8 @@ Permission Terms (variant 046)
 Permission Terms (variant 048)
 Permission Terms (variant 054)
 Permission Terms (variant 058)
+Permission Terms (variant 069)
+Permission Terms (variant 075)
 Permission Terms (variant 076)
 Permission Terms (variant 077)
 Permission Terms (variant 079)
@@ -2405,6 +2551,7 @@ Permission Terms (variant 125)
 Permission Terms (variant 126)
 Permission Terms (variant 127)
 Permission Terms (variant 129)
+Permission Terms (variant 133)
 Permission Terms (variant 137)
 Permission Terms (variant 141)
 Permission Terms (Verbatim Copies Permission)
@@ -2415,6 +2562,7 @@ Permission Terms (with export note; variant 001)
 Permission Terms (with export note; variant 002)
 Permission Terms (with export note; variant 005)
 Permission Terms CWI
+Permission Terms ISC
 Permission Terms PVar19
 Permission Terms Var005
 Permission Terms Var006
@@ -2439,6 +2587,8 @@ Permission Terms Var046
 Permission Terms Var054
 Permission Terms Var058
 Permission Terms Var068
+Permission Terms Var069
+Permission Terms Var075
 Permission Terms Var076
 Permission Terms Var077
 Permission Terms Var081
@@ -2456,6 +2606,7 @@ Phaser Commercial EULA (Phenix)
 Phil Bunce License
 Philippe De Muyter License
 Philips Proprietary Notice 2000
+PHP License (undefined)
 PHP License 2.02
 PHP License 3.0
 PHP License 3.01
@@ -2584,6 +2735,7 @@ Redistribution Terms (variant 024)
 Redistribution Terms (variant 025)
 Redistribution Terms (variant 027)
 Redistribution Terms (variant 030)
+Redistribution Terms (variant 032)
 Redistribution Terms Var018
 Redistribution Terms Var5
 Redistribution Terms Var6
@@ -2703,6 +2855,7 @@ SGP4 Permission Notice
 Shavlik Technologies EULA
 Shital Shah License
 Signal Exception (GPL 3.0)
+SIL Open Font License (undefined)
 SIL Open Font License 1.0
 SIL Open Font License 1.0 (no reserved font name)
 SIL Open Font License 1.0 (reserved font name)
@@ -2761,6 +2914,7 @@ Spherepack License
 Splunk EULA (third-party content)
 Splunk MINT Terms of Service 2018
 Splunk Software License Agreement
+Spring EPL Reference
 SQLite Blessing
 Square Inc. Individual Contributor License Agreement
 SSH Notice (short)
@@ -2870,6 +3024,7 @@ Tanuki Development Software License Agreement 1.3
 Tanuki Maintenance Support Services Addendum 1.3
 TAPR Open Hardware 1.0
 TCL License
+TCL License (no governmental restriction)
 TCL License (terms only)
 TCP Wrappers License
 TeamDev Services License
@@ -2880,6 +3035,7 @@ Term Readkey License
 TermReadKey License
 Terracotta Public License 1.0
 Terracotta Public License 2.0
+Test Reference
 Tested Software License
 TeX Exception
 TeX Exception (GPL)
@@ -2943,6 +3099,7 @@ UCAR License
 UGUI License
 ulem License
 UnboundID LDAP SDK Free Use License
+Unclear License Terms
 Unicode DFS License
 Unicode DFS License + Unicode Terms of Use
 Unicode DFS License 2008
@@ -2976,6 +3133,7 @@ UnRar License 3.0
 Unsplash License
 UPL-1.0
 Upstream Compatibility License 1.0
+UPX Exception
 US Government GeoTransform
 US Government Grant of Unlimited Rights
 USRobotics Permissive License
@@ -3013,6 +3171,7 @@ W3C Document License (2002-12-31)
 W3C Document Notice and License
 W3C Documentation License
 W3C License (2015-05-13)
+W3C License (undefined)
 W3C License 20150513
 W3C Software Notice and Document License (2023-01-01)
 W3C Software Notice and License (1994-2002)

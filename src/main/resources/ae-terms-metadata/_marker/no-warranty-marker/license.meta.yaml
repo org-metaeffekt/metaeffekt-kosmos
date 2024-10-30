@@ -1,0 +1,294 @@
+canonicalName: No Warranty Marker
+category: No Warranty Marker
+shortName: No-Warranty-Marker
+
+type: marker
+
+comments:
+  - "marker that matches clauses related to having no warranty in any kind of way"
+
+# Review Results:
+## Tasks:
+
+## Keywords (TMD-centric):
+
+## Searches (www):
+## <none>
+
+## Last reviewed - 26.07.2024
+## Completed Tasks:
+## - use regexp to enhance existing matches
+## - extend matches
+## Keywords (TMD-centric):
+## - any warranty / warranties
+## - no warranty / warranties
+## - and/or warranty / warranties
+## - implied warranty / warranties
+## - without warranty / warranties
+## - warranted (to exploit different usages)
+## Searches (www):
+## -
+
+otherIds:
+  - "scancode:linum"
+  - "scancode:philippe-de-muyter"
+
+evidence:
+  oneOf:
+    - matches:
+        - "is provided *{(as is|as-is|\"as is\"){0,1}}* without *{.{0,5}}* express*{.{0,3}}* or implied warranty"
+    - matches:
+        - "is provided *{(as is|as-is|\"as is\"){0,1}}* and without *{.{0,5}}* express*{.{0,3}}* or implied warranty"
+    - matches:
+        - "is provided *{(as is|as-is|\"as is\"){0,1}}* without *{.{0,5}}* express*{.{0,3}}* or implied warranties"
+    - matches:
+        - "is provided *{(as is|as-is|\"as is\"){0,1}}* and without *{.{0,5}}* express*{.{0,3}}* or implied warranties"
+
+    - matches:
+        - "is distributed *{(as is|as-is|\"as is\"){0,1}}* without *{.{0,5}}* express*{.{0,3}}* or implied warranty"
+    - matches:
+        - "is distributed *{(as is|as-is|\"as is\"){0,1}}* and without *{.{0,5}}* express*{.{0,3}}* or implied warranty"
+    - matches:
+        - "is distributed *{(as is|as-is|\"as is\"){0,1}}* without *{.{0,5}}* express*{.{0,3}}* or implied warranties"
+    - matches:
+        - "is distributed *{(as is|as-is|\"as is\"){0,1}}* and without *{.{0,5}}* express*{.{0,3}}* or implied warranties"
+
+    - matches:
+        - "is*{.{0,55}}* WITHOUT ANY WARRANTY"
+    - matches:
+        - "no warrant*{.{1,4}}* implied"
+    - matches:
+        - "NO WARRANT*{.{1,4}}* IMPLIED"
+    - matches:
+        - "no implied warranties"
+    - matches:
+        - "No Implied Warranties"
+    - matches:
+        - "NO IMPLIED WARRANTIES"
+    - matches:
+        - "no implied warranty"
+    - matches:
+        - "No Implied Warranty"
+    - matches:
+        - "NO IMPLIED WARRANTY"
+    - matches:
+        - "There is*{.{0,20}}* no warranty"
+    - matches:
+        - "there is*{.{0,20}}* no warranty"
+    - matches:
+        - "THERE IS*{.{0,20}}* NO WARRANTY"
+    - matches:
+        - "there is*{.{0,10}}* no*{.{0,10}}* any warranty"
+    - matches:
+        - "THERE IS*{.{0,10}}* NO*{.{0,10}}* ANY WARRANTY"
+    - matches:
+        - "There is NO warranty; not even for{.{0,25}}* or"
+
+    - matches:
+        - "without*{.{0,25}}* implied warranty"
+    - matches:
+        - "WITHOUT*{.{0,25}}* IMPLIED WARRANTY"
+    - matches:
+        - "without*{.{0,25}}* implied warranties"
+    - matches:
+        - "WITHOUT*{.{0,25}}* IMPLIED WARRANTIES"
+    - matches:
+        - "Linum Software License"
+    - matches:
+        - "Philippe De Muyter License"
+    - matches:
+        - "WITHOUT A*{.{0,2}}* WARRANTY; without even the implied warranty of MERCHANTABILITY"
+    - matches:
+        - "no warrant*{.{1,4}}* of any kind, whether express or implied"
+    - matches:
+        - "NO WARRANT*{.{1,4}}* OF ANY KIND, WHETHER EXPRESS OR IMPLIED"
+    - matches:
+        - "expressly disclaims all such warranties, including any implied warranties
+          of merchantability"
+    - matches:
+        - "provided without*{.{0,15}}* or warranty"
+    - matches:
+        - "No warranty is implied by distribution under the terms of this license"
+    - matches:
+        - "You are provided no warranty"
+    - matches:
+        - "IS PROVIDED *AS IS* WITHOUT WARRANTY"
+    - matches:
+        - "but AS-IS*{.{0,5}}* WITHOUT ANY WARRANTY"
+    - matches:
+        - "NO WARRANTY IS*{.{0,10}}*  EXPRESSED OR IMPLIED"
+    - matches:
+        - "no warranty is*{.{0,10}}* expressed or implied"
+    - matches:
+        - "Contributors to the code disclaim*{.{0,5}}* warranties"
+    - matches:
+        - "IS*{.{0,25}}* WITHOUT WARRANTY OF ANY KIND"
+
+    - matches:
+        - "without any warranty"
+    - matches:
+        - "WITHOUT ANY WARRANTY"
+    - matches:
+        - "EXCLUSIVE OF*{.{0,5}}* WARRANTY"
+    - matches:
+        - "WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES"
+    - matches:
+        - "is*{.{0,25}}* without*{.{0,5}}* warranty"
+    - matches:
+        - "IS*{.{0,25}}* WITHOUT*{.{0,5}}* WARRANTY"
+    - matches:
+        - "is*{.{0,25}}* WITHOUT*{.{0,5}}* WARRANTY"
+    - matches:
+        - "and without*{.{0,5}}* warranty of any kind"
+    - matches:
+        - "AND WITHOUT*{.{0,5}}* WARRANTY OF ANY KIND"
+    - matches:
+        - "No warranty is attached"
+    - matches:
+        - "in the hope * be useful, but WITHOUT ANY WARRANTY"
+        - "warrant* of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE"
+    - matches:
+        - "does not*{.{0,15}}* any warranty"
+    - matches:
+        - "DOES NOT*{.{0,15}}* ANY WARRANTY"
+    - matches:
+        - "\"AS IS\" AND IS IN LIEU OF*{.{0,60}}* EXPRESS OR IMPLIED
+            INCLUDING*{.{0,40}}* WARRANTY"
+    - matches:
+        - "on an \"AS IS\" BASIS, WITHOUT WARRANT"
+    - matches:
+        - "disclaim *{(all|any|all and any){0,1}}* warranties"
+    - matches:
+        - "disclaim *{(all|any|all and any){0,1}}* warranty"
+    - matches:
+        - "DISCLAIM *{(ALL|ANY|ALL AND ANY){0,1}}* WARRANTIES"
+    - matches:
+        - "DISCLAIM *{(ALL|ANY|ALL AND ANY){0,1}}* WARRANTY"
+    - matches:
+        - "provide*{.{0,70}}* on an \"AS IS\" BASIS,
+            WITHOUT WARRANTIES"
+    - matches:
+        - "provide*{.{0,70}}* on an \"AS IS\" BASIS,
+            WITHOUT WARRANTY"
+    - matches:
+        - "PROVIDE*{.{0,70}}* ON AN \"AS IS\" BASIS,
+          WITHOUT WARRANTIES"
+    - matches:
+        - "PROVIDE*{.{0,70}}* ON AN \"AS IS\" BASIS,
+          WITHOUT WARRANTY"
+    - matches:
+        - "is provided ``AS IS'' without any warranties"
+    - matches:
+        - "is provided ``AS IS'' without any warranty"
+    - matches:
+        - "IS PROVIDED \"AS-IS\", WITHOUT*{.{0,5}}* WARRANTIES"
+    - matches:
+        - "IS PROVIDED \"AS-IS\", WITHOUT*{.{0,5}}* WARRANTY"
+    - matches:
+        - "is provided*{.{0,45}}* \"AS IS\"*{.{0,15}}* any warranties*{.{0,30}}* are DISCLAIMED"
+    - matches:
+        - "IS*{.{0,15}}* \"AS IS\" *{(WITH NO|WITHOUT|NO){0,1}}* WARRANTIES"
+    - matches:
+        - "is*{.{0,15}}* \"as is\" *{(with no|without|no){0,1}}* warranties"
+    - matches:
+        - "IS*{.{0,15}}* \"AS IS\" *{(WITH NO|WITHOUT|NO){0,1}}* WARRANTY"
+    - matches:
+        - "is*{.{0,15}}* \"as is\" *{(with no|without|no){0,1}}* warranty"
+    - matches:
+        - "Neither*{.{0,30}}* nor *{.{0,35}}* makes *{.{0,5}}* warrant*{.{1,4}}* express*{.{0,3}}* or implied"
+    - matches:
+        - "distributed with NO WARRANTY"
+    - matches:
+        - "distributed with NO WARRANTIES"
+    - matches:
+        - "GRANT*{.{0,2}}* NO WARRANTIES"
+    - matches:
+        - "grant*{.{0,2}}* no warranties"
+    - matches:
+        - "MAKE*{.{0,2}}* NO*{.{0,50}}* WARRANTY"
+    - matches:
+        - "make*{.{0,2}}* no*{.{0,50}}* warranty"
+    - matches:
+        - "MAKE*{.{0,2}}* NO*{.{0,50}}* WARRANTIES"
+    - matches:
+        - "make*{.{0,2}}* no*{.{0,50}}* warranties"
+    - matches:
+        - "with no warranties"
+    - matches:
+        - "with no warranty"
+    - matches:
+        - "with no warranties"
+    - matches:
+        - "with no warranty"
+    - matches:
+        - "WITH NO WARRANTIES"
+    - matches:
+        - "WITH NO WARRANTY"
+    - matches:
+        - "\"AS IS\" WITH NO WARRANTIES"
+    - matches:
+        - "\"AS IS\" WITH NO WARRANTY"
+    - matches:
+        - "give*{.{0,2}}* no warranty"
+    - matches:
+        - "GIVE*{.{0,2}}* NO WARRANTY"
+    - matches:
+        - "give*{.{0,2}}* no warranties"
+    - matches:
+        - "GIVE*{.{0,2}}* NO WARRANTIES"
+    - matches:
+        - "NO WARRANT*{.{1,4}}* OF ANY KIND"
+    - matches:
+        - "no warrant*{.{1,4}}* OF ANY KIND"
+    - matches:
+        - "THERE ARE NO WARRANTIES"
+    - matches:
+        - "there are no warranties"
+    - matches:
+        - "THERE IS NO WARRANTY"
+    - matches:
+        - "there is no warranty"
+    - matches:
+        - "No Warranties"
+    - matches:
+        - "no warranties"
+    - matches:
+        - "NO WARRANTIES"
+    - matches:
+        - "NO WARRANTY"
+    - matches:
+        - "No Warranty"
+    - matches:
+        - "no warranty"
+    - matches:
+        - "NO WARRANTIES APPLY AFTER THAT"
+    - matches:
+        - "PROVIDED*{.{0,100}}* \"AS IS\" *{.{0,40}}*WITHOUT*{.{0,60}}* WARRANTY"
+    - matches:
+        - "warranty*{.{0,40}}* are void"
+    - matches:
+        - "WARRANTY*{.{0,40}}* ARE VOID"
+    - matches:
+        - "warranty*{.{0,40}}* is void"
+    - matches:
+        - "WARRANTY*{.{0,40}}* IS VOID"
+    - matches:
+        - "IS NEITHER*{.{0,30}}* NOR WARRANTED"
+    - matches:
+        - "is neither*{.{0,30}}* nor warranted"
+    - matches:
+        - "ARE NEITHER*{.{0,30}}* NOR WARRANTED"
+    - matches:
+        - "are neither*{.{0,30}}* nor warranted"
+    - matches:
+        - "is not warranted"
+    - matches:
+        - "are not warranted"
+    - matches:
+        - "IS NOT WARRANTED"
+    - matches:
+        - "ARE NOT WARRANTED"
+    - matches:
+        - "DOES NOT WARRANT THAT"
+    - matches:
+        - "does not warrant that"

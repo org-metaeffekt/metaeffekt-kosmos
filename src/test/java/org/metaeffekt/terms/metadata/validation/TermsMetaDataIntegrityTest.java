@@ -22,6 +22,7 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     /**
      * {@inheritDoc}
      */
+    @Disabled // invoked from _03_OverallTests
     @Test
     public void assertUniqueLicenseIdentification_metadata() throws IOException {
         // to speed up validation the reports can be disabled; this save 2/3 of the time
@@ -39,7 +40,6 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     @Test
     public void assertUniqueLicenseIdentification_metadataCategory() throws IOException {
         final String categories = "BSD";
-
         assertUniqueLicenseIdentification_metadataCategory(nmd, categories);
     }
 
@@ -58,7 +58,6 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     public void reportAndRemoveEmptyFolders() throws IOException {
         reportAndRemoveObsoleteMetaFolder(tmdBaseDir);
     }
-
 
     @Test
     @Disabled
