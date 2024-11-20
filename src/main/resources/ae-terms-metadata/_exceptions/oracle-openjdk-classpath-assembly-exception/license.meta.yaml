@@ -12,6 +12,7 @@ expectedMatches:
 
 ignoreMatches:
   - "OpenJDK Assembly Exception (GPL)"
+  - "Linking Exception (independent module)"
 
 evidence:
   matches:

@@ -13,6 +13,10 @@ type: exception
 
 requiresSourceCodeProvision: true
 
+ignoreMatches:
+# we model this as an ignore because exceptions are too extreme and there is no good other way to prevent the licenses from matching
+  - "Linking Exception (independent module)"
+
 alternativeNames:
   - "Class Path Exception"
   - "CLASSPATH EXCEPTION"

@@ -11,6 +11,7 @@ ignoreMatches:
   - "Public Domain"
   - "BSD alike"
   - "Openwall MD5 Permissive"
+  - "bcrypt Solar Designer License"
 
 evidence:
   matches:

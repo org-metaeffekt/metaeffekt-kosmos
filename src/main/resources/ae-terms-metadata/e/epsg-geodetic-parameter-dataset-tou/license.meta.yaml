@@ -1,0 +1,34 @@
+canonicalName: EPSG Geodetic Parameter Dataset Terms of Use
+category: EPSG
+shortName: EPSG-Geodetic-Parameter-Dataset
+
+canonicalNameHistory:
+  - "EPSG database distribution license"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+alternativeNames:
+  - "EPSG Geodetic Parameter Dataset Terms of Use"
+  - "use of the data (from the EPSG web site)"
+
+evidence:
+  matches:
+    - "The EPSG Facilities are published by IOGP at no charge. Distribution for profit is forbidden"
+    - "You may not use the EPSG Facilities or any of them in whole or in part unless you agree to these Terms of Use"
+    - "They are compiled by the Geodetic Subcommittee of the IOGP from publicly available and member-supplied
+       information"
+    - "DATA AND INFORMATION PROVIDED IN THE EPSG FACILITIES ARE PROVIDED \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER
+       EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR
+       A PARTICULAR PURPOSE"
+    - "Whilst every effort has been made to ensure the accuracy of the information contained in the EPSG Facilities, neither the IOGP nor any of its members past present or future warrants their accuracy or will, regardless of its or their negligence, assume liability for any foreseeable or unforeseeable use made thereof, which liability is hereby excluded"
+    - "The data may be included in any commercial package provided that any commerciality is based on value added by the provider and not on a value ascribed to the EPSG Dataset which is made available at no charge"
+
+segmentation:
+  revert: [
+    { match:
+        "You understand and agree that any use of the EPSG Facilities or any of them, even if obtained without clicking acceptance, will be acceptance of these Terms of Use.",
+      matchNext:
+        "The data may be used, copied and distributed subject to the following conditions: Whilst every effort has been made to ensure the accuracy of the information contained in the EPSG Facilities"
+    }
+  ]

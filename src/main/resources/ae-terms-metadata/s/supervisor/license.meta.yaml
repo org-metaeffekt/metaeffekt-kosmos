@@ -5,7 +5,6 @@ shortName: Supervisor
 otherIds:
   - "scancode:supervisor"
 
-# FIXME-REVIEW
 expectedMatches:
   - "BSD 3-Clause License (modification)"
   - "BSD 3-Clause License (copyright holder variant)"

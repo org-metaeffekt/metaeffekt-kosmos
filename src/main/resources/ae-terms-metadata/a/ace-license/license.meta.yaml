@@ -11,6 +11,7 @@ alternativeNames:
 combinedWith:
   "MIT License": "MIT License"
 
+# as a result (including ignore and combiner) we only match MIT License
 expectedMatches:
   - "MIT License"
 

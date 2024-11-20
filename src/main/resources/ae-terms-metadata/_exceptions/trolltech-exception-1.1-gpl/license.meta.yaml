@@ -25,18 +25,15 @@ evidence:
        agreements, and employee contracts"
     - "Nothing in this Exception gives you or anyone else the right to change the licensing terms of the Qt Open Source Edition"
     - "The right to use Open Source Licenses not compatible with the GNU General Public License"
-  # FIXME-REVIEW: excludes; 3rd is rather a reference
+    - "excluding anything excluded by the special exception in the same section) available to Trolltech under the same license as that granted to other recipients"
   excludes:
     - "You may link applications with binary pre-installed versions of the Licensed Software,
        provided that such applications have been developed and are deployed in accordance in
        accordance with the terms and conditions of the Qt Commercial License Agreement"
-    - "(Licenses without a specific version number or date are reproduced
-       in the file GPL_Exception_Addendum.txt in your source package)"
-    - "Below, \"Licensed Software\" shall refer to the software licensed under the GPL
-        version 2.0 or GPL version 3.0 and this exception"
-    - "The right to use Open Source Licenses not compatible with the GNU
-       General Public License version 2.0 or GNU General Public License version
-       3.0"
+    - "As a special exception to the terms and conditions of GPL version 2.0 or GPL
+       version 3.0, Trolltech hereby grants you the rights described below, provided
+       you agree to the terms and conditions in this Exception, including its
+       obligations and restrictions on use"
 
 masks:
   matches:

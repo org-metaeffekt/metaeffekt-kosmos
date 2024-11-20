@@ -25,6 +25,3 @@ evidence:
     - "transfer the software or this agreement to any third party"
     - "You may copy, modify and distribute the source and object code form of code marked as “sample”, “template”,
        and “Simple Styles” or “Sketch Styles”"
-
-ignoreMatches:
-  - "Microsoft Visual Studio 2015 Software Development Kit License"

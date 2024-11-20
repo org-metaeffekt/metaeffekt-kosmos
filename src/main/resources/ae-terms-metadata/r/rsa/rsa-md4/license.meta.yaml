@@ -2,6 +2,8 @@ canonicalName: RSA Data Security MD4
 category: RSA Data Security
 shortName: RSA-MD4
 
+# this is a filled out "RSA Data Security MD License" license - the variables have been replaced by names
+
 otherIds:
   - "scancode:rsa-md4"
 

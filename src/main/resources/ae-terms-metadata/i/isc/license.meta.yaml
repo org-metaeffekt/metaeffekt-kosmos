@@ -2,6 +2,7 @@ canonicalName: ISC License
 category: ISC
 spdxIdentifier: ISC
 
+# FIXME-DISCUSS: license is the same as "Permission Terms (variant 075)" except for the copyrights. Does the difference justify keeping this license, or should the two (including IDs)be merged?
 
 otherIds:
   - "scancode:isc"

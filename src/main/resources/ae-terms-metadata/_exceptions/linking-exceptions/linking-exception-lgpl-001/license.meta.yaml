@@ -8,8 +8,9 @@ canonicalNameHistory:
   - "Linking Exception (to LGPL 2.1 or any later version)"
 
 otherIds:
-  - "scancode:lgpl-2.1-plus-linking"
   - "scancode:linking-exception-2.1-plus"
+  - "scancode:lgpl-2.1-plus-linking"
+
 
 evidence:
   matches:

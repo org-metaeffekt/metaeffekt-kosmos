@@ -9,10 +9,6 @@ alternativeNames:
   - "cognitive-web-osl-1.1"
   - "CognitiveWeb Open Source License Version 1.1"
 
-# FIXME-REVIEW
-expectedMatches:
-  - "Jabber Open Source License 1.0"
-
 evidence:
   matches:
     - "The contents of this file are subject to the CognitiveWeb Open Source License Version 1.1"
@@ -25,3 +21,14 @@ evidence:
     - "the Open Source Portfolio Initiative (OSPI) ('Licensor'), and the founding members
        of OSPI consist of Regents of the University of Minnesota"
 
+references:
+  "JOSL":
+    matches:
+      - "Portions created by or assigned to CognitiveWeb are Copyright (c)
+         2003-2003 CognitiveWeb.  All Rights Reserved.  Contact information for
+         CognitiveWeb is available at http://www.CognitiveWeb.org. Portions
+         Copyright (c) 2002-2003 Bryan Thompson. Acknowledgements Special thanks
+         to the developers of the Jabber Open Source License 1.0 (JOSL), from
+         which this License was derived.  This License contains terms that differ
+         from JOSL. Special thanks to the CognitiveWeb Open Source Contributors
+         for their suggestions and support of the Cognitive Web."

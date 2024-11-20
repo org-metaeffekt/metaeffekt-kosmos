@@ -5,24 +5,20 @@ spdxIdentifier: Net-SNMP
 otherIds:
   - "scancode:net-snmp"
 
-# FIXME-IMPLEMENT: expectedMatches-topic; AE-741 --> Net SNMP License; make multi-license; match parts
 # This license is put together out of various licenses
-
-# currently, needed of overall test
-ignoreMatches:
-  - "BSD 3-Clause License (variant 001)"
-  - "BSD 3-Clause License (variant 022)"
-  - "BSD 3-Clause License (copyright holder variant)"
+# expectedMatches verified on 05.11.2024
+expectedMatches:
   - "Permission Terms (CMU; variant 002)"
+  - "BSD 3-Clause License (copyright holder variant)"
+  - "BSD 3-Clause License (variant 001)"
   - "MIT License"
 
 expectedSpdxMatches:
-  - "BSD 3-Clause License (variant 001)"
-  - "Permission Terms CWI"
-  - "BSD 3-Clause License (variant 022)"
   - "BSD 3-Clause License (copyright holder variant)"
+  - "BSD 3-Clause License (variant 001)"
   - "Permission Terms (CMU; variant 002)"
   - "MIT License"
+  - "Net License SNMP"
 
 alternativeNames:
   - "Net-SNMP License"
@@ -41,18 +37,26 @@ alternativeNames:
 
 evidence:
   matches:
-    - "Various copyrights apply to this package, listed in various separate parts below"
-    - "Please make sure that you read all the parts"
-    - "---- Part 1: CMU/UCD copyright notice: (BSD like) -----"
+    - "Various copyrights apply to this package, listed in various separate parts below."
+    - "Please make sure that you read all the parts."
 
 references:
   "BSD":
     matches:
-      - "---- Part 1: CMU/UCD copyright notice: (BSD like) -----"
+      - "Part 10: Lennart Poettering copyright notice (BSD-like) ----- Copyright 2010 Lennart Poettering Permission is hereby granted, free of charge"
 
 mappings:
   "(---- Part [0-9]*:)":
     "LICENSE-SEGMENT-MARKER$1"
+
+segmentation:
+  revert: [
+    { match:
+        "---- Part 1: CMU/UCD copyright notice: (BSD like) -----",
+      matchNext:
+        "8 Copyright 1989, 1991, 1992 by Carnegie Mellon University Derivative Work - 1996, 1998-2000 Copyright 1996, 1998-2000 The Regents of the University of California All Rights Reserved Permission to use, copy, modify and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appears in all copies and that both that copyright notice and this permission notice appear in supporting documentation"
+    },
+]
 
 masks:
   matches:

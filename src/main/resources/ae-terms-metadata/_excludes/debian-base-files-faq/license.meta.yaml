@@ -1,6 +1,9 @@
-canonicalName: FAQ
+canonicalName: Debian Base Files FAQ
 category: FAQ
 shortName: Debian-Base-Files-FAQ
+
+canonicalNameHistory:
+  - "FAQ"
 
 ignore: true
 type: reference

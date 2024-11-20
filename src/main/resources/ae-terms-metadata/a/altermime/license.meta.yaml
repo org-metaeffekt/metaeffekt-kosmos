@@ -5,6 +5,10 @@ shortName: AlterMIME
 otherIds:
   - "scancode:altermime"
 
+alternativeNames:
+  - "AlterMIME License"
+  - "alterMIME LICENSE"
+
 evidence:
   matches:
     - "Redistributions qualify as \"freeware\" or \"Open Source Software\" under

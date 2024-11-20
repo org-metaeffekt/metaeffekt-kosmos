@@ -11,10 +11,6 @@ alternativeNames:
   - "W3C® DOCUMENT NOTICE AND LICENSE"
   - "W3C DOCUMENT NOTICE AND LICENSE"
 
-#FIXME-REVIEW: the named match on "FAQ" is causing this, maybe remodel FAQ
-expectedMatches:
-  - "FAQ"
-
 requiresCopyright: true
 missingCopyrightNotAllowed: true
 requiresLicenseText: true

@@ -3,7 +3,7 @@ category: Verbatim
 shortName: Verbatim
 
 # FIXME-IMPLEMENT check with other variants
-# This license is very similar to Linux man-pages Copyleft (with spdx id)
+# This license is very similar to Linux man-pages Copyleft (with spdx id) - might not be useful to merge
 
 otherIds:
   - "scancode:verbatim-manual"

@@ -24,7 +24,7 @@ evidence:
        Online Services Terms to all customers effective May 25, 2018, at https://docs.microsoft.com/en-us/legal/gdpr"
   excludes:
     - "MICROSOFT AZURE SPATIAL ANCHORS"
+    - "The software may contain code you are permitted to distribute (i.e. make available for third parties) in applications you develop, as described in this Section"
 
 ignoreMatches:
   - "Microsoft Azure Spatial Anchors WinRT 2.9.0"
-  - "Microsoft DXSDK.D3DX 9.29.952.3"

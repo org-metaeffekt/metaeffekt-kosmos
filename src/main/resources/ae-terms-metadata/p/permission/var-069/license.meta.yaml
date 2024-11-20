@@ -49,6 +49,18 @@ evidence:
         EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY
         WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE"
     - "Carnegie Mellon, CERT and CERT Coordination Center are registered in the U.S. Patent and Trademark Office by Carnegie Mellon University"
+    - "A section concerning 3rd party components shall be provided, in all
+       End User licenses, which contains at least the following:
+
+       The Software Program includes software and documentation components
+       developed in part by Silver Egg Technology, Inc.(\"SET\") prior to 2001
+        and released under the following license.
+        
+        Copyright (c) 2001 Silver Egg Technology
+        
+        Permission is hereby granted, free of charge, to any person
+        obtaining a copy of this software and associated documentation
+        files (the \"Software\")"
     
 licenseTemplate: "<lq>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
                   associated documentation files (the \"Software\"), to deal in the Software without restriction,

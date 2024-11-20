@@ -2,6 +2,9 @@ canonicalName: DocBook Schema License
 category: DocBook Schema
 spdxIdentifier: DocBook-Schema
 
+otherIds:
+  - "scancode:docbook-schema"
+
 alternativeNames:
   - "DocBook Schema License"
 

@@ -8,9 +8,6 @@ otherIds:
 alternativeNames:
   - "Phaser Academic Non-Commercial EULA"
 
-#FIXME-REVIEW
-expectedMatches:
-  - "Phaser Commercial EULA (CCP4)"
 
 evidence:
   matches:
@@ -34,3 +31,11 @@ evidence:
     - "In no event shall CUTS' liability arising from or in connection with this Agreement exceed a sum
        equivalent to the annual Fee paid by the Licensee to CCLRC for use of the Software"
 
+segmentation:
+  revert: [
+    { match:
+        "If you do not agree to these terms and conditions, do not download, install or use the Software. AGREED TERMS 1. DEFINITIONS 1.1 In this Agreement the following words and phrases shall, unless the context otherwise requires, have the following meanings: Commencement Date means the initial date of download of the Software from its internet publication site by the Licensee; Derivatives means computer programs in machine readable object code or source code form developed or otherwise acquired by the Licensee which are a modification of, enhancement to, derived from or based upon the Software; Intellectual Property Rights means all patents, copyrights, design rights, trade marks, service marks, trade secrets, know-how, database rights and other rights in the nature of intellectual property rights (whether registered or unregistered) and all applications for the same, anywhere in the world; Parties means CUTS and the Licensee and \"Party\" shall mean either of them; Software means the computer program and version listed at the head of this Agreement. 2. GRANT OF LICENCE",
+      matchNext:
+        "2.1 CUTS hereby grants to the Licensee and the Licensee hereby accepts a non-exclusive, non-transferable, royalty-free licence, commencing on the Commencement Date and for a term of five years therefrom, to download, install and use the Software subject to the following terms and conditions: (a) the Licensee may use the Software solely for its internal use and the Licensee shall not sell, give, disclose, lend, transfer, sublicense or otherwise distribute the Software to any third party, or allow the Software to be accessed over the internet or in any other manner that would allow access to the Software by anyone other than the Licensee's employees (and consultants and contractors provided such use is solely for the Licensee's internal use and subject to the provisions of this Agreement); (b) the Licensee may create Derivatives solely for its own internal use but shall not distribute the Software or any Derivatives in whole or in part to any third party"
+    }
+  ]

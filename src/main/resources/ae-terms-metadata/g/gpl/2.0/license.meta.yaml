@@ -181,7 +181,6 @@ masks:
   matches:
       - "Some of those programs are provided under licenses deemed incompatible with the GPLv2 by the Free Software
          Foundation and others."
-      - "if you download Linux, which is under the GPLv2"
 
 licenseTemplate:
   "<lq><codeph>NO WARRANTY</codeph>

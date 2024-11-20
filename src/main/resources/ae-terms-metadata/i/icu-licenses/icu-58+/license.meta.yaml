@@ -8,7 +8,6 @@ otherIds:
 canonicalNameHistory:
   - "ICU 58 License"
 
-# FIXME-REVIEW: isn't the matched BSD license a reference?
 expectedMatches:
   - "BSD 3-Clause License (copyright holder variant)"
   - "BSD 2-Clause License"

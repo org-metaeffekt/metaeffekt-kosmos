@@ -8,6 +8,9 @@ type: exception
 canonicalNameHistory:
   - "Linking Exception (AGPL; variant 002)"
 
+otherIds:
+  - "scancode:erlang-otp-linking-exception"
+
 combinedWith:
   "GNU Affero General Public License 3.0": "GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL; with source provision obligation))"
 

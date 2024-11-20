@@ -1,0 +1,19 @@
+canonicalName: Encryption for the Masses License
+category: Encryption for the Masses
+shortName: Encryption-for-the-Masses
+
+evidence:
+  matches:
+    - "You may modify this product and source code, and distribute such modifications, 
+       and you may derive new works based on this product, provided that"
+    - "Any product which is simply derived from this product cannot be
+       called E4M, or Encryption for the Masses"
+    - "If you use any of the source code in your product, and your product
+       is distributed with source code, you must include this notice with
+       those portions of this source code that you use"
+    - "If your product is distributed in binary form only, you must display
+       on any packaging, and marketing materials which reference
+       your product, a notice which states"
+    - "If you use any of the source code originally by Eric Young, you must
+       in addition follow his terms and conditions"
+

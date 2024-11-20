@@ -8,6 +8,10 @@ type: exception
 otherIds:
   - "scancode:oracle-openjdk-classpath-exception-2.0"
 
+ignoreMatches:
+  # we model this as an ignore because exceptions are too extreme and there is no other good way to prevent the licenses from matching
+  - "Linking Exception (independent module)"
+
 combinedWith:
   "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Oracle OpenJDK classpath Exception)"
   "GNU General Public License 2.0": "GNU General Public License 2.0 (with Oracle OpenJDK classpath Exception)"

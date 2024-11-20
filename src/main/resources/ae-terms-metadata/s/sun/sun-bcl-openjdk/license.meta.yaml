@@ -1,0 +1,24 @@
+canonicalName: Sun BCL OpenJDK
+category: Sun BCL OpenJDK
+shortName: sun-bcl-openjdk
+
+otherIds:
+  - "scancode:sun-bcl-openjdk"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Sun BCL OpenJDK"
+  - "sun-bcl-openjdk"
+  - "Binary License for OpenJDK"
+
+evidence:
+  matches:
+    - "As a condition to the rights and licenses granted to you in this
+       Agreement, you cannot and shall not distribute a modified version of the AWT
+       that does not contain all of the class libraries (or equivalent libraries)
+       of the AWT if such modified version is distributed in association with
+       dedicated circuitry in silicon. For purposes of this section, 'AWT' means
+       the abstract windowing toolkit class libraries implemented in the OpenJDK
+       Code or any modified version of such abstract windowing toolkit that is
+       created and distributed by Sun or its licensees"

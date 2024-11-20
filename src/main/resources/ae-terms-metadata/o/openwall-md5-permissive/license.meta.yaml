@@ -4,14 +4,14 @@ shortName: openwall-md5-permissive
 
 otherIds:
   - "scancode:openwall-md5-permissive"
-  - "scancode:bcrypt-solar-designer"
 
 alternativeNames:
   - "Openwall MD5 Permissive"
-  - "bcrypt Solar Designer License"
 
 evidence:
   matches:
     - "Redistribution and use in source and binary forms, with or without modification, are permitted"
     - "There's ABSOLUTELY NO WARRANTY, express or implied"
+  excludes:
+    - "Written by Solar Designer <solar at openwall.com> in 1998-2014"
 

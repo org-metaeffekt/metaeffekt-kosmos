@@ -5,11 +5,13 @@ shortName: Firmware
 # FIXME-IMPLEMENT: this is not precise; this license is rather a concept than a concrete license; check also other cases;
 #  - move this license to Binary Firmware License; check patent situation; check license template; excludes
 #  - derive a generic and unspecific Firmware License (in the same category)
+# FIXME-DISCUSS: ISSUE - "Binary Firmware License" could not be found. License text very similar to BSD 3-Clause License. Wouldn't it make sense to derive a marker instead of a generic and unspecific Firmware License? Many mismatches caused by canonicalName - renaming would be good.
 otherIds:
   - "scancode:binary-linux-firmware"
 
-alternativeNames:
-  - "Firmware License"
+# deactivated because it causes too many mismatches. Would make sense if the license was "(undefined)"
+#alternativeNames:
+#  - "Firmware License"
 
 evidence:
   matches:
@@ -35,16 +37,17 @@ evidence:
        USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
        DAMAGE"
   excludes:
-    - "You may not use or attempt to use this software in conjunction with
-       any product that is offered by a third party as a replacement"
-    - "Utilize the software in
-       conjunction with an ST Microelectronics chipset"
-    - "unless explicitly provided by NETRONOME"
     - "Intel Corporation grants a world-wide, royalty-free, non-exclusive
        license under patents it now or hereafter owns or controls to make,
-       have made, use, import, offer to sell and sell (“Utilize”) this
-       software, but solely to the extent that any such patent is necessary
-       to Utilize the software alone"
+       have made, use, import, offer to sell"
+    - "You may not use or attempt to use this software in conjunction with
+        any product that is offered by a third party as a replacement,
+        substitute or alternative to a Marvell Product where a Marvell Product
+        is defined as a proprietary wireless LAN embedded client solution of
+        Marvell or a Marvell Affiliate"
+    - "ST Microelectronics NV. grants a world-wide, royalty-free,
+       non-exclusive license under patents it now or hereafter owns or controls to make,
+       have made, use, import, offer to sell"
     - "Ralink Technology Corporation grants a world-wide,
        royalty-free, non-exclusive license under patents it now or hereafter
        owns or controls to make, have made, use, import, offer to sell and

@@ -24,13 +24,11 @@ evidence:
        2, section 3, but excluding anything excluded by the special exception in the
        same section) available to Trolltech under the same license as that granted
        to other recipients of the source code of Your Software"
-  # FIXME-REVIEW: excludes
   excludes:
-    - "You may link applications with binary pre-installed versions of the Licensed Software,
-       provided that such applications have been developed and are deployed in accordance with
-       the terms and conditions of the Qt Commercial License Agreement"
-    - "The right to use Open Source Licenses not compatible with the GNU
-       General Public License version 2.0 or GNU General Public License version 3.0"
+    - "As a special exception to the terms and conditions of GPL version 2.0 or GPL
+       version 3.0, Trolltech hereby grants you the rights described below, provided
+       you agree to the terms and conditions in this Exception, including its
+       obligations and restrictions on use"
 
 masks:
   matches:
@@ -60,12 +58,7 @@ masks:
         W3C License                           \"2001\"
         X11 License                           X11R6.6
         Zlib/libpng License                   (as attached)
-        Zope Public License                   2.0
-
-        (Licenses without a specific version number or date are reproduced
-        in the file GPL_Exception1.0_Addendum.txt in your source package).
-
-        and"
+        Zope Public License                   2.0"
 
 references:
   "Qt Commercial":

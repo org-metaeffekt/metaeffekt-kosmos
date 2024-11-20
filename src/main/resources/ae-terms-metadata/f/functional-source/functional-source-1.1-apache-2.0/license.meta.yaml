@@ -1,0 +1,39 @@
+canonicalName: Functional Source License 1.1 (Apache-2.0)
+category: Functional Source
+shortName: Functional-Source-1.1-Apache-2.0
+
+otherIds:
+  - "sentry:FSL-1.1-Apache-2.0"
+  - "scancode:fsl-1.1-apache-2.0"
+
+alternativeNames:
+  - "Functional Source License, Version 1.1, Apache 2.0 Future License"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this License Grant and the Patents,
+       Redistribution and Trademark clauses below, we hereby grant you the right to
+       use, copy, modify, create derivative works, publicly perform, publicly display
+       and redistribute the Software for any Permitted Purpose identified below."
+    - "We hereby irrevocably grant you an additional license to use the Software under
+       the Apache License, Version 2.0 that is effective on the second anniversary of
+       the date we make the Software available"
+    - "On or after that date, you may use the Software under the Apache License, 
+       Version 2.0, in which case the following will apply"
+
+# FIXME-DISCUSS: NKR: do we really want to handle "future" licenses like this? I believe that this should be handled with expectedMatches.
+references:
+  "Apache License":
+    matches:
+      - "# Functional Source License, Version 1.1, Apache 2.0 Future License
+
+         ## Abbreviation
+
+         FSL-1.1-Apache-2.0
+         
+         # Notice"
+      - "We hereby irrevocably grant you an additional license to use the Software under
+         the Apache License, Version 2.0 that is effective on the second anniversary of
+         the date we make the Software available. On or after that date, you may use the
+         Software under the Apache License, Version 2.0, in which case the following
+         will apply"

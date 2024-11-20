@@ -22,6 +22,7 @@ evidence:
     - "This software is a pre-release version"
     - "include Distributable Code in malicious, deceptive or unlawful programs"
     - "Reports might unintentionally contain personal information"
+    - "They apply to the software named above, which includes the media on which you received it, if any"
 
 ignoreMatches:
   - "Microsoft Software License (.NET Library 2016-05)"

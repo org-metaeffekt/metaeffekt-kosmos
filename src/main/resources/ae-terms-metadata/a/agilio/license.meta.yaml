@@ -19,3 +19,17 @@ evidence:
        NETRONOME, the source code of the SOFTWARE is not being provided to
        LICENSEE and is confidential and proprietary to NETRONOME and that
        LICENSEE has no right to access or use such source code"
+
+references: 
+  "Firmware":
+    matches:
+      - "Agilio(r) Firmware License Agreement (the \"AGREEMENT\")
+
+          BY INSTALLING OR USING IN ANY MANNER THE SOFTWARE THAT ACCOMPANIES THIS
+          AGREEMENT (THE \"SOFTWARE\") YOU (THE \"LICENSEE\") ACKNOWLEDGE TO BE BOUND
+          BY ALL OF THE TERMS OF THIS AGREEMENT.
+
+          LICENSE GRANT. Subject to the terms and conditions set forth herein,
+          Netronome Systems, Inc. (\"NETRONOME\") hereby grants LICENSEE a non-
+          exclusive license to use, reproduce and distribute the SOFTWARE
+          exclusively in object form."

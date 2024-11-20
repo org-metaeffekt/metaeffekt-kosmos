@@ -20,12 +20,6 @@ evidence:
        are subject to the GNU LGPL or CPL terms"
     - "SPECIAL EXCEPTION allows you to use LZMA SDK in applications with closed code,
        while you keep LZMA SDK code unmodified"
-  excludes:
-    - "Common Development and Distribution License"
-
-# FIXME-REVIEW: why is this required; what is the intention?
-ignoreMatches:
-  - "LZMA SDK License 2008"
 
 references:
   "LGPL":

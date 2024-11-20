@@ -1,7 +1,8 @@
-# FIXME-IMPLEMENT: check relationship to RSA Data Security MD License
 canonicalName: RSA Data Security MD5
 category: RSA Data Security
 spdxIdentifier: RSA-MD
+
+# NOTICE: this is a filled out "RSA Data Security MD License" license - the variables have been replaced by names. I (NKR) suggest to keep both licenses so "RSA Data Security MD5" can be matched discretely and "RSA Data Security MD License" can be used to match less specific versions of the license - like undefined?
 
 otherIds:
   - "scancode:rsa-md5"

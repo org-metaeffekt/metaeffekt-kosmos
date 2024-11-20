@@ -17,8 +17,13 @@ evidence:
        resulting executable to be covered by the GNU General Public
        License.  Your use of that executable is in no way restricted on
        account of linking the SANE library code into it"
-  # FIXME-REVIEW: excludes; check whether exclude can be removed
+
   excludes:
+# this exclude is needed to differentiate between Linking Exception (GPL; variant 019) and Linking Exception (GPL; variant 020)
     - "This exception does not, however, invalidate any other reasons why
        the executable file might be covered by the GNU General Public
-       License"
+       License.
+
+       If you submit changes to SANE to the maintainers to be included in
+       a subsequent release, you agree by submitting the changes that
+       those changes may be distributed with this exception intact"

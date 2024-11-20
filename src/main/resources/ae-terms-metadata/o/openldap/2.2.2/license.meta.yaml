@@ -28,20 +28,21 @@ ignoreMatches:
 evidence:
     matches:
         - "Redistribution and use of this software and associated documentation (\"Software\"),
-              with or without modification, are permitted provided that the following conditions
-              are met"
+           with or without modification, are permitted provided that the following conditions
+           are met"
         - "Redistributions of source code must retain copyright statements and notices"
         - "Redistributions in binary form must reproduce applicable copyright statements
            and notices, this list of conditions, and the following disclaimer in the
            documentation and/or other materials provided with the distribution"
-        - "Products derived from this Software may not be called \"OpenLDAP\" nor may
-              \"OpenLDAP\" appear in their names without prior written permission of the OpenLDAP
-              Foundation"
+        - "Products derived from this Software may not be called \"OpenLDAP\" nor may \"OpenLDAP\"
+           appear in their names without prior written permission of the OpenLDAP Foundation"
         - "The OpenLDAP Foundation may revise this license from time to time"
         - "THIS SOFTWARE IS PROVIDED BY THE OPENLDAP FOUNDATION AND CONTRIBUTORS ``AS
            IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
            THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
            ARE DISCLAIMED"
+    excludes:
+        - "The OpenLDAP Public License Version 2.3"
 
 licenseTemplate: 
     "<lq>Redistribution and use of this software and associated documentation (\"Software\"),

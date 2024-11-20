@@ -1,0 +1,25 @@
+canonicalName: bcrypt Solar Designer License
+category: bcrypt Solar Designer License
+spdxIdentifier: bcrypt-Solar-Designer
+
+otherIds:
+  - "scancode:bcrypt-solar-designer"
+
+classification: permissive
+
+alternativeNames:
+  - "bcrypt Solar Designer License"
+
+evidence:
+  matches:
+    - "In case this attempt to disclaim copyright and place the software in
+       the public domain is deemed null and void"
+
+references:
+ "Public Domain":
+   matches:
+     - "In case this attempt to disclaim copyright and place the software
+        in the public domain is deemed null and void"
+
+ignoreMatches:
+  - "Public Domain + BSD alike"

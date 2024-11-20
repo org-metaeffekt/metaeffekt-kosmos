@@ -20,6 +20,7 @@ expectedMatches:
   - "CNRI License Agreement"
   - "Python Software Foundation License 2.0"
 
+# FIXME-DELETE
 ignoreMatches:
   - "Python Software Foundation License 2.0"
   - "CNRI Open Source License Agreement (Python 1.6.1)"

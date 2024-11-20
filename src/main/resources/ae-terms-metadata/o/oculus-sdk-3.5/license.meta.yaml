@@ -8,10 +8,6 @@ otherIds:
 alternativeNames:
   - "Oculus SDK License 3.5"
 
-#FIXME-REVIEW
-expectedMatches:
-  - "Oculus SDK License"
-
 evidence:
   matches:
     - "You may sublicense and redistribute the source, binary, or object code of the Oculus SDK in whole for no
@@ -26,3 +22,29 @@ references:
   "Public Domain":
     matches:
       - "The parties undertake to keep confidential all awards in their arbitration, together with all materials in the proceedings created for the purpose of the arbitration and all other documents produced by another party in the proceedings not otherwise in the public domain, save and to the extent that disclosure may be required of a party by legal duty"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "Oculus Software Development Kit License Agreement Copyright © Facebook Technologies, LLC and its affiliates. All rights reserved. The Oculus SDK License Agreement became effective on June 1, 2020, and governs your use of all Oculus SDKs. The agreement below is no longer in effect.",
+      
+      matchNext:
+        "The text of this may be found at: https://developer.oculus.com/licenses/sdk-3.5/ In order to obtain and use the Oculus Software Development Kit for mobile or for PC, You must first agree to the terms of this License. If you agree to the terms of this License, you may use the Oculus Software Development Kit. If you do not agree to the terms of this License, then you may not use the Oculus Software Development Kit. OCULUS SDK LICENSE"
+    },
+    {
+      match:
+      "The text of this may be found at: https://developer.oculus.com/licenses/sdk-3.5/ In order to obtain and use the Oculus Software Development Kit for mobile or for PC, You must first agree to the terms of this License. If you agree to the terms of this License, you may use the Oculus Software Development Kit. If you do not agree to the terms of this License, then you may not use the Oculus Software Development Kit. OCULUS SDK LICENSE",
+    
+      matchNext:
+        "1. Subject to the terms and conditions of this License Agreement (the \"License\"), Facebook Technologies, LLC formerly known as Oculus VR, LLC (\"Oculus\") hereby grants to you a worldwide, non-exclusive, no-charge, royalty-free, sublicenseable copyright license to use, reproduce and redistribute (subject to restrictions below) the software contained in this Oculus Software Development Kit for PC and/or mobile (\"Oculus SDK\"), including, but not limited to, the samples, headers, LibOVR and VRLib headers, LibOVR and VRLib source and, subject to your compliance with Section 3, the headers, libraries and APIs to enable the Platform Services"
+    },
+    {
+    match:
+        "(iv) Oculus hardware or software security features; (v) end user's settings; or (vi) the Oculus Flash Screen Warnings. You also agree not to commit any act intended to interfere with the normal operation of the Oculus hardware or software or Oculus Approved Products, or provide software to Oculus users or developers that would induce breach of any Oculus agreements or that contains malware, viruses, hacks, bots, Trojan horses, or other malicious code. 1.4 You may not use the Oculus SDK for any purpose not expressly permitted by this License. You may not (except as and only to the extent any following restriction is prohibited by applicable law): (a) decompile; (b) reverse engineer; (c) disassemble; (d) attempt to derive the source code of the Oculus SDK or any part of the Oculus SDK, or any other software or firmware provided to you by Oculus. REDISTRIBUTION",
+    
+    matchNext:
+      "2. Subject to the terms and conditions of this License, your license to redistribute and sublicense the Oculus SDK is also expressly made subject to the following conditions: 2.1 You may sublicense and redistribute the source, binary, or object code of the Oculus SDK in whole for no charge or as part of a for-charge piece of Developer Content; provided, however, you may only license, sublicense or redistribute the source, binary or object code of the Oculus SDK in its entirety. The Oculus SDK (including, but not limited to LibOVR and VRLib), and any Developer Content that includes any portion of the Oculus SDK, may only be used with Oculus Approved Products and may not be used, licensed, or sublicensed to interface with software or hardware or other commercial headsets, mobile tablets or phones that are not authorized and approved by Oculus"
+    },
+
+]

@@ -8,10 +8,12 @@ canonicalNameHistory:
 otherIds:
   - "scancode:selinux-nsa-declaration-1.0"
 
-# FIXME-REVISE: handling unclear; what shall be the outcome
-ignoreMatches:
+
+expectedMatches:
   - "Public Domain"
-  - "libselinux License"
+
+expectedSpdxMatches:
+  - "Public Domain"
 
 representedAs: Public Domain
 
@@ -20,10 +22,6 @@ displayName: "Public Domain"
 alternativeNames:
   - "libselinux public domain notice"
   - "libselinux-1.0"
-
-expectedSpdxMatches:
-  - "Public Domain"
-  - "Public Domain Notice (libselinux)"
 
 evidence:
   matches:
@@ -34,8 +32,6 @@ evidence:
        caused and on any theory of liability"
     - "This limitation will apply even if NSA has been advised of the possibility of such damage"
     - "You acknowledge that this is a reasonable allocation of risk"
-  excludes:
-    - "This library is public domain software, i.e. not copyrighted"
 
 segmentation:
   revert: [

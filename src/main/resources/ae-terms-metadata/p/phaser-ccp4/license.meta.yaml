@@ -8,10 +8,6 @@ otherIds:
 alternativeNames:
   - "Phaser Commercial EULA (CCP4)"
 
-#FIXME-REVIEW
-expectedMatches:
-  - "Phaser Commercial EULA (Phenix)"
-
 evidence:
   matches:
     - "the Licensee may use the Software solely for its internal use and the Licensee shall not sell,
@@ -29,3 +25,11 @@ evidence:
     - "including the Software which is the subject of the Licence in this Agreement, which has been assembled
        for the PHENIX Industry Consortium"
 
+segmentation:
+  revert: [
+    { match:
+        "If the Licensee does not agree to these terms and conditions, the Licensee may not download, install or use the Software. AGREED TERMS 1. DEFINITIONS 1.1 In this Agreement the following words and phrases shall, unless the context otherwise requires, have the following meanings: Commencement Date means the initial date of download of the Software from its internet publication site by the Licensee; Derivatives means computer programs in machine readable object code or source code form developed or otherwise acquired by the Licensee which are a modification of, enhancement to, derived from or based upon the Software; Fee means the annual licence fee payable by the Licensee to the CCLRC; Intellectual Property Rights means all patents, copyrights, design rights, trade marks, service marks, trade secrets, know-how, database rights and other rights in the nature of intellectual property rights (whether registered or unregistered) and all applications for the same, anywhere in the world; Parties means CUTS and the Licensee and \"Party\" shall mean either of them; Software means the computer program and version listed at the head of this Agreement. 2. GRANT OF LICENCE",
+      matchNext:
+        "2.1 In consideration of the Fee, CUTS hereby grants to the Licensee a non-exclusive, non-transferable, royalty-free licence, commencing on the Commencement Date and for the duration of payment of the Fee, to download, install and use the Software subject to the following terms and conditions: (a) the Licensee may use the Software solely for its internal use and the Licensee shall not sell, give, disclose, lend, transfer, sublicense or otherwise distribute the Software to any third party, or allow the Software to be accessed over the internet or in any other manner that would allow access to the Software by anyone other than the Licensee's employees (and consultants and contractors provided such use is solely for the Licensee's internal use and subject to the provisions of this Agreement); (b) the Licensee may create Derivatives solely for its own internal use but shall not distribute the Software or any Derivatives in whole or in part to any third party; (c) the Software may be installed and used only on computers owned or leased by the Licensee; (d) the Licensee may copy the Software solely to the extent necessary to exercise this Licence, and for backup, disaster recovery and archival purposes, provided that the Licensee shall retain on all copies of the Software the following copyright notice: (C) 2000-2005. Cambridge University Technical Services Limited."
+    }
+  ]

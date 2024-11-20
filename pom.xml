@@ -12,8 +12,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <ae.core.version>0.125.0</ae.core.version>
-        <ae.artifact.analysis.version>0.125.0</ae.artifact.analysis.version>
+        <ae.core.version>0.126.0</ae.core.version>
+        <ae.artifact.analysis.version>0.126.0</ae.artifact.analysis.version>
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>

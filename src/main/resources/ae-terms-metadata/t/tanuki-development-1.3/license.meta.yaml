@@ -10,8 +10,6 @@ alternativeNames:
 
 expectedMatches:
   - "MIT License" # the MIT license is embedded in section 13; there is also another mention at the very and (without disclaimer)
-# FIXME-REVIEW
-  - "Permission Terms (variant 069)"
 
 evidence:
   matches:

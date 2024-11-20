@@ -5,7 +5,6 @@ spdxIdentifier: HPND-sell-variant-MIT-disclaimer
 otherIds:
   - "scancode:hpnd-sell-variant-mit-disclaimer"
 
-
 alternativeNames:
   - "HPND-sell-variant-MIT-disclaimer"
   - "HPND sell variant with MIT disclaimer"
@@ -31,7 +30,7 @@ evidence:
 
 ignoreMatches:
   - "Historical Permission Notice & Disclaimer (sell variant with MIT disclaimer - reverse)"
-    
+
 segmentation:
   revert: [
     { match:

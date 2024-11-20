@@ -5,10 +5,6 @@ shortName: MS-Developer-Services-Agreement-2018
 canonicalNameHistory:
   - "Microsoft Developer Services Agreement 2018-06"
 
-# FIXME-REVIEW
-expectedMatches:
-  - "Microsoft Developer Agreement"
-
 otherIds:
   - "scancode:ms-developer-services-agreement-2018-06"
 
@@ -28,3 +24,12 @@ evidence:
        and records relating to your use of the Services to enable Microsoft to conduct the audit"
     - "If requested, you must provide us with proof of your compliance with this Agreement"
     - "Unless Microsoft otherwise specifies, Microsoft may make commercially reasonable changes to a Service or feature from time to time"
+
+segmentation:
+  revert: [
+    { match:
+        "Microsoft Developer Agreement",
+      matchNext:
+        "Last updated: June 2018 This agreement is between you and Microsoft Corporation (“Microsoft”), and consists of the terms below (“Developer Terms”) and the Microsoft Privacy Statement (together, “Agreement”). If you are entering into this Agreement on behalf of an entity, such as your employer, you represent that you have the legal authority to bind that entity. If you specify a company name in connection with signing up for or ordering a Service, you will be deemed to have placed that order and to have entered into this Agreement on behalf of that organization or company. Key terms are defined in Section 10. 1. Offerings 1. APIs. Your access and use of Microsoft’s APIs are governed by certain terms and conditions"
+    }
+]

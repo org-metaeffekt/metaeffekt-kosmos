@@ -10,10 +10,6 @@ alternativeNames:
 otherIds:
   - "scancode:cc-by-3.0-us"
 
-# FIXME-REVIEW
-expectedMatches:
-  - "Creative Commons BY 3.0"
-
 requiresCopyright: false
 requiresLicenseText: false
 requiresNote: true
@@ -52,3 +48,8 @@ evidence:
        contribute you must check the registration form at http://lab.hermesnet.it/
        (Sourceforge registered project at http://sourceforge.net/projects/hermesnetlab/) and
        fill it in when a subscription is required"
+
+references:
+  "CC-BY":
+    matches:
+      - "License: CC-BY-3.0-US <!-- Seamless texture provided by FreeSeamlessTextures.com --> <!-- License: creative commons attribution --> From <http://freeseamlesstextures.com/>: Are the textures on this site really free? Yes. All the textures are free to download and use in both personal and commercial design projects. They are provided under a Creative Commons Attribution 3.0 License <http://creativecommons.org/licenses/by/3.0/us/>."

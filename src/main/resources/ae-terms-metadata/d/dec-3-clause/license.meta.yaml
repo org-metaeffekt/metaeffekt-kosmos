@@ -1,0 +1,19 @@
+canonicalName: DEC 3-Clause License
+category: DEC 3-Clause License
+spdxIdentifier: DEC-3-Clause
+
+otherIds:
+  - "scancode:dec-3-clause"
+
+classification: permissive
+
+alternativeNames:
+  - "DEC-3-Clause"
+  - "DEC 3-Clause License"
+
+evidence:
+  matches:
+    - "No right is granted to use any trade name, trademark, or logo of Digital Equipment Corporation"
+    - "Neither the 'Digital Equipment Corporation' name nor any trademark or logo of Digital Equipment
+       Corporation may be used to endorse or promote products derived from this software without the prior
+       written permission of Digital Equipment Corporation"

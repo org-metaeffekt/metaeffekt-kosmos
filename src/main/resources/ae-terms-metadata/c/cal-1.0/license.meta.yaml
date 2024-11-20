@@ -12,6 +12,9 @@ otherIds:
   - "scancode:cal-1.0"
   - "osi:CAL-1.0"
 
+expectedMatches:
+  - "Cryptographic Autonomy License 1.0 (combined work)"
+
 expectedSpdxMatches:
   - "Cryptographic Autonomy License 1.0 (combined work)"
   - "Cryptographic Autonomy License 1.0"
@@ -50,8 +53,3 @@ references:
          any modifications of this license may not use the name \"Cryptographic
           Autonomy License\" or any name confusingly similar thereto to describe
           any derived work of this License"
-  "CAL-1.0 Combined Work Exception":
-    matches:
-      -  "SPDX-License-Identifier: CAL-1.0-Combined-Work-Exception
-          Licensed under the Cryptographic Autonomy License version 1.0, with
-          Combined Work Exception"

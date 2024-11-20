@@ -215,6 +215,7 @@ Balloon Open Hardware License 0.2
 Barr License
 Bash Exception (GPL)
 Bash Exception (to GPL)
+bcrypt Solar Designer License
 BEA Public License 2.1
 Beal Screamer License
 Beerware License
@@ -261,6 +262,7 @@ Brankas Open License 1.0
 Brent Corkum License
 Brian Gladman 3-Clause License
 Brian Gladman License
+Brian Gladman License (variant 001)
 Broadcom CFE License
 Broadcom Commercial Notice
 Broadcom Confidential
@@ -341,6 +343,7 @@ BSD 3-Clause License (export)
 BSD 3-Clause License (Flex)
 BSD 3-Clause License (GPL addition)
 BSD 3-Clause License (HDF5)
+BSD 3-Clause License (Hewlett-Packard)
 BSD 3-Clause License (Inferno Nettverk)
 BSD 3-Clause License (JGraph)
 BSD 3-Clause License (Lawrence Berkeley National Labs)
@@ -810,6 +813,7 @@ DataMekanix License
 David H. Bailey LBNL BSD License 2007
 David H. Bailey Limited BSD License 2015
 Day Specification License
+Debian Base Files FAQ
 Debian GPL Reference
 Debian GPL Reference (variant 002)
 Debian GPL Reference (variant 003)
@@ -818,6 +822,7 @@ Debian GPL Reference Var2
 Debian GPL Reference Var3
 Debian GPL Reference Var4
 Debian reportbug License
+DEC 3-Clause License
 Defensive Patent License 1.1
 Dennis Ferguson License
 Detection Rule License 1.0
@@ -915,6 +920,7 @@ EmbedThis Evaluation License
 EmbedThis Terms of Use 2022
 Embedthis Terms of Use 2022
 EMX Library License
+Encryption for the Masses License
 Energy Plus License
 EnergyPlus License
 Enhanced MIT License
@@ -924,6 +930,8 @@ Entessa License
 ePaperPress License
 EPICS Open License
 EPO Open Source Licence No. 2005/1
+EPSG database distribution license
+EPSG Geodetic Parameter Dataset Terms of Use
 Erlang Linking Exception (AGPL; with source provision obligation)
 Erlang Public License 1.1
 Errbot Exception
@@ -943,6 +951,7 @@ Fabien Tassin License
 Fabric Software and Services Agreement 2017
 Facebook License Agreement (Nuclide Software)
 Facebook Software License
+Fair Core License 1.0 (Apache 2.0)
 Fair License
 Fair Source License 0.9
 False BSD reference
@@ -1010,6 +1019,8 @@ Functional Source License 1.0 (Apache 2.0 Change)
 Functional Source License 1.0 (Apache 2.0)
 Functional Source License 1.0 (MIT Change)
 Functional Source License 1.0 (MIT)
+Functional Source License 1.1 (Apache-2.0)
+Functional Source License 1.1 (MIT)
 Furuseth License
 Future Technology Devices International License
 fwlw License
@@ -2455,6 +2466,7 @@ Permission Terms (Carnegie Mellon University Flite)
 Permission Terms (Carnegie Mellon)
 Permission Terms (check-cvs)
 Permission Terms (CMU)
+Permission Terms (CMU; variant 002)
 Permission Terms (curl)
 Permission Terms (Digital Equipment Corporation)
 Permission Terms (Digital Equipment Corporation; variant 002)
@@ -2948,6 +2960,8 @@ Sun BCL JavaHelp
 Sun BCL JIMI SDK
 Sun BCL JRE 6
 Sun BCL JSMQ
+Sun BCL OpenDMK
+Sun BCL OpenJDK
 Sun Binary Code License 11-06
 Sun Binary Code License 11-07
 Sun Binary Code License J2RE 1.2.X

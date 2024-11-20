@@ -6,9 +6,8 @@ otherIds:
   - "scancode:openldap-2.8"
   - "osi:OLDAP-2.8"
 
-# FIXME-REVIEW: the 3.3 mapping is only temporary until scan results are updated
 canonicalNameHistory:
-  - OpenLDAP Public License 3.3
+  - "OpenLDAP Public License 3.3"
 
 alternativeNames:
   - "OpenLDAP Public License 2.8"

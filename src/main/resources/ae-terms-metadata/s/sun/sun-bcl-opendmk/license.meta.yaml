@@ -1,0 +1,42 @@
+canonicalName: Sun BCL OpenDMK
+category: Sun BCL OpenDMK
+shortName: sun-bcl-opendmk
+
+otherIds:
+  - "scancode:sun-bcl-opendmk"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Sun BCL OpenDMK"
+  - "sun-bcl-opendmk"
+  - "Binary License for Project OpenDMK"
+
+evidence:
+  matches:
+    - "The copies of Software provided to you under this Agreement is licensed,
+       not sold, to you by Sun. Sun reserves all rights not expressly granted"
+    - "You may not modify Software. However if the documentation accompanying
+       Software lists specific portions of Software, such as header files, class
+       libraries, reference source code, and/or redistributable files, that may
+       be handled differently, you may do so only as provided in the
+       documentation"
+    - "You may not rent, lease, lend or encumber Software"
+    - "You do not remove or alter any proprietary legends or notices contained
+       in the Software"
+    - "Unless enforcement is prohibited by applicable law, you may not decompile,
+       or reverse engineer Software"
+    - "The terms and conditions of this Agreement will apply to any Software
+       updates, provided to you at Sun's discretion, that replace and/or
+       supplement the original Software, unless such update contains a separate
+       license"
+    - "Software is not designed, licensed or intended for use in the design,
+       construction, operation or maintenance of any nuclear facility and Sun
+       and its licensors disclaim any express or implied warranty of fitness
+       for such uses"
+    - "No right, title or interest in or to any trademark, service mark, logo
+       or trade name of Sun or its licensors is granted under this Agreement"
+    - "If your Permitted Use in this Agreement permits the distribution Software
+       or portions of the Software, you may only distribute the Software subject
+       to a license agreement that protects Sun's interests consistent with the
+       terms contained in this Agreement"

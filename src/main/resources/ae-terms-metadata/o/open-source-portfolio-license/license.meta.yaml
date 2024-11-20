@@ -8,6 +8,8 @@ alternativeNames:
 
 evidence:
   matches:
+    - "This License is based on the Jabber Open Source License Version 1.0 and
+       complies with the Open Source Definition"
     - "You may use, sell or give away the Licensed Product, alone or as a
        component of an aggregate software distribution containing programs from
        several different sources"

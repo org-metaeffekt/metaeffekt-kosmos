@@ -32,17 +32,25 @@ public class ScannerIntegrationTest extends AbstractScannerIntegrationTest {
         boolean deleteAnalysisFolder = true;
         List<String> excludes = new ArrayList<>();
 
-        // this is in issue in combiner; bug
+        // NKR: this seems broken. Cannot identify cause of issue:
+        // KKL: this is an issue in the combiner logic
         excludes.add("ANY + GNU Library General Public License 2.0 (or any later version)");
 
-        excludes.add("Linum Software License");
-        excludes.add("Net License SNMP");
-        excludes.add("Philippe De Muyter License");
-        excludes.add("Python License 2.0");
-        //excludes.add("ACE License");
-
         // ignored reference that gets matched:
+        // KKL: ignored licenses should not be 'removed' from match result
         excludes.add("Freemarker Historic Note");
+
+        // ignored, deprecated, too vague to be modelled. Needs to be discussed:
+        // KKL: ignored licenses should not be 'removed' from match result
+        excludes.add("Linum Software License");
+
+        // ignored, deprecated, too vague to be modelled. Needs to be discussed:
+        // KKL: ignored licenses should not be 'removed' from match result
+        excludes.add("Philippe De Muyter License");
+
+        // these came up because of the most recent fix regarding expectedMatches
+        // FIXME-KKL: check license mismatches caused by Python License 2.0.1 & CNRI Open Source License Agreement (Python 1.6.1)
+        excludes.add("Python License 2.0");
 
         assertUniqueLicenseIdentification(nmd, excludes, skipUntilLicense, deleteAnalysisFolder);
     }

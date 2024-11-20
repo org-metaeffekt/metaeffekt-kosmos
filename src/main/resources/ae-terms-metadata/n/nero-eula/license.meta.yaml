@@ -6,14 +6,12 @@ otherIds:
   - "scancode:nero-eula"
 
 ignoreMatches:
+  - "Brian Gladman 3-Clause License"
   - "GNU Lesser General Public License 2.1 (or any later version)"
+  - "Gracenote EULA"
   - "OpenSSL License"
   - "Permission Terms (Putty)"
   - "RSA Data Security MD5"
-  - "Gracenote EULA"
-  - "Brian Gladman 3-Clause License"
-# FIXME-IMPLEMENT: this license is not matched by the workbench but the 03_Test does
-  - "FAQ"
 
 evidence:
   matches:

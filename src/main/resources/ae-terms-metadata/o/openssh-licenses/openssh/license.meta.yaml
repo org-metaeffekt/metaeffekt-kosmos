@@ -17,9 +17,8 @@ expectedMatches:
   - "snprintf License"
   - "ssh-keyscan License"
   - "X11 License (distribute modifications)"
-# FIXME-REVIEW
-  - "BSD 3-Clause License"
   - "ISC License"
+  - "BSD 3-Clause License"
 
 otherIds:
   - "scancode:openssh"

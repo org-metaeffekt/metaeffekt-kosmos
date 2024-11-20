@@ -24,9 +24,9 @@ evidence:
     - "You can learn more about data collection and use in the help documentation and the privacy statement at
        https://aka.ms/privacy"
     - "Your use of the software operates as your consent to these practices"
+    - "The software may contain code you are permitted to distribute (i.e. make available for third parties) in applications you develop, as described in this Section"
   excludes:
     - "As this software is distributed in Canada, some of the clauses in this agreement are provided below in French"
 
 ignoreMatches:
-  - "Microsoft Pylance Extension for Visual Studio Code License"
   - "Microsoft Visual Studio TestPlatform 17.0.0"
