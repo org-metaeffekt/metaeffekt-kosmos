@@ -11,7 +11,7 @@ For details see [ae-terms-metadata Structure](https://github.com/org-metaeffekt/
 ## Format Definition
 
 The TMD is based on definitions of licenses or other terms and conditions (terms). The definition are expressed in
-a YAML format. See [YAML Format](doc/yaml-format.md).
+a YAML format. See [YAML Format](https://github.com/org-metaeffekt/metaeffekt-documentation/blob/main/metaeffekt-universe/docs/yaml-format.md).
 
 ## Tests
 
