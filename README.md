@@ -51,7 +51,8 @@ The metæffekt Kosmos is build based on various external sources including:
   approval information is Open CoDE Public Domain. The status information shown reflects version 1.4 from
   January 2024.
 
-The content provided in {metæffekt}-universe is licensed under [Creative Commons BY-4.0](LICENSE).
+The content provided in {metæffekt}-universe is licensed under [Creative Commons BY-4.0](LICENSE). Supporting
+code is provided under Apache License 2.0.
 
 Copyright © metaeffekt GmbH 2021-2025. All rights reserved.
 
