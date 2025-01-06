@@ -1,9 +1,12 @@
-canonicalName: Developing Nations 2.0
+canonicalName: Creative Commons Developing Nations 2.0 License
 category: CC-DevNations
 shortName: CC-DevNations-2.0
 
 otherIds:
   - "scancode:cc-devnations-2.0"
+
+canonicalNameHistory:
+  - "Developing Nations 2.0"
 
 alternativeNames:
   - "Developing Nations 2.0"

@@ -3,7 +3,7 @@ category: LiLiQ Rplus
 spdxIdentifier: LiLiQ-Rplus-1.1
 
 ##FIXME-RESEARCH: Diff to Licence Libre du Québec – Réciprocité -> I dont know I cant speak french
-# the licenses seem almost identical - only difference in: "9. Résiliation" - does this clause make it reasonable to have 2 licenses?
+# FIXME-DISCUSS: the licenses seem almost identical - only difference in: "9. Résiliation" - does this clause make it reasonable to have 2 licenses?
 otherIds:
   - "scancode:liliq-rplus-1.1"
   - "osi:LiLiQ-Rplus-1.1"

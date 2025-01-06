@@ -2,9 +2,13 @@ canonicalName: Ruby PTY Extension License
 category: Ruby-PTY
 spdxIdentifier: Ruby-pty
 
+otherIds:
+  - "scancode:ruby-pty"
+
 alternativeNames:
   - "Ruby-pty"
   - "Ruby pty extension license"
+  - "Ruby PTY Extension License"
 
 canonicalNameHistory:
   - "Ruby pty extension license"

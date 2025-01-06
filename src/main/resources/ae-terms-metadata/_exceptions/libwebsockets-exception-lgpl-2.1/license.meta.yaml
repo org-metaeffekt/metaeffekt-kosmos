@@ -72,8 +72,6 @@ masks:
          - test-apps/.h
          - lwsws/"
 
-#FIXME-RESEARCH: the matching of "3-clause BSD" with the BSD 3-clause could not be prevented - not with references(match not found error), neither with a mask - temporary solution: exclude it in BSD license
-
 segmentation:
   revert: [
     { match:

@@ -7,6 +7,9 @@ otherIds:
 
 requiresCopyright: false
 requiresLicenseText: false
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
 
 evidence:
   matches:

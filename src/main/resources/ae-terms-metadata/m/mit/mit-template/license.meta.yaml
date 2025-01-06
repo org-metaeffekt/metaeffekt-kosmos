@@ -56,66 +56,65 @@ alternativeNames:
   - "under the [MIT](License) license"
 
 evidence:
+  # FIXME-IMPLEMENT: review matches; include grants and obligations
   matches:
-  - "THE SOFTWARE IS PROVIDED *{.{0,40}}*WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-     WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
-  - "IN NO EVENT SHALL *{.{0,70}}* BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
-     AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNEC*{.{0,3}}*TION WITH THE SOFTWARE OR THE USE OR
-     OTHER DEALINGS *{.{0,60}}* THE SOFTWARE"
+  - "THE SOFTWARE IS PROVIDED *{.{0,40}}*WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO 
+     THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
+  - "IN NO EVENT SHALL *{.{0,70}}* BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+     CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNEC*{.{0,3}}*TION WITH THE SOFTWARE OR THE USE OR OTHER 
+     DEALINGS *{.{0,60}}* THE SOFTWARE"
+  # FIXME-IMPLEMENT: review excludes
   excludes:
   - "not be used in advertising or otherwise to promote the sale, use or other deal*ings in this Software without prior
      written authorization"
-  - "shall be modified such that the Original Author's bug reporting email addresses and urls are either
-     replaced with the contact information of the parties responsible for the changes,
-     or removed entirely"
-  - "This agreement shall be governed in all respects by the laws of the State
-     of California and by the laws of the United States of America"
-  - "Red Hat, Inc not be used in advertising or publicity pertaining to
-     distribution of the software without specific, written prior permission"
-  - "Neither the names of the above-listed copyright holders nor the
-     names of any contributors may be used to endorse or promote
-     product derived from this software without specific prior written permission"
-  - "Modification is not permitted with respect to this document. All copies
-     of this document must be verbatim"
-  - "Except as contained in this notice, the name of SunSoft, Inc.
-     shall not be used in advertising or otherwise to promote the
-     sale, use or other dealings in this Software without written
-     authorization from SunSoft Inc"
-  - "The source code responsible for displaying the bpmn.io logo (two green cogwheels
-     in a box) that links back to http://bpmn.io as part of rendered diagrams MUST
-     NOT be removed or changed. When this software is being used in a website or
-     application, the logo must stay fully visible and not visually overlapped by
-     other elements"
-  - "If your version of the Software supports interaction with it remotely through
-     a computer network, the above copyright notice and this permission notice
-     shall be accessible to all users"
+  - "shall be modified such that the Original Author's bug reporting email addresses and urls are either replaced with 
+     the contact information of the parties responsible for the changes, or removed entirely"
+  - "This agreement shall be governed in all respects by the laws of the State of California and by the laws of the 
+     United States of America"
+  - "Red Hat, Inc not be used in advertising or publicity pertaining to distribution of the software without specific, 
+     written prior permission"
+  - "Neither the names of the above-listed copyright holders nor the names of any contributors may be used to endorse 
+     or promote product derived from this software without specific prior written permission"
+  - "Modification is not permitted with respect to this document. All copies of this document must be verbatim"
+  - "Except as contained in this notice, the name of SunSoft, Inc. shall not be used in advertising or otherwise to 
+     promote the sale, use or other dealings in this Software without written authorization from SunSoft Inc"
+  - "The source code responsible for displaying the bpmn.io logo (two green cogwheels in a box) that links back to 
+     http://bpmn.io as part of rendered diagrams MUST NOT be removed or changed. When this software is being used in a 
+     website or application, the logo must stay fully visible and not visually overlapped by other elements"
+  - "If your version of the Software supports interaction with it remotely through a computer network, the above 
+     copyright notice and this permission notice shall be accessible to all users"
   - "Any distribution of this source code or any modification thereof in source code format, must be done under the 
      Enhanced MIT license and not under any other licenses, such as GPL"
-  - "The software may not be used by individuals, corporations, governments, or other groups for systems or activities that actively and knowingly endanger, harm, or otherwise threaten the physical, mental, economic, or general well-being of underprivileged individuals or groups"
-  - "The software may not be used by individuals, corporations, governments, or other groups for systems or activities that actively and knowingly endanger, harm, or otherwise threaten the physical, mental, economic, or general well-being of other individuals or groups in violation of the United Nations Universal Declaration of Human Rights"
-  - "If the Software is used to provide a service to others, the licensee shall, as a condition of use, require those others not to use the service in any way that violates the No Harm clause above"
+  - "The software may not be used by individuals, corporations, governments, or other groups for systems or activities 
+     that actively and knowingly endanger, harm, or otherwise threaten the physical, mental, economic, or general 
+     well-being of underprivileged individuals or groups"
+  - "The software may not be used by individuals, corporations, governments, or other groups for systems or activities 
+     that actively and knowingly endanger, harm, or otherwise threaten the physical, mental, economic, or general 
+     well-being of other individuals or groups in violation of the United Nations Universal Declaration of Human Rights"
+  - "If the Software is used to provide a service to others, the licensee shall, as a condition of use, require those 
+     others not to use the service in any way that violates the No Harm clause above"
   - "The Software shall be used for Good, not Evil"
-  - "For example “The MIT License” or just “MIT”. Default “The MIT License” (https://opensource.org/license/mit/) if not differently specified"
+  - "For example “The MIT License” or just “MIT”. Default “The MIT License” (https://opensource.org/license/mit/) if 
+     not differently specified"
   - "The Software is used with an Embedthis product licensed under an Embedthis Commercial License"
-  - "\"This product includes software developed by Filament Group, Inc (http://www.filamentgroup.com/) and its contributors\", in the same place and form as other third-party acknowledgments"
-  - "On the second anniversary of the date we make the Software available, the
-     Software will become available under the MIT license. On that date, the Terms
-     and Conditions above automatically terminate and the following terms become
+  - "\"This product includes software developed by Filament Group, Inc (http://www.filamentgroup.com/) and its 
+     contributors\", in the same place and form as other third-party acknowledgments"
+  - "On the second anniversary of the date we make the Software available, the Software will become available under the 
+     MIT license. On that date, the Terms and Conditions above automatically terminate and the following terms become
      effective" # Functional Source License 1.0 (MIT)
-  - "We hereby irrevocably grant you an additional license to use the Software under
-     the MIT license that is effective on the second anniversary of the date we make
-     the Software available. On or after that date, you may use the Software under
-     the MIT license, in which case the following will apply" # Functional Source License 1.1 (MIT)
-  - "The application part of OWTChart was developed by Daniel Morissette (danmo@videotron.ca), and part of it was done under contract with Health Canada"
-  - "The Star And Thank Author License (SATA)"
-  - "Restrictions:
-     By making use of the Software for military purposes, you choose to make a Bunny unhappy"
+  - "We hereby irrevocably grant you an additional license to use the Software under the MIT license that is effective 
+     on the second anniversary of the date we make the Software available. On or after that date, you may use the 
+     Software under the MIT license, in which case the following will apply" # Functional Source License 1.1 (MIT)
+  - "The application part of OWTChart was developed by Daniel Morissette (danmo@videotron.ca), and part of it was done 
+     under contract with Health Canada"
+  - "Restrictions: By making use of the Software for military purposes, you choose to make a Bunny unhappy"
   - "This Software cannot be used to archive or collect data such as (but not limited to) that of events, news,
      experiences and activities, for the purpose of any concept relating to diary/journal keeping"
   - "A military context is a professional context where the intended application of the Software is integration or
      use with or by military software, tools (software or hardware), or personnel"
-  - "Title to copyright in this Software and any associated documentation will at all times remain with copyright holders"
-
+  - "The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the 
+     Software without specific, written prior permission"
+  - "Any use in a commercial product must be notified to the author by email indicating company name and product name"
 
 mappings:
   "TORT OR OTHERWISE, OUT OF OR IN CONNECTION WITH THENEWLINE-MARKER SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE":
@@ -139,7 +138,7 @@ mappings:
   "acorn-dynamic-importNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/dynamic-import` folder is licensed as MIT:":
     " LICENSE-SEGMENT-MARKER acorn-dynamic-importNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe code in the `lib/dynamic-import` folder is licensed as MIT:"
 
-#FIXME-RESEARCH: moving this expression to "BSD 3-Clause License (copyright holder variant)" causes the scanner to process it differently. the outcome of the segmentation is different. segmentations should apply globally - what is going on here?
+# FIXME-RESEARCH: moving this expression to "BSD 3-Clause License (copyright holder variant)" causes the scanner to process it differently. the outcome of the segmentation is different. segmentations should apply globally - what is going on here?
   "The text of both licenses areNEWLINE-MARKERprovided below.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe \"New\" BSD License":
     "The text of both licenses areNEWLINE-MARKERprovided below.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER LICENSE-SEGMENT-MARKER The \"New\" BSD License"
 
@@ -200,50 +199,43 @@ licenseTemplate:
 segmentation:
   revert: [
     { match:
-        "The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software",
+        "The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+         of the Software",
       matchNext:
-        "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY"
+        "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
+         LIMITED TO THE WARRANTIES OF MERCHANTABILITY"
     },
     { match:
         "BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR",
       matchNext:
-        "OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE"
+        "OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+         SOFTWARE"
     },
     { match:
-        "sell copies
-          of the Software, and to permit persons to whom the Software is furnished to do
-          so, subject to the following conditions",
+        "sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the 
+        following conditions",
       matchNext:
-        "The above copyright notice and this permission notice shall be included in all
-          copies or substantial portions of the Software"
+        "The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+         of the Software"
     },
+    # FIXME-IMPLEMENT: move to bsd licenses; this has nothing to do with MIT
     { match:
         "The \"New\" BSD License:",
       matchNext:
-        "Copyright (c) 2011-2016, The Dojo Foundation All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met"
+        "Copyright (c) 2011-2016, The Dojo Foundation All rights reserved. Redistribution and use in source and binary 
+        forms, with or without modification, are permitted provided that the following conditions are met"
     },
     { match:
-        "The following software may be included in this product: process-nextick-args. A copy of the source code may be downloaded from https://github.com/calvinmetcalf/process-nextick-args.git. This software contains the following license and notice below:
-
-         # Copyright (c) 2015 Calvin Metcalf
-
-         Permission is hereby granted, free of charge, to any person obtaining a copy
-         of this software and associated documentation files (the \"Software\"), to deal
-      in the Software without restriction, including without limitation the rights
-      to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-      copies of the Software, and to permit persons to whom the Software is
-      furnished to do so, subject to the following conditions:
-        
-        The above copyright notice and this permission notice shall be included in all
-        copies or substantial portions of the Software.",
+        "The above copyright notice and this permission notice shall be included in all
+         copies or substantial portions of the Software.",
       matchNext:
         "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-      IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-      FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-      AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-      LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-      OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-      SOFTWARE."
+         IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+         FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+         AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+         LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+         SOFTWARE."
     },
     { match:
         "This software contains the following license and notice below: The MIT License (MIT)",
@@ -258,6 +250,8 @@ segmentation:
     { match:
         "is licensed as follows: \"\"\" MIT License",
       matchNext:
-        "Copyright (C) 2018-2020 Guy Bedford Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction"
+        "Copyright (C) 2018-2020 Guy Bedford Permission is hereby granted, free of charge, to any person obtaining a 
+        copy of this software and associated documentation files (the \"Software\"), to deal in the Software without 
+        restriction"
     },
   ]

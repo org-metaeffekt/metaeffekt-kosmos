@@ -1,0 +1,21 @@
+canonicalName: Sun Binary Code License SDK 6.0
+category: Sun Binary
+shortName: Sun-BCL-SDK-6.0
+
+otherIds:
+  - "scancode:sun-bcl-sdk-6.0"
+
+alternativeNames:
+  - "Sun BCL SDK 6.0"
+  - "Sun Microsystems, Inc. Binary Code License Agreement for the JAVA SE DEVELOPMENT KIT (JDK), VERSION 6"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, including, but not limited to the Java Technology Restrictions of the Supplemental License Terms, Sun grants you a non-exclusive, non-transferable, limited license without license fees to reproduce and use internally Software complete and unmodified for the sole purpose of running Programs"
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"
+    - "UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON- INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID"
+    - "You may terminate this Agreement at any time by destroying all copies of Software"
+    - "All Software and technical data delivered under this Agreement are subject to US export control laws and may be subject to export or import regulations in other countries"
+    - "If any provision of this Agreement is held to be unenforceable, this Agreement will remain in effect with the provision omitted, unless omission would frustrate the intent of the parties, in which case this Agreement will immediately terminate"
+    - "The Software's installation and auto-update processes transmit a limited amount of data to Sun (or its service provider) about those specific processes to help Sun understand and optimize them"
+    - "This section pertains to your distribution of the Software with your printed book or magazine (as those terms are commonly used in the industry) relating to Java technology"

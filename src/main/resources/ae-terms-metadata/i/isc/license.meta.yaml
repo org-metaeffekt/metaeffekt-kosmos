@@ -3,6 +3,8 @@ category: ISC
 spdxIdentifier: ISC
 
 # FIXME-DISCUSS: license is the same as "Permission Terms (variant 075)" except for the copyrights. Does the difference justify keeping this license, or should the two (including IDs)be merged?
+# "Permission Terms (Acer)" is also very similar - maybe all of them could me merged with regex though this could
+# create issues if they are modelled too vague
 
 otherIds:
   - "scancode:isc"
@@ -38,23 +40,21 @@ evidence:
     - "not be used in advertising or publicity
        pertaining to distribution of the document or software without specific,
        written prior permission"
-    - "Except as contained in this notice the name of the X Consortium shall not be used in advertising or otherwise to promote the sale use or other dealings in this Software without prior written authorization"
+    - "Except as contained in this notice the name of the X Consortium shall not be used in advertising or
+       otherwise to promote the sale use or other dealings in this Software without prior written
+       authorization"
     - "PERMISSION TO USE, COPY, MODIFY, AND/OR DISTRIBUTE THIS SOFTWARE FOR ANY
-               PURPOSE WITH OR WITHOUT FEE IS HEREBY GRANTED, PROVIDED THAT THE ABOVE
-               COPYRIGHT NOTICE AND THIS PERMISSION NOTICE APPEAR IN ALL COPIES"
+       PURPOSE WITH OR WITHOUT FEE IS HEREBY GRANTED, PROVIDED THAT THE ABOVE
+       COPYRIGHT NOTICE AND THIS PERMISSION NOTICE APPEAR IN ALL COPIES"
     - "Permission to use, copy, modify, and distribute this software and its
        documentation for any purpose with or without fee is hereby granted,
        provided that the above copyright notice and this permission notice
        appear in all copies"
     - "Modification and redistribution in source and binary forms is permitted provided
-              that due credit is given to"
-    - "Copyright (c) 2010, Abilis Systems Sarl
-
-       Permission to use, copy, modify, and/or distribute this software"
-    - "Copyright 2018 Eemeli Aro <eemeli@gmail.com>
-
-       Permission to use, copy, modify, and/or distribute this software for any purpose
-       with or without fee is hereby granted"
+       that due credit is given to"
+    - "Copyright (c) 2010, Abilis Systems Sarl Permission to use, copy, modify, and/or distribute this software"
+    - "Copyright 2018 Eemeli Aro <eemeli@gmail.com> Permission to use, copy, modify, and/or distribute this software
+       for any purpose with or without fee is hereby granted"
 
 licenseTemplate: "<lq>Permission to use, copy, modify, and/or distribute this software for any purpose
                   with or without fee is hereby granted,

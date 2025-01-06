@@ -8,6 +8,11 @@ otherIds:
 alternativeNames:
   - "Xming License"
 
+# needed because references do not omit the undefined version matches.
+ignoreMatches:
+  - "GNU General Public License (undefined)"
+  - "GNU Lesser General Public License (undefined)"
+
 evidence:
   matches:
     - "Installation is only allowed on equipment owned by the person, organisation or site named on their license document"
@@ -15,9 +20,38 @@ evidence:
     - "all Project Xming dlls and binaries are made 'fresh' and consistent from strictly controlled source code
        (using a cross-compiler toolchain also built, by me, from canonical sources); none are supplied from third-party builds"
 
-expectedMatches:
-  - "MIT License"
-  - "GNU General Public License 2.0"
-  - "BSD (undefined)"
-  - "GNU Lesser General Public License 2.1"
-  - "Public Domain"
+references:
+  "Public Domain":
+    matches:
+      - "Note: The U.S. spelling for the noun licence is used throughout this website as most licenses referenced are of U.S. origin.
+
+         2. Applicability
+
+         This agreement is mandatory for Project Xming releases and components downloaded from this website, but not Public Domain releases from [WWW]SourceForge Project Xming.
+
+         3. Distribution
+
+         Please distribute freely Public Domain releases from SourceForge."
+  "GPL":
+    matches:
+      - "FreeType is supplied modified from the canonical [WWW]FreeType2 source under this BSD-style license (which has a credit clause). Note: builders of FreeType can [WWW]choose to use GPLv2 instead.
+
+         [WWW]Mesa 11.3.0-devel is supplied modified from the canonical [WWW]freedesktop.org source under this Mesa license."
+  "BSD":
+    matches:
+      - "FreeType is supplied modified from the canonical [WWW]FreeType2 source under this BSD-style license (which has a credit clause). Note: builders of FreeType can [WWW]choose to use GPLv2 instead.
+
+         [WWW]Mesa 11.3.0-devel is supplied modified from the canonical [WWW]freedesktop.org source under this Mesa license."
+  "LGPL":
+    matches:
+      - "winlocalename.c is adapted from file localename.c (an LGPLv2.1 file in [WWW]gettext-0.17/gettext-runtime/intl/).
+
+         [WWW]DejaVue fonts are supplied unmodified under this license."
+      - "Extension headers and specifications from the canonical [WWW]OpenGL Registry are used under SGI Free Software License B.
+
+         The [WWW]Pthreads-Win32 dll, built from modified source, is dynamically-linked from Xming and supplied compliant with LGPLv2.1."
+  "MIT":
+    matches:
+      - "[WWW]PuTTY is used under its permissive MIT license.
+
+         Xmon is supplied modified from this source code under this license."

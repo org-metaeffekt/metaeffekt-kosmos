@@ -1,0 +1,12 @@
+canonicalName: MIPS License
+category: MIPS
+spdxIdentifier: MIPS
+
+alternativeNames:
+  - "MIPS License"
+  - "MIPS Computer Systems"
+
+evidence:
+  matches:
+    - "MIPS Computer Systems, Inc. grants reproduction and use rights to all parties, PROVIDED that this
+       comment is maintained in the copy"

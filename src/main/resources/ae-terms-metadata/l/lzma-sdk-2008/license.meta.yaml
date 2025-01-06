@@ -71,10 +71,10 @@ references:
          4) Simplified license for unmodified code (read SPECIAL EXCEPTION) "
 
 
-#FIXME-REVIEW: Issue: reverting the segmentation works. after adding the mask the segmentation goes back to its original state - the segmentation revert is undone by the mask - why? needs fix!
-#fixed matching of the license, problem still persists
-#masks:
-# matches:
+# FIXME-REVIEW: Issue: reverting the segmentation works. after adding the mask the segmentation goes back to its original state - the segmentation revert is undone by the mask - why? needs fix!
+# fixed matching of the license, problem still persists
+# masks:
+#   matches:
 #    - "LZMA SDK provides the documentation, samples, header files, libraries,
 #       and tools you need to develop applications that use LZMA compression.
 #

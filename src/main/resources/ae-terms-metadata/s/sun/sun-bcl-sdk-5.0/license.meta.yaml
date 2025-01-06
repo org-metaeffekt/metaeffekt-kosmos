@@ -1,0 +1,21 @@
+canonicalName: Sun Binary Code License SDK 5.0
+category: Sun Binary
+shortName: Sun-BCL-SDK-5.0
+
+otherIds:
+  - "scancode:sun-bcl-sdk-5.0"
+
+alternativeNames:
+  - "Sun BCL SDK 5.0"
+  - "Sun Microsystems, Inc. Binary Code License Agreement for the JAVA 2 PLATFORM STANDARD EDITION DEVELOPMENT KIT 5.0"
+
+evidence:
+  matches:
+    - "Java applets and applications intended to run on the Java 2 Platform Standard Edition (J2SE platform) platform on Java-enabled general purpose desktop computers and servers"
+    - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors. Unless enforcement is prohibited by applicable law, you may not modify, decompile, or reverse engineer Software"
+    - "Your exclusive remedy and Sun's entire liability under this limited warranty will be at Sun's option to replace Software media or refund the fee paid for Software"
+    - "UNLESS SPECIFIED IN THIS AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID"
+    - "You may terminate this Agreement at any time by destroying all copies of Software.  This Agreement will terminate immediately without notice from Sun if you fail to comply with any provision of this Agreement"
+    - "Any action related to this Agreement will be governed by California law and controlling U.S. federal law"
+    - "Subject to the terms and conditions of this Agreement and restrictions and exceptions set forth in the Software \"README\" file"
+    - "This section pertains to your distribution of the Software with your printed book or magazine (as those terms are commonly used in the industry) relating to Java technology"

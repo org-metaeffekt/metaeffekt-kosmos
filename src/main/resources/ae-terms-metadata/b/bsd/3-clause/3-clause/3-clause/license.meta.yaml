@@ -134,10 +134,6 @@ evidence:
     - "You are under no obligation whatsoever to provide any bug fixes, patches, or upgrades to the
        features, functionality or performance of the source code (\"Enhancements\") to anyone"
     - "scaled-down version of the 'modified' BSD license"
-    - "Static linking of programs with the libwebsockets library does not
-       constitute a derivative work and does not require the author to provide 
-       source code for the program, use the shared libwebsockets libraries, or
-       link their program against a user-supplied version of libwebsockets"
     - "End User License Agreement - Anaconda Distribution"
 
 grants:

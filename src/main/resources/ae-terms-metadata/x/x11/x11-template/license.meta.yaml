@@ -3,14 +3,13 @@ category: X11
 spdxIdentifier: X11
 
 otherIds:
-  - "scancode:x11-xconsortium"
+  - "scancode:x11"
 
 requiresCopyright: true
 requiresLicenseText: true
 
 alternativeNames:
   - "X License"
-  - "MIT/X Consortium"
   - "X/MIT License"
   - "X11 License"
   - "MIT X11 License"
@@ -52,7 +51,8 @@ evidence:
     - "Contributors to this project agree to grant all rights to the copyright holder
        of the primary product. Attribution is maintained in the source control history
        of the product"
-    - "IN NO EVENT SHALL THE DANIEL VEILLARD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM"
+    - "IN NO EVENT SHALL THE DANIEL VEILLARD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+       ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM"
     - "Except as contained in this notice, the name of the XFree86 Project shall not be
        used in advertising or otherwise to promote the sale, use or other dealings in
        this Software without prior written authorization from the XFree86 Project"
@@ -62,6 +62,8 @@ evidence:
        documentation for any purpose is hereby granted without fee,"
     - "IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
        DAMAGES OR OTHER LIABILITY"
+    - "IN NO EVENT SHALL THE DANIEL VEILLARD BE LIABLE FOR ANY CLAIM"
+    - "X Window System is a trademark of X Consortium"
 
 # this revert is for the xconsortium-container variant
 segmentation:

@@ -4,8 +4,6 @@ shortName: Ice-Exception-GPL-2.0
 
 type: exception
 
-#FIXME-RESEARCH: comparing our license and the one provided under the same scancode ID our version seems to be missing some crucial sentences
-
 otherIds:
   - "scancode:ice-exception-2.0"
 

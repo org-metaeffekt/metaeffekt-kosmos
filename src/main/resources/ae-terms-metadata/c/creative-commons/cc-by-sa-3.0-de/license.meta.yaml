@@ -11,6 +11,8 @@ alternativeNames:
   - "Creative Commons Attribution Share Alike 3.0 Germany"
   - "Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland"
 
+requiresCopyright: false
+requiresLicenseText: false
 requiresNote: true
 noteChecklist:
   - "credit the Licensor / Original Author"

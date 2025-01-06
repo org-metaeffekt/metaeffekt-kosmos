@@ -1,0 +1,17 @@
+canonicalName: Gracenote EULA
+category: Gracenote
+shortName: Gracenote-EULA
+
+alternativeNames:
+  - "Gracenote® End User License Agreement"
+
+evidence:
+  matches:
+    - "This application*{.{0,20}}* contains software from Gracenote"
+    - "You agree that you will use Gracenote Data, the Gracenote*{.{0,20}}*, and Gracenote Servers for your own
+       personal non-commercial use only"
+    - "You agree not to assign, copy, transfer or transmit the Gracenote*{.{0,20}}* or any Gracenote Data to any third party"
+    - "You agree that your non-exclusive license to use the Gracenote Data, the Gracenote*{.{0,20}}*, and
+       Gracenote Servers will terminate if you violate these restrictions"
+    - "The Gracenote*{.{0,20}}* and each item of Gracenote Data are licensed to you “AS IS"
+    - "No warranty is made that the Gracenote*{.{0,20}}* or Gracenote Servers are error-free"

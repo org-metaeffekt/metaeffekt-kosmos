@@ -1,6 +1,6 @@
-canonicalName: AlterMIME License
-category: AlterMIME
-shortName: AlterMIME
+canonicalName: alterMIME License
+category: alterMIME License
+shortName: altermime
 
 otherIds:
   - "scancode:altermime"
@@ -8,6 +8,9 @@ otherIds:
 alternativeNames:
   - "AlterMIME License"
   - "alterMIME LICENSE"
+
+canonicalNameHistory:
+  - "AlterMIME License"
 
 evidence:
   matches:

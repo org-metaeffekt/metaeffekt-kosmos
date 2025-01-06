@@ -5,7 +5,9 @@ shortName: Firmware
 # FIXME-IMPLEMENT: this is not precise; this license is rather a concept than a concrete license; check also other cases;
 #  - move this license to Binary Firmware License; check patent situation; check license template; excludes
 #  - derive a generic and unspecific Firmware License (in the same category)
-# FIXME-DISCUSS: ISSUE - "Binary Firmware License" could not be found. License text very similar to BSD 3-Clause License. Wouldn't it make sense to derive a marker instead of a generic and unspecific Firmware License? Many mismatches caused by canonicalName - renaming would be good.
+# in the end two TMDs exist:
+#  Firmware License (generic, no license text)
+#  Binary Firmware License (this license text and evidences)
 otherIds:
   - "scancode:binary-linux-firmware"
 

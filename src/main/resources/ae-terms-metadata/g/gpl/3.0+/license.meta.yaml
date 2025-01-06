@@ -5,11 +5,12 @@ shortName: GPL-3.0+
 
 otherIds:
   - "scancode:gpl-3.0-plus"
-  - "scancode:kde-accepted-gpl"
-  - "osi:GPL-3.0"
 
 expectedMatches:
   - "GNU General Public License 3.0"
+
+ignoreMatches:
+  - "Flowplayer License (GPL 3.0)"
 
 defaultSourceCategory: annex
 

@@ -2,6 +2,8 @@ canonicalName: Permission Terms (Verbatim Copies Permission)
 category: Permission
 shortName: PT-Verbatim-Copies
 
+# this is the same as "Linux man-pages Copyleft" except for the copyright
+
 otherIds:
   - "scancode:verbatim-manual"
 

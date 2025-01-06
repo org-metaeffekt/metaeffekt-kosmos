@@ -24,5 +24,6 @@ evidence:
        Restrictions of these Supplemental Terms, Sun grants you a non-exclusive, non-transferable, limited
        license without fees to reproduce internally and use internally the Software complete and unmodified
        for the purpose of designing, developing, and testing your Programs"
+    - "Java applets and applications intended to run on the Java 2 Platform Standard Edition (J2SE platform) platform on Java-enabled general purpose desktop computers and servers"
   excludes:
     - "Sun Microsystems, Inc. Binary Code License Agreement for the JAVA SE RUNTIME ENVIRONMENT (JRE) VERSION 6"

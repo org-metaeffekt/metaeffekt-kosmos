@@ -14,6 +14,7 @@ representedAs: BSD 4-Clause License
 alternativeNames:
   - "BSD-Systemics"
   - "Systemics BSD variant license"
+  - "BSD 4-Clause License (Systemics; without endorsement clause)"
 
 evidence:
   matches:
@@ -30,4 +31,13 @@ evidence:
     - "The licence and distribution terms for any publically available version or
        derivative of this code cannot be changed"
   excludes:
+    - "Current implimentation contains modifications made by W3Works"
     - "This product includes software developed by W3Works"
+    - "The modifications remain copyright of W3Works, LLC and attribution for these 
+       modification should be made to W3Works, LLC"
+
+references:
+  "GPL":
+    matches:
+      - "i.e. this code cannot simply be copied and put under another distribution licence
+         [including the GNU Public Licence.]"

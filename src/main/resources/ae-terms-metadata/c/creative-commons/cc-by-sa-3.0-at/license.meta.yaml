@@ -15,6 +15,8 @@ alternativeNames:
   - "Creative Commons BY-SA 3.0 (AT)"
   - "Creative Commons Attribution Share Alike 3.0 Austria"
 
+requiresCopyright: false
+requiresLicenseText: false
 requiresNote: true
 noteChecklist:
   - "credit the Licensor / Original Author"

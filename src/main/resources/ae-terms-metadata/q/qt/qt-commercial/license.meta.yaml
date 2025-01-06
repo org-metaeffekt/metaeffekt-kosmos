@@ -2,8 +2,6 @@ canonicalName: Qt Commercial License
 category: Qt Commercial
 shortName: Qt-Commercial
 
-# FIXME-RESEARCH: does this yaml still have a use?
-
 comments:
   - "The license text is confidential. Here the license is only identified by name."
   - "To our knowledge there are at least two Trolltech variants in the field. One from 2002 and one from 2004."

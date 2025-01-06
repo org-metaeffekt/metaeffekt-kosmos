@@ -27,7 +27,7 @@ evidence:
        please contact"
     - "Products derived from this Software may not be called*{.{0,45}}* appear in their names without prior written permission of"
     - "is a registered trademark of"
-# FIXME-IMPLEMENT ending match correctly with "DOM4J Project" causes a validation issue; seems to be a revert-hyphenation mapping issue
+# FIXME-CONCEPT ending match correctly with "DOM4J Project" causes a validation issue; seems to be a revert-hyphenation mapping issue
     - "Due credit should be given to the DOM4J"
   excludes:
     - "The name \"OpenLDAP\" must not be used to endorse or promote products derived

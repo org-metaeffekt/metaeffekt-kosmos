@@ -5,6 +5,7 @@ shortName: ParaView-1.2
 otherIds:
   - "scancode:paraview-1.2"
 
+# expectedMatches verified on 21.11.2024
 expectedMatches:
   - "Los Alamos National Laboratory License"
   - "HDF5 Software Library and Utilities License"

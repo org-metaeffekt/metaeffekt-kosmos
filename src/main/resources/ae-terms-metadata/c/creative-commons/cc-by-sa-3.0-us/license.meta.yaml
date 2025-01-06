@@ -10,6 +10,8 @@ representedAs: Creative Commons BY-SA 3.0
 alternativeNames:
   - "CC-BY-SA-3.0-US"
 
+requiresCopyright: false
+requiresLicenseText: false
 requiresNote: true
 noteChecklist:
   - "credit the Licensor / Original Author"

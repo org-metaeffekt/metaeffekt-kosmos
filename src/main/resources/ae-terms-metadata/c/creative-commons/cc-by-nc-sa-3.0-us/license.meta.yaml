@@ -11,6 +11,10 @@ alternativeNames:
   - "Attribution-Non Commercial-Share Alike 3.0 United States"
   - "Attribution-Non Commercial-Share Alike 3.0 US"
 
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
 evidence:
   matches:
     - "\"License Elements\" means the following high-level license attributes as selected by Licensor and indicated in the title of this License: Attribution, Noncommercial, ShareAlike"

@@ -4,7 +4,7 @@ spdxIdentifier: HPND-doc-sell
 
 otherIds:
   - "scancode:hpnd-doc-sell"
-#  - "scancode:x11-doc"
+  - "scancode:x11-doc"
 #this license is not a x11 license - the other identifier makes more sense
 # both scancode IDs are active atm and the licenses are identical except the placeholder - modelling impossible - we have to decide upon one of them
 

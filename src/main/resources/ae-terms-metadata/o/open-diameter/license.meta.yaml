@@ -1,9 +1,12 @@
 canonicalName: Open Diameter License
 category: Open Diameter
-shortName: Open-Diameter
+shortName: open-diameter
 
 otherIds:
   - "scancode:open-diameter"
+
+alternativeNames:
+  - "Open Diameter License"
 
 expectedMatches:
   - "GNU General Public License 2.0 (or any later version)"
@@ -15,3 +18,11 @@ evidence:
     - "Copyright *{.{0,20}}* Open Diameter Project"
     - "This software consists of two parts, namely LGPL Part and GPL Part, which use different licences as described below"
 
+references:
+  "LGPL":
+    matches:
+      - "This software consists of two parts, namely LGPL Part and GPL Part, which use different licences as described below"
+
+  "GPL":
+    matches:
+      - "This software consists of two parts, namely LGPL Part and GPL Part, which use different licences as described below"

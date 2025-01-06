@@ -1,0 +1,62 @@
+canonicalName: Oracle Technology Network License Agreement 2016 (Nov)
+category: OTN
+shortName: OTN-Distribution
+
+# https://www.oracle.com/downloads/licenses/distribution-license.html
+
+otherIds:
+  - "scancode:otnla-2016-11-30"
+
+alternativeNames:
+  - "OTND License"
+  - "Oracle Technology Network License Agreement 2016-11-30"
+
+canonicalNameHistory:
+  - "Oracle Technology Network Distribution License Agreement"
+  - "Oracle Technology Network License Agreement 2016-11-30"
+  - "Oracle Technology Network License Agreement 2026 (Nov)"
+
+evidence:
+  matches:
+    - "We grant You a nonexclusive, nontransferable right to copy and distribute unmodified Programs and Programs
+       Documentation as part of and included in Your application that is intended to interoperate with the Associated Product"
+    - "provided that You do not charge Your end users any additional fees for the use of the Programs"
+    - "Prior to distributing the Programs and Programs Documentation"
+    - "You shall require Your end users to execute an
+       agreement binding them to terms, with respect to the Programs and Programs Documentation, materially consistent
+       and no less restrictive than those contained in this section and the sections of this Agreement entitled
+       \"License Rights and Restrictions\""
+    - "except that the redistribution right granted to You shall not be included"
+    - "Your end users may not distribute Programs and Programs Documentation to any third parties"
+    - "You must also include a provision stating that Your end users shall have no right to distribute the Programs and
+       Programs Documentation, and a provision specifying us as a third party beneficiary of the agreement"
+    - "You are responsible for obtaining these agreements with Your end users"
+    - "Oracle is willing to authorize Your access to software associated with this License Agreement ('Agreement')
+       only upon the condition that You accept that this Agreement governs Your use of the software"
+    - "By selecting the 'Accept License Agreement' button or box (or the equivalent) or installing or using the
+       Programs You indicate Your acceptance of this Agreement and Your agreement, as an authorized representative of
+       Your company or organization (if being acquired for use by an entity) or as an individual, to comply with the
+       license terms that apply to the software that You wish to download and access. If You are not willing to be
+       bound by this Agreement, do not select the 'Accept License Agreement' button or box (or the equivalent) and do
+       not download or access the software"
+    - "We grant You a nonexclusive, nontransferable right to copy and distribute unmodified Programs and Programs
+       Documentation as part of and included in Your application that is intended to interoperate with the Associated
+       Product, if any, provided that You do not charge Your end users any additional fees for the use of the Programs"
+    - "Prior to distributing the Programs and Programs Documentation, You shall require Your end users to execute an
+       agreement binding them to terms, with respect to the Programs and Programs Documentation, materially consistent
+       and no less restrictive than those contained in this section and the sections of this Agreement entitled
+       \"License Rights and Restrictions\" (except that the redistribution right granted to You shall not be included;
+       Your end users may not distribute Programs and Programs Documentation to any third parties), \"Ownership,\"
+       \"Export Controls,\" \"Disclaimer of Warranties; Limitation of Liability,\" \"No Technical Support\" (with
+       respect to Oracle support; You may provide Your own support for Programs at Your discretion), \"Audit;
+       Termination (except that Oracle’s audit right shall not be included),\" \"Relationship Between the Parties,\"
+       and \"U.S. Government End Users.\""
+    - "You must also include a provision stating that Your end users shall have no right to distribute the Programs
+       and Programs Documentation, and a provision specifying us as a third party beneficiary of the agreement"
+    - "You are responsible for obtaining these agreements with Your end users"
+
+# FIXME-CONCEPT: derive marker (check validation effects)
+masks:
+  matches:
+    - "Third party technology will be licensed to You either under the terms of this Agreement or, if specified in the
+       Program Documentation, readmes or notice files, under Separate Terms."
