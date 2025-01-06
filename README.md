@@ -53,7 +53,7 @@ The metæffekt Kosmos is build based on various external sources including:
 
 The content provided in {metæffekt}-universe is licensed under [Creative Commons BY-4.0](LICENSE).
 
-Copyright © metaeffekt GmbH 2021-2024. All rights reserved.
+Copyright © metaeffekt GmbH 2021-2025. All rights reserved.
 
 ## Contribution
 As this repository is largely showing converted data. A direct contribution in the form of patches is
