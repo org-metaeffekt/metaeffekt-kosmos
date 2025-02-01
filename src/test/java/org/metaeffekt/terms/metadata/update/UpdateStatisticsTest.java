@@ -15,9 +15,13 @@
  */
 package org.metaeffekt.terms.metadata.update;
 
+import com.metaeffekt.artifact.terms.TermsMetaDataResolver;
+import com.metaeffekt.artifact.terms.model.NormalizationMetaData;
+import com.metaeffekt.artifact.terms.model.TermsMetaData;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;
+import java.io.IOException;
 
 public class UpdateStatisticsTest {
 
@@ -45,4 +49,50 @@ public class UpdateStatisticsTest {
                 new File("src/main/resources/ae-terms-metadata"),
                 new File("target/ae-workbench-report/ae-exception-info.html"));
     }
+
+    @Test
+    public void countTerms() throws IOException {
+        NormalizationMetaData normalizationMetaData = TermsMetaDataResolver.get();
+
+
+        // note that we count all licenses and expression; including the filtered ones
+
+        int countLicenses = 0;
+        int countExpressions = 0;
+        int countMarker = 0;
+        int countExceptions = 0;
+        int countReferences = 0;
+        int countModifiers = 0;
+        int countRestrictions = 0;
+        int countStructural = 0;
+
+        for (TermsMetaData tmd : normalizationMetaData.getLicenseMetaDataMap().values()) {
+
+            String type = tmd.getType();
+            if (type == null) type = "terms";
+
+            switch (type) {
+                case "terms" : countLicenses++; break;
+                case "marker" : countMarker++; break;
+                case "expression" : countExpressions++; break;
+                case "reference" : countReferences++; break;
+                case "exception" : countExceptions++; break;
+                case "restriction" : countRestrictions++; break;
+                case "modifier" : countModifiers++; break;
+                case "structural" : countStructural++; break;
+                default:
+                    throw new IllegalStateException("Unknown Type: [" + type + "]");
+            }
+        }
+
+        System.out.println("Terms: " + countLicenses);
+        System.out.println("Exceptions: " + countExceptions);
+        System.out.println("Modifiers: " + countModifiers);
+        System.out.println("Restrictions: " + countRestrictions);
+        System.out.println("Expressions: " + countExpressions);
+        System.out.println("Marker: " + countMarker);
+        System.out.println("References: " + countReferences);
+        System.out.println("Structural: " + countStructural);
+    }
+
 }

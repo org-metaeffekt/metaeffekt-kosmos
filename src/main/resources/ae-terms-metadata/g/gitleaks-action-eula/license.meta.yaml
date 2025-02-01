@@ -14,3 +14,19 @@ evidence:
        and service subscriptions hereunder have expired in accordance with their own terms (the “Term”)"
     - "The term of your license under this Agreement shall be specified at your time of purchase"
     - "Either party may terminate this Agreement (including all related Invoices) if the other party"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "GITLEAKS-ACTION END-USER LICENSE AGREEMENT",
+      matchNext:
+        "IMPORTANT: THIS SOFTWARE END-USER LICENSE AGREEMENT (\"EULA\") IS A LEGAL AGREEMENT (“Agreement”) BETWEEN YOU (THE CUSTOMER, EITHER AS AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AS AN ENTITY) AND GITLEAKS LLC (\"We\", \"Us\", \"Our\"). READ IT CAREFULLY BEFORE USING GITLEAKS-ACTION AND RELATED SOFTWARE COMPONENTS (“SOFTWARE”). IT PROVIDES A LICENSE TO USE THE SOFTWARE AND CONTAINS WARRANTY INFORMATION AND LIABILITY DISCLAIMERS. BY USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THE TERMS OF THIS AGREEMENT."
+    },
+    {
+      match:
+        "IMPORTANT: THIS SOFTWARE END-USER LICENSE AGREEMENT (\"EULA\") IS A LEGAL AGREEMENT (“Agreement”) BETWEEN YOU (THE CUSTOMER, EITHER AS AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AS AN ENTITY) AND GITLEAKS LLC (\"We\", \"Us\", \"Our\"). READ IT CAREFULLY BEFORE USING GITLEAKS-ACTION AND RELATED SOFTWARE COMPONENTS (“SOFTWARE”). IT PROVIDES A LICENSE TO USE THE SOFTWARE AND CONTAINS WARRANTY INFORMATION AND LIABILITY DISCLAIMERS. BY USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY THE TERMS OF THIS AGREEMENT.",
+      matchNext:
+        "In order to use the Software under this Agreement, you may be required to obtain a License Key, as follows:  If you are using the Software to scan repositories owned by an Organization Account, as defined here https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts, then you must obtain a License Key.  If you are using the Software to scan repositories owned by a Personal Account, as defined here https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts, then no License Key is required.  License Key requirements are automatically enforced by the Software, and if there is any uncertainty about whether a License Key is required, you may rely upon the behavior of the Software. 1. License Grant 1.1 General Use. This Agreement grants you a non-exclusive, non-transferable, limited license to the use rights for the Software, without the right to grant sublicenses, subject to the terms and conditions in this Agreement. The Software is licensed, not sold. This Software runs as a GitHub Action. As such, in addition to this Agreement, you may also be bound by various GitHub terms of service, for example, the GitHub Terms for Additional Products and Features"
+    },
+]

@@ -29,6 +29,9 @@ alternativeNames:
 evidence:
   excludes:
     - "offer the machine-readable source of the Package, with your modifications, by mail order"
+    - "It also grants you the rights to reuse parts of a Package in your own
+       programs without transferring this License to those programs, provided
+       that you meet some reasonable requirements"
 
 grants:
   Source code delivery:

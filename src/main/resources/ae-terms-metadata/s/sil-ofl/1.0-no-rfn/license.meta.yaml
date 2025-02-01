@@ -2,8 +2,6 @@ canonicalName: SIL Open Font License 1.0 (no reserved font name)
 category: OFL
 spdxIdentifier: OFL-1.0-no-RFN
 
-# NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
-
 otherIds:
   - "scancode:ofl-1.0-no-rfn"
 
@@ -13,7 +11,12 @@ alternativeNames:
   - "SIL Open Font License, Version 1.0.
      with no Reserved Font Name"
 
-#these reverts were created based on the scancode version of the license.
+evidence:
+  matches:
+    - "Font Software is licensed under the SIL Open Font License, Version 1.0.
+       with no Reserved Font Name for this Font Software"
+
+# NOTE: these reverts were created based on the scancode version of the license.
 segmentation:
   revert: [
     { match:

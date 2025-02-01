@@ -7,6 +7,9 @@ baseTerms: SIL Open Font License 1.0
 expectedSpdxMatches:
   - "SIL Open Font License 1.0"
 
+ignoreMatches:
+  - "SIL Open Font License 1.0"
+
 # NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
 
 otherIds:
@@ -16,6 +19,9 @@ alternativeNames:
   - "OFL-1.0-RFN"
   - "SIL Open Font License 1.0 with Reserved Font Name"
   - "is a Reserved Font Name for this Font Software"
+  - "SIL Open Font License 1.0 (reserved font name)"
+  - "{{OFL-1.0-RFN}} https://spdx.org/licenses/OFL-1.0-RFN"
+  - "licenses.nuget.org/OFL-1.0-RFN"
 
 segmentation:
   revert: [

@@ -6,9 +6,6 @@ otherIds:
   - "scancode:ms-rl"
   - "osi:MS-RL"
 
-otherIds:
-  - "scancode:ms-rl"
-
 alternativeNames:
   - "MS-RL"
   - "Microsoft Reciprocal License"

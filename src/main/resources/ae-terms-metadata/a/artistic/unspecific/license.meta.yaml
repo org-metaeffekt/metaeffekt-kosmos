@@ -20,6 +20,9 @@ evidence:
        modifications to the Blitz++ development list, and allowing the Copyright Holder to include your modifications 
        in the Standard Version of the Library"
     - "The Berkeley Artistic License"
+    - "It also grants you the rights to reuse parts of a Package in your own
+       programs without transferring this License to those programs, provided
+       that you meet some reasonable requirements"
 
 masks:
   matches:

@@ -10,6 +10,9 @@ otherIds:
 expectedMatches:
   - "Original SSLeay License"
 
+alternativeNames:
+  - "OpenSSL License"
+  - "OpenSSL/SSLeay License"
 
 requiresCopyright: true
 requiresLicenseText: true

@@ -25,16 +25,27 @@ otherIds:
 
 alternativeNames:
   - "SSH OpenSSH license"
+  - "SSH-OpenSSH License"
+  - "https://spdx.org/licenses/SSH-OpenSSH"
+  - "licenses.nuget.org/SSH-OpenSSH"
 
 evidence: 
   matches:
     - "As far as I am concerned, the code I have written for this software can be used freely for any purpose"
-    - "Any derived versions of this software must be clearly marked as such, and if the derived work is incompatible with the protocol description in the RFC file, it must be called by a name other than \"ssh\" or \"Secure Shell\""
+    - "Any derived versions of this software must be clearly marked as such, and if the derived work is incompatible
+       with the protocol description in the RFC file, it must be called by a name other than \"ssh\" or \"Secure Shell\""
     - "All of these restrictively licenced software components which he talks about have been removed from OpenSSH"
-    - "Note that any information and cryptographic algorithms used in this software are publicly available on the Internet and at any major bookstore, scientific library, and patent office worldwide"
+    - "Note that any information and cryptographic algorithms used in this software are publicly available on the
+       Internet and at any major bookstore, scientific library, and patent office worldwide"
     - "The legal status of this program is some combination of all these permissions and restrictions"
-    - "BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW"
-    - "IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"
+    - "BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED
+       BY APPLICABLE LAW"
+    - "IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER
+       PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING
+       ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM
+       (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+       PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS
+       BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"
 
 references: 
   "MIT":

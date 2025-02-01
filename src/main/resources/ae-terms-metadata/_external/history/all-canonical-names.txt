@@ -159,6 +159,7 @@ Array Input Method Public License
 Artistic License (undefined)
 Artistic License 1.0
 Artistic License 1.0 (cl8)
+Artistic License 1.0 (dist)
 Artistic License 1.0 (Perl)
 Artistic License 2.0
 Artistic License 2.0 beta4
@@ -754,7 +755,7 @@ Creative Commons BY-SA 3.0 (IGO)
 Creative Commons BY-SA 3.0 (US)
 Creative Commons BY-SA 4.0
 Creative Commons Corporate Accountability Lab License 1.1
-Creative Commons Developing Nations 2.0 License
+Creative Commons Developing Nations License 2.0
 Creative Commons NC 1.0
 Creative Commons NC Sampling Plus 1.0
 Creative Commons ND 1.0
@@ -1425,11 +1426,9 @@ Google Terms of Service 2017
 Google Terms of Service 2019
 Google Terms of Service 2020
 GPL 2 with classpath exception
-GPL 2.0 (with OpenJDK Classpath Exception)
 GPL 2.0 plus Adaptec conditions
 GPL 2.0 with classpath exception
 GPL 2.0 with libgit2 exception
-GPL 2.0 with OpenJDK Classpath exception
 GPL 3.0 Linking Exception
 GPL Compatibility
 GPL Compatibility GPL3
@@ -2335,6 +2334,7 @@ OpenGL Utility Toolkit License
 OpenI Public License 1.0
 OpenJDK Assembly Exception (GPL)
 OpenJDK Assembly Exception 1.0
+OpenJDK Classpath and Assembly Exception
 OpenLDAP Public License (undefined)
 OpenLDAP Public License 1.1
 OpenLDAP Public License 1.2

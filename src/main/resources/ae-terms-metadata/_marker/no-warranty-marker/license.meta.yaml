@@ -292,3 +292,7 @@ evidence:
         - "DOES NOT WARRANT THAT"
     - matches:
         - "does not warrant that"
+    - matches:
+        - "provides no warranty of*{.{0,50}}* to this software"
+    - matches:
+        - "DOES NOT MAKE ANY WARRANTY*{.{0,30}}* WITH RESPECT TO*{.{0,50}}* COPYRIGHT INFRINGEMENT"

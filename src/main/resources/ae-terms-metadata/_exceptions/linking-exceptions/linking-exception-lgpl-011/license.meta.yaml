@@ -5,6 +5,9 @@ shortName: Linking-Exception-LGPL-011
 canonicalNameHistory:
   - "Nokia Qt LGPL Exception 1.0"
 
+alternativeNames:
+  - "Digia Qt LGPL Exception version 1.1"
+
 otherIds:
   - "scancode:qt-company-exception-lgpl-2.1"
 
@@ -23,3 +26,8 @@ evidence:
        exceed more than 5% of the total size of the Library; and (ii) is limited to
        numerical parameters, data structure layouts, accessors, macros, inline
        functions and templates"
+
+references:
+  "LGPL":
+    matches:
+      - "As a special exception to the GNU Lesser General Public License version 2.1"

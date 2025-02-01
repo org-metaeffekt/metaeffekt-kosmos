@@ -6,12 +6,15 @@ otherIds:
   - "scancode:dante-treglia"
 
 alternativeNames:
+  - "Dante Treglia License"
+  - "Dante-Treglia"
   - "dante-treglia"
+
+# NOTE: SPDX is about to add this license. In their version the first sentence is "This software is".
 
 evidence:
   matches:
-    - "This is provided as is without express or implied warranties"
+    - "This *{software|}* is provided as is without express or implied warranties"
     - "You may freely copy and compile this source into applications you
        distribute provided that the copyright text below is included in the
        resulting source code, for example"
-    - "Portions copyright (c) Dante Treglia II, 2000"

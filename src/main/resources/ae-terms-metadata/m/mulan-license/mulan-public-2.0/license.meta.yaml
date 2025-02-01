@@ -10,13 +10,19 @@ alternativeNames:
 
 evidence:
   matches:
-    - "Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or Distribute its Contribution or Derivative Work, with modification or not"
-    - "Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for revocation under this Section) patent license to use, make, have made, sell, offer for sale, import or otherwise transfer its Contribution, where such patent license is only limited to the patent claims owned or controlled by such Contributor now or in future which will be necessarily infringed by its Contribution alone, excluding of any patent claims solely be infringed by your modification"
-    - "No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor, except as required to fulfill notice requirements in Section 4"
-    - "You must provide recipients with a copy of this License and retain copyright, trademark, patent and disclaimer statements in the Contribution"
-    - "accompanying the Derivative work, provide recipients with Corresponding Source Code of your Derivative Work under this License"
-    - "accompanying the Derivative Work, provide recipients with a written offer indicating your willingness to provide the Corresponding Source Code of the Derivative Work licensed under this License"
-    - "To apply the Mulan Public License，Version 2 to your work, for easy identification by recipients, you are suggested to complete following three steps"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide,
+       royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or Distribute its Contribution
+       or Derivative Work, with modification or not"
+    - "No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor,
+       except as required to fulfill notice requirements in Section 4"
+    - "You must provide recipients with a copy of this License and retain copyright, trademark, patent and disclaimer
+       statements in the Contribution"
+    - "accompanying the Derivative work, provide recipients with Corresponding Source Code of your Derivative Work
+       under this License"
+    - "accompanying the Derivative Work, provide recipients with a written offer indicating your willingness to provide
+       the Corresponding Source Code of the Derivative Work licensed under this License"
+    - "To apply the Mulan Public License，Version 2 to your work, for easy identification by recipients, you are suggested
+       to complete following three steps"
 
 references:
   "AGPL":

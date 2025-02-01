@@ -7,6 +7,10 @@ otherIds:
 
 alternativeNames:
   - "Google Patent License for Go"
+  - "Google Patent License (Go)"
+  - "Google-Patent-Go"
+  - "https://golang.org/PATENTS"
+  - "google-patent-license-golang"
 
 evidence:
   matches:
