@@ -1,15 +1,5 @@
 # metæffekt Kosmos
 
-Project providing public portions of the {metæffekt} license database covering
-
-* 2139 modeled license terms,
-* 175 exceptions,
-* 5 modifiers
-* 2 restrictions, and 
-* 222 specific and commonly used license expressions.
-
-as of 1st February 2025.
-
 ## Structure
 
 The primary data is located in
@@ -21,7 +11,7 @@ For details see [ae-terms-metadata Structure](https://github.com/org-metaeffekt/
 ## Format Definition
 
 The TMD is based on definitions of licenses or other terms and conditions (terms). The definition are expressed in
-a [YAML Format](https://github.com/org-metaeffekt/metaeffekt-documentation/blob/main/metaeffekt-universe/docs/yaml-format.md).
+a YAML format. See [YAML Format](doc/yaml-format.md).
 
 ## Tests
 
@@ -63,7 +53,7 @@ The metæffekt Kosmos is build based on various external sources including:
 
 The content provided in {metæffekt}-universe is licensed under [Creative Commons BY-4.0](LICENSE).
 
-Copyright © metaeffekt GmbH 2021-2025. All rights reserved.
+Copyright © metaeffekt GmbH 2021-2024. All rights reserved.
 
 ## Contribution
 As this repository is largely showing converted data. A direct contribution in the form of patches is
