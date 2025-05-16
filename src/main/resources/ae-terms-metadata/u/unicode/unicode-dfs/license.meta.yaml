@@ -13,6 +13,7 @@ requiresLicenseText: true
 
 otherIds:
   - "scancode:unicode"
+#  - "scancode:unicode-data-software" # deprecated
 
 alternativeNames:
   - "Unicode DFS, Version 2008"

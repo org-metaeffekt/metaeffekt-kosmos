@@ -8,7 +8,6 @@ canonicalNameHistory:
 otherIds:
   - "scancode:selinux-nsa-declaration-1.0"
 
-
 expectedMatches:
   - "Public Domain"
 
@@ -43,7 +42,6 @@ segmentation:
     { match:
         "Warranty Exclusion",
       matchNext:
-        "You agree that this software is a
-         non-commercially developed program"
+        "You agree that this software is a non-commercially developed program"
     }
   ]

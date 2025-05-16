@@ -2,9 +2,6 @@ canonicalName: Authors View Marker
 category: Authors View Marker
 shortName: Authors-View
 
-otherIds:
-  - "scancode:bsd-2-clause-views"
-
 type: marker
 
 combinedWith:
@@ -25,7 +22,7 @@ comments:
 ## Searches (www):
 ## - see above
 
-## Last reviewed - 28.02.2024
+## Last reviewed - 11.03.2025
 ## Completed Tasks:
 ## Keywords (TMD-centric):
 ## - 'views and conclusion
@@ -64,6 +61,38 @@ evidence:
     - matches:
         - "shared from the perspective of the author"
     - matches:
-        - "opinion*{.{0,3}}* expressed *{.{0,30}}* do not necessarily reflect"
-
-
+        - "opinion*{.{0,3}}* expressed *{.{0,30}(don’t|do not|DO NOT){1}.{0,20}}*reflect"
+    - matches:
+        - "view*{.{0,4}}* expressed in*{.{0,70} (don’t|do not|DO NOT){1}.{0,20}}*reflect*{.{0,30}}*views"
+    - matches:
+        - "all of the opinions expressed in*{.{0,30}}*are exclusively*{.{0,20}}* author"
+    - matches:
+        - "The author withdraws any implication that any statement made within this work can be justified, verified or corroborated"
+    - matches:
+        - "views expressed*{.{0,30}}* are solely*{.{0,20}}*and *{(don’t|do not|DO NOT|does not|DOES NOT){1}}* represent that of"
+    - matches:
+        - "The (?:views|opinions|conclusions) (?:expressed|presented|represented) (?:in this work|herein|in this document|here) (?:are|represent|reflect) (?:those|the opinions) (?:of|by) (?:the authors|the author) (?:and do not) (?:necessarily) (?:reflect|represent) (?:the official|any) (?:position|policy) (?:of|from) (?:any|associated|affiliated) (?:organization|institution)"
+    - matches:
+        - "These *{(views|opinions|conclusions){1} (expressed|presented|represented){1} (in this work|herein|in this document|here){1} (are|represent|reflect){1} (those|the opinions){1} (of|by){1} (the authors|the author){1}}* and do not *{(necessarily){0,1}.{0,4}(reflect|represent){1}.{0,4}(the official|any){0,1} (position|policy){1}}* from"
+    - matches:
+        - "These *{(views|opinions|conclusions){1} (expressed|presented|represented){1} (in this work|herein|in this document|here){1} (are|represent|reflect){1} (those|the opinions){1} (of|by){1} (the authors|the author){1}}* and do not *{(necessarily){0,1}.{0,4}(reflect|represent){1}.{0,4}(the official|any){0,1} (position|policy){1}}* of"
+    - matches:
+        - "The*{.{0,20}(presented|discussed){1} (herein|in this document){1} (represents|expresses){1} (the personal|individual){1} (views|opinions){1} (of|by){1} (the authors|the author){1} and does not *{(imply){0,1}.{0,4}(endorsement|affiliation){1}.{0,40} of"
+    - matches:
+        - "The*{.{0,20}(presented|discussed){1} (herein|in this document){1} (represents|expresses){1} (the personal|individual){1} (views|opinions){1} (of|by){1} (the authors|the author){1} and does not *{(imply){0,1}.{0,4}(endorsement|affiliation){1}.{0,40} with"
+    - matches:
+        - "The *{(perspectives|conclusions|views|opinions){1} (drawn|expressed){1} (in this work|herein|in this document){1}}* are solely *{(those|the opinions){1} (of|by){1} (the authors|the author){1}}* and do not *{(express|represent|present|match|stand for){1} (the views|policies|opinion|opinions){1}}* of"
+    - matches:
+        - "The *{(perspectives|conclusions|views|opinions){1} (drawn|expressed|presented){1} (in this work|herein|in this document){1}}* are solely *{(those|the opinions){1} (of|by){1} (the authors|the author){1}}* and do not *{(express|represent|present|match|stand for){1} (the views|policies|opinion|opinions){1}}* from"
+    - matches:
+        - "The *{(perspectives|conclusions|views|opinions|information){1} (drawn|expressed|presented){1} (in this work|in this document|herein){1}}* are solely *{(those|the opinions){1} (of|by){1} (the authors|the author){1}}* and should not be construed as *{(expressing|representing|presenting|matching|standing for){1}.{0,20}(views|policies|opinion|opinions){1}}* from"
+    - matches:
+        - "The *{(perspectives|conclusions|views|opinions|information){1} (drawn|expressed|presented){1} (in this work|in this document|herein){1}}* are solely *{(those|the opinions){1} (of|by){1} (the authors|the author){1}}* and should not be construed as *{(expressing|representing|presenting|matching|standing for){1}.{0,20}(views|policies|opinion|opinions){1}}* of"
+    - matches:
+        - "The*{.{0,30}}* are responsible for *{(the content|views|conclusions|opinions){1} (shown|included|presented|discussed){1} (here|herein){1}.{0,40}}* and*{.{0,40}}*does not necessarily *{(express|represent|present|match|stand for){1}.{0,20}(views|policies|opinion|opinions){1}}* of"
+    - matches:
+        - "The*{.{0,30}}* are responsible for *{(the content|views|conclusions|opinions){1} (shown|included|presented|discussed){1} (here|herein){1}.{0,40}}* and*{.{0,40}}*does not necessarily *{(express|represent|present|match|stand for){1}.{0,20}(views|policies|opinion|opinions){1}}* from"
+    - matches:
+        - "The *{(perspectives|conclusions|views|opinions|information){1} (drawn|expressed|presented){1} (in this work|in this document|herein){1}}* are*{.{0,10}}*those (of|by){1} (the authors|the author){1}}* and do not*{.{0,10}(reflect|represent){1}.{0,30}}*from"
+    - matches:
+        - "The *{(perspectives|conclusions|views|opinions|information){1} (drawn|expressed|presented){1} (in this work|in this document|herein){1}}* are*{.{0,10}}*those (of|by){1} (the authors|the author){1}}* and do not*{.{0,10}(reflect|represent){1}.{0,30}}*of"

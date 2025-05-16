@@ -5,6 +5,7 @@ spdxIdentifier: HPND-sell-variant
 
 otherIds:
   - "scancode:x11-keith-packard"
+#  - "scancode:historical-sell-variant" #deprecated
 
 canonicalNameHistory:
   - "Permission Terms Var035"

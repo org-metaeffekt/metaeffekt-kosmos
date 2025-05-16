@@ -12,6 +12,7 @@ otherIds:
 
 combinedWith:
   GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL))
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with Linking exception (GPL))
 
 mappingOrder:
   - "000"

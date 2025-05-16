@@ -5,8 +5,7 @@ spdxIdentifier: OpenSSL
 otherIds:
   - "scancode:openssl-ssleay"
 
-##SPDX combines the OpenSSL License and the SSLeay License under OpenSSL License
-## -> We match both Licenses.
+# SPDX combines the OpenSSL License and the SSLeay License under OpenSSL License --> match both licenses
 expectedMatches:
   - "Original SSLeay License"
 

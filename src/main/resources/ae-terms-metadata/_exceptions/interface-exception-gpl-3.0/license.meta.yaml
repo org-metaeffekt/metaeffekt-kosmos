@@ -33,7 +33,9 @@ references:
     matches:
       - "If you modify the [name of library's interface] interface, this exception does not apply to your modified
          version of [name of library], and you must remove this exception when you distribute your modified version"
-      - "This exception is an additional permission under section 7 of the GNU General Public License, version 3 (\"GPLv3\")"
+      - "If you modify the [name of library's interface] interface, this exception does not apply to your modified version of [name of library], and you must remove this exception when you distribute your modified version.
+
+         This exception is an additional permission under section 7 of the GNU General Public License, version 3 (\"GPLv3\")"
 
   "LGPL":
     matches:

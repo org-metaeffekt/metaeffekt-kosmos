@@ -5,7 +5,7 @@ shortName: GPL-2.0-independent-module
 type: expression
 
 otherIds:
-  - "scancode:gpl-2.0-library"
+  - "scancode:gpl-2.0-independent-module-linking"
 
 representedAs: GNU General Public License 2.0 (with exceptions)
 

@@ -10,14 +10,13 @@ requiresCopyright: false
 requiresLicenseText: false
 
 alternativeNames:
-  - "CC-BY-4.0"
+  - "Creative Commons Attribution 4.0 International"
   - "Creative Commons Attribution 4.0"
-  - "http://creativecommons.org/licenses/by/4.0/"
-  - "http://creativecommons.org/licenses/by/4.0"
-  - "https://creativecommons.org/licenses/by/4.0/"
-  - "https://creativecommons.org/licenses/by/4.0"
-  - "CC BY 4.0"
   - "Namensnennung 4.0 International"
+  - "CC-BY-4.0"
+  - "CC BY 4.0"
+  - "http://creativecommons.org/licenses/by/4.0"
+  - "https://creativecommons.org/licenses/by/4.0"
 
 evidence:
   matches:
@@ -32,6 +31,7 @@ evidence:
     - "identification of the creator(s) of the Licensed Material and any others
        designated to receive attribution, in any reasonable manner requested by the
        Licensor (including by pseudonym if designated)"
+    - "The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created"
   excludes:
     - "You must include the text of, or the URI or hyperlink to, the Adapter's
        License You apply. You may satisfy this condition in any reasonable manner

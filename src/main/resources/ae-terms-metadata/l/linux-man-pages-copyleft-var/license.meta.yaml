@@ -1,6 +1,9 @@
+# FIXME-IMPLEMENT: adjust canonical name to conventions; sync in group
 canonicalName: Linux man-pages Copyleft Variant
 category: Linux-man-pages-copyleft-var
 spdxIdentifier: Linux-man-pages-copyleft-var
+
+representedAs: Linux man-pages Copyleft
 
 alternativeNames:
   - "Linux-man-pages-copyleft-var"

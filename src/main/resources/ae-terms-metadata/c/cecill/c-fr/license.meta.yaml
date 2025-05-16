@@ -18,6 +18,10 @@ evidence:
     - "Ce contrat est une licence de logiciel libre dont l'objectif est de conférer
        aux utilisateurs la liberté de modification et de redistribution du logiciel
        régi par cette licence dans le cadre d'un modèle de diffusion «open source»"
+    - "Par ailleurs, le Concédant concède au Licencié à titre gracieux les droits
+       d'exploitation du ou des brevets qu'il détient sur tout ou partie des inventions"
+    - "Le  Titulaire  s'engage  à maintenir la diffusion du  Logiciel initial  sous
+       les  conditions du Contrat"
 
 references:
   "CeCILL-C":

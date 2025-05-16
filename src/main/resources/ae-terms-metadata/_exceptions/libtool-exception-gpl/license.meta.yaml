@@ -15,7 +15,7 @@ combinedWith:
 type: exception
 
 otherIds:
-  - "scancode:libtool-exception"
+#  - "scancode:libtool-exception" #deprecated
   - "scancode:libtool-exception-2.0"
 
 alternativeNames:

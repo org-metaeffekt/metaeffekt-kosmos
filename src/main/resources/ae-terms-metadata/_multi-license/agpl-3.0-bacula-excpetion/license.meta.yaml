@@ -1,0 +1,49 @@
+canonicalName: GNU Affero General Public License 3.0 (with Bacula Exception (AGPL 3.0))
+category: AGPL+Bacula
+shortName: AGPL-3.0-Bacula-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:agpl-3.0-bacula"
+
+alternativeNames:
+  - "GNU Affero General Public License 3.0 with Bacula Exception"
+  - "AGPL 3.0 with Bacula Exception"
+  - "AGPL-3.0 with Bacula Exception"
+
+combinedWith:
+  "GNU Affero General Public License 3.0": GNU Affero General Public License 3.0 (with Bacula Exception (AGPL 3.0))
+  Bacula Exception (AGPL 3.0): GNU Affero General Public License 3.0 (with Bacula Exception (AGPL 3.0))
+
+displayName:
+  "GNU Affero General Public License 3.0 (with Bacula Exception)"
+
+segmentation:
+  revert: [
+    { match:
+        "1. As a special exception to the AGPLv3, the copyright holders give permission to link the code of its release of Bacula with the OpenSSL project's \"OpenSSL\" library (or with modified versions of it that use the same license as the \"OpenSSL\" library), and distribute the linked executables. You must follow the requirements of AGPLv3 in all respects for all of the code used other than \"OpenSSL\". 2. As a special exception to the AGPLv3, the copyright holders give permission to link the code of its release of the Bacula Win32 File daemon with the Microsoft supplied Volume Shadow Copy (VSS) libraries and distribute the linked executables. You must follow the requirements of the AGPLv3 in all respects for all of the code used other than for the Microsoft VSS code. If you want to fork Bacula, please read the file LICENSE-FAQ.",
+      matchNext:
+        "The copyright for certain source files may include in addition to what is listed above the following copyright: Copyright (C) 2000-2014 Free Software Foundation Europe e.V. The copyright on the Baculum code is: Copyright (C) 2013-2017 Marcin Haba Copyrights of certain \"script\" files such as headers, shell script, Makefiles, etc ... were previously never explicitly defined. In almost all cases, they have been copyrighted with a BSD 2-Clause copyright to make them easier. However, as is the case of all BSD type copyrights you must keep the copyright in place and on any binary only released the copyright notice must also be released with the binaries. An example of such a copyright is:"
+    },
+    { match:
+        "However, as is the case of all BSD type copyrights you must keep the copyright in place and on any binary only released the copyright notice must also be released with the binaries. An example of such a copyright is:",
+      matchNext:
+        "8 Copyright (C) 2000-2017 Kern Sibbald"
+    },
+    { match:
+        "8 Copyright (C) 2000-2017 Kern Sibbald",
+      matchNext:
+        "License: BSD 2-Clause; see file LICENSE-FOSS It is equivalent to the full BSD copyright of:"
+    },
+    { match:
+        "License: BSD 2-Clause; see file LICENSE-FOSS It is equivalent to the full BSD copyright of:",
+      matchNext:
+        "===== Copyright (C) 2000-2017 Kern Sibbald"
+    },
+    { match:
+        "===== Copyright (C) 2000-2017 Kern Sibbald",
+      matchNext:
+        "License: BSD 2-Clause; see file LICENSE-FOSS Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+    },
+]

@@ -4,6 +4,8 @@ shortName: GPL-Autoconf-Exception-GPL-005
 
 type: expression
 
+unspecific: true
+
 spdxExpression: "[GNU General Public License (undefined)] WITH [Autoconf Exception (GPL; variant 005)]"
 
 canonicalNameHistory:
@@ -12,7 +14,7 @@ canonicalNameHistory:
 displayName:
   "GNU General Public License (undefined; with Autoconf exception (variant 005))"
 
-representedAs: "GNU General Public License (undefined)"
+representedAs: GNU General Public License (undefined; with exceptions)
 
 combinedWith:
   "GNU General Public License (undefined)": "GNU General Public License (undefined; with Autoconf exception (GPL; variant 005))"

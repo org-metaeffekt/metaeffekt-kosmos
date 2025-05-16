@@ -12,7 +12,6 @@ canonicalNameHistory:
 
 combinedWith:
   "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Autoconf exception (GPL; variant 004))"
-  #"FSF Unlimited License (with retention)": "FSF Unlimited License (with retention; with Autoconf exception 2.0)"
   "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 004))"
   "GNU General Public License 2.0": "GNU General Public License 2.0 (with Autoconf exception (GPL; variant 004))"
   "GNU General Public License 3.0": "GNU General Public License 3.0 (with Autoconf exception (GPL; variant 004))"

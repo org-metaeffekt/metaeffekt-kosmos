@@ -9,10 +9,11 @@ canonicalNameHistory:
 
 combinedWith:
   "GNU General Public License 2.0": "GNU General Public License 2.0 (with Linking exception (independent module))"
+  "GNU General Public License (undefined)": "GNU General Public License (undefined; with Linking exception (independent module))"
 
 otherIds:
   - "scancode:independent-module-linking-exception"
-  - "scancode:linking-exception-lgpl-2.0-plus"
+  - "scancode:linking-exception-lgpl-2.0-plus" #this ID is still active on the latest scancode version (23.04.2025): same license text as ID "independent-module-linking-exception"
 
 alternativeNames:
   - "Independent Module Linking Exception"
@@ -33,3 +34,7 @@ evidence:
         is distributed under the terms of the GNU General Public License <http://www.gnu.org/copyleft/gpl.html>
         version 2 only (\"GPL2\"), with the following clarification and special exception"
     - "The OpenJDK source code made available openjdk.dev.java.net (\"OpenJDK Code\") is distributed under the terms of the GNU General Public License <http://www.gnu.org/copyleft/gpl.html> version 2 only (\"GPL2\"), with the following clarification and special exception."
+    - "Additionally if other files instantiate templates or use macros or inline
+       functions from this file, or you compile this file and link it with other 
+       files to produce an executable, this file does not by itself cause the 
+       resulting executable to be covered by the GNU General Public License"

@@ -37,10 +37,6 @@ evidence:
        license to use STLport and its documentation without fee"
 
 
-mappings:
-  "Copyright 1993 by Davor MaticNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without": " LICENSE-SEGMENT-MARKER Copyright 1993 by Davor MaticNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without"
-  "Copyright 1990,91,92,93 by Thomas Roell, Germany.NEWLINE-MARKERCopyright 1991,92,93 by SGCS \\(Snitily Graphics Consulting Services\\), USA.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without": " LICENSE-SEGMENT-MARKER Copyright 1990,91,92,93 by Thomas Roell, Germany.NEWLINE-MARKERCopyright 1991,92,93 by SGCS (Snitily Graphics Consulting Services), USA.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without"
-
 licenseTemplate:
   "<lq>Permission to use, copy, modify, distribute and sell this software
    and its documentation for any purpose is hereby granted without fee,
@@ -49,3 +45,9 @@ licenseTemplate:
    in supporting documentation. <p>{{copyrightHolderNoRepresentation}} makes no
    representations about the suitability of this software for any
    purpose.</p> It is provided \"as is\" without express or implied warranty.</lq>"
+
+mappings:
+  "Copyright \\(c\\) 1994NEWLINE-MARKER \\* Hewlett-Packard CompanyNEWLINE-MARKER \\*NEWLINE-MARKER \\* Permission to use, copy, modify, distribute": " LICENSE-SEGMENT-MARKER Copyright (c) 1994NEWLINE-MARKER * Hewlett-Packard CompanyNEWLINE-MARKER *NEWLINE-MARKER * Permission to use, copy, modify, distribute"
+  "Copyright \\(c\\) 1996-1998NEWLINE-MARKER \\* Silicon Graphics Computer Systems, Inc.NEWLINE-MARKER \\*NEWLINE-MARKER \\* Permission to use, copy, modify": " LICENSE-SEGMENT-MARKER Copyright (c) 1996-1998NEWLINE-MARKER * Silicon Graphics Computer Systems, Inc.NEWLINE-MARKER *NEWLINE-MARKER * Permission to use, copy, modify"
+  "Copyright 1993 by Davor MaticNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without": " LICENSE-SEGMENT-MARKER Copyright 1993 by Davor MaticNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without"
+  "Copyright 1990,91,92,93 by Thomas Roell, Germany.NEWLINE-MARKERCopyright 1991,92,93 by SGCS \\(Snitily Graphics Consulting Services\\), USA.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without": " LICENSE-SEGMENT-MARKER Copyright 1990,91,92,93 by Thomas Roell, Germany.NEWLINE-MARKERCopyright 1991,92,93 by SGCS (Snitily Graphics Consulting Services), USA.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sell this softwareNEWLINE-MARKERand its documentation for any purpose is hereby granted without"

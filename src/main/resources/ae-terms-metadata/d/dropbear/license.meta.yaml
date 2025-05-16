@@ -1,0 +1,46 @@
+canonicalName: Dropbear License
+category: Dropbear
+shortName: Dropbear
+
+otherIds:
+  - "scancode:dropbear"
+
+expectedMatches:
+  - "MIT License"
+  - "Public Domain"
+  - "SSH Notice (short)"
+  - "BSD 2-Clause License"
+  - "BSD 3-Clause License (copyright holder variant)"
+
+evidence:
+  matches:
+    - "The majority of code is written by Matt Johnston, under the license below"
+    - "Portions of the client-mode work are*{.{0,40}}* under the same license:"
+    - "Permission is hereby granted, free of charge, to any person obtaining a copy
+       of this software and associated documentation files*{.{0,30}}* to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions"
+    - "The above copyright notice and this permission notice shall be included in all
+       copies or substantial portions of the Software"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+        OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
+  excludes:
+    - "Dropbear contains a number of components from different sources, hence there
+       are a few licenses and authors involved"
+
+mappings:
+  "and strlcat\\(\\) is \\(c\\) Todd C. Miller \\(included in util.c -- \\) are from OpenSSH 3.6.1p2, and are licensedNEWLINE-MARKERunder the BSD-Modified license:": " LICENSE-SEGMENT-MARKER and strlcat() is (c) Todd C. Miller (included in util.c -- ) are from OpenSSH 3.6.1p2, and are licensedNEWLINE-MARKERunder the BSD-Modified license:"
+  "Import code in keyimport.c is modified from PuTTY's import.c, licensed asNEWLINE-MARKERfollows:": " LICENSE-SEGMENT-MARKER Import code in keyimport.c is modified from PuTTY's import.c, licensed asNEWLINE-MARKERfollows:"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "loginrec.c is written primarily by Andre Lucas, Jason Downs, Theo de Raadt: Copyright (c) 2000 Andre Lucas. Portions copyright (c) 1998 Todd C. Miller Portions copyright (c) 1996 Jason Downs Portions Copyright (c) 1996 Theo de Raadt. loginrec.h is written by Andre Lucas: Copyright (c) 2000 Andre Lucas. atomicio.h,atomicio.c written by Theo de Raadt (1995-1999) Copyright (c) 1995,1999 Theo de Raadt.",
+      matchNext:
+        "And are licensed under the following terms: Copyright (c) <YEAR>, <OWNER> All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:"
+    },
+]

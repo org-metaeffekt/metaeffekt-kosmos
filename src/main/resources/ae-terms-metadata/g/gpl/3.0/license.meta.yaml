@@ -142,6 +142,7 @@ alternativeNames:
   - "licensed under the GPL v3"  
   - "GNU General Public License as published by the Free Software Foundation; version 3"
   - "version 3 of the GNU General Public License"
+  - "appendix.gpl-3.0"
 
 evidence:
   matches:

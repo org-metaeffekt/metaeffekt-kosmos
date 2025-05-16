@@ -1,0 +1,17 @@
+canonicalName: Binary Firmware License (with patent)
+category: Firmware
+shortName: Binary-Firmware-patent
+
+otherIds:
+  - "scancode:binary-linux-firmware-patent"
+
+evidence:
+  matches:
+    - "Redistribution and use in binary form, without modification, are permitted provided that the following conditions are met"
+    - "Redistributions must reproduce the above copyright notice and the following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Neither the name*{.{0,150}}* may be used to endorse or promote products derived from this software without specific prior written permission"
+    - "No reverse engineering, decompilation, or disassembly of this software is permitted"
+    - "The Copyright Holder grants a world-wide, royalty-free, non-exclusive license under patents it now or hereafter owns or controls to make, have made, use, import, offer to sell and sell"
+    - "The patent license shall not apply to any other combinations which include this software"
+    - "THIS SOFTWARE IS PROVIDED BY*{.{0,120}(\"as is\"|\"AS IS\"|as is|AS IS){1}}* AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+    - "IN NO EVENT SHALL*{.{0,80}}* BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES"

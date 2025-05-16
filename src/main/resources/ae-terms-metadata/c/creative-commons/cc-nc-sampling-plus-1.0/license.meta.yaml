@@ -7,6 +7,11 @@ otherIds:
 
 alternativeNames:
   - "Creative Commons NonCommercial Sampling Plus 1.0"
+  - "CC NC-SAMPLING+ 1.0"
+  - "NonCommercial Sampling Plus 1.0"
+  - "NonCommercial Sampling Plus 1.0 Generic"
+  - "http://creativecommons.org/licenses/nc-sampling+/1.0"
+  - "https://creativecommons.org/licenses/nc-sampling+/1.0"
 
 requiresNote: true
 noteChecklist:

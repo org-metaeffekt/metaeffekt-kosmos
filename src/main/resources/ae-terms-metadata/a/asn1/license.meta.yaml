@@ -14,7 +14,7 @@ canonicalNameHistory:
 otherIds:
   - "scancode:asn1"
 #note: scancode has 2 unique IDs for this license. ID "gutmann" is one sentence and very vague - will not be modelled separately
-  - "scancode:gutmann"
+#  - "scancode:gutmann" #deprecated
 
 evidence:
   matches:

@@ -1,0 +1,42 @@
+canonicalName: Fair Core License 1.0 (MIT Future License)
+category: Fair Core License
+shortName: FCL-1.0-MIT
+
+otherIds:
+  - "scancode:fcl-1.0-mit"
+
+classification: source-available
+
+alternativeNames:
+  - "Fair Core License, Version 1.0, MIT Future License"
+  - "Fair Core License 1.0 (MIT Future License)"
+
+canonicalNameHistory:
+  - "Fair Core License, Version 1.0, MIT Future License"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this License Grant and the Limitations,
+       Patents, Redistribution and Trademark clauses below, we hereby grant you the
+       right to use, copy, modify, create derivative works, publicly perform, publicly
+       display and redistribute the Software for any Permitted Purpose identified below"
+    - "You must not move, change, disable, or circumvent the license key functionality
+       in the Software"
+    - "To the extent your use for a Permitted Purpose would necessarily infringe our
+       patents, the license grant above includes a license under our patents"
+    - "If you make a claim against any party that the Software infringes or contributes to
+       the infringement of any patent, then your patent license to the Software ends
+       immediately"
+    - "We hereby irrevocably grant you an additional license to use the Software,
+       under the MIT license, that is effective on the second anniversary of the date
+       we make the Software available"
+    - "On or after that date, you may use the Software under the MIT license, in which
+       case the following will apply"
+    - "Permission is hereby granted, free of charge, to any person obtaining a copy of
+       this software and associated documentation files (the 'Software'), to deal in
+       the Software without restriction, including without limitation the rights to
+       use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+       of the Software, and to permit persons to whom the Software is furnished to do
+       so, subject to the following conditions"
+    - "The above copyright notice and this permission notice shall be included in all
+       copies or substantial portions of the Software"

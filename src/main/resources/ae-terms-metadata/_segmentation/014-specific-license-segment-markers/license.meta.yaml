@@ -58,3 +58,4 @@ mappings:
   # "NEWLINE-MARKER \\([0-9]{1,}\\) Red Hat Incorporated": "LICENSE-SEGMENT-MARKER" seems to be duplicate from MatchPreprocessor
   # "NEWLINE-MARKER \\([0-9]{1,}\\) Artem Bityuckiy \\(--enable-newlib-iconv\\)": "LICENSE-SEGMENT-MARKER" seems to be duplicate from MatchPreprocessor
   "NEWLINE-MARKER \\([0-9]{1,}\\) Artem Bityuckiy": "LICENSE-SEGMENT-MARKER"
+  "Consortium.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright ": "Consortium.LICENSE-SEGMENT-MARKERCopyright "

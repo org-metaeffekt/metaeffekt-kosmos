@@ -3,7 +3,7 @@ category: LMBench Restriction
 shortName: LMBench-Restriction
 
 otherIds:
-  - "scancode:gpl-2.0-lmbench"
+#  - "scancode:gpl-2.0-lmbench" #deprecated
   - "scancode:lmbench-exception-2.0"
 
 alternativeNames:

@@ -7,6 +7,7 @@ type: exception
 
 otherIds:
   - "scancode:oracle-openjdk-classpath-exception-2.0"
+#  - "scancode:openjdk-classpath-exception-2.0" # deprecated
 
 ignoreMatches:
   # we model this as an ignore because exceptions are too extreme and there is no other good way to prevent the licenses from matching
@@ -34,3 +35,4 @@ evidence:
   excludes:
     - "For purposes of those files in the OpenJDK distribution that are subject to the Assembly Exception, the 
        following shall be deemed Designated Exception Modules"
+

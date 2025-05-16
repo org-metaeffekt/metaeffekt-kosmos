@@ -11,6 +11,9 @@ requiresLicenseText: true
 alternativeNames:
   - "Intel-BCL"
 
+ignoreMatches:
+  - "Firmware License (unspecific)"
+
 evidence:
   matches:
     - "Redistribution and use in binary form, without modification, are

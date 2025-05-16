@@ -3,8 +3,8 @@ category: RT
 shortName: RT-Var7
 
 otherIds:
-  - "scancode:bsla"
-  - "scancode:bsd-original-uc-1990"
+#  - "scancode:bsd-original-uc-1990" # deprecated
+  - "scancode:bsla" # same licence text as "bsd-original-uc-1990"
 
 canonicalNameHistory:
   - "Redistribution Terms Var7"

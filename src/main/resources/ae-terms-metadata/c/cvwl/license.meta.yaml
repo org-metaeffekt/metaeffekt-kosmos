@@ -2,6 +2,7 @@ canonicalName: Collaborative Virtual Workspace License
 category: Collaborative Virtual Workspace License
 shortName: CVWL
 
+#expectedMatches verified on 25.04.2025
 expectedMatches:
   - "GNU General Public License 2.0"
   - "Mozilla Public License 1.0"

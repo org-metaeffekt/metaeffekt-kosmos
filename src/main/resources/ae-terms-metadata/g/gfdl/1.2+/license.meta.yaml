@@ -5,6 +5,9 @@ shortName: GFDL-1.2+
 
 baseTerms: GNU Free Documentation License 1.2
 
+otherIds:
+  - "scancode:gfdl-1.2-plus"
+
 # NOTE: we do not keep any license texts here because it is currently impossible to model the versions to not match each other; the license texts contain the same content;
 
 allowsLaterVersions: true

@@ -2,6 +2,9 @@ canonicalName: Creative Commons BY-SA 2.1 (JP)
 category: CC-BY-SA
 spdxIdentifier: CC-BY-SA-2.1-JP
 
+# FIXME-implement: there is also a 2.0 version available.
+#   See https://creativecommons.org/licenses/by-sa/2.0/jp"
+
 #representedAs: Creative Commons BY-SA 2.1
 
 otherIds:
@@ -11,6 +14,10 @@ otherIds:
 
 alternativeNames:
   - "CC-BY-SA-2.1-JP"
+  - "CC BY-SA 2.1 JP"
+  - "アトリビューション—シェアアライク 2.1（帰属—同一条件許諾）"
+  - "http://creativecommons.org/licenses/by-sa/2.1/jp"
+  - "https://creativecommons.org/licenses/by-sa/2.1/jp"
 
 requiresNote: true
 noteChecklist:

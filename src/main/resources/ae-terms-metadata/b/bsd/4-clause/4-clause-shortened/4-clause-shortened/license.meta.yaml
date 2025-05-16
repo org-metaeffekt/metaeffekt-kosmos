@@ -10,6 +10,9 @@ requiresLicenseText: true
 combinedWith:
   "BSD 4-Clause License (shortened; copyright holder variant)": "BSD 4-Clause License (shortened)"
 
+otherIds:
+  - "scancode:bsd-4-clause-shortened"
+
 expectedSpdxMatches:
   - "BSD 4-Clause License (shortened)"
   - "BSD 4-Clause License (shortened; copyright holder variant)"

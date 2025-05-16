@@ -1,0 +1,78 @@
+canonicalName: Binary Firmware License
+category: Firmware
+shortName: Binary-Firmware
+
+canonicalNameHistory:
+  - "Firmware License"
+
+otherIds:
+  - "scancode:binary-linux-firmware"
+
+evidence:
+  matches:
+    - "Redistribution and use in binary form, without
+       modification, are permitted provided that the following conditions are
+       met"
+    - "Redistributions must reproduce the above copyright notice and the
+       following disclaimer in the documentation and/or other materials
+       provided with the distribution"
+    - "Neither the name*{.{0,150}}* may be used to endorse or promote products derived from this software
+       without specific prior written permission"
+    - "No reverse engineering, decompilation, or disassembly of this software
+       is permitted"
+    - "THIS SOFTWARE IS PROVIDED BY*{.{0,120}(\"as is\"|\"AS IS\"|as is|AS IS){1}}* AND ANY EXPRESS OR IMPLIED
+       WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+       MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+    - "IN NO EVENT SHALL*{.{0,80}}* BE LIABLE FOR ANY DIRECT, INDIRECT,
+       INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+       BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+       OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+       ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+       TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+       USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+       DAMAGE"
+  excludes:
+# to prevent the Binary Firmware License (with Patent) from being matched:
+    - "The Copyright Holder grants a world-wide, royalty-free, non-exclusive license under patents it now or hereafter owns or controls to make, have made, use, import, offer to sell and sell"
+    - "The patent license shall not apply to any other combinations which include this software"
+# to prevent Intel Binary Code License from being matched
+    - "\"Binary form\" includes any format commonly used for electronic conveyance which
+        is a reversible, bit-exact translation of binary representation to ASCII or ISO
+        text, for example, \"uuencode.\""
+
+# to prevent Intel Firmware License (with limited patent license) from being matched (contains patent clause)
+    - "Intel Corporation grants a world-wide, royalty-free, non-exclusive
+       license under patents it now or hereafter owns or controls to make"
+
+# to prevent OLPC License from being matched
+    - "You may not use or attempt to use this software in conjunction with
+        any product that is offered by a third party as a replacement,
+        substitute or alternative to a Marvell Product where a Marvell Product
+        is defined as a proprietary wireless LAN embedded client solution of
+        Marvell or a Marvell Affiliate"
+
+
+##licenseTemplate:
+#  "<lq>Redistribution. Redistribution and use in binary form, without
+#   modification, are permitted provided that the following conditions are
+#   met:
+#   <ol><li>Redistributions must reproduce the above copyright notice and the
+#   following disclaimer in the documentation and/or other materials
+#   provided with the distribution.</li>
+#   <li>Neither the name{{variable3rdClause}} may be used to endorse or promote products derived from this software
+#   without specific prior written permission.</li>
+#   <li>No reverse engineering, decompilation, or disassembly of this software
+#   is permitted.</li></ol>
+#   <codeph>DISCLAIMER<p/>
+#   THIS SOFTWARE IS PROVIDED BY {{copyrightHolderNoWarranty}} \"AS IS\" AND
+#    ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING,
+#    BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+#    FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE
+#    LIABLE FOR ANY DIRECT, INDIRECT,
+#    INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+#    BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS
+#    OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+#    ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+#    TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+#    USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+#    DAMAGE.</codeph></lq>"

@@ -1,31 +1,26 @@
-canonicalName: "CC0 1.0 Public Domain Dedication"
+canonicalName: CC0 1.0 Public Domain Dedication
 category: CC0-PDD
 shortName: CC0-1.0-PDD
 
 status:
-  - "reviewed: 03.11.21"
+  - "reviewed: 08.04.25"
 
 requiresCopyright: false
 requiresLicenseText: false
 
 alternativeNames:
   - "CC0-1.0 Public Domain Dedication"
-  - "CC0 Public Domain Dedication"
+  - "CC0 1.0 Public Domain Dedication"
   - "CC0 v 1.0 Public Domain Dedication"
+  - "CC0 1.0 Universal Public Domain Dedication"
+  - "CC0 Public Domain Dedication"
+  - "Creative Commons CC0 1.0"
+  - "Creative Commons CC0-1.0"
   - "CC-PDDC-1.0"
   - "public domain under CC0"
 
 combinedWith:
   "Public Domain": "CC0 1.0 Public Domain Dedication"
-
-references:
-  "Public Domain":
-     matches:
-        - "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
-        - "The person who associated a work with this deed has dedicated the work to the 
-           public domain by waiving all of his or her rights to the work worldwide under 
-           copyright law, including all related and neighboring rights, to the extent 
-           allowed by law"
 
 evidence:
   matches:
@@ -43,3 +38,12 @@ evidence:
     - "identification of the creator(s) of the Licensed Material and any others
        designated to receive attribution, in any reasonable manner requested by the
        Licensor (including by pseudonym if designated)"
+
+references:
+  "Public Domain":
+    matches:
+      - "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication"
+      - "The person who associated a work with this deed has dedicated the work to the
+           public domain by waiving all of his or her rights to the work worldwide under
+           copyright law, including all related and neighboring rights, to the extent
+           allowed by law"

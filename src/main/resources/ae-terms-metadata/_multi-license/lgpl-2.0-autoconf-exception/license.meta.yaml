@@ -1,0 +1,15 @@
+canonicalName: GNU Library General Public License 2.0 (with Autoconf Exception)
+category: LGPL+Autoconf
+shortName: LGPL-2.0-Autoconf-Exception
+
+representedAs: GNU Library General Public License 2.0 (with exceptions)
+
+type: expression
+
+alternativeNames:
+  - "GNU Library General Public License 2.0 (with Exceptions)"
+
+combinedWith:
+  GNU Library General Public License 2.0: GNU Library General Public License 2.0 (with Autoconf Exception)
+  Autoconf Exception: GNU Library General Public License 2.0 (with Autoconf Exception)
+

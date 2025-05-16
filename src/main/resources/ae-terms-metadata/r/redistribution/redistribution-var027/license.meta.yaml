@@ -19,18 +19,23 @@ evidence:
     - "Redistribution and use in source and binary forms are permitted provided that"
     - "source distributions retain this entire copyright notice and comment"
     - "distributions including binaries display the following acknowledgement"
-    - "This product includes software developed by *{.{0,100}}* in the documentation or other materials provided with the distribution and in all advertising materials 
-       mentioning features or use of this software"
-    - "Neither the name of *{.{0,100}}* nor the names of its contributors may be used to endorse or promote 
-       products derived from this software without specific prior written permission"
-    - "THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT 
-       LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE"
+    - "This product includes software developed by *{.{0,100}}* in the documentation or other materials provided with 
+       the distribution and in all advertising materials mentioning features or use of this software"
+    - "Neither the name of *{.{0,100}}* nor the names of its contributors may be used to endorse or promote  products 
+       derived from this software without specific prior written permission"
+    - "THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, 
+       THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE"
   excludes:
-    - "Effectively, this means you can do what you want with the software
-       except remove this notice or take advantage of the author's name"
+    - "Effectively, this means you can do what you want with the software except remove this notice or take advantage of 
+       the author's name"
     - "BE LIABLE FOR ANY DIRECT INDIRECT INCIDENTAL SPECIAL EXEMPLARY"
-    - "may not be used to endorse or promote products derived from this software without specific prior written permission"
-    - "The authors hereby grant permission to use copy modify distribute and license this software and its documentation for any purpose provided that existing copyright notices are retained in all copies and that this notice is included verbatim in any distributions"
-    - "The United States Government has rights in this work pursuant to contract no. DE-
-       AC03-76SF00098 between the United States Department of Energy and the University of
-       California"
+    - "may not be used to endorse or promote products derived from this software without specific prior written 
+       permission"
+    - "The authors hereby grant permission to use copy modify distribute and license this software and its documentation 
+       for any purpose provided that existing copyright notices are retained in all copies and that this notice is 
+       included verbatim in any distributions"
+    - "The United States Government has rights in this work pursuant to contract no. DE-AC03-76SF00098 between the 
+       United States Department of Energy and the University of California"
+    # FIXME-IMPLEMENT: consider merge Redistribution Terms (variant 027) and BSD 3-Clause License (1988)
+    #  we could also consider an exact replication of scancode:bsd-198 and a copyright holder variant with variables
+    - "``This product includes software developed by copyright holder and its contributors''"

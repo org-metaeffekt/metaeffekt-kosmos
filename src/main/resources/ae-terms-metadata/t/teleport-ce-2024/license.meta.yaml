@@ -1,0 +1,43 @@
+canonicalName: Teleport Community Edition License 2024
+category: Teleport Community Edition License
+shortName: teleport-ce-2024
+
+otherIds:
+  - "scancode:teleport-ce-2024"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Teleport Community Edition License 2024"
+  - "Teleport Community Edition License"
+
+evidence:
+  matches:
+    - "THE TELEPORT COMMUNITY EDITION IS AVAILABLE ONLY TO ORGANIZATIONS THAT HAVE
+       LESS THAN ONE HUNDRED (100) EMPLOYEES AND LESS THAN TEN MILLION DOLLARS
+       ($10,000,000.00) IN ANNUAL REVENUE. PROVIDED THE ORGANIZATION MEETS THESE
+       REQUIREMENTS, THE TELEPORT COMMUNITY EDITION IS MADE AVAILABLE UNDER THIS
+       LICENSE"
+    - "INTRODUCTORY NOTE: THIS LICENSE IS A DERIVATIVE WORK OF THE APACHE LICENSE
+       VERSION 2.0 (AVAILABLE AT HTTPS://WWW.APACHE.ORG/LICENSES/LICENSE-2.0)"
+    - "IN OTHER WORDS, THIS LICENSE CONTAINS ADDITIONAL CONDITIONS THAT THE APACHE
+       LICENSE 2.0 DOES NOT CONTAIN"
+    - "PLEASE READ THIS LICENSE CAREFULLY, AS IT IS DIFFERENT FROM OTHER ‘OPEN ACCESS’
+       LICENSES YOU MAY HAVE ENCOUNTERED PREVIOUSLY"
+    - "To apply the Teleport Community Edition License to your work,
+       attach the following boilerplate notice, with the fields enclosed by brackets '[ ]'
+       replaced with your own identifying information. (Don't include the brackets!)"
+    - "The text should be enclosed in the appropriate comment syntax for the file format"
+    - "We also recommend that a file or class name and description of purpose be included
+       on the same 'printed page' as the copyright notice for easier identification within
+       third-party archives"
+    - "Licensed under the Teleport Community Edition License, Version 1.0 (the 'License');
+       you may not use this file except in compliance with the License"
+    - "You may obtain a copy of the License at
+       https://github.com/gravitational/teleport/blob/master/build.assets/LICENSE-community"
+
+references:
+  "Apache License":
+    matches:
+      - "IN OTHER WORDS, THIS LICENSE CONTAINS ADDITIONAL CONDITIONS THAT THE APACHE
+         LICENSE 2.0 DOES NOT CONTAIN"

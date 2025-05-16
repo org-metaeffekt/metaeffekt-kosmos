@@ -10,6 +10,9 @@ otherIds:
 
 type: exception
 
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 005))"
+
 evidence:
   matches:
     - "In addition to the permissions in the GNU General Public License, the

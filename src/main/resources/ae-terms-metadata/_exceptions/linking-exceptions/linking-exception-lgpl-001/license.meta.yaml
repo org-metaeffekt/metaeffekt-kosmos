@@ -9,7 +9,7 @@ canonicalNameHistory:
 
 otherIds:
   - "scancode:linking-exception-2.1-plus"
-  - "scancode:lgpl-2.1-plus-linking"
+#  - "scancode:lgpl-2.1-plus-linking" #deprecated
 
 
 evidence:

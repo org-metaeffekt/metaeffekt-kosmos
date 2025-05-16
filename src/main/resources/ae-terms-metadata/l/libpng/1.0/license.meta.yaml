@@ -9,6 +9,7 @@ otherIds:
 alternativeNames:
   - "PNG Reference Library License 1"
   - "PNG Reference Library License version 1"
+  - "PNG Reference Library License 1.0"
 
 evidence:
   matches:
@@ -23,7 +24,6 @@ evidence:
        implied, including but not limited to, warranties of merchantability or fitness
        for any particular purpose or that the use of the software or documentation will
        not infringe any third party patents, copyrights, trademarks or other rights"
-
 
 segmentation:
   revert: [

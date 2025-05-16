@@ -15,6 +15,9 @@ otherIds:
 canonicalNameHistory:
   - "libpri OpenH323 exception"
 
+expectedMatches:
+  - "Mozilla Public License (undefined)"
+
 evidence:
   matches:
     - "As a special exception, libpri may also be linked to the

@@ -11,7 +11,10 @@ type: exception
 combinedWith:
   "GNU Free Documentation License 1.2": GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)
   "GNU General Public License 3.0": GNU General Public License 3.0 (with GCC Runtime Library exception 3.1)
-  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with GCC Runtime Library exception 3.1)
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with GCC Runtime Library exception 3.1)
+
+alternativeNames:
+  - "GCC Runtime Library Exception, version 3.1"
 
 evidence:
   matches:
@@ -26,8 +29,6 @@ evidence:
 references:
   "GPL":
     matches:
-      - "This GCC Runtime Library Exception (\"Exception\") is an additional
-         permission under section 7 of the GNU General Public License, version 3 (\"GPLv3\")"
       - "It applies to a given file (the \"Runtime Library\") that
          bears a notice placed by the copyright holder of the file stating that
          the file is governed by GPLv3 along with this Exception"
@@ -36,4 +37,18 @@ references:
          the GNU General Public License (GPL) with the option of using any
          subsequent versions published by the FSF"
       - "\"GPL-compatible Software\" is software whose conditions of propagation"
-      - "even if such propagation would otherwise violate the terms of GPLv3"
+      - "1. Grant of Additional Permission.
+
+         You have permission to propagate a work of Target Code formed by
+         combining the Runtime Library with Independent Modules, even if such
+         propagation would otherwise violate the terms of GPLv3"
+      - "This GCC Runtime Library Exception (\"Exception\") is an additional
+         permission under section 7 of the GNU General Public License, version
+         3 (\"GPLv3\"). It applies to a given file (the \"Runtime Library\") that
+         bears a notice placed by the copyright holder of the file stating that
+         the file is governed by GPLv3 along with this Exception."
+      # this reference was found in other text; it is not part of the exception test; we need to allow this
+      # in the meantime I added the special text at the end of the license.
+      - "As a special exception under Section 7 of GPL version 3, you are granted
+         additional permissions described in the GCC Runtime Library Exception,
+         version 3.1, as published by the Free Software Foundation."

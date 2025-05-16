@@ -2,6 +2,9 @@ canonicalName: Freetype2 Project License
 category: Freetype
 shortName: Freetype2
 
+# FIXME-implement: this is not a license; we should model that as
+#    FreeType Project License + GNU General Public License 2.0, X11 (undefined), zlib License, Public Domain
+
 alternativeNames:
   - "FreeType 2  font  engine license"
   - "FreeType2  font  engine license"

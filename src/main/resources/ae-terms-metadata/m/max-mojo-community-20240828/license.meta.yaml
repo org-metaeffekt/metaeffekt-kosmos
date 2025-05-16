@@ -1,0 +1,46 @@
+canonicalName: MAX & Mojo Community License 20240828
+category: MAX & Mojo Community License
+shortName: MAX-Mojo-Community-20240828
+
+otherIds:
+  - "scancode:max-mojo-community-20240828"
+
+classification: proprietary free
+
+alternativeNames:
+  - "MAX & Mojo Community License 20240828"
+  - "MAX & Mojo Community License"
+  - "max-mojo-community-20240828"
+  - "https://docs.modular.com"
+
+evidence:
+  matches:
+    - "Subject to Licensee’s compliance with these Terms, Modular hereby grants Licensee a non-exclusive,
+       non-transferable license to use the SDK and accompanying Documentation (as defined below), as made
+       available at https://docs.modular.com, solely for use in developed software applications ('Applications')
+       that meet the Usage and Distribution Requirements specified in this Agreement"
+    - "This license does not grant Licensee the right to distribute the SDK or any part thereof to third parties,
+       except as expressly stated otherwise herein"
+    - "For the avoidance of doubt, Licensee may under no circumstances redistribute the SDK itself outside of
+       any Applications"
+    - "Nothing herein shall be construed as a grant of a license or any other rights with respect to Modular’s
+       trademarks, logos, or other branding for Mojo or any other Modular offerings (collectively, the “Marks”)"
+    - "Licensee shall seek prior written consent for the use of the Marks in connection with its use of the SDK,
+       and agrees and acknowledges that Modular is under no obligation to grant any such requests"
+    - "The Application must have material additional functionality, beyond the included portions of the SDK"
+    - "The distributable portions of the SDK shall only be accessed by the Application"
+    - "The terms under which Licensee distributes an Application must be consistent with the terms of this Agreement,
+       including (without limitation) terms relating to the license grant and license restrictions and protection of
+       Modular’s intellectual property rights"
+    - "Licensee shall not redistribute the Redistributable Components as standalone components, libraries, or tools
+       in any way that would enable third parties to violate the terms of this License"
+    - "Licensee shall not modify, reverse engineer, decompile, disassemble, or attempt to derive the source code of
+       the Redistributable Components, except to the extent expressly permitted by applicable law"
+    - "Licensee shall include all proprietary notices, labels, and marks provided by Modular in the Documentation
+       (or elsewhere) in connection with the Redistributable Components in all copies of Applications that incorporate
+       the Redistributable Components"
+    - "The text of this Agreement shall be conspicuously displayed in each original or modified copy of the SDK"
+    - "The Application must only be run on hardware expressly supported by MAX"
+    - "If Licensee wishes to run the Application on custom hardware it is developing or has developed, Licensee must
+       contact Modular with a written request to secure appropriate rights to do so"
+    - "Modular reserves the right to approve or deny such requests in its sole discretion"

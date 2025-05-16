@@ -3,6 +3,7 @@ category: CNRI Jython
 spdxIdentifier: CNRI-Jython
 
 otherIds:
+# both IDs are still active:
   - "scancode:cnri-jython"
   - "scancode:jpython-1.1"
 
@@ -26,7 +27,3 @@ evidence:
     - "BY WAY OF EXAMPLE, BUT NOT LIMITATION, CNRI MAKES NO AND DISCLAIMS ANY REPRESENTATION
        OR WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT
        THE USE OF THE SOFTWARE WILL NOT INFRINGE ANY THIRD PARTY RIGHTS"
-  excludes:
-    - "In October 2000 Barry helped move the software to SourceForge
-       where it was renamed to Jython. Jython 2.0 and 2.1 were developed
-       under the Jython specific license below"

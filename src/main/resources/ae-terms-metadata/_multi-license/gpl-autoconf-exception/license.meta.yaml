@@ -9,7 +9,7 @@ unspecific: true
 alternativeNames:
   - "GNU General Public License (undefined; with Autoconf exception)"
 
-representedAs: "GNU General Public License (undefined)"
+representedAs: GNU General Public License (undefined; with exceptions)
 
 combinedWith:
   "GNU General Public License (undefined)": "GNU General Public License (undefined; with Autoconf exception)"

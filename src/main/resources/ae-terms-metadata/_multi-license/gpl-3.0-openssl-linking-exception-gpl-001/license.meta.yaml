@@ -6,6 +6,11 @@ type: expression
 
 spdxExpression: "[GNU General Public License 3.0] WITH [OpenSSL Linking Exception (GPL; variant 001)]"
 
+representedAs: "GNU General Public License 3.0 (with exceptions)"
+
+alternativeShortNames:
+ - "GPL-2.0-or-later WITH cryptsetup-OpenSSL-exception"
+
 canonicalNameHistory:
  - "GNU General Public License 3.0 (with OpenSSL exception)"
  - "GNU General Public License 3.0 (with Linking exception (GPL; variant 022))"

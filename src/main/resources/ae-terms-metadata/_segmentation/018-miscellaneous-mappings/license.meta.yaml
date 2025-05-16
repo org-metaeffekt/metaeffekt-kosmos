@@ -21,3 +21,5 @@ mappings:
   "//C-": " " # separator found in SumatraPDF
 
   "NEWLINE-MARKER ; ": "NEWLINE-MARKER " # zlib variant in jsimdext.inc of SumatraPDF
+  "(License [\\d]+:)": "LICENSE-SEGMENT-MARKER$1"
+  "to permit persons to whom theNEWLINE-MARKER Software furnished to do so": "to permit persons to whom theNEWLINE-MARKER Software is furnished to do so"

@@ -5,7 +5,7 @@ shortName: GPL-3.0-Linking-Exception-GPL-004
 type: expression
 
 displayName: "GNU General Public License 3.0 (with Linking exception (variant 004))"
-representedAs: "GNU General Public License 3.0"
+representedAs: GNU General Public License 3.0 (with exceptions)
 
 combinedWith:
   "GNU General Public License 3.0": "GNU General Public License 3.0 (with Linking exception (GPL; variant 004))"

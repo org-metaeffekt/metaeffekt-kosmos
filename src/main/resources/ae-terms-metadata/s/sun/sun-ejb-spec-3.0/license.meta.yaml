@@ -2,7 +2,7 @@ canonicalName: Sun EJB Specification 3.0
 category: Sun EJB
 shortName: Sun-EJB-spec-3.0
 
-#both individual IDs lead to the same license text
+#both still active IDs lead to the same license text (23.04.2025)
 otherIds:
   - "scancode:sun-ejb-spec-3.0"
   - "scancode:sun-jsr-spec-04-2006"

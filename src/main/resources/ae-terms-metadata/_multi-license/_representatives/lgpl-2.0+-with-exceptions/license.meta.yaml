@@ -1,0 +1,7 @@
+canonicalName: GNU Library General Public License 2.0 (or any later version; with exceptions)
+category: LGPL
+shortName: LGPL-2.0+-exceptions
+
+type: expression
+
+baseTerms: GNU General Public License (undefined)

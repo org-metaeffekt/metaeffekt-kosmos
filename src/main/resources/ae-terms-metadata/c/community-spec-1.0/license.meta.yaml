@@ -9,6 +9,16 @@ alternativeNames:
   - "Community Specification License 1.0"
   - "https://github.com/CommunitySpecification/1.0/blob/master/1._Community_Specification_License-v1.md"
 
+evidence:
+  matches:
+    - "Contributor grants everyone a non-sublicensable, perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as expressly stated in this License) copyright license, without any obligation for accounting, to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute any materials it submits to the full extent of its copyright interest in those materials"
+    - "As a condition, anyone exercising this copyright license must include attribution to the Working Group in any derivative work based on materials developed by the Working Group"
+    - "For distribution in source code, by including this License in the root directory of the source code with the Implementation"
+    - "For distribution in any form other than source code, by including this License in the documentation, legal notices, via notice in the software, and/or other written materials provided with the Implementation"
+    - "This License is binding on any future owner, assignee, or party who has been given the right to enforce any Necessary Claims against third parties"
+    - "Except as specifically set forth in this License, no other express or implied patent, trademark, copyright, or other rights are granted under this License, including by implication"
+    - "Contributor agrees that it will not intentionally take or willfully assist any third party to take any action for the purpose of circumventing any obligations under this License"
+
 references:
   "MIT":
     matches:
@@ -20,3 +30,9 @@ references:
       - "SPDX-License-Identifier: CC-BY-4.0
          Standard License Header
          There is no standard license header for the license"
+      - "The text of this Community Specification License is Copyright 2020
+         Joint Development Foundation and is licensed under the Creative
+         Commons Attribution 4.0 International License available at
+         https://creativecommons.org/licenses/by/4.0/.
+
+         SPDX-License-Identifier: CC-BY-4.0"

@@ -4,11 +4,17 @@ shortName: BSD-3-Clause-001
 
 representedAs: BSD 3-Clause License
 
+otherIds:
+  - "scancode:bsd-intel"
+
 canonicalNameHistory:
   - "BSD 3-Clause License Var001"
 
 requiresCopyright: true
 requiresLicenseText: true
+
+combinedWith:
+  Far Manager Exception: BSD 3-Clause License (variant 001; with Far Manager Exception)
 
 mappings:
   "ARISING IN ANY WAY OUT OF THE USE OF THIS OFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE":
@@ -67,13 +73,17 @@ evidence:
        conflict with, or are expressly prohibited by, the GPL"
     - "THIS SOFTWARE IS NOT FAULT TOLERANT AND SHOULD NOT BE USED IN ANY
        SITUATION ENDANGERING HUMAN LIFE OR PROPERTY"
+    - "The names of the authors may not be used to endorse or promote products
+       derived from this software without specific prior written permission.
+
+       THIS SOFTWARE IS PROVIDED BY THE AUTHORS"
 
 standardVariableSet:
   variable3rdClause: "(s) of the authors of this software"
   authorNoWarranty: "BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS"
   authorNoLiability: "THE COPYRIGHT HOLDERS OR CONTRIBUTORS"
 
-licenseTemplate: 
+licenseTemplate:
   "<lq>Redistribution and use in source and binary forms, with or without
    modification, are permitted provided that the following conditions are
    met:

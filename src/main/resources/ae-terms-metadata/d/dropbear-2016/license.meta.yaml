@@ -1,0 +1,26 @@
+canonicalName: Dropbear License 2016
+category: Dropbear
+shortName: Dropbear-2016
+
+otherIds:
+  - "scancode:dropbear-2016"
+
+expectedMatches:
+  - "MIT License"
+  - "Public Domain"
+  - "SSH Notice (short)"
+  - "BSD 3-Clause License (copyright holder variant)"
+
+evidence:
+  matches:
+    - "Dropbear contains a number of components from different sources, hence there
+       are a few licenses and authors involved"
+    - "All licenses are fairly non-restrictive"
+    - "The majority of code is written by Matt Johnston, under the license below"
+    - "Portions of the client-mode work are*{.{0,40}}* under the same license"
+    - "Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+       documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation 
+       the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
+       to permit persons to whom the Software is furnished to do so, subject to the following conditions"
+    - "The above copyright notice and this permission notice shall be included in all copies or substantial portions of 
+       the Software"

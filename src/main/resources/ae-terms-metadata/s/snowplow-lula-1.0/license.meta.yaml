@@ -1,0 +1,27 @@
+canonicalName: Snowplow Limited Use License Agreement 1.0
+category: Snowplow Limited Use License Agreement
+shortName: snowplow-lula-1.0
+
+otherIds:
+  - "scancode:snowplow-lula-1.0"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Snowplow Limited Use License Agreement 1.0"
+  - "snowplow-lula-1.0"
+  - "Snowplow Limited Use License Agreement, Version 1.0"
+
+evidence:
+  matches:
+    - "A “Competing Use” is making available any on-premises or distributed software product, or any
+       software-as-a-service, platform-as-a-service, infrastructure-as-a-service, or other similar online
+       service, that competes with any products or services that Snowplow or any of its affiliates provides
+       using the Software"
+    - "Highly-Available Production Use is any highly-available use, including without limitation any use
+       where multiple instances of any Software component run concurrently to avoid a single point of failure,
+       in a production environment, where production means use on live data"
+  excludes:
+    - "located at https://docs.snowplow.io/community-license-1.0"
+
+

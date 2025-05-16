@@ -3,6 +3,10 @@ category: LGPL
 spdxIdentifier: LGPL-2.1-only
 shortName: LGPL-2.1
 
+# FIXME-implement:
+# - check orgignal license texts; follow links; adopt exact formatting
+# - add license links to alternative names
+
 defaultSourceCategory: annex
 requiresSourceCodeProvision: true
 
@@ -171,3 +175,4 @@ masks:
         but WITHOUT ANY WARRANTY; without even the implied warranty of
         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
         Lesser General Public License for more details"
+    - "that was never copied over here because it originally was copy-paste from the GPLv2 / AFL 2.1 libdbus sources."

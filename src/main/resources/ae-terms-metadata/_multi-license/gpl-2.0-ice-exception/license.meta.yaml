@@ -12,3 +12,26 @@ combinedWith:
   Ice Exception (GPL 2.0): GNU General Public License 2.0 (with Ice exception)
 
 representedAs: GNU General Public License 2.0 (with exceptions)
+
+segmentation:
+  revert: [
+    {
+      match:
+        "If such software can only be used together with Ice, then not only the 
+         combined work but the software itself is a work derived from Ice and as
+         such shall be licensed under the terms of the GNU General Public License 
+         version 2. This includes the situation where Ice is only being used 
+         through an abstraction layer.",
+      matchNext:
+        "As a special exception to the above, ZeroC grants to the contributors for
+         the following projects the permission to license their Ice-based software 
+         under the terms of the GNU Lesser General Public License (LGPL) version 
+         2.1 or of the BSD license:"
+    },
+  ]
+
+references:
+  "Apache License":
+    matches:
+    - "any library not derived from Ice and licensed under the terms of
+         the Apache License, version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)"

@@ -15,7 +15,7 @@ comments:
 ## Searches (www):
 ## <none>
 
-## Last reviewed - 26.07.2024
+## Last reviewed - 02.03.2025
 ## Completed Tasks:
 ## - use regexp to enhance existing matches
 ## - extend matches
@@ -26,35 +26,58 @@ comments:
 ## - implied warranty / warranties
 ## - without warranty / warranties
 ## - warranted (to exploit different usages)
+## - (provided) with no warranty
+## - do(es) not warrant
+## - warranty (...) void
 ## Searches (www):
 ## -
 
 otherIds:
-  - "scancode:linum"
+#  - "scancode:linum" #deprecated
   - "scancode:philippe-de-muyter"
 
 evidence:
   oneOf:
     - matches:
-        - "is provided *{(as is|as-is|\"as is\"){0,1}}* without *{.{0,5}}* express*{.{0,3}}* or implied warranty"
+        - "is provided *{(as is|as-is|\"as is\"){0,2}}* without*{.{0,10}}* express*{.{0,3}}* or implied warranty"
     - matches:
-        - "is provided *{(as is|as-is|\"as is\"){0,1}}* and without *{.{0,5}}* express*{.{0,3}}* or implied warranty"
+        - "is provided *{(as is|as-is|\"as is\"){0,2}}* and without*{.{0,10}}* express*{.{0,3}}* or implied warranty"
     - matches:
-        - "is provided *{(as is|as-is|\"as is\"){0,1}}* without *{.{0,5}}* express*{.{0,3}}* or implied warranties"
+        - "is provided *{(as is|as-is|\"as is\"){0,2}}* without*{.{0,10}}* express*{.{0,3}}* or implied warranties"
     - matches:
-        - "is provided *{(as is|as-is|\"as is\"){0,1}}* and without *{.{0,5}}* express*{.{0,3}}* or implied warranties"
+        - "is provided *{(as is|as-is|\"as is\"){0,2}}* and without*{.{0,10}}* express*{.{0,3}}* or implied warranties"
+    - matches:
+        - "IS PROVIDED *{(AS IS|AS-IS|\"AS IS\"){0,2}}* WITHOUT*{.{0,10}}* EXPRESS*{.{0,3}}* OR IMPLIED WARRANTY"
+    - matches:
+        - "IS PROVIDED *{(AS IS|AS-IS|\"AS IS\"){0,2}}* AND WITHOUT*{.{0,10}}* EXPRESS*{.{0,3}}* OR IMPLIED WARRANTY"
+    - matches:
+        - "IS PROVIDED *{(AS IS|AS-IS|\"AS IS\"){0,2}}* WITHOUT*{.{0,10}}* EXPRESS*{.{0,3}}* OR IMPLIED WARRANTIES"
+    - matches:
+        - "IS PROVIDED *{(AS IS|AS-IS|\"AS IS\"){0,2}}* AND WITHOUT*{.{0,10}}* EXPRESS*{.{0,3}}* OR IMPLIED WARRANTIES"
 
     - matches:
-        - "is distributed *{(as is|as-is|\"as is\"){0,1}}* without *{.{0,5}}* express*{.{0,3}}* or implied warranty"
+        - "is distributed *{(as is|as-is|\"as is\"){0,3}}* without*{.{0,10}}* express*{.{0,3}}* or implied warranty"
     - matches:
-        - "is distributed *{(as is|as-is|\"as is\"){0,1}}* and without *{.{0,5}}* express*{.{0,3}}* or implied warranty"
+        - "is distributed *{(as is|as-is|\"as is\"){0,3}}* and without*{.{0,10}}* express*{.{0,3}}* or implied warranty"
     - matches:
-        - "is distributed *{(as is|as-is|\"as is\"){0,1}}* without *{.{0,5}}* express*{.{0,3}}* or implied warranties"
+        - "is distributed *{(as is|as-is|\"as is\"){0,3}}* without*{.{0,10}}* express*{.{0,3}}* or implied warranties"
     - matches:
-        - "is distributed *{(as is|as-is|\"as is\"){0,1}}* and without *{.{0,5}}* express*{.{0,3}}* or implied warranties"
+        - "is distributed *{(as is|as-is|\"as is\"){0,3}}* and without*{.{0,10}}* express*{.{0,3}}* or implied warranties"
+    - matches:
+        - "IS DISTRIBUTED *{(AS IS|AS-IS|\"AS IS\"){0,3}}* WITHOUT*{.{0,10}}* EXPRESS*{.{0,3}}* OR IMPLIED WARRANTY"
+    - matches:
+        - "IS DISTRIBUTED *{(AS IS|AS-IS|\"AS IS\"){0,3}}* AND WITHOUT*{.{0,10}}* EXPRESS*{.{0,3}}* OR IMPLIED WARRANTY"
+    - matches:
+        - "IS DISTRIBUTED *{(AS IS|AS-IS|\"AS IS\"){0,3}}* WITHOUT*{.{0,10}}* EXPRESS*{.{0,3}}* OR IMPLIED WARRANTIES"
+    - matches:
+        - "IS DISTRIBUTED *{(AS IS|AS-IS|\"AS IS\"){0,3}}* AND WITHOUT*{.{0,10}}* EXPRESS*{.{0,3}}* OR IMPLIED WARRANTIES"
 
     - matches:
         - "is*{.{0,55}}* WITHOUT ANY WARRANTY"
+    - matches:
+        - "is*{.{0,55}}* without any warranty"
+    - matches:
+        - "IS*{.{0,55}}* WITHOUT ANY WARRANTY"
     - matches:
         - "no warrant*{.{1,4}}* implied"
     - matches:
@@ -107,6 +130,8 @@ evidence:
           of merchantability"
     - matches:
         - "provided without*{.{0,15}}* or warranty"
+    - matches:
+        - "PROVIDED WITHOUT*{.{0,15}}* OR WARRANTY"
     - matches:
         - "No warranty is implied by distribution under the terms of this license"
     - matches:
@@ -265,13 +290,11 @@ evidence:
     - matches:
         - "PROVIDED*{.{0,100}}* \"AS IS\" *{.{0,40}}*WITHOUT*{.{0,60}}* WARRANTY"
     - matches:
-        - "warranty*{.{0,40}}* are void"
+        - "warranty*{.{0,40}(is|are){1}}* void"
     - matches:
-        - "WARRANTY*{.{0,40}}* ARE VOID"
+        - "Warranty*{.{0,40}(is|are){1}}* void"
     - matches:
-        - "warranty*{.{0,40}}* is void"
-    - matches:
-        - "WARRANTY*{.{0,40}}* IS VOID"
+        - "WARRANTY*{.{0,40}(IS|ARE){1}}* VOID"
     - matches:
         - "IS NEITHER*{.{0,30}}* NOR WARRANTED"
     - matches:
@@ -296,3 +319,25 @@ evidence:
         - "provides no warranty of*{.{0,50}}* to this software"
     - matches:
         - "DOES NOT MAKE ANY WARRANTY*{.{0,30}}* WITH RESPECT TO*{.{0,50}}* COPYRIGHT INFRINGEMENT"
+    - matches:
+        - "DISCLAIMS ALL WARRANTIES*{.{0,45}}* NOT LIMITED TO*{.{0,100}}* AND NON-INFRINGEMENT"
+    - matches:
+        - "DOES NOT WARRANT*{.{0,25}}* THAT*{.{0,35}}*YOUR USE OF"
+    - matches:
+        - "IS PROVIDED 'AS IS' BASIS, WITHOUT WARRANTY OF ANY KIND, AND THE COPYRIGHT HOLDER EXPRESSLY DISCLAIMS ALL WARRANTIES AND/OR CONDITIONS WITH RESPECT TO THE DOCUMENT, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND OF NONINFRINGEMENT OF THIRD PARTY RIGHTS"
+    - matches:
+        - "NEITHER*{.{0,35}}* NOR*{.{0,60}}*MAKES ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED"
+    - matches:
+        - "TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW*{.{0,80}}* DISCLAIM*{.{0,3}}* ALL WARRANTIES*{.{0,60}}* EITHER EXPRESS*{.{0,25}}* BUT NOT LIMITED TO, ANY WARRANTY OR CONDITION OF"
+    - matches:
+        - "MAKES NO WARRANTY*{.{0,35}}*THAT*{.{0,45}}* WILL BE UNINTERRUPTED*{.{0,65}}* MEET ANY PARTICULAR CRITERIA OF PERFORMANCE, QUALITY, ACCURACY, PURPOSE, OR NEED"
+    - matches:
+        - "DO NOT WARRANT THAT*{.{0,100}}* WILL BE UNINTERRUPTED OR ERROR-FREE"
+    - matches:
+        - "ARE PROVIDED ON AN*{.{0,35}}* BASIS WITH NO WARRANTY"
+    - matches:
+        - "are provided on an*{.{0,35}}* basis with no warranty"
+    - matches:
+        - "IS PROVIDED*{.{0,35}}*BASIS WITHOUT WARRANTY OF ANY KIND"
+    - matches:
+        - "is provided*{.{0,35}}*basis without warranty of any kind"

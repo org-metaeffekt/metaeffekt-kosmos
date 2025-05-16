@@ -8,8 +8,13 @@ otherIds:
   - "scancode:cc-by-3.0-nl"
 
 alternativeNames:
-  - "CC-BY-3.0-NL"
   - "Creative Commons Attribution 3.0 Netherlands"
+  - "Attribution 3.0 Netherlands"
+  - "Naamsvermelding 3.0"
+  - "CC BY 3.0 NL"
+  - "CC-BY-3.0-NL"
+  - "http://creativecommons.org/licenses/by/3.0/nl"
+  - "https://creativecommons.org/licenses/by/3.0/nl"
 
 requiresCopyright: false
 requiresLicenseText: false

@@ -33,8 +33,9 @@ references:
          the restrictions contained in a BSD-style copyright"
 
 evidence:
-  matches:
-    - "ALTERNATIVELY, this product may be distributed under the terms of the GNU General Public License"
-    - "This clause is necessary due to a potential *{.{0,17}}* between the*{.{0,3}}* GPL and
-       the restrictions contained in a BSD-style copyright"
+  oneOf:
+    - matches:
+        - "ALTERNATIVELY, this product may be distributed under the terms of the GNU General Public License"
+    - matches:
+        - "ALTERNATIVELY, this product may be distributed under the terms of the GNU Public License"
 

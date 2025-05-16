@@ -9,14 +9,14 @@ alternativeNames:
   - "Kerberos License"
   - "Kerberos Licence"
 
-#combinedWith:
-#  "Kerberos License": "MIT Kerberos License, OpenVision Terms, Permission Terms (variant 061), Brian Gladman 3-Clause License, BSD 4-Clause License (UC)"
-
-# FIXME-CONCEPT: change to expectedMatches
-# multi-license; validation matches only embedded licenses
-ignoreMatches:
+expectedMatches:
   - "MIT Kerberos License"
   - "OpenVision Terms"
   - "Permission Terms (variant 061)"
   - "Brian Gladman 3-Clause License"
   - "BSD 4-Clause License (UC)"
+
+mappings:
+  "The following copyright and permission notice applies to the OpenVision KerberosNEWLINE-MARKERAdministration system located in kadmin/create, kadmin/dbutil, kadmin/passwd,NEWLINE-MARKERkadmin/server, lib/kadm5, and portions of lib/rpc:": " LICENSE-SEGMENT-MARKER The following copyright and permission notice applies to the OpenVision KerberosNEWLINE-MARKERAdministration system located in kadmin/create, kadmin/dbutil, kadmin/passwd,NEWLINE-MARKERkadmin/server, lib/kadm5, and portions of lib/rpc:"
+  "The implementation of the AES encryption algorithm in src/lib/crypto/aes has theNEWLINE-MARKERfollowing copyright:": " LICENSE-SEGMENT-MARKER The implementation of the AES encryption algorithm in src/lib/crypto/aes has theNEWLINE-MARKERfollowing copyright:"
+  "Copyright @copyright\\{\\} 1983 Regents of the University of California.@\\* AllNEWLINE-MARKERrights reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERRedistribution and use in source and binary forms": " LICENSE-SEGMENT-MARKER Copyright @copyright{} 1983 Regents of the University of California.@* AllNEWLINE-MARKERrights reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERRedistribution and use in source and binary forms"

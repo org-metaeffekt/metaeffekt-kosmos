@@ -9,7 +9,7 @@ type: exception
 
 otherIds:
   - "scancode:spell-checker-exception-lgpl-2.1-plus"
-  - "scancode:lgpl-2.1-spell-checker"
+#  - "scancode:lgpl-2.1-spell-checker" #deprecated
 
 evidence:
   matches:

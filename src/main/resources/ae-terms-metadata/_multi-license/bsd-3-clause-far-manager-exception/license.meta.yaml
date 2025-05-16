@@ -7,6 +7,9 @@ type: expression
 alternativeNames:
   - "BSD-3-Clause with Far Manager exception"
 
+otherIds:
+  - "scancode:bsd-new-far-manager"
+
 combinedWith:
   BSD 3-Clause License (variant 001): BSD 3-Clause License (variant 001; with Far Manager Exception)
   Far Manager Exception: BSD 3-Clause License (variant 001; with Far Manager Exception)

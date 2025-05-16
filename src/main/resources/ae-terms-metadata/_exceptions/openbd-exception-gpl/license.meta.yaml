@@ -27,6 +27,9 @@ evidence:
        whose sole purpose is to render CFML applications"
     - "Linking or usage by any Java application (even through CFML), is not permitted"
 
+  excludes:
+    - "OpenBD has had to make certain modifications to existing open source libraries"
+
 references:
   "GPL":
     matches:

@@ -4,6 +4,8 @@ shortName: LGPL-undefined+CPL-undefined-LZMA-SDK-2006-Exception
 
 type: expression
 
+unspecific: true
+
 otherIds:
   - "scancode:lzma-sdk-2006"
 

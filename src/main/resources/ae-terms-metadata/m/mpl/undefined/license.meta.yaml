@@ -9,6 +9,7 @@ unspecific: true
 alternativeNames:
   - "Mozilla Public License"
   - "Mozilla Public License (MPL)"
+  - "under the MPL"
 
 evidence:
   excludes:

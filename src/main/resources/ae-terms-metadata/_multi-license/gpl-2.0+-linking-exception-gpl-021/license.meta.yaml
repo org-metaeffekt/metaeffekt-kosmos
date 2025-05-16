@@ -7,6 +7,8 @@ type: expression
 canonicalNameHistory:
   - "GNU General Public License 2.0 (or any later version; with Server Handler exception)"
 
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
 displayName:
   "GNU General Public License 2.0 (or any later version; with Linking exception (variant 021))"
 

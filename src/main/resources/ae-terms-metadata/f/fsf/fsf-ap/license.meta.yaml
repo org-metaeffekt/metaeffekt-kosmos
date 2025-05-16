@@ -5,10 +5,8 @@ spdxIdentifier: FSFAP
 otherIds:
   - "scancode:fsf-ap"
 
-
 requiresCopyright: false
 requiresLicenseText: false
-
 
 canonicalNameHistory:
   - "Permission Terms (GAP)"
@@ -23,7 +21,7 @@ alternativeNames:
 
 evidence:
   matches:
+    # keep together to avoid partial matches
     - "Copying and distribution of this file, with or without modification,
        are permitted in any medium without royalty provided the copyright notice
-       and this notice are preserved"
-    - "This file is offered as-is, without any warranty"
+       and this notice are preserved. This file is offered as-is, without any warranty"

@@ -8,8 +8,13 @@ otherIds:
 alternativeNames:
   - "any-OSI"
   - "Any OSI License"
+  - "any OSI approved license"
 
 evidence:
-  matches:
-    - "Pick your favourite OSI approved license"
-    - "http://www.opensource.org/licenses/alphabetical"
+  oneOf:
+    - matches:
+      - "Pick your favourite OSI approved license"
+    - matches:
+      - "This software may be redistributed *{.*{0,100}}* or any of the other OSI approved licenses"
+    - matches:
+      - "This software may be redistributed *{.*{0,100}}* or any of the other OSI approved license"

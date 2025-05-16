@@ -8,6 +8,9 @@ status:
 requiresCopyright: false
 requiresLicenseText: false
 
+otherIds:
+  - "scancode:bzip2-libbzip-1.0.5"
+
 evidence:
   matches:
     - "Redistributions of source code must retain the above copyright notice, this
@@ -29,8 +32,6 @@ evidence:
        LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
        OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
        DAMAGE"
-    - "To the best of my knowledge, bzip2 and libbzip2 do not use any patented
-       algorithms"
   excludes:
   - "version 1.0.6 of 6 September 2010"
   - "Redistributions of source code must retain copyright statements and notices"
@@ -42,6 +43,7 @@ evidence:
   - "Redistribution and use in source and binary forms, with or without
      modification, are permitted without restriction, with NO WARRANTY"
   - "There's ABSOLUTELY NO WARRANTY, express or implied"
+  - "bzip2/libbzip2 version 1.0.8 of 13 July 2019"
 
 grants:
   Source code delivery:

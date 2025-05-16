@@ -23,6 +23,8 @@ evidence:
     - "It also grants you the rights to reuse parts of a Package in your own
        programs without transferring this License to those programs, provided
        that you meet some reasonable requirements"
+    - "This software may be redistributed under the terms of the GPL, LGPL,
+       modified BSD, or Artistic license"
 
 masks:
   matches:

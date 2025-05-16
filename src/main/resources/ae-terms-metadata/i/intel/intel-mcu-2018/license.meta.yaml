@@ -8,6 +8,11 @@ otherIds:
 alternativeNames:
   - "intel-mcu-2018"
 
+ignoreMatches:
+  - "Firmware License (unspecific)"
+  - "Binary Firmware License"
+
+
 evidence:
   matches:
     - "Redistribution and use in binary form, without modification, are permitted, provided that the following conditions are met"

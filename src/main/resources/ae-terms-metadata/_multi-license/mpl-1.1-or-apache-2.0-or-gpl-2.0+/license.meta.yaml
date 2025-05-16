@@ -1,0 +1,19 @@
+canonicalName: Mozilla Public License (undefined) + Apache License 2.0 + GNU General Public License 2.0 (or any later version)
+category: MPL+Apache+GPL
+shortName: MPL-?-Apache-2.0-GPL-2.0+
+
+type: expression
+
+#license text: Alternatively, the contents of this file may be used under the terms of the GNU General Public License Version 2 or later (the \\\"GPL\\\"), in which case the provisions of the GPL are applicable instead of those above. If you wish to allow use of your version of this file only under the terms of the GPL and not to allow others to use your version of this file under the MPL, indicate your decision by deleting the provisions above and replacing them with the notice and other provisions required by the GPL. If you do not delete the provisions above, a recipient may use your version of this file under either the MPL or the GPL
+
+combinedWith:
+  "Mozilla Public License (undefined)": "Mozilla Public License (undefined) + Apache License 2.0 + GNU General Public License 2.0 (or any later version)"
+  "Apache License 2.0": "Mozilla Public License (undefined) + Apache License 2.0 + GNU General Public License 2.0 (or any later version)"
+  "GNU General Public License 2.0 (or any later version)": "Mozilla Public License (undefined) + Apache License 2.0 + GNU General Public License 2.0 (or any later version)"
+
+#FIXME-CONCEPT: without the alternative name the 03_overalltest would crash because "Mozilla Public License (undefined) + Apache License 2.0 + GNU General Public License 2.0 (or any later version) is not referred to"
+alternativeNames:
+  - "Mozilla Public License (undefined) or Apache License 2.0 or GNU General Public License 2.0 (or any later version)"
+
+mappings:
+  "Alternatively, the contents of this file may be used under the terms of\\# the GNU General Public License Version 2 or later \\(the \\\\\\\"GPL\\\\\\\"\\), in which\\# case the provisions of the GPL are applicable instead of those above. If\\# you wish to allow use of your version of this file only under the terms of\\# the GPL and not to allow others to use your version of this file under the\\# MPL, indicate your decision by deleting the provisions above and replacing\\# them with the notice and other provisions required by the GPL. If you do\\# not delete the provisions above, a recipient may use your version of this\\# file under either the MPL or the GPL": "Alternatively, the contents of this file may be used under the terms of the GNU General Public License Version 2 or later (the \\\"GPL\\\"), in which case the provisions of the GPL are applicable instead of those above. If you wish to allow use of your version of this file only under the terms of the GPL and not to allow others to use your version of this file under the MPL, indicate your decision by deleting the provisions above and replacing them with the notice and other provisions required by the GPL. If you do not delete the provisions above, a recipient may use your version of this file under either the MPL or the GPL"

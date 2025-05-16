@@ -11,7 +11,6 @@ displayName:
 type: expression
 
 otherIds:
-  - "scancode:lgpl-2.0-plus-gcc"
   - "scancode:lgpl-2.1-nokia-qt"
 
 combinedWith:

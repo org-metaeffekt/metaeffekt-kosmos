@@ -1,0 +1,14 @@
+canonicalName: GNU Lesser General Public License 2.1 (with Linux syscall Note)
+category: LGPL+Linux
+shortName: LGPL-2.1-Linux-syscall-Note
+
+type: expression
+
+spdxExpression: "[GNU Lesser General Public License 2.1] WITH [Linux syscall Note]"
+
+alternativeNames:
+  - "GNU Lesser General Public License 2.1 (with Linux syscall Note)"
+
+combinedWith:
+  GNU Lesser General Public License 2.1: GNU Lesser General Public License 2.1 (with Linux syscall Note)
+  Linux syscall Note: GNU Lesser General Public License 2.1 (with Linux syscall Note)

@@ -14,6 +14,7 @@ combinedWith:
 
 otherIds:
   - "scancode:zeromq-exception-lgpl-3.0"
+#  - "scancode:lgpl-3.0-zeromq" #deprecated
 
 alternativeNames:
   - "lgpl-3.0-zeromq"

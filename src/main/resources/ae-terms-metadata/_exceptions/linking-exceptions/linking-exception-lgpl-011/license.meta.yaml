@@ -10,6 +10,7 @@ alternativeNames:
 
 otherIds:
   - "scancode:qt-company-exception-lgpl-2.1"
+#  - "scancode:lgpl-2.1-nokia-qt-1.0" # deprecated
 
 type: exception
 
@@ -27,6 +28,10 @@ evidence:
        numerical parameters, data structure layouts, accessors, macros, inline
        functions and templates"
 
+  excludes:
+    - "Moreover, you may apply this exception to a modified version of the Library,
+       provided that such modification does not involve copying material from the
+       Library into the modified Library's header files"
 references:
   "LGPL":
     matches:

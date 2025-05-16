@@ -1,0 +1,71 @@
+canonicalName: Snowplow Personal & Academic License Agreement 1.0
+category: Snowplow Personal & Academic License Agreement
+shortName: snowplow-person-academic-1.0
+
+otherIds:
+  - "scancode:snowplow-person-academic-1.0"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Snowplow Personal & Academic License Agreement 1.0"
+  - "snowplow-person-academic-1.0"
+
+evidence:
+  matches:
+    - "Personal use for research, experiment, personal study, or hobby projects, without any anticipated
+       commercial application"
+    - "Use for teaching purposes by lecturers of a school or university"
+    - "Use to evaluate the sufficiency of the software for the commercial needs of you or your company"
+    - "You must ensure that anyone who gets a copy of any part of the software from you also gets a copy
+       of these terms or the URL for them above"
+    - "The licensor grants you a patent license for the software that covers patent claims the licensor can
+       license, or becomes able to license, that you would infringe by using the software for a non-commercial
+       purpose"
+    - "You may have 'fair use' rights for the software under the law. These terms do not limit them"
+    - "These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent
+       the licensor from granting licenses to anyone else.  These terms do not imply any other licenses"
+    - "If you make any written claim that the software infringes or contributes to infringement of any patent,
+       your patent license for the software granted under these terms ends immediately"
+    - "If your company makes such a claim, your patent license ends immediately for work on behalf of your company"
+    - "The first time you are notified in writing that you have violated any of these terms, or done anything
+       with the software not covered by your licenses, your licenses can nonetheless continue if you come into
+       full compliance with these terms, and take practical steps to correct past violations, within 32 days
+       of receiving notice. Otherwise, all your licenses end immediately"
+    - "As far as the law allows, the software comes as is, without any warranty or condition, and the licensor
+       will not be liable to you for any damages arising out of these terms or the use or nature of the software,
+       under any kind of legal claim"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "## No Liability",
+      matchNext:
+          "As far as the law allows, the software comes as is, without any warranty or condition"
+    },
+    {
+      match:
+        "is the software the licensor makes available under these terms.",
+      matchNext:
+        "You refers to the individual or entity agreeing to these terms."
+    },
+    {
+      match:
+        "You refers to the individual or entity agreeing to these terms.",
+      matchNext:
+        "Your company is any legal entity, sole proprietorship, or other kind of organization that you work for"
+    },
+    {
+      match:
+        "Control means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control can be direct or indirect.",
+      matchNext:
+        "Your licenses are all the licenses granted to you for the software under these terms."
+    },
+    {
+      match:
+        "Your licenses are all the licenses granted to you for the software under these terms.",
+      matchNext:
+        "Use means anything you do with the software requiring one of your licenses."
+    },
+  ]

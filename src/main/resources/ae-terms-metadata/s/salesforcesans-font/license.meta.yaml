@@ -1,0 +1,34 @@
+canonicalName: SalesforceSans Font License
+category: SalesforceSans Font License
+shortName: salesforcesans-font
+
+otherIds:
+  - "scancode:salesforcesans-font"
+
+classification: proprietary free
+
+alternativeNames:
+  - "SalesforceSans Font License"
+  - "FONT LICENSE AGREEMENT"
+
+evidence:
+  matches:
+    - "You must include the Font in an Application in a manner that does not allow a user to
+       access the Font outside of the Application"
+    - "You will not use the Font on a standalone basis and will only use the Font as part of the
+       Salesforce Lightning Design System"
+    - "You must not take any action which will have the direct or indirect effect of causing the
+       Font to become subject to the terms of an open source license or any similar terms"
+    - "You may refer to the Font as “Salesforce Sans”, but You may not use any other Salesforce
+       trademark in connection with the Font except as may be expressly agreed to by Salesforce in
+       writing or as set forth in other applicable Salesforce terms, conditions, and
+       acceptable use policies (AUPs) and in any event You must comply at all times
+       with the Salesforce Trademark and Copyright Usage Guidelines located at http:/
+       /www2.sfdcstatic.com/assets/pdf/misc/salesforce_Trademark_Usage_Guidelines.pdf
+       and any other supplemental guidelines that may apply to you"
+    - "You must not license, sublicense, sell, resell, rent, lease, transfer, assign, distribute,
+       time share, or otherwise commercially exploit the Font nor make the Font available to any
+       third party, other than as expressly permitted by this Agreement"
+    - "To the extent any Font documentation, style guides, or other applicable Salesforce terms,
+       conditions, and acceptable use policies (AUPs) impose guidelines or restrictions for the use
+       of the Font, You will abide by those guidelines and restrictions"

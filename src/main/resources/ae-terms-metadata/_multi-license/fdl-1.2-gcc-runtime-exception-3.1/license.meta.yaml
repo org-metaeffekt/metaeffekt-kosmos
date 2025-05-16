@@ -9,7 +9,7 @@ spdxExpression: "[GNU Free Documentation License 1.2] WITH [GCC Runtime Library 
 alternativeNames:
   - "GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)"
 
-representedAs: GNU Free Documentation License 1.2
+representedAs: GNU Free Documentation License 1.2 (with exceptions)
 
 combinedWith:
   "GNU Free Documentation License 1.2": GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)

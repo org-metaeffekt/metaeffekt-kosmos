@@ -12,7 +12,7 @@ canonicalNameHistory:
 displayName:
   "GNU General Public License 3.0 (with Libtool exception)"
 
-representedAs: "GNU General Public License 3.0"
+representedAs: "GNU General Public License 3.0 (with exceptions)"
 
 combinedWith:
   "GNU General Public License 3.0": GNU General Public License 3.0 (with Libtool exception (GPL))

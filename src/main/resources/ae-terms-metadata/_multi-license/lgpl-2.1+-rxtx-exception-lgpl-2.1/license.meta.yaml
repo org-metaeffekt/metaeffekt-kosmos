@@ -4,6 +4,9 @@ shortName: LGPL-2.1+-RXTX-Exception-LPGL-2.1
 
 type: expression
 
+otherIds:
+  - "scancode:lgpl-2.1-rxtx"
+
 combinedWith:
   GNU Lesser General Public License 2.1 (or any later version): GNU Lesser General Public License 2.1 (or any later version; with RXTX Exception (LGPL 2.1))
   RXTX Exception (LGPL 2.1): GNU Lesser General Public License 2.1 (or any later version; with RXTX Exception (LGPL 2.1))

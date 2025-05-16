@@ -9,10 +9,6 @@ alternativeNames:
   - "Creative Technology Ltd License"
   - "CTL LICENSE"
 
-# due to coupling
-ignoreMatches:
-  - "Patent License Open Source Exception"
-
 evidence:
   matches:
     - "Neither the name of Creative Technology Ltd or its affiliates (*)

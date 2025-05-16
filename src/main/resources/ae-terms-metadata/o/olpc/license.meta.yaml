@@ -8,6 +8,9 @@ alternativeNames:
 otherIds:
   - "scancode:marvell-firmware"
 
+ignoreMatches:
+  - "Firmware License (unspecific)"
+
 evidence:
   matches:
   - "Redistribution and use in binary form, without

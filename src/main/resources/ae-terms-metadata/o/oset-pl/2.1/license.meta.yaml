@@ -4,6 +4,7 @@ spdxIdentifier: OSET-PL-2.1
 
 otherIds:
   - "scancode:oset-pl-2.1"
+#  - "scancode:osetpl-2.1" # deprecated
   - "osi:OPL-2.1"
 
 alternativeNames:

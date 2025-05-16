@@ -3,7 +3,7 @@ category: AGPL
 spdxIdentifier: AGPL-3.0-or-later
 shortName: AGPL-3.0+
 
-# NOTE: Scancode ambiguity; license text fpr agpl 2.0 does not really exist
+# NOTE: Scancode ambiguity; license text fpr agpl 2.0 does not really exist -  WE DO NOT WANT TO MODEL THE "AGPL 2.0" SEPARATELY!
 allowsLaterVersions: true
 
 # FIXME-CONCEPT: how to handle ambiguous scancode id scancode:agpl-2.0
@@ -32,6 +32,7 @@ alternativeNames:
   - "GNU Affero General Public License version 3.0+"
   - "GNU Affero General Public License version 3.0 or later"
   - "GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version"
+  - "GNU Affero General Public License as published by the Free Software Foundation, either version 3.0 of the License, or (at your option) any later version"
   - "GNU AGPL version 3 or any later version"
   - "Affero GPLv3+"
   - "AGPLv3+"
@@ -46,6 +47,20 @@ alternativeNames:
   - "General Affero Public License version 3+"
   - "Affero GNU Public License Version 3+"
   - "version 2 of the Affero General Public License"
+  - "Affero General Public License 2.0"
+  - "GNUAGPL2"
+  - "GNUAGPL20"
+  - "GNUAGPLv2"
+  - "GNUAGPLv20"
+  - "AGPL2"
+  - "http://www.affero.org/agpl2.html"
+  - "AGPL-2.0"
+  - "AGPL20"
+  - "AGPLv2"
+  - "AGPLv20"
+  - "agplv2"
+  - "agpl v2"
+
 
 masks:
   matches:

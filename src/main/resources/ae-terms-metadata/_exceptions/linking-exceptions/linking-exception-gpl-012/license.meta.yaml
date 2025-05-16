@@ -11,9 +11,6 @@ type: exception
 canonicalNameHistory:
   - "Fawkes Runtime Exception"
 
-ignoreMatches:
-  - "Linking Exception (independent module)"
-
 alternativeNames:
   - "Fawkes Runtime exception"
   - "FAWKES RUNTIME EXCEPTION"

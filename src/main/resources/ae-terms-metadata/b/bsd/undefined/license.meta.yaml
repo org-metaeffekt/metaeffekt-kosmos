@@ -102,4 +102,5 @@ masks:
     - "This is a legacy BSD-like license, but includes a specific requirement"
     - "usually MIT X11 licenses with the name of the copyright holder (s) in the license statement but also some BSD - like licenses"
     - "In any case the notes about licensing are never more restrictive than the BSD License"
-    - "%define GOT_SYMBOL  __GLOBAL_OFFSET_TABLE_	; BSD-style a.out supports PIC" # bsd-style ref in jsimdext.inc
+    - "%define GOT_SYMBOL  __GLOBAL_OFFSET_TABLE_	; BSD-style a.out supports PIC" # bsd-style ref in jsimdext.inc    - "You may include license terms in snippets you post, if you wish to use a particular license
+    - "(such as the BSD license or GNU GPL)"

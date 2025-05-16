@@ -4,6 +4,7 @@ spdxIdentifier: ODC-By-1.0
 
 otherIds:
   - "scancode:odc-by-1.0"
+#  - "scancode:odc-1.0" # deprecated
 
 alternativeNames:
   - "ODC By, Version 1.0"

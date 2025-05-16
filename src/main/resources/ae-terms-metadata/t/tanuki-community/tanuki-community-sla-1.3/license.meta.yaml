@@ -15,10 +15,14 @@ expectedMatches:
 
 evidence:
   matches:
-    - "Community editions of the Software are made available on the GNU General Public License, Version 2 (\"GPLv2\") or Version 3 (\"GPLv3\"), included in Sections 4 and 5 of this license document"
-    - "All sections of the Community Software License Agreement must be complied with in addition to those of either the GPLv2 or GPLv3"
+    - "Community editions of the Software are made available on the GNU General Public License, Version 2 (\"GPLv2\") or 
+       Version 3 (\"GPLv3\"), included in Sections 4 and 5 of this license document"
+    - "All sections of the Community Software License Agreement must be complied with in addition to those of either the 
+       GPLv2 or GPLv3"
     - "A copy of this license must be distributed in full with the Product in a location that is obvious to any End User"
-    - "Licensee may extend and/or modify the Software Program and distribute under the terms of this agreement provided that the copyright notice and license information displayed in the console and log files are not obfuscated or obstructed in any way"
+    - "Licensee may extend and/or modify the Software Program and distribute under the terms of this agreement provided 
+       that the copyright notice and license information displayed in the console and log files are not obfuscated or 
+       obstructed in any way"
 
 references:
   "GPL":
@@ -38,4 +42,5 @@ references:
           distributed in source form under this license agreement"
 
 mappings:
-  "Section 5 - GPLv3 License AgreementNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER GNU GENERAL PUBLIC LICENSENEWLINE-MARKER Version 3, 29 June 2007NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright c 2007 Free Software Foundation, Inc.": " LICENSE-SEGMENT-MARKER Section 5 - GPLv3 License AgreementNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER GNU GENERAL PUBLIC LICENSENEWLINE-MARKER Version 3, 29 June 2007NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright c 2007 Free Software Foundation, Inc."
+  "Section 5 - GPLv3 License AgreementNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER GNU GENERAL PUBLIC LICENSENEWLINE-MARKER Version 3, 29 June 2007NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright c 2007 Free Software Foundation, Inc.":
+    " LICENSE-SEGMENT-MARKER Section 5 - GPLv3 License AgreementNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER GNU GENERAL PUBLIC LICENSENEWLINE-MARKER Version 3, 29 June 2007NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER Copyright c 2007 Free Software Foundation, Inc."

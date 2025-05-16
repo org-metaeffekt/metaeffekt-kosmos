@@ -5,7 +5,7 @@ shortName: GPL-2.0+-Linking-Exception-GPL-015
 type: expression
 
 otherIds:
-- "scancode:mif-exception"
+ - "scancode:gpl-2.0-glibc" #deprecated
 
 combinedWith:
   Linking Exception (GPL; variant 015): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 015))

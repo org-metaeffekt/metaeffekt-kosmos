@@ -1,6 +1,9 @@
+# FIXME-IMPLEMENT: adjust name to conventions; discuss proposal
 canonicalName: Linux man-pages Copyleft - 2 paragraphs
 category: Linux-man-pages-copyleft-2-para
 spdxIdentifier: Linux-man-pages-copyleft-2-para
+
+representedAs: Linux man-pages Copyleft
 
 alternativeNames:
   - "Linux-man-pages-copyleft-2-para"

@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 1.0 (or any later version; with Linux syscall Note)
+category: GPL+Linux
+shortName: GPL-1.0+-Linux-syscall-Note
+
+type: expression
+
+spdxExpression: "[GNU General Public License 1.0 (or any later version)] WITH [Linux syscall Note]"
+
+alternativeNames:
+  - "GNU General Public License 1.0 (or any later version; with Linux syscall Note)"
+
+combinedWith:
+  GNU General Public License 1.0 (or any later version): GNU General Public License 1.0 (or any later version; with Linux syscall Note)
+  Linux syscall Note: GNU General Public License 1.0 (or any later version; with Linux syscall Note)

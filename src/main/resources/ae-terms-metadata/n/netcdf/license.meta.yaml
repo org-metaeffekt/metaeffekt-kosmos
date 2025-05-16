@@ -2,10 +2,9 @@ canonicalName: NetCDF License
 category: NetCDF
 spdxIdentifier: NetCDF
 
+# Note: both scancode IDs are still active (23.04.2025)
 otherIds:
   - "scancode:naumen"
-
-otherIds:
   - "scancode:netcdf"
 
 alternativeNames:

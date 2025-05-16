@@ -10,9 +10,6 @@ type: expression
 displayName:
   "GNU Lesser General Public License 3.0 (or any later version; with Linking exception (variant 004))"
 
-otherIds:
-  - "scancode:lgpl-3.0-cygwin"
-
 representedAs: GNU Lesser General Public License 3.0 (or any later version; with exceptions)
 
 combinedWith:

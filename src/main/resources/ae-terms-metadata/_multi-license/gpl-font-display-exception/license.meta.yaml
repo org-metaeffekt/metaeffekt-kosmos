@@ -4,11 +4,13 @@ shortName: GPL-Font-Display-Exception
 
 type: expression
 
+unspecific: true
+
 alternativeNames:
   - "GNU General Public License (undefined; with Font Display exception)"
   - "GNU General Public License (undefined; with font display exception)"
 
-representedAs: "GNU General Public License (undefined)"
+representedAs: GNU General Public License (undefined; with exceptions)
 
 combinedWith:
   "Font Display Exception": GNU General Public License (undefined; with font display exception)

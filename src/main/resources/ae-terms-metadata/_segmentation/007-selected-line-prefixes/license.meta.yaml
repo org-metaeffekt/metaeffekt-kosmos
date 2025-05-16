@@ -15,6 +15,14 @@ mappings:
   "NEWLINE-MARKER[>]+ ": "NEWLINE-MARKER"
   "NEWLINE-MARKER [>]+ ": "NEWLINE-MARKER"
   "NEWLINE-MARKER\\s*#": "NEWLINE-MARKER"
+  "NEWLINE-MARKER--": "NEWLINE-MARKER"
 
   # reduce remaining whitespace chars to single space
   "\\s+": " "
+  "NEWLINE-MARKER;\\*+": "NEWLINE-MARKER"
+  "NEWLINE-MARKER\\.\\\\\"": "NEWLINE-MARKER"
+
+  "<span class=\"comment\"><em>--": ""
+  "--</em></span>": ""
+  "\\|\\*     ": ""
+  "\\s+\\*\\|": ""

@@ -1,0 +1,130 @@
+canonicalName: NVIDIA SDK CUDA License 2018
+category: NVIDIA SDK CUDA
+shortName: NVIDIA-SDK-CUDA-2018
+
+otherIds:
+  - "scancode:nvidia-cuda-supplement-2020"
+
+expectedMatches:
+  - "GNU General Public License 3.0" # NVIDIA GDB
+  - "Apache License 2.0"
+  - "Boost Software License 1.0"
+  - "NCSA License" # LLVM, cuSPARSE library
+  - "BSD 3-Clause License (cuBLAS)" # cuBLAS library routines; Berkley variant
+#  - "BSD 2-Clause License (copyright holder variant)" # lz4
+  - "Eclipse Public License 1.0" # Nsight Eclipse Edition
+  - "MIT License"
+  - "BSD 3-Clause License (variant 001)"
+  - "BSD 2-Clause License"
+  - "BSD 3-Clause License (copyright holder variant)" # PCRE, cuBLAS library routines (multiple times), cuRAND library routines
+
+evidence:
+  matches:
+    - "You acknowledge and agree that it is your sole responsibility to obtain any additional third-party licenses 
+       required to make, have made, use, have used, sell, import, and offer for sale your products or services that 
+       include or incorporate any third-party software and content relating to audio and/or video encoders and decoders 
+       from, including but not limited to, Microsoft, Thomson, Fraunhofer IIS, Sisvel S.p.A., MPEG-LA, and Coding 
+       Technologies"
+    - "NVIDIA does not grant to you under this Agreement any necessary patent or other rights with respect to any audio 
+       and/or video encoders and decoders."
+    - "The application was developed starting from a NVIDIA CUDA container obtained from Docker Hub or the NVIDIA GPU
+       Cloud"
+    - "The resulting application is packaged as a Docker container and distributed to users on Docker Hub or the NVIDIA 
+       GPU Cloud only."
+
+references:
+  "GPL":
+    matches:
+      # part of the written offer
+      - "To obtain source code for software provided under licenses that require redistribution of source code, including 
+         the GNU General Public License (GPL) and GNU Lesser General Public License (LGPL), contact oss-requests@nvidia.com"
+  "LGPL":
+    matches:
+      # part of the written offer
+      - "To obtain source code for software provided under licenses that require redistribution of source code, including 
+         the GNU General Public License (GPL) and GNU Lesser General Public License (LGPL), contact oss-requests@nvidia.com"
+
+mappingOrder:
+  - "000"
+
+mappings:
+  "Licensee's use of the GDB third party component": "LICENSE-SEGMENT-MARKERLicensee's use of the GDB third party component"
+  "Licensee's use of the Thrust library": "LICENSE-SEGMENT-MARKERLicensee's use of the Thrust library"
+  "Licensee's use of the LLVM third party component": "LICENSE-SEGMENT-MARKERLicensee's use of the LLVM third party component"
+  "Licensee's use (e.g. nvprof) of the PCRE third party": "LICENSE-SEGMENT-MARKERLicensee's use (e.g. nvprof) of the PCRE third party"
+  "Licensee's use of the lz4 third party component": "LICENSE-SEGMENT-MARKERLicensee's use of the lz4 third party component"
+  "Portions of the Nsight Eclipse Edition is subject to": "LICENSE-SEGMENT-MARKERPortions of the Nsight Eclipse Edition is subject to"
+  "The NPP library uses code from the Boost Math Toolkit": "LICENSE-SEGMENT-MARKERThe NPP library uses code from the Boost Math Toolkit"
+  "Some of the cuBLAS library routines uses code from": "LICENSE-SEGMENT-MARKERSome of the cuBLAS library routines uses code from"
+  "Licensee's use of the Visual Studio Setup Configuration": "LICENSE-SEGMENT-MARKERLicensee's use of the Visual Studio Setup Configuration"
+  "Licensee's use of linmath.h header for CPU functions": "LICENSE-SEGMENT-MARKERLicensee's use of linmath.h header for CPU functions"
+  "The DX12-CUDA sample uses the d3dx12.h header": "LICENSE-SEGMENT-MARKERThe DX12-CUDA sample uses the d3dx12.h header"
+  "2. Licensee represents and warrants that": "LICENSE-SEGMENT-MARKER2. Licensee represents and warrants that"
+  "Some of the cuBLAS library routines": "LICENSE-SEGMENT-MARKERSome of the cuBLAS library routines"
+  "Some of the cuSPARSE library routines were written by": "LICENSE-SEGMENT-MARKERSome of the cuSPARSE library routines were written by"
+
+  # the following mappings are for the scancode license text variant
+  #this mapping cannot be extended somehow due to a bug
+  "Boost Software License - Version 1.0 - August 17th, 2003": " LICENSE-SEGMENT-MARKER Boost Software License - Version 1.0 - August 17th, 2003"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "THE BASIC LIBRARY FUNCTIONS",
+      matchNext:
+        "Written by:"
+    },
+    {
+      match:
+        "PCRE JUST-IN-TIME COMPILATION SUPPORT",
+      matchNext:
+        "Written by:"
+    },
+    {
+      match:
+        "STACK-LESS JUST-IN-TIME COMPILER",
+      matchNext:
+        "Written by:"
+    },
+    {
+      match:
+        "THE C++ WRAPPER FUNCTIONS",
+      matchNext:
+        "Contributed by:"
+    },
+
+# the following reverts are for the scancode license text variant
+    {
+      match:
+        "Permission is hereby granted, free of charge, to any person or
+         organization obtaining a copy of the software and accompanying
+         documentation covered by this license (the \"Software\") to use,
+      reproduce, display, distribute, execute, and transmit the Software,
+      and to prepare derivative works of the Software, and to permit
+      third-parties to whom the Software is furnished to do so, all
+      subject to the following:
+        
+        The copyright notices in the Software and this entire statement,
+      including the above license grant, this restriction and the following
+      disclaimer, must be included in all copies of the Software, in whole
+      or in part, and all derivative works of the Software, unless such
+      copies or derivative works are solely in the form of machine-executable
+      object code generated by a source language processor.",
+      matchNext:
+        "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE"
+    },
+    {
+      match:
+        "LLVM Release License",
+      matchNext:
+        "University of Illinois/NCSA Open Source License Copyright (c) 2003-2010 University of Illinois at Urbana-Champaign. All rights reserved. Developed by: LLVM Team University of Illinois at Urbana-Champaign http://llvm.org Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation"
+    },
+    {
+      match:
+        "Neither the names of the LLVM Team, University of Illinois at Urbana- Champaign, nor the names of its contributors may be used to endorse or promote products derived from this Software without specific prior written permission.",
+      matchNext:
+        "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM"
+    },
+  ]
+

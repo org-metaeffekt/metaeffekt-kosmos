@@ -2,6 +2,8 @@ canonicalName: LZMA SDK Original
 category: LZMA SDK Original
 shortName: lzma-sdk-original
 
+# FIXME-implement: isn't this a combination of licenses
+
 otherIds:
   - "scancode:lzma-sdk-original"
 
@@ -50,8 +52,15 @@ segmentation:
     {
       match:
         "LZMA SDK provides the documentation, samples, header files, libraries, and tools you need to develop 
-         applications that use LZMA compression. LICENSE",
+         applications that use LZMA compression.",
       matchNext: 
+        "LICENSE"
+    },
+    {
+      match:
+        "LZMA SDK provides the documentation, samples, header files, libraries, and tools you need to develop 
+               applications that use LZMA compression. License",
+      matchNext:
         "LZMA SDK is available under any of the following licenses:"
     }
-]
+  ]

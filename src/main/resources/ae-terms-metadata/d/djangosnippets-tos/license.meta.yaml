@@ -1,0 +1,21 @@
+canonicalName: Djangosnippets Terms of Service
+category: Djangosnippets Terms of Service
+shortName: Djangosnippets-TOS
+
+otherIds:
+  - "scancode:djangosnippets-tos"
+
+classification: CLA
+
+alternativeNames:
+  - "Djangosnippets Terms of Service"
+
+evidence:
+  matches:
+    - "That you will only post code which you wrote yourself and that you have the legal right to
+       release under these terms"
+    - "That you grant any third party who sees the code you post a royalty-free, non-exclusive license
+       to copy and distribute that code and to make and distribute derivative works based on that code"
+    - "That if you post code of which you are not the author or for which you do not have the legal right
+       to distribute according to these terms, you will indemnify and hold harmless the operators of this
+       site and any third parties who are exposed to liability as a result of your actions"

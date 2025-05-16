@@ -2,14 +2,17 @@ canonicalName: NVIDIA License (government qualifications)
 category: NVIDIA License Government Qualifications
 shortName: NVIDIA-Gov
 
+otherIds:
+  - "scancode:nvidia-gov"
+
 alternativeNames:
+  - "NVIDIA License (government qualifications)"
+  - "NVIDIA License Government Qualifications"
+  - "NVIDIA-Gov"
   - "nvidia-gov"
 
 canonicalNameHistory:
   - "NVIDIA License with Government Qualifications"
-
-otherIds:
-  - "scancode:nvidia-gov"
 
 evidence:
   matches:

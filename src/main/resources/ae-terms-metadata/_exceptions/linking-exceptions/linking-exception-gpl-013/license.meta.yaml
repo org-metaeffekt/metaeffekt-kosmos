@@ -18,7 +18,6 @@ alternativeNames:
   - "freertos-exception, Version 2.0"
   - "freertos-exception, 2.0"
   - "freertos-exception 2.0"
-  - "FreeRTOS"
 
 combinedWith:
   GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 013))

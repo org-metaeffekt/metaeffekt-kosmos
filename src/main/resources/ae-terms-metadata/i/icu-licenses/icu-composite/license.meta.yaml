@@ -18,13 +18,13 @@ evidence:
 
        COPYRIGHT AND PERMISSION NOTICE"
 
-#currently needed for validation
-ignoreMatches:
-  - "BSD 2-Clause License"
+#expectedMatches verified on 25.04.2025
+expectedMatches:
   - "BSD 3-Clause License (copyright holder variant)"
+  - "BSD 2-Clause License"
+  - "Unicode DFS License 2015"
   - "Nara Institute of Science and Technology License (2003)"
   - "Time Zone Database Ownership License"
-  - "Unicode DFS License 2015"
 
 mappings:
   "Third-Party Software LicensesNEWLINE-MARKERThis section contains third-party software notices and/or additional terms for licensed third-party software components included within ICU libraries.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. Unicode Data Files and SoftwareNEWLINE-MARKERCOPYRIGHT AND PERMISSION NOTICE": " LICENSE-SEGMENT-MARKER Third-Party Software LicensesNEWLINE-MARKERThis section contains third-party software notices and/or additional terms for licensed third-party software components included within ICU libraries.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. Unicode Data Files and SoftwareNEWLINE-MARKERCOPYRIGHT AND PERMISSION NOTICE"

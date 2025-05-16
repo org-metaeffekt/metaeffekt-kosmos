@@ -314,10 +314,6 @@ evidence:
        Version 1.0 (the 'License'); you may not use this file except in
        compliance with the License. You may obtain a copy of the License at
        http://sourceware.cygnus.com/ecos"
-    - "The Original Code is eCos - Embedded Cygnus Operating System, released
-       September 30, 1998"
-    - "The Initial Developer of the Original Code is Cygnus. Portions created
-       by Cygnus are Copyright (C) 1998 Cygnus Solutions"
     - "Part of the software embedded in this product is eCos - Embedded Cygnus
        Operating System, a trademark of Cygnus Solutions. Portions created by
        Cygnus are Copyright (C) 1998 Cygnus Solutions (http://www.cygnus.com)"

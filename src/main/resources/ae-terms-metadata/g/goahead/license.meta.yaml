@@ -83,10 +83,5 @@ evidence:
     - "Furthermore, You agree to use commercially reasonable efforts to cause any licensees of your products
        to embed the Notice in object code and on the title pages or relevant
        documentation"
-    - "The Notice is as follows: Copyright (c) 20xx GoAhead
-       Software, Inc. All Rights Reserved. Unless GoAhead otherwise instructs,
-       the year 20xx is to be replaced with the year during which the release of
-       the Original Code containing the notice is issued by GoAhead"
-    - "If this year is not supplied with Documentation, GoAhead will supply it upon request"
     - "You agree not to remove or modify the Server identification Field
        contained in the Response Header as defined in Section 1.6 and 1.7"

@@ -12,7 +12,7 @@ alternativeNames:
   - "https://www.kernel.org/doc/man-pages/licenses.html"
 
 ignoreMatches:
-  - "Verbatim Copies Permission"
+  - "Permission Terms (Verbatim Copies Permission)"
 
 evidence:
   matches:

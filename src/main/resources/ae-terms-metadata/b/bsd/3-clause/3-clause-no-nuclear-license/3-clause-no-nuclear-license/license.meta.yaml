@@ -12,8 +12,10 @@ requiresLicenseText: true
 
 canonicalNameHistory:
   - "BSD 3-Clause No Nuclear License"
+  - "Sun BSD-Style with Nuclear Restrictions"
 
 alternativeNames:
+  - "Sun BSD-Style with Nuclear Restrictions"
   - "BSD 3-Clause No Nuclear License"
   - "BSD 3 Clause No Nuclear License"
 

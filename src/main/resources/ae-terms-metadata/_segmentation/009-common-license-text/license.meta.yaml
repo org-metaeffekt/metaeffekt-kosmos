@@ -22,7 +22,7 @@ mappings:
   "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)*?The user((?!EMPTY-LINE-MARKER).)*?following((?!EMPTY-LINE-MARKER).)*?):": "$1COLON-MARKER"
   "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?Original Work):": "$1COLON-MARKER"
   "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?meanings):": "$1COLON-MARKER"
-  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?meaning®):": "$1COLON-MARKER"
+  "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?meaning):": "$1COLON-MARKER"
   "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?title of this License):": "$1COLON-MARKER"
   "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?30 days):": "$1COLON-MARKER"
   "EMPTY-LINE-MARKER(((?!EMPTY-LINE-MARKER).)+?following((?!EMPTY-LINE-MARKER).)+?terms are used):": "$1COLON-MARKER"

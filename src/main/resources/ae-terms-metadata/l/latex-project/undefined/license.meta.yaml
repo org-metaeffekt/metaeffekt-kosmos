@@ -5,7 +5,7 @@ shortName: LPPL-?
 unspecific: true
 
 alternativeNames:
-  - "LPPL"
+  # - "LPPL" LPPL is not a suffient alternative name
   - "LaTeX Project Public License"
 
 segmentation:

@@ -1,0 +1,23 @@
+canonicalName: Firmware License (unspecific)
+category: Firmware
+shortName: Firmware-?
+
+unspecific: true
+
+evidence:
+  oneOf:
+    - matches:
+      - "Redistribution*{.{0,40}}*without modification, are permitted provided that the following conditions are met"
+      - "Redistributions must reproduce*{.{0,70}}* in the documentation and/or other materials provided with the distribution"
+      - "Neither the name*{.{0,150}}* may be used to endorse or promote products derived from this software without specific prior written permission"
+      - "THIS SOFTWARE IS PROVIDED BY*{.{0,120}(\"as is\"|\"AS IS\"|as is|AS IS){1}}* AND ANY EXPRESS OR IMPLIED
+         WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+         MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+      - "IN NO EVENT SHALL*{.{0,80}}* BE LIABLE FOR ANY DIRECT, INDIRECT*{.{0,70}}* DAMAGES"
+  excludes:
+    - "CTL grants a limited, world-wide, royalty-free, non-exclusive license under patents it now or hereafter
+       owns or controls to make, have made, use, import, offer to sell and sell (\"Utilize\") this software,
+       but strictly only to the extent that any such patent is necessary to Utilize the software alone"
+    - "Realtek Semiconductor Corporation grants a world-wide, royalty-free, non-exclusive license under
+       patents it now or hereafter owns or controls to make, have made, use, import, offer to sell and
+       sell ('Utilize') this software"

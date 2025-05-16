@@ -12,7 +12,6 @@ canonicalNameHistory:
   - "Autoconf Exception 2.0"
 
 combinedWith:
-  "FSF Unlimited License (with retention)": FSF Unlimited License (with retention; with Autoconf exception (GPL))
   "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Autoconf exception (GPL))
   "GNU General Public License 2.0": GNU General Public License 2.0 (with Autoconf exception (GPL))
 

@@ -20,7 +20,8 @@ evidence:
      modification, are permitted provided that the following conditions
      are met"
   - "Redistributions of source code must retain the above copyright
-     notice, this list of conditions, and the following disclaimer"
+     notice, this list of conditions, and the following disclaimer,
+     without modification, immediately at the beginning of the file"
   - "The name of the author may not be used to endorse or promote products
      derived from this software without specific prior written permission"
   - "THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS AS IS AND
@@ -44,3 +45,4 @@ evidence:
      that you wrote the original software. If you use this software in a product,
      an acknowledgment in the product documentation would be appreciated but is
      not required"
+

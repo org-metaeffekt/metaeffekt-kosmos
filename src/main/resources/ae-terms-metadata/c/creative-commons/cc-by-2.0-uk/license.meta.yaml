@@ -8,7 +8,10 @@ otherIds:
   - "scancode:cc-by-2.0-uk"
 
 alternativeNames:
-  - "http://creativecommons.org/licenses/by/2.0/uk/"
+  - "CC BY 2.0 UK"
+  - "Attribution 2.0 UK: England & Wales"
+  - "http://creativecommons.org/licenses/by/2.0/uk"
+  - "https://creativecommons.org/licenses/by/2.0/uk"
   - "http://www.legislation.gov.uk/ukpga/1988/48"
 
 requiresLicenseText: false

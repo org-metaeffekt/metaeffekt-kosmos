@@ -19,6 +19,7 @@ alternativeNames:
 
 otherIds:
   - "scancode:cc-pd"
+#  - "scancode:aop-pd" #deprecated
 
 evidence:
   matches:

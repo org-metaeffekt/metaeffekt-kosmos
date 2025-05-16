@@ -4,6 +4,8 @@ spdxIdentifier: NTP
 
 otherIds:
   - "scancode:mit-old-style-no-advert"
+#  - "scancode:ntpl" #deprecated
+#  - "scancode:network-time-protocol" #deprecated
   - "osi:NTP"
 
 alternativeNames:

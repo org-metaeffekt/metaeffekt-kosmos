@@ -33,3 +33,16 @@ references:
          the following projects the permission to license their Ice-based software 
          under the terms of the GNU Lesser General Public License (LGPL) version 
          2.1 or of the BSD license"
+  "Apache License":
+    matches:
+    - "any library not derived from Ice and licensed under the terms of
+         the Apache License, version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)"
+  "GPL":
+    matches:
+    - "as a whole, any work based on Ice
+       shall be licensed under the terms and conditions of the GNU General
+       Public License version 2.
+
+       You may also combine Ice with any software not derived from Ice, provided
+       the license of such software is compatible with the GNU General Public
+       License version 2"

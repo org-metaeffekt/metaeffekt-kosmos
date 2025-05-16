@@ -10,12 +10,15 @@ alternativeNames:
 
 evidence:
   matches:
-    - "The Software IS NOT an item of Licensed Software or Licensed Product under
-       any End User Software License Agreement or Agreement for Licensed Product
-       with Synopsys or any supplement thereto"
     - "You are permitted to use and redistribute this Software in source and binary forms, with or without
        modification, provided that redistributions of source code must retain this
        notice. You may not view, use, disclose, copy or distribute this file or
        any information contained herein except pursuant to this license grant from Synopsys"
     - "If you do not agree with this notice, including the disclaimer
        below, then you are not authorized to use the Software"
+
+masks:
+  matches:
+    - "The Software IS NOT an item of Licensed Software or Licensed Product under
+       any End User Software License Agreement or Agreement for Licensed Product
+       with Synopsys or any supplement thereto"

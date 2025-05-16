@@ -12,7 +12,11 @@ canonicalNameHistory:
 
 alternativeNames:
   - "Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales"
+  - "Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales"
+  - "CC BY-NC-SA 2.0 UK"
   - "https://creativecommons.org/licenses/by-nc-sa/2.0/uk/legalcode"
+  - "http://creativecommons.org/licenses/by-nc-sa/2.0/uk"
+  - "https://creativecommons.org/licenses/by-nc-sa/2.0/uk"
 
 requiresNote: true
 noteChecklist:

@@ -1,0 +1,15 @@
+canonicalName: whosonfirst license
+category: whosonfirst license
+shortName: whosonfirst-license
+
+otherIds:
+  - "scancode:whosonfirst-license"
+
+classification: proprietary free
+
+alternativeNames:
+  - "whosonfirst license"
+
+evidence:
+  matches:
+    - "Crediting Who's On First is recommended and linking back to the License is required"

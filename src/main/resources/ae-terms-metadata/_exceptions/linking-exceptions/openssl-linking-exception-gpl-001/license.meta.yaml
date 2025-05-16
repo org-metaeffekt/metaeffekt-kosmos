@@ -8,8 +8,10 @@ canonicalNameHistory:
   - "Linking Exception (GPL; variant 022)"
 
 otherIds:
+# have the same license texts but different IDs:
   - "scancode:openssl-exception-gpl-2.0"
   - "scancode:openssl-exception-gpl-3.0-plus"
+#  - "scancode:gpl-2.0-openssl" #deprecated
 
 type: exception
 
@@ -24,6 +26,7 @@ combinedWith:
   "GNU General Public License 2.0": "GNU General Public License 2.0 (with OpenSSL Linking Exception (GPL; variant 001))"
   "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with OpenSSL Linking Exception (GPL; variant 001))"
   "GNU Affero General Public License 3.0": "GNU Affero General Public License 3.0 (with OpenSSL Linking Exception (GPL; variant 001))"
+  "GNU Lesser General Public License 2.1 (or any later version)": "GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (GPL; variant 001))"
 
 expectedSpdxMatches:
   - "cryptsetup OpenSSL exception"

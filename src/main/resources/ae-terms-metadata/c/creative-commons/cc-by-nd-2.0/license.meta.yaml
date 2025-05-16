@@ -12,8 +12,12 @@ canonicalNameHistory:
 alternativeNames:
   - "Creative Commons Attribution No Derivatives 2.0 Generic"
   - "CC-BY-ND-2.0"
+  - "CC BY-ND 2.0"
   - "Creative Commons Attribution-NoDerivs 2.0"
   - "Creative Commons BY-ND 2.0"
+  - "Attribution-NoDerivs 2.0 Generic"
+  - "http://creativecommons.org/licenses/by-nd/2.0"
+  - "https://creativecommons.org/licenses/by-nd/2.0"
 
 requiresNote: true
 noteChecklist:

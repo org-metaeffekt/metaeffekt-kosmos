@@ -47,7 +47,11 @@ evidence:
     - "bzip2 version 1.0.5"
     - "This program, \"bzip2\", the associated library \"libbzip2\", and all
        documentation, are copyright (C) 1996-2019 Julian R Seward. All
-       rights reserved" 
+       rights reserved"
+    - "The bzip2 license
+       Terms
+       This program, \"bzip2\" and associated library \"libbzip2\", are
+        copyright (C)  Julian R Seward"
 
 
 #licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification,

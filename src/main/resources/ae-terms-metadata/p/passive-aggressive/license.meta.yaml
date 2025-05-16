@@ -6,7 +6,10 @@ otherIds:
   - "scancode:passive-aggressive"
 
 alternativeNames:
-  - "passive-aggressive"
+  - "passive-aggressive license"
+  - "passive-aggressive License"
+  - "passive-aggressive licence"
+  - "passive-aggressive Licence"
 
 requiresCopyright: true
 requiresLicenseText: true

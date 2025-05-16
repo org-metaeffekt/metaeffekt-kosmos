@@ -1,0 +1,34 @@
+canonicalName: Chicken Dance License 0.2
+category: Chicken Dance
+shortName: Chicken-Dance-0.2
+
+otherIds:
+  - "scancode:chicken-dl-0.2"
+
+alternativeNames:
+  - "Chicken Dance License"
+  - "Chicken Dance v0.2"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the 
+       following conditions are met"
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions and the following 
+       disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the 
+       following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Neither the name of*{.{0,40}}* nor the names of its contributors may be used to endorse or promote products 
+       derived from this software without specific prior written permission"
+    - "An entity wishing to redistribute in binary form or include this software in their product without redistribution 
+       of this software's source code with the product must also submit to these conditions where applicable"
+    - "For every thousand (1000) units distributed, at least half of the employees or persons affiliated with the 
+       product must listen to the \"Der Ententanz\" (AKA \"The Chicken Dance\") as composed by Werner Thomas for no less 
+       than two (2) minutes"
+    - "For every twenty-thousand (20000) units distributed, one (1) or more persons affiliated with the entity must be 
+       recorded performing the full Chicken Dance, in an original video at the entity's own expense, and a video encoded 
+       in OGG Theora format or a format and codec specified by"
+    - "Any employee or person affiliated with the product must be prohibited from saying the word \"gazorninplat\" in 
+       public at all times, as long as distribution of the product continues"
+    - "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED 
+       WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+       PURPOSE ARE DISCLAIMED"

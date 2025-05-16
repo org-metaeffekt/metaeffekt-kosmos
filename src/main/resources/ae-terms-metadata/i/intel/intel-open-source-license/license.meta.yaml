@@ -15,7 +15,6 @@ alternativeNames:
   - "http://opensource.org/licenses/intel"
   - "https://opensource.org/licenses/intel"
 
-
 evidence:
   matches:
     - "Redistribution and use in source and binary forms, with or without modification,

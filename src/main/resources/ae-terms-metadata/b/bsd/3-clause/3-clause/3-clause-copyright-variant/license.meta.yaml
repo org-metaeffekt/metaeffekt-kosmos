@@ -2,6 +2,9 @@ canonicalName: BSD 3-Clause License (copyright holder variant)
 category: BSD
 shortName: BSD-3-Clause-copyright-holder
 
+# FIXME-CONCEPT / FIXME-DISCUSS: how can we model the BSD 3-Clause License and the BSD 3-Clause License (copyright holder variant) to not match each other while also not having to use heaps of excludes. - how to solve elegantly?
+# The copyright holder variant should not only cover variants that explicitly state "copyright holder" in the license text but also variants that state the company or organisation name themselves.
+
 representedAs: BSD 3-Clause License
 
 requiresCopyright: true
@@ -17,8 +20,11 @@ alternativeShortNames:
   # https://framework.zend.com/license
   - "Zend"
 
+# FIXME: the copyright holder variant should not be limited to copyright holders only.
+
 # FIXME-Concept: For a given alternative name; a fixed variable set must be defined
 alternativeNames:
+  - "BSD 3-Clause License (copyright holder variant)"
   - "Modified BSD (https://asm.ow2.io/license.html)"
   - "Release 10 of PCRE2 is distributed under the terms of the \"BSD\" licence, as specified below"
 
@@ -29,12 +35,10 @@ evidence:
     - "ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO*{.{0,40}}* THE
        IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
        DISCLAIMED"
-    - "IN NO EVENT SHALL *{.{0,120}}*BE LIABLE
-       FOR ANY DIRECT INDIRECT INCIDENTAL SPECIAL EXEMPLARY*{.{0,40}}* OR CONSEQUENTIAL
-       DAMAGES (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR
-       SERVICES; LOSS OF USE DATA OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-       CAUSED AND ON ANY THEORY OF LIABILITY WHETHER IN CONTRACT STRICT LIABILITY
-       OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+    - "IN NO EVENT SHALL *{.{0,120}}*BE LIABLE FOR ANY DIRECT INDIRECT INCIDENTAL SPECIAL EXEMPLARY*{.{0,40}}*
+       OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+       USE DATA OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY WHETHER IN
+       CONTRACT STRICT LIABILITY OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
        OF THIS SOFTWARE EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE"
   excludes:
     - "Redistributions of any form whatsoever must retain the following acknowledgment:
@@ -55,10 +59,10 @@ evidence:
        must display the following acknowledgment"
     - "Redistributions of any form whatsoever must retain the following
        acknowledgment"
-    - "No license is granted to the trademarks of
-       the copyright holders even if such marks are included in this software"
-    - "The Distributed Management Task Force (DMTF) grants rights under copyright in
-       this software on the terms of the BSD 3-Clause License as set forth below"
+    - "No license is granted to the trademarks of the copyright holders even if such marks are included in this 
+       software"
+    - "The Distributed Management Task Force (DMTF) grants rights under copyright in this software on the terms of the 
+       BSD 3-Clause License as set forth below"
     - "Neither the name Linisys nor the names of its products or contributors may be used"
     - "ICU License - ICU 1.8.1 and later COPYRIGHT AND PERMISSION NOTICE
        Copyright (c) 1995-2014 International Business Machines Corporation and others"
@@ -67,32 +71,39 @@ evidence:
     - "All websites using Open-Realty must leave the html comment that reads
        “<!--Open-Realty is distributed by Transparent Technologies and is
        licensed under the Open-Realty License"
-    - "This License shall terminate
-       automatically, as will all licenses assigned to you by the copyright
-       holders of this software, and you may no longer exercise any of the
-       rights granted to you by this license as of the date you commence an
-       action, including a cross-claim or counterclaim, against the
-       copyright holders of this software or any licensee of this software
-       alleging that any part of the JGraph, JGraphX and/or mxGraph software
-       libraries infringe a patent"
-    - "In October 2000 Barry helped move the software to SourceForge
-       where it was renamed to Jython. Jython 2.0 and 2.1 were developed
-       under the Jython specific license below"
+    - "This License shall terminate automatically, as will all licenses assigned to you by the copyright holders of this 
+       software, and you may no longer exercise any of the rights granted to you by this license as of the date you 
+       commence an action, including a cross-claim or counterclaim, against the copyright holders of this software or 
+       any licensee of this software alleging that any part of the JGraph, JGraphX and/or mxGraph software libraries 
+       infringe a patent"
+    - "In October 2000 Barry helped move the software to SourceForge where it was renamed to Jython. Jython 2.0 and 2.1 
+       were developed under the Jython specific license below"
     - "VTK is an open-source toolkit licensed under the BSD license"
-    - "Redistributions of source code must retain the above copyright notice, this list
-       of conditions and the following disclaimer, without modification."
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions and the following 
+       disclaimer, without modification."
     - "End User License Agreement - Anaconda Distribution"
-    - "If Licensee (i) distributes the software in stand-alone form without changes from the version obtained under this License, or (ii) Licensee makes a reference solely to the software portion of its product, Licensee must refer to the software as \"EnergyPlus version X\" software, where \"X\" is the version number Licensee obtained under this License and may not use a different name for the software"
+    - "If Licensee (i) distributes the software in stand-alone form without changes from the version obtained under
+       this License, or (ii) Licensee makes a reference solely to the software portion of its product, Licensee must
+       refer to the software as \"EnergyPlus version X\" software, where \"X\" is the version number Licensee obtained
+       under this License and may not use a different name for the software"
     - "Copyright Joyent, Inc. and other Node contributors. All rights reserved"
     - "Copyright (c) 2002 U.S. Army Research Laboratory All rights reserved."
-    - "Code generated by the Protocol Buffer compiler is owned by the owner
-       of the input file used when generating it"
-    - "If you wish to use, with or without modification, the Godiva web interface, the logo of the Reading e-Science Centre must be retained on the web page"
-    - "Neither the name of Rice University (RICE) nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission"
-    - "Any redistributions in binary form shall not include the capability to display
-       any of the icons, pictures, logos and other images that are provided with the
-       source code in a directory whose title begins with st_images"
+    - "Code generated by the Protocol Buffer compiler is owned by the owner of the input file used when generating it"
+    - "If you wish to use, with or without modification, the Godiva web interface, the logo of the Reading e-Science
+       Centre must be retained on the web page"
+    - "Neither the name of Rice University (RICE) nor the names of its contributors may be used to endorse or promote
+       products derived from this software without specific prior written permission"
+    - "Any redistributions in binary form shall not include the capability to display any of the icons, pictures, logos 
+       and other images that are provided with the source code in a directory whose title begins with st_images"
     - "This include any reference to Lua RTOS, whitecatboard.org, Lua, and other copyright notices that may appear in the future"
+    - "The United States Government has rights in this work pursuant to contract no. DE-AC03-76SF00098 between
+       the United States Department of Energy and the University of California"
+    - "This code is derived from software contributed to Berkeley by Keith Muller of the University of California, San Diego"
+    # FIXME-concept: what if we exclude somthing, that is not fully matched; can we ensure that this produces a partial match?
+    - "Neither the name of the Carrot2 Project nor the names of its contributors may be used to endorse or promote 
+       products derived from this software without specific prior written permission"
+    - "persons affiliated with the entity must be recorded performing the full Chicken Dance"
+    - "Neither the name of ComponentAce nor the names of its contributors may be used"
 
 mappings:
   "ARISING IN ANY WAY OUT OF THE USE OFNEWLINE-MARKER \\*NEWLINE-MARKER \\*/NEWLINE-MARKER \"use strict":

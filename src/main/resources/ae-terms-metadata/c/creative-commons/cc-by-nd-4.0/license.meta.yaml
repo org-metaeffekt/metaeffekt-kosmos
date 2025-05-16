@@ -12,7 +12,11 @@ alternativeNames:
   - "Creative Commons Attribution No Derivatives 4.0 International"
   - "Creative Commons Attribution-NoDerivatives 4.0 International"
   - "CC-BY-ND-4.0"
+  - "CC BY-ND 4.0"
   - "Creative Commons BY-ND 4.0"
+  - "Attribution-NoDerivatives 4.0 International"
+  - "http://creativecommons.org/licenses/by-nd/4.0"
+  - "https://creativecommons.org/licenses/by-nd/4.0"
 
 requiresNote: true
 noteChecklist:

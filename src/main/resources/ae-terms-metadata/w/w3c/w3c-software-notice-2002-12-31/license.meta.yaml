@@ -5,7 +5,7 @@ shortName: W3C-Software-2002-12-31
 
 otherIds:
   - "scancode:w3c"
-  - "scancode:w3c-software-20021231" # deprecated
+#  - "scancode:w3c-software-20021231" # deprecated
 
 canonicalNameHistory:
   - "W3C Software Notice and License (2002)"

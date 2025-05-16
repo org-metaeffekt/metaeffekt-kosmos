@@ -1,0 +1,9 @@
+canonicalName: Disclaimer
+category: Disclaimer
+shortName: DIS
+
+# FIXME-CONCEPT: provide marker for licenses that must not be matches on canonicalName level; this saves evaluation
+#  and can be applied to representative licenses like Disclaimer, undefined constructs, multilicense constructs without
+# alternativeNames or evidences.
+# ignore when matching; this does not need to be matched; it is just a representative for specific disclaimers
+ignore: true

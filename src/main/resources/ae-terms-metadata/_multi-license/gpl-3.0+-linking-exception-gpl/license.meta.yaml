@@ -1,0 +1,13 @@
+canonicalName: GNU General Public License 3.0 (or any later version; with Linking exception (GPL))
+category: GPL+Linking
+shortName: GPL-3.0+-Linking-Exception-GPL
+
+type: expression
+
+displayName: "GNU General Public License 3.0 (or any later version; with Linking exception)"
+
+representedAs: "GNU General Public License 3.0 (or any later version; with exceptions)"
+
+combinedWith:
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with Linking exception (GPL))
+  Linking Exception (GPL): GNU General Public License 3.0 (or any later version; with Linking exception (GPL))

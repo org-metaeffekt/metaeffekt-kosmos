@@ -9,7 +9,7 @@ canonicalNameHistory:
 
 otherIds:
   - "scancode:openssl-exception-gpl-2.0-plus"
-  - "scancode:gpl-2.0-plus-openssl"
+#  - "scancode:gpl-2.0-plus-openssl" #deprecated
 
 type: exception
 

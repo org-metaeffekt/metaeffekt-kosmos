@@ -4,7 +4,6 @@ shortName: GPL-2.0+-Classpath-Exception
 
 otherIds:
   - "scancode:gpl-2.0-classpath"
-  - "scancode:gpl-2.0-independent-module-linking"
 
 type: expression
 

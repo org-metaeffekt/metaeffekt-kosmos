@@ -10,6 +10,8 @@ canonicalNameHistory:
 
 otherIds:
   - "scancode:qt-lgpl-exception-1.1"
+#  - "scancode:nokia-qt-exception-1.1" #deprecated
+#  - "scancode:lgpl-2.1-nokia-qt-1.1" # deprecated
 
 alternativeNames:
   - "Nokia Qt exception, Version 1.1"

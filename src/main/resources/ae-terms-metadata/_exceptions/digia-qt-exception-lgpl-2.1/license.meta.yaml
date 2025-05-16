@@ -5,7 +5,11 @@ shortName: Digia-Qt-Exception-2.1-LGPL
 type: exception
 
 otherIds:
-  - "scancode:digia-qt-exception-lgpl-2.1"
+# replaced in scancode by ID "qt-lgpl-exception-1.1"
+  - "scancode:digia-qt-exception-lgpl-2.1" # deprecated
+#  - "scancode:lgpl-2.1-digia-qt" # deprecated
+#  - "scancode:lgpl-2.1-qt-company-2017" # deprecated
+#  - "scancode:qt-company-exception-2017-lgpl-2.1" # deprecated
 
 alternativeNames:
   - "Digia Qt Exception to LGPL 2.1"

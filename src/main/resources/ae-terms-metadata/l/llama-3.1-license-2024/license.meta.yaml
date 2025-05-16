@@ -1,0 +1,34 @@
+canonicalName: LLaMa 3.1 Community License Agreement 2024
+category: LLaMa 3.1 Community License Agreement
+shortName: LLaMa-3.1-License-2024
+
+otherIds:
+  - "scancode:llama-3.1-license-2024"
+
+classification: proprietary free
+
+canonicalNameHistory:
+  - "Llama 3.1 Community License Agreement 2024"
+
+alternativeNames:
+  - "Llama 3.1 Community License Agreement 2024"
+  - "LLaMa 3.1 Community License Agreement 2024"
+  - "LLAMA 3.1 COMMUNITY LICENSE AGREEMENT"
+
+evidence:
+  matches:
+    - "If you distribute or make available the Llama Materials (or any derivative works thereof), or a product or
+       service (including another AI model) that contains any of them, you shall (A) provide a copy of this Agreement
+       with any such Llama Materials; and (B) prominently display “Built with Llama” on a related website, user interface,
+       blogpost, about page, or product documentation"
+    - "If you use the Llama Materials or any outputs or results of the Llama Materials to create, train, fine tune,
+       or otherwise improve an AI model, which is distributed or made available, you shall also include “Llama” at
+       the beginning of any such AI model name"
+    - "If you receive Llama Materials, or any derivative works thereof, from a Licensee as part of an integrated end
+       user product, then Section 2 of this Agreement will not apply to you"
+    - "You must retain in all copies of the Llama Materials that you distribute the following attribution notice within
+       a “Notice” text file distributed as a part of such copies: “Llama 3.1 is licensed under the Llama 3.1 Community
+       License, Copyright © Meta Platforms, Inc. All Rights Reserved.”"
+    - "Your use of the Llama Materials must comply with applicable laws and regulations (including trade compliance
+       laws and regulations) and adhere to the Acceptable Use Policy for the Llama Materials (available at https://llama.meta.com/llama3_1/use-policy),
+       which is hereby incorporated by reference into this Agreement"

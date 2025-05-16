@@ -4,8 +4,13 @@ shortName: GPL-2.0+-Linking-Exception-GPL-014
 
 type: expression
 
+# was merged with this
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 027))"
+
 otherIds:
-  - "scancode:gpl-2.0-plus-gcc"
+  - "scancode:gpl-2.0-plus-gcc" # technically also deprecated but still active for scancode matching
+#  - "scancode:gpl-2.0-gcc" #deprecated
 
 representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
 

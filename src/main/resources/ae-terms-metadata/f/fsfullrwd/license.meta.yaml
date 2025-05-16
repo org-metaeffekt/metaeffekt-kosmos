@@ -2,6 +2,8 @@ canonicalName: FSF Unlimited License (with License Retention and Warranty Discla
 category: FSF Unlimited
 spdxIdentifier: FSFULLRWD
 
+representedAs: FSF Unlimited License
+
 #note: both scancode IDs are active and have the same license text (20.08.2024)
 otherIds:
   - "scancode:fsf-unlimited-no-warranty"

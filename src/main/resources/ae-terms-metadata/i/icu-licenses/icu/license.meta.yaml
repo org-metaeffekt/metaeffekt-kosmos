@@ -4,6 +4,7 @@ spdxIdentifier: ICU
 
 otherIds:
   - "scancode:x11"
+#  - "scancode:slf4j-2005" #deprecated
 
 alternativeNames:
   - "ICU License"

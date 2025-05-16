@@ -6,8 +6,8 @@ canonicalNameHistory:
   - "Apache Due Credit Variant"
 
 otherIds:
-  - "scancode:classworlds"
-  - "scancode:apache-due-credit"
+  - "scancode:classworlds" #technically also deprecated but kept for ScanCode2LicenseMetaData matching purposes
+#  - "scancode:apache-due-credit" #deprecated
 
 alternativeNames:
   - "Plexus License"

@@ -1,0 +1,14 @@
+canonicalName: GNU Library General Public License 2.0 (with Linux syscall Note)
+category: LGPL+Linux
+shortName: LGPL-2.0-Linux-syscall-Note
+
+type: expression
+
+spdxExpression: "[GNU Library General Public License 2.0] WITH [Linux syscall Note]"
+
+alternativeNames:
+  - "GNU Library General Public License 2.0 (with Linux syscall Note)"
+
+combinedWith:
+  GNU Library General Public License 2.0: GNU Library General Public License 2.0 (with Linux syscall Note)
+  Linux syscall Note: GNU Library General Public License 2.0 (with Linux syscall Note)

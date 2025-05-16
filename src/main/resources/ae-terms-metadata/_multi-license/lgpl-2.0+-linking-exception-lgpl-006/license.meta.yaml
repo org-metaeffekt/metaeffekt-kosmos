@@ -2,6 +2,8 @@ canonicalName: GNU Library General Public License 2.0 (or any later version; wit
 category: LGPL-Linking
 shortName: LGPL-2.0+-Linking-Exception-LGPL-006
 
+representedAs: GNU Library General Public License 2.0 (or any later version; with exceptions)
+
 otherIds:
   - "scancode:lgpl-2.0-plus-gcc"
 

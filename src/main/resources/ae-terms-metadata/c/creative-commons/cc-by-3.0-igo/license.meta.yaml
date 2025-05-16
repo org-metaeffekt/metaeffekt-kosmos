@@ -7,6 +7,10 @@ otherIds:
 
 alternativeNames:
   - "Creative Commons Attribution 3.0 IGO"
+  - "CC BY 3.0 IGO"
+  - "Attribution 3.0 IGO"
+  - "http://creativecommons.org/licenses/by/3.0/igo"
+  - "https://creativecommons.org/licenses/by/3.0/igo"
 
 requiresCopyright: false
 requiresLicenseText: false

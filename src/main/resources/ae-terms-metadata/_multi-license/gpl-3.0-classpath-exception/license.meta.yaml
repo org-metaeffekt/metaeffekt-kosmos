@@ -9,7 +9,7 @@ type: expression
 canonicalNameHistory:
   - "GNU General Public License 3.0 (with Classpath exception)"
 
-representedAs: "GNU General Public License 3.0"
+representedAs: GNU General Public License 3.0 (with exceptions)
 
 alternativeNames:
   - "<name>GPL3 w/ CPE</name>"

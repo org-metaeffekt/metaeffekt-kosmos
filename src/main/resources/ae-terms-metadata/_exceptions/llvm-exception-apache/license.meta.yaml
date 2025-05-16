@@ -14,6 +14,7 @@ combinedWith:
 
 otherIds:
   - "scancode:llvm-exception"
+#  - "scancode:apache-exception-llvm" # deprecated
 
 alternativeNames:
   - "LLVM exception"

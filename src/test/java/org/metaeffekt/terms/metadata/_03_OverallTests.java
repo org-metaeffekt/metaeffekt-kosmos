@@ -28,9 +28,7 @@ public class _03_OverallTests {
      * @throws IOException
      */
     @Test
-    // run from time to time (before commit)
     public void testAll() throws IOException {
-        new _02_IncrementalTests().testAll();
         new TermsMetaDataIntegrityTest().assertUniqueLicenseIdentification_metadata();
     }
 }

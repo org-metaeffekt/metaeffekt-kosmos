@@ -1,0 +1,21 @@
+canonicalName: Sun Java Web Services Developer Pack 1.6
+category: Sun Java Web Services Developer Pack
+shortName: sun-java-web-services-dev-pack-1.6
+
+otherIds:
+  - "scancode:sun-java-web-services-dev-pack-1.6"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Sun Java Web Services Developer Pack 1.6"
+  - "JAVA WEB SERVICES DEVELOPER PACK, VERSION 1.6"
+
+evidence:
+  matches:
+    - "The terms of the Evaluation Agreement shall apply to portions of Software identified as Early Access in
+       the Software's Release Notes ('Software')"
+    - "These Evaluation Terms add to or modify the terms of the BCL"
+    - "Capitalized terms not defined in these Evaluation Terms shall have the same meanings ascribed to them in the BCL"
+    - "These Evaluation Terms shall supersede any inconsistent or conflicting terms in the BCL below, or in any
+       license contained within the Software"

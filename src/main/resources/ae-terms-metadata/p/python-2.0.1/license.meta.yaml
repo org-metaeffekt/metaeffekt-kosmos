@@ -5,8 +5,6 @@ spdxIdentifier: Python-2.0.1
 otherIds:
   - "scancode:python-2.0.1"
 
-# FIXME-KKL: evaluate case; propose solution; see also Python 2.0
-# FIXME-IMPLEMENT: fix segmentation to detect all expected matches
 expectedMatches:
   - "Python Software Foundation License 2.0"
   - "BeOpen Python Open Source License Agreement 1.0"

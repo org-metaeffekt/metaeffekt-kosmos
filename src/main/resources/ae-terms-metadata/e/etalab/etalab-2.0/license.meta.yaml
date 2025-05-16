@@ -7,7 +7,8 @@ canonicalNameHistory:
   - "Etalab Open License 2.0"
 
 otherIds:
-  - "scancode:etalab-2.0" # another identifier (etalab-2.0-fr) exists, but is deprecated
+  - "scancode:etalab-2.0"
+#  - "scancode:etalab-2.0-fr" # this additional identifier exists, but is deprecated
 
 alternativeNames:
   - "Etalab Open License 2.0"

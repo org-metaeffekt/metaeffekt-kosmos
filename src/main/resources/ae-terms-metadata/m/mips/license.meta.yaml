@@ -4,7 +4,7 @@ spdxIdentifier: MIPS
 
 alternativeNames:
   - "MIPS License"
-  - "MIPS Computer Systems"
+  # - "MIPS Computer Systems" # this is not a license name
 
 evidence:
   matches:

@@ -5,6 +5,9 @@ spdxIdentifier: DocBook-Stylesheet
 alternativeNames:
   - "DocBook Stylesheet License"
 
+otherIds:
+  - "scancode:docbook-stylesheet"
+
 evidence:
   matches:
     - "Permission to use, copy, modify and distribute this stylesheet

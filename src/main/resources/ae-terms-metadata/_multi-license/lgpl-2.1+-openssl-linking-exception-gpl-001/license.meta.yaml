@@ -1,0 +1,16 @@
+canonicalName: GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (GPL; variant 001))
+category: LGPL+OpenSSL Linking
+shortName: LGPL-2.1+-OpenSSL-Linking-Exception-001
+
+type: expression
+
+spdxExpression: "[GNU Lesser General Public License 2.1 (or any later version)] WITH [OpenSSL Linking Exception (GPL; variant 001)]"
+
+displayName:
+  "GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (variant 001))"
+
+representedAs: GNU Lesser General Public License 2.1 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU Lesser General Public License 2.1 (or any later version)": "GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (GPL; variant 001))"
+  "OpenSSL Linking Exception (GPL; variant 001)": "GNU Lesser General Public License 2.1 (or any later version; with OpenSSL Linking Exception (GPL; variant 001))"

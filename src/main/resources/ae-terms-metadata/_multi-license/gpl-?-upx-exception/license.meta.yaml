@@ -4,7 +4,9 @@ shortName: GPL-?-UPX-Exception
 
 type: expression
 
-representedAs: "GNU General Public License (undefined)"
+unspecific: true
+
+representedAs: GNU General Public License (undefined; with exceptions)
 
 combinedWith:
   "GNU General Public License (undefined)": "GNU General Public License (undefined; with UPX exception)"

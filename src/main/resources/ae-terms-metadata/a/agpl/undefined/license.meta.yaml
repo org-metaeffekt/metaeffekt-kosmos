@@ -17,6 +17,12 @@ alternativeNames:
   - "AGPL License"
   - "AGPL licencse"
 
+evidence:
+  excludes:
+    - "désigne la GNU Affero General Public License dans sa
+       version 3 ou toute version ultérieure, telle que publiée par Free
+       Software Foundation Inc."
+
 # CPAN (perl, false positives)
 masks:
   matches:

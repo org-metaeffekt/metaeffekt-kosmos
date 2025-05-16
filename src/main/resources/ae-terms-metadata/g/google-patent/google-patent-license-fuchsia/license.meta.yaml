@@ -4,6 +4,7 @@ shortName: Google-Patent-Fuchsia
 
 otherIds:
   - "scancode:google-patent-license-fuchsia"
+#  - "scancode:google-patent-license-fuschia" #deprecated
 
 alternativeNames:
   - "Google Patent License for Fuchsia"

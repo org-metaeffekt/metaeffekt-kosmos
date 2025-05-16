@@ -8,8 +8,8 @@ canonicalNameHistory:
   - "Broadcom Linking Exception"
 
 otherIds:
-  - "scancode:broadcom-linking-unmodified"
-  - "scancode:broadcom-linking-exception-2.0"
+#  - "scancode:broadcom-linking-unmodified" #deprecated
+  - "scancode:broadcom-unmodified-exception"
 
 alternativeNames:
   - "broadcom-linking-unmodified"

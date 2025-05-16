@@ -13,6 +13,9 @@ otherIds:
 canonicalNameHistory:
   - "BSD 3-Clause License Var039"
 
+combinedWith:
+  "GNU General Public License 2.0": BSD 3-Clause License + GNU General Public License 2.0
+
 evidence:
   matches:
     - "Redistribution and use in source and binary forms, with or without

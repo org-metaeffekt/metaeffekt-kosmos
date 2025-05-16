@@ -139,3 +139,6 @@ mappings:
   "--- end of LICENSE ---": "--- end of LICENSE --- LICENSE-SEGMENT-MARKER"
   "--- begin of LICENSE ---": " LICENSE-SEGMENT-MARKER--- begin of LICENSE ---"
   "Comment:NEWLINE-MARKER Copyright \\(C\\) 1997-2011 Sam Lantinga <slouken@libsdl.org>": " LICENSE-SEGMENT-MARKER Comment:NEWLINE-MARKER Copyright (C) 1997-2011 Sam Lantinga <slouken@libsdl.org>"
+  "POSSIBILITY OF SUCH DAMAGE.NEWLINE-MARKERCopyright": "POSSIBILITY OF SUCH DAMAGE.LICENSE-SEGMENT-MARKERCopyright"
+  "POSSIBILITY OF SUCH DAMAGE.Copyright": "POSSIBILITY OF SUCH DAMAGE.LICENSE-SEGMENT-MARKERCopyright"
+  "The above BSD License Applies to all code, even that also covered by Apache 2.0.": "The above BSD License Applies to all code.LICENSE-SEGMENT-MARKER"

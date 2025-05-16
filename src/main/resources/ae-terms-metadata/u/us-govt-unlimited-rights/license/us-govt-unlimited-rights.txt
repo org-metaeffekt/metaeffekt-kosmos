@@ -1,6 +1,6 @@
                         Grant of Unlimited Rights
 
-Under contracts , the U.S. Government obtained 
+Under contracts <CONTRACTS>, the U.S. Government obtained
 unlimited rights in the software and documentation contained herein.
 Unlimited rights are defined in DFAR 252.227-7013(a)(19).  By making 
 this public release, the Government intends to confer upon all 

@@ -10,7 +10,7 @@ canonicalNameHistory:
   - "GNU Lesser General Public License 3.0 (or any later version; with ZeroMQ exception)"
   - "GNU Lesser General Public License 3.0 (or any later version; with Linking exception (independent mondule; variant 002))"
 
-representedAs: "GNU General Public License 3.0 (or any later version)"
+representedAs: "GNU General Public License 3.0 (or any later version; with exceptions)"
 
 combinedWith:
   "GNU Lesser General Public License 3.0 (or any later version)": GNU Lesser General Public License 3.0 (or any later version; with Linking exception (independent module; variant 002))

@@ -4,6 +4,7 @@ shortName: Polyform-Shield-1.0.0
 
 otherIds:
   - "scancode:polyform-shield-1.0.0"
+#  - "scancode:polyform-defensive-1.0.0" # deprecated
 
 alternativeNames:
   - "[Polyform Shield]"

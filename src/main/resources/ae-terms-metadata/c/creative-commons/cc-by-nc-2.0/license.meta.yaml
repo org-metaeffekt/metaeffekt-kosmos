@@ -2,6 +2,9 @@ canonicalName: Creative Commons BY-NC 2.0
 category: CC-BY-NC
 spdxIdentifier: CC-BY-NC-2.0
 
+otherIds:
+  - "scancode:cc-by-nc-2.0"
+
 canonicalNameHistory:
   - "Creative Commons Attribution Non Commercial 2.0 Generic"
   - "Creative Commons BY-NC 2.0 (generic)"
@@ -11,18 +14,20 @@ requiresAnnexNotice: true
 alternativeNames:
   - "Creative Commons Attribution Non Commercial 2.0 Generic"
   - "CC-BY-NC-2.0"
+  - "CC BY-NC 2.0"
   - "Creative Commons Attribution-NonCommercial 2.0"
   - "Creative Commons BY-NC 2.0"
+  - "Creative Commons BY-NC 2.0 (generic)"
+  - "Attribution-NonCommercial 2.0 Generic"
+  - "Attribution-NonCommercial 2.0"
+  - "http://creativecommons.org/licenses/by-nc/2.0"
+  - "https://creativecommons.org/licenses/by-nc/2.0"
 
 requiresLicenseText: false
 requiresCopyright: false
 requiresNote: true
 noteChecklist:
   - "give the Original Author credit"
-
-
-otherIds:
-  - "scancode:cc-by-nc-2.0"
 
 evidence:
   matches:

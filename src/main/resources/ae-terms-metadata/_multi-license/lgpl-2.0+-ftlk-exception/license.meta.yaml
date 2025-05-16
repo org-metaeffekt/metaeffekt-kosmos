@@ -7,7 +7,7 @@ type: expression
 alternativeNames:
   - "GNU Library General Public License 2.0 (or any later version; with FLTK exception)"
 
-representedAs: GNU Library General Public License 2.0 (or any later version)
+representedAs: GNU Library General Public License 2.0 (or any later version; with exceptions)
 
 combinedWith:
   "GNU Library General Public License 2.0 (or any later version)": GNU Library General Public License 2.0 (or any later version; with FLTK exception)

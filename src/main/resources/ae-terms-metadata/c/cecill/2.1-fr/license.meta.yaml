@@ -1,0 +1,62 @@
+canonicalName: CeCILL Free Software License Agreement 2.1 (FR)
+category: CeCILL Free Software License Agreement 2.1 (FR)
+shortName: cecill-2.1-fr
+
+otherIds:
+  - "scancode:cecill-2.1-fr"
+  - "osi:CECILL-2.1"
+
+classification: limited copyleft
+
+canonicalNameHistory:
+  - "CeCILL Free Software License Agreement v2.1 French"
+
+alternativeNames:
+  - "CeCILL Free Software License Agreement v2.1 French"
+  - "CeCILL Free Software License Agreement 2.1 (FR)"
+  - "CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL"
+
+evidence:
+  matches:
+    - "Ce contrat est une licence de logiciel libre dont l'objectif est de
+       conférer aux utilisateurs la liberté de modification et de
+       redistribution du logiciel régi par cette licence dans le cadre d'un
+       modèle de diffusion en logiciel libre"
+    - "L'exercice de ces libertés est assorti de certains devoirs à la charge
+       des utilisateurs afin de préserver ce statut au cours des
+       redistributions ultérieures"
+    - "L'accessibilité au code source et les droits de copie, de modification
+       et de redistribution qui en découlent ont pour contrepartie de n'offrir
+       aux utilisateurs qu'une garantie limitée et de ne faire peser sur
+       l'auteur du logiciel, le titulaire des droits patrimoniaux et les
+       concédants successifs qu'une responsabilité restreinte"
+    - "A cet égard l'attention de l'utilisateur est attirée sur les risques
+       associés au chargement, à l'utilisation, à la modification et/ou au
+       développement et à la reproduction du logiciel par l'utilisateur étant
+       donné sa spécificité de logiciel libre, qui peut le rendre complexe à
+       manipuler et qui le réserve donc à des développeurs ou des
+       professionnels avertis possédant des connaissances informatiques
+       approfondies. Les utilisateurs sont donc invités à charger et tester
+       l'adéquation du logiciel à leurs besoins dans des conditions permettant
+       d'assurer la sécurité de leurs systèmes et/ou de leurs données et, plus
+       généralement, à l'utiliser et l'exploiter dans les mêmes conditions de
+       sécurité. Ce contrat peut être reproduit et diffusé librement, sous
+       réserve de le conserver en l'état, sans ajout ni suppression de clauses"
+    - "Ce contrat est susceptible de s'appliquer à tout logiciel dont le
+       titulaire des droits patrimoniaux décide de soumettre l'exploitation aux
+       dispositions qu'il contient"
+  excludes:
+    - "CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL Avertissement"
+    - "CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-B"
+    - "CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-C"
+
+references:
+  "GPL":
+    matches:
+      - "désigne la GNU General Public License dans sa version 2 ou toute version ultérieure,
+         telle que publiée par Free Software Foundation Inc."
+
+  "EUPL":
+    matches:
+      - "désigne la Licence Publique de l'Union européenne dans sa version 1.1 ou toute version ultérieure,
+         telle que publiée par la Commission Européenne"

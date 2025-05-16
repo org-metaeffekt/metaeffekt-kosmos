@@ -11,11 +11,15 @@ mappingOrder:
 
 mappings:
   "<BR>": "NEWLINE-MARKER"
+  "<br>": "NEWLINE-MARKER"
+  "<BR/>": "NEWLINE-MARKER"
+  "<BR />": "NEWLINE-MARKER"
+  "<br/>": "NEWLINE-MARKER"
+  "<br />": "NEWLINE-MARKER"
   "<P>": "NEWLINE-MARKER"
   "</P>": "NEWLINE-MARKER"
   "<p>": "NEWLINE-MARKER"
   "</p>": "NEWLINE-MARKER"
-  "<br />": ""
   "<I>": " "
   "<h3>": ""
   "</h3>": ""

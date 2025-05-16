@@ -11,6 +11,7 @@ alternativeNames:
 
 otherIds:
   - "scancode:apple-runtime-library-exception"
+#  - "scancode:apache-2.0-runtime-library-exception" #deprecated
 
 type: exception
 

@@ -4,6 +4,9 @@ shortName: LGPL-3.0+-Linking-Exception-002
 
 type: expression
 
+otherIds:
+  - "scancode:lgpl-3.0-plus-openssl"
+
 spdxExpression: "[GNU Lesser General Public License 3.0 (or any later version)] WITH [OpenSSL Linking Exception (LGPL; variant 002)]"
 
 canonicalNameHistory:

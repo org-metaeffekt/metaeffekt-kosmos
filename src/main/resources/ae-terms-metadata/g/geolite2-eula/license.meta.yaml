@@ -19,3 +19,10 @@ evidence:
     - "In addition and if you are using the Services for internal use, subject to the terms and conditions
        of this Agreement, MaxMind also hereby grants you a non-exclusive, non-transferable limited license
        to access and use the Services for your own internal business purposes"
+
+references:
+  "CC-BY-SA":
+    matches:
+      - "The following policies are incorporated into this Agreement by reference and provide additional terms and conditions incorporated herein by this reference and/or related to the use of the Website:
+
+         Creative Commons Corporation Attribution-ShareAlike 4.0 International License (the “Creative Commons License”)"

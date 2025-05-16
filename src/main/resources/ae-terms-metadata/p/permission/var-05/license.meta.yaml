@@ -2,11 +2,11 @@ canonicalName: Permission Terms (variant 005)
 category: Permission
 spdxIdentifier: HPND-doc-sell
 
+# both scancode IDs are active atm and the licenses are identical except the placeholder - modelling impossible - we have to decide for one of them (23.04.2025)
 otherIds:
   - "scancode:hpnd-doc-sell"
-  - "scancode:x11-doc"
+#  - "scancode:x11-doc"
 #this license is not a x11 license - the other identifier makes more sense
-# both scancode IDs are active atm and the licenses are identical except the placeholder - modelling impossible - we have to decide upon one of them
 
 canonicalNameHistory:
   - "Permission Terms Var005"

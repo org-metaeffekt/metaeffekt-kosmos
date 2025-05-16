@@ -1,0 +1,42 @@
+canonicalName: BSD 3-Clause License (Los Alamos National Labs)
+category: BSD
+shortName: BSD-3-Clause-LANL
+
+otherIds:
+  - "scancode:lanl-bsd-3-variant"
+
+alternativeNames:
+  - "Los Alamos National Labs BSD-3 Variant"
+  - "LANL-BSD-3-Variant"
+
+representedAs: BSD 3-Clause License
+
+# FIXME-implement: provide license template
+#requiresCopyright: true
+#requiresLicenseText: true
+
+evidence:
+  matches:
+    - "This software was produced under U.S. Government contract DE-AC52-06NA25396 for Los Alamos National Laboratory 
+       (LANL), which is operated by Los Alamos National Security, LLC for the U.S. Department of Energy"
+    - "The U.S. Government has rights to use, reproduce, and distribute this software"
+    - "NEITHER THE GOVERNMENT NOR LOS ALAMOS NATIONAL SECURITY, LLC MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES
+       ANY LIABILITY FOR THE USE OF THIS SOFTWARE"
+    - "If software is modified to produce derivative works, such modified software should be clearly marked,
+       so as not to confuse it with the version available from LANL"
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions and the following 
+       disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the 
+       following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "Neither the name of Los Alamos National Security, LLC, Los Alamos National Laboratory, LANL, the U.S. Government,
+       nor the names of its contributors may be used to endorse or promote products derived from this software without
+       specific prior written permission"
+
+segmentation:
+  revert: [
+    { match:
+        "so as not to confuse it with the version available from LANL.",
+      matchNext:
+        "Additionally, redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:"
+    }
+  ]

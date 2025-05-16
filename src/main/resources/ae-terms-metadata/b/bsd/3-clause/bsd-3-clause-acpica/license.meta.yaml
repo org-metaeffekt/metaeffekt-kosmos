@@ -9,6 +9,8 @@ alternativeNames:
   - "BSD-3-Clause-acpica"
   - "BSD 3-Clause acpica variant"
 
+representedAs: BSD 3-Clause License
+
 evidence:
   matches:
     - "Redistributions of source code must retain the above copyright notice,

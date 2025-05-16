@@ -16,9 +16,14 @@ canonicalNameHistory:
   - "Creative Commons BY-NC 4.0 (international)"
 
 alternativeNames:
-  - "CC-BY-NC-4.0"
   - "Creative Commons Attribution Non Commercial 4.0 International"
   - "Creative Commons Attribution-NonCommercial 4.0 International"
+  - "Attribution-NonCommercial 4.0 International"
+  - "Attribution-NonCommercial 4.0"
+  - "CC-BY-NC-4.0"
+  - "CC BY-NC 4.0"
+  - "http://creativecommons.org/licenses/by-nc/4.0"
+  - "https://creativecommons.org/licenses/by-nc/4.0"
 
 evidence:
   matches:
@@ -40,3 +45,4 @@ evidence:
        of Adapted Material from You automatically receives an offer from the Licensor
        to exercise the Licensed Rights in the Adapted Material under the conditions
        of the Adapter's License You apply"
+    - "Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter's License You apply"

@@ -23,3 +23,13 @@ alternativeNames:
   - "Alternatively, this software may be distributed under the terms of the
      GNU General Public License (GPL) version 2 as published by the Free
      Software Foundation."
+
+evidence: 
+  excludes:
+# excluded because we have the dedicated "BSD 3-Clause License + GNU General Public License 2.0" for that combination.
+    - "3. The name of the author may not be used to endorse or promote products 
+          derived from this software without specific prior written permission. 
+
+       Alternatively, this software may be distributed under the terms of the 
+       GNU General Public License (\"GPL\") version 2 as published by the Free
+        Software Foundation. "

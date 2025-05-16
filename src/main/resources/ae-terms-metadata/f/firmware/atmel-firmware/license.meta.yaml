@@ -1,21 +1,24 @@
-canonicalName: Atmel Firmware License (Microcode)
-category: Atmel Firmware
-shortName: Atmel-Firmware-Microcode
+canonicalName: Atmel Firmware License
+category: Firmware
+shortName: Atmel-Firmware
 
 otherIds:
-  - "scancode:atmel-firmware"
+  - "scancode:atmel-linux-firmware"
 
 alternativeNames:
-  - "Atmel Firmware License (Microcode)"
+  - "Atmel Firmware License"
 
 evidence:
   matches:
-    - "Firmware is redistributed in object code only"
-    - "Any reproduction of Firmware must contain the above
-       copyright notice, this list of conditions and the below
-       disclaimer in the documentation and/or other materials
-       provided with the distribution"
-    - "The name of Atmel Corporation may not be used to endorse
-       or promote products derived from this Firmware without specific
-       prior written consent"
-
+    - "Permission is hereby granted by Atmel Corporation (Atmel), free
+       of any license fees, to any person obtaining a copy of this firmware (the
+       Software), to install, reproduce, copy and distribute copies, in binary form,
+       in hexadecimal or equivalent formats, of the Software and to permit persons to
+       whom the Software is provided to do the same, subject to the following
+       conditions"
+    - "Any redistribution of the Software must reproduce the above copyright notice,
+       this license notice, and the following disclaimers and notices in the
+       documentation and/or other materials provided with the Software"
+    - "Neither the name of Atmel Corporation, its products nor the names of its
+       suppliers may be used to endorse or promote products derived from this
+       Software without specific prior written permission"

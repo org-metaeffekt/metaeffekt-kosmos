@@ -23,8 +23,6 @@ evidence:
     - "no other rights are granted by DMTF"
     - "This software might be subject to other rights
        (such as patent rights) of other parties"
-    - "Copyright (c) 2017, Contributing Member(s) of Distributed Management Task Force,
-       Inc.. All rights reserved"
     - "Redistribution and use in source and binary forms, with or without modification,
        are permitted provided that the following conditions are met"
     - "Redistributions of source code must retain the above copyright notice, this
@@ -36,9 +34,9 @@ evidence:
        of its contributors may be used to endorse or promote products derived from this
        software without specific prior written permission"
     - "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND
-        ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-        WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-        DISCLAIMED"
+       ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+       WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+       DISCLAIMED"
     - "This software may be subject to third party patent rights, including provisional
        patent rights (\"patent rights\")"
     - "DMTF makes no representations to users of the
@@ -48,7 +46,7 @@ evidence:
        disclosure of such rights, owners or claimants"
 
 licenseTemplate:
-  - "<lq>The Distributed Management Task Force (DMTF) grants rights under copyright in
+  "<lq>The Distributed Management Task Force (DMTF) grants rights under copyright in
      this software on the terms of the BSD 3-Clause License as set forth below; no
      other rights are granted by DMTF. This software might be subject to other rights
      (such as patent rights) of other parties.

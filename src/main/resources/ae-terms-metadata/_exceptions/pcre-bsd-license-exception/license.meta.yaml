@@ -16,6 +16,8 @@ references:
     matches:
       - "The second condition in the BSD licence (covering binary redistributions)
          does not apply all the way down a chain of software"
+      - "The second condition in the BSD licence (covering binary redistributions) does
+         not apply all the way down a chain of software"
 
 evidence:
   matches:

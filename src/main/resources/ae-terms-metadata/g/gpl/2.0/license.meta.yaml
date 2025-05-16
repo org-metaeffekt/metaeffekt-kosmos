@@ -19,6 +19,10 @@ status:
 requiresCopyright: true
 requiresLicenseText: true
 
+combinedWith:
+  "BSD 3-Clause License": BSD 3-Clause License + GNU General Public License 2.0
+  BSD 3-Clause License (variant 001): BSD 3-Clause License + GNU General Public License 2.0
+
 alternativeNames:
   - "GNU GENERAL PUBLIC LICENSE Version 2"
   - "GNU General Public License, Version 2.0"

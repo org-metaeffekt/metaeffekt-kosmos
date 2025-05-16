@@ -3,7 +3,7 @@ category: X11-Syle
 shortName: X11-X-Consortium-Veillard
 
 otherIds:
-  - "scancode:x11-xconsortium-veillard"
+  - "scancode:x11-xconsortium_veillard"
 
 representedAs: X11 License
 

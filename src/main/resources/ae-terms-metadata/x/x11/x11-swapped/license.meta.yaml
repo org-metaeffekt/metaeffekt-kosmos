@@ -2,6 +2,8 @@ canonicalName: X11 License (swapped)
 category: X11
 spdxIdentifier: X11-swapped
 
+representedAs: X11 License
+
 otherIds:
   - "scancode:x11-swapped"
 

@@ -1,0 +1,27 @@
+canonicalName: Snowplow Community License Agreement 1.0
+category: Snowplow Community License Agreement
+shortName: snowplow-cla-1.0
+
+otherIds:
+  - "scancode:snowplow-cla-1.0"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Snowplow Community License Agreement 1.0"
+  - "snowplow-cla-1.0"
+  - "Snowplow Community License Agreement, Version 1.0"
+
+evidence:
+  matches:
+    - "This Agreement will continue unless and until earlier terminated as set forth herein"
+    - "If Licensee breaches any of its conditions or obligations under this Agreement, this
+       Agreement will terminate automatically and the License will terminate automatically and
+       permanently"
+    - "As between the parties, Snowplow will retain all right, title, and interest in the Software,
+       and all intellectual property rights therein"
+    - "Snowplow hereby reserves all rights not expressly granted to Licensee in this Agreement"
+    - "Snowplow hereby reserves all rights in its trademarks and service marks, and no licenses
+       therein are granted in this Agreement"
+  excludes:
+    - "located at https://docs.snowplow.io/limited-use-license-1.0"

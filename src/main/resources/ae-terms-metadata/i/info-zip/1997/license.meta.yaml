@@ -11,6 +11,7 @@ canonicalNameHistory:
 alternativeNames:
   - "Info-Zip License 1997"
 
+# FIXME-DISCUSS: why is this required; reference should be sufficient
 expectedMatches:
   - "Public Domain"
 

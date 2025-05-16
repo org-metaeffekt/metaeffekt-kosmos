@@ -1,0 +1,18 @@
+canonicalName: Unstated License
+category: Unstated License
+shortName: unstated
+
+otherIds:
+  - "scancode:unstated"
+
+classification: Unstated License
+
+alternativeNames:
+  - "Unstated License"
+
+evidence:
+  matches:
+    - "There is no text available for this license"
+  excludes:
+    - "the material in the file is proprietary and confidential and is subject
+       to unstated license terms"

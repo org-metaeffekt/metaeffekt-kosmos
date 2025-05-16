@@ -11,6 +11,7 @@ spdxIdentifier: SSH-OpenSSH
 expectedMatches:
   - "Beerware License"
   - "BSD 2-Clause License (copyright holder variant)"
+  - "BSD 3-Clause License (copyright holder variant)"
   - "Permission Terms (variant 075)"
   - "Public Domain (with disclaimer)"
   - "Redistribution Terms (variant 032)"
@@ -18,7 +19,6 @@ expectedMatches:
   - "ssh-keyscan License"
   - "X11 License (distribute modifications)"
   - "ISC License"
-  - "BSD 3-Clause License"
 
 otherIds:
   - "scancode:openssh"

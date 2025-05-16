@@ -2,6 +2,8 @@ canonicalName: FSF Unlimited License (with retention)
 category: FSF Unlimited
 spdxIdentifier: FSFULLR
 
+representedAs: FSF Unlimited License
+
 otherIds:
   - "scancode:fsf-unlimited"
 

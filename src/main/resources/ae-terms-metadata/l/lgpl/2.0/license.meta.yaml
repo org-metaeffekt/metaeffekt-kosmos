@@ -46,6 +46,8 @@ alternativeNames:
   - "GNU library license version 2"
   - "GNU Lesser/Library General Public License version 2"
   - "GNU Library General Public License Version 2"
+  - "http://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt"
+  - "https://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt"
 
 evidence:
   matches:
