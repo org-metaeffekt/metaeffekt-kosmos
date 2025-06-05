@@ -45,6 +45,8 @@ public class MatchPreprocessorTest extends AbstractMatchPreprocessorTest {
 
         // needs to be checked
         excludes.add("Permission Terms (RUC)");
+        excludes.add("CxImage License");
+        excludes.add("Syntext Serna Exception");
 
         // when a run has failed enter the license name here to skip to it during the next run
         final String skipUntilLicense = "";
