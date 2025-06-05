@@ -27,3 +27,14 @@ evidence:
        prohibited, unless explicitly granted by attaching extra information, as explained in the
        relative section of this license"
     - "This restriction applies regardless of the AI's purpose or intended application"
+
+references:
+  "MIT License":
+    matches:
+      - "Add extra information in the textual license file, to be created if not present, as
+         defined below. If the extra information about the license to extend is omitted,
+         “The MIT License” (https://opensource.org/license/mit/) shall be considered as
+         default."
+      - "Optional, accepts SPDX expressions. For example “The MIT License” or just “MIT”.
+         Default “The MIT License” (https://opensource.org/license/mit/) if not differently
+         specified."

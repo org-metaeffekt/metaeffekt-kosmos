@@ -4,7 +4,8 @@ shortName: ANY-OR-LGPL-2.0+
 
 type: expression
 
-# FIXME-RESEARCH: multi-license matches "GNU Library General Public License 2.0 (or any later version) + GNU Library General Public License 2.0 (or any later version)" for some reason. removing the combinedWith and looking for related entries which could cause this was unsuccessful
+# FIXME-KKL: multi-license matches "GNU Library General Public License 2.0 (or any later version) + GNU Library General Public License 2.0 (or any later version)" for some reason.
+#            removing the combinedWith and looking for related entries which could cause this was unsuccessful
 
 alternativeNames:
   - "ANY + GNU Library General Public License 2.0 (or any later version)"

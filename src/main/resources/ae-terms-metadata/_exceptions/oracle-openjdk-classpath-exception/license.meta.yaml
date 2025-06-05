@@ -1,4 +1,4 @@
-# FIXME: adjust case in canonical name
+# FIXME-IMPLEMENT: adjust case in canonical name; capitalize to Classpath (canonicalName, category, shortName); apply to all 'classpath Exception'-matches
 canonicalName: Oracle OpenJDK classpath Exception
 category: Oracle OpenJDK classpath Exception
 shortName: Oracle-OpenJDK-classpath-Exception

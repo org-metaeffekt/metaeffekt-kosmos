@@ -1,0 +1,34 @@
+canonicalName: Mozilla Public License 1.1 + GNU Lesser General Public License 2.1 (or any later version)
+category: MPL-LGPL
+shortName: MPL-1.1-OR-LGPL-2.1+
+
+combinedWith:
+  Mozilla Public License 1.1: Mozilla Public License 1.1 + GNU Lesser General Public License 2.1 (or any later version)
+  GNU Lesser General Public License 2.1 (or any later version): Mozilla Public License 1.1 + GNU Lesser General Public License 2.1 (or any later version)
+
+
+# workaround to make evidence and license text work because this is a multi-license expression: if we want this to follow our convention evidence and license text should be deleted.
+# FIXME-DISCUSS: evidence with license text has been added do avoid a lot of incomplete matches. There should be a better way to handle this - implement new feature etc.?
+
+expectedMatches:
+#  - "GNU Lesser General Public License 2.1 (or any later version)"; not matched reference
+  - "Mozilla Public License 1.1"
+
+ignoreMatches:
+  - "Mozilla Public License 1.1"
+
+alternativeNames:
+  - "Mozilla Public License 1.1 or GNU Lesser General Public License 2.1 (or any later version)"
+
+type: expression
+
+evidence:
+  matches:
+    - "The contents of this file are subject to the Mozilla Public License Version 1.1"
+    - "Alternatively, the contents of this file may be used under the terms of the 
+       GNU Lesser General Public License Version 2.1 or later"
+  excludes:
+    - "otherwise make it clear that Your version of the license contains terms which differ from the
+       Mozilla Public License and Netscape Public License"
+
+

@@ -20,6 +20,9 @@ alternativeNames:
   - "X11-Style (Acer)"
   - "Permission Terms (Acer)"
 
+ignoreMatches:
+  - "ISC License"
+
 evidence:
   matches:
     - "Copyright *{.{0,15}}* Abilis Systems Sarl"

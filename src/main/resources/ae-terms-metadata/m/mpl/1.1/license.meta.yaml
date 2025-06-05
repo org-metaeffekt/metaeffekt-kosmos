@@ -27,11 +27,17 @@ alternativeNames:
   - "MOZILLA PUBLIC LICENSE 1.1"
   - "MOZILLA PUBLIC LICENSE Version 1.1"
   - "Mozilla Public License (MPL) version 1.1"
+  # FIXME-KKL: the alternative name should match and nor require this construct
+  - "The contents of this file are subject to the Mozilla Public License Version 1.1"
 
 evidence:
-  matches:
-    - "Distribution of Executable Versions. You may distribute Covered Code
-       in Executable form only if the requirements of Section* have been met for that Covered Code"
+  oneOf:
+    # FIXME-KKL: the alternative name should match and nor require this construct
+    - matches:
+        - "Distribution of Executable Versions. You may distribute Covered Code
+           in Executable form only if the requirements of Section* have been met for that Covered Code"
+    - matches:
+        - "The contents of this file are subject to the Mozilla Public License Version 1.1"
   excludes:
     - "As a modest attribution to the organizer of the development of the Original Code"
     - "in the hope that its promotional value may help justify the time, money and effort invested
@@ -52,16 +58,35 @@ evidence:
     - "Socialtext, Inc. (ìSocialtext'') may publish revised and/or new versions of the License"
     - "The contents of this file are subject to the OpenI Public License Version 1.0"
     - "PfTijah Public License Version 1.1
-
        This License is a derivative of the MonetDB Public License Version 1.1, where the difference is that all references to \"MonetDB\" and \"CWI\" have been changed to \"PfTijah\" and \"University of Twente\""
     - "If You create or use a modified version of
        this License (which you may only do in order to apply it to code which
        is not already Covered Code governed by this License), You must (a)
        rename Your license so that the phrases \"TPL\", \"THOR Software\",
-        \"Thomas Richter\" or any confusingly similar phrase do not appear in
-        your license"
+       \"Thomas Richter\" or any confusingly similar phrase do not appear in
+       your license"
     - "Vtiger may publish revised and/or new versions of the License from time to time"
     - "vtiger may publish revised and/or new versions of the License from time to time"
+    - "'Cygnus's Branded Code' is code that Cygnus Solutions ('Cygnus') distributes and/or
+       permits others to distribute under different terms than the Cygnus eCos Public License"
+    - "This Erlang License is a derivative work of the Mozilla Public License, Version 1.0. It contains
+       terms which differ from the Mozilla Public License, Version 1.0"
+    - "The contents of this file are subject to the FreeImage Public License Version 1.0 (the 'License');
+       you may not use this file except in compliance with the License"
+    - "otherwise make it clear that Your version of the license contains terms which differ from the gSOAP Public License"
+    - "otherwise make it clear that Your version of the license contains terms which differ from the H2 License"
+    - "The Initial Developer's Public License is based on the Mozilla Public License V 1.1"
+    - "THIS AGREEMENT IS THE SOLE AGREEMENT AND IT ONLY COVERS THE FIRMWARE OF THE LEGO® MINDSTORMS® NXT MICROPROCESSOR"
+    - "The contents of this file are subject to the Mozilla Public License Version 1 . 0 ( the License )"
+    - "The contents of this file are subject to the Mozilla Public License Version 1.1 (the 'License'); you may not
+       use this file except in compliance with the License.  Alternatively, the contents of this file may be used under
+       the terms of the GNU Lesser General Public License Version 2.1 or later"
+    - "make it clear that your version of the license contains terms which differ from the Mozilla Public License and Netscape Public License"
+    - "The contents of this file OPL_1_0.TXT, stating the general licensing policy of the software"
+    - "make it clear that your version of the license contains terms which differ from the Red Hat eCos Public License"
+    - "The contents of this file are subject to the SNIA Public License Version 1.0"
+    - "Your version of the license contains terms which differ from the Sun Public License"
+    - "Alternatively, the contents of this file may be used under the terms of the GNU Lesser General Public License Version 2.1 or later"
 
 grants:
   Source code delivery:

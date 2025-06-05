@@ -4,8 +4,14 @@ spdxIdentifier: Sendmail-Open-Source-1.1
 
 #source: "https://github.com/spdx/license-list-XML/issues/2565"
 
+otherIds:
+  - "scancode:sendmail-open-source-1.1"
+
 canonicalNameHistory:
   - "Sendmail Open Source License v1.1"
+
+otherIds:
+  - "scancode:sendmail-open-source-1.1"
 
 alternativeNames:
   - "Sendmail-Open-Source-1.1"

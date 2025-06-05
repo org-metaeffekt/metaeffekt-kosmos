@@ -69,3 +69,11 @@ masks:
     - "the Universal General Public License (UGPL) is intended to guarantee your freedom"
     - "You may include license terms in snippets you post, if you wish to use a particular license
        (such as the BSD license or GNU GPL)"
+
+references:
+  "GPL":
+    matches:
+      - "If you copy code from files distributed under the terms of the GNU
+         General Public License or the GNU Lesser General Public License into a
+         copy of this library, as this license permits, the exception does not
+         apply to the code that you add in this way"

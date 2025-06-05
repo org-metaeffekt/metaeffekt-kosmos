@@ -1,6 +1,6 @@
 canonicalName: ODC Database Contents License 1.0
-category: ODC Database Contents License
-shortName: DbCL-1.0
+category: ODC Contents
+shortName: ODC-DCL-1.0
 
 otherIds:
   - "scancode:dbcl-1.0"
@@ -45,3 +45,10 @@ evidence:
     - "If liability may not be excluded by law, it is limited to actual and
        direct financial loss to the extent it is caused by proved negligence on
        the part of the Licensor"
+
+references:
+  "ODC":
+    matches:
+      - "1.0 Definitions of Capitalised Words
+        The definitions of the Open Database License (ODbL) 1.0 are incorporated
+        by reference into the Database Contents License."

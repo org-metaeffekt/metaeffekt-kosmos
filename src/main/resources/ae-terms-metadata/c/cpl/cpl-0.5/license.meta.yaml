@@ -44,11 +44,8 @@ evidence:
        itself (excluding combinations of the Program with other software or hardware)
        infringes such Recipient's patent(s), then such Recipient's rights granted under
        Section 2(b) shall terminate as of the date such litigation is filed"
-
-  excludes:
-    - "Common Public License Version 1.0 (CPL)"
-    - "Eclipse Public License - v 1.0"
-    - "IBM PUBLIC LICENSE VERSION 1.0"
+    - "Contributors may not remove or alter any copyright notices contained within the
+       Program"
 
 licenseTemplate:
   - "<lq><codeph>EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY

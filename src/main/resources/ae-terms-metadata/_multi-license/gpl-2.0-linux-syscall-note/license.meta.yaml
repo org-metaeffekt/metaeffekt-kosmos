@@ -1,17 +1,15 @@
-canonicalName: GNU General Public License 2.0 (with Linux syscall Note)
+canonicalName: GNU General Public License 2.0 (or any later version; with Linux syscall Note)
 category: GPL+Linux
-shortName: GPL-2.0-Linux-syscall-Note
+shortName: GPL-2.0+-Linux-syscall-Note
 
 type: expression
 
-spdxExpression: "[GNU General Public License 2.0] WITH [Linux syscall Note]"
+spdxExpression: "[GNU General Public License 2.0 (or any later version)] WITH [Linux syscall Note]"
 
-otherIds:
-  - "scancode:gpl-2.0-kernel"
-
+# FIXME-KKL: leaving out this alt. name causes an issue in the TermsMetaDataConventionTest.testMultiLicensesReference test
 alternativeNames:
-  - "GNU General Public License 2.0 (with Linux syscall Note)"
+  - "GNU General Public License 2.0 (or any later version; with Linux syscall Note)"
 
 combinedWith:
-  GNU General Public License 2.0: GNU General Public License 2.0 (with Linux syscall Note)
-  Linux syscall Note: GNU General Public License 2.0 (with Linux syscall Note)
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linux syscall Note)
+  Linux syscall Note: GNU General Public License 2.0 (or any later version; with Linux syscall Note)

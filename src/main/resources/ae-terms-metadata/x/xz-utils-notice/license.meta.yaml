@@ -1,0 +1,42 @@
+# FIXME-IMPLEMENT: not a license; ignore; expected matches
+canonicalName: XZ Utils Notice
+category: XZ Utils
+shortName: XZ-Utils-Notice
+
+# Used to be named "XZ Utils License" which is now a multi-license expression which is why it cannot be listed as canonicalNameHistory
+#canonicalNameHistory:
+#  - "XZ Utils License"
+
+# this: XZ Utils Notice - with only the notice as text itself - other parts have been deleted
+# XZ Utils License: expression that is defined by the combined withs (XZ Utils Notice included) forms the XZ Utils License
+combinedWith:
+  BSD Zero Clause License: XZ Utils Notice
+
+evidence:
+  matches:
+    - "Different licenses apply to different files in this package. Here
+           is a summary of which licenses apply to which parts of this package"
+    - "The following command may be helpful in finding per-file license information"
+    - "XZ Utils releases 5.4.6 and older and 5.5.1alpha have a significant amount of code put into the public domain and that obviously remains so"
+    - "Neither 0BSD nor public domain require retaining or reproducing author, copyright holder, or license notices when distributing the software"
+
+references:
+  "Public Domain":
+    matches:
+      - "XZ Utils releases 5.4.6 and older and 5.5.1alpha have a significant amount of code put into the public domain and that obviously remains so"
+  "BSD":
+    matches:
+      - "The switch from public domain to
+                 0BSD for newer releases was made in Febrary 2024 because
+                 public domain has (real or perceived) legal ambiguities in
+                 some jurisdictions"
+      - "There is very little *practical* difference between public
+                 domain and 0BSD. The main difference likely is that one
+                 shouldn't claim that 0BSD-licensed code is in the public
+                 domain"
+      - "0BSD-licensed code is copyrighted but available under
+                 an extremely permissive license. Neither 0BSD nor public domain
+                 require retaining or reproducing author, copyright holder, or
+                 license notices when distributing the software. (Compare to,
+                 for example, BSD 2-Clause \"Simplified\" License which does have
+          such requirements.)"

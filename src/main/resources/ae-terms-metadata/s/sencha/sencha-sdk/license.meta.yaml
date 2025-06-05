@@ -2,6 +2,8 @@ canonicalName: Sencha SDK License Agreement
 category: Sencha SDK
 shortName: Sencha-SDK
 
+# FIXME-KKL: implement check that scancode ids are used only once; this one is a duplicate
+# FIXME-IMPLEMENT: analyse and resolve duplication
 otherIds:
   - "scancode:sencha-commercial-3.9"
 

@@ -30,6 +30,7 @@ evidence:
   excludes:
     - "The IJG distribution formerly included code to read and write GIF files"
     - "ansi2knr.c is included in this distribution by"
+    - "Thomas G. Lane. libjpeg-turbo Modifications"
 
 mappings:
   "LIBJPEGNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. We don't promise that this software works. \\(But if you find any bugs,NEWLINE-MARKER please let us know!\\)": " LICENSE-SEGMENT-MARKER LIBJPEGNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKER1. We don't promise that this software works. (But if you find any bugs,NEWLINE-MARKER please let us know!)"

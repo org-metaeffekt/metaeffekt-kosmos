@@ -17,7 +17,7 @@ expectedMatches:
   - "CNRI License Agreement"
   - "BeOpen Python Open Source License Agreement 1.0"
 
-# FIXME-DELETE: why do we need those
+# FIXME-IMPLEMENT: why do we need those; delete
 ignoreMatches:
   - "Python Software Foundation License 2.0"
   - "CNRI Open Source License Agreement (Python 1.6.1)"

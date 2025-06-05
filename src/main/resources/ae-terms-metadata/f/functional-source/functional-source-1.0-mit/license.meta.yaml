@@ -12,6 +12,9 @@ alternativeNames:
 canonicalNameHistory:
   - "Functional Source License 1.0 (MIT Change)"
 
+expectedMatches:
+  - "MIT License"
+
 evidence:
   matches:
     - "Subject to your compliance with this License Grant and the Patents, Redistribution and Trademark clauses below, we hereby grant you the right to use, copy, modify, create derivative works, publicly perform, publicly display and redistribute the Software for any Permitted Purpose identified below"
@@ -29,18 +32,3 @@ evidence:
     - "Except for displaying the License Details and identifying us as the origin of the Software, you have no right under these Terms and Conditions to use our trademarks, trade names, service marks or product names"
     - "On the second anniversary of the date we make the Software available, the Software will become available under the MIT license"
     - "On that date, the Terms and Conditions above automatically terminate and the following terms become effective"
-
-references:
-  "MIT":
-    matches:
-      - "# Functional Source License, Version 1.0, MIT Change License
-
-         ## Abbreviation
-
-         FSL-1.0-MIT
-
-         ## Notice"
-      - "On the second anniversary of the date we make the Software available, the
-         Software will become available under the MIT license. On that date, the Terms
-         and Conditions above automatically terminate and the following terms become
-         effective"

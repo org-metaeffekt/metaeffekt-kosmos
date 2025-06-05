@@ -34,7 +34,7 @@ references:
          accepted by the membership of KDE e.V."
 
 
-# FIXME-concept: this modifier causes an incomplete match when matching a text containing
+# FIXME-CONCEPT: this modifier causes an incomplete match when matching a text containing
 #   "you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the
 #    Free Software Foundation"
 #  The partial match detection does not work; since this is not an evidence match on the "GNU General Public License (undefined)"-level

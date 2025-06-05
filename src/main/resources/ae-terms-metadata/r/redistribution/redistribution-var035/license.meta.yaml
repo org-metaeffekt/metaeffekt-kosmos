@@ -18,9 +18,11 @@ evidence:
        are met"
     - "Redistributions of source code must retain the above copyright
        notice, this list of conditions and the following disclaimer"
+    # FIXME-DISCUSS: This evidence cannot be split at the moment. Having the second sentence separately causes
+    # FIXME-DISCUSS: several incomplete matches.
     - "Redistributions in binary form must reproduce the above copyright
        notice, this list of conditions and the following disclaimer in the
-       documentation and/or other materials provided with the distribution. This program is distributed in the hope it 
+       documentation and/or other materials provided with the distribution. This program is distributed in the hope it
        will be useful, but WITHOUT ANY WARRANTY"
 
 licenseTemplate:
@@ -45,6 +47,6 @@ references:
   "GPL":
     matches:
       - "This program is distributed in the hope it will be useful, but WITHOUT
-           ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
-           FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
-           more details."
+         ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+         FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
+         more details."

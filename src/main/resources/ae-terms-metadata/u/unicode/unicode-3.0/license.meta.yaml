@@ -34,3 +34,13 @@ evidence:
   excludes:
     - "All Unicode Data Files and Unicode Software are subject to the terms and conditions
        of the free and open-source Unicode License v3"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "UNICODE LICENSE V3 COPYRIGHT AND PERMISSION NOTICE Copyright © 1991-2024 Unicode, Inc. NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING DATA FILES, AND/OR SOFTWARE, YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.",
+      matchNext:
+        "Permission is hereby granted, free of charge, to any person obtaining a copy of data files and any associated documentation (the \"Data Files\") or software and any associated documentation (the \"Software\") to deal in the Data Files or Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Data Files or Software"
+    },
+  ]

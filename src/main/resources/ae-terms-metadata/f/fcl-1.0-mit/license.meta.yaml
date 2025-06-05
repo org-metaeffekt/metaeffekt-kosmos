@@ -14,6 +14,9 @@ alternativeNames:
 canonicalNameHistory:
   - "Fair Core License, Version 1.0, MIT Future License"
 
+expectedMatches:
+  - "MIT License"
+
 evidence:
   matches:
     - "Subject to your compliance with this License Grant and the Limitations,

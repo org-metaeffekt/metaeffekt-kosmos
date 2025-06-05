@@ -1,0 +1,24 @@
+# FIXME-IMPLEMENT: adjust as follows
+# proposal: Linux man-pages (1 paragraph)
+# consolidate folder and license text name in the context of other Linux man-pages licenses
+canonicalName: Linux man-pages - 1 paragraph
+category: Linux-man-pages-1-para
+spdxIdentifier: Linux-man-pages-1-para
+
+canonicalNameHistory:
+  - "Linux man-pages One Paragraph"
+
+alternativeNames:
+  - "Linux-man-pages-one-para"
+  - "Linux man-pages One Paragraph"
+  - "Linux man-pages - 1 paragraph"
+
+otherIds:
+  - "scancode:linux-man-pages-1-para"
+
+evidence:
+  matches:
+    - "Permission is granted to distribute possibly modified
+       copies of this page provided the header is included
+       verbatim, and in case of nontrivial modification author
+       and date of the modification is added to the header"

@@ -69,6 +69,9 @@ evidence:
        DAMAGES OR OTHER LIABILITY"
     - "IN NO EVENT SHALL THE DANIEL VEILLARD BE LIABLE FOR ANY CLAIM"
     - "X Window System is a trademark of X Consortium"
+    - "Except as contained in this notice, the name of The Open Group shall not be
+       used in advertising or otherwise to promote the sale, use or other dealings
+       in this Software without prior written authorization from The Open Group"
 
 # this revert is for the xconsortium-container variant
 segmentation:

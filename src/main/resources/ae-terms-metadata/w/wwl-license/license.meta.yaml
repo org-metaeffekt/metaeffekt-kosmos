@@ -1,0 +1,18 @@
+canonicalName: WWL License
+category: WWL License
+shortName: WWL
+
+otherIds:
+  - "scancode:wwl"
+
+alternativeNames:
+  - "WWL License"
+
+otherIds:
+  - "scancode:wwl"
+
+evidence:
+  matches:
+    - "As long as you retain this notice you can do whatever you want with this code, except you may not
+       license it under any form of the GPL"
+    - "A postcard or QSL card showing me you appreciate this code would be nice"

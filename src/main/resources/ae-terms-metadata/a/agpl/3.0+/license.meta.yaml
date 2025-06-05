@@ -61,6 +61,9 @@ alternativeNames:
   - "agplv2"
   - "agpl v2"
 
+evidence:
+  excludes:
+    - "AGPL-3.0-or-later This software is licensed under the Affero General Public License v3.0-or-later (AGPL-3.0-or-later)"
 
 masks:
   matches:
@@ -86,6 +89,5 @@ masks:
         This program is distributed in the hope that it will be useful,
         but WITHOUT ANY WARRANTY; without even the implied warranty of
         MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-        GNU Affero General Public License for more details.
-  "
+        GNU Affero General Public License for more details"
 

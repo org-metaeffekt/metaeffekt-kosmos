@@ -20,7 +20,10 @@ alternativeShortNames:
   # https://framework.zend.com/license
   - "Zend"
 
-# FIXME: the copyright holder variant should not be limited to copyright holders only.
+# FIXME-DISCUSS: the copyright holder variant should not be limited to copyright holders only. Derive policy:
+# 1. we differentiate (generally) templates to match external sources (scancode, spdx, ...)
+# 2. we differentiate variants with deviating text
+# 3. within acceptable text variations we allow expression matches
 
 # FIXME-Concept: For a given alternative name; a fixed variable set must be defined
 alternativeNames:

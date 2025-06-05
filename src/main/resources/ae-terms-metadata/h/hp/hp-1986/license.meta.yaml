@@ -19,3 +19,5 @@ evidence:
        of the software without specific, written prior permission"
     - "Hewlett-Packard Company makes no representations about the suitability of this
        software for any purpose"
+  excludes:
+    - "It is provided \"as is\" without express or implied warranty"

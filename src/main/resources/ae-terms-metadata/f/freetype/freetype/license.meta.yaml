@@ -21,6 +21,7 @@ alternativeNames:
   - "http://www.freetype.org/FTL.TXT"
   - "http://www.freetype.org/license.html"
   - "https://spdx.org/licenses/ftl"
+  - "The FreeType License"
 
 evidence:
   matches:

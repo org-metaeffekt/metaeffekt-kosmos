@@ -2,6 +2,9 @@ canonicalName: MIPS License
 category: MIPS
 spdxIdentifier: MIPS
 
+otherIds:
+  - "scancode:mips"
+
 alternativeNames:
   - "MIPS License"
   # - "MIPS Computer Systems" # this is not a license name

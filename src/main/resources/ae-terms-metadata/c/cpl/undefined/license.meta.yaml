@@ -6,10 +6,3 @@ unspecific: true
 
 alternativeNames:
   - "Common Public License"
-
-combinedWith:
-  "GNU Lesser General Public License (undefined)": GNU Lesser General Public License (undefined) + Common Public License (undefined)
-
-evidence:
-  excludes:
-    - "You should have received a copy of the Common Public License along with this library"

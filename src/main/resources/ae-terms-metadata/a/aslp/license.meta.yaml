@@ -6,7 +6,7 @@ otherIds:
   - "scancode:aslp"
 
 alternativeNames:
-  # - "aslp" # not sufficient; more context required; FIXME-IMPLEMENT: how did this pass validation?
+  # - "aslp" # not sufficient; more context required; FIXME-KKL: how did this pass validation?
   - "Artop Software License for Preparatory Development"
 
 evidence:

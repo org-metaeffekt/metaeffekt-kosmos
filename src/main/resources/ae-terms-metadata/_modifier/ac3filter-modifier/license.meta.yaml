@@ -1,0 +1,31 @@
+canonicalName: AC3Filter Modifier
+category: AC3Filter Modifier
+shortName: AC3Filter
+
+# Note: this is a GPL modifier
+type: modifier
+
+canonicalNameHistory:
+  - "AC3Filter License"
+
+alternativeNames:
+  - "AC3-Filter License"
+  - "AC3-Filter-License"
+  - "ac3 filter license"
+
+expectedMatches:
+  - "GNU General Public License 2.0"
+
+otherIds:
+  - "scancode:ac3filter"
+
+evidence:
+  matches:
+    - "This application may solely be used for demonstration and educational purposes"
+    - "Any other use may be prohibited by law in some countries"
+    - "The author has no liability regarding this application whatsoever"
+    - "This application may be distributed freely unless prohibited by law"
+    - "This product distributed in hope it may be useful, but without any warranty"
+
+mappings:
+  "in some coutries": "in some countries"

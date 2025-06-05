@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 + Mozilla Public License 1.1
+category: GPL+MPL
+shortName: GPL-2.0-MPL-1.1
+
+type: expression
+
+alternativeNames:
+  - "GNU General Public License 2.0 or Mozilla Public License 1.1"
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 + Mozilla Public License 1.1
+  Mozilla Public License 1.1: GNU General Public License 2.0 + Mozilla Public License 1.1

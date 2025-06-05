@@ -5,6 +5,7 @@
 Aardvark I2C/SPI Software and Firmware License 2014
 Abstyles License
 AC3Filter License
+AC3Filter Modifier
 Academic Free License (undefined)
 Academic Free License 1.1
 Academic Free License 1.2
@@ -1025,7 +1026,6 @@ FreeType Project License (copyright holder variant)
 FreeType Project License (copyright variant)
 FreeType Project License (with Autoconf exception)
 FreeType Project License + GNU General Public License 2.0
-Freetype2 Project License
 Freeware Public License
 Froala Open Web Design License
 Frontier Artistic License 1.0
@@ -1061,6 +1061,7 @@ GCC Runtime Library Exception 3.1
 GCoptimization License 3.0
 GD License
 GDCL License
+Generic XTS License
 Genivia gSOAP Commercial Licensing
 Genivia's Commercial License
 Genode Exception (AGPL 3.0)
@@ -1202,6 +1203,7 @@ GNU General Public License 2.0 (or any later version; with Linking exception (GP
 GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 026))
 GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 027))
 GNU General Public License 2.0 (or any later version; with Linking exception (LGPL; variant 005))
+GNU General Public License 2.0 (or any later version; with Linux syscall Note)
 GNU General Public License 2.0 (or any later version; with MySQL Connector ODBC Exception)
 GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception (GPL))
 GNU General Public License 2.0 (or any later version; with Open Motif exception)
@@ -1281,6 +1283,7 @@ GNU General Public License 2.0 (with Oracle OpenJDK classpath Exception)
 GNU General Public License 2.0 (with ProGuard Exception (GPL))
 GNU General Public License 2.0 (with TeX exception (GPL))
 GNU General Public License 2.0 (with TeX Exception)
+GNU General Public License 2.0 + Mozilla Public License 1.1
 GNU General Public License 3.0
 GNU General Public License 3.0 (or any later version)
 GNU General Public License 3.0 (or any later version; with Ada Linking exception)
@@ -1594,6 +1597,7 @@ Imlib2 License
 Independent JPEG Group License
 Independent Module Linking Exception
 Indiana University Extreme Lab Software License (undefined)
+Indiana University Extreme Lab Software License 1.1.1
 Indiana University Extreme Lab Software License 1.2
 Indiana University Extreme! Lab Software License 1.1.1
 Indiana University Extreme! Lab Software License 1.2
@@ -1788,6 +1792,7 @@ Linking Exception (AGPL; variant 001)
 Linking Exception (AGPL; variant 002)
 Linking Exception (Apache)
 Linking Exception (Asterisk)
+Linking Exception (CGAL)
 Linking Exception (GPL)
 Linking Exception (GPL; GNAT)
 Linking Exception (GPL; variant 001)
@@ -2122,6 +2127,7 @@ MIT License (undefined)
 MIT License (variant 001)
 MIT License (variant 002)
 MIT License (variant 003)
+MIT License (variant 004)
 MIT License (with advertising)
 MIT License (with enna advertising)
 MIT License (with Jamie Kyle Restrictions)
@@ -2159,8 +2165,10 @@ Moxa License
 Mozilla Open Software Patent License Agreement 1.0
 Mozilla Public License (undefined)
 Mozilla Public License (undefined) + Apache License 2.0 + GNU General Public License 2.0 (or any later version)
+Mozilla Public License (undefined) + GNU General Public License 2.0
 Mozilla Public License 1.0
 Mozilla Public License 1.1
+Mozilla Public License 1.1 + GNU Lesser General Public License 2.1 (or any later version)
 Mozilla Public License 2.0
 MPEG SSG License
 MPEG-2 NBC MPEG-4 Audio ISO License
@@ -2316,6 +2324,7 @@ ODB NCUEL License
 ODbL 1.0
 ODC By License 1.0
 ODC Database Contents License 1.0
+ODC Open Database License 1.0
 ODMG License
 OFFIS License
 OFRAK Community License Agreement 1.0
@@ -2433,6 +2442,9 @@ OpenSSL Linking Exception (GPL; variant 001)
 OpenSSL Linking Exception (GPL; variant 002)
 OpenSSL Linking Exception (GPL; variant 003)
 OpenSSL Linking Exception (GPL; variant 004)
+OpenSSL Linking Exception (GPL; variant 005)
+OpenSSL Linking Exception (GPL; with source provision obligation)
+OpenSSL Linking Exception (GPL; with source provisioning obligation)
 OpenSSL Linking Exception (LGPL; variant 001)
 OpenSSL Linking Exception (LGPL; variant 002)
 OpenSSL Linking Exception (LGPL; variant 003)
@@ -2598,6 +2610,7 @@ Permission Terms (variant 014)
 Permission Terms (variant 018)
 Permission Terms (variant 019)
 Permission Terms (variant 021)
+Permission Terms (variant 022)
 Permission Terms (variant 026)
 Permission Terms (variant 027)
 Permission Terms (variant 028)
@@ -2610,6 +2623,7 @@ Permission Terms (variant 040)
 Permission Terms (variant 041)
 Permission Terms (variant 042)
 Permission Terms (variant 046)
+Permission Terms (variant 047)
 Permission Terms (variant 048)
 Permission Terms (variant 054)
 Permission Terms (variant 058)
@@ -2655,6 +2669,7 @@ Permission Terms Var014
 Permission Terms Var018
 Permission Terms Var019
 Permission Terms Var021
+Permission Terms Var022
 Permission Terms Var026
 Permission Terms Var027
 Permission Terms Var028
@@ -3233,6 +3248,7 @@ Unlimited Linking Exception (to GPL)
 Unlimited Linking Exception (to LGPL)
 Unmodified Binary Distribution Exception (GPL)
 Unpublished Source License
+UnRAR License
 UnRar License
 UnRar License 3.0
 Unsplash License
@@ -3273,7 +3289,10 @@ Vtiger Public License 1.2
 Vuforia SDK License Agreement 2013-07-29
 VVVVVV Source Code License 1.0
 W3C Community Contributor License Agreement
+W3C Document License (1998-10-01)
+W3C Document License (1999-04-05)
 W3C Document License (2002-12-31)
+W3C Document License (2023-01-01)
 W3C Document Notice and License
 W3C Documentation License
 W3C License (2015-05-13)
@@ -3319,6 +3338,7 @@ WTF Public License 2.0
 WTF Public License 2.0 + MIT License
 WTFNMF Public License 1.0
 WTH Public License 1.0
+WWL License
 wxWidgets Licence
 WxWindows Library Exception
 WxWindows Library Exception 3.1
@@ -3374,6 +3394,8 @@ XML:DB Initiative Software License 1.0
 xpp License
 XSkat License
 xxd License
+XZ Utils Notice
+XZ Utils Notice 5.0
 XZoom License
 Yahoo BrowserPlus End User License
 Yahoo Messenger EULA

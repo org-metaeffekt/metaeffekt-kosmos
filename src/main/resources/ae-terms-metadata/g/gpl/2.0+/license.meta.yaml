@@ -65,6 +65,12 @@ alternativeNames:
   - "under the terms of the GNU General Public License (GPL) as published by the Free Software Foundation either version 
      2 of that License or (at your option) any later version"
 
+evidence:
+  excludes:
+# this is very specific to "XZ Utils License 5.0" which is why it is ok to list this as an exclude. Referencing this did not work.
+    - "xz, xzdec, and lzmadec command line tools are in the public domain unless GNU getopt_long had to be compiled and linked
+       in from the lib directory. The getopt_long code is under GNU LGPLv2.1+"
+
 references:
   "LGPL":
     matches:

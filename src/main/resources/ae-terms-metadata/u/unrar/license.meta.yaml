@@ -1,6 +1,6 @@
-canonicalName: UnRar License
-category: UnRar License
-shortName: UnRar
+canonicalName: UnRAR License
+category: UnRAR License
+shortName: UnRAR
 
 otherIds:
   - "scancode:unrar"
@@ -10,7 +10,11 @@ requiresLicenseText: true
 
 alternativeNames:
   - "UnRar License"
+  - "UnRAR License"
   - "unRAR license"
+
+canonicalNameHistory:
+  - "UnRar License"
 
 evidence:
   matches:

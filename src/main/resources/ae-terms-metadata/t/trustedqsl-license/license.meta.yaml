@@ -2,8 +2,14 @@ canonicalName: TrustedQSL License
 category: TrustedQSL
 spdxIdentifier: TrustedQSL
 
+otherIds:
+  - "scancode:trustedqsl"
+
 alternativeNames:
   - "TrustedQSL License"
+
+otherIds:
+  - "scancode:trustedqsl"
 
 evidence:
   matches:

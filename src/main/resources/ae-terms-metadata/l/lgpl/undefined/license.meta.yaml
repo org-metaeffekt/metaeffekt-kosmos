@@ -20,7 +20,7 @@ alternativeNames:
   - "GNU Lesser General Public License (LGPL)"
   - "GNU Lesser Public License"
   - "Lesser GNU General Public License"
-  - "// same or different license"
+#  - "// same or different license"
   - "GNU Library General Public License (LGPL)"
   - "GNU Library or Lesser General Public License"
   - "GNU Library or Lesser General Public License (LGPL)"
@@ -38,6 +38,9 @@ alternativeNames:
   - "LGPL open source license"
   - "GNU General Public License (LGPL)"
   - "licensed under LGPL and"
+
+# needed for evidence (or excludes) shorter than 3 words:
+expressiveEvidence: true
 
 evidence:
   excludes:
@@ -57,13 +60,20 @@ evidence:
        source code for the program, use the shared libwebsockets libraries, or
        link their program against a user-supplied version of libwebsockets"
     - "If the terms of the GNU Lesser General Public License could not be determined on the date of certification"
-    - "You should have received a copy of the GNU Lesser General Public License along with this library"
-# FIXME: check implications
-#    - "OCaml-LGPL-linking-exception" # SPDX identifier standalone matches LGPL (undefined)
-#    - "Qt-LGPL-exception-1.1" # SPDX identifier standalone matches LGPL (undefined)
+    - "OCaml-LGPL-linking-exception" # SPDX identifier standalone matches LGPL (undefined)
+    - "Qt-LGPL-exception-1.1" # SPDX identifier standalone matches LGPL (undefined)
 
 # MASKS USE CASE: explanatory, but non-binding association
 masks:
   matches:
     - "The implementation is inspired by terralib http://www.terralib.org (LGPL)"
     - "the complete text of the GNU Lesser General Public License can be found in usr share commonlicenses LGPL"
+
+references:
+  "LGPL":
+    matches:
+      - "You should have received a copy of the GNU Lesser General Public License along with this library"
+      - "If you copy code from files distributed under the terms of the GNU
+         General Public License or the GNU Lesser General Public License into a
+         copy of this library, as this license permits, the exception does not
+         apply to the code that you add in this way"

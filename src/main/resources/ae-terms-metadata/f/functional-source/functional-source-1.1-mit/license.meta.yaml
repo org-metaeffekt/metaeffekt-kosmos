@@ -9,6 +9,9 @@ otherIds:
 alternativeNames:
   - "Functional Source License, Version 1.1, MIT Future License"
 
+expectedMatches:
+  - "MIT License"
+
 evidence:
   matches:
     - "Subject to your compliance with this License Grant and the Patents,
@@ -36,18 +39,3 @@ evidence:
        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
        SOFTWARE."
-
-references:
-  "MIT":
-    matches:
-      - "# Functional Source License, Version 1.1, MIT Future License
-
-         ## Abbreviation
-
-         FSL-1.1-MIT
-
-         ## Notice"
-      - "We hereby irrevocably grant you an additional license to use the Software under
-         the MIT license that is effective on the second anniversary of the date we make
-         the Software available. On or after that date, you may use the Software under
-         the MIT license, in which case the following will apply"

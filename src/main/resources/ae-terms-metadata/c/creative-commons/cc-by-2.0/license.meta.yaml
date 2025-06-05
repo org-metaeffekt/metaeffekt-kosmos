@@ -10,7 +10,7 @@ canonicalNameHistory:
 
 requiresAnnexNotice: true
 
-# FIXME-RESEARCH: verify; propagate to other CC licenses#
+# Note: make sure to add these requirements to other CC licenses if appropriate.
 requiresLicenseText: false
 requiresCopyright: false
 requiresNote: true

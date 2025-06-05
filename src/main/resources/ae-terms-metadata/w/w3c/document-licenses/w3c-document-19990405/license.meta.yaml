@@ -1,0 +1,80 @@
+canonicalName: W3C Document License (1999-04-05)
+category: W3C Document Notice and License
+shortName: W3C-Document-Notice
+
+# FIXME-KKL: license text is not encoded in UTF-8 - causes error when opened in intellij;
+# canonical name derived from similar W3C Licenses that are called W3C Document Licenses
+
+canonicalNameHistory:
+  - "W3C Document Notice and License"
+
+otherIds:
+  - "scancode:w3c-docs-19990405"
+
+alternativeNames:
+  - "W3C® DOCUMENT NOTICE AND LICENSE"
+  - "W3C DOCUMENT NOTICE AND LICENSE"
+
+requiresCopyright: true
+missingCopyrightNotAllowed: true
+requiresLicenseText: true
+requiresNote: true
+noteChecklist:
+  - "If it exists, the STATUS of the W3C document"
+
+evidence:
+  matches:
+  - "Permission to use, copy, and distribute the contents of this document, or the W3C document from which this
+     statement is linked, in any medium for any purpose and without fee or royalty is hereby granted, provided that
+     you include the following on ALL copies of the document, or portions thereof, that you use"
+  excludes:
+    - "By obtaining, using and/or copying this document, or the W3C document from which this statement is linked, you agree that you have read, understood, and will comply with the following terms and conditions"
+
+licenseTemplate: "<lq>Permission to use, copy, and distribute the contents of this
+                   document, or the W3C document from which this statement is linked,
+                  in any medium for any purpose and without fee or royalty is hereby
+                   granted, provided that you include the following on ALL
+                  copies of the document, or portions thereof, that you use:
+                  <ol><li>A link or URL to the original W3C document.</li>
+                  <li>The pre-existing copyright notice of the original author, or if
+                   it doesn't exist, a notice of the form:
+                  \"Copyright © [$date-of-document] World Wide Web
+                   Consortium, (Massachusetts Institute of Technology, Institut National de Recherche
+                   en Informatique et en Automatique, Keio University). All Rights Reserved.
+                   http://www.w3.org/Consortium/Legal/\"
+                   (Hypertext is preferred, but a
+                   textual representation is permitted.)</li>
+                   <li>If it exists, the STATUS of the W3C document.</li>
+                   <li>When space permits, inclusion of the full text of this NOTICE
+                   should be provided. We request that authorship
+                   attribution be provided in any software, documents, or other items
+                   or products that you create pursuant to the implementation of the
+                   contents of this document, or any portion thereof.</li>
+                   <li>No right to create modifications or derivatives of W3C documents
+                   is granted pursuant to this license. However, if additional
+                   requirements (documented in the Copyright
+                   FAQ) are satisfied, the right to create modifications or
+                   derivatives is†sometimes granted by
+                   the W3C to individuals
+                   complying with those requirements.</li></ol>
+                   <codeph>THIS DOCUMENT IS PROVIDED \"AS IS,\" AND COPYRIGHT HOLDERS MAKE NO
+                   REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT
+                   NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+                   PARTICULAR PURPOSE, NON-INFRINGEMENT, OR TITLE; THAT THE CONTENTS
+                   OF THE DOCUMENT ARE SUITABLE FOR ANY PURPOSE; NOR THAT THE
+                   IMPLEMENTATION OF SUCH CONTENTS WILL NOT INFRINGE ANY THIRD PARTY
+                   PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+                   COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT,
+                   SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE
+                   DOCUMENT OR THE PERFORMANCE OR IMPLEMENTATION OF THE CONTENTS
+                   THEREOF.</codeph>
+                   <p>The name and trademarks of copyright holders may NOT be used in
+                   advertising or publicity pertaining to this document or its
+                   contents without specific, written prior permission. Title to
+                   copyright in this document will at all times remain with copyright
+                   holders.</p>
+                   Copyright © 1994-2001 World
+                   Wide Web Consortium, <a href=\"http://www.w3.org/\">World Wide Web Consortium</a>,
+                   (<a href=\"http://www.lcs.mit.edu/\">Massachusetts Institute of Technology</a>,
+                   <a href=\"http://www.inria.fr/\">Institut National de Recherche en Informatique et en Automatique</a>,
+                   <a href= \"http://www.keio.ac.jp/\">Keio University</a>). All Rights Reserved. http://www.w3.org/Consortium/Legal/</lq>"

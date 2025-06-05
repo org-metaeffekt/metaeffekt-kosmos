@@ -19,3 +19,19 @@ evidence:
     - "modified version of Section 11 of the Mozilla Public License to name
        venue for any disputes arising from license"
     - "under the terms of any subsequent version of the License published by Openbravo"
+
+references:
+  "GPL":
+    matches:
+      - "Alternatively, the contents of this file may be used under the
+         terms of the GNU Public License version 2 (the 'GPL'), in which
+         case the provisions of the GPL are applicable instead of the above"
+  "MPL":
+    matches:
+      - "The contents of this file are subject to the Mozilla Public License Version
+         1.1 (the 'License'); you may not use this file except in compliance with
+         the License"
+  "LGPL":
+    matches:
+      - "Alternatively, the contents of this file may be used under
+         the terms of the GNU Lesser General Public License Version 2.1 or later"

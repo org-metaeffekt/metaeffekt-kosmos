@@ -10,7 +10,7 @@ mappingOrder:
 
 mappings:
   # wrap in new line markers to satisfy boundary conditions
-  # FIXME: this has nothing to do with html-tags but needed to be applied before the tags, thus it landed here, change this when reorganizing mappings!
+  # FIXME-CONCEPT: this has nothing to do with html-tags but needed to be applied before the tags, thus it landed here, change this when reorganizing mappings!
   "^(.*)$": "NEWLINE-MARKER$1NEWLINE-MARKER"
 
   "<\\s*p\\s*>": " "

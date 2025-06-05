@@ -132,6 +132,7 @@ alternativeNames:
   - "The GNU Lesser General Public License, Versions 2.1 and 3"
   - "LGPL-3"
   - "https://www.gnu.org/licenses/lgpl-3.0.txt"
+  - "https://www.gnu.org/licenses/lgpl-3.0"
 
 evidence:
   matches:

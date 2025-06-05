@@ -11,10 +11,7 @@ otherIds:
 alternativeNames:
   - "Permission Terms (SL)"
 
-displayName: "Permission Terms (no advertising; no liability; no warranty)"
-representedAs: Permission Terms
-
-evidence: 
+evidence:
   matches:
     - "Permission to use, copy, modify, distribute, and sell this software
        and its documentation for any purpose is hereby granted without fee,
