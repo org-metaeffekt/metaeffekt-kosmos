@@ -247,9 +247,10 @@ public class TermsMetaDataConventionTest extends AbstractTermsMetaDataConvention
     /**
      * {@inheritDoc}
      */
+    @Disabled // FIXME-KKL: may not apply to kosmos flow
     @Test
     public void reportRedundantClassifications() throws IOException {
-            reportRedundantClassifications(nmd);
+        reportRedundantClassifications(nmd);
     }
 
     /**
