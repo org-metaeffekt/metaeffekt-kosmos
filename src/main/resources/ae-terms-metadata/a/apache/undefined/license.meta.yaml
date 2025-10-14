@@ -13,11 +13,15 @@ alternativeNames:
     - "Apache Software Licenses"
     - "Apache license"
     - "Apache Licence"
-    - "ASL"
+    # NOTE: ASL alone does not include sufficient context; yet we support it as alternativeShortName
+    # - "ASL"
     - "Apache Software Licensegradlew, Version 2.0"
     - "Apache Public License"
 #    - "This product includes software developed at The Apache Software Foundation" # this is not a licensing hint
 #    - "http://www.apache.org/licenses/" # this is not a licensing hint
+
+alternativeShortNames:
+    - "ASL"
 
 expressiveEvidence: true
 

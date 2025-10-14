@@ -19,6 +19,7 @@ evidence:
     - "As a condition of the copyright grant, you must include an attribution to the Specification in any derivative
        work you make based on the Specification"
     - "That attribution must include, at minimum, the Specification name and version number"
-
+  excludes:
+    - "If I do not join the Corresponding Working Group, I agree to offer patent licenses according to the W3C Royalty-Free licensing requirements described in Section 5 of the W3C Patent Policy for the portions of the Specification included in the resulting Recommendation"
 
 

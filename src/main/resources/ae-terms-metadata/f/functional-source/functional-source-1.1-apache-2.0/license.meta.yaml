@@ -9,6 +9,9 @@ otherIds:
 alternativeNames:
   - "Functional Source License, Version 1.1, Apache 2.0 Future License"
 
+expectedMatches:
+  - "Apache License 2.0"
+
 evidence:
   matches:
     - "Subject to your compliance with this License Grant and the Patents,
@@ -20,20 +23,17 @@ evidence:
        the date we make the Software available"
     - "On or after that date, you may use the Software under the Apache License, 
        Version 2.0, in which case the following will apply"
+  excludes:
+    - "We hereby irrevocably grant you an additional license to use the Software under
+       the Apache License, Version 2.0 that is effective on the fifth anniversary of
+       the date we make the Software available"
+    - "Bitcaster Source License, Version 1.1, Apache 2.0 Future License"
 
-# FIXME-DISCUSS: NKR: do we really want to handle "future" licenses like this? I believe that this should be handled with expectedMatches.
 references:
   "Apache License":
-    matches:
-      - "# Functional Source License, Version 1.1, Apache 2.0 Future License
+      matches:
+        - "# Functional Source License, Version 1.1, Apache 2.0 Future License
 
-         ## Abbreviation
+           ## Abbreviation
 
-         FSL-1.1-Apache-2.0
-         
-         # Notice"
-      - "We hereby irrevocably grant you an additional license to use the Software under
-         the Apache License, Version 2.0 that is effective on the second anniversary of
-         the date we make the Software available. On or after that date, you may use the
-         Software under the Apache License, Version 2.0, in which case the following
-         will apply"
+           FSL-1.1-Apache-2.0"

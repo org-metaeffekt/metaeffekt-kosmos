@@ -1,0 +1,19 @@
+canonicalName: Sun Solaris Source Code (Foundation Release) License 1.1
+category: Sun Solaris Source Code
+shortName: Sun-SSC-FR-1.1
+
+otherIds:
+  - "scancode:sun-ssscfr-1.1"
+
+alternativeNames:
+  - "http://www.mibsoftware.com/librock/librock/license/ssscfr.txt"
+  - "Sun Solaris Source Code (Foundation Release) License 1.1"
+
+evidence:
+  matches:
+    - "Grants to You a non-exclusive, worldwide and royalty-free license to the extent of
+       Original Contributor’s copyrights and trade secret rights in and covering the Reference
+       Code and Technology Specifications to do the following for Your Research Use only"
+    - "Reproduce and prepare derivative works of the Reference Code, in whole or in part,
+       alone or as part of Covered Code; and"
+    - "Reproduce and prepare derivative works of the Technology Specifications"

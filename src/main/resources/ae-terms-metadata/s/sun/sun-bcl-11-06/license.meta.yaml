@@ -1,9 +1,12 @@
-canonicalName: Sun Binary Code License 11-06
-category: Sun Binary
+canonicalName: Sun BCL 11-06
+category: Sun BCL
 shortName: Sun-BCL-11-06
 
 otherIds:
   - "scancode:sun-bcl-11-06"
+
+canonicalNameHistory:
+  - "Sun Binary Code License 11-06"
 
 evidence:
   matches:

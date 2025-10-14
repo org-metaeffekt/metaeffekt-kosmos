@@ -1,7 +1,9 @@
-# FIXME-IMPLEMENT: adjust case in canonical name; capitalize to Classpath (canonicalName, category, shortName); apply to all 'classpath Exception'-matches
-canonicalName: Oracle OpenJDK classpath Exception
-category: Oracle OpenJDK classpath Exception
-shortName: Oracle-OpenJDK-classpath-Exception
+canonicalName: Oracle OpenJDK Classpath Exception
+category: Oracle OpenJDK Classpath Exception
+shortName: Oracle-OpenJDK-Classpath-Exception
+
+canonicalNameHistory:
+  - "Oracle OpenJDK classpath Exception"
 
 type: exception
 
@@ -14,8 +16,8 @@ ignoreMatches:
   - "Linking Exception (independent module)"
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Oracle OpenJDK classpath Exception)"
-  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Oracle OpenJDK classpath Exception)"
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Oracle OpenJDK Classpath exception)"
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Oracle OpenJDK Classpath exception)"
 
 evidence:
   matches:

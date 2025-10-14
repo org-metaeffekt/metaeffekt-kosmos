@@ -13,6 +13,7 @@ alternativeNames:
 expectedMatches:
   - "BSD 3-Clause License (variant 020)"
   - "zlib License"
+  - "BSD 3-Clause License (copyright holder variant)"
 
 requiresCopyright: true
 requiresLicenseText: true

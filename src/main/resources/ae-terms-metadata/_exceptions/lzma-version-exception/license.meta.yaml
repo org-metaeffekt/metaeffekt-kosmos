@@ -1,0 +1,18 @@
+canonicalName: LZMA SDK Version Exception
+category: LZMA SDK Exception
+shortName: LZMA-SDK-Version-Exception
+
+type: exception
+
+#combinedWith:
+#  LZMA SDK Usage Exception: GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception
+
+evidence:
+  matches:
+    - "Igor Pavlov, as the author of this code, expressly permits
+       you to use this code under the same terms and conditions contained in the License
+       Agreement you have for any previous version of LZMA SDK developed by Igor Pavlov"
+    - "allows owners of proprietary licenses to use latest version
+       of LZMA SDK as update for previous versions"
+
+

@@ -6,6 +6,10 @@ representedAs: Apache License 2.0 (with exceptions)
 
 spdxExpression: "[Apache License 2.0] WITH [LLVM Exception (Apache)]"
 
+# FIXME-CONCEPT: this could be derived from the spdxExpression
+alternativeShortNames:
+  - "Apache-2.0 WITH LLVM-Exception"
+
 type: expression
 
 canonicalNameHistory:

@@ -1,9 +1,12 @@
-canonicalName: X11-Style (Stanford University)
-category: X11-Style (Stanford University)
-shortName: X11-stanford
+canonicalName: X11 License (Stanford University)
+category: X11
+shortName: X11-Stanford
 
 otherIds:
   - "scancode:x11-stanford"
+
+canonicalNameHistory:
+  - "X11-Style (Stanford University)"
 
 alternativeNames:
   - "X11-Style (Stanford University)"

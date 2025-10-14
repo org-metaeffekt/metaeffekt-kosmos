@@ -1,0 +1,26 @@
+canonicalName: Opensecurity Exception (Business Source License 1.1)
+category: Opensecurity Exception
+shortName: Opensecurity-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "Opensecurity Additional Use Grant for BSL 1.1"
+  - "Opensecurity additional use grant for BSL"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Opensecurity Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "may make production use of the Licensed Work, provided
+      your use does not include offering the Licensed Work to third
+      parties on a hosted or embedded basis in order to compete with
+      Open Governance's paid version(s) of the Licensed Work"
+
+references:
+  "MPL":
+    matches:
+      - "Change Date:          Four years after the Licensed Work’s publication, starting from November 1, 2024
+        (meaning the earliest date of conversion would be November 1, 2028).
+        Change License:       MPL 2.0"

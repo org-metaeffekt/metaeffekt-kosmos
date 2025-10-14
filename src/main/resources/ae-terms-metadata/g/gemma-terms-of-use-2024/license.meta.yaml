@@ -1,0 +1,23 @@
+canonicalName: Gemma Terms of Use (April 2024)
+category: Gemma ToU
+shortName: Gemma-ToU-2024
+
+requiresCopyright: false
+requiresLicenseText: false
+
+otherIds:
+  - "scancode:gemma-tou-2024-04-01"
+
+alternativeNames:
+  - "Gemma Terms of Use Last modified: April 1, 2024"
+  - "Gemma ToU April 2024"
+
+evidence:
+  matches:
+    - "You represent and warrant that you have the legal capacity to enter into this Agreement"
+    - "You may use, reproduce, modify, Distribute, perform or display any of the Gemma Services only in accordance with the terms of this Agreement, and must not violate (or encourage or permit anyone else to violate) any term of this Agreement"
+    - "You must include the use restrictions referenced in Section 3.2 as an enforceable provision in any agreement"
+    - "You must provide all third party recipients of Gemma or Model Derivatives a copy of this Agreement"
+    - "You must cause any modified files to carry prominent notices stating that you modified the files"
+    - "You may add your own intellectual property statement to your modifications and, except as set forth in this Section, may provide additional or different terms and conditions for use, reproduction, or Distribution of your modifications, or for any such Model Derivatives as a whole, provided your use, reproduction, modification, Distribution, performance, and display of Gemma otherwise complies with the terms and conditions of this Agreement"
+    - "means the set of machine learning language models, trained model weights and parameters identified at ai.google.dev/gemma"

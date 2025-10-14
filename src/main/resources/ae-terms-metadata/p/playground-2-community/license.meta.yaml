@@ -1,0 +1,20 @@
+canonicalName: Playground 2.0 Community License
+category: Playground Community
+shortName: Playground-2.0-Community
+
+otherIds:
+  - "scancode:playground-v2-community"
+
+alternativeNames:
+  - "Playground v2 Community License"
+  - "Playground 2 Community License"
+
+evidence:
+  matches:
+    - "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Playground’s intellectual property or other rights owned by Playground embodied in the Playground Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the Playground Materials"
+    - "Subject to the restrictions herein, this permissive license is available for free for research and commercial use"
+    - "If you distribute or make the Playground Materials, or any derivative works thereof, available to any third party, you shall provide a copy of this Agreement to such third party"
+    - "If you receive Playground Materials, or any derivative works thereof, from an authorized Licensee as part of an integrated end user product, then Section 2 of this Agreement will not apply to you"
+    - "You must retain in all copies of the Playground Materials that you distribute the following attribution notice within a “Notice” text file distributed as a part of such copies"
+    - "Your use of the Playground Materials must comply with applicable laws and regulations (including trade compliance laws and regulations) and adhere to the Use Restrictions set forth in Attachment A"
+    - "You will not use the Playground Materials or any output or results of the Playground Materials to improve any other text-to-image generative model"

@@ -9,6 +9,9 @@ alternativeNames:
   - "Fair Core License, Version 1.0, Apache 2.0 Future License"
   - "Fair Core License, Version 1.0, ALv2 Future License"
 
+expectedMatches:
+  - "Apache License 2.0"
+
 evidence:
   matches:
     - "Subject to your compliance with this License Grant and the Limitations,

@@ -1,0 +1,43 @@
+canonicalName: Microsoft TypeScript SDK License
+category: Microsoft TypeScript SDK
+shortName: MS-TypeScript-SDK
+
+otherIds:
+  - "scancode:ms-typescript-msbuild-4.1.4"
+
+canonicalNameHistory:
+  - "Microsoft Software License (TypeScript MSBuild 4.1.4)"
+
+evidence:
+  matches:
+    - "You may copy and install these Utilities, if 
+       included with the software, onto devices to debug and deploy your applications and databases 
+       you developed with the software"
+    - "Please note that Utilities are designed for temporary use, that 
+       Microsoft may not be able to patch or update Utilities separately from the rest of the software, 
+       and that some Utilities by their nature may make it possible for others to access devices on which 
+       the Utilities are installed"
+    - "The software may include components from Microsoft Windows"
+    - "The software may include third party components with separate 
+       legal notices or governed by other agreements, as may be described in the ThirdPartyNotices 
+       file(s) accompanying the software"
+    - "You may opt-out of many of these scenarios, but not all, as described 
+       in the product documentation"
+    - "To the extent Microsoft is a processor or subprocessor of 
+       personal data in connection with the software, Microsoft makes the commitments in the 
+       European Union General Data Protection Regulation Terms of the Online Services Terms to all 
+       customers effective May 25, 2018"
+    - "You must comply with all domestic and international export laws and 
+       regulations that apply to the software, which include restrictions on destinations, end users and end 
+       use"
+    - "This agreement, and the terms for supplements, updates, Internet-based 
+       services and support services that you use, are the entire agreement for the software and support 
+       services"
+    - "If you acquired the software in the United States, Washington law applies to 
+       interpretation of and claims for breach of this agreement, and the laws of the state where you live 
+       apply to all other claims"
+    - "This limitation applies to (a) anything related to the software, services, content (including code) on 
+       third party Internet sites, or third party applications"
+    - "It also applies even if Microsoft knew or should have known about the possibility of the damages"
+  excludes:
+    - "The software may include build tools which have specific use terms"

@@ -14,7 +14,7 @@ alternativeNames:
   - "EGENIX.COM PUBLIC LICENSE AGREEMENT"
 
 references:
-  "Python Software Foundation License":
+  "CNRI":
     matches:
       - "This license agreement is based on the Python CNRI License Agreement,
          a widely accepted open- source license"

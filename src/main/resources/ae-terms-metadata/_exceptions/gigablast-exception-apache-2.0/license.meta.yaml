@@ -1,0 +1,18 @@
+canonicalName: Gigablast Exception (Apache 2.0)
+category: Gigablast Exception
+shortName: Gigablast-Exception-Apache-2.0
+
+type: exception
+
+otherIds:
+  - "scancode:gigablast-apache-2.0-exception"
+
+combinedWith:
+  Apache License 2.0: Apache License 2.0 (with Gigablast Exception (Apache 2.0))
+evidence:
+  matches:
+    - "The SEO (Search Engine Optimiazation) functionality is provided in a separate 
+    file named \"seo.cpp\", and is not included in this license"
+    - "Likewise, the Event datamining logic is in Events.cpp and must be separately licensed 
+    as well"
+    - "The companies ElasticSearch BV, LucidWorks and their subsidiaries or affiliates are excluded from this license"

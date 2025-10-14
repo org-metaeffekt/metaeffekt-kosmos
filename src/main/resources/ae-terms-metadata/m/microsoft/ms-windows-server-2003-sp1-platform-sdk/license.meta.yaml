@@ -1,0 +1,18 @@
+canonicalName: Microsoft Windows Server 2003 SP1 Platform SDK License
+category: Microsoft Windows Server 2003 SP1 Platform SDK
+shortName: MS-Win-Server-2003-SP1-SDK
+
+otherIds:
+  - "scancode:ms-windows-server-2003-sdk"
+
+alternativeNames:
+  - "Microsoft Windows Server 2003 SP1 Platform SDK License"
+
+evidence:
+  matches:
+    - "You may install the software on any number of devices to design, develop and test your
+       programs that run on a Microsoft Windows operating system"
+    - "The software contains other Microsoft programs"
+    - "The license terms with those programs apply to your use of them"
+    - "The software contains code that you are permitted to copy and distribute in programs
+       you develop if you comply with the terms below"

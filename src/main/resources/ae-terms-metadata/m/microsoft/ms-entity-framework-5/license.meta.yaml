@@ -1,6 +1,9 @@
-canonicalName: MS Entity Framework 5 License
-category: MS Entity Framework 5 License
-shortName: ms-entity-framework-5
+canonicalName: Microsoft Entity Framework 5 License
+category: Microsoft Entity Framework
+shortName: MS-Entity-Framework-5
+
+canonicalNameHistory:
+  - "MS Entity Framework 5 License"
 
 otherIds:
   - "scancode:ms-entity-framework-5"

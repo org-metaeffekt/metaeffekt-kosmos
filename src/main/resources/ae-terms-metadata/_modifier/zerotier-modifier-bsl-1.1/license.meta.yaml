@@ -1,0 +1,42 @@
+canonicalName: ZeroTier Modifier (Business Source License 1.1)
+category: ZeroTier Modifier
+shortName: ZeroTier-Modifier-Business-Source-1.1
+
+type: modifier
+
+classification: restriction
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with ZeroTier Modifier (Business Source License 1.1))
+
+alternativeNames:
+  - "ZeroTier additional use grant for BSL"
+  - "zerotier additional use grant for BSL"
+  - "ZeroTier NetworkVirtualization Engine additional use grant"
+
+evidence:
+  matches:
+    - "You may make use of the Licensed Work, provided you
+      do not use it in any of the following ways"
+    - "Operate or sell access to ZeroTier root servers,
+      network controllers, or authorization key or certificate
+      generation components of the Licensed Work as a
+      for-profit service, regardless of whether the use of
+      these components is sold alone or is bundled with other
+      services"
+    - "Link or directly include the Licensed Work in a
+      commercial or for-profit application or other product
+      not distributed under an Open Source Initiative (OSI)
+      compliant license"
+    - "Use or deploy the Licensed Work in a government
+      setting in support of any active government function
+      or operation with the exception of the following"
+
+references:
+  "Apache License":
+    matches:
+      - "Change Date:          2026-01-01
+
+        Change License:       Apache License version 2.0 as published by the Apache
+        Software Foundation
+        https://www.apache.org/licenses/"

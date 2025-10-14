@@ -2,11 +2,20 @@ canonicalName: Xerox License
 category: Xerox
 spdxIdentifier: Xerox
 
+otherIds:
+  - "scancode:mit-export-control"
+
+# there used to be a seperate license categorised as MIT called "MIT (export control)" which was identical to this one (except for the placeholders). Since it was no real MIT License it was merged into one.
+canonicalNameHistory:
+  - "MIT (export control)"
+  - "MIT with Export Control"
+
 alternativeNames:
   - "https://spdx.org/licenses/xerox"
   - "Xerox License"
   - "XEROX LICENSE"
   - "XEROX License"
+  - "mit-export-control"
 
 evidence:
   matches:

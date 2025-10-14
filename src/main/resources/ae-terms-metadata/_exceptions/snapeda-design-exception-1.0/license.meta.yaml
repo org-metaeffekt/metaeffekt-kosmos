@@ -17,3 +17,9 @@ evidence:
     - "You may then convey such combinations under terms of your choice, and are not required to attribute SnapEDA as the
        source, even if such actions would otherwise violate the terms of the Creative Commons License"
     - "For clarity, any files shared publicly containing Design Files are still subject to the Site License restriction of 5.1.(g)"
+
+references:
+  "CC":
+    matches:
+      - "You may then convey such combinations under terms of your choice, and are not required to attribute SnapEDA as 
+         the source, even if such actions would otherwise violate the terms of the Creative Commons License."

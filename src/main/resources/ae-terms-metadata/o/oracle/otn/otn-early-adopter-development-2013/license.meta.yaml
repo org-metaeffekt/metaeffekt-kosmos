@@ -1,0 +1,31 @@
+canonicalName: Oracle Technology Network Early Adopter Development License 2013
+category: OTN Early Adopter Development
+shortName: OTN-Early-Adopter-Dev-2013
+
+otherIds:
+  - "scancode:otn-early-adopter-development"
+
+canonicalNameHistory:
+  - "OTN Early Adopter Development License Agreement"
+
+alternativeNames:
+  - "otn-early-adopter-development"
+  - "Oracle Technology Network Early Adopter Development 2013 License"
+
+evidence:
+  matches:
+    - "You will not download, provide, make available or otherwise export or re-export the Oracle Technology, directly or indirectly,
+       to countries prohibited by applicable laws and regulations nor to citizens, nationals or residents of those countries"
+    - "You are not listed on the United States Department of Treasury lists of Specially Designated Nationals and Blocked Persons,
+       Specially Designated Terrorists, and Specially Designated Narcotic Traffickers, nor are you listed on the United States Department of Commerce Table of Denial Orders"
+    - "You will not download or otherwise export or re-export the Oracle Technology, directly or indirectly, to persons on the above mentioned lists"
+    - "You will not use the Oracle Technology for, and will not allow the Oracle Technology to be used for, any purposes prohibited by applicable law,
+       including, without limitation, for the development, design, manufacture or production of nuclear, chemical or biological weapons of mass destruction"
+    - "Oracle Employees: Under no circumstances are Oracle Employees authorized to download software for the purpose of distributing it to customers"
+    - "Oracle products are available to employees for internal use or demonstration purposes only"
+    - "In keeping with Oracle's trade compliance obligations under U.S. and applicable multilateral law, failure to comply with this policy could result in disciplinary action up to and including termination"
+
+references:
+  "Public Domain":
+    matches:
+      - "Oracle Confidential Information shall not include information which:*{.{0,6}}* is or becomes a part of the public domain through no act or omission of the other party"

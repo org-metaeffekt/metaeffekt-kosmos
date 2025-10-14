@@ -1,9 +1,12 @@
-canonicalName: Microsoft Windows SDK for Windows 7 and .NET Framework 4
-category: Microsoft Windows SDK for Windows 7 and .NET Framework
-shortName: MS-Windows-SDK-Win7-NET-4
+canonicalName: Microsoft Windows SDK License (for Windows 7 and .NET Framework 4)
+category: Microsoft Windows SDK
+shortName: MS-Win-SDK-Win7-NET-4
 
 otherIds:
   - "scancode:ms-windows-sdk-win7-net-4"
+
+canonicalNameHistory:
+  - "Microsoft Windows SDK for Windows 7 and .NET Framework 4"
 
 alternativeNames:
   - "Microsoft Windows SDK for Windows 7 and .NET Framework 4"

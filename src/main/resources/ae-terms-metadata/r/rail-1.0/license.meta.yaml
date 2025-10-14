@@ -29,7 +29,7 @@ evidence:
     - "This restriction applies regardless of the AI's purpose or intended application"
 
 references:
-  "MIT License":
+  "MIT":
     matches:
       - "Add extra information in the textual license file, to be created if not present, as
          defined below. If the extra information about the license to extend is omitted,

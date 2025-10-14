@@ -6,7 +6,12 @@ otherIds:
   - "scancode:apple-excl"
 
 alternativeNames:
+  - "Apple Example Code License"
   - "apple-excl"
+  - "Apple-ExCL"
+  - "Apple OpenEML License"
+  - "Apple-Open-EML License"
+  - "apple-sample-code-license"
 
 evidence:
   matches:

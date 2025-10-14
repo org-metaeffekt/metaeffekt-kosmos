@@ -1,0 +1,27 @@
+canonicalName: S-Lab License 1.0
+category: S-Lab
+shortName: S-Lab-1.0
+
+# NOTE: this is NOT a BSD license! it is only for non-commercial purposes.
+
+otherIds:
+  - "scancode:s-lab-1.0"
+
+alternativeNames:
+  - "S Lab License 1.0"
+  - "S-Lab v1.0"
+
+evidence:
+  matches:
+    - "Redistribution and use for non-commercial purpose in source and 
+      binary forms, with or without modification, are permitted provided 
+      that the following conditions are met"
+    - "Redistributions of source code must retain the above copyright 
+      notice, this list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright 
+       notice, this list of conditions and the following disclaimer in 
+       the documentation and/or other materials provided with the 
+       distribution"
+    - "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 
+      \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES"
+

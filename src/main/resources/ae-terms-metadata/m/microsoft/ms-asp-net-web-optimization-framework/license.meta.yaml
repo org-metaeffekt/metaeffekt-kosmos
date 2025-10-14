@@ -1,6 +1,9 @@
-canonicalName: Microsoft Software License (ASP.NET Web Optimization Framework)
-category: Microsoft Software
+canonicalName: Microsoft ASP.NET Web Optimization Framework License
+category: Microsoft ASP.NET Web Optimization Framework
 shortName: MS-ASP-NET-Web-Optimization-Framework
+
+canonicalNameHistory:
+  - "Microsoft Software License (ASP.NET Web Optimization Framework)"
 
 otherIds:
   - "scancode:ms-asp-net-web-optimization-framework"

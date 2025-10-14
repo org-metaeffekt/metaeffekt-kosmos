@@ -1,0 +1,24 @@
+canonicalName: Microsoft Developer Agreement 2013
+category: Microsoft Developer Agreement
+shortName: MS-Developer-Agreement-2013
+
+canonicalNameHistory:
+  - "Microsoft Developer Agreement"
+
+otherIds:
+  - "scancode:ms-developer-services-agreement"
+
+alternativeNames:
+  - "Microsoft Developer Services Agreement Updated October, 2013"
+
+evidence:
+  matches:
+    - "This agreement is between you or the entity you represent and the Microsoft entity listed in Exhibit A, and consists of the terms below, Exhibit A, Exhibit B, the SLAs, Offer Details for any Service as published on the date of a Service purchase or renewal, terms incorporated by reference, terms applicable to other Microsoft web sites and services that you use and are necessary to use the Services (for example, your Microsoft Account) and, the Privacy Statement"
+    - "We grant you the right to access and use the Services in accordance with this Agreement"
+    - "reverse engineer, decompile, disassemble or work around technical limitations in the Services, except to the extent that applicable law permits it despite these limitations"
+    - "We may make features available on a Preview basis"
+    - "Microsoft may provide you with Microsoft Software through or as a part of the Developer Services"
+    - "You are solely responsible for any third party software that you install, connect, or use with any Service"
+    - "All Microsoft Content is the copyrighted work of Microsoft or its suppliers, and is governed by the terms of the license agreement that accompanies or is included with the Microsoft Content"
+  excludes:
+    - "Your access and use of Microsoft’s APIs are governed by certain terms and conditions"

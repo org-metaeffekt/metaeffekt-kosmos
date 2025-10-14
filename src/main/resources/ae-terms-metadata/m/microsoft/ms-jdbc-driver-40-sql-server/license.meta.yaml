@@ -1,6 +1,9 @@
-canonicalName: Microsoft Software License (JDBC Driver 4.0 for SQL Server)
-category: Microsoft Software
+canonicalName: Microsoft JDBC Driver 4.0 for SQL Server License
+category: Microsoft JDBC Driver
 shortName: MS-JDBC-Driver-4.0-SQL-Server
+
+canonicalNameHistory:
+  - "Microsoft Software License (JDBC Driver 4.0 for SQL Server)"
 
 otherIds:
   - "scancode:ms-jdbc-driver-40-sql-server"

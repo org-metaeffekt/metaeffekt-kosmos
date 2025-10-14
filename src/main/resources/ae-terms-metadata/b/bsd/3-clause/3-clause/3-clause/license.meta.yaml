@@ -170,7 +170,7 @@ evidence:
        for internal purposes and shall not be redistributed to any third party or
        modified in any way"
     - "VTK is an open-source toolkit licensed under the BSD license"
-    # FIXME-concept: what if we exclude somthing, that is not fully matched; can we ensure that this produces a partial match?
+    # FIXME-CONCEPT: what if we exclude something, that is not fully matched; can we ensure that this produces a partial match?
     - "This code is derived from software contributed to Berkeley by Keith Muller of the University of California, San Diego"
     - "For every twenty-thousand (20000) units distributed, one (1) or more persons affiliated with the entity must be recorded performing the full Chicken Dance"
 

@@ -36,4 +36,11 @@ references:
        licenses identified on the creativecommons.org website as of January 9,
        2013, including the Public License Fallback of the CC0 waiver, satisfy these
        requirements for the purposes of this license"
+  "CC":
+    matches:
+      - "All licenses certified by the Open Source
+         Initiative at opensource.org as of January 9, 2013 and all Creative Commons
+         licenses identified on the creativecommons.org website as of January 9,
+         2013, including the Public License Fallback of the CC0 waiver, satisfy these
+         requirements for the purposes of this license"
 

@@ -1,0 +1,33 @@
+canonicalName: Directus Exception (Business Source License 1.1)
+category: Directus Exception
+shortName: Directus-Exception-Business-Source-1.1
+
+type: exception
+
+canonicalNameHistory:
+  - "Directus Modifier (Business Source License 1.1)"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Directus Exception (Business Source License 1.1))
+
+alternativeNames:
+  - "directus additional use grant for BSL"
+  - "Directus additional use grant for BSL"
+  - "Directus Exception"
+  - "Directus additional use grant"
+
+evidence:
+  matches:
+    - "You may use the Licensed Work in production as long as
+      your Total Finances do not exceed US $5,000,000 for the
+      most recent 12-month period, provided that Monospace, Inc.
+      will not be liable to you in any way, including for any
+      damages, including general, special, incidental or
+      consequential damages, arising out of such use"
+
+references:
+  "GPL":
+    matches:
+      - "Change Date:          Three years from release date
+
+        Change License:       GNU General Public License (GPL) v3"

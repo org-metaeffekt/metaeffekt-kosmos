@@ -1,9 +1,12 @@
-canonicalName: Sun Binary Code License J2RE 1.4.X
-category: Sun Binary
+canonicalName: Sun BCL J2RE 1.4.X
+category: Sun BCL J2RE
 shortName: Sun-BCL-J2RE-1.4.X
 
 otherIds:
   - "scancode:sun-bcl-j2re-1.4.x"
+
+canonicalNameHistory:
+  - "Sun Binary Code License J2RE 1.4.X"
 
 evidence:
   matches:

@@ -8,16 +8,24 @@ otherIds:
 alternativeNames:
   - "wxWindows Restricted Licence, Version 3"
 
-# FIXME-IMPLEMENT: adjust modelling to relevant parts
+# FIXME-DISCUSS: can this be considered to be its own unique license? Seems like an exception to me. Shouldn't the LGPL be an expectedMatch (or combined with if this is considered an exception) instead of a reference?
 evidence:
   matches:
     - "Everyone is permitted to copy and distribute verbatim copies
        of this licence document, but changing it is not allowed"
+    - "As a special exception, the copyright holders of this library give
+         permission for additional uses of the text contained in this release of
+         the library as licenced under the wxWindows Restricted Licence, applying
+         either version 3 of the Licence, or (at your option) any later version of
+         the Licence as published by the copyright holders of version
+         3 of the Licence document"
     - "without any restrictions placed on such modifications, and create binary object
        code versions of such works based on the Library, and you may use, copy,
        link, modify and distribute such binary object code versions of works
        based on the Library as if licenced to you under the wxWindows
        Unrestricted Licence; either version 3 or (at your option) any later version"
+    - "If you write modifications of your own for this library, it is your
+         choice whether to permit this exception to apply to your modifications"
 
 references:
   "LGPL":

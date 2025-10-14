@@ -1,9 +1,12 @@
-canonicalName: Oracle Technology Network Java SE License Agreement
-category: OTN
+canonicalName: Oracle Technology Network Java SE License
+category: OTN Java SE
 shortName: OTN-JavaSE
 
 otherIds:
   - "scancode:oracle-otn-javase-2019"
+
+canonicalNameHistory:
+  - "Oracle Technology Network Java SE License Agreement"
 
 alternativeNames:
   - "Oracle Technology Network License Agreement for Oracle Java SE"

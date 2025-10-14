@@ -50,7 +50,7 @@ evidence:
         - "view*{.{0,3}}* and opinion*{.{0,3}}* of author*{.{0,3}}* expressed"
     # currently needed because capitalization matters during matching - 28.02.2024
     - matches:
-        - "VIEW{.{0,3}}* AND OPINION{.{0,3}}* OF AUTHOR{.{0,3}}* EXPRESSED HEREIN"
+        - "VIEW*{.{0,3}}* AND OPINION*{.{0,3}}* OF AUTHOR*{.{0,3}}* EXPRESSED HEREIN"
     - matches:
         - "It is our belief that applications using these protocols to manage or control an *{.{4,20}}* instance do not 
            have to be licensed under the GPL or a compatible license"

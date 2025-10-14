@@ -1,9 +1,12 @@
-canonicalName: Microsoft Software License (Visual Studio Code 2022)
-category: Microsoft Software
-shortName: MS-Visual-Studio-Code-2022
+canonicalName: Microsoft Visual Studio Code 2022 License
+category: Microsoft Visual Studio Code
+shortName: MS-VS-Code-2022
 
 otherIds:
   - "scancode:ms-visual-studio-code-2022"
+
+canonicalNameHistory:
+  - "Microsoft Software License (Visual Studio Code 2022)"
 
 evidence:
   matches:

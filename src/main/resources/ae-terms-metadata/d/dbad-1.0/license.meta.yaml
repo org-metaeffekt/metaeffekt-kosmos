@@ -1,6 +1,10 @@
-canonicalName: Don't Be a Dick Public License 1.0
-category: Don't Be a Dick Public License
+# NOTE: Don't Be a Dick Public License 1.0 --> DBAD Public License 1.0
+canonicalName: DBAD Public License 1.0
+category: DBAD
 shortName: DBaD-1.0
+
+canonicalNameHistory:
+  - "Don't Be a Dick Public License 1.0"
 
 otherIds:
   - "scancode:dbad"

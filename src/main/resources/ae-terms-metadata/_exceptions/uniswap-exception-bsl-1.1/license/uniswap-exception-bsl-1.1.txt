@@ -1,0 +1,14 @@
+Parameters
+
+Licensor:             Universal Navigation Inc.
+
+Licensed Work:        Uniswap V4 Core
+                      The Licensed Work is (c) 2023 Universal Navigation Inc.
+
+Additional Use Grant: Any uses listed and defined at
+                      v4-core-license-grants.uniswap.eth
+
+Change Date:          The earlier of 2027-06-15 or a date specified at
+                      v4-core-license-date.uniswap.eth
+
+Change License:       MIT License

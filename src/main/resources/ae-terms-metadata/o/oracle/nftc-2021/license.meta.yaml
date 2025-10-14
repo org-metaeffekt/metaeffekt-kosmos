@@ -9,8 +9,6 @@ alternativeNames:
   - "Oracle No-Fee Terms and Conditions (NFTC) 2021"
   - "Oracle No-Fee Terms and Conditions (NFTC)"
 
-# FIXME-IMPLEMENT: contains audit requirements; how do we want to flag these? New Marker? --> Telemetry Marker
-
 evidence:
   matches:
     - "You do not remove markings or notices of either Oracle's or a licensor's proprietary rights from the Programs

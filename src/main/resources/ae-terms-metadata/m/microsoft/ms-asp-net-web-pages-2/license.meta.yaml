@@ -1,12 +1,12 @@
-canonicalName: Microsoft Software License (ASP.NET Web Pages 2)
-category: Microsoft Software
+canonicalName: Microsoft ASP.NET Web Pages 2 License
+category: Microsoft ASP.NET Web Pages
 shortName: MS-Software-ASP-NET-Web-Pages-2
+
+canonicalNameHistory:
+  - "Microsoft Software License (ASP.NET Web Pages 2)"
 
 otherIds:
   - "scancode:ms-asp-net-web-pages-2"
-
-canonicalNameHistory:
-  - "Microsoft ASP.NET Web Pages 2 License"
 
 alternativeNames:
   - "Microsoft ASP.NET Web Pages 2 License"

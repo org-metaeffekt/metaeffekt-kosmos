@@ -1,0 +1,25 @@
+canonicalName: immudb Exception (Business Source License 1.1)
+category: immudb Exception
+shortName: immudb-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "immudb Additional Use Grant for BSL 1.1"
+  - "immudb additional use grant for BSL"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with immudb Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "You may make production use of the Licensed Work, provided
+      Your use does not include offering the Licensed Work to third
+      parties on a hosted or embedded basis in order to compete with 
+      Codenotary's paid version(s) of the Licensed Work"
+
+references:
+  "Apache License":
+    matches:
+      - "Change Date:          Four years from the date the Licensed Work is published.
+        Change License:       Apache 2.0"

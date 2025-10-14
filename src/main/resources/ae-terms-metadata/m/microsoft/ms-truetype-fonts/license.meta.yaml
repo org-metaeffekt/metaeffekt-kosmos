@@ -1,0 +1,27 @@
+canonicalName: Microsoft TrueType Fonts EULA
+category: Microsoft TrueType Fonts
+shortName: MS-TrueType-Fonts-EULA
+
+otherIds:
+  - "scancode:ms-ttf-eula"
+
+alternativeNames:
+  - "Microsoft TrueType Fonts EULA"
+
+evidence:
+  matches:
+    - "You may install and use an unlimited number of copies of the SOFTWARE PRODUCT"
+    - "You may reproduce and distribute an unlimited number of copies of the SOFTWARE PRODUCT;
+       provided that each copy shall be a true and complete copy, including all copyright and
+       trademark notices, and shall be accompanied by a copy of this EULA"
+    - "Copies of the SOFTWARE PRODUCT may not be distributed for profit either on a standalone
+       basis or included as part of your own product"
+    - "You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and
+       only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation"
+    - "You may not rename, edit or create any derivative works from the SOFTWARE PRODUCT,
+       other than subsetting when embedding them in documents"
+    - "You may permanently transfer all of your rights under this EULA, provided the
+       recipient agrees to the terms of this EULA"
+    - "Without prejudice to any other rights, Microsoft may terminate this EULA if you fail to comply
+       with the terms and conditions of this EULA"
+    - "In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts"

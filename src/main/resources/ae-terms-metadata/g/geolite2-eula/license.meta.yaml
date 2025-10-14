@@ -26,3 +26,8 @@ references:
       - "The following policies are incorporated into this Agreement by reference and provide additional terms and conditions incorporated herein by this reference and/or related to the use of the Website:
 
          Creative Commons Corporation Attribution-ShareAlike 4.0 International License (the “Creative Commons License”)"
+  "CC":
+    matches:
+      - "The following policies are incorporated into this Agreement by reference and provide additional terms and conditions incorporated herein by this reference and/or related to the use of the Website:
+
+         Creative Commons Corporation Attribution-ShareAlike 4.0 International License (the “Creative Commons License”)"

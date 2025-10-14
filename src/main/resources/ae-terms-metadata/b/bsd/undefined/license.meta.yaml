@@ -11,6 +11,7 @@ requiresLicenseText: false
 
 canonicalNameHistory:
   - "BSD alike"
+  - "BSD 3-Clause License (other)"
 
 alternativeNames:
   - "The license can be found at /usr/share/common-licenses/BSD"

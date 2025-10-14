@@ -1,5 +1,5 @@
-canonicalName: X11-Style (X Consortium Veillard)
-category: X11-Syle
+canonicalName: X11 License (X Consortium Veillard)
+category: X11
 shortName: X11-X-Consortium-Veillard
 
 otherIds:
@@ -12,7 +12,7 @@ alternativeNames:
   - "X11 License (X Consortium Veillard)"
 
 canonicalNameHistory:
-  - "X11 License (X Consortium Veillard)"
+  - "X11-Style (X Consortium Veillard)"
 
 evidence:
   matches:

@@ -1,9 +1,12 @@
-canonicalName: Microsoft Visual Studio 2015 Software Development Kit License
-category: Microsoft Visual Studio 2015 Software Development Kit License
-shortName: ms-visual-2015-sdk
+canonicalName: Microsoft Visual Studio 2015 SDK License
+category: Microsoft Visual Studio SDK
+shortName: MS-VS-2015-SDK
 
 otherIds:
   - "scancode:ms-visual-2015-sdk"
+
+canonicalNameHistory:
+  - "Microsoft Visual Studio 2015 Software Development Kit License"
 
 alternativeNames:
   - "Microsoft Visual Studio 2015 Software Development Kit License"

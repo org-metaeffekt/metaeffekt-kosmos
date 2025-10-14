@@ -1,6 +1,9 @@
-canonicalName: Microsoft Software License (.NET Library 2016-05)
-category: Microsoft Software
+canonicalName: Microsoft .NET Library License 2016-05
+category: Microsoft .NET Library
 shortName: MS-NET-Library-2016-05
+
+canonicalNameHistory:
+  - "Microsoft Software License (.NET Library 2016-05)"
 
 otherIds:
   - "scancode:ms-net-library-2016-05"

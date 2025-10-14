@@ -2,6 +2,9 @@ canonicalName: ISC License (Veillard)
 category: Permission
 spdxIdentifier: ISC-Veillard
 
+# FIXME-DISCUSS: how should this be categorised? As ISC License or Permission Terms?
+# NKR: this should be Permission Terms
+
 status:
   - "reviewed 25.01.2024"
 

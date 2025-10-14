@@ -1,6 +1,9 @@
-canonicalName: Microsoft Contribution License Agreement (CLA)
-category: Microsoft Contribution License Agreement (CLA)
+canonicalName: Microsoft Contribution License Agreement
+category: Microsoft Contribution
 shortName: MS-CLA
+
+canonicalNameHistory:
+  - "Microsoft Contribution License Agreement (CLA)"
 
 otherIds:
   - "scancode:ms-cla"

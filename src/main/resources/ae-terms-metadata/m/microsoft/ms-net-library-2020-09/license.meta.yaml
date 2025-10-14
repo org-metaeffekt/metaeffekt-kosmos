@@ -1,9 +1,9 @@
-canonicalName: Microsoft Software License (.NET Library License 2020-09)
-category: Microsoft .NET Library License
+canonicalName: Microsoft .NET Library License 2020-09
+category: Microsoft .NET Library
 shortName: MS-Net-Library-2020-09
 
 canonicalNameHistory:
-  - "Microsoft .NET Library License 2020-09"
+  - "Microsoft Software License (.NET Library License 2020-09)"
 
 otherIds:
   - "scancode:ms-net-library-2020-09"

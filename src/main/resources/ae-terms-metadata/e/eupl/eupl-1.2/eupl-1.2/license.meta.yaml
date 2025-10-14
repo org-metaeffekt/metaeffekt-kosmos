@@ -1,0 +1,134 @@
+canonicalName: European Union Public License 1.2
+category: EUPL
+spdxIdentifier: EUPL-1.2
+
+# FIXME-KKL: validation rules for secondary licenses
+# - licenses must exist
+# - no duplicates in list
+# - validate propagation to (or any later version) variants
+
+# FIXME-KKL: validation rules for subcategories
+# - referenced categories must exist
+# - no duplicates in list
+# - a category may be only used once in subcategories list (at least for now)
+
+secondaryLicenses:
+  - "GNU General Public License 2.0"
+  - "GNU General Public License 3.0"
+  - "GNU Affero General Public License 3.0"
+  - "Open Software License 2.1"
+  - "Open Software License 3.0"
+  - "Eclipse Public License 1.0"
+  - "CeCILL Free Software License Agreement 2.0"
+  - "CeCILL Free Software License Agreement 2.1"
+  - "Mozilla Public Licence 2.0"
+  - "GNU Lesser General Public License 2.1"
+  - "GNU Lesser General Public License 3.0"
+  - "Creative Commons BY-SA 3.0"
+  - "European Union Public License 1.1"
+  - "LiLiQ R License 1.1"
+  - "LiLiQ R+ License 1.1"
+
+otherIds:
+  - "scancode:eupl-1.2"
+  - "osi:EUPL-1.2"
+
+alternativeNames:
+  - "EUPL Version 1.2"
+  - "EUPL v.1.2"
+  - "EUPL, Version 1.2"
+  - "EUPL-1.2"
+  - "EUPL, 1.2"
+  - "European Union Public License (EUPL v.1.2)"
+  - "European Union Public License - EUPL v.1.2"
+  - "European Union Public License V. 1.2"
+  - "European Union Public License, Version 1.2"
+  - "European Union Public License (EUPL) version 1.2"
+  - "European Union Public License v1.2"
+  - "European Union Public License v. 1.2"
+  - "European Union Public Licence V. 1.2"
+  - "EUROPEAN UNION PUBLIC LICENCE v. 1.2"
+  - "EUROPEAN UNION PUBLIC LICENCE V. 1.2"
+  - "EUROPEAN UNION PUBLIC LICENCE v.1.2"
+  - "EUROPEAN UNION PUBLIC LICENSE v.1.2"
+
+evidence:
+  matches:
+    - "The Licensor hereby grants You a worldwide, royalty-free, non-exclusive,
+       sublicensable licence to do the following, for the duration of copyright vested
+       in the Original Work"
+    - "The Licensor grants to the Licensee royalty-free, non-exclusive usage rights to
+       any patents held by the Licensor, to the extent necessary to make use of the
+       rights granted on the Work under this Licence"
+    - "The Licensor may provide the Work either in its Source Code form, or as
+       Executable Code"
+    - "If the Work is provided as Executable Code, the Licensor
+       provides in addition a machine-readable copy of the Source Code of the Work
+       along with each copy of the Work that the Licensor distributes or indicates, in
+       a notice following the copyright notice attached to the Work, a repository where
+       the Source Code is easily and freely accessible for as long as the Licensor
+       continues to distribute or communicate the Work"
+
+masks:
+  matches:
+    - "'Compatible Licences' according to Article 5 EUPL are:
+         — GNU General Public License (GPL) v. 2, v. 3
+         — GNU Affero General Public License (AGPL) v. 3
+         — Open Software License (OSL) v. 2.1, v. 3.0
+         — Eclipse Public License (EPL) v. 1.0
+         — CeCILL v. 2.0, v. 2.1
+         — Mozilla Public Licence (MPL) v. 2
+         — GNU Lesser General Public Licence (LGPL) v. 2.1, v. 3
+         — Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) for
+           works other than software
+         — European Union Public License (EUPL) v. 1.1, v. 1.2
+         — Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong Reciprocity
+          (LiLiQ-R+)"
+    - "‘Compatible Licences’ according to Article 5 EUPL are:
+         — GNU General Public License (GPL) v. 2, v. 3
+         — GNU Affero General Public License (AGPL) v. 3
+         — Open Software License (OSL) v. 2.1, v. 3.0
+         — Eclipse Public License (EPL) v. 1.0
+         — CeCILL v. 2.0, v. 2.1
+         — Mozilla Public Licence (MPL) v. 2
+         — GNU Lesser General Public Licence (LGPL) v. 2.1, v. 3
+         — Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) for works other than software
+         — European Union Public Licence (EUPL) v. 1.1, v. 1.2
+         — Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong Reciprocity (LiLiQ-R+)."
+    - "‘Compatible Licences’ according to Article 5 EUPL are:
+         - GNU General Public License (GPL) v. 2, v. 3
+         - GNU Affero General Public License (AGPL) v. 3
+         - Open Software License (OSL) v. 2.1, v. 3.0
+         - Eclipse Public License (EPL) v. 1.0
+         - CeCILL v. 2.0, v. 2.1
+         - Mozilla Public Licence (MPL) v. 2
+         - GNU Lesser General Public Licence (LGPL) v. 2.1, v. 3
+         - Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) for
+           works other than software
+         - European Union Public Licence (EUPL) v. 1.1, v. 1.2
+         - Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong
+           Reciprocity (LiLiQ-R+)."
+    - "— GNU General Public License (GPL) v. 2, v. 3
+       — GNU Affero General Public License (AGPL) v. 3
+       — Open Software License (OSL) v. 2.1, v. 3.0
+       — Eclipse Public License (EPL) v. 1.0
+       — CeCILL v. 2.0, v. 2.1
+       — Mozilla Public Licence (MPL) v. 2
+       — GNU Lesser General Public Licence (LGPL) v. 2.1, v. 3
+       — Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) for works other than software
+       — European Union Public Licence (EUPL) v. 1.1, v. 1.2
+       — Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong Reciprocity (LiLiQ-R+)
+       The European Commission may update this Appendix to later versions of the above licences without producing a new version of the EUPL, as long as they provide the rights granted in Article 2 of this Licence and protect the covered Source Code from exclusive appropriation."
+
+segmentation:
+  revert: [
+    {
+      match: "Any use of the Work, other than as authorised under this Licence is prohibited (to the extent such
+            use is covered by a right of the copyright holder of the Work).",
+      matchNext: "The Work is provided under the terms of this Licence"
+    },
+    {
+      match: "1. Definitions",
+      matchNext: "In this Licence, the following terms have the following meaning"
+    }
+]

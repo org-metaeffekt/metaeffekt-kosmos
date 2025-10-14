@@ -1,12 +1,17 @@
-canonicalName: MIT README License
-category: MIT README License
+canonicalName: MIT License (README)
+category: MIT
 shortName: MIT-README
 
 otherIds:
   - "scancode:mit-readme"
 
+canonicalNameHistory:
+  - "MIT README License"
+
 alternativeNames:
   - "mit-readme"
+
+representedAs: MIT License
 
 evidence:
   matches:

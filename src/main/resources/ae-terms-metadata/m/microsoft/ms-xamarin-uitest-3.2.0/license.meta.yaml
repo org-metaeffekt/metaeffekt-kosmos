@@ -1,0 +1,32 @@
+canonicalName: Microsoft Xamarin.UITest 3.2.0 License
+category: Microsoft Xamarin.UITest
+shortName: MS-Xamarin.UITest-3.2.0
+
+otherIds:
+  - "scancode:ms-xamarin-uitest3.2.0"
+
+canonicalNameHistory:
+  - "Microsoft Xamarin.UITest 3.2.0"
+
+alternativeNames:
+  - "Microsoft Xamarin.UITest 3.2.0"
+
+evidence:
+  matches:
+    - "Subject to the foregoing clause (ii), Microsoft will only be liable for slight negligence if Microsoft is in breach
+       of such material contractual obligations, the fulfillment of which facilitate the due performance of this agreement,
+       the breach of which would endanger the purpose of this agreement and the compliance with which a party may constantly
+       trust in (so-called 'cardinal obligations')"
+    - "In other cases of slight negligence, Microsoft will not be liable for slight negligence"
+    - "It also applies even if Microsoft knew or should have known about the possibility of the damages"
+    - "The above limitation or exclusion may not apply to you because your country may not allow the exclusion or
+       limitation of incidental, consequential or other damages"
+  excludes:
+    - "Please read them"
+    - "They apply to the software named above, which includes the media on which you received it, if any"
+    - "The uses permitted above include use of the software in demonstrating your applications"
+    - "The software may contain some items on the Utilities List"
+    - "You may only use the trial edition for internal evaluation purposes, and only during the trial period"
+    - "These components are governed by separate agreements and their own product support policies, as described
+       in the Microsoft “Licenses” folder accompanying the software, except that, if license terms for those
+       components are also included in the associated installation directory, those license terms control"

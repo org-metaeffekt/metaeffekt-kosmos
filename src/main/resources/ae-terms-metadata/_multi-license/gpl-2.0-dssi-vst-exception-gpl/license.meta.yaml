@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 (with DSSI-VST Exception (GPL))
+category: GPL+DSSI-VST
+shortName: GPL-2.0-DSSI-VST-Exception-GPL
+
+type: expression
+
+displayName: GNU General Public License 2.0 (with DSSI-VST Exception)
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with DSSI-VST Exception (GPL))"
+  "DSSI-VST Exception (GPL)": "GNU General Public License 2.0 (with DSSI-VST Exception (GPL))"

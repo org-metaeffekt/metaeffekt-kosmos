@@ -2,7 +2,7 @@ canonicalName: AGPL Generic Additional Terms
 category: AGPL Generic
 shortName: agpl-generic-additional-terms
 
-# FIXME-DISCUSS: no license text has been found for this; this serves no purpose because it is too generic - delete?
+# NOTE: this license is preserved as representative for the references scancode license: it is merely matched on name level.
 
 otherIds:
   - "scancode:agpl-generic-additional-terms"

@@ -1,0 +1,26 @@
+canonicalName: "Creative Commons (undefined)"
+category: CC
+shortName: CC-?
+
+unspecific: true
+
+alternativeNames:
+  - "CC License"
+  - "cc License"
+  - "cc license"
+  - "Creative Commons License"
+  - "creative commons license"
+  - "Creative Commons licenses"
+
+subcategories:
+  - CC-BY
+  - CC-BY-SA
+  - CC-BY-NC
+  - CC-BY-NC-ND
+  - CC-BY-NC-SA
+  - CC-BY-ND
+  - CC-NC
+  - CC-ND
+  - CC-SA
+# NOTE: CC0, sampling, devnations, pddc, public domain mark are currently not included
+

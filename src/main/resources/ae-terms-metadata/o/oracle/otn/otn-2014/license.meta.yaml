@@ -1,4 +1,4 @@
-canonicalName: Oracle Technology Network License Agreement 2014
+canonicalName: Oracle Technology Network License 2014
 category: OTN
 shortName: OTN-2014
 
@@ -10,6 +10,7 @@ alternativeNames:
 
 canonicalNameHistory:
   - "Oracle Technology Network License Agreement"
+  - "Oracle Technology Network License Agreement 2014"
 
 evidence:
   matches:

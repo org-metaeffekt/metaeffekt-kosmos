@@ -1,0 +1,32 @@
+canonicalName: Creative Commons BY (undefined)
+category: CC-BY
+shortName: CC-BY-?
+
+unspecific: true
+
+requiresNote: true
+noteChecklist:
+  - "credit the Licensor / Original Author"
+
+expressiveEvidence: true
+
+alternativeNames:
+  - "CreativeCommons BY"
+  - "CreativeCommons-BY"
+  - "CC-BY"
+  - "CC BY"
+  - "CreativeCommons Attribution"
+  - "CC Attribution"
+  - "creativecommons by"
+  - "creativecommons-by"
+  - "cc-by"
+  - "cc by"
+  - "creativecommons attribution"
+  - "cc attribution"
+
+evidence:
+  excludes:
+    - "Creative Commons Attribution-ShareAlike"
+    - "Creative Commons Attribution ShareAlike"
+    - "CC-BY-SA"
+    - "CC BY-SA"

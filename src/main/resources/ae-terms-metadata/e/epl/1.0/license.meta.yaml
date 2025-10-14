@@ -5,6 +5,9 @@ spdxIdentifier: EPL-1.0
 otherIds:
   - "scancode:epl-1.0"
 
+secondaryLicenses:
+  - "Eclipse Public License 2.0"
+
 # requires notice in case we want to conclude version 2.0; otherwise not; there is currenty no way to represent this.
 requiresAnnexNotice: true
 requiresSourceCodeProvision: true
@@ -107,3 +110,7 @@ licenseTemplate: "<lq><codeph>NO WARRANTY<p/>
                   OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF
                   ANY RIGHTS GRANTED HEREUNDER,
                   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</codeph></lq>"
+
+mappings:
+  # NOTE: this was introduced to separate occurrences of EPL variants formerly identified in one segment (and merged).
+  "JUnit \\(([0-9]+\\.[0-9]+)\\)": "LICENSE-SEGMENT-MARKERJUnit ($1)"

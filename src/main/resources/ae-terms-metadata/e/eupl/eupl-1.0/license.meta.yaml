@@ -21,6 +21,14 @@ alternativeNames:
   - "European Union Public License (EUPL) version 1.0"
   - "European Union Public License v1.0"
 
+secondaryLicenses:
+  - "GNU General Public License 2.0"
+  - "Open Software License 2.1"
+  - "Open Software License 3.0"
+  - "Common Public License 1.0"
+  - "Eclipse Public License 1.0"
+  - "CeCILL Free Software License Agreement 2.0"
+
 classification: limited copyleft
 
 # NOTE: references do not (yet) support wildcards

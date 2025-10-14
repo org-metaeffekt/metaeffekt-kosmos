@@ -1,0 +1,23 @@
+canonicalName: Creative Commons BY-NC-SA (undefined)
+category: CC-BY-NC-SA
+shortName: CC-BY-NC-SA-?
+
+unspecific: true
+
+alternativeNames:
+  - "CreativeCommons BY-NC-SA"
+  - "CreativeCommons-BY-NC-SA"
+  - "CC-BY-NC-SA"
+  - "CC BY-NC-SA"
+  - "CC BY NC SA"
+  - "CC BY NC-SA"
+  - "CreativeCommons Attribution-NoCopyright-ShareAlike"
+  - "CC Attribution-NoCopyright-ShareAlike"
+  - "CreativeCommons Attribution No Copyright Share Alike"
+  - "CreativeCommons Attribution No-Copyright Share-Alike"
+  - "CC BY-NoCopyright-ShareAlike"
+
+requiresNote: true
+
+noteChecklist:
+  - "credit the Licensor / Original Author"

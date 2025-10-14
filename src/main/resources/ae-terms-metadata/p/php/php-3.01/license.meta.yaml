@@ -90,7 +90,7 @@ licenseTemplate:
     this License.</li>
     
     <li>Redistributions of any form whatsoever must retain the following acknowledgment:
-    <i>\"This product includes PHP software, freely available from <http://www.php.net/software/>\"</i></li></ol>
+    <i>\"This product includes PHP software, freely available from &lt;http://www.php.net/software/&gt;\"</i></li></ol>
     
     <codeph>THIS SOFTWARE IS PROVIDED BY THE PHP DEVELOPMENT TEAM ``AS IS'' AND ANY EXPRESSED
     OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES

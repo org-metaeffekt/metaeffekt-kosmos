@@ -1,0 +1,26 @@
+canonicalName: Linking Exception (GPL; variant 030)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-030
+
+type: exception
+
+alternativeNames:
+  - "libticables2 Exception"
+  - "libticables2 Linking Exception"
+  - "Libticables2 Exception"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 030))"
+
+evidence:
+  matches:
+    - "As a special exception, the authors give permission to link the code of the 
+       libticables2 library with TilEm (http://lpg.ticalc.org/prj_tilem) and the 
+       code derived from Marcel De Kogel's z80em"
+    - "You must obey the GNU General Public License 
+       in all respects for all of the code used other than the z80em-derived code in TilEm"
+    - "If you modify this library, you may extend this exception to your
+       version of the library, but you are not obligated to do so"
+    - "If you do not wish to do so, delete this exception statement from your version"
+
+

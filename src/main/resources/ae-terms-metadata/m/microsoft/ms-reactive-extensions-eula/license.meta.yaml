@@ -1,6 +1,6 @@
 canonicalName: Microsoft Reactive Extensions EULA
-category: Microsoft Reactive Extensions EULA
-shortName: ms-reactive-extensions-eula
+category: Microsoft Reactive Extensions
+shortName: MS-Reactive-Extensions
 
 otherIds:
   - "scancode:ms-reactive-extensions-eula"

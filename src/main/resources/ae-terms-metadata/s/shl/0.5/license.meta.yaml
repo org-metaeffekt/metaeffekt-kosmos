@@ -2,9 +2,8 @@ canonicalName: Solderpad Hardware License 0.5
 category: SHL
 spdxIdentifier: SHL-0.5
 
-# FIXME-CONCEPT: how to deal with secondaryLicense
-# secondaryLicenses:
-#  - "Apache License 2.0"
+secondaryLicenses:
+  - "Apache License 2.0"
 
 otherIds:
   - "scancode:shl-0.5"

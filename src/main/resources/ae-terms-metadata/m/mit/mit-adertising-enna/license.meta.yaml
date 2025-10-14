@@ -1,0 +1,29 @@
+canonicalName: MIT License (with enna advertising)
+category: MIT
+spdxIdentifier: MIT-enna
+
+otherIds:
+  - "scancode:enna"
+
+representedAs: MIT License
+
+alternativeNames:
+  - "MIT enna"
+  - "MIT ENNA"
+  - "MIT-enna"
+  - "MIT-ENNA"
+  - "MIT enna License"
+  - "MIT ENNA LICENSE"
+  - "MIT ENNA License"
+  - "MIT-enna License"
+  - "MIT-ENNA LICENSE"
+  - "MIT-ENNA License"
+
+evidence:
+  matches:
+    - "The above copyright notice and this permission notice shall be included in
+       all copies of the Software and its Copyright notices"
+    - "In addition publicly documented acknowledgment must be given that this software
+       has been used if no source code of this software is made available publicly"
+    - "This includes acknowledgments in either Copyright notices, Manuals, Publicity and Marketing
+       documents or any documentation provided with any product containing this software"

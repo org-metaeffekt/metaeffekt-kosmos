@@ -6,6 +6,11 @@ shortName: LZMA-SDK-9.22+
 otherIds:
   - "scancode:lzma-sdk-9.22"
 
+expectedMatches:
+  - "GNU General Public License (undefined)"
+  - "GNU Lesser General Public License (undefined)"
+
+
 evidence:
   matches:
     - "LZMA SDK is written and placed in the public domain by Igor Pavlov"
@@ -15,16 +20,6 @@ evidence:
        any purpose, commercial or non-commercial, and by any means"
     - "LZMA SDK code is compatible with open source licenses, for example, you can
        include it to GNU GPL or GNU LGPL code"
-
-references:
-  "GPL":
-    matches:
-      - "LZMA SDK code is compatible with open source licenses, for example, you can
-         include it to GNU GPL or GNU LGPL code"
-  "LGPL":
-    matches:
-      - "LZMA SDK code is compatible with open source licenses, for example, you can
-         include it to GNU GPL or GNU LGPL code"
 
 segmentation:
   revert: [

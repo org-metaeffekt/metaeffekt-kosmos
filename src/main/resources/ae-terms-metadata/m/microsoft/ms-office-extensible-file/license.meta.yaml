@@ -1,6 +1,9 @@
-canonicalName: Microsoft Software License (Office Extensible File)
-category: Microsoft Software
+canonicalName: Microsoft Office Extensible File License
+category: Microsoft Office
 shortName: MS-Office-Extensible-File
+
+canonicalNameHistory:
+  - "Microsoft Software License (Office Extensible File)"
 
 otherIds:
   - "scancode:ms-office-extensible-file"

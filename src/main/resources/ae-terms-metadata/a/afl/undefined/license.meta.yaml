@@ -8,7 +8,7 @@ alternativeNames:
   - "Academic Free License (undefined)"
 
 # MASKS USE CASE: mask explanatory text on general level
-masks: 
+masks:
   matches:
   - "The following is intended to describe the essential
      differences between the Academic Free License (AFL) version 1.0 and other

@@ -1,0 +1,28 @@
+canonicalName: EigenLayer Exception (Business Source License 1.1)
+category: EigenLayer Exception
+shortName: EigenLayer-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "EigenLayer Additional Use Grant for BSL 1.1"
+  - "EigenLayer additional use grant for BSL"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with EigenLayer Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "You may additionally use any of the software included in the following repositories
+      [here](https://docs.google.com/spreadsheets/d/1PlJRow5C0GMqXZlIxRm5CEnkhH-gMV1wIdq1pCfbZco/edit?usp=sharing)
+      (“Additional Use Grant Software”) for production commercial uses, but only if such
+      uses are (i) built on or using the EigenLayer Protocol or EigenDA, and (ii) not
+      Competing Uses"
+
+references:
+  "MIT":
+    matches:
+      - "All commits after 6de01c6c16d6df44af15f0b06809dc160eac0ebf (i.e. committed to this
+        repository after February 6, 2024) have a change date of 2027-02-06 (February 6th, 2027)
+        
+        Change License:       MIT"

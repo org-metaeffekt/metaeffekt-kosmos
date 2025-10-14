@@ -1,9 +1,12 @@
-canonicalName: Sun Binary Code License SDK 5.0
-category: Sun Binary
+canonicalName: Sun BCL SDK 5.0
+category: Sun BCL SDK
 shortName: Sun-BCL-SDK-5.0
 
 otherIds:
   - "scancode:sun-bcl-sdk-5.0"
+
+canonicalNameHistory:
+  - "Sun Binary Code License SDK 5.0"
 
 alternativeNames:
   - "Sun BCL SDK 5.0"

@@ -1,0 +1,27 @@
+canonicalName: Akaunting Exception (Business Source License 1.1)
+category: Akaunting Exception
+shortName: Akaunting-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "Akaunting Additional Use Grant for BSL 1.1"
+  - "Akaunting additional use grant for BSL"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Akaunting Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "You may make production use of the Licensed Work, provided you do not use it in any of the following ways"
+    - "Use the Licensed Work with a total of more than two users or one company or one thousand invoices"
+    - "Remove the name, logo, copyright, or other branding material from the Licensed Work to create a \"rebranded\" or \"white labeled\"
+       version to distribute as part of any commercial or non-profit product or service"
+    - "Use the Licensed Work for an Accounting Service"
+
+references:
+  "GPL":
+    matches:
+      - "Change Date:          Four years from the date the Licensed Work is published.
+
+        Change License:       GPLv3"

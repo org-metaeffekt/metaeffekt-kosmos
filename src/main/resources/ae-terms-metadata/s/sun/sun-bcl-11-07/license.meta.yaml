@@ -1,9 +1,12 @@
-canonicalName: Sun Binary Code License 11-07
-category: Sun Binary
+canonicalName: Sun BCL 11-07
+category: Sun BCL
 shortName: Sun-BCL-11-07
 
 otherIds:
   - "scancode:sun-bcl-11-07"
+
+canonicalNameHistory:
+  - "Sun Binary Code License 11-07"
 
 evidence:
   matches:

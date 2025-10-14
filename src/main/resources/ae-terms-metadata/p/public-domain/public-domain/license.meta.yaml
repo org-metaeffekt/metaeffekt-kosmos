@@ -1,0 +1,103 @@
+canonicalName: Public Domain
+category: Public Domain
+shortName: Public-Domain
+
+otherIds:
+  - "scancode:public-domain"
+#  - "scancode:doug-lea" #deprecated
+
+articleRequired: false
+requiresCopyright: false
+requiresAnnexNotice: false
+requiresLicenseText: false
+
+unspecific: true
+
+alternativeNames:
+  - "under public domain"
+  - "list of public domain suffixes"
+  - "is public domain"
+  - "public domain implementation"
+  - "under Public Domain"
+  - "released into the public domain"
+  - "RELEASED INTO THE PUBLIC DOMAIN"
+  - "placed in public domain"
+  - "dedicated to the public domain"
+  - "granted to the public domain"
+  - "distributed into the Public Domain"
+  - "distribution into the Public Domain"
+  - "released to the public domain"
+  - "IS IN T3H PUBLIC DOMAIN"
+  - "This code is released by the author with no restrictions on usage"
+  - "You may redistribute and/or modify it as you see fit, without restriction of copyright"
+  - "PUBLIC DOMAIN"
+  - "no copyright is claimed"
+  - "given to OpenSource copyright-free"
+  - "This is free software. You are welcome to use it however you want"
+  - "This is free software that you can use however you like"
+  - "This program can be used and distributed without restrictions"
+  - "as public domain"
+  - "in the public domain"
+  - "belongs to the public domain"
+  - "the software is hereby placed in the public domain"
+  - "This code is hereby placed in the public domain"
+  - "This is a work of the U.S. Government and is not subject to copyright
+     protection in the United States. Foreign rights may apply"
+  - "This code is free to use, copy, modify, and redistribute. You can use it in
+     any code to do anything you want, but there is no warranty"
+  - "http://www.linfo.org/publicdomain.html"
+  - "put into the public domain"
+  - "License: PD"
+  - "License: public-domain"
+  - "Public domain"
+  - "public domain"
+  - "Written by Marek Michalkiewicz <marekm@i17linuxb.ists.pwr.wroc.pl>, public domain"
+  - "The author disclaims copyright to this source code"
+  - "derived (heavily modified) from James Woods' public domain"
+  - "This product includes images from the Tango Desktop Project (http://tango.freedesktop.org/)"
+  - "http://creativecommons.org/licenses/publicdomain"
+  - "placed in the public domain"
+  - "Copyright: public-domain"
+  - "is in the public domain"
+  - "This software is freely available to the public for use"
+  - "as public domain code"
+  - "LzmaAlone.java as public domain code"
+  - "is in the public domain, and is intended to remain in the public domain"
+
+alternativeShortNames:
+  - "PD"
+
+evidence:
+  excludes:
+    - "THEY ARE NOT IN THE PUBLIC DOMAIN"
+    - "The software isn't a public domain, it's a copyrighted one"
+    - "This software is not public domain"
+    - "is not public domain software"
+    - "This agreement does not impose any restriction on a Data Recipient's use, modification, or sharing of any
+       portions of the Data that are in the public domain or that may be used, modified, or shared under any other
+       legal exception or limitation"
+    - "The Bitzi Corporation reserves 
+       all rights with regard to any of its trademarks which 
+       may appear herein, such as \"Bitzi\", \"Bitcollider\", or
+       \"Bitpedia\""
+    - "place your modifications in the Public Domain or otherwise
+       make them Freely Available, such as by posting said
+       modifications to the Blitz++ development list,
+       and allowing the Copyright Holder to include
+       your modifications in the Standard Version of the Library"
+    - "All code examples in this work are placed into the public domain"
+    - "Some code in LZMA is based on public domain code from another developers: 1) PPMd var.H (2001): Dmitry Shkarin 2) SHA-256: Wei Dai (Crypto++ library)"
+    - "See http://javascript.crockford.com/jsmin.html"
+    - "This file has been superceded by http://www.JSON.org/json2.js"
+    - "PUBLIC DOMAIN LICENSE: Stanford University Portable Video Research Group"
+    - "All classes are released to the public domain"
+    - "PUBLIC DOMAIN NOTICE"
+    - "implementation file are hereby placed in the public domain without restrictions"
+    - "Products are not deemed to be placed in the public domain by Rocket"
+    - "Please note that the actual code of the GNU gettext library is covered
+       dnl by the GNU Library General Public License, and the rest of the GNU
+       dnl gettext package package is covered by the GNU General Public License.
+       dnl They are *not* in the public domain."
+    - "To all effects and purposes, this work is to be considered Public Domain"
+    - "This god forsaken project is in the public domain, EVEN IF NOBODY ASKED FOR IT"
+    - "the creator(s) of this work dedicate all copyright and related rights in this work to the public domain worldwide"

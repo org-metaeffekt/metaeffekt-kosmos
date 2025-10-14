@@ -1,0 +1,25 @@
+canonicalName: Microsoft Sysinternals Software License
+category: Microsoft Sysinternals
+shortName: MS-Sysinternals
+
+otherIds:
+  - "scancode:ms-sysinternals-sla"
+
+canonicalNameHistory:
+  - "Microsoft Sysinternals Software License Terms"
+
+alternativeNames:
+  - "Microsoft Sysinternals Software License Terms"
+
+evidence:
+  matches:
+    - "Please be aware that, similar to other debug tools that capture “process state” information,
+       files saved by Sysinternals tools may include personally identifiable or other sensitive
+       information (such as usernames, passwords, paths to files accessed, and paths to registry accessed)"
+    - "By using this software, you acknowledge that you are aware of this and take sole responsibility for
+       any personally identifiable or other sensitive information provided to Microsoft or any other party
+       through your use of the software"
+    - "The software is subject to United States export laws and regulations"
+    - "You must comply with all domestic and international export laws and regulations that apply to the software"
+    - "These laws include restrictions on destinations, end users and end use"
+    - "For additional information, see www.microsoft.com/exporting"

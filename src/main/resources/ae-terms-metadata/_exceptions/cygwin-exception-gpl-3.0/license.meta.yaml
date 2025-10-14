@@ -1,4 +1,4 @@
-# FIXME-DISCUSS: is this an exception only; clarify
+# NOTE: dicussed and classified as exception; all other remarks are explanatory, only
 canonicalName: Cygwin Exception (GPL 3.0+)
 category: Cygwin Exception
 shortName: Cygwin-Exception-GPL-3.0+
@@ -19,7 +19,6 @@ alternativeNames:
   - "Cygwin license"
   - "CYGWIN_LICENSE"
   - "ftp://ftp.nstream.pl/Rozne/iperf-2.0.5-2-win32/doc/cygwin.html"
-  - "<http://gnu.org/licenses/>"
 
 evidence:
   matches:
@@ -33,12 +32,12 @@ evidence:
        including the requirement to provide sources for the Cygwin™ DLL, unless you have obtained a special Cygwin™ license
        to distribute the Cygwin™ DLL in only its binary form (see below)"
 
+# Note: the references should not interfere with the matching of the combiner (multi-license) anymore
 references:
   "Public Domain":
     matches:
       - "Most of the tools are covered by the GNU GPL, some are public domain, and others have a X11 style license. To cover the
          GNU GPL requirements, the basic rule is if you give out any binaries, you must also make the source available"
-# FIXME-CONCEPT: these GPL references keep the combiner with the GPl 3.0+ from matching. Result should be "GNU General Public License 3.0 (or any later version; with Cygwin Exception (GPL 3.0+))". actual result is: "Cygwin Exception (GPL 3.0+), GNU General Public License 3.0" - after removing the references from this yaml, it is being matched correctly as "GNU General Public License 3.0 (or any later version; with Cygwin Exception (GPL 3.0+))"
   "GPL":
     matches:
       - "Most of the tools are covered by the GNU GPL, some are public domain, and others have a X11 style license. To cover the

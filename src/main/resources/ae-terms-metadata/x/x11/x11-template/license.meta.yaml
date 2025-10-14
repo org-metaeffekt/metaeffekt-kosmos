@@ -72,6 +72,9 @@ evidence:
     - "Except as contained in this notice, the name of The Open Group shall not be
        used in advertising or otherwise to promote the sale, use or other dealings
        in this Software without prior written authorization from The Open Group"
+    - "Additionally, the following restrictions on the use of this software apply
+       and, where applicable, thereby override the \"without limitation\" clause
+       above or in each relevant source code module"
 
 # this revert is for the xconsortium-container variant
 segmentation:

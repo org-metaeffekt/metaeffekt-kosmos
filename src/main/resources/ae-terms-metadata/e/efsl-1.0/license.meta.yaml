@@ -44,7 +44,7 @@ licenseTemplate:
    <p>link or URL to the original Eclipse Foundation document.</p>
    <p>All existing copyright notices, or if one does not exist, a notice (hypertext
      is preferred, but a textual representation is permitted) of the form:
-   \"Copyright © [$date-of-document] Eclipse Foundation, Inc. &lt;&lt;url to this license&gt;&gt;\"</p>
+   \"Copyright &#169; [$date-of-document] Eclipse Foundation, Inc. &lt;&lt;url to this license&gt;&gt;\"</p>
     <p>Inclusion of the full text of this NOTICE must be provided. We request that
     authorship attribution be provided in any software, documents, or other items or
     products that you create pursuant to the implementation of the contents of this

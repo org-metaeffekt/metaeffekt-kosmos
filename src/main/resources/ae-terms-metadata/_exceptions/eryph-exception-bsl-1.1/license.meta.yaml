@@ -1,0 +1,38 @@
+canonicalName: Eryph Exception (Business Source License 1.1)
+category: Eryph Exception
+shortName: Eryph-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "Eryph Additional Use Grant for BSL 1.1"
+  - "Eryph additional use grant for BSL"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Eryph Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "You may use one single server instance of the Licensed Work for any purpose and you may
+      concurrently use multiple single server instances of
+      the Licensed Work in isolation, subject to each of the following conditions"
+    - "you may not cluster any instances of the Licensed Work together for one use and"
+    - "you may not use the Licensed Work for a \"Compute Service\""
+
+references:
+  "GPL":
+    matches:
+      - "Change Date:          4 years after release of first version (excludes pre-releases)
+
+        Change License:       Version 2 or later of the GNU General Public License as
+        published by the Free Software Foundation"
+  "Business Source":
+      matches:
+        - "Business Source License 1.1
+  
+          Parameters
+  
+          Licensor:             dbosoft GmbH
+          Licensed Work:        Eryph
+          The Licensed Work is (c) 2025 dbosoft GmbH
+          Additional Use Grant:"

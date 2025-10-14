@@ -1,0 +1,21 @@
+canonicalName: Oracle Technology Network Free Developer License 2009
+category: OTN Free Developer
+shortName: OTN-Free-Dev-2009
+
+canonicalNameHistory:
+  - "Oracle Technology Network Free Developer License"
+
+otherIds:
+  - "scancode:otn-dev-dist-2009"
+
+evidence:
+  matches:
+    - "You are not a citizen, national, or resident of, and are not under control of,
+       the government of Cuba, Iran, Sudan, Libya, North Korea, Syria, nor any country
+       to which the United States has prohibited export"
+    - "You will not download or otherwise export or re-export the Programs, directly or
+       indirectly, to the above mentioned countries nor to citizens, nationals or residents
+       of those countries"
+    - "We grant you a nonexclusive, nontransferable limited license to use the programs only
+       for the purpose of developing, testing, prototyping and demonstrating your application,
+       and not for any other purpose"

@@ -134,6 +134,11 @@ alternativeNames:
   - "www.apache.org/licenses/LICENSE-2.0"
   - "This is released under the Apache license. The API's upstream prototype implementation also formed the basis of
      V8's implementation in src/wasm/c-api.cc."
+  - "https://github.com/grafana/azure-monitor-datasource/blob/master/LICENSE" # readonly repo
+
+alternativeShortNames:
+  - "APACHEv2"
+  - "Apache2"
 
 mappings:
   "Terms and Conditions for use, reproduction, and distribution": "TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
@@ -210,11 +215,6 @@ evidence:
     - "You may install and execute the Work only in conjunction with the direct use of
        Librato software.  This Work, any file or any derivative thereof shall not be
        used in conjunction with any product that competes with any Librato software"
-    - "We hereby irrevocably grant you an additional license to use the Software under
-       the Apache License, Version 2.0 that is effective on the second anniversary of
-       the date we make the Software available. On or after that date, you may use the
-       Software under the Apache License, Version 2.0, in which case the following
-       will apply" # Functional Source License 1.1 (Apache-2.0)
 
 masks:
   matches:

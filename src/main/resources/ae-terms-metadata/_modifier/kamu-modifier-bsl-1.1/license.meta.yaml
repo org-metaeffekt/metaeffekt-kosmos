@@ -1,0 +1,33 @@
+canonicalName: Kamu Modifier (Business Source License 1.1)
+category: Kamu Modifier
+shortName: Kamu-Modifier-Business-Source-1.1
+
+type: modifier
+
+classification: restriction
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Kamu Modifier (Business Source License 1.1))
+
+alternativeNames:
+  - "Kamu additional use grant for BSL"
+  - "Kamu additional use Grant"
+
+evidence:
+  matches:
+    - "You may not use the Licensed Work for a Data Service, where \"Data Service\" is a commercial offering that
+       allows third parties (other than your employees and contractors) to access the functionality of the
+       Licensed Work where data or transformations are controlled by such third parties"
+    - "Further, you may not distribute the Licensed Work under a different name or a brand"
+
+references:
+  "Apache License":
+    matches:
+      - "Change Date:               2029-08-28
+
+        Change License:            Apache License, Version 2.0"
+  "Business Source":
+    matches:
+      - "KAMU DATA BUSINESS SOURCE LICENSE AGREEMENT
+
+        Business Source License 1.1"

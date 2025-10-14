@@ -1,6 +1,9 @@
-canonicalName: Microsoft Device Emulator 3.0
+canonicalName: Microsoft Device Emulator 3.0 License
 category: Microsoft Device Emulator
 shortName: MS-Device-Emulator-3.0
+
+canonicalNameHistory:
+  - "Microsoft Device Emulator 3.0"
 
 otherIds:
   - "scancode:ms-device-emulator-3.0"

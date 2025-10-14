@@ -1,5 +1,5 @@
-canonicalName: Microsoft Software License (Azure Data Studio)
-category: Microsoft Software
+canonicalName: Microsoft Azure Data Studio License
+category: Microsoft Azure Data Studio
 shortName: MS-Software-Azure-Data-Studio
 
 requiresCopyright: false
@@ -10,6 +10,7 @@ otherIds:
 
 canonicalNameHistory:
   - "Microsoft Azure Data Studio License Terms"
+  - "Microsoft Software License (Azure Data Studio)"
 
 alternativeNames:
   - "Microsoft Azure Data Studio License Terms"

@@ -5,6 +5,9 @@ spdxIdentifier: SHL-2.1
 otherIds:
   - "scancode:shl-2.1"
 
+secondaryLicenses:
+  - "Apache License 2.0"
+
 alternativeNames:
   - "Solderpad Hardware License v2.1"
   - "Solderpad Hardware Licence Version 2.1"

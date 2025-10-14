@@ -1,0 +1,44 @@
+canonicalName: Microsoft .NET Framework 4 For Windows Operating System License
+category: Microsoft .NET Framework
+shortName: MS-Net-Framework-4-Win-Operating-Sys
+
+canonicalNameHistory:
+  - "Microsoft Software Supplemental License .NET Framework 4"
+
+otherIds:
+  - "scancode:ms-net-framework-4-supplemental-terms"
+
+alternativeNames:
+  - "Microsoft Software Supplemental License - .NET Framework 4"
+  - "MICROSOFT .NET FRAMEWORK 4 FOR MICROSOFT WINDOWS OPERATING SYSTEM"
+
+evidence:
+  matches:
+    - "SUPPORT SERVICES FOR SUPPLEMENT. Microsoft provides support services for this software as described at
+       www.support.microsoft.com/common/international.aspx <http://www.support.microsoft.com/common/international.aspx>"
+    - "MICROSOFT .NET FRAMEWORK BENCHMARK TESTING. The software includes one or more components of the .NET Framework
+       (.NET Components)"
+    - "You may conduct internal benchmark testing of those components"
+    - "You may disclose the results of any benchmark test of those components, provided that you comply with the
+       conditions set forth at <http://go.microsoft.com/fwlink/?LinkID=66406&clcid=0x409>"
+    - "Notwithstanding any other agreement you may have with Microsoft, if you disclose such benchmark test results,
+       Microsoft shall have the right to disclose the results of benchmark tests it conducts of your products that
+       compete with the applicable .NET Component, provided it complies with the same conditions set forth at
+       <http://go.microsoft.com/fwlink/?LinkID=66406&clcid=0x409>"
+  excludes:
+    - "Microsoft Corporation (or based on where you live, one of its affiliates) licenses this supplement to you.
+       You may use it with each validly licensed copy of Microsoft Visual Studio 2010 or Microsoft Windows operating
+       system  software (for which this supplement is applicable) (the 'software'). You may not use the supplement if
+       you do not have a license for the software. The license terms for the software apply to your use of this supplement.
+       Microsoft provides support services for the supplement as described at www.support.microsoft.com/common/international.aspx"
+    - ".NET FRAMEWORK SOFTWARE.  The software contains Microsoft .NET Framework software. This software is part of Windows.
+       The license terms for Windows apply to your use of the .NET Framework software"
+    - "MICROSOFT .NET FRAMEWORK BENCHMARK TESTING.  The software includes the .NET Framework component of the Windows
+       operating systems ('.NET Component')"
+    - "If you cannot obtain a refund there, contact Microsoft or the Microsoft affiliate serving your country for
+       information about Microsoft's refund policies"
+    - "The software contains third party programs. The license terms with those programs apply to your use of them"
+    - "see go.microsoft.com/fwlink/?LinkId=147032"
+    - "You may turn off this feature while the software is running"
+    - "This supplement includes the Microsoft AJAX Library"
+    - "You can review linked terms by pasting the (aka.ms/) link into a browser window"

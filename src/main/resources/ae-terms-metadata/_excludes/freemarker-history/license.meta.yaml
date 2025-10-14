@@ -2,7 +2,6 @@ canonicalName: Freemarker Historic Note
 category: Freemarker Historic Note
 shortName: Freemarker-Historic-Note
 
-# FIXME-DISCUSS: Do we want to keep this how it is / change it / or delete it? Has been ignored for 2 years.
 ignore: true
 type: reference
 
@@ -10,15 +9,17 @@ alternativeNames:
   - "Freemarker Historic Note"
 
 evidence:
-  matches:
-    - "FreeMarker 1.x was released under the LGPL license. Later, by
-       community consensus, we have switched over to a BSD-style license. As
-       of FreeMarker 2.2pre1, the original author, Benjamin Geer, has
-       relinquished the copyright in behalf of Visigoth Software Society."
-    - "With FreeMarker 2.3.21 the license has changed to Apache License,
-       Version 2.0, and the owner has changed from Visigoth Software Society
-       to three of the FreeMarker 2.X developers, Attila Szegedi, Daniel
-       Dekany, and Jonathan Revusky."
+  oneOf:
+    - matches:
+      - "FreeMarker 1.x was released under the LGPL license. Later, by
+         community consensus, we have switched over to a BSD-style license. As
+         of FreeMarker 2.2pre1, the original author, Benjamin Geer, has
+         relinquished the copyright in behalf of Visigoth Software Society."
+    - matches:
+      - "With FreeMarker 2.3.21 the license has changed to Apache License,
+         Version 2.0, and the owner has changed from Visigoth Software Society
+         to three of the FreeMarker 2.X developers, Attila Szegedi, Daniel
+         Dekany, and Jonathan Revusky."
 
 references:
   "Apache License":
@@ -33,17 +34,3 @@ references:
          community consensus, we have switched over to a BSD-style license. As
          of FreeMarker 2.2pre1, the original author, Benjamin Geer, has
          relinquished the copyright in behalf of Visigoth Software Society."
-
-segmentation:
-  revert: [
-    { match:
-        "Historical notes",
-      matchNext:
-        "FreeMarker 1.x was released under the LGPL license. Later, by community consensus, we have switched over to a BSD-style license"
-    },
-    { match:
-        "FreeMarker 1.x was released under the LGPL license. Later, by community consensus, we have switched over to a BSD-style license",
-      matchNext:
-        "As of FreeMarker 2.2pre1, the original author, Benjamin Geer, has relinquished the copyright in behalf of Visigoth Software Society. With FreeMarker 2.3.21 the license has changed to Apache License, Version 2.0, and the owner has changed from Visigoth Software Society to three of the FreeMarker 2.X developers, Attila Szegedi, Daniel Dekany, and Jonathan Revusky."
-    }
-]

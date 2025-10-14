@@ -1,0 +1,21 @@
+canonicalName: Microsoft Visual C++ 2015-2022 Runtime
+category: Microsoft Visual C++
+shortName: MS-Visual-C++-2015-runtime
+
+otherIds:
+  - "scancode:ms-visual-cpp-2015-runtime"
+
+alternativeNames:
+  - "Microsoft Visual C++ 2015-2022 Runtime"
+
+evidence:
+  matches:
+    - "The software may include components from Microsoft Windows; Microsoft Windows Server;
+       Microsoft SQL Server; Microsoft Exchange; Microsoft Office; and Microsoft SharePoint"
+    - "These components are governed by separate agreements and their own product support policies,
+       as described in the Microsoft “Licenses” folder accompanying the software, except that, if
+       license terms for those components are also included in the associated installation directory,
+       those license terms control"
+    - "However, Microsoft gives no contractual guarantee in relation to the licensed software"
+  excludes:
+    - "finish debugging or deploying your applications and databases"

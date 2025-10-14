@@ -1,9 +1,12 @@
-canonicalName: Microsoft Windows Identity Foundation License
-category: Microsoft Windows Identity Foundation License
-shortName: ms-windows-identity-foundation
+canonicalName: Microsoft Windows Identity Foundation License (for Windows Operating Systems)
+category: Microsoft Windows Identity Foundation
+shortName: MS-Win-Identity-Foundation
 
 otherIds:
   - "scancode:ms-windows-identity-foundation"
+
+canonicalNameHistory:
+  - "Microsoft Windows Identity Foundation License"
 
 alternativeNames:
   - "Microsoft Windows Identity Foundation License"

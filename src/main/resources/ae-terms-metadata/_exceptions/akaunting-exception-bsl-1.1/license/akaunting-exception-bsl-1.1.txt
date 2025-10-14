@@ -1,0 +1,33 @@
+License text copyright (c) 2020 MariaDB Corporation Ab, All Rights Reserved.
+“Business Source License” is a trademark of MariaDB Corporation Ab.
+
+Parameters
+
+Licensor:             Akaunting, Inc.
+
+Licensed Work:        Akaunting
+
+Additional Use Grant: You may make production use of the Licensed Work, provided
+                      you do not use it in any of the following ways:
+
+                      (1) Use the Licensed Work with a total of more than two users or
+                      one company or one thousand invoices.
+
+                      (2) Remove the name, logo, copyright, or other branding material
+                      from the Licensed Work to create a "rebranded" or "white labeled"
+                      version to distribute as part of any commercial or non-profit
+                      product or service.
+
+                      (3) Use the Licensed Work for an Accounting Service. An
+                      "Accounting Service" is a commercial offering that allows third
+                      parties (other than your employees and contractors) to access
+                      the functionality of the Licensed Work so that such third
+                      parties directly benefit from the accounting or invoicing
+                      features of the Licensed Work.
+
+Change Date:          Four years from the date the Licensed Work is published.
+
+Change License:       GPLv3
+
+For information about alternative licensing arrangements for the Licensed Work,
+please visit: https://akaunting.com/plans-on-premise

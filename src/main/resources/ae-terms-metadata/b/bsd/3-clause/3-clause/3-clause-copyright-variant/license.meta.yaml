@@ -2,9 +2,6 @@ canonicalName: BSD 3-Clause License (copyright holder variant)
 category: BSD
 shortName: BSD-3-Clause-copyright-holder
 
-# FIXME-CONCEPT / FIXME-DISCUSS: how can we model the BSD 3-Clause License and the BSD 3-Clause License (copyright holder variant) to not match each other while also not having to use heaps of excludes. - how to solve elegantly?
-# The copyright holder variant should not only cover variants that explicitly state "copyright holder" in the license text but also variants that state the company or organisation name themselves.
-
 representedAs: BSD 3-Clause License
 
 requiresCopyright: true
@@ -19,11 +16,14 @@ alternativeShortNames:
   # The Zend Framework is licensed under BSD 3-Clause License; mapping not bidirectional
   # https://framework.zend.com/license
   - "Zend"
+  - "https://polymer.github.io/LICENSE.txt"
+  - "http://polymer.github.io/LICENSE.txt"
 
 # FIXME-DISCUSS: the copyright holder variant should not be limited to copyright holders only. Derive policy:
 # 1. we differentiate (generally) templates to match external sources (scancode, spdx, ...)
 # 2. we differentiate variants with deviating text
 # 3. within acceptable text variations we allow expression matches
+# JIRA-TASK created: AE-1260
 
 # FIXME-Concept: For a given alternative name; a fixed variable set must be defined
 alternativeNames:
@@ -102,11 +102,11 @@ evidence:
     - "The United States Government has rights in this work pursuant to contract no. DE-AC03-76SF00098 between
        the United States Department of Energy and the University of California"
     - "This code is derived from software contributed to Berkeley by Keith Muller of the University of California, San Diego"
-    # FIXME-concept: what if we exclude somthing, that is not fully matched; can we ensure that this produces a partial match?
+    # FIXME-CONCEPT: what if we exclude something, that is not fully matched; can we ensure that this produces a partial match?
     - "Neither the name of the Carrot2 Project nor the names of its contributors may be used to endorse or promote 
        products derived from this software without specific prior written permission"
     - "persons affiliated with the entity must be recorded performing the full Chicken Dance"
-    - "Neither the name of ComponentAce nor the names of its contributors may be used"
+    - "The purpose of the redistribution is not part of a commercial product for resale. Please contact the Anaconda team for a third party redistribution commercial license" # Anaconda Distribution EULA
 
 mappings:
   "ARISING IN ANY WAY OUT OF THE USE OFNEWLINE-MARKER \\*NEWLINE-MARKER \\*/NEWLINE-MARKER \"use strict":

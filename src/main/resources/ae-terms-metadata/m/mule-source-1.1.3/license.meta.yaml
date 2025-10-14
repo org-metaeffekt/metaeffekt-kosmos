@@ -34,7 +34,7 @@ references:
       - "The MuleSource Public License Version (\"MSPL\") consists of the Mozilla Public
          License Version 1.1, modified to be specific to MuleSource, with the Additional
          Terms in Exhibit B. The original Mozilla Public License 1.1 can be found at: http://www.mozilla.org/MPL/MPL-1.1.html"
-  "MS-PL":
+  "Microsoft Public":
     matches:
       - "If You create or use a modified version of this License (which you may only do
          in order to apply it to code which is not already Covered Code governed by this

@@ -1,4 +1,4 @@
-canonicalName: GNU General Public License 2.0 (with classpath exception)
+canonicalName: GNU General Public License 2.0 (with Classpath exception)
 category: GPL+Classpath
 shortName: GPL-2.0-Classpath-Exception
 
@@ -27,10 +27,11 @@ canonicalNameHistory:
   - "GNU General Public License 2.0 (with classpath exception 2.0)"
   - "GPL 2 with classpath exception"
   - "GPL 2.0 with classpath exception"
-  - "GNU General Public License 2.0 (with Classpath exception)"
+  - "GNU General Public License 2.0 (with classpath exception)"
+  - "GNU General Public License 2.0 (with Classpath Exception)"
 
 representedAs: GNU General Public License 2.0 (with exceptions)
 
 combinedWith:
-  "GNU General Public License 2.0": GNU General Public License 2.0 (with classpath exception)
-  "Classpath Exception": GNU General Public License 2.0 (with classpath exception)
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Classpath exception)
+  "Classpath Exception": GNU General Public License 2.0 (with Classpath exception)

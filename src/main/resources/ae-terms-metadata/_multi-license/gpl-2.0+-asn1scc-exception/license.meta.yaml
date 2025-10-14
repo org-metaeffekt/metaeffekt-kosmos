@@ -1,0 +1,13 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with ASN1SCC Exception (GPL))
+category: GPL+ASN1SCC
+shortName: GPL-2.0+-ASN1SCC-Exception
+
+type: expression
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with ASN1SCC Exception (GPL))"
+  ASN1SCC Exception (GPL): GNU General Public License 2.0 (or any later version; with ASN1SCC Exception (GPL))
+
+displayName: GNU General Public License 2.0 (or any later version; with ASN1SCC Exception (GPL)
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)

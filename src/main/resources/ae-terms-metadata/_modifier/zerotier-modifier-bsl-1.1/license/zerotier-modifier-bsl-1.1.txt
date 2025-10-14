@@ -1,0 +1,67 @@
+Parameters
+
+Licensor:             ZeroTier, Inc.
+Licensed Work:        ZeroTier Network Virtualization Engine 1.4.4
+                      The Licensed Work is (c)2019 ZeroTier, Inc.
+Additional Use Grant: You may make use of the Licensed Work, provided you
+                      do not use it in any of the following ways:
+
+                      * Sell hosted ZeroTier services as a "SaaS" Product
+
+                      (1) Operate or sell access to ZeroTier root servers,
+                      network controllers, or authorization key or certificate
+                      generation components of the Licensed Work as a
+                      for-profit service, regardless of whether the use of
+                      these components is sold alone or is bundled with other
+                      services. Note that this does not apply to the use of
+                      ZeroTier behind the scenes to operate a service not
+                      related to ZeroTier network administration.
+
+                      * Create Non-Open-Source Commercial Derivative Works
+
+                      (2) Link or directly include the Licensed Work in a
+                      commercial or for-profit application or other product
+                      not distributed under an Open Source Initiative (OSI)
+                      compliant license. See: https://opensource.org/licenses
+
+                      (3) Remove the name, logo, copyright, or other branding
+                      material from the Licensed Work to create a "rebranded"
+                      or "white labeled" version to distribute as part of
+                      any commercial or for-profit product or service.
+
+                      * Certain Government Uses
+
+                      (4) Use or deploy the Licensed Work in a government
+                      setting in support of any active government function
+                      or operation with the exception of the following:
+                      physical or mental health care, family and social
+                      services, social welfare, senior care, child care, and
+                      the care of persons with disabilities.
+
+Change Date:          2026-01-01
+
+Change License:       Apache License version 2.0 as published by the Apache
+                      Software Foundation
+											https://www.apache.org/licenses/
+
+Alternative Licensing
+
+If you would like to use the Licensed Work in any way that conflicts with
+the stipulations of the Additional Use Grant, contact ZeroTier, Inc. to
+obtain an alternative commercial license.
+
+Visit us on the web at: https://www.zerotier.com/
+
+Notice
+
+The Business Source License (this document, or the "License") is not an Open
+Source license. However, the Licensed Work will eventually be made available
+under an Open Source License, as stated in this License.
+
+For more information on the use of the Business Source License for ZeroTier
+products, please visit our pricing page which contains license details and
+and license FAQ: https://zerotier.com/pricing
+
+For more information on the use of the Business Source License generally,
+please visit the Adopting and Developing Business Source License FAQ at
+https://mariadb.com/bsl-faq-adopting.

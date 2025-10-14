@@ -1,6 +1,14 @@
-canonicalName: Licence Libre du Québec – Réciprocité forte version 1.1
-category: LiLiQ Rplus
+canonicalName: LiLiQ R+ License 1.1
+category: LiLiQ R+
 spdxIdentifier: LiLiQ-Rplus-1.1
+
+secondaryLicenses:
+  - "Common Public License 1.0"
+  - "CeCILL Free Software License Agreement 2.1"
+  - "Eclipse Public License 1.0"
+  - "European Union Public License 1.1"
+  - "GNU General Public License 2.0"
+  - "GNU General Public License 3.0"
 
 # FIXME-RESEARCH: Diff to Licence Libre du Québec – Réciprocité -> I dont know I cant speak french
 # FIXME-DISCUSS: the licenses seem almost identical - only difference in: "9. Résiliation" - does this clause make it reasonable to have 2 licenses?
@@ -10,6 +18,7 @@ otherIds:
 
 canonicalNameHistory:
   - "LiLiQ Rplus License 1.1"
+  - "Licence Libre du Québec – Réciprocité forte version 1.1"
 
 alternativeNames:
   - "LiLiQ Rplus, Version 1.1"
@@ -47,17 +56,11 @@ evidence:
 
 masks:
   matches:
-    - "1 Common Public License Version 1.0 (CPL-1.0)
+    - "Est considérée comme une licence compatible toute licence libre approuvée ou certifiée par la Free Software Foundation ou l'Open Source Initiative, dont le niveau de réciprocité est comparable à celui de la présente licence, sans toutefois être moindre, notamment:
+       1 Common Public License Version 1.0 (CPL-1.0)
        2 Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1)
        3 Eclipse Public License - v 1.0 (EPL-1.0)
        4 European Union Public License, version 1.1 (EUPL v. 1.1)
        5 GNU General Public License Version 2 (GNU GPLv2)
-       6 GNU General Public License Version 3 (GNU GPLv3)
-       5. Contributions
-       Sous réserve d'une entente distincte, toute contribution soumise par un contributeur au concédant pour inclusion dans le logiciel sera soumise aux termes de cette licence.
-       6. Marques de commerce
-       La licence n'accorde aucune permission particulière qui permettrait d'utiliser les marques de commerce du concédant, autre que celle requise permettant d'identifier la provenance du logiciel.
-       7. Garanties
-       Sauf mention contraire, le concédant distribue le logiciel sans aucune garantie, aux risques et périls de l'acquéreur de la copie du logiciel, et ce, sans assurer que le logiciel puisse répondre à un besoin particulier ou puisse donner un résultat quelconque.
-       Sans lier le concédant d'une quelconque manière, rien n'empêche un licencié d'offrir ou d'exclure des garanties ou du support."
+       6 GNU General Public License Version 3 (GNU GPLv3)"
 

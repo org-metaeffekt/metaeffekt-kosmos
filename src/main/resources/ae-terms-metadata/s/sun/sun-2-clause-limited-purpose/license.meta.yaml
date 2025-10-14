@@ -1,0 +1,25 @@
+canonicalName: Sun 2-Clause License (limited purpose)
+category: Sun 2-Clause
+shortName: Sun-2-Clause-limited-purpose
+
+otherIds:
+  - "scancode:sun-bsd-extra"
+
+canonicalNameHistory:
+  - "Sun BSD-Style with Additional Restrictions"
+  - "Sun BSD-Style (additional restrictions)"
+
+alternativeNames:
+  - "Sun Open Source License"
+
+evidence:
+  matches:
+    - "Sun grants you ('Licensee') a non-exclusive, royalty free, license to use,
+       modify and redistribute this software in source and binary code form, provided that
+       i) this copyright notice and license appear on all copies of the software; and
+       ii) Licensee does not utilize the software in a manner which is disparaging to Sun"
+    - "This software is not designed or intended for use in on-line control of
+       aircraft, air traffic, aircraft navigation or aircraft communications; or in the
+       design, construction, operation or maintenance of any nuclear facility"
+    - "Licensee represents and warrants that it will not use or redistribute the Software for
+       such purposes"

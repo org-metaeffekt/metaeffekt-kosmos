@@ -1,9 +1,12 @@
-canonicalName: Python ldap License
-category: python-ldap
+canonicalName: Python LDAP License
+category: Python LDAP
 spdxIdentifier: python-ldap
 
 otherIds:
   - "scancode:python-ldap"
+
+canonicalNameHistory:
+  - "Python ldap License"
 
 alternativeNames:
   - "Python ldap License"

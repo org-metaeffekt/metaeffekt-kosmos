@@ -1,5 +1,5 @@
 canonicalName: W3C Community Contributor License Agreement
-category: W3C Community Contributor License Agreement
+category: W3C Community Contributor
 shortName: W3C-Community-CLA
 
 otherIds:
@@ -16,3 +16,18 @@ evidence:
     - "I acknowledge that the goal of this CLA is to provide coverage for Contributions to the Specification, if any, created by the Project"
     - "I acknowledge that I may compete with other participants, that I am under no obligation to implement the Specification, that each participant is free to develop competing technologies and standards, and that each party is free to license its patent rights to third parties, including for the purpose of enabling competing technologies and standards"
     - "I will disclose significant relationships when those relationships might reasonably be perceived as creating a conflict of interest with my role. I will notify W3C of any change in my affiliation using W3C-provided mechanisms"
+
+references:
+  "W3C":
+    matches:
+      - "W3C Community Contributor License Agreement Execution. I acknowledge that the goal of this CLA is to provide coverage for Contributions to the Specification, if any, created by the Project. The Final Specification itself, if any, will be subject to the W3C Community Final Specification Agreement. While I have no legal obligation to execute the W3C Community Final Specification Agreement for any version of the Specification being developed under this CLA, I agree that the selection and terms of the then current W3C Community Final Specification Agreement will not be subject to negotiation"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "W3C Community Contributor License Agreement (CLA) In order to participate in a Community Group or Business Group, people agree to the following terms upon joining a group; a summary is available.",
+      matchNext:
+        "1. The Purpose and General Terms of this Contributor License Agreement (CLA). This CLA sets forth the terms under which I will participate in and contribute to the development of the Specification, if any, created by the Project"
+    },
+]

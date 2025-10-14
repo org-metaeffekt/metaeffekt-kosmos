@@ -1,0 +1,26 @@
+canonicalName: Microsoft Enterprise Windows Driver Kit License 2021
+category: Microsoft Enterprise Windows Driver Kit
+shortName: MS-Windows-Driver-Kit-2021
+
+otherIds:
+  - "scancode:ms-windows-sdk-win10"
+
+alternativeNames:
+  - "Microsoft Enterprise Windows Driver Kit License 2021"
+
+evidence:
+  matches:
+    - "work around any technical limitations in the software"
+    - "reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law
+       expressly permits, despite this limitation"
+    - "make more copies of the software than specified in this agreement or allowed by applicable law, despite this limitation"
+    - "publish the software for others to copy"
+    - "rent, lease or lend the software"
+    - "transfer the software or this agreement to any third party; or"
+    - "use the software for commercial software hosting services"
+    - "One user may install and use any number of copies of the software on your devices"
+    - "If you comply with these license terms, you have the perpetual rights below"
+  excludes:
+    - "If you comply with these license terms, you have the rights below"
+    - "The terms also apply to any Microsoft services or updates for the software, except to the extent
+       those have different terms"

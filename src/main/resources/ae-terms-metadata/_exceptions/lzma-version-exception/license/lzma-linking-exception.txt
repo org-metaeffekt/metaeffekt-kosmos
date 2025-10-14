@@ -1,0 +1,7 @@
+
+SPECIAL EXCEPTION #2: Igor Pavlov, as the author of this code, expressly permits
+you to use this code under the same terms and conditions contained in the License
+Agreement you have for any previous version of LZMA SDK developed by Igor Pavlov.
+
+SPECIAL EXCEPTION #2 allows owners of proprietary licenses to use latest version
+of LZMA SDK as update for previous versions.

@@ -26,9 +26,9 @@ alternativeNames:
   - "designates this particular file as subject to the \"Classpath\" exception"
 
 combinedWith:
-  "GNU General Public License 2.0": "GNU General Public License 2.0 (with classpath exception)"
-  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with classpath exception)"
-  "GNU General Public License 3.0": "GNU General Public License 3.0 (with classpath exception)"
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Classpath exception)"
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Classpath exception)"
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with Classpath exception)"
 
 evidence:
   matches:

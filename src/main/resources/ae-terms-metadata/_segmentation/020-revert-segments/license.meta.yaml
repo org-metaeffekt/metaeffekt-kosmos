@@ -9,7 +9,7 @@ mappingOrder:
   - "020"
 
 # FIXME-CONCEPT: separate segmentation from other mappings
-# FIXME-DISCUSS: what other options exist in optimizing segmentatin (e.g. preventing complex reverts)
+# FIXME-DISCUSS: what other options exist in optimizing segmentation (e.g. preventing complex reverts)
 mappings:
   "LICENSE-SEGMENT-MARKERNEWLINE-MARKER(\\s*This W3C work)": "NEWLINE-MARKER$1"
   "(Mozilla Public License Version 2.0\\s*)(EMPTY-LINE-MARKERNEWLINE-MARKER)*LICENSE-SEGMENT-MARKERNEWLINE-MARKER(\\s*==========)": "$1NEWLINE-MARKER$3"

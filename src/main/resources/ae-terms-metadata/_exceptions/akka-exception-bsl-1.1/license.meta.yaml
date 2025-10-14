@@ -1,0 +1,22 @@
+canonicalName: Akka Exception (Business Source License 1.1)
+category: Akka Exception
+shortName: Akka-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "Akka Additional Use Grant for BSL 1.1"
+  - "Akka additional use grant for BSL"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Akka Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "If you develop an application using a version of Play Framework that utilizes binary versions of akka-streams and its dependencies, you may use such binary versions of akka-streams and its dependencies in the development of your application only as they are incorporated into Play Framework and solely to implement the functionality provided by Play Framework; provided that, they are only used in the following way"
+    - "Connecting to a Play Framework websocket and/or Play Framework request/response bodies for server and play-ws client"
+
+references:
+  "Apache License":
+    matches:
+      - "Change License: 	Apache License, Version 2.0"

@@ -2,6 +2,9 @@ canonicalName: Eclipse Public License 2.0
 category: EPL
 spdxIdentifier: EPL-2.0
 
+secondaryLicenses:
+  - "GNU General Public License 2.0 (or any later version)"
+
 requiresAnnexNotice: false
 requiresSourceCodeProvision: true
 requiresCopyright: false

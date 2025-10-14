@@ -1,0 +1,42 @@
+Business Source License 1.1
+
+Parameters
+
+Licensor:             dbosoft GmbH
+Licensed Work:        Eryph
+                      The Licensed Work is (c) 2025 dbosoft GmbH
+Additional Use Grant: You may use one single server instance of the
+                      Licensed Work for any purpose and you may
+                      concurrently use multiple single server instances of
+                      the Licensed Work in isolation, subject to each of
+                      the following conditions: (a) you may not cluster any
+                      instances of the Licensed Work together for
+                      one use and (b) you may not use the Licensed Work
+                      for a "Compute Service". A “Compute Service” is a
+                      commercial offering that allows third parties (other
+                      than your employees and contractors) to access the
+                      functionality of the Licensed Work by creating virtual
+                      machines that are controlled by such third parties.
+
+Change Date:          4 years after release of first version (excludes pre-releases)
+
+Change License:       Version 2 or later of the GNU General Public License as
+                      published by the Free Software Foundation.
+
+
+Alternative Licensing
+
+If you would like to use the Licensed Work in any way that conflicts with
+the stipulations of the Additional Use Grant, contact dbosoft to
+obtain an alternative commercial license.
+
+Visit us on the web at: https://www.dbosoft.eu
+
+Notice
+
+The Business Source License (this document, or the "License") is not an Open
+Source license. However, the Licensed Work will eventually be made available
+under an Open Source License, as stated in this License.
+
+License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
+"Business Source License" is a trademark of MariaDB Corporation Ab.

@@ -1,6 +1,10 @@
-canonicalName: Don't Be a Dick Public License 1.1
-category: Don't Be a Dick Public License
+# NOTE: Don't Be a Dick Public License 1.1 --> DBAD Public License 1.1
+canonicalName: DBAD Public License 1.1
+category: DBAD
 shortName: DBaD-1.1
+
+canonicalNameHistory:
+  - "Don't Be a Dick Public License 1.1"
 
 otherIds:
   - "scancode:dbad-1.1"
@@ -34,10 +38,9 @@ evidence:
     - "Fix the problem yourself"
     - "A non-dick would submit the fix back"
   excludes:
-    - "You may copy and distribute verbatim copies of the Library's
-      complete source code as you receive it, in any medium, provided that
-      you conspicuously and appropriately publish on each copy an
-      appropriate copyright notice and disclaimer of warranty"
+    - "You may copy and distribute verbatim copies of the Library's complete source code as you receive
+       it, in any medium, provided that you conspicuously and appropriately publish on each copy an
+       appropriate copyright notice and disclaimer of warranty"
 
 masks:
   matches:

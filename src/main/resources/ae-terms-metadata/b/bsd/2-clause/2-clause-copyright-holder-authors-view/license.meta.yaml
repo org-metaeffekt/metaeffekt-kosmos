@@ -1,5 +1,10 @@
+# FIXME-IMPLEMENT:
+# - remove combined with (here and in marker)
+# - insert scancode text
+# - add expectedMatches
+# - add ignore: true to ensure the license is not identified by the scanner
 canonicalName: BSD 2-Clause License (copyright holder variant; with authors view)
-category: BSD+Authors View
+category: BSD
 shortName: BSD-2-Clause-copyright-holder-Authors-View-Marker
 
 otherIds:

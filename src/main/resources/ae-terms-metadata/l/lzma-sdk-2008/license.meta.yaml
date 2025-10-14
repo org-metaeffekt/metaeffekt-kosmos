@@ -5,6 +5,13 @@ shortName: LZMA-SDK-2008
 otherIds:
   - "scancode:lzma-sdk-2008"
 
+expectedMatches:
+  - "Public Domain"
+  - "CDDL 1.0"
+  - "GNU Lesser General Public License (undefined)"
+  - "Common Public License (undefined)"
+  - "LZMA SDK Version Exception"
+
 evidence:
   matches:
     - "LZMA SDK is available under any of the following licenses"
@@ -19,38 +26,7 @@ evidence:
        terms of the CPL or GNU LGPL"
 
 
-references:
-  "Public Domain":
-    matches:
-      - "Some files in LZMA SDK are placed in public domain.
-         Some of these \"public domain\" files: C\\Types.h,"
-  "CPL":
-    matches:
-      - "You should have received a copy of the Common Public License along with this library."
-  "CDDL":
-    matches:
-      - "You should have received a copy of the Common Development and Distribution 
-         License Version 1.0 along with this library"
-      - "LZMA SDK is available under any of the following licenses:
-
-         1) GNU Lesser General Public License (GNU LGPL)
-         2) Common Public License (CPL)
-         3) Common Development and Distribution License (CDDL) Version 1.0 
-         4) Simplified license for unmodified code (read SPECIAL EXCEPTION)"
-  "LGPL":
-    matches:
-      - "You should have received a copy of the GNU Lesser General Public
-         License along with this library; if not, write to the Free Software
-         Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA"
-      - "LZMA SDK is available under any of the following licenses:
-
-         1) GNU Lesser General Public License (GNU LGPL)
-         2) Common Public License (CPL)
-         3) Common Development and Distribution License (CDDL) Version 1.0 
-         4) Simplified license for unmodified code (read SPECIAL EXCEPTION) "
-
-
-# FIXME-REVIEW: Issue: reverting the segmentation works. after adding the mask the segmentation goes back to its original state - the segmentation revert is undone by the mask - why? needs fix!
+# FIXME-REVIEW: Issue: reverting the segmentation works. after adding the mask the segmentation goes back to its original state - the segmentation revert is undone by the mask - why? needs fix! Only use this mask for testing purposes - modelling now different
 # fixed matching of the license, problem still persists
 # masks:
 #   matches:
@@ -72,7 +48,6 @@ references:
 #       1,2,3) GNU LGPL, CPL and CDDL licenses are classified as
 #        - \"Free software licenses\" at http://www.gnu.org/
 #        - \"OSI-approved\" at http://www.opensource.org/"
-
 
 
 segmentation:

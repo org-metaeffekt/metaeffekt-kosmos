@@ -1,6 +1,9 @@
-canonicalName: Licence Libre du Québec – Réciprocité
-category: LiLiQ-R
+canonicalName: LiLiQ R License 1.1
+category: LiLiQ R
 spdxIdentifier: LiLiQ-R-1.1
+
+canonicalNameHistory:
+  - "Licence Libre du Québec – Réciprocité"
 
 otherIds:
   - "scancode:liliq-r-1.1"
@@ -20,10 +23,26 @@ alternativeNames:
   - "LiLiQ-R License, 1.1"
   - "LiLiQ-R License 1.1"
   - "https://forge.gouv.qc.ca/licence/liliq-r/"
+  - "Licence Libre du Québec – Réciprocité"
   
 evidence:
+  matches:
+    - "Le logiciel doit être accompagné d'un exemplaire de cette licence"
+    - "Si le logiciel a été modifié, le licencié doit en faire la mention, de
+       préférence dans chacun des fichiers modifiés dont la nature permet une telle
+       mention"
+    - "Les étiquettes ou mentions faisant état des droits d'auteur, des marques
+       de commerce, des garanties ou de la paternité concernant le logiciel ne doivent
+       pas être modifiées ou supprimées, à moins que ces étiquettes ou mentions ne
+       soient inapplicables à un logiciel modifié ou dérivé donné"
+    - "Chaque fois que le licencié distribue le logiciel, le concédant offre au récipiendaire
+       une concession sur le logiciel selon les termes de la présente licence. Le
+       licencié doit offrir une concession selon les termes de la présente licence
+       pour tout logiciel modifié qu'il distribue"
   excludes:
-    - "Dans la mesure où le licencié souhaite distribuer un logiciel modifié ou dérivé combiné à un logiciel assujetti à une licence compatible, mais dont il ne serait pas possible d'en respecter les termes, le concédant offre, en plus de la présente concession, une concession selon les termes de cette licence compatible"
+    - "Dans la mesure où le licencié souhaite distribuer un logiciel modifié ou dérivé combiné à un logiciel assujetti 
+       à une licence compatible, mais dont il ne serait pas possible d'en respecter les termes, le concédant offre, en 
+       plus de la présente concession, une concession selon les termes de cette licence compatible"
 
 masks:
   matches:

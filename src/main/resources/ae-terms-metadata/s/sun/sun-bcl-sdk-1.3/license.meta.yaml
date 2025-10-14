@@ -1,9 +1,12 @@
-canonicalName: Sun Binary Code License SDK 1.3
-category: Sun Binary
+canonicalName: Sun BCL SDK 1.3
+category: Sun BCL SDK
 shortName: Sun-BCL-SDK-1.3
 
 otherIds:
   - "scancode:sun-bcl-sdk-1.3"
+
+canonicalNameHistory:
+  - "Sun Binary Code License SDK 1.3"
 
 alternativeNames:
   - "Sun Binary Code License SDK 1.3"

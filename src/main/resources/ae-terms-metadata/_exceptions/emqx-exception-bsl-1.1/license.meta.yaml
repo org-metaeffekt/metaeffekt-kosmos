@@ -1,0 +1,22 @@
+canonicalName: EMQX Exception (Business Source License 1.1)
+category: EMQX Exception
+shortName: EMQX-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "EMQX Additional Use Grant for BSL 1.1"
+  - "EMQX additional use grant for BSL"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with EMQX Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "You may make production use of a single node of the Licensed
+      Work, provided your use does not include offering the Licensed
+      Work to third parties on a hosted or embedded basis"
+    - "Educational users (e.g., accredited academic institutions)
+      and non-profit organizations (as defined by applicable law)
+      may use the Licensed Work in a production environment without
+      restriction, provided such use is not for commercial profit"

@@ -1,5 +1,12 @@
 canonicalName: W3C License (undefined)
 category: W3C
+subcategories:
+  - "W3C Document"
+  - "W3C Software"
+  - "W3C Test Suite"
+
+# NOTE: W3C Community CLA is not included in the generic W3C category
+
 shortName: W3C-?
 
 requiresAnnexNotice: false

@@ -1,9 +1,12 @@
-canonicalName: Sun Binary Code License SDK 1.4.2
-category: Sun Binary
+canonicalName: Sun BCL SDK 1.4.2
+category: Sun BCL SDK
 shortName: Sun-BCL-SDK-1.4.2
 
 otherIds:
   - "scancode:sun-bcl-sdk-1.4.2"
+
+canonicalNameHistory:
+  - "Sun Binary Code License SDK 1.4.2"
 
 evidence:
   matches:

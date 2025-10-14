@@ -1,0 +1,31 @@
+canonicalName: Permission Terms (OAR)
+category: Permission
+shortName: PT-OAR
+spdxIdentifier: OAR
+
+otherIds:
+  - "scancode:x11-oar"
+
+canonicalNameHistory:
+  - "X11-Style (OAR)"
+
+alternativeNames:
+  - "X11-Style (OAR)"
+  - "OAR License"
+
+displayName: Permission Terms (no representation; no warranty)
+representedAs: Permission Terms
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify, and distribute this software for any
+       purpose without fee is hereby granted, provided that this entire notice
+       is included in all copies of any software which is or includes a copy
+       or modification of this software"
+    - "THIS SOFTWARE IS BEING PROVIDED 'AS IS', WITHOUT ANY EXPRESS OR IMPLIED WARRANTY"
+    - "IN PARTICULAR,  THE AUTHOR MAKES NO REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING
+       THE MERCHANTABILITY OF THIS SOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE"
+  excludes:
+    - "Permission to use copy modify and distribute this software for any purpose without fee is hereby granted provided 
+       that this entire notice is included in all copies of any software which is or includes a copy or modification of 
+       this software and in all copies of the supporting documentation for such software"

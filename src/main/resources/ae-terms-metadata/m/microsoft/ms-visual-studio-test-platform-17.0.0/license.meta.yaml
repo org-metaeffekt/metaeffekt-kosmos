@@ -1,0 +1,35 @@
+canonicalName: Microsoft Visual Studio Test Platform License 17.0.0
+category: Microsoft Visual Studio Test Platform
+shortName: MS-Test-Platform-17.0.0
+
+otherIds:
+  - "scancode:ms-testplatform-17.0.0"
+
+canonicalNameHistory:
+  - "Microsoft Visual Studio TestPlatform 17.0.0"
+
+alternativeNames:
+  - "Microsoft Visual Studio TestPlatform 17.0.0"
+  - "ms-testplatform-17.0.0"
+
+evidence:
+  matches:
+    - "This agreement describes certain legal rights"
+    - "You may have other rights, including consumer rights, under the laws of your state or country"
+    - "Separate and apart from your relationship with Microsoft, you may also have rights with respect
+       to the party from which you acquired the software"
+    - "This agreement does not change those other rights if the laws of your state or country do not
+       permit it to do so"
+    - "For example, if you acquired the software in one of the below regions, or mandatory country
+       law applies, then the following provisions apply to you"
+    - "The properly licensed software will perform substantially as described in any Microsoft
+       materials that accompany the software"
+    - "However, Microsoft gives no contractual guarantee in relation to the licensed software"
+  excludes:
+    - "develop and test your device drivers and supporting components, as defined by DCHU"
+    - "Examples of “non-commercial programs” are programs written for the purposes of teaching"
+    - "a party may constantly trust in (so-called 'cardinal obligations')"
+
+ignoreMatches:
+  - "Microsoft Azure Spatial Anchors WinRT 2.9.0"
+  - "Microsoft DXSDK.D3DX 9.29.952.3"

@@ -11,3 +11,21 @@ alternativeNames:
   - "Hippocratic License Version 3.0"
   - "Hippocratic License version 3.0"
   - "HIPPOCRATIC LICENSE Version 3.0"
+
+evidence:
+  matches:
+    - "Licensee must ensure that everyone who receives a copy of or uses any part of Software from Licensee, with or
+       without changes, also receives the License and the copyright notice included with Software (and if included by
+       the Licensor, patent, trademark, and attribution notice)"
+    - "Licensee must ensure that License is prominently displayed so that any individual or entity seeking to download,
+       copy, use, or otherwise receive any part of Software from Licensee is notified of this License and its terms
+       and conditions"
+    - "Licensee must cause any modified versions of the Software to carry prominent notices stating that Licensee
+       changed the Software"
+    - "Licensee is free to create modifications of the Software and distribute only the modified portion created by
+       Licensee, however, any derivative work stemming from the Software or its code must be distributed pursuant to
+       this License, including this Notice provision"
+    - "Any individual or entity that uses, copies, modifies, reproduces, distributes, or prepares derivative work
+       based upon the Software, all or part of the Software’s code, or a derivative work developed by using the
+       Software, including a portion of its code, is a Licensee as defined above and is subject to the terms and
+       conditions of this License"

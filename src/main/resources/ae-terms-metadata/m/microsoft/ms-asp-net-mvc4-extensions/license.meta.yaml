@@ -1,12 +1,13 @@
-canonicalName: Microsoft Software License (ASP.NET MVC 4 extensions)
-category: Microsoft Software
-shortName: MS-Software-ASP-NET-MVC-4-extensions
+canonicalName: Microsoft ASP.NET MVC 4 Extensions
+category: Microsoft ASP.NET MVC
+shortName: MS-Software-ASP-NET-MVC-4-Extensions
 
 otherIds:
   - "scancode:ms-asp-net-mvc4-extensions"
 
 canonicalNameHistory:
   - "Microsoft ASP.NET MVC 4 Extensions License"
+  - "Microsoft Software License (ASP.NET MVC 4 extensions)"
 
 alternativeNames:
   - "Microsoft ASP.NET MVC 4 Extensions License"

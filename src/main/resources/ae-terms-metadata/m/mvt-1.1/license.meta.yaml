@@ -5,6 +5,11 @@ shortName: MVT-1.1
 otherIds:
   - "scancode:mvt-1.1"
 
+secondaryLicenses:
+  - "GNU General Public License 2.0 (or any later version)"
+  - "GNU Lesser General Public License 2.1 (or any later version)"
+  - "GNU Affero General Public License 3.0 (or any later version)"
+
 evidence:
   matches:
     - "under intellectual property rights (other than patent or trademark) Licensable by such Contributor to use, reproduce, make available, modify, display, perform, distribute, and otherwise exploit its Contributions, either on an unmodified basis, with Modifications, or as part of a Larger Work"

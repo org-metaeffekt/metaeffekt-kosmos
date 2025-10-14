@@ -1,0 +1,23 @@
+Business Source License 1.1
+
+Parameters
+
+Licensor:             ArangoDB, Inc.
+
+Licensed Work:        ArangoDB Self Managed (Release Date: March 2024)
+
+Change Date:          4 year anniversary of the Release Date
+Change License:       Apache License, Version 2.0
+
+Additional Use Grant:  Subject to your compliance with the terms of this
+Agreement, including this clause, you may make use of the Licensed Work
+internally in production, provided that you may not use the Licensed Work
+in a commercial offering that allows one or more third parties
+(other than your contractors) to access, create or manage databases
+including data that is controlled by any such third parties.
+
+Notice:
+
+The Business Source License (this document, or the “License”) is not an Open
+Source license. However, the Licensed Work will eventually be made available
+under an Open Source License, as stated in this License.

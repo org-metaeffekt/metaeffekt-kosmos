@@ -1,6 +1,9 @@
 canonicalName: Python License 2.0
-category: Python-2.0
+category: Python
 spdxIdentifier: Python-2.0
+
+# this is ignored since it is not a standalone, unique license, expectedMatches still get verified
+ignore: true
 
 otherIds:
   - "osi:Python-2.0"
@@ -10,15 +13,8 @@ alternativeNames:
   - "Python-2.0"
   - "Python License 2.0"
 
-# this a combined license
+# Note: this is not a standalone license which exclusively contains the full licensing terms of other licenses
 expectedMatches:
-  - "Python Software Foundation License 2.0"
-  - "CNRI Open Source License Agreement (Python 1.6.1)"
-  - "CNRI License Agreement"
-  - "BeOpen Python Open Source License Agreement 1.0"
-
-# FIXME-IMPLEMENT: why do we need those; delete
-ignoreMatches:
   - "Python Software Foundation License 2.0"
   - "CNRI Open Source License Agreement (Python 1.6.1)"
   - "CNRI License Agreement"
@@ -27,12 +23,13 @@ ignoreMatches:
 # do we need these if in sync with ignore(expected) matches?
 expectedSpdxMatches:
   - "Python Software Foundation License 2.0"
-  - "BeOpen Python Open Source License Agreement 1.0"
+  - "CNRI Open Source License Agreement (Python 1.6.1)"
   - "CNRI License Agreement"
+  - "BeOpen Python Open Source License Agreement 1.0"
 
 # FIXME-IMPLEMENT: after fixing the segmentation issue (caused by the hyphens) in the code fix the following:
-## 1: Fix the segmentation (mappings).
-## 2: See which licenses get matched and adjust ignoreMatches/expectedMatches and the expectedSpdxMatches.
+## 1: Adjust the segmentation (mappings).
+
 segmentation:
   revert: [
     { match:
@@ -60,3 +57,8 @@ segmentation:
     },
 ]
 
+# FIXME-IMPLEMENT: consider extending the context of the mappings after the hyphen issue has been resolved
+mappings:
+  "BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0": " LICENSE-SEGMENT-MARKER BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0"
+  "CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1": " LICENSE-SEGMENT-MARKER CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1"
+  "CWI LICENSE AGREEMENT FOR PYTHON 0.9.0 THROUGH 1.2": " LICENSE-SEGMENT-MARKER CWI LICENSE AGREEMENT FOR PYTHON 0.9.0 THROUGH 1.2"

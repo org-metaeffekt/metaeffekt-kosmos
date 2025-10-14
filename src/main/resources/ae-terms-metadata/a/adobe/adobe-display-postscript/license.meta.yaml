@@ -32,7 +32,6 @@ evidence:
     - "Proper trademark attribution to reflect Adobe's ownership of the trademark shall
        be given whenever any such reference to the Display PostScript system is made"
 
-# FIXME-DISCUSS: unclear; this manages segments beyond the license
 mappings:
   "\\(c\\)Copyright 1988,1991 Adobe Systems Incorporated.NEWLINE-MARKERAll rights reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sublicense this software and itsNEWLINE-MARKERdocumentation for any purpose and without fee is hereby":
     " LICENSE-SEGMENT-MARKER (c)Copyright 1988,1991 Adobe Systems Incorporated.NEWLINE-MARKERAll rights reserved.NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, distribute, and sublicense this software and itsNEWLINE-MARKERdocumentation for any purpose and without fee is hereby"

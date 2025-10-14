@@ -1,6 +1,9 @@
-canonicalName: Microsoft Nuget License
-category: Microsoft Nuget License
+canonicalName: Microsoft NuGet License
+category: Microsoft NuGet
 shortName: MS-Nuget
+
+canonicalNameHistory:
+  - "Microsoft Nuget License"
 
 otherIds:
   - "scancode:ms-nuget"

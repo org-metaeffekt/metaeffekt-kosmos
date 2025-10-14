@@ -1,9 +1,13 @@
-canonicalName: Non White Heterosexual Male
-category: Non White Heterosexual Male
+# NOTE: Non White Heterosexual Male License --> NWHM License
+canonicalName: NWHM License
+category: NWHM
 shortName: NWHM
 
 alternativeNames:
   - "Non White Heterosexual Male"
+  - "Non White Heterosexual Male License"
+  - "Non-White-Heterosexual-Male License"
+  - "NWHM-License"
 
 otherIds:
   - "scancode:nwhm"

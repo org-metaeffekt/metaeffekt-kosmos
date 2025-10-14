@@ -1,9 +1,12 @@
-canonicalName: Adobe Color Profile Bundling agreement
-category: Adobe Color Profile Bundling agreement
-shortName: adobe-color-profile-bundling
+canonicalName: Adobe Color Profile Bundling Agreement
+category: Adobe Color Profile
+shortName: Adobe-Color-Profile-Bundling
 
 otherIds:
   - "scancode:adobe-color-profile-bundling"
+
+canonicalNameHistory:
+  - "Adobe Color Profile Bundling agreement"
 
 evidence:
   matches:

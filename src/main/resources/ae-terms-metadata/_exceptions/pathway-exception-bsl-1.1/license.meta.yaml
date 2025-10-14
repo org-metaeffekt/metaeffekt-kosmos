@@ -1,0 +1,53 @@
+canonicalName: Pathway Exception (Business Source License 1.1)
+category: Pathway Exception
+shortName: Pathway-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "Pathway Additional Use Grant for BSL 1.1"
+  - "Pathway additional use grant for BSL"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Pathway Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "The Licensor grants you (the licensee) additional rights to the Licensed
+      Work, whereby you are entitled to run the Licensed Work in production
+      use, at no cost, subject to all of the following conditions"
+    - "single installation of the Licensed Work you may run the Licensed
+      Work on only one machine, physical or virtual, and without exceeding the
+      number of worker threads and processes allowed by the configuration of the
+      software runner of the distribution"
+    - "the additional right to use granted herein applies to the exclusion
+      of use of the Licensed Work for a Stream Data Processing Service, as well
+      as to the exclusion of use of any modified or derivative Licensed Work,
+      in particular"
+    - "you may not move, change, disable, or circumvent any license key
+      or resource limiting functionality that may be present in the software,
+      and you may not remove or obscure any functionality in the software that
+      is protected by the license key or circumvent resource limits"
+
+references:
+  "Business Source":
+    matches:
+      - "License:
+             BSL 1.1
+
+         Licensor:
+             NavAlgo SAS"
+  "Apache License":
+    matches:
+      - "Change License:
+          Apache License, Version 2.0, as published by the Apache Foundation."
+
+segmentation:
+  revert: [
+    {
+      match:
+        "The Licensed Work is © 2024 NavAlgo SAS",
+      matchNext:
+        "Additional Use Grant: The Licensor grants you (the licensee) additional rights to the Licensed Work, whereby you are entitled to run the Licensed Work in production use, at no cost"
+    },
+]

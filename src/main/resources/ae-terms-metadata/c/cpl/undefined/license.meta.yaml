@@ -6,3 +6,6 @@ unspecific: true
 
 alternativeNames:
   - "Common Public License"
+
+combinedWith:
+  GNU Lesser General Public License (undefined): GNU Lesser General Public License (undefined) + Common Public License (undefined)

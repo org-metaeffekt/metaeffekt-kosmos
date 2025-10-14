@@ -17,7 +17,7 @@ representedAs: Permission Terms
 expressiveEvidence: true
 
 ignoreMatches:
-  - "Linux man-pages Copyleft"
+  - "Linux man-pages (with authors care clause)"
 
 evidence:
   matches:

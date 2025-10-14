@@ -1,0 +1,64 @@
+canonicalName: Historical Permission Notice and Disclaimer
+category: HPND
+spdxIdentifier: HPND
+
+# FIXME-DISCUSS: couldn't all of the HPND variants be categorised as Permission Terms? If yes do we still want to keep the current naming to keep it close to the SPDX/Scancode naming? Or complete revision of names and category?
+
+otherIds:
+  - "scancode:historical"
+  - "osi:HPND"
+
+alternativeNames:
+  - "Historic Permission Notice and Disclaimer"
+  - "http://www.opensource.org/licenses/historical.php"
+  - "https://spdx.org/licenses/hpnd"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+standardVariableSet:
+  copyrightHolderNoLiability: "copyright holder"
+  copyrightHolderNoRepresentation: "copyright holder"
+  variableNoAdvertising: "copyright holder or related entities"
+  copyrightHolderNoWarranty: "copyright holder"
+
+evidence:
+  matches:
+    - "Permission to use, copy, modify and distribute this software and its documentation for any purpose and 
+       without fee is hereby granted, provided that *{.{0,200}}* appear in supporting documentation, and that the name
+       of *{.{0,100}}* not be used in advertising or publicity pertaining to distribution
+       of the software without specific, written prior permission"
+    - "makes no representations about the suitability of this software for any purpose"
+    - "DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY 
+       AND FITNESS"
+    - "IN NO EVENT SHALL *{.{0,100}}* BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR 
+       ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+       NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
+  excludes:
+    - "You are hereby granted permission under all Bitstream propriety rights to use,
+       copy, modify, sublicense, sell, and redistribute the 4 Bitstream Charter (r)
+       Type 1 outline fonts and the 4 Courier Type 1 outline fonts for any purpose and
+       without restriction"
+    - "This software is provided \"as is\" without express or implied warranty"
+    - "Copyright 1992 Vrije Universiteit, The Netherlands
+
+       Permission to use, copy, modify, and distribute this software and its
+       documentation for any purpose and without fee is hereby granted, provided
+       that the above copyright notice appear in all copies and that both that
+       copyright notice and this permission notice appear in supporting
+       documentation, and that the name of the Vrije Universiteit not be used in"
+
+
+licenseTemplate:
+  "<lq>Permission to use, copy, modify and distribute this software and its documentation for any purpose and 
+  without fee is hereby granted, provided that the above copyright notice appear in all copies, and that 
+  both that the copyright notice and this permission notice appear in supporting documentation, and that 
+  the name of {{variableNoAdvertising}} not be used in advertising or publicity pertaining 
+  to distribution of the software without specific, written prior permission. <p>{{copyrightHolderNoRepresentation}} makes no 
+  representations about the suitability of this software for any purpose.</p><p>It is provided \"as is\" without 
+  express or implied warranty.</p>
+  <codeph>{{copyrightHolderNoWarranty}} DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED 
+  WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY SPECIAL, 
+  INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, 
+  WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION 
+  WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</codeph></lq>"

@@ -1,6 +1,6 @@
-canonicalName: Oracle Technology Network License Agreement 2016 (Nov)
+canonicalName: Oracle Technology Network License 2016 (November)
 category: OTN
-shortName: OTN-Distribution
+shortName: OTN-2016-November
 
 # https://www.oracle.com/downloads/licenses/distribution-license.html
 
@@ -15,6 +15,7 @@ canonicalNameHistory:
   - "Oracle Technology Network Distribution License Agreement"
   - "Oracle Technology Network License Agreement 2016-11-30"
   - "Oracle Technology Network License Agreement 2026 (Nov)"
+  - "Oracle Technology Network License Agreement 2016 (Nov)"
 
 evidence:
   matches:

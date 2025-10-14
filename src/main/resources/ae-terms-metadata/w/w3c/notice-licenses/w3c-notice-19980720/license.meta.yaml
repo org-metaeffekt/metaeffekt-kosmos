@@ -1,5 +1,5 @@
 canonicalName: W3C Software Notice and License (1998-07-20)
-category: W3C
+category: W3C Software
 spdxIdentifier: W3C-19980720
 
 otherIds:
@@ -50,7 +50,7 @@ licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this softw
                   <ol><li>The full text of this NOTICE in a location viewable to users of the redistributed or derivative work.</li>
                   <li>Any pre-existing intellectual property disclaimers, notices, or terms and conditions. If none exist,
                   a short notice of the following form (hypertext is preferred, text is permitted) should be used within the body of any redistributed
-                  or derivative code: \"Copyright &copy; [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of Technology,
+                  or derivative code: \"Copyright &#169; [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of Technology,
                   Institut National de Recherche en Informatique et en Automatique, Keio University).
                   All Rights Reserved. http://www.w3.org/Consortium/Legal/\"</li>
                   <li>Notice of any changes or modifications to the W3C files, including the date changes were made.

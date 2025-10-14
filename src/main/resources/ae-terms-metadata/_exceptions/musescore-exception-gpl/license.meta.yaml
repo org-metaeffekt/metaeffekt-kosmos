@@ -1,0 +1,15 @@
+canonicalName: MuseScore Exception (GPL)
+category: MuseScore Exception
+shortName: MuseScore-Exception-GPL
+
+type: exception
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with MuseScore Exception (GPL))
+
+evidence:
+  matches:
+    - "If you want to redistribute MuseScore, you must comply with the GNU General Public License"
+    - "If you create a document which uses fonts included in MuseScore, and embed this font or unaltered portions of this font into the document, then this font does not by itself cause the resulting document to be covered by the GNU General Public License"
+    - "This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License"
+    - "If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so"

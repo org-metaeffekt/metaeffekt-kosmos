@@ -1,0 +1,43 @@
+canonicalName: LZMA SDK Proprietary License
+category: LZMA SDK License
+shortName: LZMA-SDK-Proprietary
+
+otherIds:
+  - "scancode:lzma-sdk-original"
+
+canonicalNameHistory:
+  - "LZMA SDK Original"
+
+alternativeNames:
+  - "LZMA SDK Original"
+
+expectedMatches:
+  - "GNU Lesser General Public License (undefined) + Common Public License (undefined)"
+
+evidence:
+  matches:
+    - "LZMA SDK also can be available under a proprietary license which 
+       can include"
+    - "Right to modify code without subjecting modified code to the 
+       terms of the CPL or GNU LGPL"
+    - "Technical support for code"
+    - "To request such proprietary license or any additional consultations,
+       send email message from that page"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "LZMA SDK provides the documentation, samples, header files, libraries, and tools you need to develop 
+         applications that use LZMA compression.",
+      matchNext: 
+        "LICENSE"
+    },
+    {
+      match:
+        "LZMA SDK provides the documentation, samples, header files, libraries, and tools you need to develop 
+               applications that use LZMA compression. License",
+      matchNext:
+        "LZMA SDK is available under any of the following licenses:"
+    }
+  ]

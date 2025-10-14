@@ -1,0 +1,28 @@
+canonicalName: DSSI-VST Exception (GPL)
+category: DSSI VST Exception
+shortName: DSSI-VST-Exception-GPL
+
+type: exception
+
+combinedWith:
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with DSSI-VST Exception (GPL))"
+
+evidence:
+  matches:
+    - "except that you are hereby permitted to omit the source code to the two VST SDK header files aeffect.h and
+       aeffectx.h (the source code of which would otherwise be required by section 3 of the GPL) when redistributing dssi-vst"
+    - "The full terms of the GPL continue to apply to all of the remaining source code for dssi-vst"
+    - "except that you are hereby permitted to
+       omit the source code to the two VST SDK header files aeffect.h and
+       aeffectx.h (the source code of which would otherwise be required by
+       section 3 of the GPL) when redistributing liblo as part of any version of dssi-vst"
+    - "This offer does not imply any exemption to the GPL for
+       the liblo code itself or the remainder of dssi-vst, nor to any other derived work that may use liblo"
+
+references:
+  "GPL":
+    matches:
+      - "You may distribute and/or modify dssi-vst under the terms of version 2
+         of the GNU General Public License as published by the Free Software
+         Foundation (full text below), except that you are hereby permitted to
+         omit the source code to the two VST SDK header files aeffect.h and aeffectx.h"

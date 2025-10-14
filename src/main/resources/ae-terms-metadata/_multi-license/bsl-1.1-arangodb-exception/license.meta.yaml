@@ -1,0 +1,19 @@
+canonicalName: Business Source License 1.1 (with ArangoDB Exception (Business Source License 1.1))
+category: Business Source+ArangoDB
+shortName: Business-Source-1.1-ArangoDB-Exception
+
+type: expression
+
+displayName: Business Source License 1.1 (with ArangoDB Exception)
+
+combinedWith:
+  ArangoDB Exception (Business Source License 1.1): Business Source License 1.1 (with ArangoDB Exception (Business Source License 1.1))
+
+segmentation:
+  revert: [
+    { match:
+        "The Business Source License (this document, or the “License”) is not an Open Source license. However, the Licensed Work will eventually be made available under an Open Source License, as stated in this License.",
+      matchNext:
+        "Business Source License 1.1 Terms The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work"
+    }
+]

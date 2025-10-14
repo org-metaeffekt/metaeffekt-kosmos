@@ -1,9 +1,12 @@
-canonicalName: X11-Style (Xilinx)
+canonicalName: X11 License (Xilinx)
 category: X11
 shortName: X11-Xilinx
 
 otherIds:
   - "scancode:xilinx-2016"
+
+canonicalNameHistory:
+  - "X11-Style (Xilinx)"
 
 representedAs: X11 License
 

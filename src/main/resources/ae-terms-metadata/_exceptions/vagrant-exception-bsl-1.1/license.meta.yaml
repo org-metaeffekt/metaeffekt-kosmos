@@ -1,0 +1,29 @@
+canonicalName: Vagrant Exception (Business Source License 1.1)
+category: Vagrant Exception
+shortName: Vagrant-Exception-Business-Source-1.1
+
+type: exception
+
+alternativeNames:
+  - "Vagrant Additional Use Grant for BSL 1.1"
+  - "Vagrant additional use grant for BSL"
+  - "Hashicorp BSL additional use grant"
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Vagrant Exception (Business Source License 1.1))
+
+evidence:
+  matches:
+    - "You may make production use of the Licensed Work, provided
+      Your use does not include offering the Licensed Work to third
+      parties on a hosted or embedded basis in order to compete with
+      HashiCorp’s paid version(s) of the Licensed Work"
+
+references:
+  "MPL":
+    matches:
+      - "Change Date:          Four years from the date the Licensed Work is published.
+        Change License:       MPL 2.0"
+      - "Change License:
+
+         MPL 2.0"

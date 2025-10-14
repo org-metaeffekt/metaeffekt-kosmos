@@ -1,0 +1,11 @@
+canonicalName: Apache License 2.0 (with Gigablast Exception (Apache 2.0))
+category: Apache+Gigablast
+shortName: Apache-2.0-Gigablast-Exception
+
+type: expression
+
+displayName: Apache License 2.0 (with Gigablast Exception)
+
+combinedWith:
+  Gigablast Exception (Apache 2.0): Apache License 2.0 (with Gigablast Exception (Apache 2.0))
+
