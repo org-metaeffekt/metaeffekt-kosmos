@@ -25,3 +25,6 @@ evidence:
        the modified Documentation or with Products"
     - "The use of such software, firmware, or code is subject to the applicable licence
        terms and conditions"
+
+mappings:
+  "CERN OHL,NEWLINE-MARKER Verstion 1.1 or later": "CERN OHL,NEWLINE-MARKER Version 1.1 or later"
