@@ -1,0 +1,8 @@
+canonicalName: GNU Lesser General Public License 2.0 + MIT License
+category: LGPL-MIT
+shortName: LGPL-2.0-MIT
+
+type: expression
+
+alternativeNames:
+  - "(LGPL-2.0 or MIT)"

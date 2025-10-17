@@ -1,0 +1,26 @@
+canonicalName: Business Source License 1.1 (with EigenLayer Exception (Business Source License 1.1))
+category: Business Source+EigenLayer
+shortName: Business-Source-1.1-EigenLayer-Exception
+
+type: expression
+
+displayName: Business Source License 1.1 (with EigenLayer Exception)
+
+combinedWith:
+  EigenLayer Exception (Business Source License 1.1): Business Source License 1.1 (with EigenLayer Exception (Business Source License 1.1))
+
+segmentation:
+  revert: [
+    {
+      match:
+        "All commits after 6de01c6c16d6df44af15f0b06809dc160eac0ebf (i.e. committed to this repository after February 6, 2024) have a change date of 2027-02-06 (February 6th, 2027) Change License: MIT",
+      matchNext:
+        "Terms The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work"
+    },
+    {
+      match:
+        "MariaDB hereby grants you permission to use this License’s text to license your works, and to refer to it using the trademark \"Business Source License\", as long as you comply with the Covenants of Licensor below.",
+      matchNext:
+        "Covenants of Licensor In consideration of the right to use this License’s text and the \"Business Source License\" name and trademark, Licensor covenants to MariaDB"
+    },
+]

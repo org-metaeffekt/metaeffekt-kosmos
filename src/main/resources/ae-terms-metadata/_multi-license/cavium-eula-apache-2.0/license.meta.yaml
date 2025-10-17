@@ -1,0 +1,14 @@
+canonicalName: Cavium EULA + Apache License 2.0
+category: Cavium-Apache
+shortName: Cavium-EULA-Apache-2.0
+
+type: expression
+
+combinedWith:
+  "Apache License 2.0": Cavium EULA + Apache License 2.0
+  "Cavium EULA": Cavium EULA + Apache License 2.0
+
+alternativeNames:
+  - "dual licensed under both the Cavium End User License Agreement and the Apache 2.0 license"
+
+

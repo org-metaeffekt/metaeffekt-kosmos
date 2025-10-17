@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 1.0 (or any later version) + Artistic License (undefined)
+category: GPL+Artistic
+shortName: GPL-1.0+-OR-Artistic-?
+
+type: expression
+
+alternativeNames:
+  - "a) the GNU General Public License as published by the Free 
+     Software Foundation; either version 1 or (at your option) any later version or b) the 
+     Artistic License which comes with Perl"
+  - "GPL-1+ or Artistic"
+  - "GPL1+ | Artistic"

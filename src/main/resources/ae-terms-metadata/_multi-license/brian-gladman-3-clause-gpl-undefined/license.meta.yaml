@@ -1,0 +1,19 @@
+canonicalName: Brian Gladman 3-Clause License (with Brian Gladman Exception)
+category: Brian Gladman+Gladman Exception
+shortName: Brian-Gladman-3-clause-Brian-Gladman-Exception
+
+type: expression
+
+otherIds:
+  - "scancode:brian-gladman-dual"
+
+expectedMatches:
+  - "GNU General Public License (undefined)"
+
+combinedWith:
+  Brian Gladman 3-Clause License: Brian Gladman 3-Clause License (with Brian Gladman Exception)
+  Brian Gladman Exception: Brian Gladman 3-Clause License (with Brian Gladman Exception)
+
+alternativeNames:
+  - "Brian Gladman 3-Clause License with Brian Gladman Exception"
+

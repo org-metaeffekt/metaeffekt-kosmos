@@ -1,0 +1,19 @@
+canonicalName: Cavium EULA
+category: Cavium EULA
+shortName: Cavium-EULA
+
+alternativeNames:
+  - "Cavium End User License Agreement"
+  - "Cavium EULA"
+
+evidence:
+  matches:
+  - "Conditioned upon compliance with the terms and conditions of this license and
+     any Singed Agreement, Cavium grant to Customer a revocable, nonexclusive, and
+     nontransferable license"
+  - "use and modify without right to sublicense the
+     LiquidIO VSW software, solely for the purpose of incorporating the LiquidIO VSW
+     software for use with a Cavium product"
+  - "reproduce and distribute,
+     in object code form only, copies of Liquid IO software solely for use with the
+     Cavium products"

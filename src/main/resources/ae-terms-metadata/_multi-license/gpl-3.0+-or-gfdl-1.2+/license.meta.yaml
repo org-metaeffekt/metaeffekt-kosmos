@@ -1,0 +1,10 @@
+canonicalName: GNU General Public License 3.0 (or any later version) + GNU Free Documentation License 1.2 (or any later version)
+category: GPL+GFDL
+shortName: GPL-3.0+-OR-GFDL-1.2+
+
+type: expression
+
+alternativeNames:
+  - "GPL-3+ or GFDL-1.2+"
+  - "GFDL-1.2+ or GPL-3+"
+  - "duallicensed under the GNU GPL version 3 or later and the GNU FDL version 1.2 or later"

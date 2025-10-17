@@ -1,0 +1,10 @@
+canonicalName: GNU General Public License 2.0 (with linking exception)
+category: GPL-W-LE
+shortName: GPL-2.0-LE
+
+defaultSourceCategory: annex
+requiresSourceCodeProvision: true
+
+type: expression
+
+representedAs: GNU General Public License 2.0 (with exceptions)

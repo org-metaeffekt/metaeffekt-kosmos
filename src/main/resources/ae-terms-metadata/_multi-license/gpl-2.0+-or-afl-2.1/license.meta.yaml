@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 (or any later version) + Academic Free License 2.1
+# as we match an combine based on content of the BSD 3-Clause we use this as category
+category: GPL-OR-AFL
+shortName: GPL-2.0+-OR-AFL-2.1
+
+type: expression
+
+alternativeNames:
+  - "GPL-2+ or AFL-2.1"
+  - "GPL-2.0+ or AFL-2.1"
+  - "either the GPL-2+ or the AFL-2.1"
+

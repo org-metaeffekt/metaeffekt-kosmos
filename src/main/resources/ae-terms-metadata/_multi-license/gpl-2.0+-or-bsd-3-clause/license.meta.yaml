@@ -1,0 +1,10 @@
+canonicalName: GNU General Public License 2.0 + BSD 3-Clause License
+# as we match an combine based on content of the BSD 3-Clause we use this as category
+category: GPL+BSD-3-Clause
+shortName: GPL-2.0+-OR-BSD-3-Clause
+
+type: expression
+
+alternativeNames:
+  - "This file can be distributed under either the GNU General Public License
+     (version 2 or higher) or the 3-clause BSD License"

@@ -1,0 +1,22 @@
+canonicalName: Business Source License 1.1 (with Directus Exception (Business Source License 1.1))
+category: Business Source+Directus
+shortName: Business-Source-1.1-Directus-Exception
+
+type: expression
+
+displayName: Business Source License 1.1 (with Directus Exception)
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with Directus Modifier (Business Source License 1.1))"
+
+combinedWith:
+  Directus Exception (Business Source License 1.1): Business Source License 1.1 (with Directus Exception (Business Source License 1.1))
+
+segmentation:
+  revert: [
+    { match:
+        "Change Date: Three years from release date Change License: GNU General Public License (GPL) v3 For information about alternative licensing arrangements, please visit https://directus.io/pricing.",
+      matchNext:
+        "Business Source License 1.1 Terms The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work"
+    },
+]

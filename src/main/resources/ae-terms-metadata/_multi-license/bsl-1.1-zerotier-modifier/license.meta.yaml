@@ -1,0 +1,19 @@
+canonicalName: Business Source License 1.1 (with ZeroTier Modifier (Business Source License 1.1))
+category: Business Source+ZeroTier
+shortName: Business-Source-1.1-ZeroTier-Modifier
+
+type: expression
+
+displayName: Business Source License 1.1 (with ZeroTier Modifier)
+
+combinedWith:
+  ZeroTier Modifier (Business Source License 1.1): Business Source License 1.1 (with ZeroTier Modifier (Business Source License 1.1))
+
+segmentation:
+  revert: [
+    { match:
+        "For more information on the use of the Business Source License for ZeroTier products, please visit our pricing page which contains license details and and license FAQ: https://zerotier.com/pricing For more information on the use of the Business Source License generally, please visit the Adopting and Developing Business Source License FAQ at https://mariadb.com/bsl-faq-adopting.",
+      matchNext:
+        "Business Source License 1.1 Terms The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work"
+    }
+]

@@ -1,0 +1,8 @@
+canonicalName: GNU General Public License 2.0 + Artistic License (undefined)
+category: GPL+Artistic
+shortName: GPL-2.0-OR-Artistic-?
+
+type: expression
+
+alternativeNames:
+  - "GPL-2 or Artistic"

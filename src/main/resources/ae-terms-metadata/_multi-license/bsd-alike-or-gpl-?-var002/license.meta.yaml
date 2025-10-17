@@ -1,0 +1,9 @@
+canonicalName: BSD alike + GNU General Public License (undefined) 002
+# as we match an combine based on content of the BSD 3-Clause we use this as category
+category: BSD+GPL
+shortName: BSD-alike-OR-GPL-?-Var002
+
+ignore: true
+deprecated: true
+
+type: expression

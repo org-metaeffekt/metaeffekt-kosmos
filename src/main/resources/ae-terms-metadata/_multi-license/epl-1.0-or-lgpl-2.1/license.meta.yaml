@@ -1,0 +1,20 @@
+canonicalName: Eclipse Public License 1.0 + GNU Lesser General Public License 2.1
+category: EPL-or-LGPL
+shortName: EPL-1.0-OR-LGPL-2.1
+
+type: expression
+
+alternativeNames:
+  - "Eclipse Public License 1.0 + GNU Lesser General Public License 2.1"
+
+ignoreMatches:
+  - "Eclipse Public License 1.0"
+  - "GNU Lesser General Public License 2.1"
+
+evidence:
+  matches:
+  - "This program and the accompanying materials are dual-licensed under
+     either the terms of the Eclipse Public License v1.0 as published by
+     the Eclipse Foundation or (per the licensee's choosing)
+     under the terms of the GNU Lesser General Public License version 2.1
+     as published by the Free Software Foundation"

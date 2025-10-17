@@ -1,0 +1,9 @@
+canonicalName: Eclipse Public License 2.0 + BSD 3-Clause License + GNU General Public License 2.0 (with Classpath exception)
+category: EPL+BSD+GPL-CPE
+shortName: EPL-2.0-OR-BSD-3-Clause-OR-GPL-2.0-CPE
+
+type: expression
+
+alternativeNames:
+  - "EPL-2.0 OR BSD-3-Clause OR GPL-2.0-only with Classpath-exception-2.0"
+  - "EPL-2.0 OR BSD-3-Clause OR GPL-2.0 with Classpath-exception-2.0"

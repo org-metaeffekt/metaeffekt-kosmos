@@ -1,0 +1,10 @@
+canonicalName: Business Source License 1.1 (with Uniswap Exception (Business Source License 1.1))
+category: Business Source+Uniswap
+shortName: Business-Source-1.1-Uniswap-Exception
+
+type: expression
+
+displayName: Business Source License 1.1 (with Uniswap Exception)
+
+combinedWith:
+  Uniswap Exception (Business Source License 1.1): Business Source License 1.1 (with Uniswap Exception (Business Source License 1.1))

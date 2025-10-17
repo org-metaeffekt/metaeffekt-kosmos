@@ -1,0 +1,14 @@
+canonicalName: GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 030))
+category: GPL+Linking
+shortName: GPL-2.0+-Linking-Exception-GPL-030
+
+type: expression
+
+displayName:
+  "GNU General Public License 2.0 (or any later version; with Linking exception (variant 030))"
+
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 030))"
+  "Linking Exception (GPL; variant 030)": "GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 030))"

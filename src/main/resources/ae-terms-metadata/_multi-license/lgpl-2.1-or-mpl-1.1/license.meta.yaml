@@ -1,0 +1,21 @@
+canonicalName: GNU Lesser General Public License 2.1 + Mozilla Public License 1.1
+category: LGPL+MPL
+shortName: LGPL-2.1-OR-MPL-1.1
+
+type: expression
+
+ignoreMatches:
+  - "GNU Lesser General Public License 2.1"
+  - "Mozilla Public License 1.1"
+
+alternativeNames:
+  - "either the GNU Lesser General Public License (LGPL) version 2.1 or the Mozilla Public License (MPL) version 1.1"
+  - "either the GNU Lesser General Public License version 2.1 or the Mozilla Public License version 1.1"
+  - "either the GNU Lesser General Public License v2.1 or the Mozilla Public License v1.1"
+  - "either the GNU Lesser General Public License 2.1 or the Mozilla Public License 1.1"
+  - "either license: COPYING-LGPL-2.1 COPYING-MPL-1.1"
+  - "either under the terms of the GNU Lesser General Public License version 2.1 as published by the Free Software Foundation
+     (the LGPL) or, at your option, under the terms of the Mozilla Public License Version 1.1"
+##- "under either the MPL or the LGPL"
+
+

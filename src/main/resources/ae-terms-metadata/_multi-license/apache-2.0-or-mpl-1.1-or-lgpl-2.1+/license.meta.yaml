@@ -1,0 +1,25 @@
+canonicalName: Mozilla Public License 1.1 + GNU Lesser General Public License 2.1 (or any later version) + Apache License 2.0
+category: Apache-MPL-LGPL
+shortName: Apache-2.0-OR-MPL-1.1-OR-LGPL-2.1+
+
+alternativeNames:
+  - "Mozilla Public License 1.1 or GNU Lesser General Public License 2.1
+     (or any later version) or Apache License 2.0"
+
+type: expression
+
+# workaround to make evidence and license text work because this is a multi-license expression: if we want this to follow our convention evidence and license text should be deleted.
+expectedMatches:
+#  - "GNU Lesser General Public License 2.1 (or any later version)" # referenced
+  - "Apache License 2.0"
+  - "Mozilla Public License 1.1 + GNU Lesser General Public License 2.1 (or any later version)"
+
+evidence:
+  matches:
+    - "The contents of this file are subject to the Mozilla Public License Version
+       1.1 (the \"License\"); you may not use this file except in compliance with
+       the License"
+    - "Alternatively, the contents of this file may be used under
+       the terms of the GNU Lesser General Public License Version 2.1 or later,
+       or the Apache License Version 2.0"
+

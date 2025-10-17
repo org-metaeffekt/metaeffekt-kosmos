@@ -1,0 +1,9 @@
+canonicalName: GNU General Public License 2.0 (or any later version) + FreeType Project License
+category: FTL+GPL
+shortName: FTL-OR-GPL-2.0+
+
+type: expression
+
+alternativeNames:
+  - "GPL-2+ or FTL"
+

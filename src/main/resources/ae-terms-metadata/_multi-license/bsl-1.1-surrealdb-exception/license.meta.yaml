@@ -1,0 +1,19 @@
+canonicalName: Business Source License 1.1 (with SurrealDB Exception (Business Source License 1.1))
+category: Business Source+SurrealDB
+shortName: Business-Source-1.1-SurrealDB-Exception
+
+type: expression
+
+displayName: Business Source License 1.1 (with SurrealDB Exception)
+
+combinedWith:
+  SurrealDB Exception (Business Source License 1.1): Business Source License 1.1 (with SurrealDB Exception (Business Source License 1.1))
+
+segmentation:
+  revert: [
+    { match:
+        "However, the Licensed Work will eventually be made available under an Open Source License, as stated in this License. License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved. \"Business Source License\" is a trademark of MariaDB Corporation Ab.",
+      matchNext:
+        "Business Source License 1.1 Terms The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work"
+    }
+  ]

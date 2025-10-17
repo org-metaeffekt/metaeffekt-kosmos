@@ -1,0 +1,13 @@
+canonicalName: GNU General Public License 3.0 (with Autoconf exception)
+category: GPL+Autoconf
+shortName: GPL-3.0-Autoconf
+
+representedAs: "GNU General Public License 3.0 (with exceptions)"
+
+canonicalNameHistory:
+  - GNU General Public License 3.0 (with autoconf exception)
+
+type: expression
+
+ignore: true
+deprecated: true # represented by GNU General Public License 3.0 (with autoconf exception)

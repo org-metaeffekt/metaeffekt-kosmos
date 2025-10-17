@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 (with MuseScore Exception (GPL))
+category: GPL+MuseScore
+shortName: GPL-2.0-MuseScore-Exception-GPL
+
+type: expression
+
+displayName: GNU General Public License 2.0 (with MuseScore Exception)
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with MuseScore Exception (GPL))
+  MuseScore Exception (GPL): GNU General Public License 2.0 (with MuseScore Exception (GPL))

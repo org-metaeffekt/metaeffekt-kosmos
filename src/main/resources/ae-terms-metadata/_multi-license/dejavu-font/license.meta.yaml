@@ -1,0 +1,17 @@
+canonicalName: DejaVu Font License
+category: DejaVu Font License
+shortName: dejavu-font
+
+type: expression
+
+otherIds:
+  - "scancode:dejavu-font"
+
+alternativeNames:
+  - "dejavu font license"
+  - "DejaVu Font License"
+
+combinedWith:
+  "Arev Font License": "DejaVu Font License"
+  "Bitstream Vera License": "DejaVu Font License"
+

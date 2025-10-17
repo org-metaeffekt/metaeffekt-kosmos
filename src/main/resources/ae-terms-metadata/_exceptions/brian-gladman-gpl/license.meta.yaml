@@ -1,0 +1,18 @@
+canonicalName: Brian Gladman Exception
+category: Brian Gladman Exception
+shortName: Brian-Gladman-Exception
+
+type: exception
+
+expectedMatches:
+  - "GNU General Public License (undefined)"
+
+alternativeNames:
+  - "Brian Gladman Exception"
+
+evidence:
+  matches:
+    - "ALTERNATIVELY, provided that this notice is retained in full, this product
+        may be distributed under the terms of the GNU General Public License (GPL),
+        of your choice
+        in which case the provisions of the GPL apply INSTEAD OF those given above"

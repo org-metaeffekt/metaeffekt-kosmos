@@ -1,0 +1,10 @@
+canonicalName: Business Source License 1.1 (with Opensecurity Exception (Business Source License 1.1))
+category: Business Source+Opensecurity
+shortName: Business-Source-1.1-Opensecurity-Exception
+
+type: expression
+
+displayName: Business Source License 1.1 (with Opensecurity Exception)
+
+combinedWith:
+  Opensecurity Exception (Business Source License 1.1): Business Source License 1.1 (with Opensecurity Exception (Business Source License 1.1))

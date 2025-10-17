@@ -1,0 +1,15 @@
+canonicalName: GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception
+category: LGPL+CPL+Exceptions
+shortName: LGPL-undefined-OR-CPL-undefined-OR-LZMA-SDK-Linking-Exception-OR-LZMA SDK Version Exception-OR-LZMA SDK Usage Exception
+
+type: expression
+
+#ignore: true
+# FIXME-CONCEPT: this expression needs to be referenced in one of the listed licenses. Doing that results in the whole expression getting matched even if just 2 of the listed licenses get matched. This is due to combiner logic which cannot handle more than 2 licenses being combined. (see combinedWith in: LZMA SDK Version Exception)
+# ERROR: The multi-license GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception is not referred to
+#combinedWith:
+#  "GNU Lesser General Public License (undefined)": GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception
+#  "Common Public License (undefined)": GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception
+#  LZMA SDK Linking Exception: GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception
+#  LZMA SDK Usage Exception: GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception
+#  LZMA SDK Version Exception: GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception

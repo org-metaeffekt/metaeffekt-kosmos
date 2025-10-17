@@ -1,0 +1,18 @@
+canonicalName: AES-128 License 3.0
+category: AES-128
+shortName: AES-128-3.0
+
+otherIds:
+  - "scancode:aes-128-3.0"
+
+type: expression
+
+# This "license" is just a no warranty disclaimer. this serves no purpose anymore and is just kept for indexing/documentation reasons
+ignore: true
+
+expectedMatches:
+  - "Disclaimer (variant 002)"
+  - "Public Domain"
+
+# This combinedWith results in a decomposition of the match into disclaimer and public domain
+displayName: "Disclaimer (no liability; no warranty), Public Domain"

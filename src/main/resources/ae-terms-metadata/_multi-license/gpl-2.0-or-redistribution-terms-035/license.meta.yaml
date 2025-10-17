@@ -1,0 +1,12 @@
+canonicalName: GNU General Public License 2.0 + Redistribution Terms (variant 035)
+category: GPL+Redistribution
+shortName: GPL-2.0-Redistribution-var035
+
+type: expression
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 + Redistribution Terms (variant 035)
+  Redistribution Terms (variant 035): GNU General Public License 2.0 + Redistribution Terms (variant 035)
+
+alternativeNames:
+  - "GNU General Public License 2.0 OR Redistribution Terms (variant 035)"

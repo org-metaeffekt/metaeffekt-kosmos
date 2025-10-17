@@ -1,0 +1,37 @@
+canonicalName: GNU General Public License (undefined) + GNU Lesser General Public License (undefined) + BSD 3-Clause License + Artistic License (undefined) + Any OSI License
+category: GPL+LGPL+BSD+Artistic+AnyOSI
+
+# NOTE: the mapping to SPDX is quite inaccurate; however SPDX does not have the means to map undefined licenses
+spdxIdentifier: any-OSI-perl-modules
+
+type: expression
+
+# FIXME-QUERY: discuss this item with users; what would they expect
+
+otherIds:
+  - "scancode:any-osi-perl-modules"
+
+alternativeNames:
+  - "Any OSI License - Perl Modules"
+
+evidence:
+  matches:
+    - "This software may be redistributed under the terms of the GPL, LGPL,
+       modified BSD, or Artistic license, or any of the other OSI approved
+       licenses"
+
+references:
+  "BSD":
+    matches:
+      - "This software may be redistributed under the terms of the GPL, LGPL,
+         modified BSD, or Artistic license"
+
+  "GPL":
+    matches:
+      - "This software may be redistributed under the terms of the GPL, LGPL,
+         modified BSD, or Artistic license"
+
+  "LGPL":
+    matches:
+      - "This software may be redistributed under the terms of the GPL, LGPL,
+         modified BSD, or Artistic license"

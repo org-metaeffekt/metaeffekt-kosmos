@@ -1,0 +1,10 @@
+canonicalName: Business Source License 1.1 (with Eryph Exception (Business Source License 1.1))
+category: Business Source+Eryph
+shortName: Business-Source-1.1-Eryph-Exception
+
+type: expression
+
+displayName: Business Source License 1.1 (with Eryph Exception)
+
+combinedWith:
+  Eryph Exception (Business Source License 1.1): Business Source License 1.1 (with Eryph Exception (Business Source License 1.1))

@@ -1,0 +1,13 @@
+canonicalName: GNU General Public License 1.0 + Artistic License (undefined)
+category: GPL+Artistic
+shortName: GPL-1.0-OR-Artistic-?
+
+type: expression
+
+alternativeNames:
+  - "either the Artistic License or the GNU General Public License (v1)"
+  - "it under the terms of either:
+     a) the GNU General Public License as published by the Free Software
+     Foundation; either version 1, or
+     b) the \"Artistic License\""
+
