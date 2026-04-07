@@ -1,6 +1,7 @@
 pipeline {
     agent any
 
+    // NOTE: not migrated to java17 / maven3.9.12 yet; uses tagged versions
     tools {
         maven 'maven-3.9.6'
         jdk 'ZULU8'

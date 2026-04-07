@@ -1,9 +1,11 @@
 pipeline {
-    agent any
+    agent {
+        label 'metaeffekt-astronaut'
+    }
 
     tools {
-        maven 'maven-3.9.6'
-        jdk 'ZULU8'
+        jdk 'ZULU17'
+        maven 'MAVEN3912'
     }
 
     stages {
@@ -36,7 +38,7 @@ pipeline {
         stage('Build metaeffekt-core (skipping tests and javadoc)') {
             steps {
                 dir ('.metaeffekt-core') {
-                    withMaven(jdk: 'ZULU8', maven: 'maven-3.9.6') {
+                    withMaven(maven: 'MAVEN3912') {
                         sh 'mvn -B clean install -DskipTests -Dmaven.javadoc.skip=true'
                     }
                 }
@@ -46,7 +48,7 @@ pipeline {
         stage('Build metaeffekt-artifact-analysis (skipping tests and javadoc)') {
             steps {
                 dir ('.metaeffekt-terms-metadata') {
-                    withMaven(jdk: 'ZULU8', maven: 'maven-3.9.6') {
+                    withMaven(maven: 'MAVEN3912') {
                         sh 'mvn -B clean install -DskipTests -Dmaven.javadoc.skip=true'
                     }
                 }
@@ -58,7 +60,7 @@ pipeline {
                  // construct .local-properties
                  sh 'echo "ae.terms.metadata.path=src/main/resources/ae-terms-metadata" > .local-properties'
                  sh 'echo "spdx.license.list.path=.spdx-license-data" >> .local-properties'
-                 withMaven(jdk: 'ZULU8', maven: 'maven-3.9.6') {
+                withMaven(maven: 'MAVEN3912') {
                      sh 'mvn -B clean install -Duser.timezone=Europe/Berlin -Dae.core.version=HEAD-SNAPSHOT -Dae.artifact.analysis.version=HEAD-SNAPSHOT'
                  }
             }
