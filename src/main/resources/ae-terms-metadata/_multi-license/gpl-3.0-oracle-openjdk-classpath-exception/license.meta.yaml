@@ -1,0 +1,13 @@
+canonicalName: GNU General Public License 3.0 (with Oracle OpenJDK Classpath Exception (GPL))
+category: GPL+Oracle OpenJDK Classpath Exception
+shortName: GPL-3.0-Oracle-OpenJDK-Classpath-Exception
+
+type: expression
+
+combinedWith:
+  GNU General Public License 3.0: GNU General Public License 3.0 (with Oracle OpenJDK Classpath Exception (GPL))
+  Oracle OpenJDK Classpath Exception (GPL): GNU General Public License 3.0 (with Oracle OpenJDK Classpath Exception (GPL))
+
+displayName: "GNU General Public License 3.0 (with Oracle OpenJDK Classpath Exception)"
+
+representedAs: GNU General Public License 3.0 (with exceptions)

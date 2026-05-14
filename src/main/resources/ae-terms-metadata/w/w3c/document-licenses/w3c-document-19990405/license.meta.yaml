@@ -14,6 +14,9 @@ otherIds:
 alternativeNames:
   - "W3C® DOCUMENT NOTICE AND LICENSE"
   - "W3C DOCUMENT NOTICE AND LICENSE"
+  - "W3C Document Notice and License (1999-04-05)"
+  - "W3C Document Notice and License - 1999-04-05"
+  - "W3C-19990405"
 
 requiresCopyright: true
 missingCopyrightNotAllowed: true
@@ -28,7 +31,8 @@ evidence:
      statement is linked, in any medium for any purpose and without fee or royalty is hereby granted, provided that
      you include the following on ALL copies of the document, or portions thereof, that you use"
   excludes:
-    - "By obtaining, using and/or copying this document, or the W3C document from which this statement is linked, you agree that you have read, understood, and will comply with the following terms and conditions"
+    - "By obtaining, using and/or copying this document, or the W3C document from which this statement is linked,
+       you agree that you have read, understood, and will comply with the following terms and conditions"
 
 licenseTemplate: "<lq>Permission to use, copy, and distribute the contents of this
                    document, or the W3C document from which this statement is linked,

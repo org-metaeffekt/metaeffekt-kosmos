@@ -1,0 +1,27 @@
+canonicalName: Dify Modifier (Apache-2.0)
+category: Dify Modifier
+shortName: Dify-Modifier-Apache-2.0
+
+canonicalNameHistory:
+  - "Dify Modifier (Apache 2.0)"
+
+type: modifier
+
+comments:
+  - "source: https://github.com/langgenius/dify/blob/main/LICENSE"
+
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 (with Dify Modifier (Apache-2.0))
+
+evidence:
+  matches:
+    - "Dify may be utilized commercially, including as a backend service for other applications or as an application development platform for enterprises"
+    - "Multi-tenant service: Unless explicitly authorized by Dify in writing, you may not use the Dify source code to operate a multi-tenant environment"
+    - "In the process of using Dify's frontend, you may not remove or modify the LOGO or copyright information in the Dify console or applications"
+    - "Your contributed code may be used for commercial purposes, including but not limited to its cloud business operations"
+
+references:
+  "Apache License":
+    matches:
+      - "Dify is licensed under a modified version of the Apache License 2.0, with the following additional conditions"
+      - "Apart from the specific conditions mentioned above, all other rights and restrictions follow the Apache License 2.0. Detailed information about the Apache License 2.0 can be found at http://www.apache.org/licenses/LICENSE-2.0"

@@ -5,11 +5,13 @@ spdxIdentifier: IPA
 otherIds:
   - "scancode:ipa-font"
   - "osi:IPA"
+  - "osi-deprecated:ipafont-html"
 
 alternativeNames:
   - "IPA License"
   - "IPA LICENSE"
   - "IPA Font License Agreement v1.0"
+  - "IPA Font License"
 
 evidence:
   matches:

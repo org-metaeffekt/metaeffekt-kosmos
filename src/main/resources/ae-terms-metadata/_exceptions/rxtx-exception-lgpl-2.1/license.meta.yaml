@@ -1,20 +1,26 @@
-canonicalName: RXTX Exception (LGPL 2.1)
-category: RXTX
+canonicalName: RXTX Exception (LGPL-2.1)
+category: RXTX Exception
 shortName: RXTX-Exception-LGPL-2.1
 
-canonicalNameHistory:
-  - "RXTX exception to LGPL 2.1"
+# NOTE: in the official license file the license is linked to the LPGL-2.1
+# source: https://github.com/rxtx/rxtx/blob/development/COPYING
 
 type: exception
 
+canonicalNameHistory:
+  - "RXTX exception to LGPL 2.1"
+  - "RXTX Exception (LGPL 2.1)"
+
 combinedWith:
-  GNU Lesser General Public License 2.1 (or any later version): GNU Lesser General Public License 2.1 (or any later version; with RXTX Exception (LGPL 2.1))
+  GNU Lesser General Public License 2.1 (or any later version): GNU Lesser General Public License 2.1 (or any later version; with RXTX Exception (LGPL-2.1))
 
 otherIds:
   - "scancode:rxtx-exception-lgpl-2.1"
 
 alternativeNames:
   - "RXTX exception to LGPL 2.1"
+  - "RXTX Exception to LGPL 2.1 License"
+  - "RXTX License v 2.1"
 
 evidence:
   matches:
@@ -36,9 +42,7 @@ evidence:
        a modified version which carries forward this exception"
     
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
-      - "under the terms of the GNU Lesser General
-     Public License plus this exception"
-      - "The GNU Lesser General Public License
-         gives permission to release a modified version without this exception"
+      - "under the terms of the GNU Lesser General Public License plus this exception"
+      - "The GNU Lesser General Public License gives permission to release a modified version without this exception"

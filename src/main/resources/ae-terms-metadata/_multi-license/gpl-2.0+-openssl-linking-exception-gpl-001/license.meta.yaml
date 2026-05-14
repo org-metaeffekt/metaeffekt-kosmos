@@ -6,6 +6,9 @@ shortName: GPL-2.0+-OpenSSL-Linking-Exception-001
 #canonicalNameHistory:
 #  - "GNU General Public License 2.0 (or any later version; OpenSSL exception)"
 
+alternativeNames:
+  - "ejabberd General Public License 2.0 with OpenSSL Exception" # NOTE: ejabberd main code base license: GPL 2 or later + permission to link with OpenSSL (see: https://www.ejabberd.im/licenses/index.html)
+
 canonicalNameHistory:
   - "GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 022))"
 

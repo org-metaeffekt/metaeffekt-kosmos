@@ -1,0 +1,22 @@
+canonicalName: Indiana University Software License 1.0
+category: Indiana University
+shortName: IU-SL-1.0
+
+otherIds:
+  - "scancode:caramel-license-1.0"
+
+alternativeNames:
+  - "Indiana University Software License 1.0"
+
+evidence:
+  matches:
+    - "This product includes software developed at the University of Notre Dame
+       and the Pervasive Technology Labs at Indiana University"
+    - "For technical information contact Andrew Lumsdaine at the Pervasive Technology
+       Labs at Indiana University"
+    - "Alternatively, this acknowledgement may appear in the software itself, and
+       wherever such third-party acknowledgments normally appear"
+
+
+
+

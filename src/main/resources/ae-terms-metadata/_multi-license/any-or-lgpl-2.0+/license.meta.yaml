@@ -23,6 +23,10 @@ references:
     matches:
       - "Alternatively, the contents of this file may be used under the terms of the
          LGPL license (the GNU LIBRARY GENERAL PUBLIC LICENSE)"
+  "LibraryGPL":
+    matches:
+      - "Alternatively, the contents of this file may be used under the terms of the
+         LGPL license (the GNU LIBRARY GENERAL PUBLIC LICENSE)"
 
 evidence:
   matches:

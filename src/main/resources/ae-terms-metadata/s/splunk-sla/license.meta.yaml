@@ -35,9 +35,13 @@ references:
   "CPL":
     matches:
       - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"
-  "LGPL":
+  "LesserGPL":
     matches:
-      - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"
+      - "“Open Source Software” means software or similar subject matter that is distributed under an open source 
+         license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, 
+         Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any 
+         of the foregoing licenses, or any other license approved as an open source license by the Open Source 
+         Initiative"
   "MIT":
     matches:
       - "“Open Source Software” means software or similar subject matter that is distributed under an open source license such as (by way of example only) the GNU General Public License, GNU Lesser General Public License, Apache License, Mozilla Public License, BSD License, MIT License, Common Public License, any derivative of any of the foregoing licenses, or any other license approved as an open source license by the Open Source Initiative"

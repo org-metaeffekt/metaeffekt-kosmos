@@ -5,6 +5,7 @@ spdxIdentifier: Multics
 otherIds:
   - "scancode:multics"
   - "osi:Multics"
+  - "osi-deprecated:multics-txt"
 
 alternativeNames:
   - "Multics License"

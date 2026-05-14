@@ -1,0 +1,15 @@
+canonicalName: GNU General Public License 2.0 (with DRAKVUF Modifier (GPL-2.0))
+category: GPL+DRAKVUF
+shortName: GPL-2.0-DRAKVUF-Modifier
+
+type: expression
+
+otherIds:
+  - "scancode:drakvuf-exception-2.0"
+
+displayName: "GNU General Public License 2.0 (with DRAKVUF Modifier)"
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with DRAKVUF Modifier (GPL-2.0))
+  "DRAKVUF Modifier (GPL-2.0)": GNU General Public License 2.0 (with DRAKVUF Modifier (GPL-2.0))
+

@@ -1,0 +1,35 @@
+canonicalName: Anti-Tivo License 1.0
+category: Anti-Tivo
+shortName: Anti-Tivo-1.0
+
+comments:
+  - "source: https://github.com/cppfastio/Anti-Tivo-License-ATL-v1.0/blob/main/license.txt"
+
+otherIds:
+  - "scancode:atl-1.0"
+
+alternativeNames:
+  - "Anti-Tivo License (ATL) v1.0"
+  - "Anti-Tivo v1.0"
+  - "anti-tivo v1.0"
+
+evidence:
+  matches:
+    - "This software is provided under the Anti-Tivo License (ATL), allowing unrestricted commercial use without
+       requiring source code disclosure, except under specific conditions outlined in Section 2"
+    - "If the device includes an app store, it must allow users to install modified versions of this software without
+       restrictions"
+    - "Manufacturers must not use cryptographic signatures, hardware verification, or other technical measures to
+       prevent users from modifying and reinstalling the software"
+    - "If a device does not meet these conditions, the software must be licensed under GPLv3, ensuring full compliance
+       with open-source principles"
+    - "The copyright holder reserves the right to enforce this license but is not obligated to do so"
+
+references:
+  "GPL":
+    matches:
+      - "If a device does not meet these conditions, the software must be licensed under GPLv3, ensuring full compliance
+         with open-source principles"
+      - "If a platform deliberately undermines open internet access (e.g., restricting the use of Progressive Web Applications (PWA)
+         through a closed framework), then all software on that platform must be licensed under GPLv3, ensuring users have
+         full modification and installation rights"

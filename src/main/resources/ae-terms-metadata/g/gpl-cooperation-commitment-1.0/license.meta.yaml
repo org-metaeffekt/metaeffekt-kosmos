@@ -28,12 +28,14 @@ references:
       - "accused of violating the Covered
          License the following provisions regarding cure and reinstatement, taken from GPL version 3"
       - "\"Covered License\" means the GNU General Public License, version 2 (GPLv2)"
-  "LGPL":
+  "LesserGPL":
     matches:
       - "\"Covered License\" means the GNU General Public License, version 2 (GPLv2), the GNU Lesser General Public
           License, version 2.1 (LGPLv2.1)"
-      - "or the GNU Library General Public License, version 2 (LGPLv2), all as
-        published by the Free Software Foundation"
+      - "or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation"
+  "LibraryGPL":
+    matches:
+      - "or the GNU Library General Public License, version 2 (LGPLv2), all as published by the Free Software Foundation"
   "CC-BY-SA":
     matches:
       - "This work is available under a Creative Commons Attribution-ShareAlike 4.0 International license

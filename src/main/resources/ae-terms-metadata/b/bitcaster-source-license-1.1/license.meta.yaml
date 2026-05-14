@@ -1,0 +1,38 @@
+canonicalName: Bitcaster Source License 1.1
+category: Bitcaster Source License
+shortName: Bitcaster-Source-License-1.1
+
+expectedMatches:
+  - "Apache License 2.0"
+
+secondaryLicenses:
+  - "Apache License 2.0"
+
+alternativeNames:
+  - "Bitcaster Source License, Version 1.1"
+  - "Bitcaster Source License Version 1.1"
+  - "Bitcaster Source Version v1.1"
+
+otherIds:
+  - "scancode:os4d-1.1-apache-2.0"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this License Grant and the Patents,
+       Redistribution and Trademark clauses below, we hereby grant you the right to
+       use, copy, modify, create derivative works, publicly perform, publicly display
+       and redistribute the Software for any Permitted Purpose identified below"
+    - "A Permitted Purpose is any purpose other than a Competing Use"
+    - "A Competing Use means making the Software available to others in a commercial product or service that"
+    - "substitutes for the Software"
+    - "To the extent your use for a Permitted Purpose would necessarily infringe our
+       patents, the license grant above includes a license under our patents"
+  excludes:
+    - "We hereby irrevocably grant you an additional license to use the Software under
+       the Apache License, Version 2.0 that is effective on the second anniversary of
+       the date we make the Software available"
+    - "Functional Source License, Version 1.1, Apache 2.0 Future License"
+    - "Functional Source License, Version 1.1, MIT Future License"
+
+mappings:
+  "MARKERA copy of the 3-clause BSD license is reproduced below. This license appliesNEWLINE-MARKERonly to files that indicate as such in their license header": " LICENSE-SEGMENT-MARKER MARKERA copy of the 3-clause BSD license is reproduced below. This license appliesNEWLINE-MARKERonly to files that indicate as such in their license header"

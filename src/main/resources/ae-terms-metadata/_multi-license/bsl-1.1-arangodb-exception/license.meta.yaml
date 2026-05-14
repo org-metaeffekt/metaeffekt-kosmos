@@ -1,13 +1,16 @@
-canonicalName: Business Source License 1.1 (with ArangoDB Exception (Business Source License 1.1))
-category: Business Source+ArangoDB
-shortName: Business-Source-1.1-ArangoDB-Exception
+canonicalName: Business Source License 1.1 (with ArangoDB Exception (BSL-1.1))
+category: BSL+ArangoDB
+shortName: BSL-1.1-ArangoDB-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with ArangoDB Exception (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with ArangoDB Exception)
 
 combinedWith:
-  ArangoDB Exception (Business Source License 1.1): Business Source License 1.1 (with ArangoDB Exception (Business Source License 1.1))
+  ArangoDB Exception (BSL-1.1): Business Source License 1.1 (with ArangoDB Exception (BSL-1.1))
 
 segmentation:
   revert: [

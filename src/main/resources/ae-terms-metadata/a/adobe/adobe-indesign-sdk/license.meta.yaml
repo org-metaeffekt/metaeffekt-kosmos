@@ -19,9 +19,9 @@ references:
   "GPL":
     matches:
       - "shall mean software licensed under the GNU General Public License, the GNU Lesser General Public License or any other license terms that could require"
-  "LGPL":
+  "LesserGPL":
     matches:
       - "shall mean software licensed under the GNU General Public License, the GNU Lesser General Public License or any other license terms that could require"
   "Public Domain":
     matches:
-      - "it was in the public domain at or subsequent to the time it was communicated to You by Adobe through no fault of Yours, (b) it was developed by Your employees or agents independently of and without reference to any information communicated to You by Adobe"
+      - "it was in the public domain at or subsequent to the time it was communicated to You by Adobe through no fault of Yours"

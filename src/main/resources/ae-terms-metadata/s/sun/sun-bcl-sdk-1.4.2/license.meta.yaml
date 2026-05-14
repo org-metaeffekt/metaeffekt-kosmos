@@ -8,6 +8,10 @@ otherIds:
 canonicalNameHistory:
   - "Sun Binary Code License SDK 1.4.2"
 
+alternativeNames:
+  - "Sun Binary Code License Agreement (J2SDK)"
+  - "Sun License for J2SDK"
+
 evidence:
   matches:
     - "Title to Software and all associated intellectual property rights is retained by Sun and/or its licensors"

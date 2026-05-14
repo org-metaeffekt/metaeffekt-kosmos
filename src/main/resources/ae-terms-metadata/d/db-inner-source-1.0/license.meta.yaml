@@ -1,0 +1,26 @@
+canonicalName: DB Inner Source License 1.0
+category: DB Inner Source
+shortName: DB-Inner-Source-1.0
+
+otherIds:
+  - "scancode:dbisl-1.0"
+
+alternativeNames:
+  - "DB Inner Source Lizenz Version 1.0"
+
+evidence:
+  matches:
+    - "Der Lizenzgeber erteilt Ihnen hiermit eine weltweite, unentgeltliche, nicht ausschließliche, unterlizenzierbare Lizenz, die Sie für Geschäftszwecke des DB Konzerns berechtigt"
+    - "das Werk uneingeschränkt zu nutzen"
+    - "das Werk zu vervielfältigen"
+    - "Für die Wahrnehmung dieser Rechte können beliebige, derzeit bekannte oder künftige Medien, Träger und Formate verwendet werden, soweit das geltende Recht dem nicht entgegensteht"
+    - "Der Lizenzgeber erteilt dem Lizenznehmer ein nicht ausschließliches, unentgeltliches Nutzungsrecht an seinen Patenten, sofern dies zur Ausübung der durch die Lizenz erteilten Nutzungsrechte am Werk notwendig ist"
+    - "Der Lizenzgeber kann das Werk entweder als Quellcode oder als ausführbaren Code zur Verfügung stellen"
+    - "Der Lizenznehmer darf das Werk ausschließlich für Geschäftszwecke des DB Konzerns nutzen"
+
+references:
+  "CC-BY":
+    matches:
+      - "## 18. Lizenz der Lizenz
+
+         Dieser Lizenztext ist lizenziert unter einer „[Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/)“ (CC-BY 4.0), siehe http://creativecommons.org/licenses/by/4.0/ für den vollständigen Lizenztext."

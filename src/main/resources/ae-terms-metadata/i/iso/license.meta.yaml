@@ -1,5 +1,6 @@
 canonicalName: ISO Permission
 category: ISO Permission
+spdxIdentifier: ISO-permission
 shortName: ISO-Permission
 
 otherIds:
@@ -10,6 +11,13 @@ requiresCopyright: false
 
 alternativeNames:
   - "ISO Permission"
+  - "International Organization for Standardization SGML"
+  - "ISO SGML License"
+  - "ISO-SGML-License"
+  - "ISO permission notice"
+  - "ISO 8879"
+  - "ISO License"
+  - "ISO-8879"
 
 evidence:
   matches:

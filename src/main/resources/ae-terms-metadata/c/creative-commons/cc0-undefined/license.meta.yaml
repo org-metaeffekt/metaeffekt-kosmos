@@ -1,14 +1,19 @@
-canonicalName: CC0 Universal (undefined)
+canonicalName: Creative Commons Zero Universal (undefined)
 category: CC0
-shortName: CC0-Universal-?
+shortName: CC0-?
 
 unspecific: true
 
 alternativeNames:
   - "CC0 Universal"
+  - "Creative Commons Zero"
   - "Public domain (CC0)"
   - "Public Domain (Creative Commons CC0)"
   - "Public Domain, per Creative Commons CC0"
+
+canonicalNameHistory:
+  - "CC0 Universal (undefined)"
+  - "Creative Commons Zero (undefined)"
 
 # Alternative short names are not considered by the matcher; this information can be used to map further short names
 # that are known to be correlated to the license.

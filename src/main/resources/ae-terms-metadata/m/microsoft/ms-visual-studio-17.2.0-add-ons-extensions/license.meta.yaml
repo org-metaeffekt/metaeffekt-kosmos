@@ -9,9 +9,8 @@ canonicalNameHistory:
   - "Microsoft Visual Studio Add-Ons and Extensions 17.2.0"
   - "Microsoft Visual Studio Add-Ons 17.2.0 (with Extensions)"
 
-alternativeNames:
+alternativeShortNames:
   - "Microsoft Visual Studio Add-Ons and Extensions 17.2.0"
-  - "MICROSOFT VISUAL STUDIO ADD-ONs and EXTENSIONS"
 
 evidence:
   matches:
@@ -39,3 +38,4 @@ evidence:
     - "To the extent Microsoft is a processor or subprocessor of personal data in connection with the software,
        Microsoft makes the commitments in the European Union General Data Protection Regulation Terms of the Online
        Services Terms to all customers effective May 25, 2018, at https://docs.microsoft.com/en-us/legal/gdpr"
+    - "These components are governed by separate agreements and their own product support policies, as described in the Microsoft Licenses folder accompanying the software, except that, if license terms for those components are also included in the associated installation directory, those license terms control"

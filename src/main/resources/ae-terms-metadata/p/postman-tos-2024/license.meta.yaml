@@ -1,0 +1,42 @@
+canonicalName: Postman Terms of Service 2024
+category: Postman Terms of Service
+shortName: Postman-ToS-2024
+
+otherIds:
+  - "scancode:postman-tos-2024"
+
+alternativeNames:
+  - "Postman Terms of Service 2024"
+  - "Postman ToS 2024"
+  - "postman-tos-2024"
+
+evidence:
+  matches:
+    - "The Services allow a User to create an individual account ('Account')"
+    - "The information you provide to us when you create an Account must be accurate, complete and current"
+    - "You also have the obligation to keep your Account information accurate, complete and current at all times"
+    - "If any of the information you submit to us changes, you must promptly update the same"
+    - "At any given point in time a single User's Account may only be logged in on a maximum of three (3) computer systems"
+    - "You must keep your Account access credentials safe and secure"
+    - "You are responsible for all actions taken through your Accounts"
+    - "You are required to promptly inform Postman and modify your Account login credentials or those of a permitted
+       User if such login credentials are compromised and/or misused/likely to be misused by a third party to improperly
+       access the Services through your Account"
+    - "You also agree that your profile information will be accurate"
+    - "All versions of the Postman Services may support working collaboratively in teams"
+    - "The User who will be responsible for the establishment and management of your team is referred to as an Admin User"
+    - "Once your Admin User has created your Account, they can invite other Users to Use the Services through the 'invite'
+       feature in the Account"
+    - "The Admin User will be required to provide the name, email address, and any other information required by
+       Postman for each User"
+    - "An Admin User shall be entitled to designate more than one Admin User"
+    - "Upon such designation, each new Admin User will be able to do everything that any other Admin User is permitted
+       to do by the Services and these Terms"
+    - "A fee is charged for each User to whom you want to provide the ability to Use the Services on your behalf"
+    - "You must not allow any form of time-sharing use, permit more than one individual to use the same Postman login
+       credentials, or any other arrangement which bypasses or defeats Postman's system controls designed to enforce
+       team size limits"
+    - "Subject to the terms herein, your Admin Users may add or remove Users from your Account by following relevant
+       instructions set out in Postman's standard published documentation for the Services"
+    - "If you exceed the number of User subscriptions purchased, you may be charged additional fees, including as set
+       forth in our Auto-Flex Policy"

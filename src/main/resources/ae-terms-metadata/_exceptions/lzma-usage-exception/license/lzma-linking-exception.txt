@@ -1,0 +1,5 @@
+SPECIAL EXCEPTION #3: Igor Pavlov, as the author of this code, expressly permits
+you to use code of the following files:
+BranchTypes.h, LzmaTypes.h, LzmaTest.c, LzmaStateTest.c, LzmaAlone.cpp,
+LzmaAlone.cs, LzmaAlone.java
+as public domain code.

@@ -14,6 +14,8 @@ alternativeNames:
   - "MIT-advertising License"
   - "MIT-ADVERTISING LICENSE"
   - "MIT-ADVERTISING License"
+  - "Enlightenment License (e16)" # for identification purposes
+  - "Enlightenment (EFL) MIT-Style License" # for identification purposes
 
 evidence:
   matches:

@@ -1,0 +1,41 @@
+canonicalName: Acter Public Source License 1.0
+category: Acter Public Source License
+shortName: Acter-Public-Source-License-1.0
+
+otherIds:
+  - "scancode:acter-psl-1.0"
+
+expectedMatches:
+  - "GNU Affero General Public License 3.0"
+
+secondaryLicenses:
+  - "GNU Affero General Public License 3.0"
+
+alternativeNames:
+  - "Acter Public Source License v1.0"
+  - "Acter Public Source 1.0"
+
+evidence:
+  matches:
+    - "The Licensor hereby grants you the right to copy, modify, create derivative
+       works, redistribute, and make non-production use of the Licensed Work"
+    - "The Licensor may make an Additional Use Grant, above, permitting limited production use"
+    - "Effective on the second anniversary of the first publicly available distribution
+       of a specific version of the Licensed Work under this License, the Licensor
+       hereby grants you rights under the terms of the Change License, and the rights
+       granted in the paragraph above terminate"
+    - "If your use of the Licensed Work does not comply with the requirements
+       currently in effect as described in this License, you must purchase a
+       commercial license from the Licensor"
+    - "All copies of the original and modified Licensed Work, and derivative works
+       of the Licensed Work, are subject to this License"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "based on the Business Source License 1.1, is not an Open Source license. However, the Licensed Work will eventually be made available under an Open Source License, as stated in this License. \"Business Source License\" is a trademark of MariaDB Corporation Ab.",
+      matchNext:
+        "Acter Public Source License 1.0 Terms The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work. The Licensor may make an Additional Use Grant, above, permitting limited production use"
+    },
+]

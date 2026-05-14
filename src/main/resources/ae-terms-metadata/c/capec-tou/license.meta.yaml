@@ -1,5 +1,6 @@
 canonicalName: Common Attack Pattern Enumeration and Classification ToU
 category: CAPEC ToU
+spdxIdentifier: CAPEC-tou
 shortName: CAPEC-ToU
 
 otherIds:

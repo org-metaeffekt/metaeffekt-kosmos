@@ -1,0 +1,22 @@
+canonicalName: Psion User License (S3AEMUL)
+category: Psion User License S3AEMUL
+shortName: Psion-S3AEMUL
+
+otherIds:
+  - "scancode:psion-s3aemul"
+
+alternativeNames:
+  - "Psion User License for S3AEMUL"
+  - "Psion User Licence for S3AEMUL"
+  - "Psion-S3AEMUL"
+  - "PSION PLC BUSINESS/INSTITUTION/GOVERNMENT/HOME USER LICENCE for S3AEMUL"
+
+evidence:
+  matches:
+    - "THE LICENSEE'S USE OF THIS SOFTWARE IS CONDITIONAL UPON COMPLIANCE BY THE LICENSEE WITH THE TERMS OF THIS AGREEMENT"
+    - "S3AEMUL may be used on a royalty free basis"
+    - "You may copy and distribute copies of S3AEMUL in the same form as you receive it, without any files being removed,
+       altered or added"
+    - "You may not copy it in any other form"
+    - "The licensee agrees that he or she will not attempt to reverse compile, modify, translate or disassemble S3AEMUL,
+       in whole or in part"

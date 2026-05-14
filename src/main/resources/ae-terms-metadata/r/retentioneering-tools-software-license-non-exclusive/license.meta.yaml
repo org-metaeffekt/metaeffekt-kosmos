@@ -1,0 +1,17 @@
+canonicalName: Retentioneering Tools Software License (non-exclusive)
+category: Retentioneering Tools Software
+shortName: Retentioneering-Tools-License
+
+otherIds:
+  - "scancode:retentioneering-2023"
+
+alternativeNames:
+  - "Maxim Godzi Retentioneering Tools Software Non-Exclusive License 2023"
+
+evidence:
+  matches:
+    - "Licensee may, at its own expense, create and freely distribute complimentary works that interoperate with the Software, directing others to the Retentioneering Team by providing Retentioneering Team Github pages"
+    - "Licensee may, at its own expense, modify the Software to make derivative works"
+    - "Except as explicitly provided below, this License shall apply to any derivative work as it does to the original Software distributed by Retentioneering Team"
+    - "Licensee agrees to reproduce the copyright notice and other proprietary markings on any derivative work and to include in the documentation of such work the acknowledgement"
+    - "Licensee may redistribute without restriction works with up to 1/2 of their non-comment source code derived from at most 1/10 of the non-comment source code developed by Retentioneering Team and contained in the Software, provided that the above directions for notice and acknowledgement are observed"

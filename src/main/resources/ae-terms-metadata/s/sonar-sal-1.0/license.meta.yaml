@@ -1,0 +1,53 @@
+canonicalName: SONAR Source Available License 1.0
+category: SONAR Source Available License
+shortName: SONAR-SAL-1.0
+
+otherIds:
+  - "scancode:sonar-sal-1.0"
+
+alternativeNames:
+  - "Sonar Source-Available License v1.0"
+  - "Sonar Source-Available License 1.0"
+  - "Sonar Source Available License 1.0"
+  - "sonar-sal-1.0"
+  - "Sonar-SAL-1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, each Contributor hereby grants
+       Recipient a non-exclusive, worldwide, royalty-free copyright license, for any
+       Non-competitive Purpose, to reproduce, prepare Derivative Works of, publicly
+       display, publicly perform, Distribute and sublicense the Contribution of such
+       Contributor, if any, and such Derivative Works"
+    - "Subject to the terms of this Agreement, each Contributor hereby grants
+       Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed
+       Patents, for any Non-competitive Purpose, to make, use, sell, offer to sell,
+       import, and otherwise transfer the Contribution of such Contributor, if any, in
+       Source Code or other form"
+    - "This patent license shall apply to the combination of the Contribution and the
+       Program if, at the time the Contribution is added by the Contributor, such addition
+       of the Contribution causes such combination to be covered by the Licensed Patents"
+    - "The patent license shall not apply to any other combinations that include the Contribution"
+    - "Recipient understands that although each Contributor grants the licenses to
+       its Contributions set forth herein, no assurances are provided by any
+       Contributor that the Program does not infringe the patent or other intellectual
+       property rights of any other entity"
+    - "Each Contributor disclaims any liability to Recipient for claims brought by any
+       other entity based on infringement of intellectual property rights or otherwise"
+    - "As a condition to exercising the rights and licenses granted hereunder, each Recipient hereby
+       assumes sole responsibility to secure any other intellectual property rights needed, if any"
+    - "For example, if a third-party patent license is required to allow Recipient to
+       Distribute the Program, it is Recipient's responsibility to acquire that license
+       before distributing the Program"
+    - "Each Contributor represents that to its knowledge it has sufficient copyright
+       rights in its Contribution, if any, to grant the copyright license set forth in
+       this Agreement"
+    - "If a Contributor Distributes the Program in any form, then the Program must
+       also be made available as Source Code, in accordance with section 3.2, and the
+       Contributor must accompany the Program with a statement that the Source Code for
+       the Program is available under this Agreement, and inform Recipients how to
+       obtain it in a reasonable manner on or through a medium customarily used for
+       software exchange"
+  # FIXME-IMPLEMENT: more context
+  excludes:
+    - "“Agreement” means this Sonar Source-Available License v1.0.1"

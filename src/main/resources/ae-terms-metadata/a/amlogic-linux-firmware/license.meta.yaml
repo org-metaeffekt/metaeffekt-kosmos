@@ -34,7 +34,7 @@ references:
          form which would require these files themselves to be covered by the
          terms of the GNU General Public License or the GNU Lesser General
          Public License."
-  "LGPL":
+  "LesserGPL":
     matches:
       - "but not as part of the Linux kernel or in any other
          form which would require these files themselves to be covered by the

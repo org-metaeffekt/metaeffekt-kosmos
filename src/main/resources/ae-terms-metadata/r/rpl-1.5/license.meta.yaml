@@ -5,6 +5,7 @@ spdxIdentifier: RPL-1.5
 otherIds:
   - "scancode:rpl-1.5"
   - "osi:RPL-1.5"
+  - "osi-deprecated:rpl-1-5"
 
 alternativeNames:
  - "Reciprocal Public License 1.5"

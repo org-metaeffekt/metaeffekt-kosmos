@@ -5,6 +5,11 @@ shortName: OTN-Dev-Dist
 otherIds:
   - "scancode:otn-dev-dist"
 
+alternativeNames:
+  - "Oracle Technology Network Development and Distribution License"
+  - "Oracle Technology Network License Agreement Distribution"
+  - "Oracle-OTN-Distribution"
+
 evidence:
   matches:
     - "You agree that U.S. export control laws and other applicable export and import

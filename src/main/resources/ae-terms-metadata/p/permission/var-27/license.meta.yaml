@@ -12,6 +12,9 @@ requiresLicenseText: false
 otherIds:
   - "scancode:ntp-0"
 
+alternativeNames:
+  - "NTP No Attribution"
+
 displayName: "Permission Terms (no advertising; no representation; no warranty)"
 representedAs: Permission Terms
 

@@ -4,6 +4,9 @@ shortName: MuseScore-Exception-GPL
 
 type: exception
 
+otherIds:
+  - "scancode:musescore-exception-gpl-2.0"
+
 combinedWith:
   GNU General Public License 2.0: GNU General Public License 2.0 (with MuseScore Exception (GPL))
 

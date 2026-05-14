@@ -1,29 +1,40 @@
-canonicalName: Apache License 2.0 (with LLVM exception)
-category: Apache-LLVM
+canonicalName: Apache License 2.0 (with LLVM Exception (Apache-2.0))
+category: Apache-LLVM Exception
 shortName: Apache-2.0-LLVM-Exception
 
 representedAs: Apache License 2.0 (with exceptions)
 
-spdxExpression: "[Apache License 2.0] WITH [LLVM Exception (Apache)]"
+spdxExpression: "[Apache License 2.0] WITH [LLVM Exception (Apache-2.0)]"
 
 # FIXME-CONCEPT: this could be derived from the spdxExpression
 alternativeShortNames:
   - "Apache-2.0 WITH LLVM-Exception"
+  - "Apache-2.0 WITH LLVM-exception"
 
 type: expression
 
 canonicalNameHistory:
   - "Apache 2.0 (with LLVM exception (Apache))"
   - "Apache 2.0 (with LLVM exception)"
+  - "Apache License 2.0 (with LLVM exception)"
 
 displayName:
-  "Apache License 2.0 (with LLVM exception)"
+  "Apache License 2.0 (with LLVM Exception)"
 
 alternativeNames:
-  - "is under the Apache License v2.0 with LLVM Exceptions"
+  - "is under the Apache License v2.0 with LLVM Exception (Apache-2.0)s"
+  - "Apache-2.0 with LLVM Exception (Apache-2.0)"
+  - "Apache 2.0 License with LLVM Exception (Apache-2.0)s"
+  - "Apache-2.0 WITH LLVM-Exception"
+  - "Apache-2.0 WITH LLVM-exception"
+  - "Apache-2.0-with-LLVM-exception"
+  - "Apache-2.0 with LLVM-exception"
+  - "Apache 2.0 with LLVM-exception"
+  - "Apache 2.0 with LLVM exception"
+  - "Apache 2.0 WITH LLVM exception"
+  - "Apache 2.0 with LLVM Exception"
   - "Apache-2.0 with LLVM exception"
-  - "Apache 2.0 License with LLVM exceptions"
 
 combinedWith:
-  "Apache License 2.0": Apache License 2.0 (with LLVM exception)
-  "LLVM Exception (Apache)": Apache License 2.0 (with LLVM exception)
+  "Apache License 2.0": Apache License 2.0 (with LLVM Exception (Apache-2.0))
+  "LLVM Exception (Apache-2.0)": Apache License 2.0 (with LLVM Exception (Apache-2.0))

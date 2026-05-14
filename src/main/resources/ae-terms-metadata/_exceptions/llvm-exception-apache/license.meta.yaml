@@ -1,4 +1,4 @@
-canonicalName: LLVM Exception (Apache)
+canonicalName: LLVM Exception (Apache-2.0)
 category: Apache LLVM Exception
 spdxIdentifier: LLVM-exception
 shortName: LLVM-Exception-Apache
@@ -6,11 +6,12 @@ shortName: LLVM-Exception-Apache
 canonicalNameHistory:
   - "LLVM exception"
   - "LLVM Exception"
+  - "LLVM Exception (Apache)"
 
 type: exception
 
 combinedWith: 
-  "Apache License 2.0": Apache License 2.0 (with LLVM exception)
+  "Apache License 2.0": Apache License 2.0 (with LLVM Exception (Apache-2.0))
 
 otherIds:
   - "scancode:llvm-exception"
@@ -22,6 +23,8 @@ alternativeNames:
   - "LLVM-exception"
   - "LLVM-EXCEPTION"
   - "Apache Exception LLVM"
+  - "LLVM Exception to Apache 2.0"
+  - "Apache-2.0-with-LLVM-exception"
 
 references:
   "GPL":

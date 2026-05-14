@@ -3,6 +3,8 @@ category: GPL Linking Exception
 spdxIdentifier: GPL-3.0-linking-exception
 shortName: Linking-Exception-GPL-002
 
+# FIXME-DISCUSS: some of these Linking Exceptions mention concrete license versions in the text (here: GPL-3.0) - do we want to add the referenced/linked licenses to the canonicalName/shortName for more accuracy?
+
 otherIds:
   - "scancode:gpl-3.0-linking-exception"
 

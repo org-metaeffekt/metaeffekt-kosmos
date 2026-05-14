@@ -25,3 +25,12 @@ evidence:
        including warranties of performance, merchantability or fitness for any
        particular purpose"
     - "Please cite the author*{s?}* in any work or product based on this material"
+
+references:
+  "Public Domain":
+    matches:
+      - "PUBLIC DOMAIN NOTICE
+        National Center for Biotechnology Information"
+      - "This software is freely available to the public for
+        use. The National Library of Medicine and the U.S. Government have not
+        placed any restriction on its use or reproduction"

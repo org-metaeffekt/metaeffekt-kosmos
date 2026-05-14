@@ -5,6 +5,7 @@ spdxIdentifier: SimPL-2.0
 otherIds:
   - "scancode:simpl-2.0"
   - "osi:SimPL-2.0"
+  - "osi-deprecated:simpl-2-0-html"
 
 alternativeNames:
   - "Simple Public License 2.0"

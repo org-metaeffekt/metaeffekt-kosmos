@@ -1,0 +1,31 @@
+canonicalName: Microsoft Azure RTOS License 2023-05
+category: Microsoft Azure RTOS
+shortName: MS-Azure-RTOS-2023-05
+
+otherIds:
+  - "scancode:ms-azure-rtos-2023-05"
+
+canonicalNameHistory:
+  - "Microsoft Azure RTOS 2023-05"
+
+alternativeNames:
+  - "Microsoft Azure RTOS 2023-05"
+  - "ms-azure-rtos-2023-05"
+  - "MS-Azure-RTOS-2023-05"
+
+evidence:
+  matches:
+    - "You may (I) install, use and modify the software and (ii) install and use the included Microsoft
+       Applications (if any), each solely for internal development, testing and evaluation purposes"
+    - "Distribution or production use is governed by the license terms set forth in Section 2"
+    - "You may also obtain distribution or production use rights through a separate agreement with Microsoft"
+    - "THE SOFTWARE IS NOT DESIGNED OR INTENDED FOR USE  WHERE FAILURE OR FAULT OF ANY KIND OF THE SOFTWARE COULD
+       RESULT IN DEATH OR SERIOUS BODILY INJURY, OR IN  PHYSICAL OR ENVIRONMENTAL DAMAGE (“collectively High Risk Use”)"
+    - "Accordingly, You must design and implement your hardware and software such that, in the event of any interruption,
+       defect, error, or other failure of the software, the safety of people, property, and the environment are not
+       reduced below a level that is reasonable, appropriate, and legal, whether in general or for a specific industry"
+    - "Your High Risk Use of the software is at Your own risk"
+    - "The software may include other Microsoft
+      applications which are governed by the licenses embedded in or made available
+      with those applications"
+    - "each solely for internal development, testing and evaluation purposes"

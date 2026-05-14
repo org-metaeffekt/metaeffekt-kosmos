@@ -12,11 +12,11 @@ otherIds:
   - "scancode:autoconf-macro-exception"
 
 combinedWith:
-  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 005))
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Autoconf exception (GPL; variant 005))
-  "GNU General Public License (undefined)": GNU General Public License (undefined; with Autoconf exception (GPL; variant 005))
-  "GNU General Public License 2.0": GNU General Public License 2.0 (with Autoconf exception (GPL; variant 005))
-  "GNU General Public License 3.0": GNU General Public License 3.0 (with Autoconf exception (GPL; variant 005))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Autoconf Exception (GPL; variant 005))
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Autoconf Exception (GPL; variant 005))
+  "GNU General Public License (undefined)": GNU General Public License (undefined; with Autoconf Exception (GPL; variant 005))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Autoconf Exception (GPL; variant 005))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Autoconf Exception (GPL; variant 005))
 
 alternativeNames:
   - "Autoconf Exception (GPL; variant 005)"

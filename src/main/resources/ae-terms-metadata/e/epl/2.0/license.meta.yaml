@@ -13,6 +13,7 @@ requiresLicenseText: true
 otherIds:
   - "scancode:epl-2.0"
   - "osi:EPL-2.0"
+  - "osi-deprecated:epl-2-0"
 
 combinedWith:
   Apache License 2.0: Eclipse Public License 2.0 + Apache License 2.0

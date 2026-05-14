@@ -1,0 +1,18 @@
+canonicalName: Project Odin Software License
+category: Project Odin
+shortName: Project-Odin-Software
+
+otherIds:
+  - "scancode:odin-2000"
+
+evidence:
+  matches:
+    - "You may, without charge, royalty, or other payment, copy and
+       distribute copies of this work in source or binary form provided that"
+    - "you appropriately publish on each copy an appropriate copyright notice"
+    - "faithfully reproduce all prior copyright included in the original work"
+    - "You may not use the work as base of another work"
+    - "You are encouraged to make changes to this work but you have to
+       submit all changes back to the work and only use them if they become part of the work"
+    - "However, you are encouraged to use the work for porting your free or commercial applications"
+

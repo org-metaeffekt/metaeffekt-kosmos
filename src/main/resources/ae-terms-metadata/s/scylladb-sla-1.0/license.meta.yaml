@@ -1,0 +1,34 @@
+canonicalName: ScyllaDB Software License Agreement 1.0
+category: ScyllaDB Software License Agreement
+shortName: ScyllaDB-SLA-1.0
+
+otherIds:
+  - "scancode:scylladb-sla-1.0"
+
+alternativeNames:
+  - "ScyllaDB Software License Agreement 1.0"
+  - "ScyllaDB Software License Agreement v1.0"
+  - "SCYLLADB SOFTWARE LICENSE AGREEMENT 1.0"
+  - "SCYLLADB SOFTWARE LICENSE AGREEMENT Version 1.0"
+
+evidence:
+  matches:
+    - "Software means the ScyllaDB software provided by Licensor, including the source code, object code, and any
+       accompanying documentation or tools, or any part thereof, as made available under this Agreement"
+    - "Subject to the terms and conditions of this Agreement, Licensor grants You a limited, non-exclusive, revocable,
+       non-sublicensable, non-transferable, royalty free license to Use the Software, in each case solely for the purposes of"
+    - "Copying, distributing, evaluating (including performing benchmarking or comparative tests or evaluations ,
+       subject to the limitations below) and improving the Software and ScyllaDB; and create a modified version of the
+       Software (each, a 'Licensed Work'); provided however, that each such Licensed Work keeps all or substantially
+       all of the functions and features of the Software, and/or using all or substantially all of the source code
+       of the Software"
+    - "You hereby agree that all the Licensed Work are, upon creation, considered Licensed Work of the Licensor, shall
+       be the sole property of the Licensor and its assignees, and the Licensor and its assignees shall be the sole
+       owner of all rights of any kind or nature, in connection with such Licensed Work"
+    - "You hereby irrevocably and unconditionally assign to the Licensor all the Licensed Work and any part thereof"
+    - "This License applies separately for each version of the Licensed Work, which shall be considered 'Software'
+       for the purpose of this Agreement"
+    - "The license grant above is subject to the following limitations, restrictions, and obligations"
+    - "If Licensee’s Use of the Software does not comply with the above license grant or the terms of this section
+       (including exceeding the Usage Limit set forth below), Licensee must: (i) refrain from any Use of the Software;
+       and (ii) purchase a commercial paid license from the Licensor"

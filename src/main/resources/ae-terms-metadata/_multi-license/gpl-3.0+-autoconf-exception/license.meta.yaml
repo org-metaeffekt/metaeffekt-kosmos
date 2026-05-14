@@ -1,4 +1,4 @@
-canonicalName: GNU General Public License 3.0 (or any later version; with Autoconf exception)
+canonicalName: GNU General Public License 3.0 (or any later version; with Autoconf Exception)
 category: GPL+Autoconf
 shortName: GPL-3.0+-Autoconf-Exception
 
@@ -8,12 +8,15 @@ spdxExpression: "[GNU General Public License 3.0 (or any later version)] WITH [A
 
 alternativeNames:
   - "GNU General Public License 3.0 (or any later version; with Autoconf exception)"
+  - "GNU General Public License v3.0 or later w/Autoconf exception" # for external identification purposes
+  - "GPL-3.0+-with-autoconf-exception" # for external identification purposes
 
 representedAs: GNU General Public License 3.0 (or any later version; with exceptions)
 
 combinedWith:
-  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Autoconf exception)"
-  "Autoconf Exception": "GNU General Public License 3.0 (or any later version; with Autoconf exception)"
+  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Autoconf Exception)"
+  "Autoconf Exception": "GNU General Public License 3.0 (or any later version; with Autoconf Exception)"
 
 canonicalNameHistory:
   - "GNU General Public License 3.0 (or any later version; with autoconf exception)"
+  - "GNU General Public License 3.0 (or any later version; with Autoconf exception)"

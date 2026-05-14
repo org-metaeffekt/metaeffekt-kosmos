@@ -1,0 +1,24 @@
+canonicalName: Unlicense (libtelnet)
+category: Unlicense
+spdxIdentifier: Unlicense-libtelnet
+
+otherIds:
+  - "scancode:unlicense-libtelnet"
+
+classification: public domain
+
+alternativeNames:
+  - "Unlicense - libtelnet variant"
+  - "Unlicense (libtelnet)"
+
+evidence:
+  matches:
+    - "The author or authors of this code dedicate any and all copyright interest in this code to the public domain"
+    - "We make this dedication for the benefit of the public at large and to the detriment of our heirs and successors"
+    - "We intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights
+       to this code under copyright law"
+
+references:
+  "Public Domain":
+    matches:
+      - "The author or authors of this code dedicate any and all copyright interest in this code to the public domain."

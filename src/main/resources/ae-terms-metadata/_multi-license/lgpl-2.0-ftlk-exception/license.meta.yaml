@@ -1,14 +1,18 @@
-canonicalName: GNU Library General Public License 2.0 (with FLTK exception)
-category: LGPL+FTLK
+canonicalName: GNU Library General Public License 2.0 (with FLTK Exception (LGPL))
+category: LGPL+FTLK Exception
 shortName: LGPL-2.0-FTLK-Exception
 
 type: expression
 
-alternativeNames:
+canonicalNameHistory:
   - "GNU Library General Public License 2.0 (with FLTK exception)"
 
+alternativeNames:
+  - "GNU Library General Public License 2.0 (with FLTK Exception (LGPL))"
+
+displayName: "GNU Library General Public License 2.0 (with FLTK Exception)"
 representedAs: GNU Library General Public License 2.0 (with exceptions)
 
 combinedWith:
-  "GNU Library General Public License 2.0": GNU Library General Public License 2.0 (with FLTK exception)
-  "FLTK Exception": GNU Library General Public License 2.0 (with FLTK exception)
+  "GNU Library General Public License 2.0": GNU Library General Public License 2.0 (with FLTK Exception (LGPL))
+  "FLTK Exception (LGPL)": GNU Library General Public License 2.0 (with FLTK Exception (LGPL))

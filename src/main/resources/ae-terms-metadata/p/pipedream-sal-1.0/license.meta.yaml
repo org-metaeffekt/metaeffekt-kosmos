@@ -1,0 +1,43 @@
+canonicalName: Pipedream Source Available License 1.0
+category: Pipedream Source Available
+shortName: Pipedream-SAL-1.0
+
+otherIds:
+  - "scancode:pipedream-sal-1.0"
+
+alternativeNames:
+  - "Pipedream Source Available License Version 1.0"
+  - "Pipedream Source Available License 1.0"
+  - "Pipedream Source Available License, Version 1.0"
+  - "https://github.com/PipedreamHQ/pipedream/blob/master/LICENSE"
+
+evidence:
+  matches:
+    - "Licensee must cause any Software modified by Licensee to carry prominent notices stating that Licensee
+       modified the Software"
+    - "On each Software copy, Licensee shall reproduce and not remove or alter all Pipedream or third party copyright
+       or other proprietary notices contained in the Software, and Licensee must provide this with each copy"
+    - "“This software is made available by Pipedream, Inc., under the terms of the Pipedream Source Available License,
+       Version 1.0 located at https://github.com/PipedreamHQ/pipedream/blob/master/LICENSE. By installing, downloading,
+       accessing, using or distributing the Software, you agree to the terms of such License Agreement.”"
+    - "This Agreement will continue unless and until earlier terminated as set forth herein"
+    - "If Licensee breaches any of its conditions or obligations under this Agreement, this Agreement will terminate
+       automatically and the License will terminate automatically and permanently"
+    - "This Agreement will be governed by and interpreted in accordance with the laws of the state of California,
+       without reference to its conflict of laws principles. If Licensee is located outside of the United States,
+       any dispute, controversy or claim arising out of or relating to this Agreement will be referred to and finally
+       determined by arbitration in accordance with the JAMS International Arbitration Rules"
+    - "The tribunal will consist of one arbitrator"
+    - "Judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction thereof"
+    - "All disputes including arbitrations shall take place in Santa Clara County, California"
+    - "The language to be used in any such proceedings shall be English"
+    - "Licensee is not authorized to assign its rights under this Agreement to any third party"
+    - "Pipedream may freely assign its rights under this Agreement to any third party"
+    - "This Agreement is the entire agreement between the parties regarding the subject matter hereof"
+    - "No amendment or modification of this Agreement will be valid or binding upon the parties unless made in writing
+       and signed by the duly authorized representatives of both parties"
+    - "In the event that any provision, including without limitation any condition, of this Agreement is held to be
+       unenforceable, this Agreement and all licenses and rights granted hereunder will immediately terminate"
+    - "Waiver by Pipedream of a breach of any provision of this Agreement or the failure by Pipedream to exercise
+       any right hereunder will not be construed as a waiver of any subsequent breach of that right or as a waiver
+       of any other right"

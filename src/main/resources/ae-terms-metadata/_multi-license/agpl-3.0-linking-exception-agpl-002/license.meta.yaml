@@ -1,11 +1,16 @@
-canonicalName: GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL; with source provision obligation))
-category: Erlang AGPL Linking Exception
-shortName: AGPL-3.0-Erlang-Linking-Exception-source
+canonicalName: GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL-3.0; with source provision obligation))
+category: AGPL+Erlang Linking Exception
+shortName: AGPL-3.0-Erlang-Linking-Exception
 
 type: expression
 
-displayName: GNU Affero General Public License 3.0 (with Erlang Linking Exception; with source provision obligation)
+canonicalNameHistory:
+  - "GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL; with source provision obligation))"
+
+displayName: "GNU Affero General Public License 3.0 (with Erlang Linking Exception (with source provision obligation))"
+
+representedAs: GNU Affero General Public License 3.0 (with exceptions)
 
 combinedWith:
-  "Erlang Linking Exception (AGPL; with source provision obligation)": "GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL; with source provision obligation))"
-  "GNU Affero General Public License 3.0": "GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL; with source provision obligation))"
+  "Erlang Linking Exception (AGPL-3.0; with source provision obligation)": "GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL-3.0; with source provision obligation))"
+  "GNU Affero General Public License 3.0": "GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL-3.0; with source provision obligation))"

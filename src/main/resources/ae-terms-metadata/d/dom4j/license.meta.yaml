@@ -2,16 +2,22 @@ canonicalName: DOM4J License
 category: DOM4J
 shortName: DOM4J
 
-alternativeNames:
-  - "DOM4J License"
-
 requiresCopyright: true
 requiresLicenseText: true
 
 # FIXME-DISCUSS: license treatment; covered by Plexus / Due Credit Template
+# FIXME-IMPLEMENT: gather info for decision how to proceed with this license
 # NOTE: we preserve this license due to the scancode reference
 otherIds:
   - "scancode:dom4j"
+
+alternativeNames:
+  - "DOM4J License"
+  - "Dom4j License"
+  - "DOM4j License"
+  - "dom4j License"
+  - "dom4j License (BSD 2.0 +)"
+  - "DOM4j-License"
 
 evidence:
   matches:

@@ -35,12 +35,21 @@ alternativeNames:
   - "used and distributed according to the terms of the gnu general public license"
   - "under the terms and conditions of the GPL"
     # 2018-02-15: removed 'GPL' as the term is too ambiguous
+  - "GPL-Style License"
+  - "GNU General Public License (Unknown Version)"
+  - "GPL-UNSPECIFIED"
+
+alternativeShortNames:
+  - "GPL"
 
 evidence:
   excludes:
     - "désigne la GNU General Public License dans sa version 2 ou
        toute version ultérieure, telle que publiée par Free Software Foundation
        Inc."
+    - "I am granting this work to this project under the terms of both
+       the GNU General Public License and the GNU Lesser General Public
+       License as published by the Free Software Foundation"
 
 # MASKS USE CASE: explanatory text on general level
 masks:

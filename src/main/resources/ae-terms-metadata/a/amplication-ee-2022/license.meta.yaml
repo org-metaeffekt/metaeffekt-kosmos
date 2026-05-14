@@ -1,0 +1,22 @@
+canonicalName: Amplication Enterprise Edition License 2022
+category: Amplication Enterprise Edition
+shortName: Amplication-EE-2022
+
+otherIds:
+  - "scancode:amplication-ee-2022"
+
+evidence:
+  matches:
+    - "The Source Code for the Software is available for download, but, as more fully specified in the Enterprise 
+      Terms, you may not modify the Software or make or publish patches to the Software"
+    - "Subject to the Enterprise Terms, You agree that Amplication and/or its licensors (as applicable) retain all 
+      right, title and interest in and to the Software and any and all such modifications and patches"
+    - "You are not granted any other rights beyond what is expressly stated herein"
+    - "Any other Amplication Source Code is distributed and available as part of the Amplication Community Edition"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+      TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"
+
+references:
+  "Apache License":
+    matches:
+      - "The Amplication EE License applies only to the part of this Software residing under the “ee/” repository. Any other Amplication Source Code is distributed and available as part of the Amplication Community Edition (the \"Amplication CE\"), including all content residing under the \"packages/\" directory of this repository. The Amplication CE is licensed under the Apache 2.0 license, at https://www.apache.org/licenses/LICENSE-2.0"

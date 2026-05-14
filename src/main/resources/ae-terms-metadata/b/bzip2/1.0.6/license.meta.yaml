@@ -15,6 +15,10 @@ alternativeNames:
   - "bzip2-1.0.6"
   - "bzip2 and libbzip2 License v1.0.6"
   - "libzip2 version 1.0.6"
+  - "bzip2 License 2010"
+
+ignoreMatches:
+  - "bzip2 License 1.0.5"
 
 evidence:
   matches:
@@ -52,6 +56,9 @@ evidence:
        Terms
        This program, \"bzip2\" and associated library \"libbzip2\", are
         copyright (C)  Julian R Seward"
+    - "Version 1.0.5 of 10 December 2007
+
+      Copyright © 1996-2007 Julian Seward"
 
 
 #licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification,

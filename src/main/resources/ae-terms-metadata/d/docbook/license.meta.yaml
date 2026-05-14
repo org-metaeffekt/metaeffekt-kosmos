@@ -1,14 +1,17 @@
-canonicalName: Docbook License
-category: Docbook License
-shortName: Docbook
+canonicalName: DocBook License
+category: DocBook License
+shortName: DocBook
 
 otherIds:
   - "scancode:docbook"
 
+canonicalNameHistory:
+  - "Docbook License"
+
 requiresCopyright: false
 requiresLicenseText: false
 
-# FIXME-DISCUSS: classify as permission terms or keep as "separate" license?
+# FIXME-IMPLEMENT: generalize to permission terms (DocBook)
 
 evidence:
   matches:

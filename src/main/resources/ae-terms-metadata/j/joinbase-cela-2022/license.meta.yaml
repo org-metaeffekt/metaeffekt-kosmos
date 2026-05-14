@@ -1,0 +1,29 @@
+# FIXME-IMPLEMENT: derive convention on license names with year (<year>) or just <year>; collect affected canonical names; discuss in universe meeting
+canonicalName: JoinBase Community Edition License Agreement (2022)
+category: JoinBase Community Edition
+shortName: JoinBase-CELA-2022
+
+otherIds:
+  - "scancode:joinbase-cela-2022"
+
+alternativeNames:
+  - "JoinBase Community Edition License Agreement (2022)"
+  - "JoinBase Community Edition License Agreement 2022"
+  - "JoinBase Community Edition License 2022"
+  - "JoinBase Community Edition"
+  - "JoinBase-CELA-2022"
+  - "joinbase-cela-2022"
+
+evidence:
+  matches:
+    - "The JoinBase Software is licensed, not sold, to you"
+    - "During the term of this Agreement and subject to your compliance with this Agreement, JoinBase Developers
+       grant you a non-exclusive, non-transferable, non-assignable, non-sublicensable, revocable license to install
+       and use the JoinBase Software at no charge for your internal business purposes and to develop or commercialize
+       products that interact with the JoinBase Software, except the license as expressly stated herein, all related
+       intellectual property rights with the JoinBase Software, will remain with JoinBase Developers"
+    - "If the JoinBase Software includes any software in binary or any other formats than source codes, you may not,
+       and you agree not to or enable others to, decompile, reverse engineer, disassemble, attempt to derive the source
+       code of, decrypt, modify, or create derivative works of the JoinBase Software, or any part thereof"
+    - "You shall comply with applicable laws in connection with your use of JoinBase Software, including any applicable
+       U.S. export regulations and anti-corruption laws"

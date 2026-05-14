@@ -1,6 +1,6 @@
 canonicalName: CryptoSwift License
 category: CryptoSwift
-shortName: CryptoSwift-License
+spdxIdentifier: CryptoSwift
 
 otherIds:
   - "scancode:cryptoswift"

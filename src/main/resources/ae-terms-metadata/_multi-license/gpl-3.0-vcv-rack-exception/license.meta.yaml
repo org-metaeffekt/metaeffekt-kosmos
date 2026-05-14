@@ -1,9 +1,16 @@
-canonicalName: GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception)
-category: GPL+VCV
+canonicalName: GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception (GPL-3.0+))
+category: GPL+VCV Rack Non-Commercial Plugin License Exception
 shortName: GPL-3.0+-VCV-Rack-Exception
 
 type: expression
 
+canonicalNameHistory:
+  - "GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception)"
+
+displayName: "GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception)"
+
+representedAs: GNU General Public License 3.0 (or any later version; with exceptions)
+
 combinedWith:
-  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception)
-  VCV Rack Non-Commercial Plugin License Exception (GPL 3.0+): GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception)
+  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception (GPL-3.0+))
+  VCV Rack Non-Commercial Plugin License Exception (GPL-3.0+): GNU General Public License 3.0 (or any later version; with VCV Rack Non-Commercial Plugin License Exception (GPL-3.0+))

@@ -4,6 +4,7 @@ spdxIdentifier: CDDL-1.1
 
 otherIds:
   - "scancode:cddl-1.1"
+  - "osi-deprecated:cddl-1-1"
 
 defaultSourceCategory: annex
 requiresSourceCodeProvision: true

@@ -9,6 +9,7 @@ comments:
 otherIds:
   - "scancode:xnet"
   - "osi:Xnet"
+  - "osi-deprecated:xnet"
 
 representedAs: MIT License
 
@@ -18,6 +19,8 @@ alternativeNames:
   - "Xnet License"
   - "XNet license"
   - "XNet License"
+  # NOTE: this is too unspecific; model licenses from Altera (separate task)
+  # - "Altera License"
 
 evidence:
   matches:

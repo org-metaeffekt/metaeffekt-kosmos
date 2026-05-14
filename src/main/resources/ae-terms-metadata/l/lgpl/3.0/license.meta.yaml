@@ -1,11 +1,12 @@
 canonicalName: GNU Lesser General Public License 3.0
-category: LGPL
+category: LesserGPL
 spdxIdentifier: LGPL-3.0-only
 shortName: LGPL-3.0
 
 otherIds:
   - "scancode:lgpl-3.0"
   - "osi:LGPL-3.0"
+  - "osi-deprecated:lgpl-3-0"
 
 status:
   - "reviewed 28.01.22"
@@ -133,6 +134,7 @@ alternativeNames:
   - "LGPL-3"
   - "https://www.gnu.org/licenses/lgpl-3.0.txt"
   - "https://www.gnu.org/licenses/lgpl-3.0"
+  - "GNU Lesser General Public License v3.0 only" # for identification purposes
 
 evidence:
   matches:

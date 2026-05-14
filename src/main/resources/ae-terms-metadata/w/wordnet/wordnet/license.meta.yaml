@@ -1,9 +1,10 @@
 canonicalName: WordNet License
 category: WordNet License
-shortName: WordNet
+spdxIdentifier: WordNet
 
 otherIds:
   - "scancode:wordnet"
+  - "osi-deprecated:wordnet"
 
 canonicalNameHistory:
   - "WordNet License (undefinded)"

@@ -5,6 +5,7 @@ spdxIdentifier: UPL-1.0
 otherIds:
   - "scancode:upl-1.0"
   - "osi:UPL"
+  - "osi-deprecated:upl"
 
 canonicalNameHistory:
   - "UPL-1.0"
@@ -15,6 +16,7 @@ alternativeNames:
   - "Universal Permissive License Version 1.0"
   - "Universal Permissive License (UPL) v1.0"
   - "UPL-1.0"
+  - "Universal Permissive License v1.0"
 
 grants:
   Source code delivery OR Binary delivery:

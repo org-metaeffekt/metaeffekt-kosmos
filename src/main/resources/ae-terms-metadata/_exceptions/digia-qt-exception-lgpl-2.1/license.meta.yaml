@@ -1,6 +1,6 @@
-canonicalName: Digia Qt Exception 2.1 (LGPL)
+canonicalName: Digia Qt Exception (LGPL-2.1)
 category: Digia Qt Exception
-shortName: Digia-Qt-Exception-2.1-LGPL
+shortName: Digia-Qt-Exception-LGPL-2.1
 
 type: exception
 
@@ -14,8 +14,11 @@ otherIds:
 alternativeNames:
   - "Digia Qt Exception to LGPL 2.1"
 
+canonicalNameHistory:
+  - "Digia Qt Exception 2.1 (LGPL)"
+
 combinedWith:
-  "GNU Lesser General Public License 2.1 (or any later version)": "GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception 2.1 (LGPL))"
+  "GNU Lesser General Public License 2.1 (or any later version)": "GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception (LGPL-2.1))"
 
 evidence:
   matches:

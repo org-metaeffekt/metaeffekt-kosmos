@@ -1,6 +1,7 @@
 canonicalName: SANE Exception
 category: SANE Exception
 spdxIdentifier: SANE-exception
+shortName: SANE-Exception
 
 type: exception
 

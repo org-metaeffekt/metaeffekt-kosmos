@@ -1,0 +1,11 @@
+canonicalName: GNU General Public License 3.0 (or any later version; with Autoconf Exception (undefined))
+category: GPL+Autoconf
+shortName: GPL-3.0+-Autoconf-Exception-?
+
+type: expression
+
+representedAs: GNU General Public License 3.0 (or any later version; with exceptions)
+
+combinedWith:
+  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Autoconf Exception (undefined))"
+  "Autoconf Exception (undefined)": "GNU General Public License 3.0 (or any later version; with Autoconf Exception (undefined))"

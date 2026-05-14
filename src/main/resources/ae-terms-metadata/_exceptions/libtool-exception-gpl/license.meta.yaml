@@ -7,10 +7,10 @@ canonicalNameHistory:
   - "Libtool Exception"
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Libtool exception (GPL))
-  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Libtool exception (GPL))
-  "GNU General Public License 2.0": GNU General Public License 2.0 (with Libtool exception (GPL))
-  "GNU General Public License 3.0": GNU General Public License 3.0 (with Libtool exception (GPL))
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Libtool Exception (GPL))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Libtool Exception (GPL))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Libtool Exception (GPL))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Libtool Exception (GPL))
 
 type: exception
 

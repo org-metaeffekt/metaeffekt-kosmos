@@ -1,7 +1,10 @@
-canonicalName: Unmodified Binary Distribution Exception (GPL)
+canonicalName: Unmodified Binary Distribution Exception (GPL-2.0+)
 category: Unmodified Binary Distribution Exception
 spdxIdentifier: UBDL-exception
-shortName: UBDL-Exception-GPL
+shortName: UBDL-Exception-GPL-2.0+
+
+canonicalNameHistory:
+  - "Unmodified Binary Distribution Exception (GPL)"
 
 type: exception
 
@@ -13,7 +16,7 @@ alternativeNames:
   - "Unmodified Binary Distribution Exception"
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Unmodified Binary Distribution Exception (GPL))
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Unmodified Binary Distribution Exception (GPL-2.0+))
 
 evidence:
   matches:

@@ -5,7 +5,7 @@ shortName: Houdini-Project
 otherIds:
   - "scancode:houdini-project"
 
-# FIXME-DISCUSS: check whether multi-license case
+# FIXME-IMPLEMENT: check whether multi-license case
 
 evidence:
   matches:
@@ -19,6 +19,25 @@ evidence:
     - "Files that contain the information \"License: CC0-1.0\" are licensed under the Creative Commons Public Domain Dedication 1.0 Universal or any later version as published by Creative Commons, Inc."
 
 references:
+  "LesserGPL":
+    matches:
+      - "as specified in detail above.
+
+         2. Files that contain the information \"License: LGPL-3.0-or-later\" are licensed as below"
+      - "In addition to the permission granted by the GPLv3, you also receive
+            permissions as written in GNU Lesser General Public License (LGPL),
+            Version 3.0, as published by the Free Software Foundation (FSF), either
+            version 3 of the License, or (at your option) any later version of the
+            LGPL published by the FSF.
+
+            This program is distributed in the hope that it will be useful, but
+            WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+            or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
+            for more details.
+
+            You should have received a copy of the GNU Lesser General Public License
+            along with this program in a file in the toplevel directory called
+            \"LGPL-3.0.txt\".  If not, see <http://www.gnu.org/licenses/>"
   "LGPL":
     matches:
       - "as specified in detail above.
@@ -38,7 +57,6 @@ references:
             You should have received a copy of the GNU Lesser General Public License
             along with this program in a file in the toplevel directory called
             \"LGPL-3.0.txt\".  If not, see <http://www.gnu.org/licenses/>"
-
   "GPL":
     matches:
       - "You can copy, convey, propagate, redistribute and/or modify this program
@@ -60,7 +78,6 @@ references:
           Version 3.0, as published by the Free Software Foundation (FSF), either
           version 3 of the License, or (at your option) any later version of the
           LGPL published by the FSF."
-
   "AGPL":
     matches:
       - "AGPL-3.0-or-later WITH WTO-AP-3.0-or-later
@@ -93,4 +110,11 @@ references:
           AGPL-3.0-or-later WITH WTO-AP-3.0-or-later"
   "Public Domain":
     matches:
-      - "Files that contain the information \"License: CC0-1.0\" are licensed under the Creative Commons Public Domain Dedication 1.0 Universal or any later version as published by Creative Commons, Inc. (\"CC0\"). 4. All SVG, ICO and PNG files in this repository are licensed as CC-0."
+      - "Files that contain the information \"License: CC0-1.0\" are licensed under the Creative Commons Public Domain 
+         Dedication 1.0 Universal or any later version as published by Creative Commons, Inc. (\"CC0\"). 4. All SVG, 
+         ICO and PNG files in this repository are licensed as CC-0."
+  "CC0":
+    matches:
+      - "Files that contain the information \"License: CC0-1.0\" are licensed under the Creative Commons Public Domain 
+         Dedication 1.0 Universal or any later version as published by Creative Commons, Inc. (\"CC0\"). 4. All SVG, 
+         ICO and PNG files in this repository are licensed as CC-0."

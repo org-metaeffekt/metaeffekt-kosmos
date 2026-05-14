@@ -1,6 +1,6 @@
 canonicalName: Red Hat Standard End User License Agreement
-category: Red Hat Standard End User License Agreement
-shortName: rh-standard-eula-2019
+category: Red Hat Standard EULA
+shortName: RH-Standard-EULA
 
 otherIds:
   - "scancode:rh-standard-eula-2019"
@@ -9,6 +9,9 @@ classification: proprietary free
 
 alternativeNames:
   - "Red Hat Standard End User License Agreement"
+  - "END USER LICENSE AGREEMENT RED HAT STANDARD"
+  - "rh-standard-eula-2019"
+  - "Red Hat EULA"
 
 evidence:
   matches:
@@ -19,3 +22,7 @@ evidence:
        redistribute (subject to certain obligations in some cases) the software component"
     - "This EULA pertains solely to the Programs and does not limit your rights under, or grant you rights that
        supersede, the license terms applicable to any particular component"
+  excludes:
+    - "Red Hat, Inc. (“Red Hat”) grants to you a perpetual, worldwide license to the Programs (each of which may
+       include multiple software components) pursuant to the GNU Lesser General Public License v. 2.1
+       (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)"

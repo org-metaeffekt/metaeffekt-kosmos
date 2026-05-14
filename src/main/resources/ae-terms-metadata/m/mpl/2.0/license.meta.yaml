@@ -5,6 +5,7 @@ spdxIdentifier: MPL-2.0
 otherIds:
   - "scancode:mpl-2.0"
   - "osi:MPL-2.0"
+  - "osi-deprecated:mpl-2-0"
 
 requiresSourceCodeProvision: true
 defaultSourceCategory: annex
@@ -39,7 +40,7 @@ references:
            Lesser General Public License, Version 2.1, the GNU Affero General
            Public License, Version 3.0, or any later versions of those
            licenses"
-  "LGPL":
+  "LesserGPL":
      matches:
         - "means either the GNU General Public License, Version 2.0, the GNU
            Lesser General Public License, Version 2.1, the GNU Affero General

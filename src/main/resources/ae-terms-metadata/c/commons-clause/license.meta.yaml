@@ -11,6 +11,9 @@ classification: restriction
 otherIds:
   - "scancode:commons-clause"
 
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 + Commons Clause License Condition 1.0
+
 alternativeNames:
   - "Commons Clause License"
   - "Commons Clause, Version 1.0"

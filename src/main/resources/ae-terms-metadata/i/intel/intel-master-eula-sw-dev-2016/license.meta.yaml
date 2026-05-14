@@ -18,26 +18,92 @@ evidence:
 references:
   "CPL":
     matches:
-      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, that the licensed software or other software incorporated into, derived from or distributed with such software (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded Licenses include, without limitation, licenses that license or distribute software under any of the following licenses or distribution models, or licenses or distribution models substantially similar to any of the following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
+      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, 
+         that the licensed software or other software incorporated into, derived from or distributed with such software 
+         (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the 
+         purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded 
+         Licenses include, without limitation, licenses that license or distribute software under any of the following 
+         licenses or distribution models, or licenses or distribution models substantially similar to any of the 
+         following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License 
+         (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source 
+         License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
   "GPL":
     matches:
-      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, that the licensed software or other software incorporated into, derived from or distributed with such software (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded Licenses include, without limitation, licenses that license or distribute software under any of the following licenses or distribution models, or licenses or distribution models substantially similar to any of the following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
+      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, 
+         that the licensed software or other software incorporated into, derived from or distributed with such software 
+         (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the 
+         purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded 
+         Licenses include, without limitation, licenses that license or distribute software under any of the following 
+         licenses or distribution models, or licenses or distribution models substantially similar to any of the 
+         following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License 
+         (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source 
+         License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
   "Artistic License":
     matches:
-      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, that the licensed software or other software incorporated into, derived from or distributed with such software (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded Licenses include, without limitation, licenses that license or distribute software under any of the following licenses or distribution models, or licenses or distribution models substantially similar to any of the following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
+      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, 
+         that the licensed software or other software incorporated into, derived from or distributed with such software 
+         (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the 
+         purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded 
+         Licenses include, without limitation, licenses that license or distribute software under any of the following 
+         licenses or distribution models, or licenses or distribution models substantially similar to any of the 
+         following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License 
+         (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source 
+         License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
+  "LibraryGPL":
+    matches:
+      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, 
+         that the licensed software or other software incorporated into, derived from or distributed with such software 
+         (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the 
+         purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded 
+         Licenses include, without limitation, licenses that license or distribute software under any of the following 
+         licenses or distribution models, or licenses or distribution models substantially similar to any of the 
+         following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License 
+         (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source 
+         License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
+  "LesserGPL":
+    matches:
+      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, 
+         that the licensed software or other software incorporated into, derived from or distributed with such software 
+         (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the 
+         purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded 
+         Licenses include, without limitation, licenses that license or distribute software under any of the following 
+         licenses or distribution models, or licenses or distribution models substantially similar to any of the 
+         following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License 
+         (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source 
+         License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
   "LGPL":
     matches:
-      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, that the licensed software or other software incorporated into, derived from or distributed with such software (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded Licenses include, without limitation, licenses that license or distribute software under any of the following licenses or distribution models, or licenses or distribution models substantially similar to any of the following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
+      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, 
+         that the licensed software or other software incorporated into, derived from or distributed with such software 
+         (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the 
+         purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded 
+         Licenses include, without limitation, licenses that license or distribute software under any of the following 
+         licenses or distribution models, or licenses or distribution models substantially similar to any of the 
+         following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License 
+         (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source 
+         License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
   "MIT":
     matches:
-      - "(d) will provide the Redistributables subject to a license agreement that prohibits disassembly and reverse engineering of the Redistributables except in cases when you provide Your Product subject to an open source license that is not an Excluded License, for example, the BSD license, or the MIT license, (e) will indemnify, hold harmless"
+      - "(d) will provide the Redistributables subject to a license agreement that prohibits disassembly and reverse 
+         engineering of the Redistributables except in cases when you provide Your Product subject to an open source 
+         license that is not an Excluded License, for example, the BSD license, or the MIT license, (e) will indemnify, 
+         hold harmless"
   "BSD":
     matches:
-      - "the BSD license, or the MIT license, (e) will indemnify, hold harmless, and defend Intel and its suppliers from and against any claims or lawsuits, including attorney's fees, that arise or result from Your modifications, derivative works or Your distribution of Your Product."
+      - "the BSD license, or the MIT license, (e) will indemnify, hold harmless, and defend Intel and its suppliers 
+         from and against any claims or lawsuits, including attorney's fees, that arise or result from Your 
+         modifications, derivative works or Your distribution of Your Product."
   "MPL":
     matches:
-      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, that the licensed software or other software incorporated into, derived from or distributed with such software (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded Licenses include, without limitation, licenses that license or distribute software under any of the following licenses or distribution models, or licenses or distribution models substantially similar to any of the following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
-
+      - "B.	\"Excluded License\" means a license that requires, as a condition of use, modification, or distribution, 
+         that the licensed software or other software incorporated into, derived from or distributed with such software 
+         (a) be disclosed or distributed in Source Code form; (b) be licensed by the user to third parties for the 
+         purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Excluded 
+         Licenses include, without limitation, licenses that license or distribute software under any of the following 
+         licenses or distribution models, or licenses or distribution models substantially similar to any of the 
+         following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License 
+         (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source 
+         License (SCSL), (f) the Sun Industry Source License (SISL), and (g) the Common Public License (CPL)."
 
 segmentation:
   revert: [

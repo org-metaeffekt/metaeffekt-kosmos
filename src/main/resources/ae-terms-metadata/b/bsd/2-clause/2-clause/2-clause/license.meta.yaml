@@ -26,6 +26,7 @@ ignoreMatches:
 otherIds:
   - "scancode:bsd-simplified"
   - "osi:BSD-2-Clause"
+  - "osi-deprecated:bsd-2-clause"
 
 alternativeNames:
   - "2-clause BSD license"
@@ -55,6 +56,8 @@ alternativeNames:
   - "2-Clause BSD license"
   - "2 clause BSD license"
   - "2-clause BSD licenses"
+  - "BSD 2-clause “Simplified” License"
+  - "BSD 2-Clause “Simplified” License"
 
 alternativeShortNames:
   - "BSD2c"
@@ -88,6 +91,9 @@ evidence:
       nor the names of their contributors may be used to endorse or promote
       products derived from this software without specific prior written
       permission."
+    - "If you have given this to your customers 
+     you should offer me bottles or casks of very good spirits and a free place to stay for a week. 
+     Rick Wesson reserves the right to ammend this contract in any fuckin state of mind" # BSD 2-Clause License (Rick's Internet License)
 
 grants:
   binary-distribution:

@@ -4,6 +4,7 @@ spdxIdentifier: SISSL
 
 otherIds:
   - "scancode:sun-sissl-1.1"
+  - "osi-deprecated:sissl"
 
 alternativeNames:
   - "SISSL"

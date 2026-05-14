@@ -1,0 +1,31 @@
+canonicalName: NVIDIA SDK License 12.8
+category: NVIDIA SDK
+shortName: NVIDIA-SDK-12.8
+
+otherIds:
+  - "scancode:nvidia-sdk-12.8"
+
+alternativeNames:
+  - "License Agreement for NVIDIA Software Development Kits v12.8"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, NVIDIA hereby grants you a non-exclusive, non-transferable license, without the right to sublicense (except as expressly provided in this Agreement) to"
+    - "Modify and create derivative works of sample source code delivered in the SDK"
+    - "Distribute those portions of the SDK that are identified in this Agreement as distributable, as incorporated in object code format into a software application that meets the distribution requirements indicated in this Agreement"
+    - "Your application must have material additional functionality, beyond the included portions of the SDK"
+    - "Unless a developer tool is identified in this Agreement as distributable, it is delivered for your internal use only"
+    - "You agree to notify NVIDIA in writing of any known or suspected distribution or use of the SDK not in compliance with the requirements of this Agreement, and to enforce the terms of your agreements with respect to distributed SDK"
+    - "You may allow employees and contractors of your entity or of your subsidiary(ies) to access and use the SDK from your secure network to perform work on your behalf"
+  excludes:
+    - "The SDK may come bundled with, or otherwise include or be distributed with, third party software licensed by a NVIDIA supplier and/or open source software provided under an open source license"
+
+references:
+  "NVIDIA Software":
+    matches:
+      - "1. License Agreement for NVIDIA Software Development Kits v12.8
+
+        End User License Agreement
+        
+        NVIDIA Software License Agreement and CUDA Supplement to Software License Agreement."
+

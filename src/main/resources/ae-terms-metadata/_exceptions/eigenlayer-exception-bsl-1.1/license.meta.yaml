@@ -1,6 +1,9 @@
-canonicalName: EigenLayer Exception (Business Source License 1.1)
+canonicalName: EigenLayer Exception (BSL-1.1)
 category: EigenLayer Exception
-shortName: EigenLayer-Exception-Business-Source-1.1
+shortName: EigenLayer-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "EigenLayer Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -9,7 +12,7 @@ alternativeNames:
   - "EigenLayer additional use grant for BSL"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with EigenLayer Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with EigenLayer Exception (BSL-1.1))
 
 evidence:
   matches:

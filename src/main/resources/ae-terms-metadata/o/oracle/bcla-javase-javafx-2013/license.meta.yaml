@@ -6,7 +6,10 @@ otherIds:
   - "scancode:oracle-bcl-javase-javafx-2013"
 
 alternativeNames:
-  - "Oracle Binary Code License Agreement for Java SE and JavaFX Technologies"
+  - "Oracle Binary Code License Agreement (Java SE and JavaFX 2013)"
+  - "Oracle-BCLA-Java-SE-Java-FX-2013"
+  - "Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX 2013"
+  - "Oracle Binary Code License Agreement for the Java SE Platform Products 2013-04-02"
 
 evidence: 
   matches:
@@ -16,5 +19,6 @@ evidence:
     - "Source code may not be redistributed unless expressly provided for in this Agreement"
     - "Additional copyright notices and license terms applicable to portions of the Software are set forth in the THIRDPARTYLICENSEREADME file set forth in the Software or otherwise available from Oracle at or through the following URL"
     - "Either party may terminate this Agreement immediately should any Software become, or in either party's opinion be likely to become, the subject of a claim of infringement of any intellectual property right"
+    - "JavaFX Runtime versions prior to version 2.0.2, except for version 1.3.1"
   excludes:
     - "License for Archived Java EE Technologies; Last updated 30 January 2012"

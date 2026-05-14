@@ -1,0 +1,22 @@
+canonicalName: Canonical Intellectual Property Rights Policy 2015
+category: Canonical Intellectual Property Rights Policy
+shortName: Canonical-Intellectual-Property-Rights-2015
+
+otherIds:
+  - "scancode:canonical-iprights-2015"
+
+expectedMatches:
+  # using standard CC-BY-SA-3.0 since there is no official UK version:
+  - "Creative Commons BY-SA 3.0"
+
+evidence:
+  matches:
+    - "You can download, install and receive updates to Ubuntu for free"
+    - "Ubuntu is freely available to all users for personal, or in the case of organisations, internal use. It is provided for this use without warranty"
+    - "All implied warranties are disclaimed to the fullest extent permitted at law"
+    - "You can modify Ubuntu for personal or internal use"
+    - "You can make changes to Ubuntu for your own personal use or for your organisation's own internal use"
+    - "You can redistribute Ubuntu, but only where there has been no modification to it"
+    - "Any redistribution of modified versions of Ubuntu must be approved, certified or provided by Canonical if you are going to associate it with the Trademarks"
+    - "Otherwise you must remove and replace the Trademarks and will need to recompile the source code to create your own binaries"
+    - "You can only use Canonical's copyright materials in accordance with the copyright licences therein and this IPRights Policy"

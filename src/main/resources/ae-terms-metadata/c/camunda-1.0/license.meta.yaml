@@ -1,0 +1,44 @@
+canonicalName: Camunda License 1.0
+category: Camunda
+shortName: Camunda-1.0
+
+otherIds:
+  - "scancode:camunda-1.0"
+
+alternativeNames:
+  - "Camunda License 1.0"
+
+evidence:
+  matches:
+    - "If Your Use of the Software does not comply with the terms and conditions
+      described in this License, You must purchase a commercial license from the
+      Licensor, its affiliated entities, or authorized resellers, or You must
+      refrain from Using the Software"
+    - "Subject to the terms and conditions of this License, the Licensor hereby grants
+      You the non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable
+      right to Use the Software in any way or manner that would otherwise infringe the
+      Licensor’s copyright as long and insofar as You Use the Software only and limited
+      to the Use in or for the purpose of Using the Software in Non-Production Environment"
+    - "Each time you distribute or make otherwise publicly available the Software or
+      Derivative Works thereof, the recipient automatically receives a license from
+      the original Licensor to the respective Software or Derivative Works thereof
+      under the terms of this License"
+    - "You may not move, change, disable, or circumvent the license key functionality
+      in the Software, and You may not remove or obscure any functionality in the
+      Software that is protected by the license key"
+    - "If You distribute or make available the Software or any modification or Derivative
+      Works thereof (including compiled versions), You must conspicuously display and
+      attach this License on each original or modified copy of the Software and enable
+      the recipient to obtain the source code if You have distributed a compiled version"
+    - "EXCEPT AS EXPRESSLY STATED IN THIS LICENSE OR REQUIRED BY APPLICABLE LAW, THE WORKS ARE
+      PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTIES OF ANY KIND INCLUDING WITHOUT LIMITATION,
+      ANY WARRANTIES REGARDING THE CONTENTS, ACCURACY, OR FITNESS FOR A PARTICULAR PURPOSE"
+
+segmentation:
+  revert: [
+    { match:
+        "Each time you distribute or make otherwise publicly available the Software or Derivative Works thereof, the recipient automatically receives a license from the original Licensor to the respective Software or Derivative Works thereof under the terms of this License.",
+      matchNext:
+        "Conditions and Restrictions All Use of the Software is explicitly made subject to the following conditions:  You may not move, change, disable, or circumvent the license key functionality in the Software, and You may not remove or obscure any functionality in the Software that is protected by the license key"
+    },
+]

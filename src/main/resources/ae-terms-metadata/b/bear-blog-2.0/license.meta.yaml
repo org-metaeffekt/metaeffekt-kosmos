@@ -1,0 +1,26 @@
+canonicalName: Bear Blog License 2.0
+category: Bear Blog
+shortName: Bear-Blog-2.0
+
+comments:
+  - "source: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md"
+
+otherIds:
+  - "scancode:bear-blog-2.0"
+
+alternativeNames:
+  - "Bear Blog License v2.0"
+  - "Bear Blog license v2.0"
+  - "Bear Blog v2.0"
+  - "bear blog v2.0"
+  - "Bear Blog 2.0"
+  - "bear blog 2.0"
+
+evidence:
+  matches:
+    - "The licensor grants you a non-exclusive, royalty-free, worldwide license to use, copy, modify, distribute, and create derivative works of the Software, subject to the limitations below"
+    - "You may not provide the Software as a hosted or managed service that offers users access to substantial features or functionality"
+    - "You may not remove or obscure any licensing, copyright, or other notices in the Software"
+    - "The licensor grants you a license under any patent claims the licensor can license to make, use, sell, offer for sale, import, or distribute the Software, subject to these terms"
+    - "If you or your company claim the Software infringes any patent, this patent license terminates immediately"
+    - "You must ensure anyone receiving the Software from you also receives these terms"

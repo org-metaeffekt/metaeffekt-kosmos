@@ -1,5 +1,5 @@
 canonicalName: GNU emacs General Public License 1988
-category: GNU emacs General Public License
+category: GNU emacs General Public
 shortName: GNU-Emacs-GPL-1988
 
 otherIds:
@@ -7,7 +7,6 @@ otherIds:
 
 alternativeNames:
   - "GNU emacs General Public License 1988"
-  - "GNU EMACS GENERAL PUBLIC LICENSE"
 
 evidence:
   matches:
@@ -25,3 +24,5 @@ evidence:
        modified by someone else and passed on, we want its recipients to know
        that what they have is not what we distributed, so that any problems
        introduced by others will not reflect on our reputation"
+    - "cause the modified files to carry prominent notices stating
+      that you changed the files and the date of any change"

@@ -1,0 +1,28 @@
+canonicalName: Ngrep License
+category: Ngrep License
+spdxIdentifier: ngrep
+
+otherIds:
+  - "scancode:ngrep"
+
+alternativeNames:
+  - "ngrep License"
+  - "Ngrep License"
+
+evidence:
+  matches:
+    - "The origin of this software must not be misrepresented, either by
+       explicit claim or by omission"
+    - "Altered versions must be plainly marked as such, and must not be
+       misrepresented as being the original software"
+    - "Any altered version must clearly and properly represent the origin
+       of this software in any accompanying documentation"
+    - "All advertising materials which relate specifically to derivate
+       works of this software must display the following acknowledgement:
+       This product includes software developed by Jordan Ritter"
+    - "The name of the Author may not be used to endorse or promote
+       products derived from this software without specific prior written
+       permission"
+    - "This notice, and any references to this notice, in any original or
+       derived source distribution of or documentation for this software,
+       may not be removed or altered"

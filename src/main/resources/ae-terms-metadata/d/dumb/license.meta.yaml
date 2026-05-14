@@ -1,0 +1,48 @@
+canonicalName: DUMB License 0.9.3
+category: DUMB
+shortName: DUMB-0.9.3
+
+otherIds:
+  - "scancode:dumb"
+
+alternativeNames:
+  - "DUMB License"
+  - "http://dumb.sf.net/"
+  - "Dynamic Universal Music Bibliotheque, Version 0.9.3"
+
+evidence:
+  matches:
+    - "The origin of this software must not be misrepresented; you must not claim that you wrote the original software"
+    - "If you use this software in a product, you are requested to acknowledge its use in the product documentation,
+       along with details on where to get an unmodified version of this software, but this is not a strict requirement"
+    - "Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software"
+    - "This notice may not be removed from or altered in any source distribution"
+    - "If you are using the Program in someone else's bedroom on any Monday at 3:05 pm, you are not allowed to modify
+       the Program for ten minutes"
+    - "[This clause provided by Inphernic; every licence should contain at least one clause, the reasoning behind which is far from obvious.]"
+    - "Users who wish to use DUMB for the specific purpose of playing music are required to feed their dog on every full moon (if deemed appropriate)"
+    - "[This clause provided by Allefant, who couldn't remember what Inphernic's clause was.]"
+    - "No clause in this licence shall prevent this software from being depended upon by a product licensed under the
+       GNU General Public Licence"
+    - "If such a clause is deemed to exist, Debian, then it shall be respected in spirit as far as possible and all
+       other clauses shall continue to apply in full force"
+    - "Take the number stated as introducing this clause"
+    - "Multiply it by two, then subtract four. Now insert a '+' between the two digits and evaluate the resulting sum"
+    - "Call the result 'x'. If you have not yet concluded that every numbered clause in this licence whose ordinal
+       number is strictly greater than 'x' (with the exception of the present clause) is null and void, Debian, then
+       you are hereby informed that laughter is good for one's health and you are warmly suggested to do it"
+    - "By the way, Clauses 4, 5 and 6 are null and void. Incidentally, I like Kubuntu"
+    - "The work you guys do is awesome. (Lawyers, on the other hand ...)"
+    - "We regret that we cannot provide any warranty, not even the implied warranty of merchantability or fitness for
+       a particular purpose"
+    - "Some files generated or copied by automake, autoconf and friends are available in an extra download"
+    - "These fall under separate licences but are all free to distribute"
+    - "Please check their licences as necessary"
+
+references:
+  "GPL":
+    matches:
+      - "preventing people from using the GNU General Public Licence which disallows any such restrictions.
+         See http://www.gnu.org/philosophy/bsd.html for more information"
+      - "No clause in this licence shall prevent this software from being depended upon by a product licensed under the
+         GNU General Public Licence"

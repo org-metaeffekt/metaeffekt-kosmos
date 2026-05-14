@@ -5,6 +5,7 @@ spdxIdentifier: Watcom-1.0
 otherIds:
   - "scancode:sybase"
   - "osi:Watcom-1.0"
+  - "osi-deprecated:sybase"
 
 alternativeNames:
   - "Watcom, Version 1.0"
@@ -14,6 +15,8 @@ alternativeNames:
   - "Watcom License, 1.0"
   - "Watcom License 1.0"
   - "Sybase Open Watcom Public License version 1.0"
+  - "Sybase Open Watcom Public License 1.0"
+  - "Sybase Open Watcom Public License v1.0"
 
 evidence:
   matches:

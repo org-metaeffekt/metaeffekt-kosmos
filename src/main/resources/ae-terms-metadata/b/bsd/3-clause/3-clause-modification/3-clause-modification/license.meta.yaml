@@ -5,6 +5,12 @@ spdxIdentifier: BSD-3-Clause-Modification
 otherIds:
   - "scancode:repoze"
 
+alternativeNames:
+  - "BSD 3-Clause Modification"
+  - "BSD Modification Variant"
+  - "BSD-Modification-Variant"
+  - "Repoze License"
+
 representedAs: BSD 3-Clause License
 
 requiresCopyright: true

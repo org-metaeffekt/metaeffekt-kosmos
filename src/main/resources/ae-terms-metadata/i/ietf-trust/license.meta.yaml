@@ -6,9 +6,8 @@ otherIds:
   - "scancode:ietf-trust"
 
 alternativeNames:
-  - "IETF TRUST 
-     Legal Provisions Relating to IETF Documents 
-     Effective Date: December 28, 2009"
+  - "IETF TRUST Legal Provisions Relating to IETF Documents Effective Date: December 28, 2009"
+  - "Internet Engineering Task Force License"
 
 requiresCopyright: true
 requiresLicenseText: true
@@ -16,14 +15,23 @@ requiresLicenseText: true
 
 evidence:
   matches:
-    - "The IETF Trust was formed on December 15, 2005, for, among other things, the purpose of acquiring, holding, maintaining and licensing certain existing and future intellectual property used in connection with the Internet standards process and its administration, for the advancement of science and technology associated with the Internet and related technology"
-    - "In most cases, rights to Pre-Existing IETF Documents that are not expressly granted under these RFCs can only be obtained by requesting such rights directly from the document authors"
-    - "unless explicitly disallowed in the notices contained in an IETF Contribution or IETF Document (as specified in Section 6.c below), to modify or prepare derivative works of such IETF Contributions or IETF Documents, in whole or in part, as part of the IETF Standards Process"
-    - "any license to modify IETF Contributions or IETF Documents, or portions thereof (other than to make translations or to extract, use and modify Code Components as permitted under the licenses granted under Section 4 of these Legal Provisions) in any context outside the IETF Standards Process, or"
-    - "In addition to the licenses granted under Section 3, unless one of the legends contained in Section 6.c.i or 6.c.ii is included in an IETF Document containing Code Components, such Code Components are also licensed to each person who wishes to receive such a license on the terms of the \"Simplified BSD License\", as described below"
-    - "The licenses granted under these Legal Provisions shall not be 
-       deemed to grant any right under any patent, patent application or similar intellectual property 
-       right"
+    - "The IETF Trust was formed on December 15, 2005, for, among other things, the purpose of acquiring, holding,
+       maintaining and licensing certain existing and future intellectual property used in connection with the Internet
+       standards process and its administration, for the advancement of science and technology associated with the
+       Internet and related technology"
+    - "In most cases, rights to Pre-Existing IETF Documents that are not expressly granted under these RFCs can only be
+       obtained by requesting such rights directly from the document authors"
+    - "unless explicitly disallowed in the notices contained in an IETF Contribution or IETF Document (as specified in
+       Section 6.c below), to modify or prepare derivative works of such IETF Contributions or IETF Documents, in whole
+       or in part, as part of the IETF Standards Process"
+    - "any license to modify IETF Contributions or IETF Documents, or portions thereof (other than to make translations
+       or to extract, use and modify Code Components as permitted under the licenses granted under Section 4 of these
+       Legal Provisions) in any context outside the IETF Standards Process, or"
+    - "In addition to the licenses granted under Section 3, unless one of the legends contained in Section 6.c.i or 6.c.ii
+       is included in an IETF Document containing Code Components, such Code Components are also licensed to each person
+       who wishes to receive such a license on the terms of the \"Simplified BSD License\", as described below"
+    - "The licenses granted under these Legal Provisions shall not be deemed to grant any right under any patent, patent
+       application or similar intellectual property right"
 
 references: 
   "BSD":
@@ -58,7 +66,7 @@ segmentation:
 ]
 
 licenseTemplate:
-  "<lq>BSD License: Copyright (c) <insert year> IETF Trust and the persons identified as authors of the code. 
+  "<lq>BSD License: Copyright (c) &lt;insert year&gt; IETF Trust and the persons identified as authors of the code. 
      All rights IETF Trust Legal Provisions Relating to IETF Documents 
      Effective Date: December 28, 2009 4 reserved.
 

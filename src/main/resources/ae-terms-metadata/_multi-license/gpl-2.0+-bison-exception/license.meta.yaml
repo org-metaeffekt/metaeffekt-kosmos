@@ -15,3 +15,7 @@ otherIds:
 combinedWith:
   "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Bison exception)
   "Bison Exception": GNU General Public License 2.0 (or any later version; with Bison exception)
+
+alternativeNames:
+  - "GNU General Public License v2.0 or later w/Bison exception" # for external identification purposes
+  - "GPL-2.0+-with-bison-exception" # for external identification purposes

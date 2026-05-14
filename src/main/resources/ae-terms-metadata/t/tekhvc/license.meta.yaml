@@ -1,6 +1,6 @@
 canonicalName: TekHVC License
 category: TekHVC License
-shortName: TekHVC
+spdxIdentifier: TekHVC
 
 otherIds:
   - "scancode:tekhvc"

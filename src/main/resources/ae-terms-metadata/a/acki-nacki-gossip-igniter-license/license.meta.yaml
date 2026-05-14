@@ -1,0 +1,19 @@
+canonicalName: Acki Nacki Gossip Igniter License
+category: Acki Nacki
+shortName: Acki-Nacki-Gossip-Igniter
+
+otherIds:
+  - "scancode:angi-1.0"
+
+alternativeNames:
+  - "Acki Nacki Gossip Igniter License 1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms of this License, GOSH (“the Licensor”) hereby grants you (“the Licensee”) a perpetual, 
+       worldwide, non-exclusive, no-charge, royalty-free, irrevocable permission to"
+    - "Use, copy, modify, merge, publish, distribute, and/or sublicense copies of the Igniter"
+    - "By installing the Igniter software unmodified, you explicitly consent to all future updates and agree to run
+       the updated software on your system"
+    - "If you modify the Igniter, you must clearly mark and document your changes, including a prominent notice that 
+       your version is different from the official Acki Nacki Gossip Igniter"

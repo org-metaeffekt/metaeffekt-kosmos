@@ -3,7 +3,7 @@ category: CNRI Jython
 spdxIdentifier: CNRI-Jython
 
 otherIds:
-# both IDs are still active:
+# both IDs are still active (26.11.2025):
   - "scancode:cnri-jython"
   - "scancode:jpython-1.1"
 

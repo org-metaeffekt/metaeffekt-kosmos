@@ -3,6 +3,7 @@ category: TTF2PT1
 shortName: TTF2PT1
 
 otherIds:
+# NOTE: scancodeID deprecated, but kept for completeness
   - "scancode:ttf2pt1"
 
 expectedMatches:

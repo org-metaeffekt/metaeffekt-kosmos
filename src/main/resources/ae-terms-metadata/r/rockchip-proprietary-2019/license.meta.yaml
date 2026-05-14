@@ -1,0 +1,18 @@
+canonicalName: Rockchip Proprietary 2019
+category: Rockchip Proprietary
+shortName: Rockchip-Proprietary-2019
+
+otherIds:
+  - "scancode:rockchip-proprietary-2019"
+
+alternativeNames:
+  - "Rockchip Proprietary 2019"
+  - "Rockchip-Proprietary-2019"
+  - "rockchip-proprietary-2019"
+
+evidence:
+  matches:
+    - "No part of this work may be reproduced, modified, distributed, transmitted,
+       transcribed, or translated into any language or computer format, in any form
+       or by any means without written permission of:
+       Fuzhou Rockchip Electronics Co.Ltd"

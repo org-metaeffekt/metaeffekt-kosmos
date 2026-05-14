@@ -1,0 +1,36 @@
+canonicalName: Vanderbilt Contribution and Software License Agreement 1.0
+category: Vanderbilt Contribution and Software License
+shortName: Vanderbilt-SLA-1.0
+
+otherIds:
+  - "scancode:vanderbilt-sla-1.0"
+
+alternativeNames:
+  - "Vanderbilt Contribution and Software License Agreement v1.0"
+  - "Vanderbilt Contribution and Software License Agreement 1.0"
+  - "vanderbilt-sla-1.0"
+  - "Vanderbilt-SLA-1.0"
+  - "Contribution and Software License Agreement Version 1.0"
+
+evidence:
+  matches:
+    - "This Contribution Agreement applies to all Contributions made to the Program, including without limitation
+       Contributions made prior to the date of first publication of this Agreement"
+    - "If at any time you make a Contribution to the Program, you represent that (i) you are legally authorized and
+       entitled to make such Contribution and to grant all licenses granted in this Contribution Agreement with respect
+       to such Contribution; (ii) if your Contribution includes any patient data, all such data is de-identified in
+       accordance with U.S. confidentiality and security laws and requirements, including but not limited to the Health
+       Insurance Portability and Accountability Act (HIPAA) and its regulations, and your disclosure of such data for
+       the purposes contemplated by this Agreement is properly authorized and in compliance with all applicable laws
+       and regulations; and (iii) you have preserved in the Contribution all applicable attributions, copyright notices
+       and licenses for any third party software or data included in the Contribution"
+    - "Except for the licenses granted in this Agreement, you reserve all right, title and interest in your Contribution"
+    - "You hereby grant to Vanderbilt, with the right to sublicense, a perpetual, worldwide, non-exclusive, no charge,
+       royalty-free, irrevocable license to use, reproduce, make derivative works of, display and distribute the
+       Contribution as stand-alone software and/or as part of the Program or a larger group of code"
+    - "If your Contribution is protected by patent, you hereby grant to Vanderbilt, with the right to sublicense, a
+       perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under your interest in patent
+       rights covering the Contribution, to make, have made, use, sell and otherwise transfer your Contribution, alone
+       or in combination with any other code"
+    - "You acknowledge and agree that Vanderbilt shall have no liability arising in connection with claims resulting
+       from your breach of any of the terms of this Agreement"

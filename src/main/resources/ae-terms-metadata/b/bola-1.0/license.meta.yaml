@@ -1,0 +1,34 @@
+canonicalName: Buena Onda License Agreement 1.0
+category: Buena Onda License Agreement
+shortName: BOLA-1.0
+
+otherIds:
+  - "scancode:bola10"
+
+alternativeNames:
+  - "Buena Onda License Agreement 1.0"
+  - "BOLA - Buena Onda License Agreement (v1.0)"
+
+expectedMatches:
+  - "Public Domain"
+
+evidence:
+  matches:
+    - "To all effects and purposes, this work is to be considered Public Domain"
+    - "Not take credit for it, and give proper recognition to the authors"
+    - "Share your modifications, so everybody benefits from them"
+    - "Do something nice for the authors"
+    - "Help someone who needs it"
+    - "Don't waste. Anything, but specially energy that comes from natural
+       non-renewable resources"
+    - "Be tolerant. Everything that's good in nature comes from cooperation"
+    - "The order is important, and the further you go the more \"Buena onda\" you are"
+
+segmentation:
+  revert: [
+    { match:
+        "BOLA - Buena Onda License Agreement (v1.0)",
+      matchNext:
+        "This work is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this work"
+    },
+]

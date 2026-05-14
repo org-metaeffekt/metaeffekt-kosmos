@@ -10,6 +10,13 @@ canonicalNameHistory:
 
 alternativeNames:
   - "MICROSOFT WINDOWS SOFTWARE DEVELOPMENT KIT (SDK) FOR WINDOWS 10"
+  - "Microsoft Windows Software Development KIT (SDK) for Windows 10"
+  - "MICROSOFT SOFTWARE LICENSE TERMS MICROSOFT WINDOWS SOFTWARE DEVELOPMENT KIT (SDK) FOR WINDOWS 10"
+  - "Microsoft Windows Software Development Kit for Windows 10 License Terms"
+  - "MS-WSDK-Windows-10-License"
+
+alternativeShortNames:
+  - "MS-WSD-KIT-SDK-for-Windows-10"
 
 evidence:
   matches:

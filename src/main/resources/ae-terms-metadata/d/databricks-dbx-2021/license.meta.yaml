@@ -1,0 +1,37 @@
+canonicalName: DataBricks eXtensions (2021)
+category: DataBricks eXtensions
+shortName: DataBricks-dbx-2021
+
+otherIds:
+  - "scancode:databricks-dbx-2021"
+
+classification: proprietary free
+
+alternativeNames:
+  - "DataBricks eXtensions (2021)"
+  - "DataBricks eXtensions 2021"
+  - "DataBricks eXtensions aka dbx (2021)"
+  - "DataBricks eXtensions aka dbx 2021"
+  - "databricks-dbx-2021"
+
+evidence:
+  matches:
+    - "you may view, make limited copies of, and may compile the Source Code version of the Software into an Object
+       Code version of the Software"
+    - "For the avoidance of doubt, you may not make derivative works of Software (or make any any changes to the
+       Source Code version of the unless you have agreed to separate terms with Databricks permitting such modifications
+       (e.g., a contribution license agreement))"
+    - "If you have not agreed to an Agreement or otherwise do not agree to these terms, you may not use the Software or
+       view, copy or compile the Source Code of the Software"
+    - "This license terminates automatically upon the termination of the Agreement or Licensee's breach of these terms"
+    - "Additionally, Databricks may terminate this license at any time on notice"
+    - "Upon termination, you must permanently delete the Software and all copies thereof (including the Source Code)"
+    - "the agreement between Databricks and Licensee governing the use of the Databricks Platform Services, which
+       shall be, with respect to Databricks, the Databricks Terms of Service located at www.databricks.com/termsofservice,
+       and with respect to Databricks Community Edition, the Community Edition Terms of Service located at
+       www.databricks.com/ce-termsofuse, in each case unless Licensee has entered into a separate written agreement with
+       Databricks governing the use of the applicable Databricks Platform Services"
+    - "the Databricks services or the Databricks Community Edition services, according to where the Software is used"
+    - "the user of the Software, or, if the Software is being used on behalf of a company, the company"
+    - "is version of the Software produced when an interpreter or a compiler translates the Source Code into recognizable
+       and executable machine code"

@@ -1,0 +1,18 @@
+canonicalName: Siesta Computer Centres License
+category: Siesta Computer Centres License
+shortName: Siesta-Computer-Centres
+
+otherIds:
+  - "scancode:siesta-computer-centres"
+
+alternativeNames:
+  - "Siesta Licence for Computer Centres"
+  - "Siesta-Computer-Centres"
+  - "SIESTA LICENCE for COMPUTER CENTRES"
+  - "Siesta Computer Centres License"
+
+evidence:
+  matches:
+    - "All other rights not explicitly mentioned in this document are reserved"
+    - "In particular, the Authors reserve all rights to resolve any and all conflicts arising in the development
+       and distribution policies of the SIESTA package"

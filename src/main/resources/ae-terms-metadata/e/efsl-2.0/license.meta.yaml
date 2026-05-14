@@ -1,0 +1,40 @@
+canonicalName: Eclipse Foundation Specification License 2.0
+category: Eclipse Foundation Specification
+shortName: EFSL-2.0
+
+otherIds:
+  - "scancode:efsl-2.0"
+
+alternativeNames:
+  - "https://www.eclipse.org/legal/efsl/"
+  - "Eclipse Foundation Specification License - v2.0"
+  - "Eclipse Foundation Specification License 2.0"
+  - "EFSL-2.0"
+
+alternativeShortNames:
+  - "EFS-2.0"
+
+evidence:
+  matches:
+    - "By using the file or document that incorporates this License (the '`Document`'), you (the licensee) agree that
+       you have read, understood, and will comply with the following terms and conditions"
+    - "Permission to copy and distribute the contents of the Document, in any medium for any purpose, and without fee
+       or royalty is hereby granted, provided that you include the following on ALL copies of the Document that you
+       copy or distribute"
+    - "link or URL to the Document"
+    - "All existing copyright notices, or if one does not exist, a notice (hypertext is preferred, but a textual
+       representation is permitted) of the form: '`Copyright (C) [date-of-document] Eclipse Foundation AISBL
+       [URL to this license] This document includes material copied from [title and URL of the Eclipse Foundation
+       specification document]`"
+    - "In addition to the license granted above, you are granted the  right to create modifications or derivatives
+       of the Document"
+    - "in software that implements the Document, in supporting materials accompanying such software, and in
+       documentation of such software (collectively the '`Works`'), such  Works to be made available under terms of
+       your choice  PROVIDED that all such Works include a notice of the form"
+    - "'`This [software/document (choose as applicable)] includes material derived from [title and URL of the Eclipse
+       Foundation specification document].`'; and"
+    - "in materials that demonstrate or describe conformance with the Document PROVIDED that all such materials include
+       a notice of the form"
+    - "'`This material demonstrates conformance with the [title and URL of the Eclipse Foundation specification document]`"
+    - "NOTWITHSTANDING THE FOREGOING, the creation or publication of derivative works of the Document or portions of
+       the Document for use as a specification or standard is expressly prohibited"

@@ -5,6 +5,7 @@ shortName: JOSL-1.0
 otherIds:
   - "scancode:josl-1.0"
   - "osi:JOSL-1.0"
+  - "osi-deprecated:jabberpl"
 
 alternativeNames:
   - "http://www.opensource.org/licenses/jabberpl.php"

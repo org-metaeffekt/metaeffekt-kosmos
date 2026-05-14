@@ -5,6 +5,7 @@ spdxIdentifier: BSL-1.0
 otherIds:
   - "scancode:boost-1.0"
   - "osi:BSL-1.0"
+  - "osi-deprecated:bsl-1-0"
 
 requiresCopyright: true
 requiresLicenseText: true

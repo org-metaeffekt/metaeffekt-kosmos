@@ -15,6 +15,9 @@ alternativeNames:
   - "IJG License"
   - "IJG LICENSE"
 
+alternativeShortNames:
+  - "JPEG"
+
 evidence:
   matches:
     - "If you use it in a program,

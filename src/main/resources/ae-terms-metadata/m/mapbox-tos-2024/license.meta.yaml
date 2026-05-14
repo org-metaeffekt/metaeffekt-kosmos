@@ -1,0 +1,68 @@
+canonicalName: Mapbox Terms of Service 2024
+category: Mapbox Terms of Service
+shortName: Mapbox-TOU-2024
+
+otherIds:
+  - "scancode:mapbox-tos-2024"
+
+alternativeNames:
+  - "http://mapbox.com/tos"
+  - "MapBox terms of service"
+  - "Mapbox Terms of Service 2024"
+  - "mapbox-tos-2024"
+  - "Mapbox-TOU-2024"
+
+evidence:
+  matches:
+    - "You may not allow your End Users or other third parties to use the Services in any way that would be a violation
+       of these Terms if done by you, and you agree to take reasonable efforts to prevent such use. You agree to promptly
+       notify Mapbox in writing if you become aware of any misappropriation or unauthorized use of the Services"
+    - "You will comply with these Terms, our Product Terms, Data Processing Addendum (for data processed by Mapbox as a
+       processor) and Privacy Policy (for data otherwise processed by Mapbox), which govern access and/or use of the Services"
+    - "In addition to the requirements above, you agree to adhere to the policies posted on this site in conjunction
+       with the Services, including accompanying documentation"
+    - "All terms and policies referred to above are incorporated by reference into these Terms"
+    - "You agree to pay all fees owed for your use of the Services, as calculated by our records and based on (i) our
+       publicly available pricing, currently located at www.mapbox.com/pricing, if you use the Services directly through
+       our site or (ii) the pricing included in the listing information accompanying the Services offered via a Marketplace
+       if you transact for use of the Services through such Marketplace"
+    - "All charges are non-refundable unless expressly prohibited by applicable law"
+    - "We or a third party acting on our behalf or pursuant to our instructions (“Payment Partner”) may invoice and
+       charge you on a recurring basis for any amounts that you owe us, some of which may require advance payments"
+    - "You acknowledge and agree that failure to use the current version of Mapbox SDKs may result in potentially different
+       (and higher) fees being charged to you, and agree to pay any such fees as calculated by us"
+    - "Late payments may bear interest at the rate of 1.5% per month (or the highest rate permitted by law, if less)
+       from the payment due date until paid in full"
+    - "You will be responsible for all reasonable expenses (including attorneys’ fees) incurred by us in collecting
+       such delinquent amounts"
+    - "We are not responsible for any bank fees, interest charges, finance charges, over draft charges, or other fees
+       resulting from charges billed by Mapbox or a Payment Partner"
+    - "Currency exchange settlements will be based on agreements between you and the provider of your credit card or your bank"
+    - "Our listed fees, whether on this site or accompanying our offering of the Services via a Marketplace, do not include
+       taxes, and you agree to pay all sales/use, gross receipts, value-added, GST, personal property or other tax
+       (including any interest and penalties) with respect to the transactions and payments under these Terms, other
+       than taxes based on our net income, employees or real property"
+    - "You agree to work with us and our Payment Partners to help us obtain any necessary withholding or royalty tax
+       exemptions where applicable"
+    - "Notwithstanding the foregoing, all payments made by you to us under these Terms, whether directly or through
+       a Payment Partner, will be made free and clear of any deduction or withholding, as may be required by law"
+    - "If any such deduction or withholding (including but not limited to cross-border withholding taxes) is required
+       on any payment, you will pay such additional amounts as are necessary so that the net amount received by us
+       after such deduction or withholding, will be equal to the full amount that we would have received if no deduction
+       or withholding had been required"
+    - "The payment of any taxes, charges or fees required to be deducted or withheld from payments due to us, and the
+       filing of any information or tax returns with respect thereto, shall be your responsibility"
+    - "Upon your reasonable request, we will provide you with any existing tax forms in our possession that would
+       reduce or eliminate the amount of any such withholding or deduction for taxes"
+    - "We don't want you to leave, but you may cancel at any time. However, we do not give pro-rated refunds if you
+       cancel during the middle of a billing cycle"
+    - "If you breach any of these Terms, the limited license granted to you hereunder automatically terminates without
+       notice to you and we may immediately without notice cancel or suspend your account"
+    - "In addition, Mapbox may cancel or suspend your account for any reason by providing you 30 days' advance notice"
+    - "Upon any termination of the limited license, you agree to immediately destroy any materials or other data or
+       content provided by, downloaded from, or otherwise accessed through the Services"
+    - "Upon cancellation or suspension, your right to use the Services will stop immediately"
+    - "You may not have access to data that you stored on the site after we cancel or suspend your account"
+    - "You are responsible for backing up data that you use with the Services"
+    - "If we cancel your account in its entirety without cause, we will refund to you on a pro-rata basis the amount
+       of your payment corresponding to the portion of your service remaining right before we cancelled your account"

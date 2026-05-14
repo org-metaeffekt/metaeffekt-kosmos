@@ -1,13 +1,14 @@
-canonicalName: Linking Exception (Apache)
+canonicalName: Linking Exception (Apache-2.0)
 category: Apache Linking Exception
-shortName: Linking-Exception-Apache
+shortName: Linking-Exception-Apache-2.0
 
 canonicalNameHistory:
   - "Apache 2.0 Linking Exception"
+  - "Linking Exception (Apache)"
 
 otherIds:
-  - "scancode:apache-2.0-linking-exception"
-#  - "scancode:compuphase-linking-exception"
+#  - "scancode:apache-2.0-linking-exception" # old ID, deprecated
+  - "scancode:compuphase-linking-exception"
 
 type: exception
 

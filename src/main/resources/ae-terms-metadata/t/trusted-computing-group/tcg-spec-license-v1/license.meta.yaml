@@ -32,7 +32,7 @@ evidence:
 
 
 licenseTemplate:
-  - "Licenses and Notices
+  - "<lq>Licenses and Notices
 
      <ul>1. Copyright Licenses:
 
@@ -45,7 +45,8 @@ licenseTemplate:
      <li>The TCG grants to the user of the other parts of the specification (other
        than the Source Code) the rights to reproduce, distribute, display, and
        perform the specification solely for the purpose of developing products
-       based on such documents.</li></ul>
+       based on such documents.</li>
+     </ul>
 
      <ul>2. Source Code Distribution Conditions:
 
@@ -81,4 +82,4 @@ licenseTemplate:
         arising in any way out of use or reliance upon this specification or any
         information herein.</codeph></li></ul>
       
-      Any marks and brands contained herein are the property of their respective owner."
+      Any marks and brands contained herein are the property of their respective owner.</lq>"

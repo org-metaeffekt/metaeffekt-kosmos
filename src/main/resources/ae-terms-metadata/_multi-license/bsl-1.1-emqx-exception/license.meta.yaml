@@ -1,10 +1,13 @@
-canonicalName: Business Source License 1.1 (with EMQX Exception (Business Source License 1.1))
-category: Business Source+EMQX
-shortName: Business-Source-1.1-EMQX-Exception
+canonicalName: Business Source License 1.1 (with EMQX Exception (BSL-1.1))
+category: BSL+EMQX
+shortName: BSL-1.1-EMQX-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with EMQX Exception (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with EMQX Exception)
 
 combinedWith:
-  EMQX Exception (Business Source License 1.1): Business Source License 1.1 (with EMQX Exception (Business Source License 1.1))
+  EMQX Exception (BSL-1.1): Business Source License 1.1 (with EMQX Exception (BSL-1.1))

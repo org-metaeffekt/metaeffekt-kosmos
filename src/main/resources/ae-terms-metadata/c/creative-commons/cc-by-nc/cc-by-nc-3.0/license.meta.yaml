@@ -35,10 +35,9 @@ evidence:
     - "You may not exercise any of the rights granted to You in Section 3 above
        in any manner that is primarily intended for or directed toward commercial
        advantage or private monetary compensation"
-    - "The exchange of the Work for other
-       copyrighted works by means of digital file-sharing or otherwise shall not
-       be considered to be intended for or directed toward commercial advantage or
-       private monetary compensation, provided there is no payment of any monetary
+    - "The exchange of the Work for other copyrighted works by means of digital file-sharing
+       or otherwise shall not be considered to be intended for or directed toward commercial
+       advantage or private monetary compensation, provided there is no payment of any monetary
        compensation in connection with the exchange of copyrighted works"
     - "If You Distribute, or Publicly Perform the Work or any Adaptations or Collections,
        You must, unless a request has been made pursuant to Section 4(a), keep intact
@@ -55,17 +54,17 @@ evidence:
        of an Adaptation, a credit identifying the use of the Work in the Adaptation
        (e.g., French translation of the Work by Original Author, or Screenplay
        based on original Work by Original Author)"
-    - "The credit required by this Section
-       4(c) may be implemented in any reasonable manner; provided, however, that
-       in the case of a Adaptation or Collection, at a minimum such credit will appear,
-       if a credit for all contributing authors of the Adaptation or Collection appears,
-       then as part of these credits and in a manner at least as prominent as the
+    - "The credit required by this Section 4(c) may be implemented in any reasonable manner;
+       provided, however, that in the case of a Adaptation or Collection, at a minimum such
+       credit will appear, if a credit for all contributing authors of the Adaptation or Collection
+       appears, then as part of these credits and in a manner at least as prominent as the
        credits for the other contributing authors"
-    - "For the avoidance of doubt, You
-       may only use the credit required by this Section for the purpose of attribution
-       in the manner set out above and, by exercising Your rights under this License,
-       You may not implicitly or explicitly assert or imply any connection with,
-       sponsorship or endorsement by the Original Author, Licensor and/or Attribution
-       Parties, as appropriate, of You or Your use of the Work, without the separate,
-       express prior written permission of the Original Author, Licensor and/or Attribution
-       Parties"
+    - "For the avoidance of doubt, You may only use the credit required by this Section for the purpose
+       of attribution in the manner set out above and, by exercising Your rights under this License,
+       You may not implicitly or explicitly assert or imply any connection with, sponsorship or endorsement
+       by the Original Author, Licensor and/or Attribution Parties, as appropriate, of You or Your use of the
+       Work, without the separate, express prior written permission of the Original Author, Licensor and/or
+       Attribution Parties"
+  excludes:
+    - "If You fail to comply with this License, then this License and the rights granted hereunder will terminate 
+       automatically upon any breach by You of the terms of this License"

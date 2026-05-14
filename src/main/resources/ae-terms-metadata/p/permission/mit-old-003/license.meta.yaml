@@ -17,6 +17,7 @@ otherIds:
 
 alternativeNames:
   - "mit-old-style"
+  - "MIT Old Style no advertising"
 
 canonicalNameHistory:
   - "Permission Terms Var077"
@@ -52,5 +53,5 @@ licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this softw
                   that both that copyright notice and this permission notice appear in supporting documentation, and 
                   that the name {{copyrightHolderNoAdvertising}} not be used in advertising or publicity pertaining to 
                   distribution of the software without specific, written prior permission. 
-                  <p><copyrightHolderNoRepresentation> makes no representations about the suitability of this software for 
+                  <p>{{copyrightHolderNoRepresentation}} makes no representations about the suitability of this software for 
                   any purpose.</p> It is provided \"as is\" without express or implied warranty.</lq>"

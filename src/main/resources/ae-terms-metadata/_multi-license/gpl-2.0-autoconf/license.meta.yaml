@@ -1,0 +1,22 @@
+canonicalName: GNU General Public License 2.0 (with Autoconf Exception)
+category: GPL+Autoconf
+shortName: GPL-2.0-Autoconf
+
+representedAs: "GNU General Public License 2.0 (with exceptions)"
+
+type: expression
+
+spdxExpression: "[GNU General Public License 2.0] WITH [Autoconf Exception]"
+
+alternativeNames:
+  - "GNU General Public License 2.0 (with Autoconf exception)"
+  - "GNU General Public License v2.0 w/Autoconf exception" # for external identification purposes
+  - "GPL-2.0-with-autoconf-exception" # for external identification purposes
+  - "GPL 2.0 with Autoconf exception" # for external identification purposes"
+
+
+combinedWith:
+  # FIXME-IMPLEMENT: reverify the intention
+  # "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (with Autoconf Exception)"
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Autoconf Exception)"
+  "Autoconf Exception": "GNU General Public License 2.0 (with Autoconf Exception)"

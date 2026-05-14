@@ -234,7 +234,7 @@ evidence:
     - matches:
         - "make*{.{0,2}}* no*{.{0,50}}* warranty"
     - matches:
-        - "MAKE*{.{0,2}}* NO*{.{0,50}}* WARRANTIES"
+        - "MAKE*{.{0,2}}* NO*{.{0,40}}* WARRANTIES"
     - matches:
         - "make*{.{0,2}}* no*{.{0,50}}* warranties"
     - matches:
@@ -341,3 +341,5 @@ evidence:
         - "IS PROVIDED*{.{0,35}}*BASIS WITHOUT WARRANTY OF ANY KIND"
     - matches:
         - "is provided*{.{0,35}}*basis without warranty of any kind"
+    - matches:
+        - "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW*{.{0,35}}* DISCLAIM*{.{0,3}}* ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY"

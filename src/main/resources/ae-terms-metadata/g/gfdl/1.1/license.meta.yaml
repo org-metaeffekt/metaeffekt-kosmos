@@ -5,7 +5,7 @@ shortName: GFDL-1.1
 
 baseTerms: GNU Free Documentation License 1.1
 
-# FIXME-DISCUSS: why are we getting this match; the reference should avoid this identification
+# FIXME-IMPLEMENT: check why are we getting this match; the reference should avoid this identification
 expectedMatches: 
   - "GNU Free Documentation License 1.1 (or any later version)"
 
@@ -24,6 +24,7 @@ alternativeNames:
   - "GFDL-1.1"
   - "GFDL version 1.1"
   - "Change license on the manual to GFDLv1.1"
+  - "GNU Free Documentation License v1.1 only"
 
 evidence:
   matches:

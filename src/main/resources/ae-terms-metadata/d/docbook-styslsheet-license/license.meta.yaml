@@ -8,6 +8,9 @@ alternativeNames:
 otherIds:
   - "scancode:docbook-stylesheet"
 
+canonicalNameHistory:
+  - "Docbook Stylesheet License"
+
 evidence:
   matches:
     - "Permission to use, copy, modify and distribute this stylesheet

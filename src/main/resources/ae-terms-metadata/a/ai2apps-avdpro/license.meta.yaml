@@ -1,0 +1,33 @@
+canonicalName: AI2Apps Avdpro License
+category: AI2Apps Avdpro
+shortName: AI2Apps-Avdpro
+
+otherIds:
+  - "scancode:avdpro-2023-10-30"
+
+canonicalNameHistory:
+  - "Limited Open Source License"
+
+alternativeNames:
+  - "Avdpro License 2023-10-30"
+
+evidence:
+  matches:
+    - "This agreement aims to establish the terms and conditions for the use of the software and source code (of ai2apps.com and tab-os.com) obtained from here by the code recipient"
+    - "You are allowed to freely use, modify, and distribute the source code obtained from here, but you must adhere to the following conditions"
+    - "The definition of commercial purposes includes, but is not limited to, direct or indirect involvement in products, services, or projects that are the same as or similar to those of ai2apps.com or tab-os.com"
+    - "All derivative works created from using this source code must retain the copyright notice, license statement, and disclaimer contained in this agreement"
+    - "This agreement comes into effect from the date of the release of this source code and remains valid for three years"
+    - "The source code is provided \"as is,\" with no express or implied warranties or guarantees"
+
+mappings:
+  "of the sotware": "of the software"
+
+segmentation:
+  revert: [
+    { match:
+        "Limited Open Source License This agreement aims to establish the terms and conditions for the use of the software and source code (of ai2apps.com and tab-os.com) obtained from here by the code recipient (referred to as \"you\"). Please carefully read and understand the content of this agreement before using. By accessing, using, or distributing this source code, you indicate that you have agreed to abide by the following terms and conditions.",
+      matchNext:
+        "1. Conditions of Code Usage You are allowed to freely use, modify, and distribute the source code obtained from here, but you must adhere to the following conditions: a. You may not use this source code for commercial purposes that compete with ai2apps.com or tab-os.com"
+    }
+]

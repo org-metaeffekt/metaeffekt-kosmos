@@ -1,0 +1,26 @@
+canonicalName: AFFiNE Enterprise Edition License
+category: AFFiNE Enterprise
+shortName: AFFiNE-Enterprise-Edition
+
+comments:
+  - "source: https://github.com/toeverything/AFFiNE/blob/canary/packages/backend/server/LICENSE"
+
+otherIds:
+  - "scancode:affine-ee-2023"
+
+alternativeNames:
+  - "The AFFiNE Enterprise Edition (EE) license"
+  - "AFFiNE Enterprise Edition (EE) license 2023"
+
+evidence: 
+  matches:
+    - "This software and associated documentation files (the \"Software\") may only be
+      used in production, if you (and any entity that you represent) have agreed to,
+      and are in compliance with, the AFFiNE Subscription Terms of Service"
+    - "Subject to the foregoing sentence, you are free to modify this Software and publish patches to the Software"
+    - "Notwithstanding the foregoing, you may copy and modify
+      the Software for development and testing purposes, without requiring a subscription"
+    - "Subject to the foregoing, it is forbidden to copy, merge, publish, distribute, sublicense,
+      and/or sell the Software"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+      IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY"

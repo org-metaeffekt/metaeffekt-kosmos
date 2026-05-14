@@ -6,8 +6,13 @@ otherIds:
   - "scancode:php-2.0.2"
 
 alternativeNames:
+  - "PHP License 2.02"
   - "php-2.0.2"
   - "php-2.02"
+  - "PHP License 2.0.2"
+  - "PHP License v2.02"
+  - "PHP-2.02"
+  - "PHP License Version 2.02"
 
 evidence:
   matches:

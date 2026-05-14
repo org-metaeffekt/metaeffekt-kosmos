@@ -1,30 +1,30 @@
-canonicalName: GNU General Public License 2.0 (or any later version; with Classpath exception)
+canonicalName: GNU General Public License 2.0 (or any later version; with Classpath Exception)
 category: GPL+Classpath
 shortName: GPL-2.0+-Classpath-Exception
 
+# FIXME-IMPLEMENT: validate these two scancode licenses are matching out license here
 otherIds:
   - "scancode:gpl-2.0-classpath"
+  - "scancode:gpl-2.0-independent-module-linking"
 
 type: expression
 
 spdxExpression: "[GNU General Public License 2.0 (or any later version)] WITH [Classpath Exception]"
 
 alternativeNames:
-  - "GNU General Public License Version 2 with classpath exception"
-  - "GPL 2.0 With Classpath Exception"
-  - "GPL v2 with ClassPath Exception"
-  - "GPL v2 with class path exception"
+  - "GNU General Public License v2.0 or later with Classpath Exception"
+  - "GPL 2+ w/CPE"
 
 canonicalNameHistory:
   - "GNU General Public License 2.0 (or any later version; with classpath exception 2.0)"
   - "GNU General Public License 2.0 (or any later version; with classpath exception)"
-  - "GNU General Public License 2.0 (or any later version; with Classpath Exception)"
+  - "GNU General Public License 2.0 (or any later version; with Classpath exception)"
 
 representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Classpath exception)
-  "Classpath Exception": GNU General Public License 2.0 (or any later version; with Classpath exception)
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Classpath Exception)
+  "Classpath Exception": GNU General Public License 2.0 (or any later version; with Classpath Exception)
 
 masks:
     # NOTE: this is currently necessary to not match gplv2+ as GPL or any later version

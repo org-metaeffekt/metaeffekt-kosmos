@@ -24,7 +24,8 @@ evidence:
        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT
        AND DATA ACCURACY"
 
-# FIXME-DISCUSS: the exluded reference match belongs to a variant; how shall variants be included here; oneOf
+# FIXME-IMPLEMENT: the excluded reference match belongs to a variant; model as oneOf
+# FIXME-CONCEPT: how does validation work here? Should we expect a variant to match?
 references:
   "Public Domain":
     matches:

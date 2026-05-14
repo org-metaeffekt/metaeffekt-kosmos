@@ -1,0 +1,37 @@
+canonicalName: LA OPT NXP Software License Agreement 51 (November 2023)
+category: LA OPT NXP Software
+shortName: LA-OPT-NXP-Software-LA-51
+
+otherIds:
+  - "scancode:la-opt-nxp-v51-2023"
+
+alternativeNames:
+  - "LA_OPT_NXP_Software_License v51 November 2023"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, NXP grants you a worldwide, personal, non-transferable, 
+      non-exclusive, non-sublicensable license, solely for the development of an Authorized System"
+    - "for Licensed Software provided to you in source code form (human readable), to prepare Derivative Works of the Licensed Software solely for use in combination with a NXP Product"
+    - "You may demonstrate the Licensed Software to your direct customers as part of an Authorized System so long as such demonstration is directly controlled by you and without prior approval by NXP"
+    - "If expressly authorized in the Software Content Register, subject to the terms and conditions of this Agreement, NXP grants you a worldwide, personal, non-transferable, non-exclusive, non-sublicensable license solely in connection with your manufacturing and distribution of an Authorized System"
+    - "to copy and distribute as needed, solely in connection with an Authorized System and for use in combination with a NXP Product, non-confidential NXP information provided as part of the Licensed Software for the purpose of maintaining and supporting Authorized Systems with which the Licensed Software is integrated"
+    - "The Licensed Software is licensed to you, not sold"
+
+references:
+  "LesserGPL":
+    matches:
+      - "Open source software included in the Licensed Software is not licensed under the terms of this Agreement but 
+         is instead licensed under the terms of the applicable open source license(s), such as the BSD License, Apache 
+         License or the GNU Lesser General Public License"
+  "Apache License":
+    matches:
+      - "Open source software included in the Licensed Software is not licensed under the terms of this Agreement but 
+         is instead licensed under the terms of the applicable open source license(s), such as the BSD License, Apache 
+         License or the GNU Lesser General Public License"
+  "BSD":
+    matches:
+      - "Open source software included in the Licensed Software is not licensed under the terms of this Agreement but 
+         is instead licensed under the terms of the applicable open source license(s), such as the BSD License, Apache 
+         License or the GNU Lesser General Public License"
+

@@ -1,0 +1,91 @@
+canonicalName: CMU License (copyright holder variant)
+category: CMU
+shortName: CMU-copyright-holder
+
+# License was merged with "ElementTree License" due to them being identical.
+
+otherIds:
+  - "scancode:secret-labs-2011"
+
+canonicalNameHistory:
+  - "Permission Terms (variant 125)"
+  - "ElementTree License"
+
+representedAs: CMU License
+
+requiresCopyright: true
+requiresLicenseText: true
+
+# Remark: this is when matching
+#combinedWith:
+#  "CMU License (copyright holder variant)": "CMU License"
+
+alternativeNames:
+  - "Pillow is licensed under the open source MIT-CMU License"
+  - "ElementTree License"
+  - "Python Imaging Library (PIL) License"
+
+alternativeShortNames:
+  - "Python Imaging Library (PIL)"
+
+evidence:
+  matches:
+    - "By obtaining, using, and/or copying this software and/or its associated
+      documentation, you agree that you have read, understood, and will comply
+      with the following terms and conditions"
+    - "Permission to use, copy, modify and distribute this software and its *{(associated){0,1}}*
+      documentation for any purpose and without fee is hereby granted,
+      provided that the above copyright notice appears in all copies, and that
+      both that copyright notice and this permission notice appear in supporting
+      documentation, and that the name of*{.{0,60}}* not be
+      used in advertising or publicity pertaining to distribution of the software
+      without specific, written prior permission"
+    - "DISCLAIM*{(S){0,1}}* ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED
+      WARRANTIES OF MERCHANTABILITY AND FITNESS"
+    - "IN NO EVENT SHALL*{.{0,60}}* BE LIABLE FOR ANY SPECIAL,
+      INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM *{(THE){0,1}}*
+      LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+      OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+      PERFORMANCE OF THIS SOFTWARE"
+
+references:
+  "CMU":
+    matches:
+      - "Like PIL, Pillow is licensed under the open source MIT-CMU License"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "Like PIL, Pillow is licensed under the open source MIT-CMU License:",
+      matchNext:
+        "By obtaining, using, and/or copying this software and/or its associated
+         documentation, you agree that you have read, understood, and will comply
+         with the following terms and conditions"
+  }
+]
+
+standardVariableSet:
+  "copyrightHolderNoWarranty": "SECRET LABS AB AND THE AUTHOR"
+  "copyrightHolderNoLiability": "SECRET LABS AB OR THE AUTHOR"
+
+licenseTemplate:
+  "<lq>By obtaining, using, and/or copying this software and/or its associated
+  documentation, you agree that you have read, understood, and will comply
+  with the following terms and conditions:
+  
+  <p>Permission to use, copy, modify and distribute this software and its
+  documentation for any purpose and without fee is hereby granted,
+  provided that the above copyright notice appears in all copies, and that
+  both that copyright notice and this permission notice appear in supporting
+  documentation, and that the name of {{copyrightHolder}} not be
+  used in advertising or publicity pertaining to distribution of the software
+  without specific, written prior permission.</p>
+  
+  <p><codeph> {{copyrightHolderNoWarranty}} DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+  SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS.
+  IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY SPECIAL,
+  INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+  OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.</codeph></p></lq>"

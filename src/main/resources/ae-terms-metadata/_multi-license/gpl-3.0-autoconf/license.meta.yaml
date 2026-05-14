@@ -2,6 +2,8 @@ canonicalName: GNU General Public License 3.0 (with Autoconf exception)
 category: GPL+Autoconf
 shortName: GPL-3.0-Autoconf
 
+# FIXME-DISCUSS: why does this still exist? delete if no purpose found.
+
 representedAs: "GNU General Public License 3.0 (with exceptions)"
 
 canonicalNameHistory:

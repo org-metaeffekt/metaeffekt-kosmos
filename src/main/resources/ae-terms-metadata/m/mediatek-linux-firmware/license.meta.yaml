@@ -28,7 +28,7 @@ references:
     matches:
       - "by the terms of the GNU General Public License or the GNU Lesser General
          Public License"
-  "LGPL":
+  "LesserGPL":
     matches:
       - "by the terms of the GNU General Public License or the GNU Lesser General
          Public License"

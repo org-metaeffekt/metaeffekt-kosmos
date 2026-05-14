@@ -1,4 +1,4 @@
-canonicalName: libwebsockets Exception (LGPL 2.1)
+canonicalName: libwebsockets Exception (LGPL-2.1)
 category: libwebsockets Exception
 shortName: libwebsockets-Exception-LGPL-2.1
 
@@ -6,6 +6,9 @@ type: exception
 
 otherIds:
   - "scancode:libwebsockets-exception"
+
+canonicalNameHistory:
+  - "libwebsockets Exception (LGPL 2.1)"
 
 evidence:
   matches:
@@ -31,7 +34,21 @@ evidence:
        License 2.1 as modified by these paragraphs 1) through 4)"
 
 references:
-  "LGPL":
+  "LesserGPL":
+    matches:
+      - "You do not have to provide a copy of the libwebsockets license with
+         programs that are linked to the libwebsockets library, nor do you have to
+         identify the libwebsockets license in your program or documentation as
+         required by section 6 of the LGPL"
+      - "If you link the program to a modified version of libwebsockets, then the
+         changes to libwebsockets must be provided under the terms of the LGPL in
+         sections 1, 2, and 4"
+      - "Any reference, whether in these modifications or in the GNU
+         Library General Public License 2.1, to this License, these terms, the
+         GNU Lesser Public License,  GNU Library General Public License, LGPL, or
+         any similar reference shall refer to the GNU Library General Public
+         License 2.1 as modified by these paragraphs 1) through 4)"
+  "LibraryGPL":
     matches:
       - "Libwebsockets and included programs are provided under the terms of the GNU
          Library General Public License (LGPL) 2.1, with the following exceptions"
@@ -42,6 +59,25 @@ references:
       - "If you link the program to a modified version of libwebsockets, then the
          changes to libwebsockets must be provided under the terms of the LGPL in
          sections 1, 2, and 4"
+      - "Any reference, whether in these modifications or in the GNU
+         Library General Public License 2.1, to this License, these terms, the
+         GNU Lesser Public License,  GNU Library General Public License, LGPL, or
+         any similar reference shall refer to the GNU Library General Public
+         License 2.1 as modified by these paragraphs 1) through 4)"
+  "LGPL":
+    matches:
+      - "You do not have to provide a copy of the libwebsockets license with
+         programs that are linked to the libwebsockets library, nor do you have to
+         identify the libwebsockets license in your program or documentation as
+         required by section 6 of the LGPL"
+      - "If you link the program to a modified version of libwebsockets, then the
+         changes to libwebsockets must be provided under the terms of the LGPL in
+         sections 1, 2, and 4"
+      - "Any reference, whether in these modifications or in the GNU
+         Library General Public License 2.1, to this License, these terms, the
+         GNU Lesser Public License,  GNU Library General Public License, LGPL, or
+         any similar reference shall refer to the GNU Library General Public
+         License 2.1 as modified by these paragraphs 1) through 4)"
   "GPL":
     matches:
       - "Libwebsockets and included programs are provided under the terms of the GNU

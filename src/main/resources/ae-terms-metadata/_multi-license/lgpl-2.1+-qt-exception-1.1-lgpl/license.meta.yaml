@@ -1,12 +1,13 @@
-canonicalName: GNU Lesser General Public License 2.1 (or any later version; with Qt Company exception 1.1 (LGPL))
-category: LGPL-Qt
-shortName: LGPL-2.1+-Qt-Exception-1.1-LGPL
+canonicalName: GNU Lesser General Public License 2.1 (or any later version; with Qt Company Exception 1.1 (LGPL-2.1+))
+category: LGPL+Qt Company Exception
+shortName: LGPL-2.1+-Qt-Company-Exception-1.1
 
 canonicalNameHistory:
   - "GNU Lesser General Public License 2.1 (or any later version; with Qt LGPL exception 1.1)"
+  - "GNU Lesser General Public License 2.1 (or any later version; with Qt Company exception 1.1 (LGPL))"
 
-displayName:
-  "GNU Lesser General Public License 2.1 (or any later version; with Qt Company exception 1.1)"
+displayName: "GNU Lesser General Public License 2.1 (or any later version; with Qt Company Exception 1.1)"
+# representedAs: GNU General Public License 2.1 (or any later version; with exceptions)
 
 type: expression
 
@@ -14,5 +15,5 @@ otherIds:
   - "scancode:lgpl-2.1-nokia-qt"
 
 combinedWith:
-  "Qt Company Exception 1.1 (LGPL)": GNU Lesser General Public License 2.1 (or any later version; with Qt Company exception 1.1 (LGPL))
-  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Qt Company exception 1.1 (LGPL))
+  "Qt Company Exception 1.1 (LGPL-2.1+)": GNU Lesser General Public License 2.1 (or any later version; with Qt Company Exception 1.1 (LGPL-2.1+))
+  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Qt Company Exception 1.1 (LGPL-2.1+))

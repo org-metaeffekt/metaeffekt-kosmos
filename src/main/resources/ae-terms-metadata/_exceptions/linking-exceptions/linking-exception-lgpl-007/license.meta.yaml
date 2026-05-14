@@ -11,6 +11,14 @@ otherIds:
   - "scancode:spell-checker-exception-lgpl-2.1-plus"
 #  - "scancode:lgpl-2.1-spell-checker" #deprecated
 
+alternativeNames:
+  - "Spell-Checker exception to LGPL 2.1 or later"
+  - "Spell-Checker Exception (LGPL-2.1+)"
+  - "Spell-Checker-Exception-LGPL-2.1+"
+  - "spell-checker-exception-lgpl-2.1-plus"
+  - "Spell-Checker-Exception-LGPL-2.1-plus"
+  - "Spell-Checker Exception LGPL"
+
 evidence:
   matches:
     - "In addition, as a special exception, Dom Lachowicz
@@ -22,11 +30,18 @@ evidence:
        respects for all of the code used other than said providers"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "You must obey the GNU Lesser General Public License in all
          respects for all of the code used other than said providers"
       - "In addition, as a special exception, Dom Lachowicz
+         gives permission to link the code of this program with
+         non-LGPL Spelling Provider libraries (eg: a MSFT Office
+         spell checker backend) and distribute linked combinations including
+         the two"
+  "LGPL":
+    matches:
+    - "In addition, as a special exception, Dom Lachowicz
          gives permission to link the code of this program with
          non-LGPL Spelling Provider libraries (eg: a MSFT Office
          spell checker backend) and distribute linked combinations including

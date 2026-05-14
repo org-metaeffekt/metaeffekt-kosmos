@@ -5,6 +5,7 @@ spdxIdentifier: APSL-2.0
 otherIds:
   - "scancode:apsl-2.0"
   - "osi:APSL-2.0"
+  - "osi-deprecated:apsl-2-0"
 
 alternativeNames:
   - "APSL, Version 2.0"

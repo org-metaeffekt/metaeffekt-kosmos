@@ -8,8 +8,8 @@ combinedWith:
 
 
 # workaround to make evidence and license text work because this is a multi-license expression: if we want this to follow our convention evidence and license text should be deleted.
-# FIXME-IMPLEMENT: exercise convention outlined in doc/multi-license-modeling.md; apply to selected markers
-# FIXME-CONCEPT: enable validation of onOfMatches (e.g. by differentiating between optionalOneOf (not validated) and oneOf (validated)
+# FIXME-DISCUSS: exercise convention outlined in doc/multi-license-modeling.md; apply to selected markers (find examples that have to be matched by the marker)
+# FIXME-CONCEPT: enable validation of oneOfMatches (e.g. by differentiating between optionalOneOf (not validated) and oneOf (validated)
 
 expectedMatches:
 #  - "GNU Lesser General Public License 2.1 (or any later version)"; not matched reference

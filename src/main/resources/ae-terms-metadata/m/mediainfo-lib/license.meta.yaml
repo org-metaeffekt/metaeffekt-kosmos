@@ -11,7 +11,7 @@ alternativeNames:
   - "MediaInfo(Lib) License Version 1.1"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "are permitted provided that the GNU Lesser General Public License as published by the Free Software Foundation"
 

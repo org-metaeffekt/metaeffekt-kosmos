@@ -1,0 +1,33 @@
+canonicalName: FUTO Source First License 1.0
+category: FUTO Source First
+shortName: FUTO-Source-First-1.0
+
+otherIds:
+  - "scancode:futo-sfl-1.0"
+
+canonicalNameHistory:
+  - "Source First License 1.0"
+
+alternativeNames:
+  - "Source First License 1.0"
+
+evidence:
+  matches:
+    - "If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately"
+    - "You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms"
+    - "If you modify the software, you must include in any modified copies of the software a prominent notice stating that you
+       have modified the software, such as but not limited to, a statement in a readme file or an in-application about section"
+    - "You may have 'fair use' rights for the software under the law"
+    - "These terms do not limit them"
+    - "These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent
+       the Licensor from granting licenses to anyone else"
+    - "These terms do not imply any other licenses"
+    - "If you use the software in violation of these terms, such use is not licensed, and your license will
+       automatically terminate"
+    - "If the licensor provides you with a notice of your violation, and you cease all violation of this license no later
+       than 30 days after you receive that notice, your license will be reinstated retroactively"
+    - "However, if you violate these terms after such reinstatement, any additional violation of these terms will cause your
+       license to terminate automatically and permanently"
+    - "As far as the law allows, the software comes as is, without any warranty or condition, and the Licensor will not be
+       liable to you for any damages arising out of these terms or the use or nature of the software, under any
+       kind of legal claim"

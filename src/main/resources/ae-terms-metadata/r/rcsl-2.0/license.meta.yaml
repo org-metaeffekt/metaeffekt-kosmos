@@ -117,3 +117,13 @@ evidence:
     - "Due to limited intellectual property protection and enforcement in certain countries, this License does not permit the redistribution of the Covered Code, TCK and Specifications to any country on the list of restricted countries at www.helixcommunity.org"
     - "This License is in the English language only, which language shall be controlling in all respects, and all versions of this License in any other language shall be for accommodation only and shall not be binding on the parties to this License"
     - "All communications and notices made or given pursuant to this License, and all documentation and support to be provided, unless otherwise noted, shall be in the English language"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "Original Contributor desires to license the Helix DNA Code to a large community to facilitate research, innovation and product development while maintaining compatibility of such products with the Helix DNA Code as delivered by Original Contributor;",
+      matchNext:
+        "Therefore, Original Contributor makes available the Helix DNA Code, the Specifications, and the TCK available under for Research and Development Use only under the following terms: LICENSE 1. Introduction. The RealNetworks Community Source License Research and Development Use ( RCSL R&D or License) is a license to use the Source Code of certain portions of the Helix DNA Code, Specifications, and the TCK for research and development use only"
+    },
+]

@@ -1,0 +1,47 @@
+canonicalName: FLTK Exception (LGPL)
+category: FLTK Exception
+spdxIdentifier: FLTK-exception
+shortName: FLTK-Exception-LGPL
+
+type: exception
+
+otherIds:
+  - "scancode:fltk-exception-lgpl-2.0"
+#  - "scancode:lgpl-2.0-fltk" # deprecated: even though from scancodes perspective this should match a multi-license the license text for it does not differ from the FLTK Exception and only mentions the same LGPL related sentences which we model as references.
+
+canonicalNameHistory:
+  - "FLTK Exception"
+
+combinedWith:
+  "GNU Library General Public License 2.0": GNU Library General Public License 2.0 (with FLTK Exception (LGPL))
+  "GNU Library General Public License 2.0 (or any later version)": GNU Library General Public License 2.0 (or any later version; with FLTK Exception (LGPL))
+
+evidence:
+  matches:
+    - "The FLTK library and included programs are provided under the terms of the
+       GNU Library General Public License (LGPL) with the following exceptions"
+    - "Modifications to the FLTK configure script, config header file, and makefiles
+       by themselves to support a specific platform do not constitute a modified or derivative work"
+    - "Widgets that are subclassed from FLTK widgets do not constitute a derivative work"
+
+references:
+  "LibraryGPL":
+    matches:
+      - "The FLTK library and included programs are provided under the terms of the
+         GNU Library General Public License (LGPL) with the following exceptions"
+      - "If you link the application or widget to a modified version of FLTK, then the changes to
+         FLTK must be provided under the terms of the LGPL in sections 1, 2, and 4.
+
+         You do not have to provide a copy of the FLTK license with programs that are linked to the
+         FLTK library, nor do you have to identify the FLTK license in your program or documentation
+         as required by section 6 of the LGPL."
+  "LGPL":
+    matches:
+      - "The FLTK library and included programs are provided under the terms of the
+         GNU Library General Public License (LGPL) with the following exceptions"
+      - "If you link the application or widget to a modified version of FLTK, then the changes to
+         FLTK must be provided under the terms of the LGPL in sections 1, 2, and 4.
+
+         You do not have to provide a copy of the FLTK license with programs that are linked to the
+         FLTK library, nor do you have to identify the FLTK license in your program or documentation
+         as required by section 6 of the LGPL."

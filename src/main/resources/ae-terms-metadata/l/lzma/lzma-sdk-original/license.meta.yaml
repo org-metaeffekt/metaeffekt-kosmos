@@ -1,0 +1,28 @@
+canonicalName: LZMA SDK Original
+category: LZMA SDK Original
+shortName: LZMA-SDK-Original
+
+# this is ignored since it is not a standalone, unique license, expectedMatches still get verified
+ignore: true
+
+otherIds:
+  - "scancode:lzma-sdk-original"
+
+expectedMatches:
+  - "LZMA SDK Proprietary License"
+  - "LZMA SDK Linking Exception"
+  - "LZMA SDK Usage Exception"
+  - "LZMA SDK Version Exception"
+  - "GNU Lesser General Public License (undefined) + Common Public License (undefined)]"
+
+evidence:
+  matches:
+    - "SPECIAL EXCEPTION allows you to use LZMA SDK in applications with closed code, 
+      while you keep LZMA SDK code unmodified"
+    - "Igor Pavlov, as the author of this code, expressly permits 
+      you to use this code under the same terms and conditions contained in the License 
+      Agreement you have for any previous version of LZMA SDK developed by Igor Pavlov"
+    - "Igor Pavlov, as the author of this code, expressly permits 
+      you to use code of the following files"
+    - "LZMA SDK also can be available under a proprietary license which 
+      can include"

@@ -1,0 +1,47 @@
+canonicalName: OneZoom Non-Profit Source Available License 1.0
+category: OneZoom Non-Profit Source Available
+shortName: OneZoom-Non-Profit-SA-1.0
+
+canonicalNameHistory:
+  - "OneZoom Non-Profit Source Available Licence 1.0"
+
+otherIds:
+  - "scancode:onezoom-np-sal-v1"
+
+alternativeNames:
+  - "ONEZOOM NON-PROFIT SOURCE AVAILABLE LICENCE"
+  - "ONEZOOM NON-PROFIT SOURCE AVAILABLE LICENSE"
+  - "OneZoom Non-Profit Source Available Licence v1"
+  - "OneZoom Non-Profit Source Available License v1"
+
+evidence:
+  matches:
+    - "Original Developer hereby grants
+       to You a perpetual, irrevocable, worldwide, non-exclusive, royalty-free licence under the
+       Intellectual Property Rights to use, reproduce, modify, display, distribute and sub-license (on
+       the same terms as this Licence) the Software (or portions thereof), with or without
+       Modifications, and as part of a Larger Work for charitable, non-commercial, not-for-profit
+       purposes relating to the Advancement of Science"
+    - "For the avoidance of doubt, You may sub-
+       license the Intellectual Property Rights in any Software or a Modification to a for-profit
+       organisation in relation to your use, reproduction, modification, display and/or distribution of
+       such Software and Modifications under this Licence"
+    - "any Modifications and any
+       Functional Independent Works, (and any Non-Functional Independent Works uploaded to the
+       Original Developer's GitHub repository in accordance with clause 4.1e), shall automatically be
+       licensed under the MIT Licence"
+    - "For-profit organisations are not permitted to use or exploit the Software or any Modification
+      under this Licence in any manner"
+    - "You shall include the notices in Appendix 1, Part 2 in all copies of the Software or any
+   Modifications"
+
+references:
+  "MIT":
+    matches:
+      - "\"MIT Licence\" means the Open Source Initiative approved version of The MIT
+         Licence in force at the time, currently found at:
+         https://opensource.org/licenses/MIT;"
+      - "any Modifications and any
+         Functional Independent Works, (and any Non-Functional Independent Works uploaded to the
+         Original Developer's GitHub repository in accordance with clause 4.1e), shall automatically be
+         licensed under the MIT Licence"

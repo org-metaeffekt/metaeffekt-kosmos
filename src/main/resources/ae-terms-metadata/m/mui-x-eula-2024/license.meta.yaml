@@ -1,0 +1,24 @@
+canonicalName: MUI X EULA 2024
+category: MUI X EULA
+shortName: MUI-X-EULA-2024
+
+otherIds:
+  - "scancode:mui-x-eula-2024"
+
+alternativeNames:
+  - "MUI X End User License Agreement 2024"
+
+evidence:
+  matches:
+    - "In exchange for the fee due under 6. Payment, or as otherwise agreed, Licensor hereby grants Licensee and its subsidiaries and affiliate(s) (collectively \"Affiliates\") a license to install and use the Software"
+    - "The license granted to Licensee and its Affiliates allows a worldwide, non-exclusive, non-transferable, sublicensable (subject to restrictions below), royalty-free license, commencing on the Effective Date"
+    - "The license allows the use of the latest version and all older versions released"
+    - "Licensee may sublicense the Software as a part of a larger work containing more than the Software under a limited license"
+    - "At no time may Licensee include any portion of the Software in any project that directly or indirectly competes with it"
+    - "For the avoidance of doubt, Licensee may not use the Software, or any portions thereof, for any project, including a no-code/low-code product, that can be described as a development toolkit or library, an application builder, a website builder, a user interface designer, or any project that is intended for use by developers or designers or has a similar purpose or functionality, except with the express written agreement of Licensor"
+
+references:
+  "MIT":
+    matches:
+      - "This agreement details the terms and conditions of the MUI X Pro and Premium plans. The Software may have dependencies on MIT licensed code"
+

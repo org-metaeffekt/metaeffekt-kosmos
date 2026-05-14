@@ -1,12 +1,16 @@
-canonicalName: GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception 2.1 (LGPL))
-category: LGPL--Digia-Qt
-shortName: LGPL-2.1+-Digia-Qt-Exception-2.1-LGPL
-
-displayName:
-  "GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception 2.1)"
+canonicalName: GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception (LGPL-2.1))
+category: LGPL+Digia Qt Exception
+shortName: LGPL-2.1+-Digia-Qt-Exception
 
 type: expression
 
+canonicalNameHistory:
+  - "GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception 2.1 (LGPL))"
+
+
+displayName: "GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception)"
+# representedAs: GNU General Public License 2.1 (or any later version; with exceptions)
+
 combinedWith:
-  "Digia Qt Exception 2.1 (LGPL)": GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception 2.1 (LGPL))
-  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception 2.1 (LGPL))
+  "Digia Qt Exception (LGPL-2.1)": GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception (LGPL-2.1))
+  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Digia Qt Exception (LGPL-2.1))

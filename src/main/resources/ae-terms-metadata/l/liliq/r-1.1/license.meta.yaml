@@ -8,6 +8,7 @@ canonicalNameHistory:
 otherIds:
   - "scancode:liliq-r-1.1"
   - "osi:LiLiQ-R-1.1"
+  - "osi-deprecated:liliq-r-1-1"
 
 alternativeNames:
   - "LiLiQ R, Version 1.1"
@@ -24,6 +25,12 @@ alternativeNames:
   - "LiLiQ-R License 1.1"
   - "https://forge.gouv.qc.ca/licence/liliq-r/"
   - "Licence Libre du Québec – Réciprocité"
+  - "Licence Libre du Québec – Réciprocité forte version 1.1"
+  - "Licence Libre du Quebec - Strong Reciprocity version 1.1"
+  - "Quebec Free and Open-Source Licence - Version 1.1 - Strong Reciprocity"
+  - "Licence Libre du Québec – Réciprocité version 1.1"
+  - "Licence Libre du Quebec - Reciprocity version 1.1"
+  - "Quebec Free and Open-Source Licence - Version 1.1 - Reciprocity"
   
 evidence:
   matches:

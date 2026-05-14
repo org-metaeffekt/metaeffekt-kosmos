@@ -1,14 +1,18 @@
-canonicalName: Alfresco FLOSS Exception 0.5
-category: Alfresco FLOSS Exception
-shortName: Alfresco-Exception-0.5
+canonicalName: Alfresco Exception 0.5 (FLOSS)
+category: Alfresco Exception
+shortName: Alfresco-Exception-0.5-FLOSS
 
 type: exception
+
+canonicalNameHistory:
+  - "Alfresco FLOSS Exception 0.5"
 
 otherIds:
   - "scancode:alfresco-exception-0.5"
 
 alternativeNames:
   - "Alfresco FLOSS Exception v0.5"
+  - "Alfresco Software, Ltd. FLOSS License Exception 0.5"
 
 evidence:
   matches:

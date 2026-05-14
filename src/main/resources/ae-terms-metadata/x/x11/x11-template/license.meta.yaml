@@ -24,6 +24,8 @@ alternativeNames:
   - "Expat~X with X exception"
   - "This project is MIT/X11 licensed"
   - "X11-Style (X Consortium)"
+  # NOTE: the Bull License is not added here; it is too vague and anyway matches MIT License (see http://github.com/OptimalBits/bull/blob/develop/LICENSE.md)
+  # - "Bull License"
 
 evidence:
   matches:

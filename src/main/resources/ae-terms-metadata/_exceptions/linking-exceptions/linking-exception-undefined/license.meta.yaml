@@ -1,0 +1,30 @@
+canonicalName: Linking Exception (undefined)
+category: Linking Exception
+shortName: Linking-Exception-?
+
+type: exception
+
+unspecific: true
+
+subcategories:
+  - "AGPL Linking Exception"
+  - "Apache Linking Exception"
+  - "Independent Linking Exception"
+  - "Erlang Linking Exception"
+  - "Linking Exception CGAL"
+  - "GPL Linking Exception"
+  - "LGPL Linking Exception"
+  - "MySQL Linking Exception"
+  - "QPL Linking Exception"
+  - "Qt Linking Exception"
+  - "OpenSSL Linking Exception"
+
+alternativeNames:
+  - "under the Linking Exception"
+  - "under a linking exception"
+  - "LINKING EXCEPTION"
+  - "License: Linking Exception"
+  - "License: linking exception"
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": GNU Lesser General Public License 3.0 (with Linking Exception (undefined))

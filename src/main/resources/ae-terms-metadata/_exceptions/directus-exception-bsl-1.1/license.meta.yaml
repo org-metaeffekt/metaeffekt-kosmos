@@ -1,14 +1,15 @@
-canonicalName: Directus Exception (Business Source License 1.1)
+canonicalName: Directus Exception (BSL-1.1)
 category: Directus Exception
-shortName: Directus-Exception-Business-Source-1.1
+shortName: Directus-Exception-BSL-1.1
 
 type: exception
 
 canonicalNameHistory:
   - "Directus Modifier (Business Source License 1.1)"
+  - "Directus Exception (Business Source License 1.1)"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with Directus Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with Directus Exception (BSL-1.1))
 
 alternativeNames:
   - "directus additional use grant for BSL"

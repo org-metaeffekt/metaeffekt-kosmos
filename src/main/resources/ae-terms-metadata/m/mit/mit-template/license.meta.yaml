@@ -6,6 +6,7 @@ otherIds:
   - "scancode:mit"
   - "osi:MIT"
 #  - "scancode:slf4j-2008" #deprecated - is basically identical to the MIT License
+  - "osi-deprecated:mit"
 
 canonicalNameHistory:
   - "Permission Terms (variant 048)"
@@ -56,6 +57,12 @@ alternativeNames:
   - "License [MIT](LICENSE)"
   - "under the [MIT](License) license"
   - "standard MIT terms"
+# FIXME-CONCEPT: this might be problematic if bouncy castle won't always be under an MIT License
+  - "Bouncy Castle License"
+  - "Bouncy Castle Licence"
+  - "Bouncycastle license"
+  - "Bouncycastle-license"
+  - "Legion Of The Bouncy Castle License"
 
 evidence:
   matches:
@@ -107,6 +114,34 @@ evidence:
   - "Any distribution of this source code or any modification thereof in source code format, must be done under the Enhanced MIT license and not under any other licenses, such as GPL" # Enhanced MIT License
   - "This agreement shall be governed in all respects by the laws of the State of California and by the laws of the United States of America" # MIT License (X.Net)
   - "You also agree to give me your first child to immolate it to the devil when the summer solstice has a full moon"
+  - "Our only modification part is that, if the Software (or any derivative works
+     thereof) is used for any of your commercial products or services that have
+     more than 100 million monthly active users, or more than 20 million US dollars
+     (or equivalent in other currencies) in monthly revenue, you shall prominently
+     display \"Kimi K2*{.{0,5}}* on the user interface of such product or service" # MIT License (with display obligation; Kimi K2)
+  - "Permission is not granted to use this software or any of the associated files
+     as sample data for the purposes of building machine learning models" # Permission Terms (variant 143)
+  - "All persons obtaining a copy or substantial portion of the Software,
+     a modified version of the Software (or substantial portion thereof), or
+     a derivative work based upon this Software (or substantial portion thereof)
+     must not delete, remove, disable, diminish, or circumvent any inference filters or
+     inference filter mechanisms in the Software, or any portion of the Software that
+     implements any such filters or filter mechanisms" # Permission Terms (DeepFloyd)
+  - "Our only modification is that, if the Software*{.{0,50}}* is used for any of your commercial products or services, you shall
+      prominently display*{.{0,25}}* on the user interface of such product or service" # MIT License (with display obligation; MiniMax)
+  - "No licensee or downstream recipient may use the Software (including any modified or derivative versions) to directly compete with the
+      original Licensor by offering it to third parties as a hosted, managed, or Software-as-a-Service (SaaS) product or cloud service where
+      the primary value of the service is the functionality of the Software itself" # Permission Terms (O'Saasy)
+  - "Software-as-a-Service (SaaS) product or cloud service where the primary value of the service is the functionality of the Software itself"
+  - "Permission is hereby granted, free of charge, to any person obtaining a copy of
+     this software and associated documentation files (the 'Software'), to deal in
+     the Software without restriction, including without limitation the rights to
+     use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+     of the Software, and to permit persons to whom the Software is furnished to do
+     so, subject to the following conditions: Be Gay Do Crimes"
+  - "This patent grant applies solely to the KatLang project (the “Software”) as distributed by the Licensor and to
+     derivative works based on that Software"
+  - "In addition, the Licensor provides the following patent grant."
 
 mappings:
   "TORT OR OTHERWISE, OUT OF OR IN CONNECTION WITH THENEWLINE-MARKER SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE":

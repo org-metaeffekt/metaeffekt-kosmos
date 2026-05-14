@@ -1,0 +1,26 @@
+canonicalName: Montreal Data License 2021
+category: Montreal Data License
+shortName: MDL-2021
+
+otherIds:
+  - "scancode:mdl-2021"
+
+alternativeNames:
+  - "Montreal Data License (MDL) 2021"
+  - "Montreal Data License (MDL)"
+  - "Montreal Data License 2021"
+
+evidence:
+  matches:
+    - "Unless otherwise agreed in writing by the parties,  the data is licensed as is and as available"
+    - "Licensor excludes all representations, warranties, obligations, and liabilities, whether express or implied,
+       to the maximum extent permitted by law"
+    - "Nothing in this License permits Licensee to make use of Licensors trademarks, tradenames,  logos or to otherwise
+       suggest endorsement or misrepresent the relationship between the parties"
+    - "The  rights  granted  under  this  license  are  deemed  to  be  non-exclusive,  worldwide, perpetual and
+       irrevocable, unless otherwise specified in writing by Licensor"
+    - "Without limiting Licensees rights available under applicable law,  all rights not expressly granted hereunder
+       are hereby reserved by Licensor"
+    - "The Data and the database under which it is made available remain the property of Licensor
+       (and/or its affiliates or licensors)"
+    - "This  license  shall  be  terminated  upon  any  breach  by  Licensee  of  the  terms  of  this License"

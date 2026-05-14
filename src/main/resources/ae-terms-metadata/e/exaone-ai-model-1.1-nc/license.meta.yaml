@@ -1,0 +1,61 @@
+canonicalName: EXAONE AI Model License Agreement 1.1 (NC)
+category: EXAONE AI Model License Agreement
+shortName: EXAONE-AI-Model-1.1-NC
+
+otherIds:
+  - "scancode:exaone-ai-model-1.1-nc"
+
+alternativeNames:
+  - "EXAONE AI Model License Agreement 1.1 - NC"
+  - "EXAONE AI Model License Agreement 1.1 (NC)"
+  - "EXAONE-AI-Model-1.1-NC"
+  - "exaone-ai-model-1.1-nc"
+
+evidence:
+  matches:
+    - "Access, download, install, and use the Model solely for research purposes"
+    - "This includes evaluation, testing, academic research, experimentation, and participation in competitions,
+       provided that such participation is in a non-commercial context"
+    - "Notwithstanding Section 3.1, the Licensee may only provide the Model or Derivatives for a competition if
+       no commercial license is granted to the competition organizer or any third party"
+    - "Publicly disclose research results and findings derived from the use of the Model or Derivatives,
+       including publishing papers or presentations"
+    - "Modify the Model and create Derivatives based on the Model, provided that such modifications and
+       Derivatives are used exclusively for research purposes"
+    - "The Licensee may conduct experiments, perform analyses, and apply custom modifications to the Model to
+       explore its capabilities and performance under various scenarios"
+    - "If the Model is modified, the modified Model must include “EXAONE” at the beginning of its name"
+    - "Distribute the Model and Derivatives in each case with a copy of this Agreement"
+    - "The license granted herein does not authorize the Licensee to use the Model for any purpose not explicitly
+       permitted under this Agreement"
+    - "Any use beyond the scope of this license, including any commercial application or external distribution,
+       is strictly prohibited unless explicitly agreed upon in writing by the Licensor"
+    - "The Licensee is expressly prohibited from using the Model, Derivatives, or Output for any commercial purposes,
+       including but not limited to, developing or deploying products, services, or applications that generate revenue,
+       whether directly or indirectly"
+    - "Any commercial exploitation of the Model or its derivatives requires a separate commercial license agreement
+       with the Licensor"
+    - "Furthermore, the Licensee shall not use the Model, Derivatives or Output to develop or improve other models"
+    - "The Licensee shall not decompile, disassemble, reverse engineer, or attempt to derive the source code,
+       underlying ideas, algorithms, or structure of the Model, except to the extent that such activities are expressly
+       permitted by applicable law"
+    - "Any attempt to bypass or circumvent technological protection measures applied to the Model is strictly prohibited"
+    - "The Licensee shall not use the Model and Derivatives for any illegal, fraudulent, or unauthorized activities,
+       nor for any purpose that violates applicable laws or regulations"
+    - "This includes but is not limited to the creation, distribution, or dissemination of malicious, deceptive,
+       or unlawful content"
+    - "The Licensee shall ensure that the Model or Derivatives is used in an ethical and responsible manner, adhering
+       to the following guidelines"
+    - "The Model and Derivatives shall not be used to generate, propagate, or amplify false, misleading, or harmful
+       information, including fake news, misinformation, or disinformation"
+    - "The Model and Derivatives shall not be employed to create, distribute, or promote content that is discriminatory,
+       harassing, defamatory, abusive, or otherwise offensive to individuals or groups based on race, gender, sexual
+       orientation, religion, nationality, or other protected characteristics"
+    - "The Model and Derivatives shall not infringe on the rights of others, including intellectual property rights,
+       privacy rights, or any other rights recognized by law"
+    - "The Licensee shall obtain all necessary permissions and consents before using the Model and Derivatives in a
+       manner that may impact the rights of third parties"
+    - "The Model and Derivatives shall not be used in a way that causes harm, whether physical, mental,
+       emotional, or financial, to individuals, organizations, or communities"
+    - "The Licensee shall take all reasonable measures to prevent misuse or abuse of the Model and Derivatives that
+       could result in harm or injury"

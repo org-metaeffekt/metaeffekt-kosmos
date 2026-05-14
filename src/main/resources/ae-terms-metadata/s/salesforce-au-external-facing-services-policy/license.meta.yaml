@@ -1,0 +1,23 @@
+canonicalName: Salesforce Acceptable Use and External-Facing Services Policy
+category: Salesforce Acceptable Use Policy
+shortName: Salesforce-AU-External-Facing-Services
+
+otherIds:
+  - "scancode:salesforce-au-external-2025"
+
+evidence:
+  matches:
+    - "Customers may not, and may not allow any third party, including its users, to use services to create,
+      send, upload, display, store, process, or transmit, or permit use of services to create, send, upload,
+      display, store, process, or transmit"
+    - "Material that infringes or misappropriates a third party’s intellectual property or proprietary rights"
+    - "Hate-related material, and/or material advocating discrimination against individuals or groups"
+    - "Material advocating or advancing violent causes, including terrorism or violent extremism"
+    - "Malicious code, such as viruses, worms, time bombs, Trojan horses, and other harmful or
+      malicious files, scripts, agents, or programs"
+    - "Customers may not use a service to, nor allow its users or any third party to use a service to"
+    - "Generate or facilitate unsolicited commercial email"
+    - "Create, send, upload, display, store, process, or transmit unlawful, defamatory, harassing,
+      abusive, fraudulent, infringing, obscene, excessively profane, hateful, violent, or otherwise
+      objectionable material nor use the services to send, display, or transmit sexually explicit
+      material"

@@ -1,0 +1,45 @@
+canonicalName: Northwoods Software SLA 2024
+category: Northwoods Software SLA
+shortName: Northwoods-SLA-2024
+
+otherIds:
+  - "scancode:northwoods-sla-2024"
+
+alternativeNames:
+  - "Northwoods Software SLA 2024"
+  - "Northwoods-SLA-2024"
+
+evidence:
+  matches:
+    - "BY USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT"
+    - "IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, THEN YOU SHOULD NOT USE THE SOFTWARE"
+    - "Subject to the terms and conditions of this Agreement, Northwoods hereby grants Customer a worldwide,
+       non-exclusive, non-transferable license (“License”) to use the Software"
+    - "The License permits such number of developers in the Customer’s designated licensed group (each as specified
+       in the License Certificate) to use the Software to develop such number of applications (each, an “Application”)
+       as is specified in the License Certificate – which, unless a greater number of Applications is expressly stated
+       in the License Certificate, is limited to one (1) Application"
+    - "Customer may:
+       copy the Software or any portion thereof, but only for purposes of Customer’s use thereof as permitted by this Agreement;
+       use the API of the Software to develop an Application; and
+       modify and incorporate any of the samples into an Application"
+    - "Customer shall not:
+       modify the libraries or executables in the Software;
+       create derivative works of the Software or any portion thereof, other than an Application;
+       reverse engineer, decompile, disassemble, or deobfuscate the Software except to the extent permitted by applicable law;
+       distribute, sell, sublicense, or otherwise provide the Software or any portion thereof to any third party, except as otherwise expressly permitted by this Agreement; or
+       remove, alter, or obscure any proprietary notices in the Software"
+    - "This Agreement and the License are effective on the effective date specified in the License Certificate (the “Effective Date”),
+       and shall continue in perpetuity thereafter, subject to termination as otherwise set forth in this Agreement"
+    - "This Agreement may be terminated:
+       by Customer at any time and for any reason by written notice to Northwoods;
+       automatically if Customer breaches this Agreement; provided, that, if such breach is curable, this Agreement shall terminate if such breach is not cured by Customer within thirty (30) days following the first occurrence of such breach;
+       by Northwoods if Customer becomes insolvent, files for (or has filed against it) bankruptcy, or commences liquidation or receivership proceedings; or
+       by Northwoods or Customer as otherwise expressly permitted by this Agreement"
+    - "Upon termination of this Agreement, the License shall automatically end, Customer shall promptly cease all use
+       of the Software, and Customer shall certify in writing to Northwoods that Customer has complied with its
+       obligations hereunder"
+    - "If credit has been extended to You by Northwoods, all payments are due within the payment terms specified on the associated invoice"
+    - "If Northwoods has not extended credit to You, You shall be required to make payment concurrent with the Effective Date"
+    - "Any value added tax, use tax, sales tax, or similar tax applicable to this Agreement, whether imposed on You or
+       on Northwoods, shall be Your sole responsibility"

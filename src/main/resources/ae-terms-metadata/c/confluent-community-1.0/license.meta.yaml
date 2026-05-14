@@ -7,10 +7,7 @@ otherIds:
 
 alternativeNames:
   - "Confluent Community License Version 1.0"
-
-evidence:
-  excludes:
-    - "Hazelcast Community License"
+  - "Confluent-Community-License-1.0"
 
 evidence:
   matches:

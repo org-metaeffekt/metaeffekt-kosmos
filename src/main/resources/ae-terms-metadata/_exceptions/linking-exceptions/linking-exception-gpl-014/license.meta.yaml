@@ -1,6 +1,6 @@
 canonicalName: Linking Exception (GPL; variant 014)
 category: GPL Linking Exception
-shortName: Linkin-Exception-GPL-014 
+shortName: Linkin-Exception-GPL-014
 
 # was merged with "Linking Exception (GPL; variant 027)" since it only had one spelling mistake which differentiated the two.
 
@@ -14,13 +14,9 @@ otherIds:
 type: exception 
 
 combinedWith:
-  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking exception (GPL; variant 014))
-  GNU General Public License 3.0 (or any later version): GNU General Public License 3.0 (or any later version; with Linking Exception (GPL; variant 014))
-
-alternativeNames:
-  - "GCC Runtime Library exception 2.0"
-  - "Linking Exception (GPL; variant 027)"
-  - "Linking-Exception-GPL-027"
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Linking Exception (GPL; variant 014))
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Linking Exception (GPL; variant 014))
+  GNU General Public License 3.0: GNU General Public License 3.0 (with Linking Exception (GPL; variant 014))
 
 evidence:
   matches:

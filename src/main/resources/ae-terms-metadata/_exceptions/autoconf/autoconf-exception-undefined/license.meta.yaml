@@ -1,0 +1,13 @@
+canonicalName: Autoconf Exception (undefined)
+category: Autoconf Exception
+shortName: Autoconf-Exception-?
+
+type: exception
+
+alternativeNames:
+  - "Autoconf Exception (undefined)"
+  - "Autoconf Exception - undefined"
+  - "undefined autoconf exception"
+
+combinedWith:
+  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Autoconf Exception (undefined))"

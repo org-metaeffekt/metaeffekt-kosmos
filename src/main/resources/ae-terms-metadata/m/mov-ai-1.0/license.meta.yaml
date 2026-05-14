@@ -1,0 +1,27 @@
+canonicalName: Mov.AI License 1.0
+category: Mov.AI License
+shortName: Mov-AI-1.0
+
+otherIds:
+  - "scancode:mov-ai-1.0"
+
+alternativeNames:
+  - "Mov.AI License version 1.0 [https://www.mov.ai/flow-license]"
+  - "Mov.AI License version 1.0"
+  - "Mov.AI License 1.0"
+  - "mov-ai-1.0"
+  - "Mov-AI-1.0"
+
+evidence:
+  matches:
+    - "You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms"
+    - "If you modify the software, you must include in any modified copies of the software prominent notices stating
+       that you have modified the software"
+    - "These terms do not imply any licenses other than those expressly granted in these terms"
+    - "If you use the software in violation of these terms, such use is not licensed, and your licenses will
+       automatically terminate"
+    - "If the licensor provides you with a notice of your violation, and you cease all violation of this license no later
+       than 30 days after you receive that notice, your licenses will be reinstated retroactively"
+    - "However, if you violate these terms after such reinstatement, any additional violation of these terms will cause
+       your licenses to terminate automatically and permanently"
+    - "Except as specifically allowed below, you may use the software for your own internal business purposes only, and you may make the software available to others for your own internal business purposes only"

@@ -1,5 +1,6 @@
 canonicalName: Linking Exception (LGPL Clause 6)
 category: Linking Exception LGPL
+spdxIdentifier: polyparse-exception
 shortName: Linking-Exception-LGPL-clause-6
 
 type: exception

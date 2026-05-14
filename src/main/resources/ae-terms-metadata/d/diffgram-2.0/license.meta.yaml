@@ -1,0 +1,22 @@
+canonicalName: Diffgram License 2.0
+category: Diffgram
+shortName: Diffgram-2.0
+
+comments:
+  - "source: https://github.com/diffgram/diffgram/blob/master/LICENSE.md"
+
+otherIds:
+  - "scancode:diffgram-dlv2"
+
+alternativeNames:
+  - "Diffgram License with Contributor Option"
+  - "Diffgram v2.0"
+  - "Diffgram v2"
+
+evidence:
+  matches:
+    - "The Licensor grants you a non-exclusive, royalty-free, worldwide, non-transferable license to use works of the Software subject to all the conditions in this document including"
+    - "You will not copy, distribute, or create derivatives of the Software Works for any purpose other then your Company’s Deployed Usage or Contribution to the Works"
+    - "You may not alter, remove, or obscure any licensing, copyright, or other notices"
+    - "The Software comes “as is”, without any warranty or condition, and the Licensor will not be liable to you for any damages arising out of these terms or the use or nature of the Software, under any kind of legal claim"
+    - "Licensor shall have the right collect and analyze data and other information relating to the provision, use and performance of various aspects of the Software and related systems and technologies"

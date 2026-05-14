@@ -1,0 +1,17 @@
+canonicalName: NVIDIA Data Agreement for Model Training
+category: NVIDIA Data Agreement
+shortName: NVIDIA-Data-Model-Training
+
+otherIds:
+  - "scancode:nvidia-model-training-2025"
+
+evidence:
+  matches:
+    - "Subject to the terms of this Agreement, NVIDIA makes the Datasets available to*{.{0,35}}* solely for the purpose of internal training of*{.{0,35}}* AI Solutions with facts and ideas, including patterns and correlations"
+    - "Company may not"
+    - "Use, store or retain the Datasets for any other purpose than the Purpose"
+    - "Sell, rent, sublicense, transfer, distribute, sublicence, publicly display, publicly perform or otherwise make available to others the Datasets"
+    - "Use the Datasets in any manner that would cause them to become subject to an open-source license"
+    - "acknowledges that NVIDIA does not grant and does not purport to grant any rights to access or use any copyrighted material that may be contained within the Datasets"
+    - "As between the parties to this Agreement, to the extent NVIDIA holds any rights in the Datasets, including any Intellectual Property Rights that may apply, those rights are and will remain the sole and exclusive property of NVIDIA and its licensors"
+    - "TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NVIDIA DISCLAIMS ALL WARRANTIES AND REPRESENTATIONS OF ANY KIND"

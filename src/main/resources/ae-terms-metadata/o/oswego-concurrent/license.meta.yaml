@@ -10,6 +10,9 @@ alternativeNames:
   - "http://gee.cs.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/sun-u.c.license.pdf"
   - "http://g.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html"
 
+expectedMatches:
+  - "Public Domain"
+
 evidence:
   matches:
     - "All classes are released to the public domain and may be used for any purpose

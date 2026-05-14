@@ -29,3 +29,7 @@ references:
   "Public Domain":
     matches:
       - "Oracle Confidential Information shall not include information which:*{.{0,6}}* is or becomes a part of the public domain through no act or omission of the other party"
+  "OTN":
+    matches:
+      - "Note: You are bound by the Oracle Technology Network (\"OTN\") Early Adopter Development License Agreement (\"OTN License Agreement\") terms. The OTN License Agreement terms also apply to all updates You receive under Your Technology Track subscription.
+      The OTN License Agreement terms below supercede any shrinkwrap license on the OTN Technology Track software CDs and previous OTN License terms (including the Oracle Program License as modified by the OTN Program Use Certificate)."

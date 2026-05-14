@@ -5,6 +5,7 @@ spdxIdentifier: CDDL-1.0
 otherIds:
   - "scancode:cddl-1.0"
   - "osi:CDDL-1.0"
+  - "osi-deprecated:cddl-1-0"
 
 canonicalNameHistory:
   - "Common Development and Distribution License 1.0"
@@ -26,6 +27,7 @@ alternativeNames:
   - "COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0"
   - "Copyright 2000-2007 Sun Microsystems, Inc. All rights reserved"
   - "Common Development and Distribution License, Version 1.0"
+  - "Common Development and Distribution License 1.0"
 
 evidence:
   excludes:

@@ -4,6 +4,7 @@ spdxIdentifier: OSL-1.0
 
 otherIds:
   - "scancode:osl-1.0"
+  - "osi-deprecated:osl-1-0"
 
 alternativeNames:
   - "OSL, Version 1.0"

@@ -11,8 +11,10 @@ type: exception
 canonicalNameHistory:
   - "Autoconf Exception 3.0"
 
+# FIXME-DISCUSS: inconsistency on capital letters for e/Exception; correct
 combinedWith:
   "GNU General Public License 3.0": GNU General Public License 3.0 (with Autoconf exception (GPL; variant 002))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Autoconf Exception (GPL; variant 002))
   "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 002))
 
 evidence:

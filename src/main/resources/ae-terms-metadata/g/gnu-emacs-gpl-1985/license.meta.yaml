@@ -1,0 +1,29 @@
+canonicalName: GNU Emacs General Public License 1985
+category: GNU Emacs General Public
+shortName: GNU-Emacs-GPL-1985
+
+otherIds:
+  - "scancode:gnu-emacs-gpl-1985"
+
+alternativeNames:
+  - "GNU emacs General Public License 1985"
+
+evidence:
+  matches:
+    - "You may copy and distribute verbatim copies of GNU Emacs source
+      code as you receive it, in any medium, provided that you conspicuously
+      and appropriately publish on each file a valid copyright notice"
+    - "You may modify your copy or copies of GNU Emacs source code or
+      any portion of it, and copy and distribute such modifications under
+      the terms of Paragraph 1 above, provided that you also do the following"
+    - "cause the modified files to carry prominent notices stating
+      who last changed such files and the date of any change"
+    - "You may copy and distribute GNU Emacs or any portion of it in
+      compiled, executable or object code form under the terms of Paragraphs
+      1 and 2 above provided that you do the following"
+    - "cause each such copy of GNU Emacs to be accompanied by a
+      written offer, with no time limit, to give any third party
+      free (except for a nominal shipping charge) machine readable
+      copy of the corresponding source code"
+    - "BECAUSE GNU EMACS IS LICENSED FREE OF CHARGE, WE PROVIDE ABSOLUTELY
+      NO WARRANTY, TO THE EXTENT PERMITTED BY APPLICABLE STATE LAW"

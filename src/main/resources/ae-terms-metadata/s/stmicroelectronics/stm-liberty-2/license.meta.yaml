@@ -119,27 +119,28 @@ licenseTemplate:
    thereof, with or without modification, are permitted provided that the following
    conditions are met:</p>
 
-   <ol><li>1.  Redistribution of source code (modified or not) must retain any copyright
+   <ol>
+   <li>Redistribution of source code (modified or not) must retain any copyright
    notice, this list of conditions and the disclaimer set forth below as items 10
    and 11.</li>
 
-   <li>2.  Redistributions in binary form, except as embedded into microcontroller or
+   <li>Redistributions in binary form, except as embedded into microcontroller or
    microprocessor device manufactured by or for STMicroelectronics or a software
    update for such device, must reproduce any copyright notice provided with the
    binary code, this list of conditions, and the disclaimer set forth below as
    items 10 and 11, in documentation and/or other materials provided with the
    distribution.</li>
 
-   <li>3.  Neither the name of STMicroelectronics nor the names of other contributors
+   <li>Neither the name of STMicroelectronics nor the names of other contributors
    to this software may be used to endorse or promote products derived from this
    software or part thereof without specific written permission.</li>
 
-   <li>4.  This software or any part thereof, including modifications and/or derivative
+   <li>This software or any part thereof, including modifications and/or derivative
    works of this software, must be used and execute solely and exclusively on or in
    combination with a microcontroller or microprocessor device manufactured by or
    for STMicroelectronics.</li>
 
-   <li>5.  No use, reproduction or redistribution of this software partially or totally
+   <li>No use, reproduction or redistribution of this software partially or totally
    may be done in any manner that would subject this software to any Open Source
    Terms. “Open Source Terms” shall mean any open source license which requires as
    part of distribution of software that the source code of such software is
@@ -149,23 +150,23 @@ licenseTemplate:
    example GNU General Public License (GPL), Eclipse Public License (EPL), Apache
    Software License, BSD license or MIT license.</li>
 
-   <li>6.  STMicroelectronics has no obligation to provide any maintenance, support or
+   <li>STMicroelectronics has no obligation to provide any maintenance, support or
    updates for the software.</li>
 
-   <li>7.  The software is and will remain the exclusive property of STMicroelectronics
+   <li>The software is and will remain the exclusive property of STMicroelectronics
    and its licensors. The recipient will not take any action that jeopardizes
    STMicroelectronics and its licensors' proprietary rights or acquire any rights
    in the software, except the limited rights specified hereunder.</li>
 
-   <li>8.  The recipient shall comply with all applicable laws and regulations
+   <li>The recipient shall comply with all applicable laws and regulations
    affecting the use of the software or any part thereof including any applicable
    export control law or regulation.</li>
 
-   <li>9.  Redistribution and use of this software or any part thereof other than as
+   <li>Redistribution and use of this software or any part thereof other than as
    permitted under this license is void and will automatically terminate your
-   rights under this license.</li></ol>
+   rights under this license.</li>
 
-   <p><codeph>10. THIS SOFTWARE IS PROVIDED BY STMICROELECTRONICS AND CONTRIBUTORS \"AS IS\" AND
+   <li>THIS SOFTWARE IS PROVIDED BY STMICROELECTRONICS AND CONTRIBUTORS \"AS IS\" AND
     ANY EXPRESS, IMPLIED OR STATUTORY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
     IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-
     INFRINGEMENT OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS, WHICH ARE DISCLAIMED
@@ -176,8 +177,9 @@ licenseTemplate:
     INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
     CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
     IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
-    OF SUCH DAMAGE.</codeph></p></lq>
+    OF SUCH DAMAGE.</li>
     
-    11. EXCEPT AS EXPRESSLY PERMITTED HEREUNDER, NO LICENSE OR OTHER RIGHTS, WHETHER
+    <li>EXCEPT AS EXPRESSLY PERMITTED HEREUNDER, NO LICENSE OR OTHER RIGHTS, WHETHER
     EXPRESS OR IMPLIED, ARE GRANTED UNDER ANY PATENT OR OTHER INTELLECTUAL PROPERTY
-    RIGHTS OF STMICROELECTRONICS OR ANY THIRD PARTY."
+    RIGHTS OF STMICROELECTRONICS OR ANY THIRD PARTY.</li>
+    </ol></lq>"

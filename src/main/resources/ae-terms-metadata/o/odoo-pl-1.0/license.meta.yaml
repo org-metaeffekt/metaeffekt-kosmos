@@ -1,0 +1,34 @@
+canonicalName: Odoo Proprietary License 1.0
+category: Odoo Proprietary License
+shortName: Odoo-PL-1.0
+
+otherIds:
+  - "scancode:odoo-pl-1.0"
+
+alternativeNames:
+  - "Odoo Proprietary License v1.0"
+  - "Odoo Proprietary License 1.0"
+  - "odoo-pl-1.0"
+  - "Odoo-PL-1.0"
+
+evidence:
+  matches:
+    - "This software and associated files (the “Software”) may only be used (executed, modified, executed after modifications)
+       if you have purchased a valid license from the authors, typically via Odoo Apps, or if you have received a written
+       agreement from the authors of the Software (see the COPYRIGHT file)"
+    - "You may develop Odoo modules that use the Software as a library (typically by depending on it, importing it and
+       using its resources), but without copying any source code or material from the Software"
+    - "You may distribute those modules under the license of your choice, provided that this license is compatible with
+       the terms of the Odoo Proprietary License (For example: LGPL, MIT, or proprietary licenses similar to this one)"
+    - "It is forbidden to publish, distribute, sublicense, or sell copies of the Software or modified copies of the Software"
+    - "The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software"
+
+references:
+  "LGPL":
+    matches:
+      - "this license is compatible with the terms of the Odoo Proprietary License (For example:
+         LGPL, MIT, or proprietary licenses similar to this one)"
+  "MIT":
+    matches:
+      - "this license is compatible with the terms of the Odoo Proprietary License (For example:
+         LGPL, MIT, or proprietary licenses similar to this one)"

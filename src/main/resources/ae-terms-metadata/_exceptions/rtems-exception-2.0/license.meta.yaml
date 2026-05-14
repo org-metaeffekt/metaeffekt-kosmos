@@ -1,0 +1,27 @@
+canonicalName: RTEMS Exception (GPL-2.0+)
+category: RTEMS Exception
+shortName: RTEMS-Exception-GPL-2.0+
+
+type: exception
+
+otherIds:
+  - "scancode:rtems-exception-2.0"
+
+canonicalNameHistory:
+  - "RTEMS Exception (GPL-2.0)"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with RTEMS Exception (GPL-2.0+))
+
+alternativeNames:
+  - "RTEMS exception to GPL 2.0"
+
+evidence:
+  matches:
+    - "As a special exception, including RTEMS header files in a file, instantiating RTEMS generics or templates, or linking other files with RTEMS objects to produce an executable application, does not by itself cause the resulting executable application to be covered by the GNU General Public License"
+    - "This exception does not however invalidate any other reasons why the executable file might be covered by the GNU Public License"
+
+references:
+  "GPL":
+    matches:
+      - "RTEMS is free software; you can redistribute it and/or modify it under terms of the GNU General Public License as published by the Free Software Foundation; either version 2, or (at your option) any later version"

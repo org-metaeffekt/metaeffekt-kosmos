@@ -4,6 +4,7 @@ spdxIdentifier: EPL-1.0
 
 otherIds:
   - "scancode:epl-1.0"
+  - "osi-deprecated:epl-1-0"
 
 secondaryLicenses:
   - "Eclipse Public License 2.0"

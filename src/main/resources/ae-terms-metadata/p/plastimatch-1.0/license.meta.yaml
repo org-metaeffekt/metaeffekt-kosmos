@@ -1,0 +1,31 @@
+canonicalName: Plastimatch Software License 1.0
+category: Plastimatch Software License
+shortName: Plastimatch-1.0
+
+otherIds:
+  - "scancode:plastimatch-1.0"
+
+alternativeNames:
+  - "Plastimatch Software License Version 1.0"
+  - "Plastimatch Software License 1.0"
+
+evidence:
+  matches:
+    - "you accept and adhere to all of the terms and conditions of
+       this Software License"
+    - "in connection with any copy of or sublicense of all or any
+       portion of the Software, all of the terms and conditions in this
+       Software License shall appear in and shall apply to such copy and
+       such sublicense, including without limitation all source and
+       executable forms and on any user documentation, prefaced with the
+       following words: 'All or portions of this licensed product (such
+       portions are the 'Software') have been obtained under license from
+       MGH and are subject to the following terms and conditions"
+    - "you preserve and maintain all applicable attributions, copyright
+       notices and licenses included in or applicable to the Software"
+    - "modified versions of the Software must be clearly identified
+       and marked as such, and must not be misrepresented as being the
+       original Software; and"
+    - "you consider making, but are under no obligation to make, the
+       source code of any of your modifications to the Software freely
+       available to others on an open source basis"

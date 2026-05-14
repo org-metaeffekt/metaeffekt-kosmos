@@ -16,6 +16,9 @@ requiresLicenseText: true
 
 alternativeNames:
   - "Permission Terms (SL)"
+  - "libtiff License"
+  - "HylaFax License"
+  - "X11-Style (Tiff)"
 
 evidence:
   matches:

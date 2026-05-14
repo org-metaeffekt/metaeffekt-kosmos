@@ -1,11 +1,12 @@
 canonicalName: GNU Library General Public License 2.0
-category: LGPL
+category: LibraryGPL
 spdxIdentifier: LGPL-2.0-only
 shortName: LGPL-2.0
 
 otherIds:
   - "scancode:lgpl-2.0"
   - "osi:LGPL-2.0"
+  - "osi-deprecated:lgpl-2-0"
 
 defaultSourceCategory: annex
 requiresSourceCodeProvision: true
@@ -19,8 +20,8 @@ requiresLicenseText: true
 alternativeNames:
   - "GNU Library General Public License, Version 2.0"
   - "GNU LIBRARY GENERAL PUBLIC LICENSE Version 2"
-  - "GNU LIBRARY GENERAL PUBLIC LICENSE"
-  - "GNU Library General Public License"
+#  - "GNU LIBRARY GENERAL PUBLIC LICENSE"
+#  - "GNU Library General Public License"
   - "GNU LGPL v2.0"
   - "GNU Lesser GPL 2.0"
   - "GNU Lesser General Public License Version 2.0"
@@ -48,6 +49,8 @@ alternativeNames:
   - "GNU Library General Public License Version 2"
   - "http://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt"
   - "https://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt"
+  - "License: LGPL-2"
+  - "GNU Library General Public License v2 only"
 
 evidence:
   matches:

@@ -30,12 +30,10 @@ evidence:
     - "You can learn more about data collection and use in the help documentation and the privacy statement at
        https://aka.ms/privacy"
     - "Your use of the software operates as your consent to these practices"
+   # FIXME-IMPLEMENT: do we need this match; it is rather informational and matching should not depend on it
+    - "Please note: As this software is distributed in Canada, some of the clauses in this agreement are provided below in French"
   excludes:
     - "except that the FAA governs everything related to arbitration"
     - "only with Microsoft Visual Studio, Visual Studio for Mac, Visual Studio Code, Azure DevOps,
        Team Foundation Server, and successor Microsoft products and services (collectively, the
        “Visual Studio Products and Services”)"
-
-ignoreMatches:
-  - "Microsoft Pylance Extension for Visual Studio Code License"
-  - "Microsoft Visual Studio TestPlatform 17.0.0"

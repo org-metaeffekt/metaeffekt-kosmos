@@ -1,0 +1,25 @@
+canonicalName: AWS Intellectual Property License 2021
+category: AWS Intellectual Property
+shortName: AWS-IP-2021
+
+otherIds:
+  - "scancode:aws-ip-2021"
+
+evidence:
+  matches:
+    - "If the geographic location associated with your AWS account is any country within Europe, the Middle East, or 
+      Africa (“ EMEA ”), then Amazon Web Services EMEA SARL (“ AWS Europe ”) grants this License"
+    - "This License forms a separate agreement between you and the AWS Licensor without any further action required by the parties"
+    - "AWS Licensor or its licensors own all right, title, and interest in and to the Services, AWS Content, and all 
+      related technology and intellectual property rights"
+    - "Subject to the terms of this License and the Agreement, AWS Licensor grants you a limited, royalty-free, 
+      revocable, non-exclusive, non-sublicensable, non-transferrable license to copy and use the AWS Content solely
+      in connection with your permitted use of the Services during the Term"
+    - "No other entity is entitled to or purports to grant or procure the grant of this License"
+    - "Neither you nor any End User will use the Services or AWS Content in any manner or for any purpose other than as 
+      expressly permitted by this License and the Agreement"
+
+references:
+  "Apache License":
+    matches:
+      - "Some AWS Content and Third-Party Content may be provided to you under a separate license, such as the Apache License, Version 2.0, or other open source license"

@@ -1,0 +1,19 @@
+canonicalName: INRIA Non-Commercial License Agreement (Zélus compiler)
+category: INRIA Non-Commercial License Agreement (Zélus compiler)
+shortName: INRIA-Zelus
+
+otherIds:
+  - "scancode:inria-zelus"
+
+alternativeNames:
+  - "INRIA Non-Commercial License Agreement for the Zélus compiler"
+  - "INRIA Non-Commercial License Agreement (Zélus compiler)"
+
+evidence:
+  matches:
+    - "Institut National de Recherche en Informatique et en Automatique (the 'Provider') developed the Zélus
+       compiler (the 'Software') and seeks to distribute the Software for public use and benefit"
+    - "You agree to acknowledge the Inria Vélus research project with appropriate citations in any publication or
+       presentation containing research results obtained in whole or in part through the use of the Software"
+  excludes:
+    - "You agree to acknowledge the INRIA CompCert research project"

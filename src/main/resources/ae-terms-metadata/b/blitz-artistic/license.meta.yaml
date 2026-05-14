@@ -28,3 +28,9 @@ evidence:
        modifications to the Blitz++ development list, 
        and allowing the Copyright Holder to include
        your modifications in the Standard Version of the Library"
+
+references:
+  "Public Domain":
+    matches:
+      - "You may apply bug fixes, portability fixes and other modifications
+        derived from the Public Domain or from the Copyright Holder"

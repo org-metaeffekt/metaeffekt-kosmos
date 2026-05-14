@@ -1,0 +1,11 @@
+canonicalName: GNU General Public License 2.0 (with Oracle MySQL FOSS Exception (GPL-2.0))
+category: GPL+Oracle MySQL Exception
+shortName: GPL-2.0-Oracle-MySQL-FOSS-Exception-2.0
+
+type: expression
+
+combinedWith:
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Oracle MySQL FOSS Exception (GPL-2.0))
+  Oracle MySQL FOSS Exception (GPL-2.0): GNU General Public License 2.0 (with Oracle MySQL FOSS Exception (GPL-2.0))
+
+representedAs: GNU General Public License 2.0 (with exceptions)

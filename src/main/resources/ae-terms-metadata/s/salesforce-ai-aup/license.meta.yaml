@@ -1,0 +1,20 @@
+canonicalName: Salesforce Artificial Intelligence Acceptable Use Policy
+category: Salesforce AI Acceptable Use Policy
+shortName: Salesforce-AI-AUP
+
+otherIds:
+  - "scancode:salesforce-ai-aup-2025"
+
+evidence:
+  matches:
+    - "Customers may not use a Covered AI Service, nor allow their users or any third party to use a Covered AI Service, for the following"
+    - "As part of an automated decision-making process with legal or similarly significant effects, unless"
+    - "Customer ensures that the final decision is made by a human being and takes other factors
+      beyond the Services’ recommendation into account"
+    - "Customer is transparent about the role of the Covered AI Service and the logic involved in the
+       decision-making process, including providing subjects of the decision with the right to receive an
+       explanation of the role of the Covered AI Service in the decision-making and the main reasons
+       for the decision"
+    - "As part of an automated decision-making process for payday lending even when the final decision is made by a human being"
+    - "Generating individualized advice that in the ordinary course of business would be provided by a licensed professional"
+    - "Generating or providing individualized medical advice, treatment, or diagnosis to a consumer or end user"

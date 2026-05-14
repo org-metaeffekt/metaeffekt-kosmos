@@ -11,6 +11,7 @@ alternativeNames:
 otherIds:
   - "scancode:cal-1.0"
   - "osi:CAL-1.0"
+  - "osi-deprecated:cal-1-0"
 
 expectedMatches:
   - "Cryptographic Autonomy License 1.0 (combined work)"

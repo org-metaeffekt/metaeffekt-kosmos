@@ -5,6 +5,12 @@ shortName: Oracle-BCLA-Java-SE-JavaFX-2013-Restricted
 otherIds:
   - "scancode:oracle-bcl-javase-platform-javafx-2013"
 
+alternativeNames:
+  - "Oracle Binary Code License Agreement (Java SE and JavaFX 2013 Restricted)"
+  - "Oracle-BCLA-Java-SE-Java-FX-2013-Restricted"
+  - "Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX 2013 Restricted"
+  - "Oracle Binary Code License Agreement for the Java SE Platform Products Restricted 2013-04-02"
+
 evidence:
   matches:
     - "Subject to the terms and conditions of this Agreement including, but not limited to, the Java Technology

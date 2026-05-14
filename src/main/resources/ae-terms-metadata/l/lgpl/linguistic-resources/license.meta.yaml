@@ -20,7 +20,7 @@ evidence:
        and grammars"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "Lesser General Public License For Linguistic Resources
 

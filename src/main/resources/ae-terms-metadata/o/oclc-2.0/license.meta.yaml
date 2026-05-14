@@ -5,6 +5,7 @@ spdxIdentifier: OCLC-2.0
 otherIds:
   - "scancode:oclc-2.0"
   - "osi:OCLC-2.0"
+  - "osi-deprecated:oclc2"
 
 alternativeNames:
   - "OCLC, Version 2.0"

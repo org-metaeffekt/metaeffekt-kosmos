@@ -9,7 +9,7 @@ alternativeNames:
   - "GMP License Restriction (Part 01)"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "Note, however, that version 6.0.0 and later of the gmplib library used
          by GnuTLS are distributed under a LGPLv3+ or GPLv2+ dual license, and

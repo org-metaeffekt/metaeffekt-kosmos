@@ -1,15 +1,18 @@
-canonicalName: Avisynth C Interface Exception
+canonicalName: Avisynth C Interface Exception (GPL)
 category: Avisynth C Interface Exception
-shortName: Avisynth-C-Interface-Exception
+shortName: Avisynth-C-Interface-Exception-GPL
 
 type: exception
 
-combinedWith:
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Avisynth C Interface exception)
-  "GNU General Public License 2.0": GNU General Public License 2.0 (with Avisynth C Interface exception)
-
 otherIds:
   - "scancode:avisynth-c-interface-exception"
+
+canonicalNameHistory:
+  - "Avisynth C Interface Exception"
+
+combinedWith:
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Avisynth C Interface Exception (GPL))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Avisynth C Interface Exception (GPL))
 
 alternativeNames:
   - "Avisynth C Interface Exception"

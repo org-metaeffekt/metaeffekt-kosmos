@@ -13,6 +13,13 @@ canonicalNameHistory:
 requiresCopyright: true
 requiresLicenseText: true
 
+#alternativeNames:
+# NOTE: this is regarded imprecise
+#  - "BSD 2-Clause NetBSD License" # keep for external identification purposes
+#  - "BSD 2-clause NetBSD License" # keep for external identification purposes
+#  - "BSD-2-Clause-NetBSD" # keep for external identification purposes#
+#  - "BSD-2-Clause-NetBSD License" # keep for external identification purposes#
+
 evidence:
   matches:
     - "Redistribution and use in source and binary form*{.{0,10}}* with or without
@@ -53,12 +60,18 @@ evidence:
     - "Redistributions of source code must be licensed under more than one
        license and must not have the terms of the OSSAL removed"
     - "Redistributions of source code must retain the above copyright
-                 notice, this list of conditions and the following disclaimer in this
-                 position and unchanged"
+       notice, this list of conditions and the following disclaimer in this
+       position and unchanged"
     - "this list of conditions and the following disclaimer as the first lines of this file unmodified"
     - "The views and conclusions contained in the software and documentation
        are those of the authors and should not be interpreted as representing
        official policies, either expressed or implied, of Red Hat, Inc."
+    - "Redistributions of source code must retain the above copyright
+       notice unmodified, this list of conditions, and the following
+       disclaimer"
+    - "If you have given this to your customers you should offer me bottles or casks of very good spirits and a free place to stay for a week.
+       Rick Wesson reserves the right to ammend this contract in any fuckin state of mind" # BSD 2-Clause License (Rick's Internet License)
+    - "THIS SOFTWARE IS PROVIDED BY THE CRYPTIX FOUNDATION LIMITED AND CONTRIBUTORS"
 
 mappings:
   "with or without modification, are permitted provided that the following conditionsare met":
@@ -70,6 +83,10 @@ mappings:
   "Copyright \\(c\\) 2013 Forbes LindesayNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe BSD LicenseNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERRedistribution and use in source and binary forms": " LICENSE-SEGMENT-MARKER Copyright (c) 2013 Forbes LindesayNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERThe BSD LicenseNEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERRedistribution and use in source and binary forms"
   "Copyright \\(c\\) 2009 David Schultz <das@FreeBSD.org>NEWLINE-MARKER All rights reserved.NEWLINE-MARKER Redistribution and use in source and binary forms": " LICENSE-SEGMENT-MARKER Copyright (c) 2009 David Schultz <das@FreeBSD.org>NEWLINE-MARKER All rights reserved.NEWLINE-MARKER Redistribution and use in source and binary forms"
 
+
+standardVariableSet:
+  "copyrightHolderNoLiability": "THE COPYRIGHT HOLDER"
+  "copyrightHolderNoWarranty": "THE COPYRIGHT HOLDER"
 
 licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification,
                   are permitted provided that the following conditions are met:
@@ -94,24 +111,18 @@ licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or
 segmentation:
   revert: [
     { match:
-        "Redistribution and use in source and binary forms, with or without modification, are permitted provided that 
-         the following conditions are met",
+        "Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met",
       matchNext:
-        "Redistributions of source code must retain the above copyright notice, this list of conditions and the 
-         following disclaimer"
+        "Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer"
     },
     { match:
-        "Redistributions of source code must retain the above copyright notice, this list of conditions and the 
-         following disclaimer",
+        "Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer",
       matchNext:
-        "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the 
-         following disclaimer in the documentation and/or other materials provided with the distribution"
+        "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution"
     },
     { match:
-        "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the 
-         following disclaimer in the documentation and/or other materials provided with the distribution",
+        "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution",
       matchNext:
-        "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"\"AS IS\"\" AND ANY EXPRESS OR IMPLIED 
-         WARRANTIES, INCLUDING, BUT NOT LIMITED TO"
+        "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"\"AS IS\"\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO"
     }
   ]

@@ -22,6 +22,7 @@ alternativeNames:
   - "CeCILL-C FREE SOFTWARE LICENSE AGREEMENT Notice"
   - "https://spdx.org/licenses/cecill-c"
   - "eCILL-C Free Software License Agreement"
+  - "CeCILL-C Free Software License Agreement"
 
 evidence:
   matches:

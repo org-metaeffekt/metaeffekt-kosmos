@@ -1,0 +1,21 @@
+canonicalName: Stability AI Non-Commercial Research Community License
+category: Stability AI
+shortName: Stability-AI-NC-Research-Community
+
+otherIds:
+  - "scancode:stability-ai-nc-2023-12-06"
+
+requiresLicenseText: false
+requiresCopyright: false
+
+alternativeNames:
+  - "STABILITY AI NON-COMMERCIAL RESEARCH COMMUNITY LICENSE AGREEMENT"
+  - "Stability AI Non-Commercial Research Community License Agreement 2023-12-06"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this Agreement, the AUP (which is hereby incorporated herein by reference), and the Documentation, Stability AI grants you a non-exclusive, worldwide, non-transferable, non-sublicensable, revocable, royalty free and limited license"
+    - "by Stability AI embodied in the Software Products to use, reproduce, distribute, and create Derivative Works of, the Software Products, in each case for Non-Commercial Uses only"
+    - "You may not use the Software Products or Derivative Works to enable third parties to use the Software Products or Derivative Works as part of your hosted service or via your APIs, whether you are adding substantial additional functionality thereto or not"
+    - "If you distribute or make the Software Products, or any Derivative Works thereof, available to a third party, the Software Products, Derivative Works, or any portion thereof, respectively, will remain subject to this Agreement and you must*{.{0,5}}* provide a copy of this Agreement to such third party"
+    - "UNLESS REQUIRED BY APPLICABLE LAW, THE SOFTWARE PRODUCTS  AND ANY OUTPUT AND RESULTS THEREFROM ARE PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF TITLE"

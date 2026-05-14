@@ -6,6 +6,7 @@ shortName: GPL-2.0
 otherIds:
   - "scancode:gpl-2.0"
   - "osi:GPL-2.0"
+  - "osi-deprecated:gpl-2-0"
 
 defaultSourceCategory: annex
 
@@ -122,6 +123,7 @@ alternativeNames:
   - "GNU General Public License (2)"
   - "GNU General Public License (v2)"
   - "GNU 通用公共许可证 v.2"
+  - "GNU General Public License v2.0 only"
 
 evidence:
   matches:
@@ -167,13 +169,15 @@ evidence:
        complete source code of your modified version or other derivative work." # AGPL
 
 references:
-  "LGPL":
+  "LesserGPL":
      matches:
         - "(Some other Free Software Foundation software is covered by
-           the GNU *{Lesser|Library}* General Public License instead.)  You can apply it to
+           the GNU Lesser General Public License instead.)  You can apply it to
            your programs, too"
-        - "If this is what you want to do, use the GNU *{Lesser|Library}* General
-           Public License instead of this License"
+        - "If this is what you want to do, use the GNU *{.{0,20}}* General Public License instead of this License."
+  "LibraryGPL":
+    matches:
+      - "If this is what you want to do, use the GNU *{.{0,20}}* General Public License instead of this License."
   "GPL":
     matches:
       - "To do so, attach the following notices to the program. *

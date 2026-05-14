@@ -1,0 +1,31 @@
+canonicalName: Falcon 2 11B TII License 1.0
+category: Falcon 2 11B TII
+shortName: Falcon-2-11B-TII-1.0
+
+otherIds:
+  - "scancode:falcon-2-11b-1.0"
+
+alternativeNames:
+  - "Falcon 2 11B TII License Version 1.0"
+  - "Falcon 2 11B TII License 1.0"
+
+evidence:
+  matches:
+    - "which in relation to the initial release of Falcon 2 11B is in Object form only"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, 
+      non-exclusive, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly 
+      perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form"
+    - "Your copyright license to use the Work shall be royalty free and without charge"
+    - "patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such 
+      license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution"
+    - "Your patent license to use the Work shall be royalty free and without charge"
+    - "use-based restrictions incorporating the Acceptable Use Policy in the manner set out in Section 5 of this license, 
+      and which do not otherwise conflict with the Acceptable Use Policy, must be included as enforceable provisions by You in any type of legal agreement"
+    - "Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You 
+      to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions"
+
+references:
+  "Apache License":
+    matches:
+      - "This license is, in part, based on the Apache License Version 2.0 (available at http://www.apache.org/licenses/), with a series of modifications. The contribution of the Apache License 2.0 to the framing of this document is acknowledged.
+        Terms and conditions for use, reproduction, and distribution"

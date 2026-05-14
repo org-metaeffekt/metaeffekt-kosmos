@@ -1,13 +1,16 @@
-canonicalName: Kamu Modifier (Business Source License 1.1)
+canonicalName: Kamu Modifier (BSL-1.1)
 category: Kamu Modifier
-shortName: Kamu-Modifier-Business-Source-1.1
+shortName: Kamu-Modifier-BSL-1.1
+
+canonicalNameHistory:
+  - "Kamu Modifier (Business Source License 1.1)"
 
 type: modifier
 
 classification: restriction
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with Kamu Modifier (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with Kamu Modifier (BSL-1.1))
 
 alternativeNames:
   - "Kamu additional use grant for BSL"

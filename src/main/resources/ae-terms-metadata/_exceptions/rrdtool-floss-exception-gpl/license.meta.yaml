@@ -1,19 +1,22 @@
-canonicalName: RRDtool FLOSS Exception (GPL)
+canonicalName: RRDtool FLOSS Exception (GPL-2.0)
 category: RRDtool FLOSS Exception
 spdxIdentifier: RRDtool-FLOSS-exception-2.0
-shortName: RRDtool-FLOSS-Exception-GPL
+shortName: RRDtool-FLOSS-Exception-GPL-2.0
 
 type: exception
 
 otherIds:
   - "scancode:rrdtool-floss-exception-2.0"
 
+canonicalNameHistory:
+  - "RRDtool FLOSS Exception (GPL)"
+
 alternativeNames:
   - "RRDtool-FLOSS-exception-2.0"
   - "RRDtool FLOSS exception 2.0"
 
 combinedWith:
-  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with RRDtool FLOSS Exception (GPL))
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with RRDtool FLOSS Exception (GPL-2.0))
 
 evidence:
   matches:

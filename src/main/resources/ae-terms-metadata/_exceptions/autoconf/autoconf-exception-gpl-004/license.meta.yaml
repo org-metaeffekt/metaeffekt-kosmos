@@ -11,10 +11,10 @@ canonicalNameHistory:
 ##TODO: Add multi license /rethink combination strategy
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Autoconf exception (GPL; variant 004))"
-  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 004))"
-  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Autoconf exception (GPL; variant 004))"
-  "GNU General Public License 3.0": "GNU General Public License 3.0 (with Autoconf exception (GPL; variant 004))"
+  "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with Autoconf Exception (GPL; variant 004))"
+  "GNU General Public License 3.0 (or any later version)": "GNU General Public License 3.0 (or any later version; with Autoconf Exception (GPL; variant 004))"
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Autoconf Exception (GPL; variant 004))"
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with Autoconf Exception (GPL; variant 004))"
 
 otherIds:
   - "scancode:autoconf-simple-exception-2.0"

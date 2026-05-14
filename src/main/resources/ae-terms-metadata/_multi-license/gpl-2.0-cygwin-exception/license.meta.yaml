@@ -1,6 +1,6 @@
-# FIXME-CONCEPT: make license segmentation available for expressions and for license variants that are not in the "license" folder - in this case this the yaml can not be matched because of a segmentation issue which cannot be reverted, which currently might make this yaml completely useless!
-canonicalName: GNU General Public License 2.0 (with Cygwin Exception (GPL 2.0))
-category: GPL+Cygwin
+# FIXME-CONCEPT: make license segmentation available for expressions and for license variants that are not in the "license" folder - in this case the yaml can not be matched because of a segmentation issue which cannot be reverted, which currently might make this yaml completely useless!
+canonicalName: GNU General Public License 2.0 (with Cygwin Exception (GPL-2.0))
+category: GPL+Cygwin Exception
 shortName: GPL-2.0-Cygwin-Exception
 
 type: expression
@@ -8,7 +8,14 @@ type: expression
 otherIds:
   - "scancode:gpl-2.0-cygwin"
 
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with Cygwin Exception (GPL 2.0))"
+
+displayName: "GNU General Public License 2.0 (with Cygwin Exception)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
 combinedWith:
-  GNU General Public License 2.0: GNU General Public License 2.0 (with Cygwin Exception (GPL 2.0))
-  Cygwin Exception (GPL 2.0): GNU General Public License 2.0 (with Cygwin Exception (GPL 2.0))
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Cygwin Exception (GPL-2.0))
+  Cygwin Exception (GPL-2.0): GNU General Public License 2.0 (with Cygwin Exception (GPL-2.0))
 

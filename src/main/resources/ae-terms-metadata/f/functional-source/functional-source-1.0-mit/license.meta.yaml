@@ -4,10 +4,11 @@ shortName: Functional-Source-1.0-MIT
 
 otherIds:
   - "scancode:fsl-1.0-mit"
-  - "FSL-1.0-MIT"
+
 
 alternativeNames:
   - "Functional Source License, Version 1.0, MIT Change License"
+  - "FSL-1.0-MIT"
 
 canonicalNameHistory:
   - "Functional Source License 1.0 (MIT Change)"

@@ -5,6 +5,7 @@ spdxIdentifier: NGPL
 otherIds:
   - "scancode:ngpl"
   - "osi:NGPL"
+  - "osi-deprecated:nethack"
 
 alternativeNames:
   - "NETHACK GENERAL PUBLIC LICENSE"

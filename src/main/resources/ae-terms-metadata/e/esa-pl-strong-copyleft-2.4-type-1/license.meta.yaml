@@ -1,0 +1,43 @@
+canonicalName: ESA Public License 2.4 (strong copyleft; Type 1)
+category: ESA Public License
+spdxIdentifier: ESA-PL-strong-copyleft-2.4
+
+canonicalNameHistory:
+  - "European Space Agency Public License 2.4 (strong copyleft; Type 1)"
+
+alternativeNames:
+  - "European Space Agency Public License (ESA-PL) Strong Copyleft (Type 1)"
+  - "European Space Agency Public License (Strong Copyleft; Type 1)"
+  - "European Space Agency Public License (ESA-PL) Strong Copyleft (Type 1) – v2.4"
+  - "ESA-PL-strong-copyleft-2.4"
+  - "ESA-PL-Strong-Copyleft-2.4"
+  - "https://essr.esa.int/license/european-space-agency-public-license-v2-4-strong-copyleft-type-1"
+
+classification: copyleft
+
+evidence:
+  matches:
+    - "This License is governed by the laws of the ESA Member State where the Licensor resides or has his registered office"
+    - "“Member States” are the members of the European Space Agency pursuant to Art. 1 of the ESA Convention[1]"
+    - "This licence shall be governed by German law if a dispute arises with the ESA as a Licensor or if the Licensor
+       has no residence or registered office inside a Member State"
+    - "Any dispute arising out of this License shall be finally settled in accordance with the Rules of Arbitration of
+       the International Chamber of Commerce by one or more arbitrators designated in conformity with those rules"
+    - "Arbitration proceedings shall take place in Cologne, Germany"
+    - "The award shall be final and binding on the parties, no appeal shall lie against it"
+    - "The enforcement of the award shall be governed by the rules of procedure in force in the state/country
+       in which it is to be executed"
+    - "For the avoidance of doubt, You are solely responsible for compliance with current applicable requirements
+       of national laws"
+    - "The Software can be subject to export control laws"
+    - "If You export the Software it is your responsibility to comply with all export control laws"
+    - "This may include different requirements, as e.g. registering the Software with the local authorities"
+    - "If it is impossible for You to comply with any of the terms of this License due to statute, judicial
+       order or regulation You must"
+    - "comply with the terms of this License to the maximum extent possible; and describe the limitations and the
+       Object Code and/or Source Code they affect"
+    - "Such description must be included in the LEGAL notice described in Section 4"
+    - "Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed
+       for an average recipient to be able to understand it"
+  excludes:
+    - "either under (a) the terms of this License or the ESA-PL Strong Copyleft license v2.4"

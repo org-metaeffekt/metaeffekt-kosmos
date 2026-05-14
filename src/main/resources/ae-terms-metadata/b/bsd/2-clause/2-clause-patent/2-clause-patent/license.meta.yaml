@@ -5,6 +5,7 @@ spdxIdentifier: BSD-2-Clause-Patent
 otherIds:
   - "scancode:bsd-plus-patent"
   - "osi:BSDplusPatent"
+  - "osi-deprecated:bsdpluspatent"
 
 status:
   - "reviewed: 25.10.21"
@@ -21,6 +22,7 @@ alternativeNames:
   - "BSD 2-Clause Patent License"
   - "BSD-2-Clause-Patent"
   - "BSD-2-Clause Plus Patent License"
+  - "BSD-2-Clause Plus Patent"
 
 expectedSpdxMatches:
   - "BSD 2-Clause License (patent; copyright holder variant)"

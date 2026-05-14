@@ -1,0 +1,14 @@
+canonicalName: Apache License 2.0 (with Dify Modifier (Apache-2.0))
+category: Apache+Dify
+shortName: Apache-2.0-Dify-Modifier
+
+canonicalNameHistory:
+  - "Apache License 2.0 (with Dify Modifier (Apache 2.0))"
+
+type: expression
+
+displayName: "Apache License 2.0 (with Dify Modifier)"
+
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 (with Dify Modifier (Apache-2.0))
+  "Dify Modifier (Apache-2.0)": Apache License 2.0 (with Dify Modifier (Apache-2.0))

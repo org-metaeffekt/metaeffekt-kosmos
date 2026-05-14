@@ -1,6 +1,9 @@
-canonicalName: SurrealDB Exception (Business Source License 1.1)
+canonicalName: SurrealDB Exception (BSL-1.1)
 category: SurrealDB Exception
-shortName: SurrealDB-Exception-Business-Source-1.1
+shortName: SurrealDB-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "SurrealDB Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -9,7 +12,7 @@ alternativeNames:
   - "SurrealDB additional use grant for BSL"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with SurrealDB Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with SurrealDB Exception (BSL-1.1))
 
 evidence:
   matches:

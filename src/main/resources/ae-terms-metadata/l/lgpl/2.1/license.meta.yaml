@@ -1,5 +1,5 @@
 canonicalName: GNU Lesser General Public License 2.1
-category: LGPL
+category: LesserGPL
 spdxIdentifier: LGPL-2.1-only
 shortName: LGPL-2.1
 
@@ -15,6 +15,7 @@ requiresLicenseText: true
 otherIds:
   - "scancode:lgpl-2.1"
   - "osi:LGPL-2.1"
+  - "osi-deprecated:lgpl-2-1"
 
 alternativeNames:
   - "GNU Lesser General Public License, Version 2.1"
@@ -37,7 +38,6 @@ alternativeNames:
   - "GNU Lesser General Public License Version 2.1"
   - "GNU Lesser General Public License Version 2.1 (LGPL)"
   - "GNU Lesser General Public License Version 2.1, February 1999"
-  - "GNU Lesser General Public License v2.1"
   - "GNU Lesser General Public License version 2.1"
   - "GNU Lesser General Public License version 2.1 (LGPLv2.1)"
   - "GNU Lesser General Public License, 2.1"
@@ -97,7 +97,12 @@ alternativeNames:
   - "https://licencas.softwarelivre.org/lgpl-2.1.pt-br.pdf"
   - "https://licencas.softwarelivre.org/lgpl-2.1.pt-br.odt"
   - "http://jxself.org/translations/lgpl-2.1.ru.shtml"
-
+  - "GNU Lesser General Public License v. 2.1"
+  - "GNU Lesser General Public License v.2.1"
+  - "GNU Lesser General Public License v2.1"
+  - "GNU Lesser General Public License v2.1 only" # identification purposes
+  - "Lesser General Public License version 2.1"
+  - "Lesser General Public License Version 2.1"
 
 evidence:
   matches:

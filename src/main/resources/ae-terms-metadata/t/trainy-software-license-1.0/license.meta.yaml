@@ -1,0 +1,33 @@
+canonicalName: Trainy Software License 1.0
+category: Trainy Software License
+shortName: Trainy-Software-License-1.0
+
+otherIds:
+  - "scancode:trainy-1.0"
+
+secondaryLicenses:
+  - "Apache License 2.0"
+
+expectedMatches:
+  - "Apache License 2.0"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this License, Trainy hereby grants you a non-exclusive, royalty-free copyright 
+       license to reproduce, modify, create derivative works, publicly perform, publicly display and redistribute 
+       the Software for any purpose that is not a Restriction"
+    - "Subject to your compliance with this License, the license grant above includes a license under our Applicable Patents"
+    - "Without limiting the foregoing, you may use the Software for your internal purposes and for non-commercial purposes"
+    - "We grant you no rights except as expressly set forth in this License"
+    - "If you distribute any copies, improvements, modifications or derivatives (“Derivatives”) of the Software, 
+       this License will apply to you must include a copy of or a link to this License"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "Except as provided in the prior sentence, we grant you no rights in or to our Trademarks, whether expressly, by implication, estoppel or otherwise. # Disclaimer. THE SOFTWARE IS PROVIDED \"AS IS\" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, TITLE OR NONINFRINGEMENT. IN NO EVENT WILL WE HAVE ANY LIABILITY TO YOU ARISING OUT OF OR RELATED TO THE SOFTWARE, INCLUDING INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, EVEN IF WE HAVE BEEN INFORMED OF THEIR POSSIBILITY IN ADVANCE. # Apache License. Subject to your compliance with this License, Trainy hereby grants you a license to use the Software under the Apache License, Version 2.0, currently available at http://www.apache.org/licenses/LICENSE-2.0 (the “Apache License”), provided that you hereby covenant and agree not to use the Software under the Apache License until the third anniversary",
+      matchNext:
+        "This repo is a fork of the original Apache 2.0 Licensed project Skypilot modified from https://github.com/skypilot-org/skypilot You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0"
+    },
+]

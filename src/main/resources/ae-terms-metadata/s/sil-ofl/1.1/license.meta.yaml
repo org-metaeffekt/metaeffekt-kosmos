@@ -5,6 +5,7 @@ spdxIdentifier: OFL-1.1
 otherIds:
   - "scancode:ofl-1.1"
   - "osi:OFL-1.1"
+  - "osi-deprecated:ofl-1-1"
 
 requiresCopyright: true
 requiresLicenseText: true

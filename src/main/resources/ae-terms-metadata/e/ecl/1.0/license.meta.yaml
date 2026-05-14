@@ -4,6 +4,7 @@ spdxIdentifier: ECL-1.0
 
 otherIds:
   - "scancode:ecl-1.0"
+  - "osi-deprecated:ecl-1-0"
 
 alternativeNames:
   - "Educational Community License 1.0"

@@ -28,7 +28,7 @@ evidence:
        obligated to grant this special exception for their modified versions"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "In addition to the permissions in the GNU Lesser General Public License, the
          Free Software Foundation gives you unlimited permission to link the compiled

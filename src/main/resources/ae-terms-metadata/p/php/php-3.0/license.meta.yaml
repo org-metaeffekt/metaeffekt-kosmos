@@ -5,6 +5,7 @@ spdxIdentifier: PHP-3.0
 otherIds:
   - "scancode:php-3.0"
   - "osi:PHP-3.0"
+  - "osi-deprecated:php-3-0"
 
 requiresCopyright: true
 requiresLicenseText: true
@@ -15,6 +16,7 @@ alternativeNames:
   - "PHP License, 3.0"
   - "PHP License 3.0"
   - "PHP License, version 3.0"
+  - "PHP License v3.0"
 
 evidence:
   matches:
@@ -80,7 +82,7 @@ licenseTemplate:
     has the right to modify the terms applicable to covered code created under
     this License.</li>
     <li>Redistributions of any form whatsoever must retain the following acknowledgment:
-    <i>\"This product includes PHP, freely available from <http://www.php.net/>\".</i></li></ol>
+    <i>\"This product includes PHP, freely available from &lt;http://www.php.net/&gt;\".</i></li></ol>
     <codeph>THIS SOFTWARE IS PROVIDED BY THE PHP DEVELOPMENT TEAM ``AS IS'' AND ANY EXPRESSED
     OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
     OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN

@@ -8,6 +8,7 @@ otherIds:
 alternativeNames:
   - "Microsoft Visual Studio Code License"
   - "MICROSOFT VISUAL STUDIO CODE"
+  - "MS Visual Studio Code License"
 
 evidence:
   matches:
@@ -22,7 +23,7 @@ evidence:
     - "You have statutory guarantees under the Australian Consumer Law and nothing in this agreement is intended to affect those rights"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "required to debug changes to any libraries licensed under the GNU Lesser General Public License which are 
          included with and linked to by the software"

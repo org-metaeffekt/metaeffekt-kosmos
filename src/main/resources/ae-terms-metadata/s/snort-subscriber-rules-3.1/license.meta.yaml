@@ -1,0 +1,26 @@
+canonicalName: SNORT Subscriber Rules License Agreement 3.1
+category: SNORT Subscriber Rules
+shortName: SNORT-Subscriber-Rules-3.1
+
+otherIds:
+  - "scancode:snort-subscriber-rules-3.1"
+
+alternativeNames:
+  - "SNORT Subscriber Rules License Agreement v3.1"
+  - "SNORT SUBSCRIBER RULES LICENSE AGREEMENT (v. 3.1)"
+
+evidence:
+  matches:
+    - "IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT DOWNLOAD, INSTALL OR USE THE RULES"
+    - "If You are a Subscriber, then subject to the terms and conditions of this Agreement, Cisco grants You a world-wide and non-exclusive license to"
+    - "download, install and use the Rules only on that number of Sensors for which You have paid the applicable license fee"
+    - "Modify the Rules and install and use those Modified Rules consistent with Section 2.1"
+    - "reproduce the Rules as strictly necessary in exercising Your rights under this Section 2.1"
+    - "make the Rules and any Modification available to Your consultants, agents and subcontractors for the limited purpose of exercising Your rights under this Section 2.1 provided that such use is in compliance with this Agreement"
+    - "You agree that You will NOT at any time do any of the following without Cisco’s prior written consent"
+    - "use, deploy, modify, license, transfer, display, reproduce, distribute or disclose the Rules or Modifications (even if merged with other materials as a Compilation) other than as allowed under Section 2.1 if You are a Subscriber or under Section 2.2 if You are a Registered User"
+
+references:
+  "GPL":
+    matches:
+      - "The Community Rules are not governed by this Agreement and are separately made available for use under the GNU General Public License (GPL), v2"

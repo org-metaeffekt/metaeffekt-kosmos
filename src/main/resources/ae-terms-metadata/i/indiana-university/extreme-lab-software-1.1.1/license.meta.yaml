@@ -19,6 +19,10 @@ otherIds:
 alternativeNames:
   - "http://www.bearcave.com/software/java/xml/xmlpull_license.html"
   - "Indiana University Extreme! Lab Software License Version 1.1.1"
+  - "Indiana University Extreme! Lab Xml Pull Parser License v1.1.1"
+
+alternativeShortNames:
+  - "XPP-1.1.1"
 
 evidence:
   matches:

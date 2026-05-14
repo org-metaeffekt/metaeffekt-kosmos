@@ -1,0 +1,34 @@
+canonicalName: Microsoft Research License Terms
+category: Microsoft Research
+shortName: MS-Research-Terms
+
+otherIds:
+  - "scancode:ms-research-license-terms"
+
+alternativeNames:
+  - "MS Research License Terms"
+
+evidence:
+  matches:
+    - "Subject to the terms of this agreement, you have the below rights, if applicable, to use The Materials solely for non-commercial, non-revenue generating, research purposes"
+    - "If source code is included, you may use and modify the source code, but you may not distribute the source code"
+    - "If object code is included, you may use the object code, but you may not distribute the object code"
+    - "If Data is included, you may use and modify the data, but you may not distribute the data"
+    - "Notwithstanding the limitations in Section 1 (a), (b), and (c), you may
+      distribute your modifications back to Microsoft, and if you do provide Microsoft with modifications of The
+      Materials, you hereby grant Microsoft, without any restrictions or limitations, a non-exclusive, perpetual,
+      irrevocable, royalty-free, assignable and sub-licensable license, to reproduce, publicly perform or display,
+      install, use, modify, post, distribute, make and have made, sell and transfer such modifications and
+      derivatives for any purpose"
+    - "You may publish (or present papers or articles) on your results from using The Materials
+      provided that no material or substantial portion of The Materials is included in any such publication or
+      presentation"
+
+segmentation:
+  revert: [
+    {   match:
+          "If U.S. federal jurisdiction exists, you and Microsoft consent to exclusive jurisdiction and venue in the federal court in King County, Washington for all disputes heard in court (excluding arbitration). If not, you and Microsoft consent to exclusive jurisdiction and venue in the Superior Court of King County, Washington for all disputes heard in court (excluding arbitration).",
+        matchNext:
+          "12) CONSUMER RIGHTS; REGIONAL VARIATIONS. This agreement describes certain legal rights. You may have other rights, including consumer rights, under the laws of your state, province, or country"
+    },
+  ]

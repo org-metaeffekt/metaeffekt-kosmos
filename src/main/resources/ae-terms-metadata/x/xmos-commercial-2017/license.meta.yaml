@@ -1,0 +1,41 @@
+canonicalName: XMOS Commercial License 2017
+category: XMOS Commercial
+shortName: XMOS-Commercial-2017
+
+otherIds:
+  - "scancode:xmos-commercial-2017"
+
+alternativeNames:
+  - "XMOS Commercial 2017"
+  - "XMOS Commercial License 2017"
+  - "XMOS Commercial Licence 2017"
+  - "xmos-commercial-2017"
+
+evidence:
+  matches:
+    - "The headings in this License do not affect its interpretation"
+    - "Save where the context otherwise requires, references to clauses and schedules are to clauses
+       and schedules of this License"
+    - "XMOS grants the Customer a non-exclusive license to use, develop, modify and distribute the XMOS Software with,
+       or for the purpose of being used with, XMOS Hardware"
+    - "Open Source Software (OSS) must be used and dealt with in accordance with any license terms under which OSS is
+       distributed"
+    - "In consideration of the mutual obligations contained in this License, the parties agree to its terms"
+    - "Subject to clause 12 below, this License shall be perpetual"
+    - "The Customer will adhere to all applicable import and export laws and regulations of the country in which
+       it resides and of the United States and United Kingdom, without limitation"
+    - "The Customer agrees that it is its responsibility to obtain copies of and to familiarise itself fully with
+       these laws and regulations to avoid violation"
+    - "The Customer may only use the Licensee Modifications and XMOS Modifications on, or in relation to, XMOS Hardware"
+    - "Support of the XMOS Software may be provided by XMOS pursuant to a separate support agreement"
+    - "The XMOS Software is not designed or intended for use in conjunction with on-line control equipment in hazardous
+       environments requiring fail-safe performance, including without limitation the operation of nuclear facilities,
+       aircraft navigation or communication systems, air traffic control, life support machines, or weapons systems
+       (collectively 'High Risk Activities') in which the failure of the XMOS Software could lead directly to death,
+       personal injury, or severe physical or environmental damage"
+    - "XMOS and its licensors specifically disclaim any express or implied warranties relating to use of the XMOS
+       Software in connection with High Risk Activities"
+    - "The Customer shall not assign this License or any of the rights granted under it without XMOS's prior written consent"
+    - "This License shall be governed by and construed in accordance with English law and each party hereby submits to
+       the non-exclusive jurisdiction of the English courts"
+    - "This License has been entered into on the date stated at the beginning of it"

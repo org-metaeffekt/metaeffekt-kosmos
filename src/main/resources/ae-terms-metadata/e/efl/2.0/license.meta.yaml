@@ -5,6 +5,7 @@ spdxIdentifier: EFL-2.0
 otherIds:
   - "scancode:efl-2.0"
   - "osi:EFL-2.0"
+  - "osi-deprecated:ver2_eiffel"
 
 alternativeNames:
   - "EFL, Version 2.0"
@@ -12,6 +13,7 @@ alternativeNames:
   - "EFL 2.0"
   - "EFL-2.0"
   - "Eiffel Forum License, version 2"
+  - "Eiffel Forum License v2.0"
 
 grants:
   Source code delivery OR Binary delivery:

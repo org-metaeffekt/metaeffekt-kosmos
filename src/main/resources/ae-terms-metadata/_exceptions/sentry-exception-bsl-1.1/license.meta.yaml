@@ -1,0 +1,32 @@
+canonicalName: Sentry Exception (BSL-1.1)
+category: Sentry Exception
+shortName: Sentry-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "Sentry Exception (Business Source License 1.1)"
+
+comments:
+  - "source: https://github.com/getsentry/sentry/blob/3ea2a27cc79279cf0423a0c77af7bc642c7b0e8f/LICENSE"
+
+type: exception
+
+combinedWith:
+  Business Source License 1.1: Business Source License 1.1 (with Sentry Exception (BSL-1.1))
+
+evidence:
+  matches:
+    - "You may make use of the Licensed Work, provided that you do
+      not use the Licensed Work for an Application Monitoring Service"
+    - "to access the functionality of the Licensed
+      Work so that such third parties directly benefit from the
+      error-reporting or application monitoring features of the Licensed Work"
+
+references:
+  "Business Source":
+    matches:
+      - "Business Source License 1.1
+
+        Parameters
+        
+        Licensor:             Functional Software, Inc.
+        Licensed Work:        Sentry"

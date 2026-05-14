@@ -1,4 +1,4 @@
-canonicalName: Gigablast Exception (Apache 2.0)
+canonicalName: Gigablast Exception (Apache-2.0)
 category: Gigablast Exception
 shortName: Gigablast-Exception-Apache-2.0
 
@@ -7,8 +7,11 @@ type: exception
 otherIds:
   - "scancode:gigablast-apache-2.0-exception"
 
+canonicalNameHistory:
+  - "Gigablast Exception (Apache 2.0)"
+
 combinedWith:
-  Apache License 2.0: Apache License 2.0 (with Gigablast Exception (Apache 2.0))
+  Apache License 2.0: Apache License 2.0 (with Gigablast Exception (Apache-2.0))
 evidence:
   matches:
     - "The SEO (Search Engine Optimiazation) functionality is provided in a separate 

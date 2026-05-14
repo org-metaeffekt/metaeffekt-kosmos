@@ -1,0 +1,28 @@
+# NOTE: we name all licenses that follow a similar style and that have been released by canadian authorities as "Open Government License Canada..." following the version and the concrete jurisdiction it applies to.
+# make sure to spell it as "License"!
+canonicalName: Open Government License Canada 2.1 (Alberta)
+category: OGL Canada
+shortName: OGL-Canada-2.1-Alberta
+
+otherIds:
+  - "scancode:can-ogl-alberta-2.1"
+
+canonicalNameHistory:
+  - "Open Government Licence Alberta 2.1"
+
+alternativeNames:
+  - "Open Government Licence - Alberta"
+
+evidence:
+  matches:
+    - "You are encouraged to use the Information that is available under this licence with only a few conditions"
+    - "If the Information Provider does not provide a specific attribution statement, or if you are using Information from several Information Providers and multiple attributions
+       are not practical for your product or application, you must use the following attribution statement"
+    - "Contains information licensed under the Open Government Licence – Alberta"
+    - "The terms of this licence are important, and if you fail to comply with any of them, the rights granted to you under this licence, or any similar licence granted by the Information Provider, will end automatically"
+    - "This licence does not grant you any right to use:
+       Personal Information;
+       Information or Records that are not accessible under applicable laws;
+       third party rights the Information Provider is not authorized to license;
+       the names, crests, logos, or other official symbols of the Information Provider; and
+       Information subject to other intellectual property rights, including patents, trade-marks and official marks"

@@ -1,0 +1,28 @@
+canonicalName: Microsoft Azure RTOS License 2020-07
+category: Microsoft Azure RTOS
+shortName: MS-Azure-RTOS-2020-07
+
+otherIds:
+  - "scancode:ms-azure-rtos-2020-07"
+
+canonicalNameHistory:
+  - "Microsoft Azure RTOS 2020-07"
+
+alternativeNames:
+  - "Microsoft Azure RTOS 2020-07"
+  - "ms-azure-rtos-2020-07"
+  - "MS-Azure-RTOS-2020-07"
+
+evidence:
+  matches:
+    - "This software may interact with other Microsoft products that collect data that is transmitted to Microsoft"
+    - "To learn more about how Microsoft processes personal data we collect, please see the Microsoft Privacy Statement
+       at https://go.microsoft.com/fwlink/?LinkId=248681"
+    - "You must comply with all domestic and international export laws and regulations that apply to the software,
+       which include restrictions on destinations, end users, and end use"
+    - "For further information on export restrictions, visit https://aka.ms/exporting"
+    - "Any distribution or production use requires a separate license as set forth in Section 2"
+
+ignoreMatches:
+  # NOTE: needed because we cannot differentiate between the versions and need to keep this yaml for the sake of completeness (scancodeID)
+  - "Microsoft Azure RTOS License 2020-05"

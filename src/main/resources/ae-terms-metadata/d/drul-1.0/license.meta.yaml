@@ -1,0 +1,25 @@
+canonicalName: Detection Rule Usage License 1.0
+category: Detection Rule Usage License (DRUL)
+shortName: DRUL-1.0
+
+otherIds:
+  - "scancode:drul-1.0"
+
+alternativeNames:
+  - "Detection Rule Usage License (DRUL) 1.0"
+  - "Detection Rule Usage License 1.0"
+  - "Detection Rule Usage License (DRUL)"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of charge, to any person obtaining a copy
+       of this rule set and associated documentation files (the 'Rules'), to deal
+       in the Rules without restriction, including without limitation the rights
+       to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+       of the Rules, and to permit persons to whom the Rules are furnished to do so,
+       subject to the following condition"
+    - "Attribution — You must give appropriate credit to the original author(s) of the
+       Rules, and indicate if changes were made"
+    - "You may do so in any reasonable manner, but not in any way that suggests the licensor
+       endorses you or your use"
+    - "Wherever feasible, a link to the original project should be included"

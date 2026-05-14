@@ -12,6 +12,8 @@ otherIds:
 alternativeNames:
   - "MITNFA"
   - "MIT +no-false-attribs license"
+  - "MIT with no false attribution License"
+  - "MIT with no-false-attribs"
 
 representedAs: MIT License
 requiresCopyright: true

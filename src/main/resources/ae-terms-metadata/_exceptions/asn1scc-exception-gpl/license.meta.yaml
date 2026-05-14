@@ -1,10 +1,11 @@
 canonicalName: ASN1SCC Exception (GPL)
 category: ASN1SCC Exception
-shortName: ASN1SCC-Exception
-
-# should have a scancodeID shortly
+shortName: ASN1SCC-Exception-GPL
 
 type: exception
+
+otherIds:
+  - "scancode:asn1cc-exception-gpl-2.0"
 
 combinedWith:
   "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (or any later version; with ASN1SCC Exception (GPL))"

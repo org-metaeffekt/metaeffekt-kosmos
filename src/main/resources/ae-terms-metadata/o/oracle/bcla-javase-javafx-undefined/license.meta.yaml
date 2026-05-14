@@ -1,0 +1,14 @@
+canonicalName: Oracle Binary Code License Agreement (Java SE and JavaFX; undefined)
+category: Oracle BCLA
+shortName: Oracle-BCLA-Java-SE-Java-FX-?
+
+unspecific: true
+
+# NOTE: this is needed due to external matching requirements when we just have names for identification.
+
+alternativeNames:
+  - "Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX"
+  - "Oracle Binary Code License Agreement for the Java SE Platform Products" # this is problematic if we add licenses without JavaFX; needs to be removed then, fine for now
+  - "Oracle BCL for Java SE and JavaFX"
+  - "Oracle Binary Code License Agreement for Java SE and JavaFX"
+  - "Oracle-BCLA-Java-SE-Java-FX"

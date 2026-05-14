@@ -19,7 +19,7 @@ references:
          options are available, you may download the GPL Source Code from the same website"
       - "Information about how to make a written request for GPL Source Code may be found in the ancillary.txt file or,
          if an address is not listed in that file, at the following website: www.hp.com."
-  "LGPL":
+  "LesserGPL":
     matches:
       - "If the Software includes Ancillary Software licensed under the GNU General Public License and/or under
          the GNU Lesser General Pubic License ('GPL Software')"

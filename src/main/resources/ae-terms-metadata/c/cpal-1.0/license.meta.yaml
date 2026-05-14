@@ -5,11 +5,14 @@ spdxIdentifier: CPAL-1.0
 otherIds:
   - "scancode:cpal-1.0"
   - "osi:CPAL-1.0"
+  - "osi-deprecated:cpal-1-0"
 
 alternativeNames:
   - "Common Public Attribution License 1.0"
   - "CPAL-1.0"
   - "Common Public Attribution License Version 1.0"
+  # NOTE: this needs to be preserved to match external naming schemes
+  - "Common Public Attribution License Version 1.0 (CPAL)"
 
 evidence:
   matches:

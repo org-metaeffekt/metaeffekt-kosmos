@@ -1,0 +1,14 @@
+canonicalName: Apache License 2.0 (with Dokploy Modifier (Apache-2.0))
+category: Apache+Dokploy
+shortName: Apache-2.0-Dokploy-Modifier
+
+canonicalNameHistory:
+  - "Apache License 2.0 (with Dokploy Modifier (Apache 2.0))"
+
+type: expression
+
+displayName: "Apache License 2.0 (with Dokploy Modifier)"
+
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 (with Dokploy Modifier (Apache-2.0))
+  "Dokploy Modifier (Apache-2.0)": Apache License 2.0 (with Dokploy Modifier (Apache-2.0))

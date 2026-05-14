@@ -1,0 +1,49 @@
+canonicalName: Oracle VirtualBox Extension Pack Personal Use and Educational License 12
+category: Oracle VirtualBox EP PUEL
+shortName: Oracle-VB-EP-PUEL-12
+
+otherIds:
+  - "scancode:oracle-vb-puel-12"
+
+alternativeNames:
+  - "Oracle VirtualBox Extension Pack Personal Use and Educational License (PUEL) v12"
+  - "Oracle VirtualBox Extension Pack Personal Use and Educational License 12"
+  - "Oracle VirtualBox EP PUEL"
+  - "Oracle-VB-EP-PUEL-12"
+  - "Oracl-VB-PUEL-12"
+
+evidence:
+  matches:
+    - "The Product and copies thereof provided to you under this Agreement are copyrighted and licensed, not sold,
+       to you by Oracle"
+    - "You may not do any of the following: (a) modify any part of the Product, except to the extent allowed in the
+       documentation accompanying the Product; (b) rent, lease, lend, re-distribute, or encumber the Product; (c)
+       remove or alter any proprietary legends or notices contained in the Product; or (d) decompile, or reverse
+       engineer the Product (except to the extent permitted by applicable law)"
+    - "The Product is not designed, licensed or intended for use in the design, construction, operation or maintenance
+       of any nuclear facility and Oracle and its licensors disclaim any express or implied warranty of fitness for
+       such uses"
+    - "No right, title or interest in or to any trademark, service mark, logo or trade name of Oracle or its licensors
+       is granted under this Agreement"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "3 Restrictions and Reservation of Rights.",
+      matchNext:
+        "(1) The Product and copies thereof provided to you under this Agreement"
+    },
+    {
+      match:
+        "or reverse engineer the Product (except to the extent permitted by applicable law).",
+      matchNext:
+        "(3) The Product is not designed, licensed or intended for use in the design, construction, operation or maintenance of any nuclear facility"
+    },
+    {
+      match:
+        "disclaim any express or implied warranty of fitness for such uses.",
+      matchNext:
+        "(4) No right, title or interest in or to any trademark, service mark, logo or trade name of"
+    }
+  ]

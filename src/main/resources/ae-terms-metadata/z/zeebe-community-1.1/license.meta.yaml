@@ -1,0 +1,21 @@
+canonicalName: Zeebe Community License 1.1
+category: Zeebe Community License
+shortName: Zeebe-Community-1.1
+
+otherIds:
+  - "scancode:zeebe-community-1.1"
+
+alternativeNames:
+  - "Zeebe Community License v1.1"
+  - "Zeebe Community License 1.1"
+  - "zeebe-community-1.1"
+  - "Zeebe-Community-1.1"
+
+evidence:
+  matches:
+    - "If the Licensee distributes the Software or any derivative works of the Software, the Licensee must
+       attach this Agreement"
+    - "Without limiting other conditions in this Agreement, the grant of rights under this Agreement does
+       not include the right to provide a Commercial Process Automation Service"
+    - "If the Licensee is in breach of the Conditions, this Agreement, including the rights granted under it,
+       will automatically terminate with immediate effect"

@@ -5,6 +5,7 @@ shortName: CNRI-Python-1.6b1
 
 otherIds:
   - "osi:CNRI-Python"
+  - "osi-deprecated:cnri-python"
 
 # please always check that the correct version is references. Per default we mab to the 1.6 version (2005-09).
 alternativeNames:

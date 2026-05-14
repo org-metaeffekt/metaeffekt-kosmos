@@ -1,4 +1,4 @@
-canonicalName: "GNU General Public License 1.0 (or any later version)"
+canonicalName: GNU General Public License 1.0 (or any later version)
 category: GPL
 spdxIdentifier: GPL-1.0-or-later
 shortName: GPL-1.0+
@@ -22,3 +22,5 @@ alternativeNames:
   - "GNU General Public License as published by the Free Software Foundation; either version 1, or (at your option)
      any later version"
   - "GNU General Public License, version 1 or later"
+  - "GNU General Public License v1.0 or later"
+  - "GNU General Public License 1.0 or later"

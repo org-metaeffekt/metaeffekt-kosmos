@@ -30,7 +30,7 @@ evidence:
 
 # NOTE: original license text states "CERN OHL, Verstion 1.1 or later" - this is fixed by a mapping - meaning that references must also use the corrected version.
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "1.12. \"Secondary License\"
         means either the GNU General Public License, Version 2.0 or later,

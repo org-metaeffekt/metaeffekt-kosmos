@@ -5,6 +5,7 @@ spdxIdentifier: Nokia
 otherIds:
   - "scancode:nokos-1.0a"
   - "osi:nokia"
+  - "osi-deprecated:nokia"
 
 alternativeNames:
   - "Nokia License"

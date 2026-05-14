@@ -1,0 +1,56 @@
+canonicalName: Joplin Server Personal Use License 1.0
+category: Joplin Server Personal Use
+shortName: Joplin-Server-Personal-1.0
+
+otherIds:
+  - "scancode:joplin-server-personal-v1"
+
+alternativeNames:
+  - "Joplin Server Personal Use License v1"
+  - "Joplin Server Personal Use License 1.0"
+  - "Joplin Server Personal Use"
+  - "joplin-server-personal-v1"
+  - "Joplin-Server-Personal-1.0"
+  - "JOPLIN SERVER PERSONAL USE LICENSE"
+
+evidence:
+  matches:
+    - "The Licensor hereby grants the Licensee a worldwide, non-exclusive,
+       royalty free, and revocable license to access and use the Software in
+       accordance with the terms of this License and the applicable laws"
+    - "Subject to the terms of the License, the Licensee is entitled to access and use the
+       Software for non-commercial purposes for taking personal and professional notes, sharing
+       notes with other users of the Software, and synchronising data"
+    - "Unless authorised by the Licensor in writing, the Software may be used
+       for personal non-commercial purposes only"
+    - "The Licensee is allowed to grant access to the Software to others for non-commercial purposes,
+       provided that (i) the Licensee is not a business entity, (ii) the Licensee or the third
+       party to which the access is granted does not use the Software to generate profits of any kind,
+       and (iii) the Software is used for non-commercial purposes only"
+    - "The Licensee is not allowed to: (i) use the Software for commercial purposes and (ii) grant others
+       the right to use the Software for a fee or for any commercial purposes, including, without limitation,
+       copying, reproducing, publishing, transmitting, transferring, selling, renting, modifying, creating
+       derivative works from, distributing, reposting, performing, displaying, or in any other way commercially
+       exploiting the Software without prior written authorisation from the Licensor"
+    - "By way of illustration, the Licensee is not allowed to"
+    - "Install the Software on Licensee's infrastructure and charge others for the use of the Software"
+    - "Install the Software behind a proxy and charge others for the use of the Software"
+    - "Install the Software on a Licensee's or third party's server and provide access to the Software to third
+       parties (a) for a fee or (b) free of charge, if the said third parties may use the Software for commercial
+       purposes"
+    - "Grant access to the Software to others for a fee or for any commercial purposes"
+    - "Grant access to the Software to others for a fee or free of charge if the Licensee is a legal or natural
+       person engaged in commercial activities; or"
+    - "Use the Software or grant other the right to use the Software in a way that generates income or commercial profits"
+    - "This License does not govern any commercial use of the Software, as authorised by the Licensor"
+    - "The Software is licensed and not sold"
+    - "By accepting the License, the Licensee obtains the right to use the Software and not the ownership of the Software"
+    - "The Licensor reserves any rights not expressly granted to the Licensee under this License"
+    - "The Licensee is permitted to load and run the Software on any device, network or cloud virtual machines under
+       Licensee's control (collectively, the '**Devices**'), if such Devices are compatible with the Software"
+    - "The Licensee is solely responsible for assessing the compatibility of the Devices to be used with the Software"
+    - "It is Licensee's sole responsibility to verify and assess the suitability, validity and integrity of the Software
+       prior to using it and to decide whether or not the Software fits for the intended use"
+    - "The Licensor reserves the right to grant the right to use the Software to third parties"
+    - "The Licensee acknowledges and agrees that any use of the Software that is prohibited by this License may be
+       unlawful and may result in Licensee's criminal liability"

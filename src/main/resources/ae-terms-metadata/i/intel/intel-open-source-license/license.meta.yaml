@@ -8,6 +8,7 @@ requiresLicenseText: true
 
 otherIds:
   - "scancode:intel-bsd-export-control"
+  - "osi-deprecated:intel"
 
 alternativeNames:
   - "Intel Open Source License"

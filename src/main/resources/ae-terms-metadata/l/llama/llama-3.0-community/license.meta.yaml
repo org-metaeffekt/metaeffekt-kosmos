@@ -1,0 +1,41 @@
+canonicalName: Llama 3.0 Community License Agreement
+category: Llama
+shortName: Llama-3.0-Community
+
+otherIds:
+  - "scancode:llama-3.0-license-2024"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Llama 3.0 Community License Agreement 2024"
+  - "LLaMa 3.0 Community License Agreement 2024"
+  - "LLAMA 3.0 COMMUNITY LICENSE AGREEMENT"
+
+evidence:
+  matches:
+    - "You are granted a non-exclusive, worldwide, non-transferable and royalty-free
+      limited license under Meta’s intellectual property or other rights owned by Meta embodied in the Llama
+      Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the
+      Llama Materials"
+    - "If you receive Llama Materials, or any derivative works thereof, from a Licensee as part 
+      of an integrated end user product, then Section 2 of this Agreement will not apply to you"
+    - "Your use of the Llama Materials must comply with applicable laws and regulations"
+    - "You will not use the Llama Materials or any output or results of the Llama Materials to
+      improve any other large language model"
+    - "If, on the Meta Llama 3 version release date, the monthly active users
+      of the products or services made available by or for Licensee, or Licensee’s affiliates, is greater than 700
+      million monthly active users in the preceding calendar month, you must request a license from Meta"
+    - "UNLESS REQUIRED BY APPLICABLE LAW, THE LLAMA MATERIALS AND ANY
+      OUTPUT AND RESULTS THEREFROM ARE PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OF
+      ANY KIND, AND META DISCLAIMS ALL WARRANTIES OF ANY KIND, BOTH EXPRESS AND IMPLIED,
+      INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF TITLE, NON-INFRINGEMENT,
+      MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE"
+    - "IN NO EVENT WILL META OR ITS AFFILIATES BE LIABLE UNDER ANY THEORY OF
+      LIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, PRODUCTS LIABILITY, OR OTHERWISE, ARISING
+      OUT OF THIS AGREEMENT, FOR ANY LOST PROFITS OR ANY INDIRECT, SPECIAL, CONSEQUENTIAL,
+      INCIDENTAL, EXEMPLARY OR PUNITIVE DAMAGES, EVEN IF META OR ITS AFFILIATES HAVE BEEN ADVISED
+      OF THE POSSIBILITY OF ANY OF THE FOREGOING"
+    - "Subject to Meta’s ownership of Llama Materials and derivatives made by or for Meta, with
+      respect to any derivative works and modifications of the Llama Materials that are made by you, as
+      between you and Meta, you are and will be the owner of such derivative works and modifications"

@@ -1,0 +1,44 @@
+canonicalName: Moderne Source Available License
+category: Moderne Source Available License
+shortName: Moderne-Source-Available-License
+
+otherIds:
+  - "scancode:moderne-sala-2024"
+
+alternativeNames:
+  - "Moderne Source Available License"
+  - "Moderne-Source-Available-License"
+  - "Moderne Source Available License Agreement"
+
+evidence:
+  matches:
+    - "You may not and will not make the functionality of the Software or a Modified version available to third
+       parties as a service or distribute the Software or a Modified version in a manner that makes the functionality
+       of the Software directly or indirectly available to third parties"
+    - "Making the functionality of the Software or Modified version available to third parties includes, without
+       limitation, enabling third parties to interact with the functionality of the Software or Modified version
+       in distributed form or remotely through a computer network, offering a product or service, the value of which
+       derives to any extent from the value of the Software or Modified version, or offering a product or service that
+       accomplishes for users any purpose of the Software or Modified version"
+    - "The Licensor grants You a license, under any of the Licensor’s patent claims covering the Software, to make,
+       have made, use, import and have imported the Software, in each case subject to, and conditional upon compliance
+       with, the limitations and conditions in this Agreement"
+    - "This license does not cover any patent claims that You cause to be infringed by Modifications or additions to
+       the Software"
+    - "If You or Your Company make any claim that the Software (or any Modification owned by or available from the
+       Licensor) infringes or contributes to infringement of any patent, the patent license granted under this
+       Agreement ends immediately"
+    - "You must ensure that anyone who gets a copy of any part of the Software or a Modification from You also gets
+       a copy of the terms and conditions in this Agreement"
+    - "If You modify the Software, You must include in any Modified copies of the Software prominent notices stating
+       that You have Modified the Software"
+    - "The terms and conditions of this Agreement do not imply any licenses other than those expressly granted in this Agreement"
+    - "If You violate this Agreement or if You engage in any activity regarding the Software beyond or in conflict
+       with the terms of this Agreement, such activity is not licensed, and Your Licenses will automatically terminate"
+    - "If the Licensor provides You with a notice of your violation and gives you an option to cure, and You cease and
+       cure all violations of this License no later than 30 days after You receive that notice, Your Licenses will be
+       reinstated retroactively"
+    - "However, if You violate this Agreement after such reinstatement, any additional violation of this Agreement
+       will cause your Licenses to terminate automatically and permanently"
+
+

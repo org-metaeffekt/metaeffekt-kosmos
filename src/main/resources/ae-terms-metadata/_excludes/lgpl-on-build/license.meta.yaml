@@ -3,17 +3,29 @@ category: LGPL on build
 shortName: LGPL-on-build
 
 ignore: true
+
 type: reference
 
 alternativeNames:
   - "LGPL on build"
 
+# needed for evidence (or excludes) shorter than 3 words:
+expressiveEvidence: true
+
 references:
   "LGPL":
     matches:
-    - "is licensed under the LGPL (please see individual files"
+      - "that uses the GNU LGPL--only the original English text of the GNU LGPL does that"
+      - "help Portuguese speakers understand the GNU LGPL better"
+      - "As a relaxation of clause 6 of the LGPL"
+  "LesserGPL":
+    matches:
+    - "The concept of the GNU Lesser General Public License version 2.1
+      (\"LGPL\") has been adopted to govern the use and distribution of above-
+      mentioned application"
+    - "If the terms of the GNU Lesser General Public License could not be determined on the date of certification"
 
 evidence:
-  matches:
-    - "is licensed under the LGPL (please see individual files"
-    - "This code is only referenced when building"
+  excludes:
+    - "OCaml-LGPL-linking-exception" # SPDX identifier standalone matches LGPL (undefined)
+    - "Qt-LGPL-exception-1.1" # SPDX identifier standalone matches LGPL (undefined)

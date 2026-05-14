@@ -1,0 +1,13 @@
+canonicalName: GNU Lesser General Public License 3.0 (with Linking Exception (undefined))
+category: LGPL+Linking
+shortName: LGPL-3.0-Linking-Exception-?
+
+type: expression
+
+alternativeNames:
+  - "LGPL-3.0-with-linking-exception"
+  - "GNU Lesser General Public License v3.0 w/Linking exception"
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": GNU Lesser General Public License 3.0 (with Linking Exception (undefined))
+  "Linking Exception (undefined)": GNU Lesser General Public License 3.0 (with Linking Exception (undefined))

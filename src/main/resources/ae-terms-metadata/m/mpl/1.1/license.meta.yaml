@@ -9,6 +9,7 @@ requiresLicenseText: false
 
 otherIds:
   - "scancode:mpl-1.1"
+  - "osi-deprecated:mpl-1-1"
 
 alternativeNames:
   - "Mozilla Public License, Version 1.1"
@@ -87,6 +88,8 @@ evidence:
     - "The contents of this file are subject to the SNIA Public License Version 1.0"
     - "Your version of the license contains terms which differ from the Sun Public License"
     - "Alternatively, the contents of this file may be used under the terms of the GNU Lesser General Public License Version 2.1 or later"
+    - "otherwise make it clear that your version of the license contains terms which differ 
+      from the Open Public License" # Open Public License 1.0
 
 grants:
   Source code delivery:

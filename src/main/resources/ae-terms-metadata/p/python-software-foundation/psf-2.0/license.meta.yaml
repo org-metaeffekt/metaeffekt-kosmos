@@ -5,6 +5,8 @@ spdxIdentifier: PSF-2.0
 otherIds:
   - "scancode:psf-2.0"
   - "osi:Python-2.0"
+## FIXME-IMPLEMENT: check whether this correct; osi has confused the licenses in the past
+##  - "osi-deprecated:PSF-2.0"
 
 status:
   - "reviewed 28.01.22"
@@ -20,6 +22,7 @@ alternativeNames:
  - "PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2.0"
  - "PSF License v2"
  - "PSF License v2.0"
+ - "Python Software Foundation License v2"
 
 evidence:
   matches:

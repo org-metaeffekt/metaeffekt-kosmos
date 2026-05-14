@@ -1,9 +1,7 @@
 canonicalName: Generic XTS License
 category: Generic XTS License
-shortName: generic-xts-license
-
-otherIds:
-  - "scancode:generic-xts"
+spdxIdentifier: generic-xts
+shortName: Generic-XTS
 
 alternativeNames:
   - "Generic XTS License"

@@ -1,0 +1,23 @@
+canonicalName: Epson Linux End User Software License Agreement
+category: Epson Linux
+shortName: Epson-Linux-EUSLA
+
+otherIds:
+  - "scancode:epson-linux-sla-2023"
+
+alternativeNames:
+  - "Epson End User Software License Agreement 2023"
+
+evidence:
+  matches:
+    - "Epson grants you a limited, nonexclusive license to download, install and use the Software for your personal and internal business use on hard disks or other computer storage devices, or in the case of a software application"
+    - "provided that the Software is used (i) only in a single location"
+    - "You may allow other users of the Epson Hardware connected to your network to use the Software, provided that you shall ensure that such users use the Software only in accordance with this Agreement"
+    - "You agree to be responsible for and indemnify Epson for liabilities incurred as a consequence of use by such users"
+    - "By installing the Software and not disabling any automated check for Updates, if applicable, you hereby agree and consent to automatically request and receive Updates from Epson or third-party servers"
+    - "You agree not to modify, adapt or translate the Software and further agree not to attempt to reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Software"
+
+references:
+  "Google Analytics Terms of Service":
+    matches:
+      - "If you block a Cookie, part(s) of this website and download the Software may become unavailable to you. Access Log is under control of the Google Analytics Terms of Service, you should read it before using this website"

@@ -1,0 +1,22 @@
+canonicalName: Root Certificate License Agreement 3.0
+category: Root Certificate
+shortName: Root-Certificate-3.0
+
+otherIds:
+  - "scancode:root-cert-3.0"
+
+alternativeNames:
+  - "Root Certificate License Agreement v3.0"
+  - "https://docs.broadcom.com/doc/root-certificate-license-agreement-en"
+
+evidence:
+  matches:
+    - "During the term of this Agreement, Symantec grants You a royalty-free, non-exclusive, nontransferable license"
+    - "distribute the Root Certificates as embedded and incorporated in such Products"
+    - "assign, sublicense, sell, rent, or lease Symantec's root keys or Root Certificates"
+    - "certify, or cause a third party to certify, the public key contained in the Root Certificates by issuing or
+       creating a Certificate containing such public key"
+    - "During the term of this Agreement, You shall use commercially reasonable efforts regularly check the
+       applicable Symantec URL for updates to the Root Certificates and update Root Certificates embedded
+       into Your Products with the most currently available Root Certificates, unmodified and in full, or as a patch
+       or update"

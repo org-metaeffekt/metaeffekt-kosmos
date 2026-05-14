@@ -5,6 +5,7 @@ spdxIdentifier: CERN-OHL-W-2.0
 otherIds:
   - "scancode:cern-ohl-w-2.0"
   - "osi:CERN-OHL-W-2.0"
+  - "osi-deprecated:cern-ohl-w"
 
 alternativeNames:
   - "cern-ohl-w-2.0"

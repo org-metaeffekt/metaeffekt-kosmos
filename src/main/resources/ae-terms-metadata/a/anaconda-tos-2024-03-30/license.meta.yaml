@@ -1,0 +1,39 @@
+canonicalName: Anaconda TOS (2024-03-30)
+category: Anaconda TOS
+shortName: Anaconda-TOS-2024-03-30
+
+otherIds:
+  - "scancode:anaconda-tos-2024-03-30"
+
+canonicalNameHistory:
+  - "Anaconda Terms of Service"
+
+alternativeNames:
+  - "Anaconda Terms of Service 2024-03-30"
+  - "Anaconda Terms of Service (2024-03-30)"
+  - "Anaconda-TOS-2024-03-30"
+
+evidence:
+  matches:
+    - "Subject to compliance with these TOS and any applicable Offering Description, Anaconda grants You a personal,
+       non-exclusive, non-transferable, non-sublicensable, revocable, limited right to use the applicable Anaconda
+       Offering strictly as detailed herein and as set forth in a relevant Offering Description"
+    - "If You purchase a subscription to an Offering as set forth in a relevant Order, then the license grant(s)
+       applicable to your access, download, installation, or use of a specific Anaconda Offering will be set forth
+       in the relevant Offering Description and any definitive agreement which may be executed by you in writing or
+       electronic in connection with your Order (“Custom Agreement”)"
+    - "License grants for specific Anaconda Offerings are set forth in the relevant Offering Description, if applicable"
+    - "Your ”Authorized Users” are your employees, agents, and independent contractors (including outsourcing service
+       providers) who you authorize to use the Anaconda Offering(s) on Your behalf for Your Internal Use, provided that
+       You are responsible for: (a) ensuring that such Authorized Users comply with these TOS or an applicable Custom
+       Agreement; and  (b) any breach of these TOS by such Authorized Users"
+    - "Your Affiliates may use the Anaconda Offering(s) on Your behalf for Your Internal Use only with prior written
+       approval from Anaconda"
+    - "Such Affiliate usage is limited to those Affiliates who were defined as such upon the Effective Date of these TOS"
+    - "Usage by organizations who become Your Affiliates after the Effective Date may require a separate license, at
+       Anaconda's discretion"
+    - "For each End User Computing Device (“EUCD”) (i.e. laptops, desktop devices) one license covers one installation
+       and a reasonable number of virtual installations on the EUCD (e.g. Docker, VirtualBox, Parallels, etc.)"
+    - "Any other installations, usage, deployments, or access must have an individual license per each additional usage"
+    - "You may only Mirror the Anaconda Offerings with the purchase of a Site License unless explicitly included in an
+       Order Form or Custom Agreement"

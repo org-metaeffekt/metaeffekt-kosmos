@@ -5,6 +5,7 @@ spdxIdentifier: NCSA
 otherIds:
   - "scancode:uoi-ncsa"
   - "osi:NCSA"
+  - "osi-deprecated:uoi-ncsa"
 
 status:
   - "reviewed: 25.10.21"
@@ -16,6 +17,7 @@ alternativeNames:
   - "NCSA License"
   - "NCSA LICENSE"
   - "NCSA Open Source License"
+  - "University of Illinois/NCSA Open Source License"
 
 evidence:
   matches:

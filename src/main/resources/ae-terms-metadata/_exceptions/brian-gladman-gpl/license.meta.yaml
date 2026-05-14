@@ -1,11 +1,15 @@
-canonicalName: Brian Gladman Exception
+canonicalName: Brian Gladman Exception (GPL)
 category: Brian Gladman Exception
-shortName: Brian-Gladman-Exception
+shortName: Brian-Gladman-Exception-GPL
 
 type: exception
 
 expectedMatches:
   - "GNU General Public License (undefined)"
+
+
+canonicalNameHistory:
+  - "Brian Gladman Exception"
 
 alternativeNames:
   - "Brian Gladman Exception"

@@ -16,7 +16,9 @@ alternativeNames:
   - "OLDAP License, 2.0"
   - "OLDAP License 2.0"
   - "The OpenLDAP Public License Version 2.0, 7 June 1999"
- 
+  - "Open LDAP Public License v2.0"
+  - "Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B)" # for identification purpose
+
 evidence:
   matches:
     - "Redistribution and use of this software and associated documentation (\"Software\"),

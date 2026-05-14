@@ -1,0 +1,13 @@
+canonicalName: Business Source License 1.1 (with Sentry Exception (BSL-1.1))
+category: BSL+Sentry
+shortName: BSL-1.1-Sentry-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with Sentry Exception (Business Source License 1.1))"
+
+type: expression
+
+displayName: Business Source License 1.1 (with Sentry Exception)
+
+combinedWith:
+  Sentry Exception (BSL-1.1): Business Source License 1.1 (with Sentry Exception (BSL-1.1))

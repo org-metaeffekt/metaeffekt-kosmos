@@ -5,6 +5,7 @@ spdxIdentifier: IPL-1.0
 otherIds:
   - "scancode:ibmpl-1.0"
   - "osi:IPL-1.0"
+  - "osi-deprecated:ibmpl"
 
 alternativeNames:
   - "IPL, Version 1.0"

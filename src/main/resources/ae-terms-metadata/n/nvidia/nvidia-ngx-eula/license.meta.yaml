@@ -18,6 +18,7 @@ evidence:
     - "Your application must have material additional functionality, beyond the included portions of the SDK"
     - "The distributable portions of the SDK shall only be accessed by your application"
     - "The terms in this supplement govern your use of the NVIDIA RTX SDK under the terms of your license agreement"
+    - "The SDK may come bundled with, or otherwise include or be distributed with, third party software licensed by a NVIDIA supplier and/or open source software provided under an open source license"
 
 segmentation:
   revert: [

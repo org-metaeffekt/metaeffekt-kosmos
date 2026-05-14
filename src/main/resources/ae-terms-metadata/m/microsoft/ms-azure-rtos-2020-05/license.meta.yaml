@@ -1,0 +1,39 @@
+canonicalName: Microsoft Azure RTOS License 2020-05
+category: Microsoft Azure RTOS
+shortName: MS-Azure-RTOS-2020-05
+
+otherIds:
+  - "scancode:ms-azure-rtos-2020-05"
+
+canonicalNameHistory:
+  - "Microsoft Azure RTOS 2020-05"
+
+alternativeNames:
+  - "Microsoft Azure RTOS 2020-05"
+  - "ms-azure-rtos-2020-05"
+  - "MS-Azure-RTOS-2020-05"
+
+evidence:
+  matches:
+    - "You may use the software in production (e.g. program the modified or unmodified
+       software to devices you own or control) and distribute (i.e. make available to
+       third parties) the modified or unmodified binary image produced from this code"
+    - "You may permit your device distributors or developers to copy and distribute the
+       binary image as programmed or to be programmed to your devices"
+    - "You may redistribute the unmodified or modified source to your device
+       distributors or developers"
+    - "Modifications must be clearly marked"
+    - "Any redistribution in source code form must contain this license and any other
+       licenses that accompany the software"
+    - "It also applies even if Microsoft knew or should have known about the possibility
+       of the damages"
+    - "The above limitation or exclusion may not apply to you because your state, province,
+       or country may not allow the exclusion or limitation of incidental, consequential,
+       or other damages"
+    - "The software includes other Microsoft
+      applications which are governed by the licenses embedded in or made available
+      with those applications"
+
+ignoreMatches:
+# NOTE: needed because we cannot differentiate between the versions and need to keep this yaml for the sake of completeness (scancodeID)
+  - "Microsoft Azure RTOS License 2020-07"

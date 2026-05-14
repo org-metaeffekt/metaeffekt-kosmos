@@ -28,7 +28,7 @@ references:
     matches:
       - "JBoss Portal Forums and JBoss Transactions JTS, each of which is licensed pursuant to the
          GNU General Public License v.2"
-  "LGPL":
+  "LesserGPL":
     matches:
       - "Subject to the following terms, Red Hat, Inc. (\"Red Hat\") grants to
           the user (\"Client\") a license to the applicable collective work(s) pursuant to the

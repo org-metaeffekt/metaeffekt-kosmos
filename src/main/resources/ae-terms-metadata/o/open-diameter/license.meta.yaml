@@ -22,7 +22,7 @@ references:
   "LGPL":
     matches:
       - "This software consists of two parts, namely LGPL Part and GPL Part, which use different licences as described below"
-
+      - "========= LGPL Part ========="
   "GPL":
     matches:
       - "This software consists of two parts, namely LGPL Part and GPL Part, which use different licences as described below"

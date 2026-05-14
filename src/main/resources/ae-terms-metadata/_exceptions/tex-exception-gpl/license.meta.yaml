@@ -1,7 +1,9 @@
 canonicalName: TeX Exception (GPL)
 category: GPL TeX Exception
-shortName: "TeX-Exception-GPL"
+shortName: TeX-Exception-GPL
 spdxIdentifier: Texinfo-exception
+
+#FIXME-DISCUSS: shouldn't this only be linked with the GPL-3.0 according to the license text?
 
 canonicalNameHistory:
   - "TeX Exception (to GPL 3.0)"

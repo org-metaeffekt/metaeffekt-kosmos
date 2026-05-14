@@ -52,6 +52,7 @@ evidence:
     - "Except as set forth herein, Licensor claims no rights in the Output You generate using the Model. You are 
        accountable for the Output you generate and its subsequent uses. No use of the output can contravene any 
        provision as stated in the License"
+    - "You shall undertake reasonable efforts to use the latest version of the Model"
   excludes:
     - "This Open RAIL-M License was created by BigScience, a collaborative open innovation project aimed at the 
        responsible development and use of large multilingual datasets and Large Language Models"

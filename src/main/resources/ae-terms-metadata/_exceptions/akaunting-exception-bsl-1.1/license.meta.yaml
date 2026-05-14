@@ -1,6 +1,9 @@
-canonicalName: Akaunting Exception (Business Source License 1.1)
+canonicalName: Akaunting Exception (BSL-1.1)
 category: Akaunting Exception
-shortName: Akaunting-Exception-Business-Source-1.1
+shortName: Akaunting-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "Akaunting Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -9,7 +12,7 @@ alternativeNames:
   - "Akaunting additional use grant for BSL"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with Akaunting Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with Akaunting Exception (BSL-1.1))
 
 evidence:
   matches:

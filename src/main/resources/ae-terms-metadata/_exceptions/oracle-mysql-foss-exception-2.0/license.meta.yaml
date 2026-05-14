@@ -1,8 +1,6 @@
-canonicalName: Oracle MySQL FOSS Exception (GPL 2.0)
+canonicalName: Oracle MySQL FOSS Exception (GPL-2.0)
 category: Oracle MySQL Exception
-shortName: Oracle-MySQL-FOSS-Exception
-
-# used to be: Oracle MySQL FOSS Exception (GPL)
+shortName: Oracle-MySQL-FOSS-Exception-GPL-2.0
 
 type: exception
 
@@ -11,11 +9,15 @@ otherIds:
 
 classification: limited copyleft
 
+canonicalNameHistory:
+  - "Oracle MySQL FOSS Exception (GPL 2.0)"
+# NOTE used to be named: "Oracle MySQL FOSS Exception (GPL)" - cannot be added to history since there is an exception with the same name
+
 alternativeNames:
   - "MySQL FOSS License Exception"
 
 combinedWith:
-  GNU General Public License 2.0: GNU General Public License 2.0 (with Oracle MySQL FOSS Exception (GPL 2.0))
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Oracle MySQL FOSS Exception (GPL-2.0))
 
 evidence:
   matches:

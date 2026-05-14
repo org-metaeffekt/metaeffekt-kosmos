@@ -1,4 +1,4 @@
-canonicalName: GNU General Public License 2.0 (with Classpath exception)
+canonicalName: GNU General Public License 2.0 (with Classpath Exception)
 category: GPL+Classpath
 shortName: GPL-2.0-Classpath-Exception
 
@@ -22,16 +22,23 @@ alternativeNames:
      published by the Free Software Foundation. Oracle designates this
      particular file as subject to the \"Classpath\" exception as provided
      by Oracle in the LICENSE file that accompanied this code"
+  - "GNU General Public License v2.0 w/Classpath exception" # for external identification purposes
+  - "GPL 2.0 With Classpath Exception" # for external identification purposes
+  - "GPL v2 with ClassPath Exception" # for external identification purposes
+  - "GPL v2 with class path exception" # for external identification purposes
+  - "GNU General Public License, version 2, with the Classpath Exception" # for external identification purposes
+  - "GNU General Public License v2.0 with Classpath Exception (Sun)" # for external identification purposes. manually verified that this is correct.
+  - "GPL 2.0 with classpath exception"
 
 canonicalNameHistory:
   - "GNU General Public License 2.0 (with classpath exception 2.0)"
   - "GPL 2 with classpath exception"
   - "GPL 2.0 with classpath exception"
   - "GNU General Public License 2.0 (with classpath exception)"
-  - "GNU General Public License 2.0 (with Classpath Exception)"
+  - "GNU General Public License 2.0 (with Classpath exception)"
 
 representedAs: GNU General Public License 2.0 (with exceptions)
 
 combinedWith:
-  "GNU General Public License 2.0": GNU General Public License 2.0 (with Classpath exception)
-  "Classpath Exception": GNU General Public License 2.0 (with Classpath exception)
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Classpath Exception)
+  "Classpath Exception": GNU General Public License 2.0 (with Classpath Exception)

@@ -1,0 +1,16 @@
+canonicalName: Gemini API Additional Terms of Service (May 2025)
+category: Gemini API ToS
+shortName: Gemini-API-Additional-ToS-May-2025
+
+otherIds:
+  - "scancode:gemini-api-additional-tos-2025"
+
+alternativeNames:
+  - "Gemini API Additional Terms of Service Effective May 20, 2025"
+
+evidence:
+  matches:
+    - "You may not use the Services to develop models that compete with the Services"
+    - "You may not attempt to bypass these protective measures or use content that violates the API Terms or these Additional Terms"
+    - "You may not use the Services in clinical practice, to provide medical advice, or in any manner that is overseen by or requires clearance or approval from a medical device regulatory agency"
+    - "As required by the API Terms, you'll comply with applicable law in using generated content, which may require the provision of attribution to your users when returned as part of an API call"

@@ -1,0 +1,43 @@
+canonicalName: DRAKVUF Modifier (GPL-2.0)
+category: DRAKVUF Modifier
+shortName: DRAKVUF-Modifier-GPL-2.0
+
+type: modifier
+
+classification: restriction
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with DRAKVUF Modifier (GPL-2.0))
+
+evidence:
+  matches:
+    - "If you wish to embed DRAKVUF technology into proprietary   
+      software, alternative licenses can be acquired from the author"
+    - "Works which meet any of     
+      these conditions must conform to all of the terms of this license,      
+      particularly including the GPL Section 3 requirements of providing      
+      source code and allowing free redistribution of the work as a whole"
+    - "Because this license imposes special exceptions to the GPL, Covered     
+      Work may not be combined (even as part of a larger work) with plain GPL software"
+    - "The terms, conditions, and exceptions of this license must be included as well"
+    - "In some cases we can relicense portions of DRAKVUF or grant special permissions to use it in other open 
+      source software"
+#    - "This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY" // informational; produces incomplete matches
+
+references:
+  "GPL":
+    matches:
+      - "Tamas K Lengyel is hereinafter referred to as the author.               
+        This program is free software; you may redistribute and/or modify it    
+        under the terms of the GNU General Public License as published by the   
+        Free Software Foundation; Version 2 (\"GPL\")"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "If you wish to embed DRAKVUF technology into proprietary software, alternative licenses can be acquired from the author.",
+      matchNext:
+        "Note that the GPL places important restrictions on \"derivative works\", yet it does not provide a detailed definition of that term"
+    },
+]

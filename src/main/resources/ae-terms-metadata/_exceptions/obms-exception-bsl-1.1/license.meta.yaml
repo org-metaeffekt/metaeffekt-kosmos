@@ -1,14 +1,15 @@
-canonicalName: OBMS Exception (Business Source License 1.1)
+canonicalName: OBMS Exception (BSL-1.1)
 category: OBMS Exception
-shortName: OBMS-Exception-Business-Source-1.1
+shortName: OBMS-Exception-BSL-1.1
 
 type: exception
 
 canonicalNameHistory:
   - "OBMS Modifier (Business Source License 1.1)"
+  - "OBMS Exception (Business Source License 1.1)"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with OBMS Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with OBMS Exception (BSL-1.1))
 
 alternativeNames:
   - "OBMS additional use grant for BSL"

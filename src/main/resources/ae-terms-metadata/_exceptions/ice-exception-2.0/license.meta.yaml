@@ -1,17 +1,19 @@
-canonicalName: Ice Exception (GPL 2.0)
+canonicalName: Ice Exception (GPL-2.0)
 category: Ice Exception
 shortName: Ice-Exception-GPL-2.0
 
 type: exception
 
 otherIds:
+#  - "gpl-2.0-ice" # deprecated
   - "scancode:ice-exception-2.0"
 
 canonicalNameHistory:
   - "Ice Exception to GPL 2.0"
+  - "Ice Exception (GPL 2.0)"
 
 combinedWith:
-  GNU General Public License 2.0: GNU General Public License 2.0 (with Ice exception)
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Ice Exception (GPL-2.0))
 
 evidence:
   matches:
@@ -27,6 +29,12 @@ references:
        the following projects the permission to license their Ice-based software 
        under the terms of the GNU Lesser General Public License (LGPL) version 
        2.1 or of the BSD license"
+  "LesserGPL":
+    matches:
+      - "As a special exception to the above, ZeroC grants to the contributors for
+         the following projects the permission to license their Ice-based software 
+         under the terms of the GNU Lesser General Public License (LGPL) version 
+         2.1 or of the BSD license"
   "LGPL":
     matches:
       - "As a special exception to the above, ZeroC grants to the contributors for

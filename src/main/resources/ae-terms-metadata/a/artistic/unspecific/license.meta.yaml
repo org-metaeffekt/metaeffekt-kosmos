@@ -7,8 +7,6 @@ unspecific: true
 alternativeNames:
   - "Artistic License"
   - "Artistic license"
-  #Knowning that Perl is under Artistic
-  - "you can redistribute it and/or modify it under the same terms as Perl itself"
 
 evidence:
   excludes:

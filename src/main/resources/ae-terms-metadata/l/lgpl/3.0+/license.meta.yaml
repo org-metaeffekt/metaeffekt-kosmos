@@ -1,5 +1,5 @@
 canonicalName: GNU Lesser General Public License 3.0 (or any later version)
-category: LGPL
+category: LesserGPL
 spdxIdentifier: LGPL-3.0-or-later
 shortName: LGPL-3.0+
 
@@ -46,7 +46,6 @@ alternativeNames:
   - "GNU LGPLv3+"
   - "GNU Lesser General Public Licence, Version 3+"
   - "GNU Lesser General Public License (GNU LGPL), Version 3+"
-  - "GNU LIBRARY GENERAL PUBLIC LICENSE, Version 3.0+"
   - "GNU Lesser GPL, Version 3+"
   - "GNU Lesser General Public License (LGPL) v3.0+"
   - "GNU Lesser General Public License (LGPL) version 3.0+"
@@ -102,6 +101,7 @@ alternativeNames:
   - "LGPL 3.0+ license"
   - "LGPL 3+"
   - "LGPL 3.0+"
+  - "LGPL 3.0 or later"
   - "Lesser General Public License (LGPL) v 3.0+"
   - "Lesser General Public License, version 3 or greater"
   - "Lesser General Public License (LGPL) version 3.0+"
@@ -134,6 +134,7 @@ alternativeNames:
   - "Lesser General Public License as published by the Free Software Foundation; either version 3 of the license or (at your option) any later version"
   - "Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version"
   - "Lesser General Public License (LGPL) version 3.0 or at your option any later version"
+  - "GNU Lesser General Public License 3.0 or later"
 
 references:
   "GPL":

@@ -26,3 +26,9 @@ evidence:
   excludes:
     - "We grant you a nonexclusive, nontransferable right to copy and distribute the programs to your end users provided that you do not charge your end users for use of the programs and provided your end users may only use the programs to run your applications for their business operations"
     - "We grant you a nonexclusive, nontransferable limited license to use the programs only for the purpose of developing, testing, prototyping and demonstrating your application, and not for any other purpose"
+
+references: 
+  "OTN":
+    matches:
+      - "Note: You are bound by the Oracle Technology Network (\"OTN\") License Agreement terms. The OTN License Agreement terms also apply to all updates you receive under your Technology Track subscription.
+        The OTN License Agreement terms below supercede any shrinkwrap license on the OTN Technology Track software CDs and previous OTN License terms (including the Oracle Program License as modified by the OTN Program Use Certificate)."

@@ -1,10 +1,13 @@
-canonicalName: Business Source License 1.1 (with Kamu Modifier (Business Source License 1.1))
-category: Business Source+Kamu
-shortName: Business-Source-1.1-Kamu-Modifier
+canonicalName: Business Source License 1.1 (with Kamu Modifier (BSL-1.1))
+category: BSL+Kamu
+shortName: BSL-1.1-Kamu-Modifier
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with Kamu Modifier (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with Kamu Modifier)
 
 combinedWith:
-  Kamu Modifier (Business Source License 1.1): Business Source License 1.1 (with Kamu Modifier (Business Source License 1.1))
+  Kamu Modifier (BSL-1.1): Business Source License 1.1 (with Kamu Modifier (BSL-1.1))

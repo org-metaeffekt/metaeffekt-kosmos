@@ -1,0 +1,48 @@
+canonicalName: NVIDIA NCCL SLA 2016
+category: NVIDIA NCCL SLA
+shortName: NVIDIA-NCCL-SLA-2016
+
+otherIds:
+  - "scancode:nvidia-nccl-sla-2016"
+
+alternativeNames:
+  - "NVIDIA NCCL SLA 2016"
+  - "NVIDIA-NCCL-SLA-2016"
+  - "nvidia-nccl-sla-2016"
+  - "NVIDIA SOFTWARE LICENSE AGREEMENT"
+  - "Software License Agreement (SLA) for NVIDIA NCCL"
+
+evidence:
+  matches:
+    - "Subject to the terms of the AGREEMENT, NVIDIA hereby grants you a non-exclusive, non-transferable license, without
+       the right to sublicense (except as expressly set forth in a Supplement), during the applicable license term unless
+       earlier terminated as provided below, to have Authorized Users install and use the Software, including modifications
+       (if expressly permitted in a Supplement), in accordance with the Documentation"
+    - "You are only licensed to activate and use Licensed Software for which you a have a valid license, even if during
+       the download or installation you are presented with other product options"
+    - "No Orders are binding on NVIDIA until accepted by NVIDIA"
+    - "Your Orders are subject to the AGREEMENT"
+    - "SLA Supplements: Certain Licensed Software licensed under this SLA may be subject to additional terms and conditions
+       that will be presented to you in a Supplement for acceptance prior to the delivery of such Licensed Software under
+       this SLA and the applicable Supplement"
+    - "Licensed Software will only be delivered to you upon your acceptance of all applicable terms"
+    - "If your license is provided for one of the purposes indicated below, then notwithstanding contrary terms in
+       License Grant or in a Supplement, such licenses are for internal use and do not include any right or license
+       to sub-license and distribute the Licensed Software or its output in any way in any public release, however
+       limited, and/or in any manner that provides third parties with use of or access to the Licensed Software or
+       its functionality or output, including (but not limited to) external alpha or beta testing or development phases"
+    - "You may use evaluation licenses solely for your internal evaluation of the Licensed Software for broader adoption
+       within your Enterprise or in connection with a NVIDIA product purchase decision, and such licenses have an expiration
+       date as indicated by NVIDIA in its sole discretion (or ninety days from the date of download if no other duration
+       is indicated)"
+    - "You may use educational/academic licenses solely for educational purposes and all users must be enrolled or
+       employed by an academic institution"
+    - "If you do not meet NVIDIA’s academic program requirements for educational institutions, you have no rights
+       under this license"
+    - "You may use test/development licenses solely for your internal development, testing and/or debugging of your
+       software applications or for interoperability testing with the Licensed Software, and such licenses have an
+       expiration date as indicated by NVIDIA in its sole discretion (or one year from the date of download if no
+       other duration is indicated)"
+    - "NVIDIA Confidential Information under the AGREEMENT includes output from Licensed Software developer tools
+       identified as 'Pro' versions, where the output reveals functionality or performance data pertinent to NVIDIA
+       hardware or software products"

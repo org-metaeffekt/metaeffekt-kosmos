@@ -17,7 +17,7 @@ references:
     matches:
     - "Of course you have to respect the GNU Lesser General Public
        License which covers the use of the GNU 'gettext' library"
-  "LGPL":
+  "LesserGPL":
     matches:
     - "Of course you have to respect the GNU Lesser General Public
        License which covers the use of the GNU 'gettext' library"

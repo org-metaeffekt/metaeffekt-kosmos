@@ -5,6 +5,7 @@ spdxIdentifier: MirOS
 otherIds:
   - "scancode:mir-os"
   - "osi:MirOS"
+  - "osi-deprecated:miros-html"
 
 alternativeNames:
   - "MirOS Licence"
@@ -17,6 +18,8 @@ alternativeNames:
   - "{{MirOS}} https://spdx.org/licenses/MirOS"
   - "https://www.mirbsd.org/about.htm"
   - "https://spdx.org/licenses/miros"
+  - "The MirOS Licence"
+  - "MirOS License"
 
 evidence:
   matches:

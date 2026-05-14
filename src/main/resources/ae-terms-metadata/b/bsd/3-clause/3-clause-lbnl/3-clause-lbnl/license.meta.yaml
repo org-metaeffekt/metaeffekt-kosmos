@@ -5,6 +5,7 @@ spdxIdentifier: BSD-3-Clause-LBNL
 otherIds:
   - "scancode:lbnl-bsd"
   - "osi:BSD-3-Clause-LBNL"
+  - "osi-deprecated:bsd-3-clause-lbnl"
 
 canonicalNameHistory:
   - "BSD 3-Clause License (variant 050)"

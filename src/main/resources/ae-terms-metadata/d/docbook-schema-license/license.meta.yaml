@@ -8,6 +8,9 @@ otherIds:
 alternativeNames:
   - "DocBook Schema License"
 
+canonicalNameHistory:
+  - "Docbook Schema License"
+
 evidence:
   matches:
     - "Permission to use, copy, modify and distribute the DocBook schema

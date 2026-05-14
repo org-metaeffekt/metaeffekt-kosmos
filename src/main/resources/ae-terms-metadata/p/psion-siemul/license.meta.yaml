@@ -1,0 +1,19 @@
+canonicalName: Psion User License (SiEMUL)
+category: Psion User Licence SiEMUL
+shortName: Psion-SiEMUL
+
+otherIds:
+  - "scancode:psion-siemul"
+
+alternativeNames:
+  - "Psion User License for SiEMUL"
+  - "Psion User Licence for SiEMUL"
+  - "PSION PLC BUSINESS/INSTITUTION/GOVERNMENT/HOME USER LICENCE for SiEMUL"
+
+evidence:
+  matches:
+    - "SiEMUL may be used on a royalty free basis"
+    - "You may copy and distribute copies of SiEMUL in the same form as you receive it, without any files being
+       removed, altered or added"
+    - "The licensee agrees that he or she will not attempt to reverse compile, modify, translate or disassemble SiEMUL,
+       in whole or in part"

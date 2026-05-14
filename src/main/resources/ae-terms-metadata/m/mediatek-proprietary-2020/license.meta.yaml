@@ -1,0 +1,59 @@
+canonicalName: MediaTek Proprietary License 2020
+category: MediaTek Proprietary License
+shortName: MediaTek-Proprietary-2020
+
+otherIds:
+  - "scancode:mediatek-proprietary-2020"
+
+alternativeNames:
+  - "Mediatek Proprietary License 2020"
+  - "MediaTek Proprietary License 2020"
+  - "mediatek-proprietary-2020"
+  - "MediaTek-Proprietary-2020"
+
+evidence:
+  matches:
+    - "install a reasonable number of copies of the Software Package solely for the purpose of developing or testing
+       Applications"
+    - "use, copy, modify and compile the Software Package, if provided in source code form, to create derivative
+       works solely for the purpose of developing or testing Application ('Software Derivatives')"
+    - "make a reasonable number of copies of the Documentation for use and solely for the purpose of developing or
+       testing Applications"
+    - "distribute and/or sublicense  copies of any or all of Software Package which is required to be incorporated
+       within Application; and"
+    - "Each copy will include all notices and legends embedded in the Software Package and Documentation"
+    - "You must ensure that MediaTek's or any third party's copyright disclaimers and other proprietary notices that
+       appear in the Software Package and Documentation are retained and reproduced in full in all copies of the Software
+       Package and Documentation that You make as permitted under this Agreement"
+    - "You must not sell, redistribute, rent, lease, lend all or any part of the Software Package and Documentation,
+       or enable or allow others to do such things except as explicitly set forth in this Sections 3 As a condition
+       to the license granted in Section 3.1 above, You shall not (and shall not allow any third party to) decompile,
+       disassemble, reverse engineer or attempt to reconstruct, identify or discover any source code, underlying ideas,
+       underlying algorithms of the Software Package provided to You in object code form by any means whatsoever, or
+       disclose any of the foregoing, except to the extent such restriction is expressly prohibited by applicable
+       laws and not waivable thereunder"
+    - "Except for the limited license granted to You in this Agreement, all rights, title, and interest in and to
+       the Software Package and Documentation that are made available to You under this Agreement remain, at all
+       times, the sole and exclusive property of MediaTek or, for third party software contained in the Software
+       Package, such third party"
+    - "You agree to cooperate with MediaTek to maintain MediaTek and such thirty party's ownership of the Software
+       Package and Documentation, and You agree to promptly provide notice of any claims or threatened claims relating
+       to the Software Package and Documentation"
+
+references:
+  "GPL":
+    matches:
+      - "to be made available for use or distribution by others under a public license, including, without limitation,
+         GNU's General Public License (GPL) or Lesser/Library GPL (LGPL)"
+  "LesserGPL":
+    matches:
+      - "to be made available for use or distribution by others under a public license, including, without limitation,
+         GNU's General Public License (GPL) or Lesser/Library GPL (LGPL)"
+  "LibraryGPL":
+    matches:
+      - "to be made available for use or distribution by others under a public license, including, without limitation,
+         GNU's General Public License (GPL) or Lesser/Library GPL (LGPL)"
+  "LGPL":
+    matches:
+      - "to be made available for use or distribution by others under a public license, including, without limitation,
+         GNU's General Public License (GPL) or Lesser/Library GPL (LGPL)"

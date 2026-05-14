@@ -1,0 +1,65 @@
+canonicalName: Siesta Academic License (Individuals)
+category: Siesta Academic License Individuals
+shortName: Siesta-Academic-Individuals
+
+otherIds:
+  - "scancode:siesta-academic-individuals"
+
+alternativeNames:
+  - "Siesta Academic Licence for Individuals"
+  - "Siesta Academic License for Individuals"
+  - "siesta-academic-individuals"
+  - "Siesta-Academic-Individuals"
+  - "Siesta ACADEMIC LICENCE for INDIVIDUALS"
+
+evidence:
+  matches:
+    - "The Siesta program has been devised for its general use in research
+       within the academic community"
+    - "Some conditions have been defined for the use, distribution, and modification
+       of Siesta, which the authors consider fair and within the common fair practices
+       in the academic community"
+    - "Although we, the Authors, acknowledge that a limited number of
+       auxiliary subroutines were written by (or are based on previous
+       subroutines written by) other authors consider that the implementation
+       of all the basic algorithms of the Siesta program is ours"
+    - "The Licensee is the person (never an institution) to whom the Siesta
+       package is distributed (under the terms of this Licence) by the
+       Distributors; they are bound by this agreement"
+    - "The use of the Siesta package under the present Licence is restricted
+       solely to members of academic institutions (including universities and
+       non-military public research laboratories) and to academic purposes,
+       i.e., leading to open publication of results, with neither withhold of
+       information nor intentional delay in publication"
+    - "Notwithstanding these general definitions, the Authors reserve the exclusive
+       right to determine what purposes and persons are elegible for using the
+       Siesta package under this Licence, and to withhold the right to use
+       the software where they are not satisfied that either condition is
+       fulfilled"
+    - "Other papers relevant to the Siesta package and method should be cited
+       as best scientific practice dictates"
+    - "Licensees are recommended to send reference to the Developers of any
+       publication containing results wholly or partially derived from the
+       results of use of the Siesta package"
+    - "The above-mentioned right to use the code is extensive to the members
+       of the research group of the Licensee as long as the use is in
+       collaboration with the Licensee leading to co-authored publication(s)"
+    - "The present Licence does not imply support services of any kind to the
+       Licensee by the Distributors, including, but not limited to,
+       installation, compilation and use of the software in the package"
+    - "Licensees are permitted to modify Siesta for their own private use; in
+       any paper containing results wholly or partially derived from the use
+       of a modified version of Siesta, the authors are required to state
+       that a privately modified version of Siesta is used, and satisfy the
+       conditions of use stated above"
+    - "The Developers encourage Licensees to submit their modifications of
+       the Siesta package to them, so that the Siesta package does not fork,
+       and furthermore so that the package can be improved for all users"
+    - "Licensees can thereby benefit from the ulterior developments of Siesta"
+    - "All other rights not explicitly mentioned in this document are reserved"
+    - "In particular, the Authors reserve all rights to resolve any and all conflicts
+       arising in the development and distribution policies of the Siesta package"
+    - "Without accepting the Licence, a prospective Licensee does not have the
+       right to use or modify the Siesta package"
+    - "Everyone is permitted to copy and distribute verbatim copies of this
+       Licence document, but changing it is not permitted"

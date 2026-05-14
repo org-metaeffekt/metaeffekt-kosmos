@@ -1,6 +1,6 @@
 canonicalName: Red Hat EULA JBoss Enterprise Middleware License
 category: Red Hat EULA JBoss Enterprise Middleware
-shortName: RH-EULA-LGPL
+shortName: RH-EULA-JBoss-Enterprise-Middleware
 
 otherIds:
   - "scancode:rh-eula-lgpl"
@@ -42,3 +42,11 @@ evidence:
        any defective media within 30 days of delivery along with a copy of your
        payment receipt and Red Hat, at its option, will replace it or refund
        the money you paid for the media"
+
+references:
+  "LesserGPL":
+    matches:
+      - "Subject to the following terms, Red Hat, Inc. (\"Red
+         Hat\") grants to you a perpetual, worldwide license to the Programs (each
+         of which may include multiple software components) pursuant to the GNU
+         Lesser General Public License v. 2.1."

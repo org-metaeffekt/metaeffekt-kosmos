@@ -5,9 +5,11 @@ spdxIdentifier: Artistic-1.0-Perl
 otherIds:
   - "scancode:artistic-perl-1.0"
   - "osi:Artistic-1.0-Perl"
+  - "osi-deprecated:artistic-perl-1-0-2"
 
 alternativeShortNames:
   - "Artistic-Perl"
+  - "you can redistribute it and/or modify it under the same terms as Perl itself"
 
 alternativeNames:
   - "Artistic Perl License"
@@ -25,6 +27,8 @@ alternativeNames:
   - "Artistic-1.0 License, Version Perl"
   - "Artistic-1.0 License, Perl"
   - "Artistic-1.0 License Perl"
+  - "Artistic License 1.0 Perl"
+  - "Artistic License (Perl) 1.0"
 
 evidence:
   excludes:

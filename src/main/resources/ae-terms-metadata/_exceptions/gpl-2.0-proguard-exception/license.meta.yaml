@@ -1,14 +1,18 @@
-canonicalName: ProGuard Exception (GPL)
+canonicalName: ProGuard Exception (GPL-2.0)
 category: ProGuard Exception
-shortName: Proguard-Exception-GPL
+shortName: Proguard-Exception-GPL-2.0
 
 type: exception
 
 otherIds:
   - "scancode:proguard-exception-2.0"
+#  - "scancode:gpl-2.0-proguard" # deprecated
+
+canonicalNameHistory:
+  - "ProGuard Exception (GPL)"
 
 combinedWith:
-  GNU General Public License 2.0: GNU General Public License 2.0 (with ProGuard Exception (GPL))
+  GNU General Public License 2.0: GNU General Public License 2.0 (with ProGuard Exception (GPL-2.0))
 
 evidence:
   matches:

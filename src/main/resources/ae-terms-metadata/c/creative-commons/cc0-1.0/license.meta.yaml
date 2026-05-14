@@ -1,4 +1,4 @@
-canonicalName: Creative Commons Zero 1.0
+canonicalName: Creative Commons Zero Universal 1.0
 category: CC0
 spdxIdentifier: CC0-1.0
 
@@ -10,6 +10,7 @@ requiresLicenseText: false
 
 canonicalNameHistory:
   - "CC0 Universal 1.0"
+  - "Creative Commons Zero 1.0"
 
 alternativeNames:
   - "CC0 Universal 1.0"
@@ -20,6 +21,7 @@ alternativeNames:
   - "Creative Commons Zero v1.0 Universal"
   - "http://creativecommons.org/publicdomain/zero/1.0/legalcode"
   - "http://wiki.creativecommons.org/CC0_FAQ"
+  - "Creative Commons CC0 1.0 Universal"
 
 evidence:
    matches:

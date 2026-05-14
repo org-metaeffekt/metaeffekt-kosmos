@@ -35,21 +35,20 @@ references:
   "GPL":
     matches:
       - "FreeType is supplied modified from the canonical [WWW]FreeType2 source under this BSD-style license (which has a credit clause). Note: builders of FreeType can [WWW]choose to use GPLv2 instead.
-
          [WWW]Mesa 11.3.0-devel is supplied modified from the canonical [WWW]freedesktop.org source under this Mesa license."
   "BSD":
     matches:
       - "FreeType is supplied modified from the canonical [WWW]FreeType2 source under this BSD-style license (which has a credit clause). Note: builders of FreeType can [WWW]choose to use GPLv2 instead.
-
          [WWW]Mesa 11.3.0-devel is supplied modified from the canonical [WWW]freedesktop.org source under this Mesa license."
+  # FIXME-IMPLEMENT: shouldn't this be a match?
+  "LesserGPL":
+    matches:
+      - "Extension headers and specifications from the canonical [WWW]OpenGL Registry are used under SGI Free Software 
+         License B.
+         The [WWW]Pthreads-Win32 dll, built from modified source, is dynamically-linked from Xming and supplied compliant with LGPLv2.1."
   "LGPL":
     matches:
-      - "winlocalename.c is adapted from file localename.c (an LGPLv2.1 file in [WWW]gettext-0.17/gettext-runtime/intl/).
-
-         [WWW]DejaVue fonts are supplied unmodified under this license."
-      - "Extension headers and specifications from the canonical [WWW]OpenGL Registry are used under SGI Free Software License B.
-
-         The [WWW]Pthreads-Win32 dll, built from modified source, is dynamically-linked from Xming and supplied compliant with LGPLv2.1."
+      - "Xming dynamically links to one LGPL library. Also two FSF exceptions are applicable. Details of source code, modifications and licenses; plus both FSF exceptions..."
   "MIT":
     matches:
       - "[WWW]PuTTY is used under its permissive MIT license.

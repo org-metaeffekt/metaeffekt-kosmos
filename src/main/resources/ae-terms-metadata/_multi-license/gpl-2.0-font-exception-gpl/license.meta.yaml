@@ -9,6 +9,10 @@ spdxExpression: "[GNU General Public License 2.0] WITH [Font Exception (GPL)]"
 canonicalNameHistory:
   - "GNU General Public License 2.0 (with Font exception 2.0)"
 
+alternativeNames:
+  - "GNU General Public License v2.0 w/Font exception" # for external identification purposes
+  - "GPL 2.0 with font exception" # for external identification purposes
+
 displayName: 
   "GNU General Public License 2.0 (with Font exception)"
 

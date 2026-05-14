@@ -1,0 +1,77 @@
+canonicalName: Lens Terms of Service Agreement (2023)
+category: Lens Terms of Service Agreement
+shortName: Lens-TOS-2023
+
+otherIds:
+  - "scancode:lens-tos-2023"
+
+alternativeNames:
+  - "Lens Terms of Service Agreement (2023)"
+  - "Lens Terms of Service Agreement"
+  - "Lens TOS Agreement (2023)"
+  - "lens-tos-2023"
+  - "Lens-TOS-2023"
+  - "https://www.mirantis.com/company/privacy-policy/"
+
+evidence:
+  matches:
+    - "Subject to terms and conditions of this Agreement, Mirantis grants you a limited, personal, non-exclusive,
+       and non-transferable license to use Services"
+    - "You may not modify, edit, copy, reproduce, create derivative works of, reverse engineer, alter, enhance or in
+       any way exploit Services in any manner"
+    - "The Services are intended for persons above the age to consent to processing in their region (e.g. 13 in the US,
+       16 in the EU, etc.), however, you must be at least 18 to make purchases"
+    - "If you are under the age of 18 or whatever is the age of majority where you access the Services, you may make
+       purchases only with the involvement of your legal guardian, and you represent and warrant that your legal guardian
+       has read, understood and agreed to this Agreement"
+    - "If you breach any of the terms of this Agreement, the license described in section 2.1 will terminate automatically
+       and you must immediately stop using all Services, and delete any related downloaded software and printed materials"
+    - "The use of some features of the Services may require signing up and registering for a personal Lens ID account
+       with Mirantis (“Lens ID”)"
+    - "If you choose to register for a Lens ID, you shall provide accurate, complete, and up-to-date registration information"
+    - "Some Services may exchange your Lens ID login information to authentication keys or tokens (“Tokens”)"
+    - "You are responsible for all use of your Lens ID and for the security of your password and any Tokens that may be
+       used to access and use your Lens ID and you acknowledge that you will be solely and fully responsible for all
+       losses incurred through, or in connection with, access to and use of the Software and Services under such credentials"
+    - "If you become aware of any unauthorized use of your Lens ID, you agree to notify Mirantis immediately, change
+       your password, and revoke all tokens"
+    - "Your Lens ID is personal to you and you are allowed to create a single Lens ID for yourself"
+    - "You are not allowed to create Lens IDs for others and you are not allowed to create multiple Lens IDs for
+       yourself or others"
+    - "Some features of the Services may have usage limits. Mirantis reserves the right to enforce usage limits in its
+       sole discretion"
+    - "Repeated exceeding of the usage limits may lead to suspension or termination of your Lens ID"
+    - "You agree to allow Mirantis and its affiliates to store and use information provided by you, including names,
+       business phone numbers, and business e-mail addresses anywhere Mirantis does business that will be used only in
+       connection with Mirantis’ business relationship with you, and may be transferred worldwide between Mirantis,
+       its affiliates, subcontractors, partners, and assignees for uses consistent with Mirantis’ business relationship
+       with you"
+    - "Except for the foregoing and except for Lens Cloud Services as further stipulated in the Additional Terms, your
+       use of, and Mirantis providing the Services does not require you to provide, disclose or give access to Mirantis
+       any personal information (e.g. Personally Identifiable Information) or similarly protected sensitive data or
+       personal data to Mirantis"
+    - "You agree to take all reasonable steps to avoid disclosure of personal data to Mirantis; and that you are liable
+       for all your personal data related obligations, including without limitation, confidentiality and data protection
+       and privacy obligations and restrictions, imposed by applicable law, regulation or court order"
+    - "If disclosed, you warrant that you have obtained all the relevant consents to disclose personal data to Mirantis,
+       and you will defend, indemnify and hold Mirantis harmless from and against any claims arising out of your breach
+       of this Section 4.1"
+    - "The Lens Software may automatically communicate with Mirantis servers to perform automated software updates and
+       usage tracking"
+    - "These features are designed to help provide a great end user experience"
+    - "The Lens Software may automatically communicate with Mirantis servers to determine whether there are updated
+       version(s) of the Lens Software available"
+    - "You agree that the Software may be updated automatically on your computer without providing any further notice
+       or receiving any additional consent"
+    - "You may manually opt- out from automated Software updates"
+    - "In the default mode, the Lens Software automatically communicates with Mirantis servers to send certain telemetry
+       data about the usage"
+    - "This data is collected only for Mirantis legitimate interest and for the purpose of making the Software better"
+    - "The telemetry data contain information about user interface events and generic information about the
+       attached clusters"
+    - "For avoidance of doubt, no sensitive data is sent, but some of the data can be qualified as data identifying an
+       individual under various jurisdictions and you may manually opt-out from sending telemetry data"
+    - "Mirantis will send occasional promotional emails about features, updates, events, and relevant announcements"
+    - "By providing your email, you agree to receive these communications"
+    - "You can opt out when you create your Lens ID or by clicking the 'Unsubscribe' link in our emails"
+    - "Please note that you may still receive important non-promotional communications"

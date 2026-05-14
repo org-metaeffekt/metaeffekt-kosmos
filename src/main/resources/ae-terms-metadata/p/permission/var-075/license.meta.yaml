@@ -10,7 +10,6 @@ status:
 requiresCopyright: true
 requiresLicenseText: true
 
-
 displayName: "Permission Terms (no liability; no warranty)"
 representedAs: Permission Terms
 
@@ -21,17 +20,16 @@ canonicalNameHistory:
 
 evidence:
   matches:
-    - "Permission to use, copy, modify, and*{.{0,5}}* distribute this software*{.{0,25}}* for any purpose with or without fee is hereby granted,
-       provided that the above copyright notice and this permission notice
-       appear in all copies"
+    - "Permission to use, copy, modify, and*{.{0,5}}* distribute this software*{.{0,25}}* for any purpose with or 
+       without fee is hereby granted"
+    - "provided that the above copyright notice and this permission notice appear in all copies"
     - "THE SOFTWARE IS PROVIDED \"AS IS\" AND *{.{0,100}}* DISCLAIMS ALL WARRANTIES
        WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
        MERCHANTABILITY AND FITNESS"
-    - "IN NO EVENT SHALL *{.{0,100}}* BE LIABLE FOR
-       ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-       WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-       ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
-       OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
+    - "IN NO EVENT SHALL *{.{0,50}}* BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL
+       DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+       WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+       OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE"
   excludes:
     - "Permission to use, copy, modify, and distribute this software for any
        purpose with or without fee is hereby granted, provided that the above
@@ -89,18 +87,21 @@ evidence:
     - "Permission to use, copy, modify, and/or distribute this software for any purpose
        with or without fee is hereby granted, provided that the above copyright notice
        and this permission notice appear in all copies"
-
+    - "Sponsored in part by the Defense Advanced Research Projects Agency (DARPA) and Air Force Research Laboratory, Air Force Materiel Command, USAF, under agreement number F39502-99-1-0512" # Permission Terms (Sudo)
+    - "THE SOFTWARE IS PROVIDED \"AS IS\" AND ISC DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL 
+       IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS"
 
 mappings:
   "Copyright \\(c\\) 1998 Todd C. Miller <Todd.Miller@courtesan.com>NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and distribute this software for anyNEWLINE-MARKERpurpose with or without fee is hereby granted, provided that the": " LICENSE-SEGMENT-MARKER Copyright (c) 1998 Todd C. Miller <Todd.Miller@courtesan.com>NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and distribute this software for anyNEWLINE-MARKERpurpose with or without fee is hereby granted, provided that the"
   "Copyright \\(c\\) 2007-2014, Lloyd Hilaiel <me@lloyd.io>NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and/or distribute this software for anyNEWLINE-MARKERpurpose with or without fee is hereby granted": " LICENSE-SEGMENT-MARKER Copyright (c) 2007-2014, Lloyd Hilaiel <me@lloyd.io>NEWLINE-MARKEREMPTY-LINE-MARKERNEWLINE-MARKERPermission to use, copy, modify, and/or distribute this software for anyNEWLINE-MARKERpurpose with or without fee is hereby granted"
 
-licenseTemplate: "<lq>Permission to use, copy, modify, and distribute this software and its documentation for any purpose 
-                  with or without fee is hereby granted, provided that the above copyright notice and this permission 
-                  notice appear in all copies.<p/>
-                  <codeph>THE SOFTWARE IS PROVIDED \"AS IS\" AND {{copyrightHolderNoWarranty}} DISCLAIMS ALL WARRANTIES
-                  WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. 
-                  IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR 
-                  CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER 
-                  IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH 
-                  THE USE OR PERFORMANCE OF THIS SOFTWARE.</codeph></lq>"
+licenseTemplate:
+  "<lq>Permission to use, copy, modify, and distribute this software and its documentation for any purpose 
+   with or without fee is hereby granted, provided that the above copyright notice and this permission 
+   notice appear in all copies.<p/>
+   <codeph>THE SOFTWARE IS PROVIDED \"AS IS\" AND {{copyrightHolderNoWarranty}} DISCLAIMS ALL WARRANTIES
+   WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. 
+   IN NO EVENT SHALL {{copyrightHolderNoLiability}} BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR 
+   CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER 
+   IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH 
+   THE USE OR PERFORMANCE OF THIS SOFTWARE.</codeph></lq>"

@@ -12,6 +12,10 @@ canonicalNameHistory:
 
 alternativeNames:
   - "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231"
+  - "W3C Software Notice and License (2002-12-31)"
+  - "W3C Software Notice and License - 2002-12-31"
+  # FIXME-IMPLEMENT: we need a W3C Software Notice and License (undefined)
+  # - "W3C Software Notice and License"
 
 evidence:
   matches:
@@ -26,10 +30,10 @@ evidence:
     - "Any pre-existing intellectual property disclaimers, notices, or terms and conditions"
     - "Notice of any changes or modifications to the files, including the date changes were made"
     - "THIS SOFTWARE AND DOCUMENTATION IS PROVIDED \"AS IS,\" AND COPYRIGHT HOLDERS MAKE
-        NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-        TO, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT
-        THE USE OF THE SOFTWARE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY
-        PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS"
+       NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+       TO, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT
+       THE USE OF THE SOFTWARE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY
+       PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS"
     - "COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR
        CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENTATION"
     - "The name and trademarks of copyright holders may NOT be used in advertising or

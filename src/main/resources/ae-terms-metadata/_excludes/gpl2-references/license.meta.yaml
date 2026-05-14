@@ -12,6 +12,7 @@ references:
   "GPL":
     matches:
     - "The GNU General Public License v2 text is contained in /usr/share/common-licenses/GPL-3"
+    - "The GNU General Public License gives permission to release a modified version without this exception"
 
 evidence:
   matches:

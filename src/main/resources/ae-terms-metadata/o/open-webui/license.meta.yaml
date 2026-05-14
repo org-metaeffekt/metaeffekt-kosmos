@@ -1,0 +1,44 @@
+canonicalName: Open WebUI License
+category: Open WebUI
+shortName: Open-WebUI
+
+otherIds:
+  - "scancode:open-webui-2025"
+
+alternativeNames:
+  - "BSD 3-Clause License (OpenWebUI)"
+  - "BSD-3 for OpenWebUI"
+  - "OpenWebUI-BSD"
+  - "BSD-3-Clause-License-OpenWebUI"
+  - "https://github.com/open-webui/open-webui/blob/main/LICENSE"
+  - "Open WebUI License 2025"
+
+canonicalNameHistory:
+  - "BSD-3 for OpenWebUI"
+  - "BSD 3-Clause License (OpenWebUI)"
+
+comments:
+  - "source: https://github.com/open-webui/open-webui/blob/63256136ef8322210c01c2bb322097d1ccfb8c6f/LICENSE"
+
+evidence: 
+  matches:
+    - "Redistribution and use in source and binary forms, with or without modification, are permitted provided
+       that the following conditions are met"
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions and the
+       following disclaimer"
+    - "Notwithstanding any other provision of this License, and as a material condition of the rights granted herein, 
+       licensees are strictly prohibited from altering, removing, obscuring, or replacing any \"Open WebUI\" branding,
+       including but not limited to the name, logo, or any visual, textual, or symbolic identifiers that distinguish the
+       software and its interfaces, in any deployment or distribution, regardless of the number of users"
+    - "The branding restriction enumerated in Clause 4 shall not apply in the following limited circumstances"
+    - "deployments or distributions where the total number of end users (defined as individual natural persons with 
+       direct access to the application) does not exceed fifty (50) within any rolling thirty (30) day period"
+    - "cases in which the licensee is an official contributor to the codebase—with a substantive code change 
+       successfully merged into the main branch of the official codebase maintained by the copyright holder—who has
+       obtained specific prior written permission for branding adjustment from the copyright holder"
+    - "All code, modifications, or derivative works incorporated into this project prior to the incorporation of this 
+       branding clause remain licensed under the BSD 3-Clause License, and prior contributors retain all BSD-3 rights
+       therein"
+    - "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+       INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+       ARE DISCLAIMED"

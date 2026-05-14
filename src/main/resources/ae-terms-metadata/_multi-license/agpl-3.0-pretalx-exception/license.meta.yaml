@@ -1,0 +1,9 @@
+canonicalName: GNU Affero General Public License 3.0 (with pretalx Exception (AGPL-3.0))
+category: AGPL+pretalx
+shortName: AGPL-3.0-pretalx-Exception
+
+type: expression
+
+combinedWith:
+  "GNU Affero General Public License 3.0": GNU Affero General Public License 3.0 (with pretalx Exception (AGPL-3.0))
+  pretalx Exception (AGPL-3.0): GNU Affero General Public License 3.0 (with pretalx Exception (AGPL-3.0))

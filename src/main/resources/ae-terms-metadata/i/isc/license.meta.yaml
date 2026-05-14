@@ -9,6 +9,7 @@ spdxIdentifier: ISC
 otherIds:
   - "scancode:isc"
   - "osi:ISC"
+  - "osi-deprecated:isc-license-txt"
 
 canonicalNameHistory:
   - "Permission Terms Var033"
@@ -31,10 +32,12 @@ alternativeNames:
   - "https://opensource.org/licenses/ISC"
   - "https://www.isc.org/downloads/software-support-policy/isc-license/"
   - "https://www.isc.org/isc-license-1.0.html"
+# FIXME-DISCUSS: reevaluate
+#  - "OpenBSD License"
 
 evidence:
   matches:
-    - "Permission to use, copy, modify, and*{.{0,5}}* distribute this software*{.{0,120}}* for any
+    - "Permission to use, copy, modify, and*{.{0,5}}* distribute this software*{.{0,25}}* for any 
        purpose with or without fee is hereby granted"
     - "provided that the above copyright notice and this permission notice appear in all copies"
     - "THE SOFTWARE IS PROVIDED AS IS AND *{.{0,75}}*DISCLAIM*{.{0,2}}* ALL WARRANTIES WITH REGARD
@@ -64,6 +67,7 @@ evidence:
     - "Copyright (c) 2008 Otto Moerbeek <otto@drijf.net>
 
        Permission to use, copy, modify, and distribute this software for"
+    - "Sponsored in part by the Defense Advanced Research Projects Agency (DARPA) and Air Force Research Laboratory, Air Force Materiel Command, USAF, under agreement number F39502-99-1-0512" # Permission Terms (Sudo)
 
 licenseTemplate: "<lq>Permission to use, copy, modify, and/or distribute this software for any purpose
                   with or without fee is hereby granted,

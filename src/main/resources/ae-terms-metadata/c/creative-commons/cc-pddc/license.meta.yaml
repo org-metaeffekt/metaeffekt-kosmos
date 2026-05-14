@@ -1,3 +1,4 @@
+# FIXME-IMPLEMENT: use last canonicalName; Creative Commons Public Domain Dedication and Certification
 canonicalName: Creative Commons PDDC
 category: CC-PDDC
 spdxIdentifier: CC-PDDC
@@ -16,6 +17,7 @@ alternativeNames:
   - "CC-PDDC"
   - "Creative Commons Public Domain Dedication and Certification"
   - "AOP Public Domain License"
+  - "Creative Commons Public Domain Certification"
 
 otherIds:
   - "scancode:cc-pd"

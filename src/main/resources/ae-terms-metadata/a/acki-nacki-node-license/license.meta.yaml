@@ -1,0 +1,30 @@
+canonicalName: Acki Nacki Node License
+category: Acki Nacki
+shortName: Acki-Nacki-Node
+
+otherIds:
+  - "scancode:acki-nacki-node-2024-10-04"
+
+alternativeNames:
+  - "acki nacki node license"
+  - "Acki Nacki Node License 2024-10-04"
+
+expectedMatches:
+  - "GNU Affero General Public License 3.0"
+
+evidence:
+  matches:
+    - "The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work"
+    - "Effective on the Change Date, or the second anniversary of the first publicly available distribution of a specific 
+       version of the Licensed Work under this License, whichever comes first, the Licensor hereby grants you rights 
+       under the terms of the Change License, and the rights granted in the paragraph above terminate"
+    - "If your use of the Licensed Work does not comply with the requirements currently in effect as described in this 
+       License, you must purchase a commercial license from the Licensor, its affiliated entities, or authorized 
+       resellers, or you must refrain from using the Licensed Work"
+    - "All copies of the original and modified Licensed Work, and derivative works of the Licensed Work, are subject to this License"
+    - "This License does not grant you any right in any trademark or logo of Licensor or its affiliates"
+
+references:
+  "MIT":
+    matches:
+      - "Acki Nacki Node License"

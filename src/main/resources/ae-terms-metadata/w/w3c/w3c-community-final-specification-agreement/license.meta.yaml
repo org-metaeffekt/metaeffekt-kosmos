@@ -1,0 +1,35 @@
+canonicalName: W3C Community Final Specification Agreement
+category: W3C
+shortName: W3C Community-Final-Specification-Agreement
+
+otherIds:
+  - "scancode:w3c-community-final-spec"
+
+evidence:
+  matches:
+    - "This Agreement sets forth the terms under which I make certain copyright and patent rights available to you for your implementation of the Specification"
+    - "As a condition of the copyright grant, you must include an attribution to the Specification in any derivative work you make based on the Specification"
+    - "I may also, at my option, make certain intellectual property rights infringed by implementations of the Specification, including Essential Claims, available by providing those terms via the W3C Web site"
+    - "I acknowledge that I may compete with other participants, that I am under no obligation to implement the Specification, that each participant is free to develop competing technologies and standards"
+
+references:
+  "W3C Community Contributor":
+    matches:
+      - "To secure commitments from participants for the full text of a Community or Business Group Report, the group may call for voluntary commitments to the following terms; a summary is available. See also the related W3C Community Contributor License Agreement."
+
+
+segmentation:
+  revert: [
+    { match:
+        "W3C Community Final Specification Agreement To secure commitments from participants for the full text of a Community or Business Group Report, the group may call for voluntary commitments to the following terms; a summary is available. See also the related W3C Community Contributor License Agreement.",
+      matchNext:
+        "1. The Purpose of this Agreement. This Agreement sets forth the terms under which I make certain copyright and patent rights available to you for your implementation of the Specification. Any other capitalized terms not specifically defined herein have the same meaning as those terms have in the W3C Patent Policy, and if not defined there, in the W3C Process Document"
+    },
+    { match:
+        "Non-Circumvention. I agree that I will not intentionally take or willfully assist any third party to take any action for the purpose of circumventing my obligations under this Agreement.",
+      matchNext:
+        "7. Transition to W3C Recommendation Track. The Specification developed by the Project may transition to the W3C Recommendation Track"
+    },
+]
+
+

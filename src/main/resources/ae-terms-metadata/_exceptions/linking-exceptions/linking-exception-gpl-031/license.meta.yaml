@@ -1,0 +1,27 @@
+canonicalName: Linking Exception (GPL; variant 031)
+category: GPL Linking Exception
+shortName: Linking-Exception-GPL-031
+spdxIdentifier: x11vnc-openssl-exception
+# NOTE: even though scancode links this SpdxID to their ID "openssl-exception-gpl-2.0" - they are different!
+
+type: exception
+
+canonicalNameHistory:
+  - "x11vnc OpenSSL Exception"
+
+alternativeNames:
+  - "x11vnc OpenSSL Exception"
+  - "https://github.com/LibVNC/x11vnc/blob/master/src/8to24.c#L22"
+
+evidence:
+  matches:
+    - "In addition, as a special exception, Karl J. Runge gives permission to link the code of its release of
+       x11vnc with the OpenSSL project's 'OpenSSL' library (or with modified versions of it that use the same
+       license as the 'OpenSSL' library), and distribute the linked executables"
+    - "You must obey the GNU General Public License in all respects for all of the code used other than 'OpenSSL'"
+    - "If you modify this file, you may extend this exception to your version of the file, but you are not obligated to do so"
+
+references:
+  "GPL Linking Exception":
+      matches:
+        - "This is very similar to openvpn-openssl-exception with a couple key differences"

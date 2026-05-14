@@ -1,0 +1,20 @@
+canonicalName: Microchip PK2CMD License 2009
+category: Microchip PK2CMD License
+shortName: Microchip-PK2CMD-2009
+
+otherIds:
+  - "scancode:microchip-pk2cmd-2009"
+
+alternativeNames:
+  - "Microchip pk2cmd License 2009"
+  - "Microchip PK2CMD License 2009"
+  - "microchip-pk2cmd-2009"
+  - "Microchip-PK2CMD-2009"
+
+evidence:
+  matches:
+    - "You may use, copy, modify and distribute the Software for use with Microchip products only"
+    - "If you distribute the Software or its derivatives, the Software must have this entire copyright
+       and disclaimer notice prominently posted in a location where end users will see it (e.g.,
+       installation program, program headers, About Box, etc.)"
+    - "To the maximum extent permitted by law, this Software is distributed"

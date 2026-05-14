@@ -36,3 +36,4 @@ evidence:
     - "This Agreement and any exhibits incorporated into this Agreement constitute the
        entire agreement of the parties with respect to the subject matter of this Agreement
        and supersede all prior negotiations or documentation exchanged between the parties"
+    - "If and to the extent there is a conflict between the terms in this Agreement and the license terms associated with the component, the license terms associated with the components control only to the extent necessary to resolve the conflict"

@@ -1,0 +1,15 @@
+canonicalName: GNU General Public License 2.0 (with Alfresco Exception 0.5 (FLOSS))
+category: GPL+Alfresco Exception
+shortName: GPL-2.0-Alfresco-Exception-0.5-FLOSS
+
+type: expression
+
+alternativeNames:
+  - "Linden Research Viewer GNU General Public License v2.0 with FLOSS Exception v0.5" # for external identification purposes
+  - "GNU General Public License with FLOSS Exception v2.0" # for external identification purposes
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Alfresco Exception 0.5 (FLOSS))
+  "Alfresco Exception 0.5 (FLOSS)": GNU General Public License 2.0 (with Alfresco Exception 0.5 (FLOSS))

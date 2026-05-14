@@ -1,0 +1,19 @@
+canonicalName: FlowCrypt License 1.2
+category: FlowCrypt
+shortName: FlowCrypt-1.2
+
+otherIds:
+  - "scancode:flowcrypt-1.2"
+
+alternativeNames:
+  - "FlowCrypt License v1.2"
+  - "Flowcrypt License v1.2"
+
+evidence:
+  matches:
+    - "You are granted limited license to the Software under this FlowCrypt License"
+    - "Subject to the Use Limitation, Licensor grants you a non-exclusive, worldwide (subject to applicable laws) license to use the Software"
+    - "If your use of the Software exceeds, or will exceed, the foregoing limitations you MUST obtain alternative 
+       licensing terms for the Software directly from Licensor, its affiliated entities, or authorized resellers"
+    - "Modification of the Software is permitted for individual non-commercial use"
+    - "All copies of original and modified Software, and derivative works of the Software, are subject to this FlowCrypt License"

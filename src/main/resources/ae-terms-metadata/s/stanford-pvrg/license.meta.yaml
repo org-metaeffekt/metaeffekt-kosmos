@@ -22,3 +22,8 @@ evidence:
     - "Any public reference or advertisement of this source code should refer to it
        as the Portable Video Research Group (PVRG)"
 
+references:
+  "Public Domain":
+    matches:
+      - "PUBLIC DOMAIN LICENSE: Stanford University Portable Video Research Group.
+        If you use this software, you agree to the following"

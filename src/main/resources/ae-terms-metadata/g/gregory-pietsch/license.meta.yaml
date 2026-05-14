@@ -8,6 +8,9 @@ otherIds:
 alternativeNames:
   - "Gregory Pietsch Liberal License"
 
+expectedMatches:
+  - "Public Domain"
+
 evidence:
   matches:
     - "This file and the accompanying getopt.c implementation file are hereby placed

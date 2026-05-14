@@ -1,6 +1,9 @@
-canonicalName: Opensecurity Exception (Business Source License 1.1)
+canonicalName: Opensecurity Exception (BSL-1.1)
 category: Opensecurity Exception
-shortName: Opensecurity-Exception-Business-Source-1.1
+shortName: Opensecurity-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "Opensecurity Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -9,7 +12,7 @@ alternativeNames:
   - "Opensecurity additional use grant for BSL"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with Opensecurity Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with Opensecurity Exception (BSL-1.1))
 
 evidence:
   matches:

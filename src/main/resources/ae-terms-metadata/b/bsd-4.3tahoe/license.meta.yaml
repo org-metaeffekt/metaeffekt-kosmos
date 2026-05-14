@@ -1,15 +1,12 @@
 canonicalName: BSD 4.3 TAHOE License
-category: BSD-4.3TAHOE
-spdxIdentifier: BSD-4.3TAHOE
+category: BSD 4.3 TAHOE
+shortName: BSD-4.3-TAHOE
+# spdxIdentifier: BSD-4.3TAHOE
 
+ignore: true
 # Note: very similar to "Redistribution Terms (variant 007)" except for copyright and spelling mistake: "MERCHANTABILITY".
 #otherIds:
 #  - "scancode:bsd-original-uc-1990" # deprecated, same license text as "bsla"
-
-alternativeNames:
-  - "BSD-4.3TAHOE"
-  - "BSD 4.3 TAHOE License"
-  - "BSD-Original-UC-1990"
 
 evidence:
   matches:

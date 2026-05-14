@@ -17,6 +17,9 @@ alternativeNames:
   - "BSD-3-Clause-Clear"
   - "BSD 3-Clause Clear License"
   - "Clear BSD License"
+  - "BSD-3-Clause Clear License"
+  - "Clear BSD"
+  - "Clear BSD License"
 
 expectedSpdxMatches:
   - "BSD 3-Clause License (clear)"

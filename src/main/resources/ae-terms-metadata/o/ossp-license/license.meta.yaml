@@ -1,0 +1,13 @@
+canonicalName: OSSP License
+category: OSSP License
+spdxIdentifier: OSSP
+
+alternativeNames:
+  - "OSSP License"
+  - "OSSP-License"
+
+evidence:
+  matches:
+    - "This file is part of OSSP var, a variable expansion library which can be found at http://www.ossp.org/pkg/lib/var/"
+    - "Permission to use, copy, modify, and*{.{0,5}}* distribute this software*{.{0,25}}* for any purpose with or without fee is hereby granted"
+    - "provided that the above copyright notice and this permission notice appear in all copies"

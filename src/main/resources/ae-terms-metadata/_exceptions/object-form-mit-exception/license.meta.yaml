@@ -1,12 +1,18 @@
-canonicalName: Object Form MIT Exception
-category: Object Form MIT Exception
-shortName: Object-Form-MIT-Exception
+canonicalName: Object Form Exception (MIT)
+category: Object Form Exception
+shortName: Object-Form-Exception-MIT
 spdxIdentifier: fmt-exception
 
 type: exception
 
+# NOTE: in the official license file the license is linked to an MIT Liense
+# source: https://github.com/fmtlib/fmt/blob/2eb363297b24cd71a68ccfb20ff755430f17e60f/LICENSE#L22C1-L27C62
+
 otherIds:
   - "scancode:object-form-exception-to-mit"
+
+canonicalNameHistory:
+  - "Object Form MIT Exception"
 
 alternativeNames:
   - "Object Form MIT Exception"

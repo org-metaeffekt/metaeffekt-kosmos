@@ -1,14 +1,19 @@
-canonicalName: GNU General Public License 2.0 (or any later version; with Open Motif exception)
-category: GPL+Open Motif
-shortName: GPL-2.0+-Open-Motif-Exception
+canonicalName: GNU General Public License 2.0 (or any later version; with Open Motif Exception (GPL))
+category: GPL+Open Motif Exception
+shortName: GPL-2.0+-Open-Motif-Exception-GPL
 
 type: expression
 
 otherIds:
   - "scancode:gpl-2.0-plus-openmotif"
 
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with Open Motif exception)"
+
+displayName: "GNU General Public License 2.0 (or any later version; with Open Motif Exception)"
+
 representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Open Motif exception)
-  Open Motif Exception: GNU General Public License 2.0 (or any later version; with Open Motif exception)
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Open Motif Exception (GPL))
+  Open Motif Exception (GPL): GNU General Public License 2.0 (or any later version; with Open Motif Exception (GPL))

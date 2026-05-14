@@ -26,3 +26,7 @@ references:
           Entire Agreement
           
           You agree that this agreement is the complete agreement for the Programs and licenses, and this agreement supersedes all prior or contemporaneous agreements or representations. If any term of this agreement is found to be invalid or unenforceable, the remaining provisions will remain effective."
+  "OTN":
+    matches:
+      - "Note: You are bound by the Oracle Technology Network (\"OTN\") License Agreement terms. The OTN License Agreement terms also apply to all updates you receive under your Technology Track subscription. 
+        The OTN License Agreement terms below supersede any shrinkwrap license on the OTN Technology Track software CDs and previous OTN License terms (including the Oracle Program License as modified by the OTN Program Use Certificate)."

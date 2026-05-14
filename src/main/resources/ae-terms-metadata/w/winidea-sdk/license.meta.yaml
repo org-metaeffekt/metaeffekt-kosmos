@@ -1,0 +1,18 @@
+canonicalName: winIDEA SDK License
+category: winIDEA SDK
+shortName: winIDEA-SDK
+
+otherIds:
+  - "scancode:winidea-sdk-2025"
+
+evidence:
+  matches:
+    - "The software is confidential and copyrighted"
+    - "Title to the software and all associated intellectual property rights is retained by TASKING Germany GmbH and/or its licensors"
+    - "Unless enforcement is prohibited by applicable law, you may not modify, decompile, or reverse engineer the software"
+    - "TASKING grants you a non-exclusive license to use the software in the manner and for purposes described in the documentation"
+    - "You may make a reasonable number of backup copies of the Software, provided your backup copies are not installed or used for other than archival purposes"
+    - "The software is free to use and distribute but must not be resold without permission of TASKING"
+
+
+

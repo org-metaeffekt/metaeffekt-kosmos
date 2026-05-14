@@ -8,6 +8,11 @@ otherIds:
 alternativeNames:
   - "Microsoft CAPICOM License"
   - "MICROSOFT CAPICOM"
+  - "Microsoft Software License (Microsoft CAPICOM License)"
+  - "Microsoft Software License (Microsoft CAPICOM License) ( MS-CAPICOM)" # for identification purposes, only
+
+alternativeShortNames:
+  - "MS-CAPICOM"
 
 evidence:
   matches:

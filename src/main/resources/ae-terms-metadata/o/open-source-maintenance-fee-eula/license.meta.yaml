@@ -1,0 +1,20 @@
+canonicalName: Open Source Maintenance Fee EULA
+category: Open Source Maintenance Fee
+shortName: Open-Source-Maintenance-Fee-EULA
+
+otherIds:
+  - "scancode:os-maintenance-fee-eula"
+
+evidence:
+  matches:
+    - "Project agrees to provide User with the Binary Release in exchange for the
+       Fees outlined in Section 2, subject to the terms of this Agreement"
+    - "The Software's source code is licensed to User
+       under the OSI License and remains freely distributable under the terms of the
+       OSI License and any applicable open-source licenses"
+    - "To the extent any term of this Agreement conflicts with User's rights
+       under the OSI License regarding the Software, the OSI License shall govern"
+    - "THE SOFTWARE AND BINARY RELEASE ARE PROVIDED BY THE PROJECT \"AS IS\" AND ANY
+        EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+        WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+        DISCLAIMED"

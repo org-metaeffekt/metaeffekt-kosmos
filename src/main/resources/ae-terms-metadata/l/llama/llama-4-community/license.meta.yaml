@@ -1,0 +1,43 @@
+canonicalName: Llama 4 Community License Agreement
+category: Llama 4 Community License Agreement
+shortName: Llama-4-Community
+
+otherIds:
+  - "scancode:llama-4-cla-2025"
+
+alternativeNames:
+  - "Llama 4 Community License Agreement 2025"
+  - "Llama 4 Community License Agreement (2025)"
+  - "LlaMa 4 Community License Agreement 2025"
+  - "llama-4-cla-2025"
+  - "LlaMa-4-CLA-2025"
+
+canonicalNameHistory:
+  - "LlaMa 4 Community License Agreement 2025"
+
+evidence:
+  matches:
+    - "You must retain in all copies of the Llama Materials that you distribute the following attribution notice within
+       a “Notice” text file distributed as a part of such copies: “Llama 4 is licensed under the Llama 4 Community License”"
+    - "Your use of the Llama Materials must comply with applicable laws and regulations (including trade compliance laws
+       and regulations) and adhere to the Acceptable Use Policy for the Llama Materials"
+    - "If, on the Llama 4 version release date, the monthly active users of the products or services made available by
+       or for Licensee, or Licensee’s affiliates, is greater than 700 million monthly active users in the preceding
+       calendar month, you must request a license from Meta, which Meta may grant to you in its sole discretion, and
+       you are not authorized to exercise any of the rights under this Agreement unless or until Meta otherwise expressly
+       grants you such rights"
+    - "Subject to Meta’s ownership of Llama Materials and derivatives made by or for Meta, with respect to any derivative
+       works and modifications of the Llama Materials that are made by you, as between you and Meta, you are and will be
+       the owner of such derivative works and modifications"
+    - "If you institute litigation or other proceedings against Meta or any entity (including a cross-claim or counterclaim
+       in a lawsuit) alleging that the Llama Materials or Llama 4 outputs or results, or any portion of any of the foregoing,
+       constitutes infringement of intellectual property or other rights owned or licensable by you, then any licenses
+       granted to you under this Agreement shall terminate as of the date such litigation or claim is filed or instituted"
+    - "You will indemnify and hold harmless Meta from and against any claim by any third party arising out of or related
+       to your use or distribution of the Llama Materials"
+    - "The term of this Agreement will commence upon your acceptance of this Agreement or access to the Llama Materials
+       and will continue in full force and effect until terminated in accordance with the terms and conditions herein"
+    - "Meta may terminate this Agreement if you are in breach of any term or condition of this Agreement"
+    - "Upon termination of this Agreement, you shall delete and cease use of the Llama Materials"
+    - "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Meta’s intellectual property"
+    - "Llama 4 is licensed under the Llama 4 Community License"

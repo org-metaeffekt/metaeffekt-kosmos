@@ -1,0 +1,13 @@
+canonicalName: GNU Library General Public License 2.0 (or any later version; with wxWindows Restricted Exception 3.0 (LGPL-2.0+))
+category: LibraryGPL+wxWindows Restricted Exception
+shortName: LGPL-2.0+-wxWindows-Restricted-Exception-3.0-LGPL-2.0+
+
+type: expression
+
+
+representedAs: GNU Library General Public License 2.0 (or any later version; with exceptions)
+displayName: GNU Library General Public License 2.0 (or any later version; with wxWindows Restricted Exception 3.0)
+
+combinedWith:
+  "GNU Library General Public License 2.0 (or any later version)": "GNU Library General Public License 2.0 (or any later version; with wxWindows Restricted Exception 3.0 (LGPL-2.0+))"
+  "wxWindows Restricted Exception 3.0 (LGPL-2.0+)": "GNU Library General Public License 2.0 (or any later version; with wxWindows Restricted Exception 3.0 (LGPL-2.0+))"

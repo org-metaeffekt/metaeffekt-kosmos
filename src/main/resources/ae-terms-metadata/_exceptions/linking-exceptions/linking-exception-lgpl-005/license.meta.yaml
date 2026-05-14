@@ -1,7 +1,8 @@
 canonicalName: Linking Exception (LGPL; variant 005)
 category: LGPL Linking Exception
-spdxIdentifier: GCC-exception-2.0
 shortName: Linking-Exception-LGPL-005
+# NOTE: this spdxID belongs here! manually verified.
+spdxIdentifier: GCC-exception-2.0
 
 type: exception
 
@@ -33,6 +34,6 @@ references:
     matches:
     - "The General Public License restrictions do apply in other respects; for example, they cover modification
        of the file, and distribution when not linked into another program"
-  "LGPL":
+  "LibraryGPL":
     matches:
     - "In addition to the permissions in the GNU Library General Public License"

@@ -1,11 +1,12 @@
-canonicalName: Ekiga Exception (GPL 2.0 or later)
+canonicalName: Ekiga Exception (GPL-2.0+)
 category: Ekiga
-shortName: Ekiga-Exception-2.0-Plus
+shortName: Ekiga-Exception-GPL-2.0+
 
 type: exception
 
 canonicalNameHistory:
   - "Ekiga exception to GPL 2.0 or later"
+  - "Ekiga Exception (GPL 2.0 or later)"
 
 otherIds:
   - "scancode:ekiga-exception-2.0-plus"
@@ -14,7 +15,7 @@ alternativeNames:
   - "Ekiga exception to GPL 2.0 or later"
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Ekiga Exception (GPL 2.0 or later))
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Ekiga Exception (GPL-2.0+))
 
 evidence:
   matches:

@@ -2,7 +2,8 @@ canonicalName: ECMA License
 category: ECMA
 shortName: ECMA
 
-# FIXME-DISCUSS: Our "ECMA License" is the same as "ECMAScript Language Specification 5.1 (ECMA-262)" which can be found online. Do we want to adjust the naming of this license to be more specific or keep it vague? What is right here?
+# FIXME-DISCUSS: Our "ECMA License" is the same as "ECMAScript Language Specification 5.1 (ECMA-262)" which can be found
+#   online. Do we want to adjust the naming of this license to be more specific or keep it vague? What is right here?
 
 alternativeNames:
   - "ECMA License"

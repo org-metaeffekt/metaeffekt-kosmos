@@ -1,10 +1,13 @@
-canonicalName: Business Source License 1.1 (with immudb Exception (Business Source License 1.1))
-category: Business Source+immudb
-shortName: Business-Source-1.1-immudb-Exception
+canonicalName: Business Source License 1.1 (with immudb Exception (BSL-1.1))
+category: BSL+immudb
+shortName: BSL-1.1-immudb-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with immudb Exception (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with immudb Exception)
 
 combinedWith:
-  immudb Exception (Business Source License 1.1): Business Source License 1.1 (with immudb Exception (Business Source License 1.1))
+  immudb Exception (BSL-1.1): Business Source License 1.1 (with immudb Exception (BSL-1.1))

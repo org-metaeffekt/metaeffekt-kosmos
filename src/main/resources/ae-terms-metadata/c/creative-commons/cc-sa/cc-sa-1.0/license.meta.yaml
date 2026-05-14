@@ -1,6 +1,6 @@
 canonicalName: Creative Commons SA 1.0
 category: CC-SA
-shortName: CC-SA-1.0
+spdxIdentifier: CC-SA-1.0
 
 otherIds:
   - "scancode:cc-sa-1.0"

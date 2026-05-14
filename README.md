@@ -1,5 +1,20 @@
 # metæffekt Kosmos
 
+Project providing parts on the {metæffekt} license database covering
+
+* 2431 modeled license terms,
+* 214 exceptions,
+* 15 modifiers
+* 2 restrictions
+* 326 specific and commonly used license expressions, and
+* 2 consolidated markers
+
+as of May 14th 2026.
+
+A total of 2662 differentiated terms, modifiers, restrictions and exceptions!
+
+Make sure to compare with [{metæffekt} Universe](https://github.com/org-metaeffekt/metaeffekt-universe).
+
 ## Structure
 
 The primary data is located in
@@ -47,13 +62,13 @@ The metæffekt Kosmos is build based on various external sources including:
   Copyright (c) nexB Inc. and others. All rights reserved.
   ScanCode is a trademark of nexB Inc.
 
-- [Open CoDE License Compliance](https://wikijs.opencode.de/de/Hilfestellungen_und_Richtlinien/Lizenzcompliance)
-  approval information is Open CoDE Public Domain. The status information shown reflects version 1.4 from
-  January 2024.
+- [openCode License Compliance](https://wikijs.opencode.de/de/Hilfestellungen_und_Richtlinien/Lizenzcompliance)
+  approval information is openCode Public Domain. The status information shown reflects version 1.7 from
+  23.02.2026.
 
 The content provided in {metæffekt}-universe is licensed under [Creative Commons BY-4.0](LICENSE).
 
-Copyright © metaeffekt GmbH 2021-2024. All rights reserved.
+Copyright © metaeffekt GmbH 2021-2026. All rights reserved.
 
 ## Contribution
 As this repository is largely showing converted data. A direct contribution in the form of patches is

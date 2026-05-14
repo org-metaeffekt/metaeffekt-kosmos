@@ -10,3 +10,4 @@ alternativeNames:
 alternativeShortNames:
   - "Elastic-License"
   - "Elastic License"
+  - "Elastic License Agreement" # NOTE: keep to match external naming

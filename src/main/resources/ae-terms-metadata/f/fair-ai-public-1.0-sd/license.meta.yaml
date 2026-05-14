@@ -1,0 +1,43 @@
+canonicalName: Fair AI Public License 1.0-SD
+category: Fair AI
+shortName: Fair-AI-Public-1.0-SD
+
+otherIds:
+  - "scancode:fair-ai-public-1.0-sd"
+
+alternativeNames:
+  - "Fair AI Public License 1.0-SD"
+
+evidence:
+  matches:
+    - "Each contributor licenses you to do everything with this software that would 
+      otherwise infringe that contributor's copyright in it"
+    - "Neither this software nor any work that is combined with this software will be 
+      considered a technological protection measure under the WIPO Copyright Treaty 
+      or any similar law"
+    - "You must ensure that everyone who gets a copy of any part of this software from 
+      you, with or without changes, also gets the text of this license along with
+      the corresponding source code"
+    - "If you modify this software and allow users to interact with it through a
+      computer network, you must ensure they have a reasonable way to receive the
+      corresponding source code from you, whether that is via a download link or a
+      prominent written offer"
+    - "As a special case, if you are only allowing users to
+      interact with a derived model, then you may choose to provide a download link
+      or written offer only for the derived model"
+    - "This software, all source code, and all modifications must be provided under
+      this license or another license that allows everything this license allows"
+    - "You may not use this model or any derived model for the following"
+    - "For the purpose of exploiting, harming or attempting to exploit or harm 
+      minors in any way"
+
+secondaryLicenses:
+  - "GNU Affero General Public License 3.0 (or any later version)"
+
+references:
+  "AGPL":
+    matches:
+      - "## Alternatives
+        You can also use any non-model parts of this software under the terms of the
+        GNU AGPL 3.0, or any later version of that license"
+

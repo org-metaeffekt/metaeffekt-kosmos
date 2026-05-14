@@ -1,18 +1,19 @@
-canonicalName: Erlang Linking Exception (AGPL; with source provision obligation)
+canonicalName: Erlang Linking Exception (AGPL-3.0; with source provision obligation)
 category: Erlang Linking Exception
 spdxIdentifier: erlang-otp-linking-exception
-shortName: Linking-Exception-AGPL-source
+shortName: Erlang-Linking-Exception-AGPL-3.0-source
 
 type: exception
 
 canonicalNameHistory:
   - "Linking Exception (AGPL; variant 002)"
+  - "Erlang Linking Exception (AGPL; with source provision obligation)"
 
 otherIds:
   - "scancode:erlang-otp-linking-exception"
 
 combinedWith:
-  "GNU Affero General Public License 3.0": "GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL; with source provision obligation))"
+  "GNU Affero General Public License 3.0": "GNU Affero General Public License 3.0 (with Erlang Linking Exception (AGPL-3.0; with source provision obligation))"
 
 evidence:
   matches:

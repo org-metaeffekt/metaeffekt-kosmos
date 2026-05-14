@@ -1,0 +1,19 @@
+canonicalName: CockroachDB Software License
+category: CockroachDB License
+shortName: CockroachDB-Software
+
+otherIds:
+  - "scancode:cockroachdb-2024-10-01"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this Agreement, Licensor grants You a
+       non-exclusive, worldwide, non-sublicensable, non-transferable license to"
+    - "use, copy, and distribute the Software, and create Modified Versions"
+    - "make, have made, use, sell, offer for sale and import the Software, where such license
+       applies only to those patent claims licensable to You by Licensor that are
+       necessarily infringed by the Software as made available to You by Licensor"
+    - "You will not operate the Software or a Modified Version without a License Key
+       except for Limited Non-Production Use"
+    - "You agree to adhere to any limitations specified by Licensor regarding use of the License Key at the time it is
+       provided to You"

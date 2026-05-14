@@ -1,12 +1,9 @@
-canonicalName: CC0 1.0 Public Domain Dedication
-category: CC0-PDD
-shortName: CC0-1.0-PDD
+canonicalName: Public Domain Dedication (CC0-1.0)
+category: PDD-CC0
+shortName: PDD-CC0-1.0
 
 status:
   - "reviewed: 08.04.25"
-
-requiresCopyright: false
-requiresLicenseText: false
 
 alternativeNames:
   - "CC0-1.0 Public Domain Dedication"
@@ -20,7 +17,13 @@ alternativeNames:
   - "public domain under CC0"
 
 combinedWith:
-  "Public Domain": "CC0 1.0 Public Domain Dedication"
+  "Public Domain": "Public Domain Dedication (CC0-1.0)"
+
+canonicalNameHistory:
+  - "CC0 1.0 Public Domain Dedication"
+
+requiresCopyright: false
+requiresLicenseText: false
 
 evidence:
   matches:

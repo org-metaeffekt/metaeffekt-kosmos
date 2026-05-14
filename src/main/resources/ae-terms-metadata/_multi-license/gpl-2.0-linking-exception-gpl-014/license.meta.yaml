@@ -1,0 +1,17 @@
+canonicalName: GNU General Public License 2.0 (with Linking Exception (GPL; variant 014))
+category: GPL+Linking
+shortName: GPL-2.0-Linking-Exception-GPL-014
+
+type: expression
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+displayName:
+  "GNU General Public License 2.0 (with Linking Exception (variant 014))"
+
+alternativeNames:
+  - "GNU General Public License v2.0 w/GCC Runtime Library exception"
+
+combinedWith:
+  Linking Exception (GPL; variant 014): GNU General Public License 2.0 (with Linking Exception (GPL; variant 014))
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Linking Exception (GPL; variant 014))

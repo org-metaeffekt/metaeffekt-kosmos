@@ -1,0 +1,39 @@
+canonicalName: bilibili Model Use License Agreement (2025-09-09)
+category: bilibili Model ULA
+shortName: bilibili-model-ula-2025-09-09
+
+otherIds:
+  - "scancode:bilibili-model-ula-2025-09-09"
+
+alternativeNames:
+  - "bilibili Model Use License Agreement 2025-09-09"
+  - "bilibili Model Use License Agreement (2025-09-09)"
+  - "bilibili Model Use License Agreement"
+  - "bilibili-model-ula-2025-09-09"
+  - "bilibili Model ULA"
+
+evidence:
+  matches:
+    - "You must ensure that the Model and any Derivative Work are not deployed, directly or indirectly, in high-risk
+       scenarios such as medical diagnosis, autonomous driving, military applications, critical-infrastructure control,
+       large-scale biometric surveillance, or automated decision-making (e.g., credit or employment evaluations)"
+    - "If you insist on such deployment, you must independently complete all compliance obligations under applicable
+       laws and regulations (including but not limited to GDPR, CCPA, HIPAA, export-control laws, and AI-specific
+       regulations), and we shall bear no liability for any consequences arising therefrom"
+    - "Should any third party raise claims against you with respect to any Derivative Work you develop or your Use of
+       the Model or any Derivative Work, you shall bear full and independent responsibility for defending against and
+       resolving such claims"
+    - "If your actions cause us to incur any third-party claims, administrative penalties, or other losses, you shall
+       indemnify us for all losses we thereby suffer, including but not limited to attorney fees, litigation costs,
+       damages, and fines, and shall take all necessary measures to eliminate any adverse impact on us"
+    - "We reserve the right to revoke the license granted to you under this Agreement in the event of your breach"
+    - "Upon revocation, you must immediately cease all Use and permanently delete all copies of the Model and any
+       Derivative Work"
+    - "Sections 3 and 6 of this Agreement shall survive termination of this Agreement under this circumstance"
+    - "Nothing in this Agreement grants you any right to use our trade names, trademarks, service marks, or product
+       names, except as reasonably and customarily required to describe the origin of the Model or any Derivative
+       Work—such as reproducing the content of a NOTICE file under Section 3.4 of this Agreement"
+    - "If you or any of your Affiliates institutes or participates in any legal proceeding (including any cross-claim
+       or counterclaim in a lawsuit) against us or any of our Affiliates, alleging that the Model or any output or any
+       portion thereof infringes any intellectual property or other rights that you own or control, all licenses granted
+       to you under this Agreement shall terminate automatically as of the date such proceeding is filed"

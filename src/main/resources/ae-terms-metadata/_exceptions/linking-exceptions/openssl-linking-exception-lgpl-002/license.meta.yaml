@@ -28,6 +28,6 @@ evidence:
        all of the code used other than OpenSSL"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "You must obey the GNU Lesser General Public License in all respects"

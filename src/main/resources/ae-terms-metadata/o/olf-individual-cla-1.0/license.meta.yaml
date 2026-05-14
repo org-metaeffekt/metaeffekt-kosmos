@@ -1,0 +1,66 @@
+canonicalName: Open Logistics Foundation Individual CLA 1.0
+category: Open Logistics Foundation Individual
+shortName: OLF-Individual-CLA-1.0
+
+otherIds:
+  - "scancode:olf-icla-1.0"
+
+alternativeNames:
+  - "Open Logistics Foundation Individual Contributor ICLA 1.0"
+
+evidence:
+  matches:
+    - "The Contributor hereby grants the Open Logistics Foundation and any third party who receives and/or
+      uses a Work or the Contributions themselves"
+    - "for commercial and non-commercial purposes"
+    - "to use the Contributions in their original form or in modified, translated, edited or transformed form on
+      their own or as a part of a Work in the following ways"
+    - "use them in any hardware and software environment"
+    - "However,  this  patent  license  covers  only  those  rights  deriving  from  the  patent  of  the  respective
+      Contributor as are indispensable in order not to infringe that patent and only to the extent that the
+      use  of  the  Contributor’s  respective  Contribution,  whether  in  itself  or  as  a  combination  with  other
+      Contributions  of  the  Contributor  or  any  third  parties  together  with  the  Work  for  which  these
+      Contributions  were  submitted,  would  otherwise  infringe  that  patent"
+
+  excludes:
+    - "Except in cases of intent and gross negligence or causing personal injury, the Contributor, its legal representatives, trustees, officers and employees shall not be liable towards the Open Logistics Foundation for direct or indirect, material or immaterial losses of any kind arising from the use of the Contributions"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "Individual name: Postal address: Account name: E-Mail: Referred to as “Contributor” or “you” 1 Definitions",
+      matchNext:
+        "(1) “Contribution” means any work protected under copyright, design and/or patent law, including any modifications of or additions to this work as well as adaptations of the work, that are submitted by the Contributor as right holder to the Open Logistics Foundation"
+    },
+    {
+      match:
+        "source code control systems and issue tracking systems; however, communications that the Contributor have clearly marked as “no contribution”, or which are otherwise identified as such in writing, are excluded.",
+      matchNext:
+        "(2) “Work” means any work protected under copyright, design and/or patent law containing a Contribution."
+    },
+    {
+      match:
+        "(2) “Work” means any work protected under copyright, design and/or patent law containing a Contribution.",
+      matchNext:
+        "(3) “Committers” are persons named by the Open Logistics Foundation or by Contributors who have write access to works or projects undertaken by the Open Logistics Foundation in the version control system"
+    },
+    {
+      match:
+        "means the version of the code of the respective Contribution – if the Contribution is a software – in the programming language.",
+      matchNext:
+        "(5) “Object Code” means the product of a compilation or translation process of the Source Code"
+    },
+    {
+      match:
+        "by granting usage rights under Section 2 above and patent licenses under Section 3 above, they are not infringing any rights granted by the Contributor to third parties.",
+      matchNext:
+        "(2) If the Contributor wishes to submit a third-party work, this must take place separately from any Contribution"
+    },
+    {
+      match:
+        "Other provisions",
+      matchNext:
+        "(1) This CLA is governed by German law, excluding the UN Convention on Contracts for the International Sale of Goods"
+    },
+]

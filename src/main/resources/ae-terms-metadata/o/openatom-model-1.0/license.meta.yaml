@@ -1,0 +1,58 @@
+canonicalName: OpenAtom Model License 1.0
+category: OpenAtom Model License
+shortName: OpenAtom-Model-1.0
+
+otherIds:
+  - "scancode:openatom-model-1.0"
+
+alternativeNames:
+  - "OpenAtom Model License Version 1.0"
+  - "OpenAtom Model License 1.0"
+  - "openatom-model-1.0"
+  - "OpenAtom-Model-1.0"
+  - "OpenAtom Model License, Version 1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual,
+       worldwide, no-charge, royalty-free, non-exclusive and irrevocable (except as stated in Section 2.2 of this
+       section where the license is revoked) copyright license to use, reproduce, create derivatives of, publicly
+       display, publicly perform, sublicense, and distribute the Model and such Derivatives of the Model,
+       the Complementary Material and modification thereof"
+    - "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide,
+       no-charge, royalty-free, non-exclusive, and irrevocable (except as stated in this section where the license is revoked)
+       patent license to make, have made, use, sell, offer to sell, import, or otherwise transfer the Model,
+       the Derivatives of the Model, the Complementary Material and modification thereof, where such license applies
+       only to those patent claims owned or controlled now or in the future by such Contributor that are necessarily
+       infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Model or the
+       Complementary Material to which such Contribution(s) was submitted. If You or Your Affiliated Entities institute
+       patent litigation (including a cross-claim or counterclaim in a lawsuit) or otherwise seek for enforcement of
+       patent right, alleging that the Model, the Complementary Material or a Contribution therein constitutes direct
+       or contributory patent infringement, then any licenses of intellectual property right granted to You under this
+       License shall terminate as of the date such litigation is instituted or such enforcement is sought by You or
+       Your Affiliated Entities"
+    - "In addition to the copyright and patent granted above, subject to the terms and conditions of this License,
+       each Contributor hereby grants to You a perpetual, worldwide, no-charge, royalty-free, non-exclusive and
+       irrevocable (except as stated in Section 2.2 where the license is revoked) license regarding other intellectual
+       property rights on the Model, the Derivatives of the Model, the Complementary Material and modification thereof
+       (except trademark right as explicitly excluded from this License) owned or controlled by such Contributor that
+       are necessarily infringed when You use, reproduce, create derivatives of, publicly display, publicly perform,
+       sublicense, and distribute the Model and such Derivatives of the Model, the Complementary Material
+       and modification thereof"
+    - "You may reproduce and distribute copies of the Model or Derivatives of the Model in any medium, the Complementary
+       Material and modification thereof, with or without modifications, provided that You meet the following conditions"
+    - "You must provide any recipients of the Model, Derivatives of the Model or the Complementary Material with a copy of this License"
+    - "You must retain all copyright, patent, trademark, and attribution notices contained in the Model, Derivatives of
+       the Model and the Complementary Material, excluding those not pertaining to any parts of the Model, Derivatives
+       of the Model or the Complementary Material"
+    - "You must provide recipients of the Model, Derivatives of the Model or the Complementary Material with prominent
+       notices stating that You modified the files and how You modified them"
+    - "You shall be solely responsible for compliance with applicable law, regulation, and procedure and shall not use the Model,
+       Derivatives of the Model and the Complementary Material for any unlawful purposes under the applicable law"
+    - "Particularly, when you provide users with Hosted Service based on the Model, Derivatives of the Model and the
+       Complementary Material, conditions set forth in Item (1) and (3) in this section shall not apply, while those
+       in Item (2) and (4) in this section still apply"
+    - "Subject to the conditions set forth in Section 3.1, You may add Your own intellectual property right notice
+       (including but not limited to copyright notice) to Your modifications and may provide additional or different
+       license terms and conditions for reproduction and distribution of Your modifications, or for such Derivatives
+       of the Model as a whole"

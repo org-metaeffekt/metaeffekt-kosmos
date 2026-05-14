@@ -1,0 +1,24 @@
+canonicalName: NTIA Public Domain Notice
+category: NTIA Public Domain Notice
+spdxIdentifier: NTIA-PD
+
+otherIds:
+  - "scancode:ntia-pd"
+
+alternativeNames:
+  - "NTIA Public Domain Notice"
+  - "https://raw.githubusercontent.com/NTIA/itm/refs/heads/master/LICENSE.md"
+  - "https://raw.githubusercontent.com/NTIA/scos-sensor/refs/heads/master/LICENSE.md"
+
+evidence:
+  matches:
+    - "This software was developed by employees of the National Telecommunications and Information Administration (NTIA),
+       an agency of the Federal Government and is provided to you as a public service"
+    - "You are solely responsible for determining the appropriateness of using and distributing the software and
+       you assume all risks associated with its use, including but not limited to the risks and costs of program
+       errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and the
+       unavailability or interruption of operation"
+    - "This software is not intended to be used in any situation where a failure could cause risk of injury or
+       damage to property"
+    - "Please provide appropriate acknowledgments of NTIA’s creation of the software in any copies or derivative
+       works of this software"

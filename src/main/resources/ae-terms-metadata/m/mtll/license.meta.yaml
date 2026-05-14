@@ -1,6 +1,9 @@
-canonicalName: MTLL
+canonicalName: Matrix Template Library License
 category: MTLL
 spdxIdentifier: MTLL
+
+canonicalNameHistory:
+  - "MTLL"
 
 otherIds:
   - "scancode:mtll"

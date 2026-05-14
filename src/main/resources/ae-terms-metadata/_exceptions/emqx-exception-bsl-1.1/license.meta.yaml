@@ -1,6 +1,9 @@
-canonicalName: EMQX Exception (Business Source License 1.1)
+canonicalName: EMQX Exception (BSL-1.1)
 category: EMQX Exception
-shortName: EMQX-Exception-Business-Source-1.1
+shortName: EMQX-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "EMQX Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -9,7 +12,7 @@ alternativeNames:
   - "EMQX additional use grant for BSL"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with EMQX Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with EMQX Exception (BSL-1.1))
 
 evidence:
   matches:

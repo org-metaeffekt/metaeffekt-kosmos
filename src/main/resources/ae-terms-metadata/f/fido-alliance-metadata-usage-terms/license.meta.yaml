@@ -1,0 +1,17 @@
+canonicalName: FIDO Alliance Metadata Usage Terms
+category: FIDO Alliance Metadata
+shortName: FIDO-Alliance-Metadata-Usage
+
+otherIds:
+  - "scancode:fido-metadata-ut-3.00"
+
+evidence:
+  matches:
+    - "Subject to your acceptance and agreement to be bound by these Terms, You may access and use the MDS in order to access, view, download and use the METADATA solely for the purpose of enabling authentication in accordance with FIDO Specifications"
+    - "Subject to your acceptance and agreement to be bound by these Terms, the Contributing Vendor of a Metadata Statement grants You a limited, royalty-free, non-exclusive, nontransferable, nonsublicenseable right to access, download, view and use the Metadata Statement solely for the purpose of enabling authentication"
+    - "Except as expressly provided in these Terms, the MDS may not be used, copied, reproduced, modified, republished, disassembled, reverse engineered, uploaded, or distributed in any way for any purpose without FIDO’s express prior written consent"
+    - "You agree that You will not remove, delete, detach or modify any Legal Header that is included in a Metadata Statement or a BLOB file"
+    - "You agree that You will promptly delete any copies of a Metadata Statement that is no longer present in the latest version of the BLOB file"
+    - "Your use of any third party’s website, services, or content is subject to the terms and conditions of such third party"
+    - "Without limiting anything else in these Terms or otherwise, FIDO and its subsidiaries, affiliates, suppliers, licensors, members, partners, relying parties and Contributing Vendors contributing their Metadata Statements (collectively, “FIDO Ecosystem Providers”) shall not be responsible for any errors or omissions in the MDS, METADATA or FIDO Materials"
+    - "EACH PARTY SHALL NOT BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, EXTRA-CONTRACTUAL, OR PUNITIVE DAMAGES OF ANY KIND WHATSOEVER, INCLUDING LOST REVENUES OR LOST PROFITS, WHICH MAY OR DOES RESULT FROM THIS AGREEMENT OR THE SUBJECT MATTER THEREOF"

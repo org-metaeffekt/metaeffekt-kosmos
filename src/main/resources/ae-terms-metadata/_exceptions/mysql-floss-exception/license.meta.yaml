@@ -1,18 +1,21 @@
-canonicalName: MySQL FLOSS Exception (GPL)
+canonicalName: MySQL FLOSS Exception 0.6 (GPL-2.0)
 category: MySQL FLOSS
-shortName: MySQL-FLOSS-Exception
+shortName: MySQL-FLOSS-Exception-0.6-GPL-2.0
 
 type: exception
 
 otherIds:
   - "scancode:mysql-floss-exception-2.0"
 
+canonicalNameHistory:
+  - "MySQL FLOSS Exception (GPL)"
+
 alternativeNames:
   - "MySQL FLOSS License Exception"
   - "The MySQL AB Exception for Free/Libre and Open Source Software-only Applications Using MySQL Client Libraries (the \"FLOSS Exception\"). Version 0.6, 7 March 2007"
 
 combinedWith:
-  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception (GPL))
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception 0.6 (GPL-2.0))
 
 
 evidence:

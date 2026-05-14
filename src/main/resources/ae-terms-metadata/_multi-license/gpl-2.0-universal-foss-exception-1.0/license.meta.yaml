@@ -1,0 +1,18 @@
+canonicalName: GNU General Public License 2.0 (with Universal FOSS Exception 1.0)
+category: GPL+Universal FOSS Exception
+shortName: GPL-2.0-Universal-FOSS-Exception-1.0
+
+type: expression
+
+alternativeNames:
+  - "GPL-2.0 with Universal FOSS Exception, Version 1.0"
+  - "GPL-2.0-with-Universal-FOSS-exception-1.0"
+
+displayName:
+  "GNU General Public License 2.0 (with Universal FOSS Exception 1.0)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Universal FOSS Exception 1.0)
+  "Universal FOSS Exception 1.0": GNU General Public License 2.0 (with Universal FOSS Exception 1.0)

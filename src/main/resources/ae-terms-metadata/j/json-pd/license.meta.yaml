@@ -15,3 +15,12 @@ evidence:
     - "This code should be minified before deployment"
     - "USE YOUR OWN COPY"
     - "IT IS EXTREMELY UNWISE TO LOAD CODE FROM SERVERS YOU DO NOT CONTROL"
+
+references:
+  "Public Domain":
+    matches:
+      - "Public Domain.
+ 
+       NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
+       
+       See http://www.JSON.org/js.html"

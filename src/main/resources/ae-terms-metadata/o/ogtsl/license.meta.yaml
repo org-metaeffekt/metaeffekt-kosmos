@@ -5,6 +5,7 @@ spdxIdentifier: OGTSL
 otherIds:
   - "scancode:opengroup"
   - "osi:OGTSL"
+  - "osi-deprecated:opengroup"
 
 alternativeNames:
   - "Open Group Test Suite License"

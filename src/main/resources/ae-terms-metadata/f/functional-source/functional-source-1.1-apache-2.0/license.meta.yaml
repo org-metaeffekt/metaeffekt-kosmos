@@ -37,3 +37,12 @@ references:
            ## Abbreviation
 
            FSL-1.1-Apache-2.0"
+
+segmentation:
+  revert: [
+    { match:
+        "## Trademarks Except for displaying the License Details and identifying us as the origin of the Software, you have no right under these Terms and Conditions to use our trademarks, trade names, service marks or product names. # Grant of Future License",
+      matchNext:
+        "We hereby irrevocably grant you an additional license to use the Software under the Apache License, Version 2.0 that is effective on the second anniversary of the date we make the Software available"
+    }
+  ]

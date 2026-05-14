@@ -5,16 +5,18 @@ shortName: Autoconf-Exception
 type: exception
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Autoconf exception)
-  "GNU General Public License (undefined)": GNU General Public License (undefined; with Autoconf exception)
-  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Autoconf exception)
-  "FreeType Project License": FreeType Project License (with Autoconf exception)
-  GNU Library General Public License 2.0: GNU Library General Public License 2.0 (with Autoconf exception)
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Autoconf Exception)
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Autoconf Exception)
+  "GNU General Public License (undefined)": GNU General Public License (undefined; with Autoconf Exception)
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Autoconf Exception)
+  "FreeType Project License": FreeType Project License (with Autoconf Exception)
+  GNU Library General Public License 2.0: GNU Library General Public License 2.0 (with Autoconf Exception)
 
 alternativeNames:
   - "Autoconf Exception"
   - "Autoconf-Exception"
   - "autoconf-exception"
+  - "Autoconf exception"
 
 evidence:
   matches:

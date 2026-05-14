@@ -5,6 +5,7 @@ spdxIdentifier: EUDatagrid
 otherIds:
   - "scancode:eu-datagrid"
   - "osi:EUDatagrid"
+  - "osi-deprecated:eudatagrid"
 
 alternativeNames:
   - "EUDatagrid License"

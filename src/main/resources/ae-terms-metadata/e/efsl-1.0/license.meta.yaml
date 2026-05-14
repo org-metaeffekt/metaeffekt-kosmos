@@ -8,6 +8,9 @@ otherIds:
 alternativeNames:
   - "Eclipse Foundation Specification License - v1.0"
 
+alternativeShortNames:
+  - "EFS-1.0"
+
 requiresCopyright: true
 requiresLicenseText: true
 

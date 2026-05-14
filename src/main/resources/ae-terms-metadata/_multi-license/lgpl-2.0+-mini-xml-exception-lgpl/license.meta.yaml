@@ -1,0 +1,20 @@
+canonicalName: GNU Library General Public License 2.0 (or any later version; with Mini-XML Exception (LGPL-2.0+))
+category: LGPL+Mini-XML Exception
+shortName: LGPL-2.0+-Mini-XML-Exception
+
+otherIds:
+  - "scancode:mini-xml"
+
+type: expression
+
+canonicalNameHistory:
+  - "GNU Library General Public License 2.0 (or any later version; with Mini-XML exception 2.0)"
+  - "GNU Library General Public License 2.0 (or any later version; with Mini-XML exception (LGPL))"
+
+displayName:
+  "GNU Library General Public License 2.0 (or any later version; with Mini-XML Exception)"
+representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
+
+combinedWith:
+  "Mini-XML Exception (LGPL-2.0+)": GNU Library General Public License 2.0 (or any later version; with Mini-XML Exception (LGPL-2.0+))
+  "GNU Library General Public License 2.0 (or any later version)": GNU Library General Public License 2.0 (or any later version; with Mini-XML Exception (LGPL-2.0+))

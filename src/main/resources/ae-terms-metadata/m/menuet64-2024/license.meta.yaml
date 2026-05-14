@@ -1,0 +1,18 @@
+canonicalName: Menuet64 License 2024
+category: Menuet64 License
+shortName: Menuet64-2024
+
+otherIds:
+  - "scancode:menuet64-2024"
+
+alternativeNames:
+  - "Menuet64 License 2024"
+  - "menuet64-2024"
+  - "Menuet64-2024"
+
+evidence:
+  matches:
+    - "Free for personal and educational use"
+    - "Contact menuetos.net for commercial use"
+    - "Redistribution, reverse engineering, disassembly or decompilation
+       prohibited without permission from the copyright holders"

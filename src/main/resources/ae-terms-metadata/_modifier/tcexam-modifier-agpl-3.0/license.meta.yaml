@@ -1,0 +1,23 @@
+canonicalName: TCExam Modifier (AGPL-3.0)
+category: TCExam Modifier
+shortName: TCExam-Modifier-AGPL-3.0
+
+canonicalNameHistory:
+  - "TCExam Modifier (AGPL 3.0)"
+
+type: modifier
+
+classification: restriction
+
+comments:
+  - "source: https://github.com/tecnickcom/tcexam/blob/aff9e78acbe0b70c6dde043558cdde7a4c7e5e01/LICENSE.TXT#L7-L16"
+
+combinedWith:
+  GNU Affero General Public License 3.0: GNU Affero General Public License 3.0 (with TCExam Modifier (AGPL-3.0))
+
+evidence:
+  matches:
+    - "CAN'T ALTER, REMOVE, MOVE OR HIDE THE ORIGINAL TCEXAM LOGO, COPYRIGHTS STATEMENTS, LINKS TO TECNICK.COM AND 
+      TCEXAM WEBSITES, OTHER PROPRIETARY NOTICES, LEGENDS, SYMBOLS OR LABELS IN THE SOFTWARE"
+    - "TCEXAM NAME AND LOGO ARE TRADEMARKS OF TECNICK.COM LTD AND SHALL BE USED IN ACCORDANCE WITH ACCEPTED TRADEMARK 
+      PRACTICE, INCLUDING IDENTIFICATION OF TRADEMARK OWNER'S NAME"

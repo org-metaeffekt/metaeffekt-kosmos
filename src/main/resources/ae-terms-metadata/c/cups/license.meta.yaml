@@ -30,6 +30,12 @@ references:
           and GNU Library General Public License (\"LGPL\"), Version 2, with
           exceptions for Apple operating systems and the OpenSSL toolkit"
 #      - "CUPSTM is provided under the GNU General Public License (\"GPL\") and GNU Library General Public License (\"LGPL\"), Version 2, with exceptions for Apple operating systems and the OpenSSL toolkit"
+  "LibraryGPL":
+    matches:
+      - "CUPS(tm) is provided under the GNU General Public License (\"GPL\")
+          and GNU Library General Public License (\"LGPL\"), Version 2, with
+          exceptions for Apple operating systems and the OpenSSL toolkit"
+#      - "CUPSTM is provided under the GNU General Public License (\"GPL\") and GNU Library General Public License (\"LGPL\"), Version 2, with exceptions for Apple operating systems and the OpenSSL toolkit"
   "LGPL":
     matches:
       - "CUPS(tm) is provided under the GNU General Public License (\"GPL\")

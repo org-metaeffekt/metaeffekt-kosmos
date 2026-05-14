@@ -5,6 +5,7 @@ spdxIdentifier: LiLiQ-P-1.1
 otherIds:
   - "scancode:liliq-p-1.1"
   - "osi:LiLiQ-P-1.1"
+  - "osi-deprecated:liliq-p-1-1"
 
 alternativeNames:
   - "LiLiQ P, Version 1.1"
@@ -21,4 +22,7 @@ alternativeNames:
   - "LiLiQ-P License 1.1"
   - "Permissive (LiLiQ-P) Version 1.1"
   - "https://forge.gouv.qc.ca/licence/liliq-p/"
+  - "Licence Libre du Québec – Permissive version 1.1"
+  - "Licence Libre du Quebec - Permissive version 1.1"
+  - "Quebec Free and Open-Source Licence - Version 1.1 - Permissive"
 

@@ -1,12 +1,13 @@
-canonicalName: Cygwin Exception (GPL 2.0)
+canonicalName: Cygwin Exception (GPL-2.0)
 category: Cygwin Exception
-shortName: Cygwin-Exception-2.0
+shortName: Cygwin-Exception-GPL-2.0
 
 type: exception
 
 canonicalNameHistory:
   - "Cygwin exception to GPL 2.0"
   - "Cygwin Exception (GPL)"
+  - "Cygwin Exception (GPL 2.0)"
 
 otherIds:
   - "scancode:cygwin-exception-2.0"
@@ -15,7 +16,7 @@ alternativeNames:
   - "Cygwin exception to GPL 2.0"
 
 combinedWith:
-  GNU General Public License 2.0: GNU General Public License 2.0 (with Cygwin Exception (GPL 2.0))
+  GNU General Public License 2.0: GNU General Public License 2.0 (with Cygwin Exception (GPL-2.0))
 
 evidence:
   matches:

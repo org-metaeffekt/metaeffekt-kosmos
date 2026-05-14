@@ -1,0 +1,60 @@
+canonicalName: XMOS Public License 1.0
+category: XMOS Public License
+shortName: xmos-public-1.0
+
+otherIds:
+  - "scancode:xmos-public-1"
+
+alternativeNames:
+  - "XMOS Public Licence v1"
+  - "XMOS Public Licence 1.0"
+  - "XMOS Public License v1"
+  - "XMOS Public License 1.0"
+  - "XMOS PUBLIC LICENCE: Version 1"
+  - "XMOS PUBLIC LICENSE: Version 1"
+  - "xmos-public-1.0"
+  - "xmos-public-1"
+  - "XMOS-Public-1.0"
+
+evidence:
+  matches:
+    - "If you distribute or make available Derivatives, you must include a prominent notice in the code itself as well
+       as in all related documentation, stating that the Source Code of the Software from which the Derivatives are
+       based is available under the terms of this Licence, with information on how and where to obtain such Source Code"
+    - "In consideration and as a condition to this Licence, you grant to any person or entity receiving or distributing
+       any Derivatives, a non-exclusive, royalty free, perpetual, irrevocable license under your Applicable Patent Rights
+       and all other intellectual property rights owned or controlled by you, to use, copy, display, publish, distribute
+       and make available your Derivatives of the same scope and extent as XMOS’s licence under clause 2.2 above"
+    - "You may create a combined product by combining Software, Derivatives and other code not covered by this Licence
+       as a single application or product"
+    - "In such instance, you must comply with the requirements of this Licence for any portion of the Software and/or
+       Derivatives"
+    - "You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations and/or
+       other rights consistent with the term of this Licence (“Additional Terms”) to any legitimate recipients of the
+       Software and/or Derivatives"
+    - "The terms on which you provide such Additional Terms are on your sole responsibility and you shall indemnify,
+       defend and hold XMOS harmless against any claims asserted against XMOS"
+    - "XMOS may publish revised and/or new versions of this Licence from time to time to accommodate changes to the
+       Licence terms, new versions, updates and bug fixes of the Software"
+    - "Each version will be given a distinguishing version number"
+    - "Once Software has been published under a particular version of this Licence, you may continue to use it under
+       the terms of that version"
+    - "You may also choose to use the latest version of the Software under any subsequent version published by XMOS"
+    - "Only XMOS shall have the right to modify these terms"
+    - "Nothing herein shall limit any rights that XMOS is otherwise entitled to under the doctrines of patent exhaustion,
+       implied license, or legal estoppel"
+    - "Neither the name of the authors, the copyright holders or any contributors may be used to endorse or promote
+       any Derivatives from this Software without specific written permission"
+    - "Any attempt to deal with the Software which does not comply with this Licence shall be void and shall automatically
+       terminate any rights granted under this licence (including any licence of any intellectual property rights granted herein)"
+    - "Subject to the licences granted under this Licence any Contributor retains all rights, title and interest in
+       and to any Derivatives made by Contributor subject to the underlying rights of XMOS in the Software"
+    - "XMOS shall retain all rights, title and interest in the Software and any Derivatives made by XMOS (“XMOS Derivatives”)"
+    - "XMOS Derivatives will not automatically be subject to this Licence and XMOS shall be entitled to licence such
+       rights on any terms (without obligation) as it sees fit"
+    - "Unless XMOS has agreed in writing with you an agreement specifically governing use of the Goods in military,
+       aerospace, automotive or medically related functions (collectively and individually hereinafter referred to as
+       'Special Use'), any permitted use of the Software excludes Special Use"
+    - "Notwithstanding any agreement between XMOS and you for Special Use, Special Use shall be at your own risk, and
+       you shall fully indemnify XMOS against any damages, losses, costs and claims (direct and indirect) arising out
+       of any Special Use"

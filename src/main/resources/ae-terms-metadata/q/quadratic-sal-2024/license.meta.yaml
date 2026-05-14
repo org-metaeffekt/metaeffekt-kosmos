@@ -1,0 +1,85 @@
+canonicalName: Quadratic Source Available License 2024
+category: Quadratic Source Available
+shortName: Quadratic-SAL-2024
+
+otherIds:
+  - "scancode:quadratic-sal-2024"
+
+alternativeNames:
+  - "Quadratic Source Available License 2024"
+  - "quadratic-sal-2024"
+  - "Quadratic-SAL-2024"
+
+evidence:
+  matches:
+    - "THIS SUMMARY PROVIDES AN OVERVIEW OF THE KEY TERMS OF THIS LICENSE, BUT YOU ACKNOWLEDGE
+       AND AGREE THE ACTUAL AGREEMENT IS SET FORTH IN THE TERMS IN SECTIONS BELOW"
+    - "Read and reference the source code"
+    - "Install and use the Software and Derivatives for Your Personal Use"
+    - "Make Derivatives of the Software under your authorized Personal Use"
+    - "Submit Derivatives as contributions to Licensor"
+    - "Distribute the Software or any Derivatives"
+    - "Deploy and use the Software inside of your business without a commercial license"
+    - "Resell or provide the software to any third parties"
+    - "Share the software or derivatives with any third parties"
+    - "Nothing in this License constitutes or may be construed as permission to assert or imply
+       that You are, or that Your use of the Software is, connected with, or sponsored, endorsed,
+       or granted official status by, the Licensor"
+    - "The license granted herein does not include any right to receive any improvements, updates, fixes,
+       or new versions and Licensors reserves the right to offer such to You in its sole discretion"
+    - "You may contribute Your Derivatives to Licensor’s GitHub repository, and you agree that if you make
+       such contributions, they will be governed by  the terms of Licensor’s then-current contributor
+       license agreement"
+
+# the revert is required to prevent false segmentation
+segmentation:
+  revert: [
+    {
+      match:
+        "Quadratic Source Available License ",
+      matchNext:
+        "THIS SUMMARY PROVIDES"
+    },
+    {
+      match:
+        "Summary",
+      matchNext:
+        "You are free to do the following:"
+    },
+    {
+      match:
+        "1. Acceptance",
+      matchNext:
+        "This Software License Agreement"
+    },
+    {
+      match:
+        "2. DEFINITIONS",
+      matchNext:
+        "“Derivatives” means material"
+    },
+    {
+      match:
+        "3. SCOPE",
+      matchNext:
+        "3.1 License grant."
+    },
+    {
+      match:
+        "4.  INTELLECTUAL PROPERTY",
+      matchNext:
+        "4.1  Limited License."
+    },
+    {
+      match:
+        "5.  DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY",
+      matchNext:
+        "5.1  DISCLAIMER.."
+    },
+    {
+      match:
+        "6.  TERM AND TERMINATION",
+      matchNext:
+        "6.1  Term."
+    }
+  ]

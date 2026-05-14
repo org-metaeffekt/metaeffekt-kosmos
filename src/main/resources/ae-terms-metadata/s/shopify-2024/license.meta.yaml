@@ -1,0 +1,18 @@
+canonicalName: Shopify License 2024
+category: Shopify License
+shortName: Shopify-2024
+
+otherIds:
+  - "scancode:shopify-2024"
+
+alternativeNames:
+  - "Shopify License 2024"
+
+evidence:
+  matches:
+    - "The rights granted above may only be exercised to develop applications that integrate or interoperate
+       with Shopify software or services, and, if applicable, to distribute, offer for sale or otherwise make
+       available any such applications via the Shopify App Store"
+    - "All other uses of the Software are strictly prohibited"
+    - "The above copyright notice and this permission notice shall be included in all copies or substantial
+       portions of the Software"

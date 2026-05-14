@@ -5,6 +5,7 @@ spdxIdentifier: Fair
 otherIds:
   - "scancode:fair"
   - "osi:Fair"
+  - "osi-deprecated:fair"
 
 requiresLicenseText: false
 requiresCopyright: false

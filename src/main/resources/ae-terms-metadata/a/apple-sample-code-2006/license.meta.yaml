@@ -1,0 +1,28 @@
+canonicalName: Apple Sample Code License 2006
+category: Apple Sample Code
+spdxIdentifier: AML
+shortName: Apple-Sample-Code-2006
+
+# NOTE: while fedoraproject named this the "Apple MIT License" it is too different to call it an MIT License.
+
+otherIds:
+  - "scancode:aml"
+
+canonicalNameHistory:
+  - "Apple MIT License"
+
+alternativeNames:
+  - "Apple MIT License"
+  - "Apple Sample Code License 2006"
+  - "AppleJavaExtensions Agreement"
+
+requiresCopyright: false
+requiresLicenseText: false
+
+evidence:
+  matches:
+    - "This Apple software is supplied to you by Apple Computer, Inc."
+    - "If you do not agree with these terms, please do
+       not use, install, modify or redistribute this Apple software"
+    - "you must retain this notice and the following text and disclaimers in
+       all such redistributions of the Apple Software"

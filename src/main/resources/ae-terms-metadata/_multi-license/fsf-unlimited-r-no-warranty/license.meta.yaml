@@ -1,6 +1,10 @@
 canonicalName: FSF Unlimited License (with retention; no warranty)
 category: FSF Unlimited
+spdxIdentifier: FSFULLRSD
 shortName: FSFULLR-no-warranty
+
+otherIds:
+  - "scancode:fsfullrsd"
 
 representedAs: FSF Unlimited License
 

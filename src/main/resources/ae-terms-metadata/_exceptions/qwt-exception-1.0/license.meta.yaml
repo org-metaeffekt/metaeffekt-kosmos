@@ -1,18 +1,24 @@
-canonicalName: Qwt Exception 1.0
+canonicalName: Qwt Exception 1.0 (LPGL)
 category: Qwt Exception
 spdxIdentifier: Qwt-exception-1.0
-shortName: Qwt-Exception-1.0
+shortName: Qwt-Exception-1.0-LGPL
 
 otherIds:
   - "scancode:qwt-exception-1.0"
 
 type: exception
 
+canonicalNameHistory:
+  - "Qwt Exception 1.0"
+
 combinedWith:
-  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Qwt exception 1.0)
+  "GNU Lesser General Public License 2.1 (or any later version)": GNU Lesser General Public License 2.1 (or any later version; with Qwt Exception 1.0 (LPGL))
 
 alternativeNames:
   - "Qwt License Version 1.0"
+  - "Qwt License, Version 1.0"
+  - "Qwt exception 1.0"
+  - "Qwt License" # NOTE: create "Qwt Exception (undefined)" if another version of the exception exists
 
 evidence:
   matches:
@@ -29,9 +35,11 @@ evidence:
        nor do you have to identify the Qwt license in your program or documentation as required by section 6 of the LGPL"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "The Qwt library and included programs are provided under the terms of the GNU LESSER GENERAL PUBLIC LICENSE (LGPL)"
       - "then the changes to Qwt must be provided under the terms of the LGPL
         in sections 1, 2, and 4"
+  "LGPL":
+    matches:
       - "nor do you have to identify the Qwt license in your program or documentation as required by section 6 of the LGPL"

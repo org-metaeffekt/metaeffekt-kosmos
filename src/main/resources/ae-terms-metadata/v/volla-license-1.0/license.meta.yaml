@@ -1,0 +1,21 @@
+canonicalName: Volla License 1.0
+category: Volla License
+shortName: volla-license-1.0
+
+otherIds:
+  - "scancode:volla-1.0"
+
+alternativeNames:
+  - "Volla License 1.0"
+
+evidence:
+  matches:
+    - "Permission is hereby granted, free of charge, to any person receiving or obtaining a copy
+       of this software and/or the accompanying respectively associated documentation files
+       (hereafter the 'Software') to use, copy, modify, and/or merge in the Software for personal,
+       non-commercial use, but not to publish, distribute, sublicense, and/or sell the Software or
+       a copy of the Software, even in a part"
+    - "The above copyright notice and this permission notice shall be included in all copies or
+       substantial portions of the Software"
+  excludes:
+    - "Copyright (c) 2024 Volla Systeme GmbH" # Volla License 2.0

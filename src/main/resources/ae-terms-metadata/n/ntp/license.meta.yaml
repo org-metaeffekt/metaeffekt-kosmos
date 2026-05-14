@@ -7,6 +7,7 @@ otherIds:
 #  - "scancode:ntpl" #deprecated
 #  - "scancode:network-time-protocol" #deprecated
   - "osi:NTP"
+  - "osi-deprecated:ntp-license"
 
 alternativeNames:
   - "NTP License"

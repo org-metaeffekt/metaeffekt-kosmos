@@ -1,13 +1,16 @@
-canonicalName: Business Source License 1.1 (with ZeroTier Modifier (Business Source License 1.1))
-category: Business Source+ZeroTier
-shortName: Business-Source-1.1-ZeroTier-Modifier
+canonicalName: Business Source License 1.1 (with ZeroTier Modifier (BSL-1.1))
+category: BSL+ZeroTier
+shortName: BSL-1.1-ZeroTier-Modifier
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with ZeroTier Modifier (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with ZeroTier Modifier)
 
 combinedWith:
-  ZeroTier Modifier (Business Source License 1.1): Business Source License 1.1 (with ZeroTier Modifier (Business Source License 1.1))
+  ZeroTier Modifier (BSL-1.1): Business Source License 1.1 (with ZeroTier Modifier (BSL-1.1))
 
 segmentation:
   revert: [

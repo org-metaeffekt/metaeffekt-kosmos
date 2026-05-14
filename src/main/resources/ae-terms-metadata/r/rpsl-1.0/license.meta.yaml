@@ -5,6 +5,7 @@ spdxIdentifier: RPSL-1.0
 otherIds:
   - "scancode:rpsl-1.0"
   - "osi:RPSL-1.0"
+  - "osi-deprecated:real"
 
 alternativeNames:
   - "RPSL, Version 1.0"

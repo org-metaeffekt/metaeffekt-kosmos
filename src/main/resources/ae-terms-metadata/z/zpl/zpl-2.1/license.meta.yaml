@@ -5,6 +5,7 @@ spdxIdentifier: ZPL-2.1
 otherIds:
   - "scancode:zpl-2.1"
   - "osi:ZPL-2.1"
+  - "osi-deprecated:zpl-2-1"
 
 alternativeNames:
   - "ZPL, Version 2.1"

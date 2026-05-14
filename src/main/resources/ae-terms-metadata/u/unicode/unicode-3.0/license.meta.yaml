@@ -4,6 +4,7 @@ spdxIdentifier: Unicode-3.0
 
 otherIds:
   - "scancode:unicode-v3"
+  - "osi-deprecated:unicode-license-v3"
 
 alternativeNames:
   - "Unicode-3.0"

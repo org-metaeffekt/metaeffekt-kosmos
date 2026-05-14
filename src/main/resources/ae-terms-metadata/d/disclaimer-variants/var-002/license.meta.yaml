@@ -6,9 +6,6 @@ representedAs: Disclaimer
 
 displayName: "Disclaimer (no liability; no warranty)"
 
-otherIds:
-  - "scancode:public-domain-disclaimer"
-
 requiresLicenseText: false
 requiresCopyright: false
 

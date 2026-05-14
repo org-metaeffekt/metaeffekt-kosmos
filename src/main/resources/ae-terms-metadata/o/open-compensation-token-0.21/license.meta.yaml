@@ -1,0 +1,34 @@
+canonicalName: Open Compensation Token License 0.21
+category: Open Compensation Token
+shortName: OCTL-0.21
+
+otherIds:
+  - "scancode:octl-0.21"
+classification: source-available
+
+alternativeNames:
+  - "https://github.com/open-compensation-token-license/license/blob/main/LICENSE.md"
+  - "Open Compensation Token License Version 0.21"
+
+evidence:
+  matches:
+    - "The Licensee (third party) of the Legal Actor (second party) acknowledges and agrees in special that even malicious or illegal Digital Artifacts of the Legal Actor being sold via OCTL smart contracts/Tokens are not in control of the OCTL Root Project (first party) and only the Legal Actor himself is accountable for those"
+    - "The terms and conditions of an Application License for the Digital Artifacts are represented and referenced by License Tokens"
+    - "The Legal Actor uses and applies a verbatim copy of the Open Compensation Token License and apply its associated smart contracts"
+    - "The Legal Actor keeps intact all notices of the Open Compensation Token License"
+    - "With the agreement of over 75% of the OCTL Maintainers, may publish revised and/or new versions of the Open Compensation Token License or its associated artifacts, such as smart contracts, from time to time"
+    - "Projects using artifacts licensed under the terms and conditions of the OCTL for solely academic or testing purposes shall be exempted from obtaining any kind of license as long as they are not reproducing the work licensed under the terms and conditions of the OCTL publicly or within a company"
+
+segmentation:
+  revert: [
+    { match:
+        "Terms of applying the Open Compensation Token License to Digital Artifacts",
+      matchNext:
+        "Any Legal Actor (second party) shall be granted an OCTL Application License form the OCTL Root Project/OCTL Maintainers (first party) to license Digital Artifacts to a Licensee (third party) which the Legal Actor holds the sufficient rights and permissions"
+    },
+    { match:
+        "5. Application Licenses",
+      matchNext:
+        "The term Granted License Tokens is the technical manifestation of an Application License"
+    },
+  ]

@@ -1,18 +1,23 @@
-canonicalName: GNU General Public License 2.0 (with OpenJDK Assembly exception (GPL))
-category: GPL+OpenJDK
-shortName: GPL-2.0-OpenJDK-Assembly-Exception-GPL
+canonicalName: GNU General Public License 2.0 (with OpenJDK Assembly Exception (GPL-2.0))
+category: GPL+OpenJDK Assembly Exception
+shortName: GPL-2.0-OpenJDK-Assembly-Exception
 
-requiresSourceCodeProvision: true
-
-spdxExpression: "[GNU General Public License 2.0] WITH [OpenJDK Assembly Exception (GPL)]"
+otherIds:
+  # scancode represents the combination as an exception
+  - "scancode:openjdk-classpath-exception-2.0" # deprecated
 
 canonicalNameHistory:
   - "GNU General Public License 2.0 (with OpenJDK assembly exception 1.0)"
   - "GNU General Public License 2.0 (with OpenJDK assembly exception)"
   - "GNU General Public License 2.0 (with OpenJDK Assembly exception 1.0)"
+  - "GNU General Public License 2.0 (with OpenJDK Assembly exception (GPL))"
+
+requiresSourceCodeProvision: true
+
+spdxExpression: "[GNU General Public License 2.0] WITH [OpenJDK Assembly Exception (GPL-2.0)]"
 
 displayName:
-  "GNU General Public License 2.0 (with OpenJDK Assembly exception)"
+  "GNU General Public License 2.0 (with OpenJDK Assembly Exception)"
 
 type: expression
 
@@ -22,5 +27,5 @@ alternativeNames:
 representedAs: GNU General Public License 2.0 (with exceptions)
 
 combinedWith:
-  "GNU General Public License 2.0": "GNU General Public License 2.0 (with OpenJDK Assembly exception (GPL))"
-  "OpenJDK Assembly Exception (GPL)": "GNU General Public License 2.0 (with OpenJDK Assembly exception (GPL))"
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with OpenJDK Assembly Exception (GPL-2.0))"
+  "OpenJDK Assembly Exception (GPL-2.0)": "GNU General Public License 2.0 (with OpenJDK Assembly Exception (GPL-2.0))"

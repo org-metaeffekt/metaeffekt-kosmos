@@ -5,11 +5,18 @@ spdxIdentifier: bzip2-1.0.5
 status:
   - "reviewed: 25.10.21"
 
+alternativeNames:
+  - "bzip2 and libbzip2 License v1.0.5"
+
 requiresCopyright: false
 requiresLicenseText: false
 
 otherIds:
   - "scancode:bzip2-libbzip-1.0.5"
+
+# FIXME-CONCEPT: identify not-existing scancode ids and fail tests in case such an id is used
+ignoreMatches:
+  - "bzip2 License 1.0.6"
 
 evidence:
   matches:

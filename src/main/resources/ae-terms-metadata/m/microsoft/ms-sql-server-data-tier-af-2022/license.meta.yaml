@@ -8,6 +8,15 @@ canonicalNameHistory:
 otherIds:
   - "scancode:ms-data-tier-af-2022"
 
+alternativeNames:
+  - "MICROSOFT SOFTWARE LICENSE TERMS MICROSOFT SQL SERVER DATA-TIER APPLICATION FRAMEWORK"
+  - "Microsoft SQL Server Data-Tier Application Framework"
+  - "MICROSOFT SQL SERVER DATA-TIER APPLICATION FRAMEWORK LICENSE"
+
+alternativeShortNames:
+  - "MS SQL Server Data-Tier Application Framework"
+  - "MS-SQL-Server-Data-Tier-Application-Framework"
+
 evidence:
   matches:
     - "You may install and use any number of copies of the software on your devices to design, develop and test your programs"
@@ -16,3 +25,4 @@ evidence:
     - "reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law expressly permits, despite this limitation"
     - "You must comply with all domestic and international export laws and regulations that apply to the software"
     - "MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS"
+    - "You may make one backup copy of the software"

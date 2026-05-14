@@ -1,5 +1,6 @@
 canonicalName: Inno Setup License
 category: Inno Setup License
+spdxIdentifier: InnoSetup
 shortName: Inno-Setup
 
 otherIds:
@@ -8,6 +9,7 @@ otherIds:
 alternativeNames:
   - "Inno Setup License"
   - "http://www.jrsoftware.org/files/is/license.txt"
+  - "Inno-Setup-License"
 
 evidence:
   matches:

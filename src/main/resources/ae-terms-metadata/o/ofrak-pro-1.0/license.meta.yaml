@@ -1,0 +1,26 @@
+canonicalName: OFRAK Pro License Agreement 1.0
+category: OFRAK Pro License Agreement
+shortName: ofrak-pro-1.0
+
+otherIds:
+  - "scancode:ofrak-pro-1.0"
+
+alternativeNames:
+  - "OFRAK Pro License Agreement 1.0"
+  - "OFRAK PRO LICENSE AGREEMENT Version 1.0"
+  - "ofrak-pro-1.0"
+  - "OFRAK-Pro-1.0"
+
+evidence:
+  matches:
+    - "No training or support services are provided under this OFRAK Pro Agreement"
+    - "Red Balloon may in its discretion respond to support inquiries through Red Balloon’s
+       support channels, such as Slack"
+    - "This OFRAK Pro Agreement is the complete and exclusive statement of the mutual understanding of
+       the parties and supersedes and cancels all previous written and oral agreements and communications
+       relating to the subject matter of this OFRAK Pro Agreement"
+    - "In the event of any conflict between this OFRAK Pro License Agreement and the OFRAK Community License
+       Agreement, located at https://ofrak.com/docs/license.html, this OFRAK Pro Agreement shall control"
+    - "To the extent that Licensee prepares or creates any Derivatives, Licensee shall and hereby grant to
+       (a) all users of OFRAK a right and license to such Derivatives upon the terms and conditions set
+       forth in the OFRAK Community License, located at https://ofrak.com/docs/license.html"

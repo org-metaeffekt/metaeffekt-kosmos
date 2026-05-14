@@ -1,0 +1,19 @@
+canonicalName: GNU Library General Public License (undefined)
+category: LibraryGPL
+shortName: LibraryGPL-?
+
+defaultSourceCategory: annex
+
+unspecific: true
+
+alternativeNames:
+  - "GNU Library General Public License (LGPL)"
+  - "GNU Library or Lesser General Public License"
+  - "GNU Library or Lesser General Public License (LGPL)"
+  - "GNU Library General Public License v2.1 or later"
+  - "GNU Library General Public License, Version 2.1+"
+  - "GNU LIBRARY GENERAL PUBLIC LICENSE, Version 2.1+"
+  - "GNU Library General Public License, 3.0 or later"
+  - "GNU Library General Public License, Version 3.0+"
+  - "GNU LIBRARY GENERAL PUBLIC LICENSE, Version 3.0+"
+

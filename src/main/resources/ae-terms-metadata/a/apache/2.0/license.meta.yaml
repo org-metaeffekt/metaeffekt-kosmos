@@ -5,6 +5,7 @@ spdxIdentifier: Apache-2.0
 otherIds:
   - "scancode:apache-2.0"
   - "osi:Apache-2.0"
+  - "osi-deprecated:apache-2-0"
 
 status:
   - "reviewed: 25.10.21"
@@ -139,6 +140,7 @@ alternativeNames:
 alternativeShortNames:
   - "APACHEv2"
   - "Apache2"
+  - "Apache-2"
 
 mappings:
   "Terms and Conditions for use, reproduction, and distribution": "TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION"
@@ -215,6 +217,8 @@ evidence:
     - "You may install and execute the Work only in conjunction with the direct use of
        Librato software.  This Work, any file or any derivative thereof shall not be
        used in conjunction with any product that competes with any Librato software"
+    - "You do not sell or otherwise commercialise the Work or Derivative Works as a
+      Game Engine Product" # Defold License 1.0
 
 masks:
   matches:

@@ -1,0 +1,22 @@
+canonicalName: Open Aleph License 1.0
+category: Open Aleph
+shortName: OAL-1.0
+
+canonicalNameHistory:
+  - "Open Aleph License"
+
+classification: copyleft
+
+otherIds:
+  - "scancode:open-aleph-1.0"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, the Licensor grants you a non-exclusive, worldwide,
+       non-transferable, non-sublicensable, and royalty-free limited right to use, copy, modify, distribute, make
+       otherwise publicly available, and reproduce the Works and Derivative Works under Licensor’s copyright,
+       for any Non-Commercial and Non-Administrative purpose"
+    - "You may not use, copy, modify, distribute, make otherwise publicly available, reproduce, or sublicense the
+       Works or Derivative Works except as expressly provided under and in accordance with this License"
+    - "Your rights granted under this License will automatically terminate if you fail to comply with any of the
+       terms of this License"

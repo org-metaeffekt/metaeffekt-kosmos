@@ -1,0 +1,42 @@
+canonicalName: PNG Reference Library License 1.0
+category: PNG Reference Library
+spdxIdentifier: Libpng
+shortName: PNG-Reference-Library-1.0
+
+# NOTE: currently (20.11.2025) both scancodeIDs are active - and they cover the same exact license text.
+otherIds:
+  - "scancode:libpng"
+  - "scancode:libpng-1.6.35"
+
+alternativeNames:
+  - "libpng License"
+
+evidence:
+  matches:
+    - "If you modify libpng you may insert additional notices immediately following
+      this sentence"
+    - "There is no warranty against interference with your enjoyment of the
+      library or against infringement"
+    - "There is no warranty that our
+       efforts or the library will fulfill any of your particular purposes
+       or needs"
+    - "This library is provided with all faults, and the entire
+       risk of satisfactory quality, performance, accuracy, and effort is with
+       the user"
+    - "Permission is hereby granted to use, copy, modify, and distribute this
+      source code, or portions hereof, for any purpose, without fee, subject
+      to the following restrictions"
+    - "The origin of this source code must not be misrepresented"
+    - "Altered versions must be plainly marked as such and must not
+      be misrepresented as being the original source"
+    - "This Copyright notice may not be removed or altered from any
+      source or altered source distribution"
+
+segmentation:
+  revert: [
+    { match:
+        "libpng versions 0.5, May 1995, through 0.88, January 1996, are Copyright (c) 1995, 1996 Guy Eric Schalnat, Group 42, Inc.",
+      matchNext:
+        "For the purposes of this copyright and license, \"Contributing Authors\" is defined as the following set of individuals: Andreas Dilger Dave Martindale Guy Eric Schalnat Paul Schmidt Tim Wegner The PNG Reference Library is supplied \"AS IS\""
+    }
+]

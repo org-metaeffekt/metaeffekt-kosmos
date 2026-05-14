@@ -1,0 +1,25 @@
+canonicalName: Computer Associates Open Source Software License 1.0
+category: Computer Associates Open Source Software License
+shortName: CA-OSSL-1.0
+
+otherIds:
+  - "scancode:ca-ossl-1.0"
+
+alternativeNames:
+  - "Computer Associates Open Source Software License 1.0"
+  - "Computer Associates Open Source Software License"
+  - "Computer Associates Open Source Software License Version 1.0"
+  - "ca-ossl-1.0"
+  - "CA-OSSL-1.0"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following
+       disclaimer in the documentation and/or other materials provided with the distribution"
+    - "'This product includes software developed by Computer Associates (http://www.ca.com/)'"
+    - "Alternately, this acknowledgment may appear in the software itself, if and wherever such third-party
+       acknowledgments normally appear"
+    - "The name 'Computer Associates' must not be used to endorse or promote products derived from this software
+       without prior written permission"
+    - "Products may not include 'Computer Associates' their name, without prior written permission of the Computer Associates"

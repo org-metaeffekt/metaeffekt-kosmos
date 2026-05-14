@@ -1,4 +1,4 @@
-canonicalName: Viewflow Library Exception (GPL 3.0)
+canonicalName: Viewflow Library Exception (AGPL-3.0)
 category: Viewflow Library Exception
 shortName: Viewflow-Library-Exception-AGPL-3.0
 
@@ -6,6 +6,9 @@ otherIds:
   - "scancode:viewflow-agpl-3.0-exception"
 
 type: exception
+
+canonicalNameHistory:
+  - "Viewflow Library Exception (GPL 3.0)"
 
 evidence:
   matches:

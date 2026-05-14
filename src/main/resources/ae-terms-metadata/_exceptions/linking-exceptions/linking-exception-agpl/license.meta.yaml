@@ -1,13 +1,14 @@
-canonicalName: Linking Exception (AGPL)
+canonicalName: Linking Exception (AGPL-3.0)
 category: AGPL Linking Exception
 spdxIdentifier: romic-exception
-shortName: Linking-Exception-AGPL
+shortName: Linking-Exception-AGPL-3.0
 
 type: exception
 
 canonicalNameHistory:
   - "AGPL 3.0 Linking Exception"
   - "Romic Exception"
+  - "Linking Exception (AGPL)"
 
 alternativeNames:
   - "romic-exception"

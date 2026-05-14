@@ -44,7 +44,7 @@ references:
          such code be (i) disclosed or distributed in Source Code Program form;
          (ii) licensed for the purpose of making derivative works; or (iii)
          redistributable at no charge"
-  "LGPL":
+  "LesserGPL":
     matches:
       - "Licensor represents and warrants that the Program does not contain any
          code subject to the GNU General Public License (\"GPL\"), GNU Lesser

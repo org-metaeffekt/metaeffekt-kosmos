@@ -1,0 +1,17 @@
+canonicalName: GNU General Public License 3.0 (with Sencha FLOSS Application Exception 1.04 (GPL-3.0))
+category: GPL+Sencha FLOSS Exception
+shortName: GPL-3.0-Sencha-FLOSS-Exception-1.04-GPL-3.0
+
+type: expression
+
+alternativeNames:
+  - "GNU General Public License v3.0 w/Sencha FLOSS Exception for Applications"
+  - "General Public License (GPL), Version 3 with Sencha FLOSS Exception"
+
+combinedWith:
+  GNU General Public License 3.0: GNU General Public License 3.0 (with Sencha FLOSS Application Exception 1.04 (GPL-3.0))
+  Sencha FLOSS Application Exception 1.04 (GPL-3.0): GNU General Public License 3.0 (with Sencha FLOSS Application Exception 1.04 (GPL-3.0))
+
+displayName: "GNU General Public License 3.0 (with Sencha FLOSS Application Exception 1.04)"
+
+representedAs: GNU General Public License 3.0 (with exceptions)

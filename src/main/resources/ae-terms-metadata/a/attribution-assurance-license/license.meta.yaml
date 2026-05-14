@@ -5,6 +5,7 @@ spdxIdentifier: AAL
 otherIds:
   - "scancode:attribution"
   - "osi:attribution"
+  - "osi-deprecated:attribution"
 
 alternativeNames:
   - "Attribution Assurance License"

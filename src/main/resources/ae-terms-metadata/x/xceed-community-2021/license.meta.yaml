@@ -8,6 +8,13 @@ otherIds:
 alternativeNames:
   - "Xceed Community License 2021"
   - "XCEED SOFTWARE, INC. COMMUNITY LICENSE"
+  - "XCEED SOFTWARE, INC. COMMUNITY LICENSE AGREEMENT (for non-commercial use)"
+  - "Xceed DocX for Non-Commercial Use Community License Agreement"
+  - "Xceed Extended WPF Toolkit for Non-Commercial Use Community License Agreement"
+  - "Xceed Fluent Assertions for Non-Commercial Use Community License Agreement"
+  - "Xceed-DocX-NC-CLA"
+  - "Xceed-Extended-WPF-Toolkit-NC-CLA"
+  - "Xceed-FA-NC-CLA"
 
 evidence:
   matches:

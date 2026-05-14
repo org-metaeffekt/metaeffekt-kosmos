@@ -7,6 +7,7 @@ canonicalNameHistory:
 
 alternativeNames:
   - "Digia Qt LGPL Exception version 1.1"
+  - "LGPL 2.1 with Digia Qt Exception"
 
 otherIds:
   - "scancode:qt-company-exception-lgpl-2.1"
@@ -33,6 +34,6 @@ evidence:
        provided that such modification does not involve copying material from the
        Library into the modified Library's header files"
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "As a special exception to the GNU Lesser General Public License version 2.1"

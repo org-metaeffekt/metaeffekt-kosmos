@@ -1,0 +1,18 @@
+canonicalName: GNU General Public License 3.0 (with Linking Exception (GPL; variant 014))
+category: GPL+Linking
+shortName: GPL-3.0-Linking-Exception-GPL-014
+
+type: expression
+
+representedAs: GNU General Public License 3.0 (with exceptions)
+
+displayName:
+  "GNU General Public License 3.0 (with Linking Exception (variant 014))"
+
+alternativeNames:
+  - "GNU General Public License v3.0 w/GCC Runtime Library exception"
+  - "GPL 3.0 with GCC runtime library exception"
+
+combinedWith:
+  Linking Exception (GPL; variant 014): GNU General Public License 3.0 (with Linking Exception (GPL; variant 014))
+  GNU General Public License 3.0: GNU General Public License 3.0 (with Linking Exception (GPL; variant 014))

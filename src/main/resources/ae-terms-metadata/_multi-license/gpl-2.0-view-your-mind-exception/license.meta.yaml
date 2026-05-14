@@ -1,0 +1,15 @@
+canonicalName: GNU General Public License 2.0 (with View Your Mind Exception (GPL))
+category: GPL+VYM
+shortName: GPL-2.0-VYM-Exception-GPL
+
+type: expression
+
+
+displayName:
+  "GNU General Public License 2.0 (with View Your Mind Exception)"
+
+representedAs: GNU General Public License 2.0 (with exceptions)
+
+combinedWith:
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with View Your Mind Exception (GPL))
+  "View Your Mind Exception (GPL)": GNU General Public License 2.0 (with View Your Mind Exception (GPL))

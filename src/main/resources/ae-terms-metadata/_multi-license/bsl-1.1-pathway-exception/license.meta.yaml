@@ -1,10 +1,13 @@
-canonicalName: Business Source License 1.1 (with Pathway Exception (Business Source License 1.1))
-category: Business Source+Pathway
-shortName: Business-Source-1.1-Pathway-Exception
+canonicalName: Business Source License 1.1 (with Pathway Exception (BSL-1.1))
+category: BSL+Pathway
+shortName: BSL-1.1-Pathway-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with Pathway Exception (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with Pathway Exception)
 
 combinedWith:
-  Pathway Exception (Business Source License 1.1): Business Source License 1.1 (with Pathway Exception (Business Source License 1.1))
+  Pathway Exception (BSL-1.1): Business Source License 1.1 (with Pathway Exception (BSL-1.1))

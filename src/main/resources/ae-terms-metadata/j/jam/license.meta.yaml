@@ -5,6 +5,7 @@ spdxIdentifier: Jam
 otherIds:
   - "scancode:jam"
   - "osi:Jam"
+  - "osi-deprecated:jam"
 
 alternativeNames:
   - "Jam License"

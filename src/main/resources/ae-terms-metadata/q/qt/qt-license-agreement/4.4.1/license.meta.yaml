@@ -44,6 +44,11 @@ evidence:
        Software"
 
 references:
+  "LesserGPL":
+    matches:
+      - "\"Open Source Qt\" shall mean Qt Software available under the terms of the GNU
+        Lesser General Public License, version 2.1 or later (\"LGPL\") or the GNU General
+        Public License, version 2.0 or later (\"GPL\")."
   "LGPL":
     matches:
       - "\"Open Source Qt\" shall mean Qt Software available under the terms of the GNU

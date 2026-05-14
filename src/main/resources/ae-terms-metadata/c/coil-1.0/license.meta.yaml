@@ -11,6 +11,7 @@ canonicalNameHistory:
 alternativeNames:
   - "Copyfree Open Innovation License"
   - "https://coil.apotheon.org/plaintext/01.0.txt"
+  - "Copyfree Open Innovation License version 1.0"
 
 evidence:
   matches:
@@ -20,3 +21,5 @@ evidence:
     - "Subject to these conditions, each holder of copyright or other legal privileges,
        author or assembler, and contributor of this work, henceforth 'licensor',
        hereby grants to any person who obtains a copy of this work in any form"
+  excludes:
+    - "This is version 0.4 of the Copyfree Open Innovation License"

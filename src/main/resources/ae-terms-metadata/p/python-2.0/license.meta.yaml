@@ -8,26 +8,27 @@ ignore: true
 otherIds:
   - "osi:Python-2.0"
   - "scancode:python"
+## FIXME-IMPLEMENT: check whether this correct
+##  - "osi-deprecated:PSF-2.0"
 
 alternativeNames:
   - "Python-2.0"
   - "Python License 2.0"
 
-# Note: this is not a standalone license which exclusively contains the full licensing terms of other licenses
+# Note: this is not a standalone license; it exclusively contains the full licensing terms of other licenses
 expectedMatches:
   - "Python Software Foundation License 2.0"
   - "CNRI Open Source License Agreement (Python 1.6.1)"
-  - "CNRI License Agreement"
   - "BeOpen Python Open Source License Agreement 1.0"
 
 # do we need these if in sync with ignore(expected) matches?
 expectedSpdxMatches:
   - "Python Software Foundation License 2.0"
   - "CNRI Open Source License Agreement (Python 1.6.1)"
-  - "CNRI License Agreement"
   - "BeOpen Python Open Source License Agreement 1.0"
 
-# FIXME-IMPLEMENT: after fixing the segmentation issue (caused by the hyphens) in the code fix the following:
+# FIXME-CONCEPT: improve hyphen handling
+# FIXME-KKL: after fixing the segmentation issue (caused by the hyphens) in the code fix the following:
 ## 1: Adjust the segmentation (mappings).
 
 segmentation:
@@ -57,7 +58,7 @@ segmentation:
     },
 ]
 
-# FIXME-IMPLEMENT: consider extending the context of the mappings after the hyphen issue has been resolved
+# FIXME-KKL: consider extending the context of the mappings after the hyphen issue has been resolved
 mappings:
   "BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0": " LICENSE-SEGMENT-MARKER BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0"
   "CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1": " LICENSE-SEGMENT-MARKER CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1"

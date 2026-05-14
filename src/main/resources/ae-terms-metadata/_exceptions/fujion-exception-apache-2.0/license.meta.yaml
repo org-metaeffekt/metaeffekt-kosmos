@@ -1,14 +1,17 @@
-canonicalName: Fujion Clinical Exception (Apache 2.0)
+canonicalName: Fujion Clinical Exception (Apache-2.0)
 category: Fujion Clinical Exception
-shortName: Fujion-Exception-Apache-2.0
+shortName: Fujion-Clinical-Exception-Apache-2.0
 
 type: exception
 
 otherIds:
   - "scancode:fujion-exception-to-apache-2.0"
 
+canonicalNameHistory:
+  - "Fujion Clinical Exception (Apache 2.0)"
+
 combinedWith:
-  "Apache License 2.0": Apache License 2.0 (with Fujion Clinical Exception (Apache 2.0))
+  "Apache License 2.0": Apache License 2.0 (with Fujion Clinical Exception (Apache-2.0))
 
 references:
   "Apache License":

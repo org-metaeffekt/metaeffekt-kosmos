@@ -7,6 +7,14 @@ otherIds:
 
 # license source:"https://jpegclub.org/reference/libjpeg-license/"
 
+canonicalNameHistory:
+  - "Independent JPEG Group License (short; with acknowledge disclaimer)"
+
+alternativeNames:
+  - "Independent JPEG Group License (short; with acknowledge disclaimer)"
+  - "Independent JPEG Group License - short (with acknowledge disclaimer)"
+  - "IJG-short-acknowledge"
+
 evidence:
   matches:
     - "Permission is hereby granted to use, copy, modify, and distribute this

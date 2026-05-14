@@ -10,6 +10,7 @@ expectedMatches:
 otherIds:
   - "scancode:cvwl"
   - "osi:CVW"
+  - "osi-deprecated:cvw"
 
 alternativeNames:
   - "Collaborative Virtual Workspace License"

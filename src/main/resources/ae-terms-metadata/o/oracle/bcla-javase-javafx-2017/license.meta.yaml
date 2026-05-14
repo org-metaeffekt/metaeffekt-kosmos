@@ -10,7 +10,8 @@ otherIds:
 
 alternativeNames:
   - "https://www.oracle.com/downloads/licenses/binary-code-license.html"
-  - "http://java.com/license"
+  - "Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX 2017"
+  - "Oracle BCL for Java SE Platform Products and JavaFX 2017 Restricted"
 
 evidence:
   matches:
@@ -30,8 +31,10 @@ evidence:
        settlement amounts and/or expenses"
     - "Oracle grants you a non-exclusive, non-transferable, limited license without fees to reproduce and distribute
        those files specifically identified as redistributable in the Java SE LIUM (\"Redistributables\")"
-    - "This section pertains to your distribution of the JavaTM SE Development Kit Software (“JDK”) with your printed book or magazine (as those terms are commonly used in the industry) relating to Java technology"
-    - "Additional copyright notices and license terms applicable to portions of the Software are set forth in the Java SE LIUM accessible at"
+    - "This section pertains to your distribution of the JavaTM SE Development Kit Software (“JDK”) with your printed
+       book or magazine (as those terms are commonly used in the industry) relating to Java technology"
+    - "Additional copyright notices and license terms applicable to portions of the Software are set forth in the Java
+       SE LIUM accessible at"
 
 segmentation:
   revert: [

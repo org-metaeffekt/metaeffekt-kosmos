@@ -4,6 +4,7 @@ spdxIdentifier: Artistic-1.0
 
 otherIds:
   - "scancode:artistic-1.0"
+  - "osi-deprecated:artistic-1-0"
 
 alternativeNames:
   - "Artistic, Version 1.0"

@@ -1,0 +1,36 @@
+canonicalName: LTXV Open Weights License 2025-04-17
+category: LTXV Open Weights License
+shortName: LTXV-OWL-2025-04-17
+
+otherIds:
+  - "scancode:ltxv-owl-2025-04-17"
+
+alternativeNames:
+  - "LTXV Open Weights License 2025-04-17"
+  - "LTX Video-2B-Distilled-04-25 (“LTXV”)"
+  - "LTXV Open Weights License Version April 17, 2025"
+  - "ltxv-owl-2025-04-17"
+  - "LTXV-OWL-2025-04-17"
+
+evidence:
+  matches:
+    - "The restrictions set forth in Attachment A are considered Use-based restrictions"
+    - "Therefore, you cannot use the Model and the Derivatives of the Model in violation of the specified restricted uses"
+    - "You may use the Model subject to this Agreement, including only for lawful purposes and in accordance with the Agreement"
+    - "“Use” may include creating any content with, fine-tuning, updating, running, training, evaluating and/or
+       re-parametrizing the Model"
+    - "You shall require all of your users who use the Model or a Derivative of the Model to comply with the terms of this paragraph 4"
+    - "Except as set forth herein, Licensor claims no rights in the Output you generate using the Model"
+    - "You are accountable for input you insert into the Model, the Output you generate and its subsequent uses"
+    - "No use of the Output can contravene any provision as stated in the Agreement"
+    - "To the maximum extent permitted by law, Licensor reserves the right to restrict (remotely or otherwise) usage
+       of the Model in violation of this Agreement, update the Model through electronic means, or modify the Output of
+       the Model based on updates"
+    - "You shall undertake reasonable efforts to use the latest version of the Model"
+    - "Any use of the non-current version of the Model is done solely at your risk"
+    - "Nothing in this Agreement permits you to make use of Licensor’s trademarks, trade names, logos or to otherwise
+       suggest endorsement or misrepresent the relationship between the parties; and any rights not expressly granted
+       herein are reserved by the Licensor"
+  excludes:
+    - "corresponding to the Lightricks’ Model “LTX Video-13b-0.9.7-dev-fp8” model architecture as embodied
+       in the Complementary Material"

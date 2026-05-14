@@ -1,11 +1,14 @@
-canonicalName: Dmitry Koterov Exception (GPL)
+canonicalName: Dmitry Koterov Exception (GPL-2.0)
 category: Dmitry Koterov
-shortName: Dmitry-Koterov-Exception
+shortName: Dmitry-Koterov-Exception-GPL-2.0
 
 type: exception
 
+canonicalNameHistory:
+  - "Dmitry Koterov Exception (GPL)"
+
 combinedWith:
-  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Dmitry Koterov exception (GPL))
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with Dmitry Koterov Exception (GPL-2.0))
 
 evidence:
   matches:

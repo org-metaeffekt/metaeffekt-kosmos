@@ -1,6 +1,9 @@
-canonicalName: Vagrant Exception (Business Source License 1.1)
+canonicalName: Vagrant Exception (BSL-1.1)
 category: Vagrant Exception
-shortName: Vagrant-Exception-Business-Source-1.1
+shortName: Vagrant-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "Vagrant Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -10,7 +13,7 @@ alternativeNames:
   - "Hashicorp BSL additional use grant"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with Vagrant Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with Vagrant Exception (BSL-1.1))
 
 evidence:
   matches:

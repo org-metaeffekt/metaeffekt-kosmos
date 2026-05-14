@@ -1,16 +1,17 @@
 canonicalName: CNRI Open Source License Agreement (Python 1.6.1)
 category: CNRI Open Source License Agreement
 spdxIdentifier: CNRI-Python-GPL-Compatible
-
-# FIXME-DISCUSS: we ignore the license with SPDX identfier. Remove the other?
-# ignore: true
-# see FIXME in "CNRI License Agreement"
+shortName: CNRI-Python-1.6.1
 
 canonicalNameHistory:
   - "CNRI Open Source License Agreement for Python 1.6.1"
+  - "CNRI License Agreement"
 
 otherIds:
   - "scancode:cnri-python-1.6.1"
+
+alternativeNames:
+  - "CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1"
 
 evidence:
   matches:
@@ -19,6 +20,15 @@ evidence:
     - "Subject to the terms and conditions of this License Agreement, CNRI hereby grants Licensee a nonexclusive"
     - "and otherwise use Python 1.6.1 alone or in any derivative version"
     - "Python 1.6.1 is made available subject to the terms and conditions in CNRI's License Agreement"
+
+references:
+  "GPL":
+    matches:
+      - "that incorporate non-separable material that was
+         previously distributed under the GNU General Public License (GPL), the
+         law of the Commonwealth of Virginia shall govern this License
+         Agreement only as to issues arising under or with respect to
+         Paragraphs 4, 5, and 7 of this License Agreement"
 
 segmentation:
   revert: [

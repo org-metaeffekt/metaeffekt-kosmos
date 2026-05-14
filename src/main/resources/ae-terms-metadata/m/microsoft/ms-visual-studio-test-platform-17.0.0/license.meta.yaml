@@ -29,7 +29,3 @@ evidence:
     - "develop and test your device drivers and supporting components, as defined by DCHU"
     - "Examples of “non-commercial programs” are programs written for the purposes of teaching"
     - "a party may constantly trust in (so-called 'cardinal obligations')"
-
-ignoreMatches:
-  - "Microsoft Azure Spatial Anchors WinRT 2.9.0"
-  - "Microsoft DXSDK.D3DX 9.29.952.3"

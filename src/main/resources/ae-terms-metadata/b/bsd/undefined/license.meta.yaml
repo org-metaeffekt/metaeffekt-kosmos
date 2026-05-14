@@ -4,8 +4,8 @@ shortName: BSD-?
 
 unspecific: true
 
-# despite bsd licenses usually require a copyright the decision here is to not demand a copyright
-requiresCopyright: false
+# bsd licenses usually require a copyright; a former decision was overruled and the copyright are explicitly demanded:
+requiresCopyright: true
 
 requiresLicenseText: false
 
@@ -38,8 +38,6 @@ alternativeNames:
   - "BSD-style license"
   - "BSD/Apache style, see LICENSE.txt"
   - "Circumflex License (BSD-like)"
-  - "Clear BSD"
-  - "Clear BSD License"
   - "DBPool (BSD-style) License"
   - "DuraSpace BSD License"
   - "Dynatrace BSD"
@@ -81,6 +79,10 @@ alternativeNames:
   - "BSD-variant"
 
 expressiveEvidence: true
+
+evidence:
+  excludes:
+    - "COPYRIGHTS AND LICENSES (based on BSD License) For work developed by the HSQL Development Group"
 
 # FIXME-CONCEPT: masks are a too strong instrument for this purpose. Check whether other options are possible. See above.
 

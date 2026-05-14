@@ -1,0 +1,29 @@
+canonicalName: Charmpp Software License (2019)
+category: Charmpp Software
+shortName: Charmpp-Software-2019
+
+otherIds:
+  - "scancode:charmpp-2019"
+
+alternativeNames:
+  - "Charm++ Software License 2019"
+  - "Charmpp Software License (2019)"
+  - "Charmpp Software License 2019"
+  - "charmpp-2019"
+  - "Charmpp-Software-2019"
+  - "Non-Commercial Non-Exclusive License for Charm++ Software"
+
+evidence:
+  matches:
+    - "Any uses of Software or Software derivative works beyond those granted in Section 2 above require a separate
+       for a fee license"
+    - "To negotiate a license with additional rights, You may contact Illinois at the Office of Technology Management"
+    - "Integration of all or part of the Software or Software derivative works into a product for sale, lease or license
+       by or on behalf of You to third parties; or"
+    - "Distribution of all or part of the Software or Software derivative works to third parties for any reason,
+       including for commercializing products sold or licensed by or on behalf of You, except for contributing
+       changes to Software"
+    - "Use of Software or Software derivative works for internal commercial purposes"
+    - "For avoidance of doubt, You may at Your own expense, create and freely distribute Your works that interoperate
+       with the Software, directing the users of such works to license and download the Software itself from Illinois'
+       site at http://charm.cs.illinois.edu/research/charm"

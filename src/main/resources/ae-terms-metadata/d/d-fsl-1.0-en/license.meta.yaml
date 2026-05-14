@@ -1,12 +1,16 @@
-canonicalName: German Free Software License
+canonicalName: German Free Software License 1.0
 category: German Free Software License
 shortName: D-FSL-1.0-EN
 
-alternativeNames:
-  - "German Free Software License"
-
 otherIds:
   - "scancode:d-fsl-1.0-en"
+
+canonicalNameHistory:
+  - "German Free Software License"
+
+alternativeNames:
+  - "German Free Software License"
+  - "German Free Software License Version 1.0"
 
 evidence:
   matches:

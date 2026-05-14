@@ -1,10 +1,13 @@
-canonicalName: Business Source License 1.1 (with Akaunting Exception (Business Source License 1.1))
-category: Business Source+Akaunting
-shortName: Business-Source-1.1-Akaunting-Exception
+canonicalName: Business Source License 1.1 (with Akaunting Exception (BSL-1.1))
+category: BSL+Akaunting
+shortName: BSL-1.1-Akaunting-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with Akaunting Exception (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with Akaunting Exception)
 
 combinedWith:
-  Akaunting Exception (Business Source License 1.1): Business Source License 1.1 (with Akaunting Exception (Business Source License 1.1))
+  Akaunting Exception (BSL-1.1): Business Source License 1.1 (with Akaunting Exception (BSL-1.1))

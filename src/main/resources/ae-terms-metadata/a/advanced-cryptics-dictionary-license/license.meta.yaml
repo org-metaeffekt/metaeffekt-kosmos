@@ -1,0 +1,16 @@
+canonicalName: Advanced Cryptics Dictionary License
+category: Advanced Cryptics Dictionary
+spdxIdentifier: Advanced-Cryptics-Dictionary
+
+alternativeNames:
+  - "Advanced Cryptics Dictionary License"
+  - "Advanced-Cryptics-Dictionary"
+  - "https://ftp.gnu.org/gnu/aspell/dict/en/aspell6-en-2020.12.07-0.tar.bz2"
+
+evidence:
+  matches:
+    - "The following restriction is placed on the use of this publication"
+    - "if The UK Advanced Cryptics Dictionary is used in a software package or redistributed in
+       any form, the copyright notice must be prominently displayed and the text of this document
+       must be included verbatim"
+    - "There are no other restrictions: I would like to see the list distributed as widely as possible"

@@ -7,6 +7,10 @@ otherIds:
 
 alternativeNames:
   - "Google APIs Terms of Service Last modified: November 9, 2021"
+  - "Google APIs Terms of Service 2021-11-09"
+  - "Google APIs Terms of Service 2021" # this may proof unprecise, but still matches the canonical name precision
+  - "Google APIs Terms of Service Version 11092021"
+  - "Google-APIs-TOS-V11092021"
 
 evidence:
   matches:

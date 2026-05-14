@@ -1,0 +1,16 @@
+canonicalName: Anton Zinoviev License
+category: Anton Zinoviev License
+spdxIdentifier: hyphen-bulgarian
+shortName: AZL
+
+alternativeNames:
+  - "Anton Zinoviev License"
+  - "Anton-Zinoviev-License"
+  - "Hyphen Bulgarian Zinoviev"
+
+evidence:
+  matches:
+    - "This software may be used, modified, copied, distributed, and sold, both in source and
+       binary form provided that the above copyright notice and these terms are retained"
+    - "The name of the author may not be used to endorse or promote products derived from this
+       software without prior permission"

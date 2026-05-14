@@ -5,6 +5,7 @@ shortName: GPL-1.0
 
 otherIds:
   - "scancode:gpl-1.0"
+  - "osi-deprecated:gpl-1-0"
 
 defaultSourceCategory: annex
 
@@ -23,6 +24,8 @@ alternativeNames:
   - "GPL 1.0"
   - "GNU General Public License (v1)"
   - "GNU GENERAL PUBLIC LICENSE Version 1"
+  - "GNU General Public License v1.0 only"
+  - "GPL-1.0"
 
 evidence:
   matches:

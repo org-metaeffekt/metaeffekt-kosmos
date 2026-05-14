@@ -1,4 +1,4 @@
-canonicalName: Signal Exception (GPL 3.0)
+canonicalName: Signal Exception (GPL-3.0)
 category: Signal Exception
 shortName: Signal-Exception-GPL-3.0
 
@@ -6,6 +6,9 @@ type: exception
 
 otherIds:
   - "scancode:signal-gpl-3.0-exception"
+
+canonicalNameHistory:
+  - "Signal Exception (GPL 3.0)"
 
 evidence:
   matches:

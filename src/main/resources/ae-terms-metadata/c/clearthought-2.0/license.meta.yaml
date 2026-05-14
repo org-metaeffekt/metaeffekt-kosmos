@@ -1,0 +1,36 @@
+canonicalName: Clearthought Software License 2.0
+category: Clearthought Software License
+shortName: Clearthought-2.0
+
+otherIds:
+  - "scancode:clearthought-2.0"
+
+alternativeNames:
+  - "Clearthought Software License 2.0"
+  - "Clearthought Software License v2.0"
+  - "Clearthought Software License"
+  - "clearthought-2.0"
+  - "Clearthought-2.0"
+  - "The Clearthought Software License, Version 2.0"
+
+evidence:
+  matches:
+    - "Redistributions of original source code must retain the above copyright notice and license"
+    - "You are not required to redistribute the original source; you may choose to redistribute
+       only the binaries"
+    - "Basically, if you distribute unmodified source, you meet automatically comply with the license
+       with no additional effort on your part"
+    - "Redistributions of original source code must retain the above copyright notice and license"
+    - "You are not required to redistribute the original source; you may choose to redistribute only the binaries"
+    - "The original software is not altered"
+    - "Derived works are not contained in the info.clearthought namespace/package or any subpackage of info.clearthought"
+    - "Derived works do not use the class or interface names from the info.clearthought... packages"
+    - "Redistributions of original source code must retain the above copyright notice and license"
+    - "You are not required to redistribute the original source; you may choose to redistribute
+       only the binaries resulting from the patch files"
+    - "The original source files are not altered"
+    - "All alteration is done in patch files"
+    - "Derived works are not contained in the info.clearthought namespace/package or any subpackage of info.clearthought"
+    - "This means that your patch files must change the namespace/package for the derived work"
+    - "Derived works do not use the class or interface names from the info.clearthought... packages"
+    - "This means your patch files must change the names of the interfaces and classes they alter"

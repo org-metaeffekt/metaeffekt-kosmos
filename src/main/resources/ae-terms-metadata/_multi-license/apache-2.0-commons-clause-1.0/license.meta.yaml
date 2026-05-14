@@ -1,0 +1,15 @@
+canonicalName: Apache License 2.0 + Commons Clause License Condition 1.0
+category: Apache+Commons Clause
+shortName: Apache-CCL-Condition-1.0
+
+type: expression
+
+alternativeNames:
+  - "This file is dual licensed under the terms of the Apache License, Version 2.0, and the Commons Clause License Condition 1.0"
+  - "Apache 2.0 License with Commons Clause Restriction"
+  - "Apache-2.0 with Commons-Clause-1.0"
+  - "Apache-2.0-with-Commons-Clause-1.0"
+  
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 + Commons Clause License Condition 1.0
+  "Commons Clause License Condition 1.0": Apache License 2.0 + Commons Clause License Condition 1.0

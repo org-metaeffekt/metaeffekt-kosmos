@@ -5,6 +5,7 @@ spdxIdentifier: Artistic-2.0
 otherIds:
   - "scancode:artistic-2.0"
   - "osi:Artistic-2.0"
+  - "osi-deprecated:artistic-2-0"
 
 ignoreMatches:
   - "FSF Permit"

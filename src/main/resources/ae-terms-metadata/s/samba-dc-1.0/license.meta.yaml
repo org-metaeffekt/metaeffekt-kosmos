@@ -1,0 +1,54 @@
+canonicalName: Samba Developer's Declaration 1.0
+category: Samba Developer's Declaration
+shortName: Samba-DC-1.0
+
+otherIds:
+  - "scancode:samba-dc-1.0"
+
+alternativeNames:
+  - "\\\"Samba Developer's Declaration, Version 1.0\\\""
+  - "Samba Developer's Declaration, Version 1.0"
+  - "Samba Developer's Declaration 1.0"
+  - "Samba Developer's Declaration v1.0"
+  - "samba-dc-1.0"
+  - "Samba-DC-1.0"
+  - "http://www.gnu.org/licenses/gpl-3.0.html"
+  - "http://www.gnu.org/licenses/lgpl-3.0.html"
+
+evidence:
+  matches:
+    - "The contribution was created in whole or in part by me and I
+       have the right to submit it under the appropriate
+       version of the GNU General Public License; or"
+    - "The contribution is based upon previous work that, to the best
+       of my knowledge, is covered under an appropriate open source
+       license and I have the right under that license to submit that
+       work with modifications, whether created in whole or in part
+       by me, under the GNU General Public License, in the
+       appropriate version; or"
+    - "The contribution was provided directly to me by some other
+       person who certified (a) or (b) and I have not modified it"
+    - "I understand and agree that this project and the
+       contribution are public and that a record of the
+       contribution (including all metadata and personal
+       information I submit with it, including my sign-off) is
+       maintained indefinitely and may be redistributed
+       consistent with the Samba Team's policies and the
+       requirements of the GNU GPL where they are relevant"
+    - "I am granting this work to this project under the terms of both
+       the GNU General Public License and the GNU Lesser General Public
+       License as published by the Free Software Foundation; either version
+       3 of these Licenses, or (at the option of the project) any later
+       version"
+
+references:
+  "GPL":
+    matches:
+      - "I have the right to submit it under the appropriate
+         version of the GNU General Public License"
+
+  "LesserGPL":
+    matches:
+      - "I am granting this work to this project under the terms of both
+         the GNU General Public License and the GNU Lesser General Public
+         License as published by the Free Software Foundation"

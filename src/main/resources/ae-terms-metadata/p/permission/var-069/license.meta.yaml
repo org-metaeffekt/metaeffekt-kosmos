@@ -61,6 +61,7 @@ evidence:
         Permission is hereby granted, free of charge, to any person
         obtaining a copy of this software and associated documentation
         files (the \"Software\")"
+    - "ANY FURTHER LIABILITY IS EXCLUDED"
     
 licenseTemplate: "<lq>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
                   associated documentation files (the \"Software\"), to deal in the Software without restriction,

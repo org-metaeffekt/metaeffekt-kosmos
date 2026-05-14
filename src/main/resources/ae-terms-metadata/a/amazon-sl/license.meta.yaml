@@ -8,6 +8,7 @@ otherIds:
 alternativeNames:
   - "http://aws.amazon.com/asl/"
   - "Amazon Software License"
+  - "Amazon-SL-2008"
 
 evidence:
   matches:
@@ -19,3 +20,6 @@ evidence:
        and otherwise transfer its Work, in whole or in part"
     - "The foregoing license applies only to the patent claims licensable by Licensor that would be infringed by
        Licensor’s Work (or portion thereof) individually and excluding any combinations with any other materials or technology"
+  excludes:
+    - "The Work or derivative works thereof may be used or intended for use by Nvidia or it’s affiliates commercially
+       or non-commercially"

@@ -1,6 +1,6 @@
-canonicalName: Business Source License 1.1 (with Directus Exception (Business Source License 1.1))
-category: Business Source+Directus
-shortName: Business-Source-1.1-Directus-Exception
+canonicalName: Business Source License 1.1 (with Directus Exception (BSL-1.1))
+category: BSL+Directus
+shortName: BSL-1.1-Directus-Exception
 
 type: expression
 
@@ -8,9 +8,10 @@ displayName: Business Source License 1.1 (with Directus Exception)
 
 canonicalNameHistory:
   - "Business Source License 1.1 (with Directus Modifier (Business Source License 1.1))"
+  - "Business Source License 1.1 (with Directus Exception (Business Source License 1.1))"
 
 combinedWith:
-  Directus Exception (Business Source License 1.1): Business Source License 1.1 (with Directus Exception (Business Source License 1.1))
+  Directus Exception (BSL-1.1): Business Source License 1.1 (with Directus Exception (BSL-1.1))
 
 segmentation:
   revert: [

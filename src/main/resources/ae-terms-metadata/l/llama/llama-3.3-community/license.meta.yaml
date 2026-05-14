@@ -1,0 +1,32 @@
+canonicalName: Llama 3.3 Community License Agreement
+category: Llama 3.3 Community License Agreement
+shortName: Llama-3.3-Community
+
+otherIds:
+  - "scancode:llama-3.3-license-2024"
+
+alternativeNames:
+  - "Llama 3.3 Community License Agreement 2024"
+  - "LlaMa 3.3 Community License Agreement (2024)"
+  - "llama-3.3-license-2024"
+  - "LlaMa-3.3-License-2024"
+  - "LLAMA 3.3 COMMUNITY LICENSE AGREEMENT"
+
+canonicalNameHistory:
+  - "LlaMa 3.3 Community License Agreement 2024"
+
+evidence:
+  matches:
+    - "If you distribute or make available the Llama Materials (or any derivative works thereof), or a product or service
+       (including another AI model) that contains any of them, you shall (A) provide a copy of this Agreement with any
+       such Llama Materials; and (B) prominently display “Built with Llama” on a related website, user interface, blogpost,
+       about page, or product documentation"
+    - "If you use the Llama Materials or any outputs or results of the Llama Materials to create, train, fine tune, or
+       otherwise improve an AI model, which is distributed or made available, you shall also include “Llama” at the
+       beginning of any such AI model name"
+    - "If you receive Llama Materials, or any derivative works thereof, from a Licensee as part of an integrated end
+       user product, then Section 2 of this Agreement will not apply to you"
+  excludes:
+    - "collectively, Meta’s proprietary Llama 3.1 and Documentation (and any portion thereof) made available under this Agreement"
+    - "If, on the Llama 3.2 version release date, the monthly active users of the products or services made available by or for Licensee"
+    - "If, on the Llama 4 version release date, the monthly active users of the products or services made available by or for Licensee"

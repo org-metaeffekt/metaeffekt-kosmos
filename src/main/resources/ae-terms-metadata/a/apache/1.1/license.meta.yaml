@@ -1,4 +1,8 @@
+# NOTE: this is identical to a regular BSD-5-Clause, nevertheless we keep the license as is, due to its common use.
 canonicalName: Apache License 1.1
+# FIXME-IMPLEMENT: we could consider this is a category BSD 5-Clause;
+#   - add subcategories for bsd (BSD 2-Clause, BSD 3-Clause, ...)
+#   - define subcategories on BSD (undefined)
 category: Apache License
 spdxIdentifier: Apache-1.1
 
@@ -13,6 +17,7 @@ requiresLicenseText: true
 otherIds:
   - "scancode:apache-1.1"
   - "osi:Apache-1.1"
+  - "osi-deprecated:apache-1-1"
 
 references:
   "Public Domain":
@@ -34,11 +39,12 @@ alternativeNames:
     - "Apache Software License v1.1"
     - "Apache Software License 1.1"
     - "http://apache.org/licenses/LICENSE-1.1"
-    - "The OpenSymphony Software License, Version 1.1"
-    - "The P6Spy Software License, Version 1.1"
+    - "OpenSymphony Software License, Version 1.1"
+    - "P6Spy Software License, Version 1.1"
     - "Apache License 1.1"
-    - "The CyberNeko Software License, Version 1.0"
+    - "CyberNeko Software License, Version 1.0"
     - "https://spdx.org/licenses/apache-1.1"
+    - "OpenSymphony Software License, Version 1.1 (Oracle)" # for external identification purposes
 
 alternativeShortNames:
   - "ALv1.1"
@@ -83,13 +89,13 @@ licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or
                           following disclaimer in the documentation and/or other materials provided with the distribution.</li>
                       <li>The end-user documentation included with the redistribution, if any, must include the following
                           acknowledgment: <i>{{acknowledgment}}</i>
-                   Alternately, this acknowledgment may appear in the software itself, if and wherever such third-party
-                   acknowledgments normally appear.</li>
-                   <li>The name{{variable4thClause}} must not be used to endorse or promote products
-                   derived from this software without prior written permission. For written permission, please contact
-                   apache@apache.org.</li>
-                   <li>Products derived from this software may not be called {{variable5thClause}} appear in their
-                   name, without prior written permission of the {{copyrightHolder}}.</li>
+                       Alternately, this acknowledgment may appear in the software itself, if and wherever such third-party
+                       acknowledgments normally appear.</li>
+                       <li>The name{{variable4thClause}} must not be used to endorse or promote products
+                       derived from this software without prior written permission. For written permission, please contact
+                       apache@apache.org.</li>
+                       <li>Products derived from this software may not be called {{variable5thClause}} appear in their
+                       name, without prior written permission of the {{copyrightHolder}}.</li>
                    </ol>
                    <codeph>THIS SOFTWARE IS PROVIDED ''AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
                    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
@@ -97,6 +103,5 @@ licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or
                    INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
                    SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
                    AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-                   ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></lq>
-                   The Apache License 1.1 required to include the following acknowledgement:<p/>
-                   <lq>{{acknowledgment}}</lq>"
+                   ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph>
+                   The Apache License 1.1 required to include the following acknowledgement:<p/> {{acknowledgment}}</lq>"

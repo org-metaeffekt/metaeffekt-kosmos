@@ -1,0 +1,80 @@
+canonicalName: Gretel.ai Source Available License Agreement 1.0
+category: Gretel.ai Source Available
+shortName: Gretel.ai-SA-1.0
+
+otherIds:
+  - "scancode:gretelai-sal-1.0"
+
+alternativeNames:
+  - "Gretel.AI Source Available License Agreement v1.0"
+
+evidence:
+  matches:
+    - "Conditioned on your compliance with the terms and conditions of 
+      this Agreement, Gretel.ai grants you a non-exclusive, royalty-free, worldwide, 
+      non-transferable, non-sublicensable license under Gretel.ai’s copyrights in the 
+      Software and during the term of this Agreement to"
+    - "compile, install and execute the Software and your Modifications"
+    - "solely on servers and equipment owned or controlled by you"
+    - "The license granted to you in Section 1.1 does not include 
+      the right to, and you will not, and you will not permit any other individual or entity to"
+    - "distribute, sell, sublicense or otherwise transfer or make available 
+      the Software or your Modifications to third parties"
+    - "You will reproduce all of Gretel.ai’s and its licensors’ copyright notices 
+      and any other proprietary rights notices contained in the Software"
+
+references:
+  "MIT":
+    matches:
+      - "Gretel.ai may package or otherwise make the Software available 
+        with software or other material that is distributed as “free software,” “open source software” 
+        or under similar licensing or distribution models, including the GNU General Public License, 
+        GNU Lesser General Public License, Mozilla Public License, BSD licenses, the MIT license, 
+        the Apache License and other such licenses"
+  "GPL":
+    matches:
+      - "Gretel.ai may package or otherwise make the Software available 
+        with software or other material that is distributed as “free software,” “open source software” 
+        or under similar licensing or distribution models, including the GNU General Public License, 
+        GNU Lesser General Public License, Mozilla Public License, BSD licenses, the MIT license, 
+        the Apache License and other such licenses"
+      - "redistributable by third parties at no charge, 
+        including under the terms of the GNU General Public License version 3, the GNU Affero General Public License
+        version 3, the GNU Lesser General Public License version 3, or any prior or successor 
+        versions or equivalents of the foregoing"
+  "LesserGPL":
+    matches:
+      - "Gretel.ai may package or otherwise make the Software available 
+        with software or other material that is distributed as “free software,” “open source software” 
+        or under similar licensing or distribution models, including the GNU General Public License, 
+        GNU Lesser General Public License, Mozilla Public License, BSD licenses, the MIT license, 
+        the Apache License and other such licenses"
+      - "redistributable by third parties at no charge, 
+        including under the terms of the GNU General Public License version 3, the GNU Affero General Public License
+        version 3, the GNU Lesser General Public License version 3, or any prior or successor 
+        versions or equivalents of the foregoing"
+  "AGPL":
+    matches:
+      - "Gretel.ai may package or otherwise make the Software available 
+        with software or other material that is distributed as “free software,” “open source software” 
+        or under similar licensing or distribution models, including the GNU General Public License, 
+        GNU Lesser General Public License, Mozilla Public License, BSD licenses, the MIT license, 
+        the Apache License and other such licenses"
+      - "redistributable by third parties at no charge, 
+        including under the terms of the GNU General Public License version 3, the GNU Affero General Public License
+        version 3, the GNU Lesser General Public License version 3, or any prior or successor 
+        versions or equivalents of the foregoing"
+  "MPL":
+    matches:
+      - "Gretel.ai may package or otherwise make the Software available 
+        with software or other material that is distributed as “free software,” “open source software” 
+        or under similar licensing or distribution models, including the GNU General Public License, 
+        GNU Lesser General Public License, Mozilla Public License, BSD licenses, the MIT license, 
+        the Apache License and other such licenses"
+  "Apache License":
+    matches:
+      - "Gretel.ai may package or otherwise make the Software available 
+        with software or other material that is distributed as “free software,” “open source software” 
+        or under similar licensing or distribution models, including the GNU General Public License, 
+        GNU Lesser General Public License, Mozilla Public License, BSD licenses, the MIT license, 
+        the Apache License and other such licenses"

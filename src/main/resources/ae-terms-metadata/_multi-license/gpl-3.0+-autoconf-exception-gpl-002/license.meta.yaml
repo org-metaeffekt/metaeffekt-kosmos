@@ -12,6 +12,9 @@ otherIds:
 canonicalNameHistory:
   - "GNU General Public License 3.0 (or any later version; with Autoconf exception 3.0)"
 
+alternativeNames:
+  - "GNU General Public License 3.0 (or any later version; with Autoconf exception (GPL; variant 002))"
+
 representedAs: GNU General Public License 3.0 (or any later version; with exceptions)
 
 combinedWith:

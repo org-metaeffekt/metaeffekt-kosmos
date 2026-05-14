@@ -1,0 +1,32 @@
+canonicalName: NVIDIA Software License
+category: NVIDIA Software
+shortName: NVIDIA-Software-License
+
+alternativeNames:
+  - "NVIDIA Software License"
+  - "NVIDIA-Software-License"
+
+evidence:
+  matches:
+    - "The SOFTWARE is licensed for you to develop applications only for use in systems with NVIDIA GPUs"
+    - "You may not reverse engineer, decompile or disassemble, or remove copyright or other proprietary notices
+       from any portion of the SOFTWARE or copies of the SOFTWARE"
+    - "You may not modify or create derivative works of any portion of the SOFTWARE"
+    - "You may not bypass, disable, or circumvent any technical measure, encryption, security, digital rights
+       management or authentication mechanism in the SOFTWARE"
+    - "You may not use the SOFTWARE in any manner that would cause it to become subject to an open source
+       software license"
+    - "As examples, licenses that require as a condition of use, modification, and/or distribution that the
+       SOFTWARE be (i) disclosed or distributed in source code form; (ii) licensed for the purpose of making
+       derivative works; or (iii) redistributable at no charge"
+    - "Unless you have an agreement with NVIDIA for this purpose, you may not use the SOFTWARE with any system
+       or application where the use or failure of the system or application can reasonably be expected to threaten
+       or result in personal injury, death, or catastrophic loss. Examples include use in avionics, navigation,
+       military, medical, life support or other life critical applications"
+    - "NVIDIA does not design, test or manufacture the SOFTWARE for these critical uses and NVIDIA shall not be liable
+       to you or any third party, in whole or in part, for any claims or damages arising from such uses"
+    - "You agree to defend, indemnify and hold harmless NVIDIA and its affiliates, and their respective employees,
+       contractors, agents, officers and directors, from and against any and all claims, damages, obligations,
+       losses, liabilities, costs or debt, fines, restitutions and expenses (including but not limited to attorney's
+       fees and costs incident to establishing the right of indemnification) arising out of or related to use of the
+       SOFTWARE outside of the scope of this Agreement, or not in compliance with its terms"

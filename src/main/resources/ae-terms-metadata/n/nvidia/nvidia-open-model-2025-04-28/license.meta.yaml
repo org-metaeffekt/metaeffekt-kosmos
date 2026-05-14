@@ -1,0 +1,47 @@
+canonicalName: NVIDIA Open Model License Agreement 2025-04-28
+category: NVIDIA Open Model License Agreement
+shortName: NVIDIA-OMLA-2025-04-28
+
+otherIds:
+  - "scancode:nvidia-open-model-2025-04-28"
+
+alternativeNames:
+  - "NVIDIA Open Model License Agreement 2025-04-28"
+  - "nvidia-open-model-2025-04-28"
+  - "NVIDIA-OPEN-MODEL-2025-04-28"
+  - "NVIDIA Open Model License Agreement"
+  - "NVIDIA OMLA 2025-04-28"
+
+evidence:
+  matches:
+    - "NVIDIA models released under this Agreement are intended to be used permissively and enable the further
+       development of AI technologies"
+    - "Models are commercially usable"
+    - "You are free to create and distribute Derivative Models"
+    - "NVIDIA does not claim ownership to any outputs generated using the Models or Model Derivatives"
+    - "The Model and any Derivative Model are subject to additional terms as described in Section 2 and Section 3
+       of this Agreement and govern Your use"
+    - "If You institute copyright or patent litigation against any entity (including a cross-claim or counterclaim
+       in a lawsuit) alleging that the Model or a Derivative Model constitutes direct or contributory copyright or
+       patent infringement, then any licenses granted to You under this Agreement for that Model or Derivative Model
+       will terminate as of the date such litigation is filed"
+    - "If You bypass, disable, reduce the efficacy of, or circumvent any technical limitation, safety guardrail or
+       associated safety guardrail hyperparameter, encryption, security, digital rights management, or authentication
+       mechanism contained in the Model, your rights under this Agreement will automatically terminate"
+    - "NVIDIA may update this Agreement to comply with legal and regulatory requirements at any time and You agree
+       to either comply with any updated license or cease Your copying, use, and distribution of the Model and any
+       Derivative Model"
+    - "The rights granted herein are explicitly conditioned on Your full compliance with the terms of this Agreement"
+    - "Subject to the terms and conditions of this Agreement, NVIDIA hereby grants to You a perpetual, worldwide,
+       non-exclusive, no-charge, royalty-free, revocable (as stated in Section 2.1) license to publicly perform,
+       publicly display, reproduce, use, create derivative works of, make, have made, sell, offer for sale,
+       distribute (through multiple tiers of distribution) and import the Model"
+    - "Use of the Models under the Agreement must be consistent with NVIDIA’s Trustworthy AI terms found at
+       https://www.nvidia.com/en-us/agreements/trustworthy-ai/terms/"
+    - "NVIDIA owns the Model and any Model Derivatives created by NVIDIA"
+    - "Subject to NVIDIA’s underlying ownership rights in the Model or its Model Derivatives, You are and will be the
+       owner of Your Model Derivatives. NVIDIA claims no ownership rights in outputs"
+    - "You are responsible for outputs and their subsequent uses"
+    - "Except as expressly granted in this Agreement, (a) NVIDIA reserves all rights, interests and remedies in
+       connection with the Model and (b) no other license or right is granted to you by implication, estoppel or
+       otherwise"

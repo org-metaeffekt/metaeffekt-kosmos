@@ -13,6 +13,10 @@ otherIds:
 requiresCopyright: true
 requiresLicenseText: true
 
+alternativeNames:
+  - "Jsch License"
+  - "JSch License"
+
 evidence:
   matches:
     - "Redistribution and use in source and binary forms, with or without
@@ -44,11 +48,10 @@ evidence:
     - "3.2.1 General
        Redistribution and use in source and binary forms, with or without modification, are permitted
        provided that the following conditions are met"
-    - "Far Manager plugins that use only the following header files from this
-       distribution"
-    - "THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR 
-       IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
-       OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+
+standardVariableSet:
+  "variable3rdClause": "of the copyright holder"
+  "authorNoLiability": "THE AUTHOR"
 
 licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without
                   modification, are permitted provided that the following conditions

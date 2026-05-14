@@ -1,0 +1,50 @@
+canonicalName: Charmpp Converse License (2017)
+category: Charmpp Converse
+shortName: Charmpp-Converse-2017
+
+otherIds:
+  - "scancode:charmpp-converse-2017"
+
+alternativeNames:
+  - "Charmpp Converse License (2017)"
+  - "Charm++/Converse License 2017"
+  - "Charmpp Converse License 2017"
+  - "charmpp-converse-2017"
+  - "Charmpp-Converse-2017"
+  - "Charm++/Converse License"
+
+evidence:
+  matches:
+    - "This software includes code developed by the Parallel Programming Laboratory
+       in the Department of Computer Science at the University of Illinois at
+       Urbana-Champaign"
+    - "Licensee may redistribute without restriction works with up to 1/2 of their
+       non-comment source code derived from at most 1/10 of the non-comment source
+       code developed by Illinois and contained in the Software, provided that the
+       above directions for notice and acknowledgment are observed"
+    - "Any other distribution of the Software or any derivative work requires a
+       separate license with Illinois"
+    - "Licensee understands the Software is proprietary to Illinois"
+    - "Licensee agrees to take all reasonable steps to insure that the Software is
+       protected and secured from unauthorized disclosure, use, or release and  will
+       treat it with at least the same level of care as Licensee would use to  protect
+       and secure its own proprietary computer programs and/or information, but using no
+       less than a reasonable standard of care"
+    - "Licensee agrees to provide the Software only to any other person or entity who has
+       registered with Illinois"
+    - "If licensee is not registering as an individual but as an institution or corporation
+       each member of the institution or corporation who has access to or uses Software must
+       agree to and abide by the terms of this license"
+    - "If Licensee becomes aware of any unauthorized licensing, copying or use of the Software,
+       Licensee shall promptly notify Illinois in writing"
+    - "Licensee expressly agrees to use the Software only in the manner and for the specific
+       uses authorized in this Agreement"
+    - "By using or copying this Software, Licensee agrees to abide by the copyright law and all
+       other applicable laws of the U.S. including, but not limited to, export control laws and
+       the terms of this license"
+    - "Illinois  shall have the right to terminate this license immediately by written  notice upon
+       Licensee's breach of, or non-compliance with, any terms of the license"
+    - "Licensee may be held legally responsible for any  copyright infringement that is caused or
+       encouraged by its failure to  abide by the terms of this license"
+    - "Upon termination, Licensee agrees to  destroy all copies of the Software in its
+       possession and to verify such  destruction in writing"

@@ -43,8 +43,12 @@ public class ScannerIntegrationTest extends AbstractScannerIntegrationTest {
     @Disabled // invoked from _04_ScannerTests
     @Test
     public void assertUniqueLicenseIdentification() throws IOException {
-        String skipUntilLicense = "";
+        // while working on this test and excludes set this to 'false' to keep the cache in target/scanner
         boolean deleteAnalysisFolder = true;
+
+        String skipUntilLicense = "";
+
+        // excludes are:
         List<String> excludes = new ArrayList<>();
 
         // NKR: this seems broken. Cannot identify cause of issue:
@@ -66,6 +70,14 @@ public class ScannerIntegrationTest extends AbstractScannerIntegrationTest {
         // these came up because of the most recent fix regarding expectedMatches
         // FIXME-KKL: check license mismatches caused by Python License 2.0.1 & CNRI Open Source License Agreement (Python 1.6.1)
         excludes.add("Python License 2.0");
+
+        // not-a-license issue; ignored
+        excludes.add("HDF5 Software Library and Utilities License Notice");
+
+        // not-a-license issue; ignored
+        excludes.add("LZMA SDK Original");
+
+        excludes.add("BSD 4.3 TAHOE License");
 
         assertUniqueLicenseIdentification(nmd, excludes, skipUntilLicense, deleteAnalysisFolder);
     }

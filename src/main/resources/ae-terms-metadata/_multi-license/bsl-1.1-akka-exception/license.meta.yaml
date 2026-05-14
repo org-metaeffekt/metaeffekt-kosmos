@@ -1,10 +1,13 @@
-canonicalName: Business Source License 1.1 (with Akka Exception (Business Source License 1.1))
-category: Business Source+Akka
-shortName: Business-Source-1.1-Akka-Exception
+canonicalName: Business Source License 1.1 (with Akka Exception (BSL-1.1))
+category: BSL+Akka
+shortName: BSL-1.1-Akka-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with Akka Exception (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with Akka Exception)
 
 combinedWith:
-  Akka Exception (Business Source License 1.1): Business Source License 1.1 (with Akka Exception (Business Source License 1.1))
+  Akka Exception (BSL-1.1): Business Source License 1.1 (with Akka Exception (BSL-1.1))

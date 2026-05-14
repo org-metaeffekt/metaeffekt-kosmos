@@ -1,17 +1,20 @@
-canonicalName: GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception (GPL))
-category: GPL+MySQL
-shortName: GPL-2.0+-MySQL-FLOSS-Exception
+canonicalName: GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception 0.6 (GPL-2.0))
+category: GPL+MySQL Exception
+shortName: GPL-2.0+-MySQL-FLOSS-Exception-0.6
 
 type: expression
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception (GPL))"
 
 otherIds:
   - "scancode:gpl-2.0-mysql-floss"
 
 combinedWith:
-  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception (GPL))
-  MySQL FLOSS Exception (GPL): GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception (GPL))
+  GNU General Public License 2.0 (or any later version): GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception 0.6 (GPL-2.0))
+  MySQL FLOSS Exception 0.6 (GPL-2.0): GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception 0.6 (GPL-2.0))
 
 representedAs: GNU General Public License 2.0 (or any later version; with exceptions)
 
 displayName:
-  "GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception)"
+  "GNU General Public License 2.0 (or any later version; with MySQL FLOSS Exception 0.6)"

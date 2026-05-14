@@ -1,3 +1,4 @@
+# FIXME-IMPLEMENT: change to XPP License; adjust category
 canonicalName: xpp License
 category: xpp
 spdxIdentifier: xpp
@@ -8,6 +9,11 @@ alternativeNames:
   - "XPP License"
   - "LICENSE FOR THE Extreme! Lab PullParser"
   - "under XPP"
+  # - "XPP-Style License" This is mapped to Indiana University Extreme Lab Software License (undefined)
+  # - "XPP-UNSPECIFIED" This is mapped to Indiana University Extreme Lab Software License (undefined)
+
+alternativeShortNames:
+  - "XPP-1.2"
 
 evidence:
   matches:

@@ -6,6 +6,7 @@ shortName: GPL-3.0
 otherIds:
   - "scancode:gpl-3.0"
   - "osi:GPL-3.0"
+  - "osi-deprecated:gpl-3-0"
 
 defaultSourceCategory: annex
 requiresSourceCodeProvision: true
@@ -143,6 +144,7 @@ alternativeNames:
   - "GNU General Public License as published by the Free Software Foundation; version 3"
   - "version 3 of the GNU General Public License"
   - "appendix.gpl-3.0"
+  - "GNU General Public License 3.0 or later"
 
 evidence:
   matches:
@@ -183,11 +185,13 @@ references:
            but the special requirements of the GNU Affero General Public License,
            section 13, concerning interaction through a network will apply to the
            combination as such"
-  "LGPL":
+  "LesserGPL":
      matches:
         - "If your program is a subroutine library, you may consider it more useful to permit linking proprietary
-           applications with the library."
-        - "If this is what you want to do, use the GNU Lesser General Public License instead of this License"
+           applications with the library. If this is what you want to do, use the GNU Lesser General Public License 
+           instead of this License"
+  "LGPL":
+    matches:
         - "But first, please read <http://www.gnu.org/philosophy/why-not-lgpl.html>"
   "GPL":
     matches:

@@ -13,6 +13,7 @@ status:
 otherIds:
   - "osi:MIT-0"
   - "scancode:mit-0"
+  - "osi-deprecated:mit-0"
 
 alternativeNames:
   - "MIT, Version 0"

@@ -1,0 +1,31 @@
+canonicalName: Unlicense (libwhirlpool)
+category: Unlicense
+shortName: Unlicense-libwhirlpool
+
+otherIds:
+  - "scancode:unlicense-libwhirlpool"
+
+canonicalNameHistory:
+  - "Unlicense variant"
+
+alternativeNames:
+  - "Unlicense-variant"
+  - "Unlicense variant"
+  - "https://github.com/dfateyev/libwhirlpool/blob/master/README#L27"
+
+ignoreMatches:
+  - "Public Domain"
+
+evidence:
+  matches:
+    - "This is free and unencumbered software released into the public domain"
+    - "Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software,
+       either in source code form or as a compiled binary, for any purpose, commercial or non-commercial,
+       and by any means"
+  excludes:
+    - "In jurisdictions that recognize copyright laws, the author or authors of this software dedicate any
+       and all copyright interest in the software to the public domain"
+
+expectedSpdxMatches:
+  - "Unlicense variant"
+  - "Public Domain"

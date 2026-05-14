@@ -1,0 +1,42 @@
+canonicalName: Retype Software License Agreement 3.7.0
+category: Retype Software License Agreement
+shortName: Retype-3.7.0
+
+otherIds:
+  - "scancode:retype-3.7.0"
+
+alternativeNames:
+  - "Retype Software License Agreement v3.7.0"
+  - "Retype Software License Agreement 3.7.0"
+  - "Retype Software License Agreement Version 3.7.0"
+
+evidence:
+  matches:
+    - "This is a license agreement and not an agreement for sale. We reserve ownership of all intellectual
+       property rights inherent in or relating to the Software, which include, but are not limited to, all
+       copyright, patent rights, all rights in relation to registered and unregistered trademarks
+       (including service marks), confidential information (including trade secrets and know-how) and all
+       rights other than those expressly granted by this Agreement"
+    - "We may provide You with source code so that You can create Modifications and Applications"
+    - "While You retain all rights to any original work authored by You as part of the Modifications,
+       We continue to own all copyright and other intellectual property rights in the Software"
+    - "You must not remove, obscure or interfere with any copyright, acknowledgment, attribution,
+       trademark, warning or disclaimer statement affixed to, incorporated in or otherwise applied in
+       connection with the Software"
+    - "You may not redistribute the Software or Modifications other than by including the Software or a
+       portion thereof within Your Application"
+    - "You may not redistribute the Software or Modifications as part of any Application that can be described
+       as a development toolkit or library, an application builder, a website builder, or any Application that
+       is intended for use by software, application, or website developers or designers"
+    - "You may not redistribute any part of the Software documentation"
+    - "You may not change or remove the copyright notice from any of the files included in the Software or
+       Modifications"
+    - "UNDER NO CIRCUMSTANCES MAY YOU USE THE SOFTWARE FOR AN APPLICATION THAT IS INTENDED FOR SOFTWARE OR
+       APPLICATION DEVELOPMENT PURPOSES"
+    - "UNDER NO CIRCUMSTANCES MAY YOU USE THE SOFTWARE (INCLUDING WITHOUT LIMITATION THE SOURCE CODE
+       THEREOF) AS THE BASIS FOR OR IN CONNECTION WITH A PRODUCT THAT CONTAINS THE SAME, OR SUBSTANTIALLY
+       THE SAME, FUNCTIONALITY AS THE SOFTWARE"
+    - "You are required to ensure that the Software is not reused by or with any applications other than
+       those with which You distribute it as permitted herein"
+    - "For example, if You install the Software on a customer's server, that customer is not permitted to
+       use the Software independently of Your Application, and must be informed as such"

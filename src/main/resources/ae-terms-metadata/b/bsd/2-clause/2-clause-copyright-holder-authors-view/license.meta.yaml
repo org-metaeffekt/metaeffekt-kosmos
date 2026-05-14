@@ -1,11 +1,21 @@
-# FIXME-IMPLEMENT:
-# - remove combined with (here and in marker)
-# - insert scancode text
-# - add expectedMatches
-# - add ignore: true to ensure the license is not identified by the scanner
 canonicalName: BSD 2-Clause License (copyright holder variant; with authors view)
 category: BSD
 shortName: BSD-2-Clause-copyright-holder-Authors-View-Marker
+
+# FIXME-DISCUSS: is there a better way to deal with this and to actually match this "license"?
+# NKR: I liked the previous implementation with the marker better.
+# KKL: this license would also require a dedicated template; does it?
+# NKR: this license is required to map the scancode license
+# 2026-01-15: currently this modelling does reflect the best approach. We keep the license due to
+#             - the mapping to the scancode license id
+#             - the canonical name history
+#             - when matched the scanner identifies a BSD 2-Clause License (copyright holder variant) with
+#               Authors View Marker
+ignore: true
+
+canonicalNameHistory:
+  - "BSD 2-Clause License (variant 015)"
+  - "BSD 2-Clause License (copyright holder variant; with Authors View Marker)"
 
 otherIds:
   - "scancode:bsd-2-clause-views"
@@ -13,15 +23,8 @@ otherIds:
 
 representedAs: BSD 2-Clause License
 
-canonicalNameHistory:
-  - "BSD 2-Clause License (variant 015)"
-  - "BSD 2-Clause License (copyright holder variant; with Authors View Marker)"
+expectedMatches:
+  - "BSD 2-Clause License (copyright holder variant)"
 
 alternativeNames:
   - "BSD-2-Clause-FreeBSD License"
-
-combinedWith:
-  BSD 2-Clause License (copyright holder variant): BSD 2-Clause License (copyright holder variant; with authors view)
-  Authors View Marker: BSD 2-Clause License (copyright holder variant; with authors view)
-
-

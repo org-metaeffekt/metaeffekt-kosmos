@@ -1,0 +1,26 @@
+canonicalName: Delayed Open Source Attribution License 1.0
+category: Delayed Open Source Attribution
+shortName: Delayed-Open-Source-Attribution-1.0
+
+otherIds:
+  - "scancode:dosa-1.0"
+
+alternativeNames:
+  - "Delayed Open Source Attribution License 1.0 (DOSA-1.0)"
+
+evidence:
+  matches:
+    - "hereby grants permission, free of charge, to any person obtaining a copy of this Software, to use, copy, modify, merge, publish, and distribute the Software, in each case for any purpose other than a Commercial Purpose and to permit persons to whom the Software is furnished to do so, subject to the terms and conditions of this DOSA License"
+    - "Effective on the third anniversary of the first publicly available distribution of each version of the Software under this DOSA License, you are hereby granted a license to that version of the Software under the terms of the CPAL License"
+    - "Each time the Software is launched or initially run (such as by initiating a session), a prominent display of the Original Developer’s Attribution Information (defined below) must occur on the graphic user interface employed by the end user"
+    - "If Attribution Information is not provided, then there are no requirements for You to display any Attribution Information of the Original Developer"
+    - "Such Modifications must be made available in Source Code form either on the same media as an Executable version or via an accepted a mechanism generally accepted in the software development community for the electronic transfer of data to anyone to whom you made an Executable version available and must remain available in Source Code form for at least twelve (12) months after the date it initially became available"
+    - "You must cause all Modifications which You create or to which You contribute to contain a file documenting the changes You made to create that Software and the date of any change"
+
+references: 
+  "CPAL":
+    matches:
+      - "Though it is not itself an open source license, the purpose of this Delayed Open Source Attribution License (the \"DOSA License\") is to provide open access to software for non-commercial use while giving attribution to its original developer, and after a delay of three years, forcing the software to fall under the terms of the open source CPAL-1.0 license (located at https://opensource.org/licenses/CPAL-1.0) or a future version of the CPAL-1.0 license published by Socialtext, Inc. (the \"CPAL License\") that preserves the attribution information of this DOSA License. This delay is intended to protect the commercial interests of the licensor without compromising on the many benefits of creating open source products"
+      - "EXHIBIT A. Common Public Attribution License Version 1.0.
+
+       \"The contents of this file are subject to the Common Public Attribution License Version 1.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at"

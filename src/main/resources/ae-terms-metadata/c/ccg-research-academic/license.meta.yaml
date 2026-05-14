@@ -1,0 +1,31 @@
+canonicalName: Cognitive Computation Group Research License
+category: CCG Research License
+shortName: CCG-Research-Academic
+
+otherIds:
+  - "scancode:ccg-research-academic"
+
+classification: proprietary free
+
+alternativeNames:
+  - "Research and Academic Use License Cognitive Computation Group"
+  - "Cognitive Computation Group Research License"
+  - "CCG Research License"
+  - "CCG-Research-Academic"
+  - "ccg-research-academic"
+
+evidence:
+  matches:
+    - "To use unlimited copies of the Software for its own academic and research purposes"
+    - "However, if Licensee distributes any derivative work based on or derived from the Software (with such distribution
+       limited to binary form only), then Licensee will (1) notify the University (c/o Professor Dan Roth, e-mail: danr@cs.uiuc.edu)
+       regarding its distribution of the derivative work and provide a copy if requested, and (2) clearly notify users that such
+       derivative work is a modified version and not the original Software distributed by the University"
+    - "To redistribute (sublicense) derivative works based on the Software in binary form only to third parties provided
+       that (1) the copyright notice and any accompanying legends or proprietary notices are reproduced on all copies,
+       (2) no royalty is charged for such copies, and (3) third parties are restricted to using the derivative work
+       for academic and research purposes only, without further sublicensing rights"
+    - "No license is granted herein that would permit Licensee to incorporate the Software into a commercial product,
+       or to otherwise commercially exploit the Software"
+    - "Should Licensee wish to make commercial use of the Software, Licensee should contact the University, c/o the Office
+       of Technology Management ('OTM') to negotiate an appropriate license for such commercial use"

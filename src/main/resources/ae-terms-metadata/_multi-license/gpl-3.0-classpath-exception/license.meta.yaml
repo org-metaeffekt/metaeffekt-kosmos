@@ -1,4 +1,4 @@
-canonicalName: GNU General Public License 3.0 (with Classpath exception)
+canonicalName: GNU General Public License 3.0 (with Classpath Exception)
 category: GPL+Classpath
 shortName: GPL-3.0-Classpath-Exception
 
@@ -7,17 +7,21 @@ requiresSourceCodeProvision: true
 type: expression
 
 canonicalNameHistory:
+  - "GNU General Public License 3.0 (with Classpath exception)"
   - "GNU General Public License 3.0 (with classpath exception)"
-  - "GNU General Public License 3.0 (with Classpath Exception)"
 
 representedAs: GNU General Public License 3.0 (with exceptions)
 
 alternativeNames:
   - "<name>GPL3 w/ CPE</name>"
+  - "GNU General Public License v3.0 w/Classpath exception" # for external identification purposes
+  - "GNU General Public License v3.0 with Classpath Exception" # for external identification purposes
+  - "GPL 3.0 with Classpath Exception" # for external identification purposes
+  - "GPL-3.0-with-classpath-exception" # for external identification purposes
 
 combinedWith:
-  "GNU General Public License 3.0": "GNU General Public License 3.0 (with Classpath exception)"
-  "Classpath Exception": "GNU General Public License 3.0 (with Classpath exception)"
+  "GNU General Public License 3.0": "GNU General Public License 3.0 (with Classpath Exception)"
+  "Classpath Exception": "GNU General Public License 3.0 (with Classpath Exception)"
 
 # modifiers:
 #    - Classpath Exception

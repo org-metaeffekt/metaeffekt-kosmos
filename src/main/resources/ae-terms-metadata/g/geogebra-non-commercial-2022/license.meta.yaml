@@ -1,0 +1,22 @@
+canonicalName: GeoGebra Non-Commercial License Agreement 2022
+category: GeoGebra Non-Commercial
+shortName: GeoGebra-NC-2022
+
+otherIds:
+  - "scancode:geogebra-ncla-2022"
+
+alternativeNames:
+  - "http://www.geogebra.org/license"
+  - "GeoGebra Non-Commercial License Agreement 2022"
+
+expectedMatches:
+  - "Creative Commons BY-NC-SA 3.0"
+  - "GNU General Public License (undefined)"
+
+evidence:
+  matches:
+    - "The GeoGebra installers, web services and various copyright materials, graphics and resources made available are licensed to you on a limited, non-exclusive, personal, non-transferable and royalty-free license under which you are free to use, copy, distribute, modify and transmit the GeoGebra installers, web services and the copyright materials PROVIDED THAT you only do so for non-commercial purposes"
+    - "The GeoGebra source code is licensed to you under the terms of the GNU General Public License (version 3 or later) as published by the Free Software Foundation, the current text of which can be found via this link"
+    - "The Software (and all related materials and resources) are licensed to you WITHOUT ANY WARRANTY and on an AS IS basis including without limitation the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE"
+    - "We accept no liability for your use of the Software"
+    - "You may install GeoGebra on multiple devices in multiple locations PROVIDED THAT you always use the Software for non-commercial purposes and otherwise in accordance with these License terms"

@@ -1,0 +1,91 @@
+canonicalName: BSD 5-Clause License
+category: BSD
+shortName: BSD-5-Clause
+
+status:
+  - "variabilization pending: 25.10.21"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+alternativeNames:
+  - "BSD 5-Clause"
+  - "BSD 5-Clause License"
+  - "BSD 5-clause"
+  - "BSD-5-Clause"
+  - "5-Clause BSD License"
+  - "5-clause BSD"
+  - "BSD License (BSD 5-Clause)"
+  - "BSD-5"
+  - "BSD5 License"
+  - "BSD5"
+  - "Five-clause BSD-style"
+  - "bsd_5"
+  - "BSD 5 Clause"
+  - "BSD-5 License"
+  - "BSD (5-Clause)"
+  - "BSD (5-point)"
+  - "BSD 5"
+  - "BSD 5 Clause License"
+  - "BSD 5 License"
+  - "BSD 5-Clause Licence"
+  - "BSD 5-Clause License (BSD5)"
+  - "BSD 5-Clause License"
+  - "BSD 5-clause style license"
+  - "BSD Licence 5"
+  - "BSD License (5-Clause)"
+  - "BSD License 5 Clause"
+  - "BSD License, 5-Clause"
+  - "BSD License, Version 5.0"
+  - "BSD (5-clause)"
+  - "BSD License (5-clause license)"
+  - "is under a 5 clause BSD license"
+  - "5-clause BSD License"
+
+# FIXME-IMPLEMENT find actual template for BSD-5 Clause and adjust the matches accordingly
+evidence:
+  matches:
+    - "Redistribution and use in source and binary form*{.{0,10}}* with or without
+       modification, are permitted provided that the following conditions are met"
+    - "Redistributions*{.{0,10}}* source code must retain the above copyright notice*{(s){0,1}}*, this
+       list of conditions and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright notice,
+       this list of conditions and the following disclaimer in the documentation
+       and/or other materials provided with the distribution"
+    - "The end-user documentation included with the redistribution, if any, must
+       include the following acknowledgment"
+    - "must not be used to endorse or promote products derived from this
+       software without prior written permission"
+    #- "Products derived from this *{(s|S){1}}*oftware may not be called *{('Product'|'Name'|'PRODUCT'|'NAME'|'product'|<name>|'name'|product|name|PRODUCT|NAME|<copyrightHolderName>|\"<name>\"){0,1}}*, nor may *{(<name>|'Author'|'author'|'AUTHOR'|<copyrightHolderName>|\"<name>\"){0,1}}* appear in their name*{.{0,5}}* without prior written permission of"
+    - "Products derived from this software may not be called \"<name>\", nor may \"<name>\" appear in their name, without prior written permission of"
+    #- "THIS SOFTWARE IS PROVIDED *{(BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS|BY THE COPYRIGHT HOLDER AND CONTRIBUTOR|BY THE COPYRIGHT HOLDERS|BY THE COPYRIGHT HOLDER){1} (AS IS|\"AS IS\"|as is|\"as is\"){1}}* AND ANY EXPRESSED OR IMPLIED WARRANTIES,
+    #   INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+    #   FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+    - "THIS SOFTWARE IS PROVIDED *{(AS IS|\"AS IS\"|as is|\"as is\"|AS IS BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS|\"AS IS\" BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS|as is BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS|\"as is\" BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS){1}}* AND ANY EXPRESSED OR IMPLIED WARRANTIES,
+       INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+       FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED"
+    - "IN NO EVENT SHALL THE *{(COPYRIGHT OWNER|LICENSOR|COPYRIGHT HOLDER|COPYRIGHT HOLDER OR CONTRIBUTORS){1}( OR CONTRIBUTORS){0,1}}* BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+       OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+       SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+       INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+       CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+       ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+       POSSIBILITY OF SUCH DAMAGE"
+
+licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+                  <ol><li>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+                  <li>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation
+                  and/or other materials provided with the distribution.</li>
+                  <li>The end-user documentation included with the redistribution, if any, must
+                  include the following acknowledgment: \"This product includes software developed by &lt;copyright-holder&gt;.\"
+                   Alternately, this acknowledgment may appear in the software itself, if and wherever such third-party acknowledgments normally appear.</li>
+                   <li>The names \"&lt;copyright-holder&gt;\" and \"&lt;organization&gt;\" must not be used to endorse or promote products derived from this software without prior written
+                   permission.</li>
+                   <li>Products derived from this software may not be called \"&lt;name&gt;\", nor may \"&lt;name&gt;\" appear in their name, without prior written permission of
+                   Graz University of Technology.</li></ol>
+                   <codeph>THIS SOFTWARE IS PROVIDED \"AS IS\" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+                   FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+                   OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+                   INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+                   ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph>
+                   This product includes software developed by &lt;copyright-holder&gt;.</lq>"

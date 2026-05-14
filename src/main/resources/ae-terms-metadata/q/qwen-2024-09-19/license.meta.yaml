@@ -1,0 +1,21 @@
+canonicalName: Qwen License Agreement (2024-09-19)
+category: Qwen
+shortName: Qwen-2024-09-19
+
+canonicalNameHistory:
+  - "Qwen License Agreement (19 September 2024)"
+
+alternativeNames:
+  - "Qwen License Agreement (19 September 2024)"
+
+otherIds:
+  - "scancode:qwen-2024"
+
+evidence:
+  matches:
+    - "You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Alibaba Cloud's intellectual property or other rights owned by us embodied in the Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the Materials"
+    - "You shall give any other recipients of the Materials or derivative works a copy of this Agreement"
+    - "You shall cause any modified files to carry prominent notices stating that you changed the files"
+    - "You shall retain in all copies of the Materials that you distribute the following attribution notices within a \"Notice\" text file distributed as a part of such copies"
+    - "If you are commercially using the Materials, and your product or service has more than 100 million monthly active users, you shall request a license from us"
+    - "We retain ownership of all intellectual property rights in and to the Materials and derivatives made by or for us"

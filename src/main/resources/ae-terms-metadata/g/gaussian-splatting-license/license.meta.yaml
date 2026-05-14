@@ -1,0 +1,33 @@
+canonicalName: Gaussian-Splatting License
+category: Gaussian-Splatting
+shortName: Gaussian-Splatting-License
+
+otherIds:
+  - "scancode:gaussian-splatting-2024"
+
+alternativeNames:
+  - "Gaussian-Splatting License 2024"
+
+evidence:
+  matches:
+    - "Licensors grant non-exclusive rights to use the Software for research purposes
+       to research users (both academic and industrial), free of charge, without right
+       to sublicense"
+    - "Subject to the terms and conditions of this License, you are granted a
+       non-exclusive, royalty-free, license to reproduce, prepare derivative works of,
+       publicly display, publicly perform and distribute its Work and any resulting
+       derivative works in any form"
+    - "You may reproduce or distribute the Work only if"
+    - "you do so under this License"
+    - "you include a complete copy of this License with
+       your distribution, and (c) you retain without modification any copyright,
+       patent, trademark, or attribution notices that are present in the Work"
+    - "Any other use without of prior consent of Licensors is prohibited"
+    - "Research users explicitly acknowledge having received from Licensors all information
+       allowing to appreciate the adequacy between of the Software and their needs and
+       to undertake all necessary precautions for its execution and use"
+
+references:
+  "MIT":
+    matches:
+      - "The contents of the file ```utils/loss_utils.py``` are based on publicly available code authored by Evan Su, which falls under the permissive MIT license"

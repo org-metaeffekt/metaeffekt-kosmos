@@ -1,12 +1,13 @@
-canonicalName: CLISP Exception
+canonicalName: CLISP Exception (GPL-2.0)
 category: CLISP Exception
 spdxIdentifier: CLISP-exception-2.0
-shortName: CLISP-Exception
+shortName: CLISP-Exception-GPL-2.0
 
 type: exception
 
 canonicalNameHistory:
   - "CLISP Exception 2.0"
+  - "CLISP Exception"
 
 otherIds:
   - "scancode:clisp-exception-2.0"

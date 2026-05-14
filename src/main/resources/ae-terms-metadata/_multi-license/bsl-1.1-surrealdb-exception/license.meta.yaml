@@ -1,13 +1,16 @@
-canonicalName: Business Source License 1.1 (with SurrealDB Exception (Business Source License 1.1))
-category: Business Source+SurrealDB
-shortName: Business-Source-1.1-SurrealDB-Exception
+canonicalName: Business Source License 1.1 (with SurrealDB Exception (BSL-1.1))
+category: BSL+SurrealDB
+shortName: BSL-1.1-SurrealDB-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with SurrealDB Exception (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with SurrealDB Exception)
 
 combinedWith:
-  SurrealDB Exception (Business Source License 1.1): Business Source License 1.1 (with SurrealDB Exception (Business Source License 1.1))
+  SurrealDB Exception (BSL-1.1): Business Source License 1.1 (with SurrealDB Exception (BSL-1.1))
 
 segmentation:
   revert: [

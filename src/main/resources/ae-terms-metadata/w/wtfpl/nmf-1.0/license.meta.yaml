@@ -1,6 +1,7 @@
 canonicalName: WTFNMF Public License 1.0
 category: WTFNMF
-shortName: WTFNMF-1.0
+spdxIdentifier: WTFNMFPL
+shortName: WTFNMFPL-1.0
 
 otherIds:
   - "scancode:wtfnmfpl-1.0"

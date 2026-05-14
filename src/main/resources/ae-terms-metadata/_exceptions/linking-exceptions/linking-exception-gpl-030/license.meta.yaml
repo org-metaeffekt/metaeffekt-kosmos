@@ -4,6 +4,9 @@ shortName: Linking-Exception-GPL-030
 
 type: exception
 
+otherIds:
+  - "scancode:libticables2-exception-gpl-2.0"
+
 alternativeNames:
   - "libticables2 Exception"
   - "libticables2 Linking Exception"
@@ -22,5 +25,3 @@ evidence:
     - "If you modify this library, you may extend this exception to your
        version of the library, but you are not obligated to do so"
     - "If you do not wish to do so, delete this exception statement from your version"
-
-

@@ -1,13 +1,16 @@
-canonicalName: ZeroTier Modifier (Business Source License 1.1)
+canonicalName: ZeroTier Modifier (BSL-1.1)
 category: ZeroTier Modifier
-shortName: ZeroTier-Modifier-Business-Source-1.1
+shortName: ZeroTier-Modifier-BSL-1.1
+
+canonicalNameHistory:
+  - "ZeroTier Modifier (Business Source License 1.1)"
 
 type: modifier
 
 classification: restriction
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with ZeroTier Modifier (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with ZeroTier Modifier (BSL-1.1))
 
 alternativeNames:
   - "ZeroTier additional use grant for BSL"

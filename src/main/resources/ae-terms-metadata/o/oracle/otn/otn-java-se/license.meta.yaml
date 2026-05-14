@@ -10,6 +10,11 @@ canonicalNameHistory:
 
 alternativeNames:
   - "Oracle Technology Network License Agreement for Oracle Java SE"
+  - "Oracle Technology Network License Agreement for Oracle Java SE (OTN-JAVASE) 2019"
+  - "Oracle Technology Network License Agreement for Oracle Java SE - Release Date 04-10-2019"
+  - "Oracle Technology Network License Agreement For Oracle Java SE v20190410"
+  - "Oracle-OTN-LA-Java-SE-RD04102019"
+  - "OTN for Oracle Java SE 2019"
 
 evidence:
   matches:
@@ -21,9 +26,16 @@ evidence:
        obtain from Oracle or an Oracle reseller a valid Program license under a separate agreement permitting such use"
     - "Oracle grants You a nonexclusive, nontransferable, limited license to use the Programs, subject to the
        restrictions stated in this Agreement and Program Documentation"
+    - "You agree that such export control laws govern Your use of the Programs (including technical data) and any services deliverables provided under this agreement, and You agree to comply with all such export laws and regulations"
   excludes:
     - "We grant You a nonexclusive, nontransferable right to copy and distribute unmodified Programs and Programs
        Documentation as part of and included in Your application that is intended to interoperate with the Associated
        Product, if any, provided that You do not charge Your end users any additional fees for the use of the Programs"
     - "Oracle or its licensors retain all ownership and intellectual property rights to the Programs"
-   
+
+references:
+  "OTN":
+    matches:
+# NOTE: this shouldn't be needed since "OTN Java SE" is included in the subcategories of "Oracle Technology Network License (undefined)" but for some reason it does not work.
+      - "Oracle Technology Network License Agreement for Oracle Java SE
+        Oracle is willing to authorize Your access to software associated with this License Agreement (“Agreement”) only upon"

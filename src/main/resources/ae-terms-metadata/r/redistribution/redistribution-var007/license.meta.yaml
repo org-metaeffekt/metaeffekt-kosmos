@@ -1,6 +1,7 @@
 canonicalName: Redistribution Terms (variant 007)
 category: RT
 shortName: RT-Var7
+spdxIdentifier: BSD-4.3TAHOE
 
 otherIds:
 #  - "scancode:bsd-original-uc-1990" # deprecated
@@ -12,6 +13,12 @@ canonicalNameHistory:
 displayName: "Redistribution Terms (no advertising; no warranty)"
 
 representedAs: "Redistribution Terms"
+
+alternativeNames:
+  - "BSD-4.3TAHOE"
+  - "BSD 4.3 TAHOE License"
+  - "BSD-Original-UC-1990"
+  - "Berkeley Software License Agreement"
 
 evidence:
   matches:
@@ -36,8 +43,6 @@ evidence:
        documentation and/or other materials provided with the distribution"
     - "Redistributions of source code must retain the copyright notice this list of
        conditions and the following disclaimer"
-    - "the software was developed by the University of California, Berkeley"
-    - "The name of the University may not be used to endorse or promote products"
 
 mappings:
   "THE IMPLIED WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE":

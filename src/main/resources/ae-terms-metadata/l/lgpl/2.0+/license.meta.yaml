@@ -1,5 +1,5 @@
 canonicalName: GNU Library General Public License 2.0 (or any later version)
-category: LGPL
+category: LibraryGPL
 spdxIdentifier: LGPL-2.0-or-later
 shortName: LGPL-2.0+
 
@@ -8,6 +8,7 @@ otherIds:
 
 defaultSourceCategory: annex
 
+# FIXME-KKL: what is this used for; should it be a base license
 namedEquivalence: "GNU Library General Public License 2.0"
 
 allowsLaterVersions: true
@@ -16,18 +17,12 @@ alternativeNames:
   - "GNU Library General Public License, Version 2.0+"
   - "GNU LIBRARY GENERAL PUBLIC LICENSE Version 2+"
   - "GNU LGPL v2+"
-  - "GNU Lesser GPL 2.0+"
-  - "GNU Lesser General Public License Version 2+"
-  - "GNU Lesser General Public License Version 2.0+"
-  - "GNU Lesser General Public License, Version 2.0+"
   - "GNU Library or Lesser General Public License version 2.0+"
   - "GNU Library General Public License (GPL), Version 2.0+"
   - "GNU Library General Public License (LGPL), Version 2.0+"
   - "GNU Library General Public License 2+"
   - "GNU Library General Public License version 2.0+"
   - "GNU Library General Public License, Version 2.0 or any later version"
-  - "GNU Lesser General Public License, Version 2 or any later version"
-  - "Lesser General Public License (LGPL)), Version 2.0+"
   - "LGPL 2+"
   - "LGPL 2.0+ license"
   - "LGPL V.2+"
@@ -37,7 +32,8 @@ alternativeNames:
   - "LGPL-2+"
   - "LGPL2+"
   - "LGPL-2.0-or-later"
-  - "GNU Lesser/Library General Public License version 2+"
+  - "LGPL 2 or later"
+  - "LGPL 2.0 or later"
   - "GNU Library General Public License as published by the Free Software Foundation; either version 2 of the License,
      or (at your option) any later version"
   - "GNU Lesser General Public License as published by the Free Software Foundation; either version 2 of the License,
@@ -49,3 +45,6 @@ alternativeNames:
      or any later version"
   - "GNU Library General Public License as published by the Free Software Foundation; either version 2, or
      (at your option) any later version"
+  - "GNU Library General Public License v2 or later"
+  - "GNU Library General Public License 2.0 or later"
+

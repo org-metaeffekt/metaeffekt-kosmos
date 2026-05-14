@@ -5,6 +5,7 @@ spdxIdentifier: EUPL-1.1
 otherIds:
   - "scancode:eupl-1.1"
   - "osi:EUPL-1.1"
+  - "osi-deprecated:eupl-1-1"
 
 secondaryLicenses:
   - "GNU General Public License 2.0"
@@ -31,6 +32,7 @@ alternativeNames:
   - "European Union Public License v1.1"
   - "European Union Public License version 1.1"
   - "European Union Public License Version 1.1"
+  - "European Union Public Licence 1.1"
 
 references:
   "GPL":

@@ -1,0 +1,23 @@
+canonicalName: MLDonkey Exception (GPL-2.0)
+category: MLDonkey Exception
+shortName: MLDonkey-Exception-GPL-2.0
+
+otherIds:
+  - "scancode:mldonkey-exception-gpl-2.0"
+
+type: exception
+
+canonicalNameHistory:
+  - "MLDonkey Exception (GPL 2.0)"
+
+alternativeNames:
+  - "MLDonkey Exception (GPL 2.0)"
+  - "MLDonkey Exception to GPL 2.0"
+  - "mldonkey-exception-gpl-2.0"
+  - "MLDonkey-Exception-GPL-2.0"
+
+evidence:
+  matches:
+    - "This licence is a copy from the GPL licence, with the noticeable difference that, in Section 3,
+       the 'preferred form of the work for making modifications to it' does not apply to the
+       donkey/donkey.lam file of the distribution"

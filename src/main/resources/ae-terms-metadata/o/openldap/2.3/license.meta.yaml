@@ -14,6 +14,7 @@ alternativeNames:
   - "OLDAP License 2.3"
   - "OpenLDAP Public License Version 2.3"
   - "THIS WORK IS SUBJECT TO VERSION 2.3 OF THE OPENLDAP PUBLIC LICENSE"
+  - "Open LDAP Public License v2.3"
 
 ignoreMatches:
 # version 2.2.2 is identical to 2.3. No other decent way to prevent it from matching at the moment:

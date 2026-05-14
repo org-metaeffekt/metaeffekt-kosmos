@@ -1,4 +1,4 @@
-canonicalName: "GNU Affero General Public License 3.0"
+canonicalName: GNU Affero General Public License 3.0
 category: AGPL
 spdxIdentifier: AGPL-3.0-only
 shortName: AGPL-3.0
@@ -10,6 +10,7 @@ requiresCopyright: true
 otherIds:
   - "scancode:agpl-3.0"
   - "osi:AGPL-3.0"
+  - "osi-deprecated:agpl-v3"
 
 alternativeNames:
   - "GNU Affero General Public License, Version 3.0"
@@ -48,6 +49,7 @@ alternativeNames:
   - "http://www.gnu.org/licenses/agpl-3.0.txt"
   - "https://www.gnu.org/licenses/agpl-3.0.txt"
   - "https://www.gnu.org/licenses/agpl-3.0.html"
+  - "GNU Affero General Public License v3.0 only"
 
 references:
   "GPL":

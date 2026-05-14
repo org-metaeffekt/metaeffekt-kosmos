@@ -1,12 +1,13 @@
-canonicalName: AC3Filter Modifier
+canonicalName: AC3Filter Modifier (GPL-2.0)
 category: AC3Filter Modifier
-shortName: AC3Filter
+shortName: AC3Filter-GPL-2.0
 
 # Note: this is a GPL modifier
 type: modifier
 
 canonicalNameHistory:
   - "AC3Filter License"
+  - "AC3Filter Modifier"
 
 alternativeNames:
   - "AC3-Filter License"

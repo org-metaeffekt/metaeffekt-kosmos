@@ -1,0 +1,32 @@
+canonicalName: DeepSeek License Agreement 1.0
+category: DeepSeek License Agreement
+shortName: DeepSeek-LA-1.0
+
+otherIds:
+  - "scancode:deepseek-la-1.0"
+
+alternativeNames:
+  - "DeepSeek License Agreement 1.0"
+  - "DeepSeek License Agreement v1.0"
+  - "DEEPSEEK LICENSE AGREEMENT Version 1.0"
+
+evidence:
+  matches:
+    - "Large generative models are being widely adopted and used, and have the potential to transform the way
+       individuals conceive and benefit from AI or ML technologies"
+    - "Notwithstanding the current and potential benefits that these artifacts can bring to society at large,
+       there are also concerns about potential misuses of them, either due to their technical limitations or
+       ethical considerations"
+    - "In short, this license strives for both the open and responsible downstream use of the accompanying model"
+    - "When it comes to the open character, we took inspiration from open source permissive licenses regarding the
+       grant of IP rights"
+    - "Referring to the downstream responsible use, we added use-based restrictions not permitting the use of the
+       model in very specific scenarios, in order for the licensor to be able to enforce the license in case potential
+       misuses of the Model may occur"
+    - "At the same time, we strive to promote open and responsible research on generative models for content generation"
+    - "Even though downstream derivative versions of the model could be released under different licensing terms,
+       the latter will always have to include - at minimum - the same use-based restrictions as the ones in the original
+       license (this license). We believe in the intersection between open and responsible AI development; thus, this
+       agreement aims to strike a balance between both in order to enable responsible open-science in the field of AI"
+    - "This License governs the use of the model (and its derivatives) and is informed by the model card associated
+       with the model"

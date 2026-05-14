@@ -1,19 +1,24 @@
-canonicalName: GNU General Public License 2.0 (with Avisynth C Interface exception)
-category: GPL+Avisynth
+canonicalName: GNU General Public License 2.0 (with Avisynth C Interface Exception (GPL))
+category: GPL+Avisynth C Interface Exception
 shortName: GPL-2.0-Avisynth-C-Interface-Exception
 
 type: expression
 
-spdxExpression: "[GNU General Public License 2.0] WITH [Avisynth C Interface Exception]"
+spdxExpression: "[GNU General Public License 2.0] WITH [Avisynth C Interface Exception (GPL)]"
+
+canonicalNameHistory:
+  - "GNU General Public License 2.0 (with Avisynth C Interface exception)"
 
 alternativeNames:
-  - "GNU General Public License 2.0 (with Avisynth C Interface exception)"
+  - "GNU General Public License 2.0 (with Avisynth C Interface Exception (GPL))"
+
+displayName: "GNU General Public License 2.0 (with Avisynth C Interface Exception)"
 
 representedAs: GNU General Public License 2.0 (with exceptions)
 
 combinedWith:
-  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Avisynth C Interface exception)"
-  "Avisynth C Interface Exception": "GNU General Public License 2.0 (with Avisynth C Interface exception)"
+  "GNU General Public License 2.0": "GNU General Public License 2.0 (with Avisynth C Interface Exception (GPL))"
+  "Avisynth C Interface Exception (GPL)": "GNU General Public License 2.0 (with Avisynth C Interface Exception (GPL))"
 
 expectedSpdxMatches:
   - "GNU Lesser General Public License (undefined)"

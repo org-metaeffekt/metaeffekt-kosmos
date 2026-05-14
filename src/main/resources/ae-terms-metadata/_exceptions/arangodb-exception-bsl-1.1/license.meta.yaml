@@ -1,6 +1,9 @@
-canonicalName: ArangoDB Exception (Business Source License 1.1)
+canonicalName: ArangoDB Exception (BSL-1.1)
 category: ArangoDB Exception
-shortName: ArangoDB-Exception-Business-Source-1.1
+shortName: ArangoDB-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "ArangoDB Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -9,7 +12,7 @@ alternativeNames:
   - "ArangoDB additional use grant for BSL"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with ArangoDB Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with ArangoDB Exception (BSL-1.1))
 
 evidence:
   matches:

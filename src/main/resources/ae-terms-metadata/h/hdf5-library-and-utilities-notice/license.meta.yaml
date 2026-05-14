@@ -1,0 +1,59 @@
+canonicalName: HDF5 Software Library and Utilities License Notice
+category: HDF5
+shortName: HDF5-Library-Utilities-Notice
+spdxIdentifier: HDF5
+
+otherIds:
+  - "scancode:hdf5"
+
+requiresCopyright: true
+requiresLicenseText: true
+
+# NOTE: This is not a standalone license but rather a licensing notice. We ignore those and list expectedMatches
+ignore: true
+
+expectedMatches: 
+  - "BSD 3-Clause License (variant 049)"
+  - "HDF5 Development License"
+
+licenseTemplate: 
+  "<lq>HDF5 (Hierarchical Data Format 5) Software Library and Utilities
+  Copyright 2006 by The HDF Group.
+  
+  NCSA HDF5 (Hierarchical Data Format 5) Software Library and Utilities
+  Copyright 1998-2006 by The Board of Trustees of the University of Illinois.
+  
+  All rights reserved.
+  
+  <ol>Redistribution and use in source and binary forms, with or without
+  modification, are permitted for any purpose (including commercial purposes)
+  provided that the following conditions are met:
+  
+  <li>1. Redistributions of source code must retain the above copyright notice,
+     this list of conditions, and the following disclaimer.</li>
+  
+  <li>2. Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions, and the following disclaimer in the documentation
+     and/or materials provided with the distribution.</li>
+  
+  <li>3. Neither the name of The HDF Group, the name of the University, nor the
+     name of any Contributor may be used to endorse or promote products derived
+     from this software without specific prior written permission from
+     The HDF Group, the University, or the Contributor, respectively.</li></ol>
+  
+  <p>DISCLAIMER:
+  <codeph>THIS SOFTWARE IS PROVIDED BY THE HDF GROUP AND THE CONTRIBUTORS
+  \"AS IS\" WITH NO WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED. IN NO
+  EVENT SHALL THE HDF GROUP OR THE CONTRIBUTORS BE LIABLE FOR ANY DAMAGES
+  SUFFERED BY THE USERS ARISING OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</codeph></p>
+  
+  <p>You are under no obligation whatsoever to provide any bug fixes, patches, or
+  upgrades to the features, functionality or performance of the source code
+  (\"Enhancements\") to anyone; however, if you choose to make your Enhancements
+  available either publicly, or directly to The HDF Group, without imposing a
+  separate written license agreement for such Enhancements, then you hereby
+  grant the following license: a non-exclusive, royalty-free perpetual license
+  to install, use, modify, prepare derivative works, incorporate into other
+  computer software, distribute, and sublicense such enhancements or derivative
+  works thereof, in binary and source code form.</p></lq>"

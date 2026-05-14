@@ -1,17 +1,20 @@
-canonicalName: GCC Runtime Library Exception 3.1
+canonicalName: GCC Runtime Library Exception 3.1 (GPL-3.0+)
 category: GCC Runtime Library Exception
 spdxIdentifier: GCC-exception-3.1
-shortName: GCC-Runtime-Library-Exception-3.1
+shortName: GCC-Runtime-Library-Exception-3.1-GPL-3.0+
 
 otherIds:
   - "scancode:gcc-exception-3.1"
 
 type: exception
 
+canonicalNameHistory:
+  - "GCC Runtime Library Exception 3.1"
+
 combinedWith:
-  "GNU Free Documentation License 1.2": GNU Free Documentation License 1.2 (with GCC Runtime Library exception 3.1)
-  "GNU General Public License 3.0": GNU General Public License 3.0 (with GCC Runtime Library exception 3.1)
-  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with GCC Runtime Library exception 3.1)
+  "GNU Free Documentation License 1.2": GNU Free Documentation License 1.2 (with GCC Runtime Library Exception 3.1 (GPL-3.0+))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with GCC Runtime Library Exception 3.1 (GPL-3.0+))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with GCC Runtime Library Exception 3.1 (GPL-3.0+))
 
 alternativeNames:
   - "GCC Runtime Library Exception, version 3.1"

@@ -1,10 +1,15 @@
-canonicalName: wxWindows Library Licence 3.1
-category: wxWindows Library Licence
+canonicalName: wxWindows Library License 3.1
+category: wxWindows Library
+shortName: wxWindows-Library-3.1
 spdxIdentifier: wxWindows
+
+canonicalNameHistory:
+  - "wxWindows Library Licence 3.1"
 
 otherIds:
   - "scancode:wxwindows"
   - "osi:WXwindows"
+  - "osi-deprecated:wxwindows"
 
 alternativeNames:
   - "wxWindows Library License"
@@ -12,6 +17,8 @@ alternativeNames:
   - "wxWindows licence"
   - "wxWindows license"
   - "wxWindows Library Licence 3.1"
+  - "wxWindows Library Licence, Version 3.1"
+  - "LGPL-2.0+-WITH-WxWindows-exception-3.1"
 
 evidence:
   matches:
@@ -30,7 +37,7 @@ evidence:
        (at your option) any later version"
 
 references:
-  "LGPL":
+  "LibraryGPL":
     matches:
       - "See the GNU Library General Public Licence for more details"
       - "You should have received a copy of the GNU Library General Public Licence

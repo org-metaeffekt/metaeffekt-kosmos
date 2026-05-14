@@ -27,7 +27,7 @@ evidence:
        reasons why the executable file might be covered by the GNU Lesser General Public License"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "OCaml LGPL Linking Exception
          As a special exception to the GNU Lesser General Public License"
@@ -36,3 +36,7 @@ references:
          defined in clause 2 of the GNU Lesser General Public License"
       - "This exception does not however invalidate any other
          reasons why the executable file might be covered by the GNU Lesser General Public License"
+  "LGPL":
+    matches:
+      - "OCaml LGPL Linking Exception
+         As a special exception to the GNU Lesser General Public License"

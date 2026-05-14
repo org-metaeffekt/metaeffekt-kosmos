@@ -1,0 +1,170 @@
+canonicalName: RETURNN License
+category: RETURNN
+shortName: RETURNN
+
+# NOTE: license source (scancode github issue 4345): https://github.com/rwth-i6/returnn/blob/master/LICENSE
+
+otherIds:
+  - "scancode:rwth-returnn-2024"
+
+alternativeNames:
+  - "The RWTH Extensible Training framework for Universal Recurrent Neural Networks (RETURNN) License"
+  - "RWTH Extensible Training framework for Universal Recurrent Neural Networks License"
+
+evidence:
+  matches:
+    - "However, RWTH remain the authors of the SOFTWARE and so retain property rights and the use of all ancillary rights"
+    - "You are granted the non-exclusive rights set forth in this license provided you agree to and comply with any and all conditions in this license"
+    - "You may copy and distribute the Software in unmodified form provided that the entire package, including - but not restricted to - copyright, trademark notices and disclaimers, as released by the initial developer of the Software, is distributed"
+    - "Users must cite the authors of the Software upon publication of results obtained through the use of original or modified versions of the Software by referring to the following publication"
+    - "In no event shall the initial developers or copyright holders be liable for any damages whatsoever, including - but not restricted to - lost revenue or profits"
+    - "You assume all risks concerning the quality or the effects of the SOFTWARE and its use"
+    - "The present license and its effects are subject to German law and the competent German Courts"
+
+masks:
+  matches:
+    - "Contains code from better_exchook:
+        - Website: https://github.com/albertz/py_better_exchook
+        - BSD 2-clause \"Simplified\" License
+        - Copyright (c) 2011--2016, Albert Zeyer. All rights reserved.
+        - File: better_exchook.py
+        
+        Contains code from TaskSystem:
+          - Website: https://github.com/albertz/TaskSystem
+          - BSD 2-clause \"Simplified\" License
+          - Copyright (c) 2011--2016, Albert Zeyer. All rights reserved.
+          - Files: TaskSystem*.py
+        
+        Contains code from extpickle:
+          - Website: https://github.com/albertz/extpickle
+          - BSD 2-clause \"Simplified\" License
+          - Copyright (c) 2016, Albert Zeyer. All rights reserved.
+          - File: TaskSystem.py
+        
+        Contains code from MusicPlayer:
+          - Website: https://github.com/albertz/music-player
+          - BSD 2-clause \"Simplified\" License
+          - Copyright (c) 2011--2016, Albert Zeyer. All rights reserved.
+          - Various functions e.g. in Util.py, Debug.py.
+        
+        Contains code from pydbattach:
+          - Website: https://github.com/albertz/pydbattach
+          - No project license; also on StackOverflow with Creative Commons license.
+          - Copyright (c) 2011--2016, Albert Zeyer. All rights reserved.
+          - Function: initIPythonKernel
+        
+        Contains code from Keras:
+          - Website: https://github.com/fchollet/keras
+          - MIT License
+          - Copyright (c) 2015, François Chollet. All rights reserved.
+          - Copyright (c) 2015, Google, Inc. All rights reserved.
+          - Copyright (c) 2017, Microsoft, Inc. All rights reserved.
+          - Copyright (c) 2015 - 2017, the respective contributors.
+            Each contributor holds copyright over their respective contributions.
+            The project versioning (Git) records all such contribution source information.
+            All rights reserved.
+          - Various functions in Util.py, TFUtil.py, TheanoUtil.py.
+        
+        Contains code from Theano:
+          - Website: https://github.com/Theano/Theano
+          - 3-Clause BSD License, New BSD License
+          - Copyright (c) 2008--2017, Theano Development Team. All rights reserved.
+          - Contains code from NumPy, Copyright (c) 2005-2016, NumPy Developers. All rights reserved.
+          - Contains CnMeM under the same license, Copyright (c) 2015, NVIDIA CORPORATION. All rights reserved.
+          - Contains frozendict code from slezica’s python-frozendict:
+              - Website: https://github.com/slezica/python-frozendict/blob/master/frozendict/__init__.py
+              - Copyright (c) 2012 Santiago Lezica. All rights reserved.
+          - Various functions in Util.py, TheanoUtil.py.
+        
+        Contains code from albertz-system-tools:
+          - Website: https://github.com/albertz/system-tools
+          - No project license
+          - Copyright Albert Zeyer
+          - Various functions in Util.py.
+        
+        Contains code from Lasagne:
+          - Website: https://github.com/Lasagne/Lasagne
+          - MIT License (MIT)
+          - Copyright (c) 2014-2015 Lasagne contributors
+          - Various functions in TheanoUtil.py.
+        
+        Contains code from TensorFlow:
+          - Website: https://github.com/tensorflow/tensorflow
+          - Apache License 2.0
+          - Copyright 2017 The TensorFlow Authors. All rights reserved.
+          - Various functions in TFUtil.py, TFUpdater.py.
+          - graph_editor from contrib.
+        
+        Contains code from pumpikano-tf-dann:
+          - Website: https://github.com/pumpikano/tf-dann
+          - MIT License
+          - Copyright Clayton Mellina
+          - Function FlipGradientBuilder in TFUtil.py.
+        
+        Contains code from tensorpack:
+          - Website: https://github.com/ppwwyyxx/tensorpack
+          - Apache License 2.0
+          - Copyright Yuxin Wu
+          - Some code in GeneratingDataset.py.
+        
+        Contains code from subword-nmt:
+          - Website: https://github.com/rsennrich/subword-nmt
+          - MIT License (MIT)
+          - Copyright (c) 2015 University of Edinburgh
+          - Some code in GeneratingDataset.py.
+        
+        Contains code from tensor2tensor:
+          - Website: https://github.com/tensorflow/tensor2tensor
+          - Apache License, Version 2.0
+          - Copyright 2017 The Tensor2Tensor Authors
+          - Some code in TFUtil.py, Util.py. Also avg_checkpoints.py.
+        
+        Contains code from keithito-tacotron:
+          - Website: https://github.com/keithito/tacotron
+          - MIT License (MIT)
+          - Copyright (c) 2017 Keith Ito
+          - Some code in LmDataset.py.
+        
+        Contains code from Tacotron-2:
+          - Website: https://github.com/Rayhane-mamah/Tacotron-2
+          - MIT License (MIT)
+          - Copyright (c) 2018 Rayhane Mama
+          - ZoneoutLSTMCell in TFNetworkRecLayer.py
+        
+        Contains code from literal-python-to-pickle:
+          - Website: https://github.com/albertz/literal-python-to-pickle
+          - MIT License (MIT)
+          - Copyright (c) 2021 Albert Zeyer
+          - literal_py_to_pickle.py, py-to-pickle.cpp
+        
+        Contains code from albertz-native-signal-handler:
+          - Website: https://github.com/albertz/playground/blob/master/signal_handler.c
+          - MIT License (MIT)
+          - Copyright (c) 2023 Albert Zeyer
+        
+        Contains code from Ruby:
+          - https://www.ruby-lang.org/
+          - BSD 2-clause \"Simplified\" License
+          - Copyright 1995..2023 Yukihiro Matsumoto
+          - Various code snippets
+        
+        Contains code from CPython:
+          - https://www.python.org/
+          - Python Software Foundation License (PSF)
+          - Copyright 2001..2021 Python Software Foundation
+          - py-to-pickle.cpp, util/task_system.py, util/basic.py
+        
+        Contains code from PyTorch:
+          - https://github.com/pytorch/pytorch/
+          - BSD 3-Clause License
+          - Copyright 2016..2023 various developers
+          - Various code snippets
+        
+        Contains code from lion-pytorch:
+          - https://github.com/google/automl/blob/master/lion/lion_pytorch.py
+          - https://github.com/lucidrains/lion-pytorch/
+          - MIT License / Apache License 2.0
+          - Copyright 2023 Google Research, Phil Wang
+          - torch/optim/lion.py
+        
+        Various code snippets from StackOverflow, which are under Creative Commons / Public Domain."

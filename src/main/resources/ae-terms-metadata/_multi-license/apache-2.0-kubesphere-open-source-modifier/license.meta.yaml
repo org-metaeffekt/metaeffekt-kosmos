@@ -1,0 +1,13 @@
+canonicalName: Apache License 2.0 (with KubeSphere Open Source Modifier (Apache-2.0))
+category: Apache+KubeSphere
+shortName: Apache-2.0-KubeSphere-Open-Source-Modifier
+
+canonicalNameHistory:
+  - "Apache License 2.0 (with KubeSphere Open Source Modifier (Apache 2.0))"
+
+type: expression
+
+displayName: Apache License 2.0 (with KubeSphere Open Source Modifier)
+
+combinedWith:
+  KubeSphere Open Source Modifier (Apache-2.0): Apache License 2.0 (with KubeSphere Open Source Modifier (Apache-2.0))

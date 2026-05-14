@@ -28,7 +28,7 @@ evidence:
        but you are not obliged to do so"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "As a special exception to the GNU Lesser General Public License version 3 (\"LGPL3\")"
       - "provided that you comply with the other provisions of LGPL3 and provided that you meet"

@@ -1,0 +1,41 @@
+canonicalName: Fair AI Public License 1.0
+category: Fair AI
+shortName: Fair-AI-Public-1.0
+
+otherIds:
+  - "scancode:fair-ai-public-1.0"
+
+alternativeNames:
+  - "Fair AI Public License 1.0"
+
+evidence:
+  matches:
+    - "Neither this software nor any work that is combined with this software will be 
+      considered a technological protection measure under the WIPO Copyright Treaty 
+      or any similar law"
+    - "Reverse engineering of this software and of any work that 
+      is combined with this software is always allowed"
+    - "You must ensure that everyone who gets a copy of any part of this software from 
+      you, with or without changes"
+    - "If you modify this software and allow users to interact with it through a
+      computer network, you must ensure they have a reasonable way to receive the
+      corresponding source code from you"
+    - "The output of this software is not covered by this license, and no contributor
+      claims any rights to it"
+    - "No contributor can revoke this license"
+    - "As far as the law allows, this software comes as is, without any warranty or 
+      condition, and no contributor will be liable to anyone for any damages related 
+      to this software or this license, under any kind of legal claim"
+  excludes:
+    - "To generate or disseminate information for the purpose to be used for 
+      administration of justice, law enforcement, immigration or asylum processes" # Fair AI Public License 1.0-SD
+
+secondaryLicenses:
+  - "GNU Affero General Public License 3.0 (or any later version)"
+
+references:
+  "AGPL":
+    matches:
+      - "## Alternatives
+        You can also use this software under the terms of the GNU AGPL 3.0, or any later
+        version of that license"

@@ -6,6 +6,7 @@ spdxIdentifier: MS-RL
 otherIds:
   - "scancode:ms-rl"
   - "osi:MS-RL"
+  - "osi-deprecated:ms-rl-html"
 
 alternativeNames:
   - "MS-RL"

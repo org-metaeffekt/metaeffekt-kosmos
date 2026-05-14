@@ -1,0 +1,35 @@
+canonicalName: ESA Public License 2.4 (permissive; Type 3)
+category: ESA Public License
+spdxIdentifier: ESA-PL-permissive-2.4
+
+canonicalNameHistory:
+  - "European Space Agency Public License 2.4 (permissive; Type 3)"
+
+alternativeNames:
+  - "European Space Agency Public License 2.4 (Permissive; Type 3)"
+  - "European Space Agency Public License (ESA-PL) Permissive (Type 3) – v2.4"
+  - "ESA-PL-Permissive-2.4"
+  - "ESA-PL-permissive-2.4"
+  - "https://essr.esa.int/license/european-space-agency-public-license-v2-4-permissive-type-3"
+
+classification: permissive
+
+evidence:
+  matches:
+    - "You must include a copy of this License and all of the notices set out in this Sec. 4"
+    - "You may not remove or alter any copyright, patent, trademark and attribution notices nor
+       any of the notices set out in this Sec. 4, except as necessary for your compliance with
+       this License or otherwise permitted by this License, except for those notices that do not
+       pertain to the Modifications You Distribute"
+    - "Each Contributor must cause its Modification carrying prominent notices stating that the
+       Software has been modified and the date of modification and identify itself as the originator
+       of its Modifications in a manner that reasonably allows identification and contact with the Contributor"
+    - "The aforementioned notices must at a minimum be in a text file included with the Distribution titled “CHANGELOG”"
+    - "The Software may include a 'NOTICE' text file containing general notices"
+    - "Any Contributor can create such a NOTICE file or add notices to it, alongside or as an addendum to the original
+       text, provided that such notices cannot be construed as modifying the License"
+    - "Each Contributor must identify all of its Patent Claims by providing at a minimum the patent number and
+       identification and contact information in a text file included with the Distribution titled 'LEGAL'"
+  excludes:
+    - "This License gives no permission to license the Software or Modifications in any other way, but it does not
+       invalidate such permission if You have separately received it"

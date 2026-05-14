@@ -58,7 +58,10 @@ segmentation:
       match:
         "this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.",
       matchNext:
-        "(3) Neither <variable3rdClause> may be used to endorse or promote products derived from this software without specific prior written permission."
+        # FIXME-DISCUSS: <variable3rdClause> is a placeholder. DISCUSS.
+        # FIXME-CONCEPT: <variable3rdClause> is a placeholder.
+        # "(3) Neither <variable3rdClause> may be used to endorse or promote products derived from this software without specific prior written permission."
+        "(3) Neither "
     }]
 
 licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification,

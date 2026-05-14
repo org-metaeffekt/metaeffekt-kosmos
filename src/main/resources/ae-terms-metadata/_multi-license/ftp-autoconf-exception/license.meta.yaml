@@ -1,12 +1,15 @@
-canonicalName: FreeType Project License (with Autoconf exception)
+canonicalName: FreeType Project License (with Autoconf Exception)
 category: FTP+Autoconf
 shortName: FTP-Autoconf-Exception
 
 type: expression
 
+canonicalNameHistory:
+  - "FreeType Project License (with Autoconf exception)"
+
 alternativeNames:
   - "FreeType Project License (with Autoconf exception)"
 
 combinedWith:
-  "FreeType Project License": "FreeType Project License (with Autoconf exception)"
-  "Autoconf Exception": "FreeType Project License (with Autoconf exception)"
+  "FreeType Project License": "FreeType Project License (with Autoconf Exception)"
+  "Autoconf Exception": "FreeType Project License (with Autoconf Exception)"

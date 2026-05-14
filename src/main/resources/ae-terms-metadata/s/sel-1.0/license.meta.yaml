@@ -1,0 +1,60 @@
+canonicalName: Stalwart Enterprise License 1.0
+category: Stalwart Enterprise License
+shortName: SEL-1.0
+
+otherIds:
+  - "scancode:selv1"
+
+alternativeNames:
+  - "Stalwart Enterprise License 1.0 (SELv1) Agreement"
+  - "Stalwart Enterprise License 1.0"
+
+evidence:
+  matches:
+    - "Licensor grants Licensee a revocable, non-exclusive, non-transferable, non-sublicensable, limited license to
+       download, install, and use the Software"
+    - "The use of the Software is conditioned upon Licensee maintaining an active and valid paid subscription with Licensor"
+    - "The paid subscription covers all versions of the Software and all updates and modifications"
+    - "This license grants Licensee the right to use the Software for both personal and commercial purposes"
+    - "However, Licensee is expressly prohibited from reselling, leasing, sublicensing, or otherwise redistributing
+       the Software itself"
+    - "This license is further governed by the terms and conditions set forth in any licensing agreements separately
+       executed between Licensor and Licensee"
+    - "In the event of any conflict between the terms of this Agreement and the terms of a signed licensing agreement,
+       the terms of the signed licensing agreement shall control"
+    - "You are not granted any other rights beyond what is expressly stated herein"
+    - "The Software shall not be used without a valid License Key issued by Licensor"
+    - "Licensee is required to use valid License Keys issued by Licensor to run the Software, including any modified versions"
+    - "Any attempts to bypass the License Key requirement is a violation of this Agreement"
+    - "Distribution or sharing of License Keys to third parties, not associated with Licensee, is strictly prohibited"
+    - "License Keys are bound to the subscription period"
+    - "Should your subscription expire, all License Keys will become invalid after 15 days from the subscription expiration date"
+    - "Any instance of the Software using such an expired key will revert to the Community Edition functionality after
+       the aforementioned 15-day period"
+    - "Licensee is permitted to view, copy, and modify the Software's Source Code, as made available by Licensor,
+       solely for Licensee's internal business use and in compliance with this Agreement's terms"
+    - "Any modifications to the Source Code do not grant Licensee any ownership rights to the original Software or
+       any modifications"
+    - "All rights, title, and interest to the Software and its Source Code remain exclusively with Licensor"
+    - "Licensee is strictly prohibited from altering, removing, or in any way tampering with the License Key validation
+       system within the Software"
+    - "Any such unauthorized modifications will be considered a material breach of this Agreement and may result in legal action"
+    - "Notwithstanding the availability of the Software's Source Code for review and limited modification, the Software
+       and its Source Code are not open source and remain proprietary to Licensor"
+    - "The provision of access to the Source Code does not confer any rights typically associated with open source
+       software, including but not limited to the right to freely sublicense, or create derivative works for public
+       distribution"
+    - "All rights not expressly granted herein are reserved by Licensor"
+    - "Notwithstanding the foregoing, you may copy the Source Code for development and testing purposes, without
+       requiring a Subscription"
+    - "The Licensor retains all rights, title, and interest in and to the Software, including all intellectual property
+       rights therein"
+    - "This Agreement does not transfer any ownership rights to the Licensee"
+    - "The Licensee must not remove, alter, or obscure any proprietary notices (including copyright and trademark
+       notices) on the Software"
+    - "Licensor reserves the right to terminate this Agreement immediately if the Licensee fails to comply with any
+       terms and conditions of this Agreement"
+    - "In the event of a termination, you will be provided with a written notice, sent to the email address used
+       during your subscription to the Software, outlining the reasons for the termination"
+    - "Upon termination, all rights granted to you under this Agreement will cease, and you must promptly cease all
+       use of the Software"

@@ -1,0 +1,53 @@
+canonicalName: INRIA End User License Agreement (IceSL Software)
+category: INRIA End User License Agreement
+shortName: INRIA-EULA-IceSL
+
+otherIds:
+  - "scancode:inria-icesl"
+
+alternativeNames:
+  - "INRIA End User License Agreement for IceSL Software"
+  - "INRIA End User License Agreement (IceSL Software)"
+  - "End User License Agreement for IceSL Software"
+
+evidence:
+  matches:
+    - "Software shall mean the IceSL software (registration pending at the French Agency for the Protection of Programs)"
+    - "Agreement shall mean the present End User License agreement for IceSL Software"
+    - "The Agreement shall define the conditions of use of Software by Licensee"
+    - "Licensee acknowledges that the intellectual property rights and title to the licensed Software and any trademarks
+       or service marks relating thereto remain with Licensor"
+    - "Licensee shall have no right, title or interest in the licensed Software except as expressly set forth in this Agreement"
+    - "The licensed Software will be made available to the Licensee electronically, by downloading and installing the Software"
+    - "Licensor hereby grants to Licensee, for an indeterminate term, a free, non-exclusive and non-transferable license
+       to use the object code of the Software only for internal research purposes of the Licensee"
+    - "Usage by third parties is forbidden"
+    - "Licensee shall not permit anyone other than Licensee and its employees concerned by an internal research
+       activity to use the licensed Software"
+    - "The licensed Software may be used by Licensee for internal research and academic purposes only"
+    - "Using Software for consulting services or commercial purposes is strictly forbidden"
+    - "Licensee may not use the licensed Software for commercial purposes, including but not limited to the sale of
+       the licensed Software or reproduction or distribution of the licensed Software in any form"
+    - "If another use is desired, the Licensee is requested to let it know to the Licensor (by contacting the authors
+       of the Software and/or the Technology Transfer Office of Inria Nancy - Grand Est)"
+    - "Licensee may not remove, obscure nor modify any copyright or other notices included in the Software"
+    - "Licensee may not reverse engineer, decompile, disassemble, translate or adapt the Software, or otherwise attempt
+       to discover its source code from the object code"
+    - "Licensee may not incorporate, or let others incorporate, the Software, in part or in whole, into any other program"
+    - "The Licensee may install and use a reasonable number of copies of the Software solely for internal research
+       purposes and not for production use"
+    - "The Parties will retain in strict confidence, and will not disclose to a third party without the written consent
+       of the other Party all information forwarded to one by the other in relation with this Agreement and/or the Software"
+    - "Licensee agrees to maintain the confidentiality of any data contained in or relating to the usage of the licensed the Software"
+    - "Each Party’s obligation of confidence hereunder will be fulfilled by using at least same degree of care with the
+       other Party’s confidential information it uses to protect its own confidential information"
+    - "This obligation will exist while this Agreement is in force and shall survive to expiration of this Agreement"
+    - "The license of the Software will be effective from the date of the Licensee acceptance of the Agreement
+       (date of the download and installation of the Software by the Licensee) and shall continue until the copyright
+       on the Software is in force"
+    - "In the event that the Licensors believe that Licensee has exceeded the scope of the License, Licensor shall so
+       notify the breaching Licensee in writing"
+    - "The Licensor may immediately terminate this Agreement if the Licensee fails to comply with any term therein"
+    - "Upon Termination of this Agreement, the grant of license with respect with Software will terminate and Licensee
+       shall return to Licensor the licensed Software and destroy all the copies of it"
+    - "All provisions relating to confidentiality and ownership shall survive the termination"

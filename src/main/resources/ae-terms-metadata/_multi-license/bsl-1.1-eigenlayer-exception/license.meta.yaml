@@ -1,13 +1,16 @@
-canonicalName: Business Source License 1.1 (with EigenLayer Exception (Business Source License 1.1))
-category: Business Source+EigenLayer
-shortName: Business-Source-1.1-EigenLayer-Exception
+canonicalName: Business Source License 1.1 (with EigenLayer Exception (BSL-1.1))
+category: BSL+EigenLayer
+shortName: BSL-1.1-EigenLayer-Exception
+
+canonicalNameHistory:
+  - "Business Source License 1.1 (with EigenLayer Exception (Business Source License 1.1))"
 
 type: expression
 
 displayName: Business Source License 1.1 (with EigenLayer Exception)
 
 combinedWith:
-  EigenLayer Exception (Business Source License 1.1): Business Source License 1.1 (with EigenLayer Exception (Business Source License 1.1))
+  EigenLayer Exception (BSL-1.1): Business Source License 1.1 (with EigenLayer Exception (BSL-1.1))
 
 segmentation:
   revert: [

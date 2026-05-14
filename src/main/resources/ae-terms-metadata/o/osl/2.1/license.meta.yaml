@@ -2,8 +2,10 @@ canonicalName: Open Software License 2.1
 category: OSL
 spdxIdentifier: OSL-2.1
 
+# FIXME-KKL: add missing OSI-IDs - ask KK about it before doing so; document process
 otherIds:
   - "scancode:osl-2.1"
+  - "osi-deprecated:osl-2-1"
 
 alternativeNames:
  - "Open Software License 2.1"

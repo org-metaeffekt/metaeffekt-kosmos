@@ -12,8 +12,18 @@ canonicalNameHistory:
   - "Autoconf Exception 2.0"
 
 combinedWith:
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Autoconf exception (GPL))
-  "GNU General Public License 2.0": GNU General Public License 2.0 (with Autoconf exception (GPL))
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Autoconf Exception (GPL))
+  "GNU General Public License 2.0": GNU General Public License 2.0 (with Autoconf Exception (GPL))
+  "GNU General Public License 3.0": GNU General Public License 3.0 (with Autoconf Exception (GPL))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Autoconf Exception (GPL))
+
+alternativeNames:
+  - "Autoconf Exception 2.0"
+  - "Autoconf exception 2.0"
+  - "Autoconf-exception-2.0"
+  - "Autoconf Exception v2"
+  - "Autoconf exception v2"
+  - "Autoconf-exception-v2"
 
 evidence:
   matches:

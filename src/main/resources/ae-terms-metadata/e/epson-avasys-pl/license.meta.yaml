@@ -1,0 +1,48 @@
+canonicalName: Epson AVASYS Public License
+category: Epson AVASYS
+shortName: Epson-AVASYS-PL
+
+otherIds:
+  - "scancode:epson-avasys-pl-2008"
+
+alternativeNames:
+  - "EAPL (EPSON AVASYS Public License)"
+  - "Epson AVASYS Public License 2008"
+
+evidence:
+  matches:
+    - "Copyright of the Program is reserved by AVASYS Corporation and its Licensor"
+    - "You may freely reproduce and distribute verbatim copies of the Program in any medium, provided that 
+      recipients of such copies are given a copy of this License"
+    - "You may modify the Program and freely distribute your modified
+     version(s), provided that you distribute it under the terms of this License"
+    - "You shall treat those parts of the Program that were provided
+     to you in executable or object code only as the proprietary
+     and confidential information of AVASYS Corporation and its Licensor"
+    - "You may neither reverse engineer, reverse compile, reverse
+     assemble nor otherwise attempt to analyse those parts of the
+     Program that were provided to you in executable or object code only"
+    - "BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO
+     WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW"
+
+references:
+  "LesserGPL":
+    matches:
+    - "However, as a special exception AVASYS Corporation and
+       its Licensor(s) give permission to reverse engineer the
+       Program in those cases, and only those cases, where this is
+       required by the terms stipulated in the GNU Library General
+       Public License or GNU Lesser General Public License, both as
+       published by the Free Software Foundation; either version 2 of
+       the former license, version 2.1 of the latter license, or (at
+       your option) any later version"
+  "LibraryGPL":
+    matches:
+      - "However, as a special exception AVASYS Corporation and
+       its Licensor(s) give permission to reverse engineer the
+       Program in those cases, and only those cases, where this is
+       required by the terms stipulated in the GNU Library General
+       Public License or GNU Lesser General Public License, both as
+       published by the Free Software Foundation; either version 2 of
+       the former license, version 2.1 of the latter license, or (at
+       your option) any later version"

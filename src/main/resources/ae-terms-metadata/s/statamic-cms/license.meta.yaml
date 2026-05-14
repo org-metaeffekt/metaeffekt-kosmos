@@ -1,0 +1,23 @@
+canonicalName: Statamic License
+category: Statamic
+shortName: Statamic
+
+comments:
+  - "source: https://github.com/statamic/cms/blob/14cd46b70d8242ac5d6927ad432a9881364e735f/LICENSE.md"
+
+otherIds:
+  - "scancode:statamic-2022"
+
+alternativeNames:
+  - "Statamic CMS License"
+  - "statamic cms"
+
+evidence:
+  matches:
+    - "Permission is hereby granted to any person obtaining a copy of this software (the “Software”) to use, copy, 
+      modify, merge, publish and/or distribute copies of the Software, and to permit persons to whom the Software 
+      is furnished to do so, subject to the following conditions"
+    - "The above copyright notice and this license shall be included in all copies or substantial portions of the Software"
+    - "Each licensed copy of the Software shall be actively installed in no more than one production environment at a time"
+    - "Software features related to licensing shall not be altered or circumvented in any way, including (but not 
+      limited to) license validation, feature or edition restrictions, and update eligibility"

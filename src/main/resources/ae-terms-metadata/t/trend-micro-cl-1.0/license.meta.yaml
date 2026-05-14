@@ -1,0 +1,35 @@
+canonicalName: TrendMicro Community License 1.0
+category: TrendMicro Community License
+shortName: TrendMicro-CL-1.0
+
+otherIds:
+  - "scancode:trendmicro-cl-1.0"
+
+alternativeNames:
+  - "Trend Micro Community License 1.0"
+  - "trendmicro-cl-1.0"
+  - "Trend-Micro-CL-1.0"
+
+evidence:
+  matches:
+    - "By using or distributing any portion or element of the Licensed Materials, you agree to be bound by this Agreement"
+    - "Licensor hereby grants you a non-exclusive, worldwide, non-transferable and royalty-free limited license to use,
+       reproduce, modify and distribute the Licensed Materials, but not in connection with any product or service that
+       competes with the Licensed Materials or any product or service of Licensor"
+    - "Products and services compete even when provided free of charge"
+    - "If you market a product as a practical substitute for a product or service, it competes with that product or service"
+    - "If you distribute or make available to others the Licensed Materials, or offer a product or service that uses
+       the Licensed Materials, you (x) must provide such others with copy of this Agreement; (y) must prominently
+       display “Powered by Trend Micro’s TrendMicro Llama-TrendCybertron-8B-Instruct” on the user interface, splash
+       screen, dashboard, or similar product documentation; and (z) hereby consent to Licensor listing your name and
+       product on its adopter’s web page"
+    - "You must retain, in all copies of the Licensed Materials that you make or distribute, a copy of this Agreement,
+       or the following statement: “These materials are made available under the Trend Micro Community License 1.0
+       https://github.com/trendmicro/cloud-risk-assessment-agent/blob/main/Trend Micro Community License 1.0.pdf”
+       If you modify the Licensed Materials, you must also indicate that you have done so"
+    - "Your use of the Licensed Materials must comply with applicable laws and regulations, and, for the benefit of
+       Meta Platforms Inc. and its affiliates, and Licensor, comply with the terms of the Llama 3 Community License"
+    - "The Licensed Materials are intended for security purposes"
+    - "However, you must not make any statement to any other party regarding the Licensed Materials, or any products or
+       services you provide using the Licensed Materials, that would constitute a warranty by Licensor, or that would
+       reasonably be considered a warranty by Licensor"

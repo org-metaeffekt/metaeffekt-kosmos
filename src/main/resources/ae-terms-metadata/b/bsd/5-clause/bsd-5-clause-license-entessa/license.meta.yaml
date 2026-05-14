@@ -9,6 +9,7 @@ canonicalNameHistory:
 otherIds:
   - "scancode:entessa-1.0"
   - "osi:Entessa"
+  - "osi-deprecated:entessa"
 
 representedAs: BSD 5-Clause License
 requiresCopyright: true
@@ -23,6 +24,7 @@ alternativeNames:
   - "BSD 5-Clause License (Entessa)"
   - "BSD-5-Clause-Entessa"
   - "Entessa Public License Version. 1.0"
+  - "Entessa Public License v1.0"
 
 evidence:
   matches:
@@ -77,21 +79,21 @@ licenseTemplate:
    <li>The end-user documentation included with the redistribution, if any, must
    include the following acknowledgment:
 
-   <i>\"This product includes open source software developed by <copyright holder> (<copyright holder url>).\"</i>
+   <i>\"This product includes open source software developed by &lt;copyright holder&gt; (&lt;copyright holder url&gt;).\"</i>
     Alternately, this acknowledgment may appear in the software itself, if and
     wherever such third-party acknowledgments normally appear.</li>
     
-    <li>The names \"<copyright holder>\" and \"Entessa\" must not be used to endorse or promote
+    <li>The names \"&lt;copyright holder&gt;\" and \"Entessa\" must not be used to endorse or promote
     products derived from this software without prior written permission. For
     written permission, please contact epl@entessa.com.</li>
     
-    <li>Products derived from this software may not be called \"<copyright holder>\", nor may
-    \"<copyright holder>\" appear in their name, without prior written permission of Entessa.</li></ol>
+    <li>Products derived from this software may not be called \"&lt;copyright holder&gt;\", nor may
+    \"&lt;copyright holder&gt;\" appear in their name, without prior written permission of Entessa.</li></ol>
     
     <codeph>THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES,
     INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
     FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL ENTESSA,
-    LLC, <copyright holder> OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+    LLC, &lt;copyright holder&gt; OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
     SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
     PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
     OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER

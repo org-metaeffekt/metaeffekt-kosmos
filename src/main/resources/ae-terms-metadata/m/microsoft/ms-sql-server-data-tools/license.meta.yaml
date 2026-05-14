@@ -19,3 +19,9 @@ evidence:
     - "transfer the software or this agreement to any third party"
     - "The software includes other Microsoft SQL Server technologies"
     - "The software may install automatic updates, which cannot be turned off"
+    - "You may copy and distribute the object code form of the Microsoft SQL Server Data-Tier Application Framework"
+
+references:
+  "Microsoft SQL Server Data-Tier":
+    matches:
+      - "You may copy and distribute the object code form of the Microsoft SQL Server Data-Tier Application Framework (\"Distributable Code\") in programs you develop; and" # Microsoft SQL Server Data-Tier Application Framework License

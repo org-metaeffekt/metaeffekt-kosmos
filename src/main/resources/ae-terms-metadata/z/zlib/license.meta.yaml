@@ -7,7 +7,9 @@ requiresLicenseText: false
 
 otherIds:
   - "scancode:zlib"
+#  - "scancode:aladdin-md5" # deprecated
   - "osi:Zlib"
+  - "osi-deprecated:zlib"
 
 alternativeNames:
   - "zlib licence"

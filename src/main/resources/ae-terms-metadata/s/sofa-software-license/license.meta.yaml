@@ -1,0 +1,27 @@
+canonicalName: SOFA Software License
+category: SOFA Software License
+spdxIdentifier: SOFA
+
+otherIds:
+  - "scancode:sofa"
+
+alternativeNames:
+  - "SOFA Software License"
+  - "http://www.iausofa.org/tandc.html"
+
+evidence:
+  matches:
+    - "Note that, as originally distributed, the SOFA software is intended to be a definitive implementation of
+       the IAU standards, and consequently third-party modifications are discouraged"
+    - "All variations, no matter how minor, must be explicitly marked as such, as explained above"
+    - "You shall not cause the SOFA software to be brought into disrepute, either by misuse, or use for inappropriate
+       tasks, or by inappropriate modification"
+    - "The origin of the SOFA components of your derived work must not be misrepresented; you must not claim that you
+       wrote the original software, nor file a patent application for SOFA software or algorithms embedded in the SOFA software"
+    - "These requirements must be reproduced intact in any source distribution and shall apply to anyone to whom you
+       have granted a further right to modify the source code of your derived work"
+
+masks:
+  matches:
+    - "av_log(ctx, AV_LOG_INFO, \"SOFA license: %s\\n\", license);" # as found in ffmpeg package
+    - "av_log(ctx, AV_LOG_INFO, \"SOFA license: " # as found in ffmpeg package (normalized)

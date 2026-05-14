@@ -1,0 +1,41 @@
+canonicalName: FLUX Non-Commercial License 1.0
+category: FLUX Non-Commercial
+shortName: FLUX-1-NC
+
+otherIds:
+  - "scancode:flux-1-nc"
+
+canonicalNameHistory:
+  - "FLUX.1 [dev] Non-Commercial License"
+
+alternativeNames:
+  - "Black Forest Labs FLUX 1.0"
+  - "FLUX.1 [dev] Non-Commercial License v1.0"
+  - "FLUX.1 NonCommercial License v1.0"
+  - "FLUX.1 Non-Commercial License v1.0"
+  - "FLUX.1 Non-Commercial v1.0"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this License, Company grants you a non-exclusive, worldwide, non-transferable,
+       non-sublicensable, revocable, royalty free and limited license to access, use, create Derivatives of, and
+       Distribute the FLUX.1 [dev] Models solely for your Non-Commercial Purposes"
+    - "The foregoing license is personal to you, and you may not assign or sublicense this License or any other rights
+       or obligations under this License without Company’s prior written consent; any such assignment or sublicense
+       will be void and will automatically and immediately terminate this License"
+    - "Any restrictions set forth herein in regarding the FLUX.1 [dev] Model also applies to any Derivative you create
+       or that are created on your behalf"
+    - "Non-Commercial Use Only. You may only access, use, Distribute, or creative Derivatives of or the FLUX.1 [dev] Model
+       or Derivatives for Non-Commercial Purposes"
+    - "If You want to use a FLUX.1 [dev] Model a Derivative for any purpose that is not expressly authorized under
+       this License, such as for a commercial activity, you must request a license from Company, which Company may
+       grant to you in Company’s sole discretion and which additional use may be subject to a fee, royalty or other
+       revenue share"
+    - "Please contact Company at the following e-mail address if you want to discuss such a license: info@blackforestlabs.ai"
+    - "The grant of rights expressly set forth in this License are the complete grant of rights to you in the FLUX.1 [dev] Model,
+       and no other licenses are granted, whether by waiver, estoppel, implication, equity or otherwise"
+    - "Company and its licensors reserve all rights not expressly granted by this License"
+    - "We claim no ownership rights in and to the Outputs"
+    - "You are solely responsible for the Outputs you generate and their subsequent uses in accordance with this License"
+    - "You may use Output for any purpose (including for commercial purposes), except as expressly prohibited herein"
+    - "You may not use the Output to train, fine-tune or distill a model that is competitive with the FLUX.1 [dev] Model"

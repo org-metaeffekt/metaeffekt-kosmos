@@ -1,5 +1,6 @@
 canonicalName: Linking Exception (independent module)
 category: Independent Linking Exception
+spdxIdentifier: Classpath-exception-2.0-short
 shortName: Linking-Exception-Independent
 
 type: exception
@@ -13,7 +14,7 @@ combinedWith:
 
 otherIds:
   - "scancode:independent-module-linking-exception"
-  - "scancode:linking-exception-lgpl-2.0-plus" #this ID is still active on the latest scancode version (23.04.2025): same license text as ID "independent-module-linking-exception"
+  - "scancode:linking-exception-lgpl-2.0-plus" #this ID is still active on the latest scancode version (27.11.2025): same license text as ID "independent-module-linking-exception"
 
 alternativeNames:
   - "Independent Module Linking Exception"

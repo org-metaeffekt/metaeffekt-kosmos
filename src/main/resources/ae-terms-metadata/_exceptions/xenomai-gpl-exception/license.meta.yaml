@@ -1,11 +1,14 @@
-canonicalName: Xenomai GPL Exception
-category: Xenomai GPL Exception
-shortName: Xenomai-GPL-Exception
+canonicalName: Xenomai Exception
+category: Xenomai Exception
+shortName: Xenomai-Exception
 
 otherIds:
   - "scancode:xenomai-gpl-exception"
 
 type: exception
+
+canonicalNameHistory:
+  - "Xenomai GPL Exception"
 
 alternativeNames:
   - "Xenomai GPL Exception"

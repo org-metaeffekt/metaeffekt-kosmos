@@ -1,0 +1,35 @@
+canonicalName: Open Web Foundation Final Specification Agreement 1.0.1
+category: Open Web Foundation Final Specification Agreement
+shortName: OWFa-1.0.1
+
+otherIds:
+  - "scancode:owfa-1.0-2023-05"
+
+requiresLicenseText: false
+requiresCopyright: false
+
+classification: Proprietary Free
+
+alternativeNames:
+  - "OWFa 1.0 - Patent and Copyright Grants - 2023-05"
+
+evidence:
+  matches:
+    - "I grant to you a perpetual (for the duration of the applicable copyright), worldwide, non-exclusive, no-charge, 
+      royalty-free, copyright license, without any obligation for accounting to me, to reproduce, prepare derivative 
+      works of, publicly display, publicly perform, sublicense, distribute, and implement the Specification to the full 
+      extent of my copyright interest in the Specification"
+    - "As a condition of the copyright grant, you must include an attribution to the Specification in any derivative 
+      work you make based on the Specification"
+    - "That attribution must include, at minimum, the Specification name and version number"
+    - "I, on behalf of myself and my successors in interest and assigns, irrevocably promise not to assert my Granted 
+      Claims against you for your Permitted Uses, subject to the terms and conditions of Section 3.1"
+    - "All rights, grants, and promises made by me to you under this Agreement are terminated if you file, maintain, or 
+      voluntarily participate in a lawsuit against me or any person or entity asserting that its Permitted Uses infringe
+      any Granted Claims you would have had the right to enforce had you not signed this Agreement, unless that suit 
+      was in response to a corresponding suit first brought against you"
+    - "This promise is not an assurance"
+    - "that any of my copyrights or issued patent claims cover an implementation of the Specification or are 
+      enforceable"
+    - "Except as specifically set forth in this Agreement, no other express or implied patent, trademark, copyright, 
+      or other property rights are granted under this Agreement, including by implication, waiver, or estoppel"

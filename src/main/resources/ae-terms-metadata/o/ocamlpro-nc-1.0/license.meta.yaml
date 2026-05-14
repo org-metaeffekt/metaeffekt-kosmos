@@ -1,0 +1,41 @@
+canonicalName: OCamlPro Non-Commercial Purpose License 1.0
+category: OCamlPro Non-Commercial Purpose
+shortName: OCamlPro-NC-1.0
+
+otherIds:
+  - "scancode:ocamlpro-nc-v1"
+
+alternativeNames:
+  - "OCamlPro Non-Commercial Purpose License, version 1"
+  - "OCamlPro Non-Commercial Purpose License 1.0"
+  - "OCamlPro Non-Commercial Purpose License v1"
+  - "ocamlpro-nc-v1"
+  - "OCamlPro-NC-1.0"
+
+evidence:
+  matches:
+    - "You should carefully read the following terms and conditions before using this software"
+    - "Your use of the Software indicates your acceptance of this license agreement and all terms and conditions"
+    - "You are hereby licensed to use the Software for Non-Commercial Purpose only"
+    - "Non-Commercial Purpose means the use of the Software solely for research"
+    - "Non-Commercial Purpose excludes, without limitation, any use of the Software, as part of, or in any way in
+       connection with a product or service which is sold, offered for sale, licensed, leased, loaned, or rented,
+       or used in a profit-making context"
+    - "Permission to use, copy, modify, and distribute this compilation for Non-Commercial Purpose is hereby granted
+       without fee, subject to the following terms of this license"
+    - "You must include the above copyright notice and this license on any copy or modification of this compilation"
+    - "Each time you redistribute this Software, the recipient automatically receives a license to copy, distribute
+       or modify the Software subject to these terms and conditions"
+    - "You may not impose any further restrictions on this Software or any derivative works beyond those restrictions herein"
+    - "You agree to use your best efforts to provide OCamlPro with any modifications containing improvements or
+       extensions and hereby grant OCamlPro a perpetual, royalty-free license to use and distribute such modifications
+       under its own terms of licensing"
+    - "You agree to notify OCamlPro of any inquiries you have for commercial use of the Software and/or its modifications
+       and further agree to negotiate in good faith with OCamlPro to license your modifications for commercial purposes"
+    - "If you desire to use the software for profit-making or commercial purposes, you agree to negotiate in good faith
+       a license with OCamlPro prior to such profit- making or commercial use"
+    - "OCamlPro shall have no obligation to grant such license to you, and may grant exclusive or non-exclusive
+       licenses to others"
+    - "You may contact the OCamlPro team at email address contact@ocamlpro.com to discuss commercial use"
+    - "Users will not use the name of OCamlPro nor any adaptation thereof in any publicity or advertising,
+       without the prior written consent from OCamlPro in each case"

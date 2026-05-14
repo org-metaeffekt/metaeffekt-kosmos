@@ -5,6 +5,10 @@ shortName: STLport-2000
 otherIds:
   - "scancode:stlport-2000"
 
+alternativeNames:
+  - "STLport License Agreement"
+  - "STLport License"
+
 evidence:
   matches:
     - "Boris Fomitchev grants Licensee a non-exclusive, non-transferable, royalty- free

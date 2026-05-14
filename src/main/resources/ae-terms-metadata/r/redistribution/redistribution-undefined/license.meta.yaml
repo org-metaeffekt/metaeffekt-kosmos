@@ -1,0 +1,11 @@
+canonicalName: Redistribution Terms
+category: RT
+shortName: RT-?
+
+unspecific: true
+
+# FIXME-CONCEPT: we want to rename this to "Redistribution Terms (undefined)" but this would require all the
+#   representedAs to be changed to "Redistribution Terms (undefined)" as well - Problem is that we want to map all the
+#   representedAs to this yaml but not have "Redistribution Terms (undefined)" show up in all the matches of the variants;
+#   Do we solve this by having one "Redistribution Terms§ and one "Redistribution Terms (undefined" separately? But
+#   that wouldnt work right

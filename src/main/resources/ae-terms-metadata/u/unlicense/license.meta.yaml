@@ -8,6 +8,7 @@ requiresLicenseText: false
 otherIds:
   - "scancode:unlicense"
   - "osi:unlicense"
+  - "osi-deprecated:unlicense"
 
 combinedWith:
   "Public Domain": Unlicense
@@ -18,6 +19,7 @@ ignoreMatches:
 
 alternativeNames:
   - "Unlicense"
+  - "The Unlicense"
 
 expectedSpdxMatches:
   - "Unlicense"

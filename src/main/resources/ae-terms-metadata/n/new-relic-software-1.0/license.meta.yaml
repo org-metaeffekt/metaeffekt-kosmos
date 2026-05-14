@@ -1,0 +1,23 @@
+canonicalName: New Relic Software License 1.0
+category: New Relic Software
+shortName: New-Relic-Software-1.0
+
+otherIds:
+  - "scancode:new-relic-1.0"
+
+alternativeNames:
+  - "New Relic Software License v1.0"
+
+evidence:
+  matches:
+    - "New Relic grants you a license for the Software to do everything you might do with the Software that would otherwise infringe the New Relic’s copyrights or patent rights, conditional on only using the Software for Permitted Purposes and compliance with all other Restrictions on Use"
+    - "The Software is solely for use with New Relic’s proprietary SaaS service"
+    - "To use the Software you must have a valid and active subscription agreement to the New Relic Service"
+    - "You may not use the Software in conjunction with any other similar service"
+    - "You cannot expose the Software to third parties via the network or use the Software on behalf of anyone else"
+    - "You cannot reverse engineer or decompile the Software"
+
+references:
+  "Apache License":
+    matches:
+      - "Any feedback provided to New Relic about the Software, including feedback provided as source code, comments, or other copyrightable or patentable material, is provided to New Relic under the terms of the Apache Software License, version 2. If you do not provide attribution information or a copy of the license with your feedback, you waive the performance of those requirements of the Apache License with respect to New Relic. The license grant regarding any feedback is irrevocable and persists past the termination of this license"

@@ -8,6 +8,9 @@ type: expression
 
 representedAs: Public Domain
 
+otherIds:
+  - "scancode:public-domain-disclaimer"
+
 combinedWith:
   "Disclaimer (variant 002)": Public Domain (with disclaimer)
   "Public Domain": Public Domain (with disclaimer)

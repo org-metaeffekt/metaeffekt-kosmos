@@ -1,0 +1,53 @@
+canonicalName: GNU Lesser General Public License (undefined)
+category: LesserGPL
+shortName: LesserGPL-?
+
+defaultSourceCategory: annex
+
+unspecific: true
+
+alternativeNames:
+  - "GNU LESSER GENERAL PUBLIC LICENSE"
+  - "GNU LESSER GENERAL PUBLIC LICENSE (LGPL)"
+  - "GNU Lesser"
+  - "GNU Lesser GPL"
+  - "GNU Lesser General Public"
+  - "GNU Lesser General Public Lcense"
+  - "GNU Lesser General Public Licence"
+  - "GNU Lesser General Public License"
+  - "GNU Lesser General Public License (GPL)"
+  - "GNU Lesser General Public License (LGPL)"
+  - "GNU Lesser Public License"
+  - "Lesser GNU General Public License"
+  - "GNU lesser general public license"
+  - "LGPL (GNU Lesser General Public License)"
+  - "LGPL - GNU LESSER GENERAL PUBLIC LICENSE"
+  - "Lesser GNU Public License"
+  - "The GNU Lesser General Public License"
+  - "Lesser General Public License"
+  - "Lesser General Public License (LGPL)"
+  - "GNU Lesser GPL 2.0+"
+  - "GNU Lesser General Public License Version 2+"
+  - "GNU Lesser General Public License Version 2.0+"
+  - "GNU Lesser General Public License, Version 2.0+"
+  - "GNU Lesser General Public License, Version 2 or any later version"
+  - "Lesser General Public License (LGPL)), Version 2.0+"
+  - "GNU Lesser/Library General Public License version 2+"
+  - "GNU Lesser General Public License (GNU LGPL)"
+
+# needed for evidence (or excludes) shorter than 3 words:
+expressiveEvidence: true
+
+# MASKS USE CASE: explanatory, but non-binding association
+masks:
+  matches:
+    - "The implementation is inspired by terralib http://www.terralib.org (LGPL)"
+    - "the complete text of the GNU Lesser General Public License can be found in usr share commonlicenses LGPL"
+
+references:
+  "LesserGPL":
+    matches:
+      - "You should have received a copy of the GNU Lesser General Public License along with this library"
+      - "If you copy code from files distributed under the terms of the GNU General Public License or the GNU Lesser 
+         General Public License into a copy of this library, as this license permits, the exception does not apply to 
+         the code that you add in this way"

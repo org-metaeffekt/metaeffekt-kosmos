@@ -1,0 +1,46 @@
+canonicalName: Sun Community Source License 2.8
+category: Sun Community Source License
+shortName: SCSL-2.8
+
+otherIds:
+  - "scancode:scsl-2.8"
+
+alternativeNames:
+  - "Sun Community Source License 2.8"
+  - "SUN COMMUNITY SOURCE LICENSE Version 2.8"
+  - "Sun Community Source License Version 2.8"
+  - "Sun Community Source License v2.8"
+  - "SUN COMMUNITY SOURCE LICENSE V2.8"
+
+evidence:
+  matches:
+    - "The Sun Community Source License and effective attachments ('License') may include five distinct licenses:
+       Research Use, TCK, Internal Deployment Use, Commercial Use and Trademark License"
+    - "The Research Use license is effective when You execute this License"
+    - "The TCK and Internal Deployment Use licenses are effective when You execute this License, unless otherwise
+       specified in the TCK and Internal Deployment Use attachments"
+    - "The Commercial Use and Trademark licenses must be signed by You and Original Contributor in order to become effective"
+    - "Once effective, these licenses and the associated requirements and responsibilities are cumulative"
+    - "Capitalized terms used in this License are defined in the Glossary"
+    - "Subject to Your compliance with Sections 3, 8.10 and Attachment A of this License, Original Contributor grants
+       to You a worldwide, royalty-free, non-exclusive license, to the extent of Original Contributor's Intellectual
+       Property Rights covering the Original Code, Upgraded Code and Specifications, to do the following"
+    - "(i) use, reproduce and modify the Original Code, Upgraded Code and Specifications to create Modifications and
+       Reformatted Specifications for Research Use by You, (ii) publish and display Original Code, Upgraded Code and
+       Specifications with, or as part of Modifications, as permitted under Section 3.1 b) below, (iii) reproduce and
+       distribute copies of Original Code and Upgraded Code to Licensees and students for Research Use by You,
+       (iv) compile, reproduce and distribute Original Code and Upgraded Code in Executable form, and Reformatted
+       Specifications to anyone for Research Use by You"
+    - "Other than the licenses expressly granted in this License, Original Contributor retains all right, title, and
+       interest in Original Code and Upgraded Code and Specifications"
+    - "You hereby grant to each Licensee a license to Your Error Corrections and Shared Modifications, of the same scope
+       and extent as Original Contributor's licenses under Section 2.1 a) above relative to Research Use, Attachment
+       C relative to Internal Deployment Use, and Attachment D relative to Commercial Use"
+    - "You hereby grant to Original Contributor a worldwide, royalty-free, non-exclusive, perpetual and irrevocable
+       license, to the extent of Your Intellectual Property Rights covering Your Error Corrections, Shared Modifications
+       and Reformatted Specifications, to use, reproduce, modify, display and distribute Your Error Corrections,
+       Shared Modifications and Reformatted Specifications, in any form, including the right to sublicense such rights
+       through multiple tiers of distribution"
+    - "Other than the licenses expressly granted in Sections 2.2 a) and b) above, and the restriction set forth in
+       Section 3.1 d)(iv) below, You retain all right, title, and interest in Your Error Corrections, Shared Modifications
+       and Reformatted Specifications"

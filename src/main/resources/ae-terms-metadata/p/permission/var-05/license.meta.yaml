@@ -6,7 +6,7 @@ spdxIdentifier: HPND-doc-sell
 otherIds:
   - "scancode:hpnd-doc-sell"
 #  - "scancode:x11-doc"
-#this license is not a x11 license - the other identifier makes more sense
+#this license is not a x11 license - the other identifier makes more sense - ID kept for inventory
 
 canonicalNameHistory:
   - "Permission Terms Var005"

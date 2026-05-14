@@ -1,4 +1,4 @@
-canonicalName: "GNU General Public License 2.0 (or any later version)"
+canonicalName: GNU General Public License 2.0 (or any later version)
 category: GPL
 spdxIdentifier: GPL-2.0-or-later
 shortName: GPL-2.0+
@@ -66,6 +66,8 @@ alternativeNames:
   - "under the terms of the GNU General Public License (GPL) as published by the Free Software Foundation either version 
      2 of that License or (at your option) any later version"
   - "GNU General Public Licence as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version"
+  - "GNU General Public License 2.0 or later"
+  - "GPL 2.0+"
 
 evidence:
   excludes:
@@ -74,12 +76,10 @@ evidence:
        in from the lib directory. The getopt_long code is under GNU LGPLv2.1+"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
       - "(Some other Free Software Foundation software is covered by
          the GNU Lesser General Public License instead.)"
-      - "(Some other Free Software Foundation software is covered by
-         the *{.{0,50}}*instead.)"
 
 # Note: this mapping is from a container and can't be made more specific due to our code limitations. Delete if it causes issues
 mappings:

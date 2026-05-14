@@ -1,0 +1,27 @@
+canonicalName: Unicode Character Database Terms of Use
+category: UCD
+shortName: UCD-TOU
+
+otherIds:
+  - "scancode:unicode-ucd"
+
+canonicalNameHistory:
+  - "UCD Terms of Use"
+
+alternativeNames:
+  - "UCD Terms of Use"
+  - "Unicode Character Database (UCD) Terms of Use"
+  - "Unicode Character Database (UCD) ToU"
+  - "Unicode Character Database Terms of Use"
+  - "Unicode Character Database ToU"
+
+evidence:
+  matches:
+    - "Recipient is granted the right to make copies in any form for internal
+       distribution and to freely use the information supplied in the creation of
+       products supporting the UnicodeTM Standard"
+    - "The files in the Unicode Character Database can be redistributed to third
+       parties or other organizations (whether for profit or not) as long as this
+       notice and the disclaimer notice are retained"
+    - "Information can be extracted from these files and used in documentation or
+       programs, as long as there is an accompanying notice indicating the source"

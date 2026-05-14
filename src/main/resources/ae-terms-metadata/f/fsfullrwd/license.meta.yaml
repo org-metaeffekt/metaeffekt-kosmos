@@ -4,7 +4,7 @@ spdxIdentifier: FSFULLRWD
 
 representedAs: FSF Unlimited License
 
-#note: both scancode IDs are active and have the same license text (20.08.2024)
+#note: both scancode IDs are active and have the same license text (27.11.2025)
 otherIds:
   - "scancode:fsf-unlimited-no-warranty"
   - "scancode:g10-permissive"

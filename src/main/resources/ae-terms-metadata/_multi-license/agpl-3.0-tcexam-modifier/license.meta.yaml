@@ -1,0 +1,14 @@
+canonicalName: GNU Affero General Public License 3.0 (with TCExam Modifier (AGPL-3.0))
+category: AGPL+TCExam
+shortName: AGPL-3.0+-TCExam-Modifier
+
+canonicalNameHistory:
+  - "GNU Affero General Public License 3.0 (with TCExam Modifier (AGPL 3.0))"
+
+type: expression
+
+displayName: GNU Affero General Public License 3.0 (with TCExam Modifier)
+
+combinedWith:
+  GNU Affero General Public License 3.0: GNU Affero General Public License 3.0 (with TCExam Modifier (AGPL-3.0))
+  TCExam Modifier (AGPL-3.0): GNU Affero General Public License 3.0 (with TCExam Modifier (AGPL-3.0))

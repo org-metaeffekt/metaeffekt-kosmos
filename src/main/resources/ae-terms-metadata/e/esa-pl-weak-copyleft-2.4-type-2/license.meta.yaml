@@ -1,0 +1,34 @@
+canonicalName: ESA Public License 2.4 (weak copyleft; Type 2)
+category: ESA Public License
+spdxIdentifier: ESA-PL-weak-copyleft-2.4
+
+canonicalNameHistory:
+  - "European Space Agency Public License 2.4 (weak copyleft; Type 2)"
+
+alternativeNames:
+  - "European Space Agency Public License 2.4 (Weak Copyleft; Type 2)"
+  - "European Space Agency Public License (ESA-PL) Weak Copyleft (Type 2) – v2.4"
+  - "https://essr.esa.int/license/european-space-agency-public-license-v2-4-weak-copyleft-type-2"
+  - "ESA-PL-weak-copyleft-2.4"
+  - "ESA-PL-Weak-Copyleft-2.4"
+
+classification: limited copyleft
+
+evidence:
+  matches:
+    - "All Distribution of the Software and/or Modifications, as Source Code or Object Code, must be,
+       as a whole, either under (a) the terms of this License or the ESA-PL Strong Copyleft license
+       v2.4 or (b) any later version of these Licenses unless the Software is expressly Distributed
+       only under a specific version of the License by a Contributor or (c) the terms of a compatible
+       license as listed in Appendix A to this License"
+    - "Any obligation in this License to Distribute under the terms of this License, in particular
+       as set out in Sec. 3.2, shall be construed as referring to “this License or a compatible license"
+
+references:
+  "GPL":
+    matches:
+      - "GNU General Public License (GPL) version 2 and any subsequent version CeCILL version 2 and any subsequent version"
+
+  "CeCILL":
+    matches:
+      - "GNU General Public License (GPL) version 2 and any subsequent version CeCILL version 2 and any subsequent version"

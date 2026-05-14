@@ -2,11 +2,12 @@ canonicalName: MIT Kerberos License
 category: MIT
 shortName: MIT-Kerberos
 
-# FIXME-DISCUSS: Discuss category of this license --> Kerberos License
+# FIXME-IMPLEMENT: change category to Kerberos
 
 alternativeNames:
   - "MIT Kerberos License"
 
+# FIXME-IMPLEMENT: remove; this is not an MIT License
 representedAs: MIT License
 
 evidence:

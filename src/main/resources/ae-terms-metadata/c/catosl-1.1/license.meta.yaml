@@ -5,6 +5,7 @@ spdxIdentifier: CATOSL-1.1
 otherIds:
   - "scancode:ca-tosl-1.1"
   - "osi:CATOSL-1.1"
+  - "osi-deprecated:ca-tosl-1-1"
 
 alternativeNames:
   - "CATOSL, Version 1.1"

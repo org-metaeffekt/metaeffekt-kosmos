@@ -1,0 +1,23 @@
+canonicalName: BSD 4-Clause License (mark modifications)
+category: BSD
+spdxIdentifier: BSD-Mark-Modifications
+shortName: BSD-4-Clause-mark-modifications
+
+representedAs: BSD 4-Clause License
+
+alternativeNames:
+  - "BSD 4-Clause License (Modification Advertized)"
+  - "BSD 4-Clause Modification Advertized"
+  - "BSD-4-Clause-Modification-Advertized"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions
+       and the following disclaimer"
+    - "Redistributions in binary form must reproduce the above copyright notice, this list of conditions
+       and the following disclaimer in the documentation and/or other materials provided with the distribution"
+    - "All modifications to the source code must be clearly marked as such"
+    - "Binary redistributions based on modified source code must be clearly marked as modified versions in
+       the documentation and/or other materials provided with the distribution. (clause 4 removed with permission from Geoff Kuenning)"
+    - "The name of Geoff Kuenning may not be used to endorse or promote products derived from this software without
+       specific prior written permission"

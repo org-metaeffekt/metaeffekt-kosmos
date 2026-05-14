@@ -4,9 +4,6 @@ shortName: Authors-View
 
 type: marker
 
-combinedWith:
-  BSD 2-Clause License (copyright holder variant): BSD 2-Clause License (copyright holder variant; with authors view)
-
 comments:
   - "marker highlighting that the contained views,comments and conclusions are not representative and only the view of the authors"
 

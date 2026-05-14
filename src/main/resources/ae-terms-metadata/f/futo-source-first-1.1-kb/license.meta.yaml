@@ -1,0 +1,32 @@
+canonicalName: FUTO Source First License 1.1-kb
+category: FUTO Source First kb
+shortName: FUTO-Source-First-1.1-kb
+
+otherIds:
+  - "scancode:futo-sfl-1.1-kb"
+
+alternativeNames:
+  - "Source First License 1.1-kb"
+
+evidence:
+  matches:
+    - "You may use the software for any purpose"
+    - "You may modify the software only for non-commercial purposes such as personal use for research, experiment, 
+      and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur
+      pursuits, or religious observance, all without any anticipated commercial application"
+    - "You may distribute the software or any part of its source code only if you do so free of charge for 
+      non-commercial purposes"
+    - "Notwithstanding the above, you may not remove or obscure any functionality in the software related to payment 
+      to the Licensor in any copy you distribute to others"
+    - "If you make any written claim that the software infringes or contributes to infringement of any patent, your 
+      license for the software granted under these terms ends immediately"
+    - "You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms"
+    - "These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the 
+      Licensor from granting licenses to anyone else"
+
+references:
+  "FUTO Source First":
+    matches:
+      - "# FUTO Source First License 1.1-kb
+        ## Acceptance
+        By using the software, you agree to all of the terms and conditions below."

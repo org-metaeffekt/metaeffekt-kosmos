@@ -1,0 +1,25 @@
+canonicalName: FlowCrypt License 1.1
+category: FlowCrypt
+shortName: FlowCrypt-1.1
+
+otherIds:
+  - "scancode:flowcrypt-1.1"
+
+alternativeNames:
+  - "FlowCrypt License v1.1"
+  - "Flowcrypt License v1.1"
+
+evidence:
+  matches:
+    - "This software is free to use with the following limitations"
+    - "Password encrypted messages and attachments have to expire in 7 days"
+    - "Messages, attachments or files can only be transferred through used email provider or through services provided by Licensor"
+    - "Plain-text portion of password encrypted messages must only include a link to a page on flowcrypt.com domain"
+    - "Subject to the Use Limitation, Licensor grants you a non-exclusive, worldwide (subject to applicable laws) 
+       license to copy, modify, display, use, create derivative works, and redistribute the Software"
+    - "All copies of original and modified Software, and derivative works of the Software, are subject to this FlowCrypt License"
+  excludes:
+    - "Software: FlowCrypt iOS App. The Software is © 2017-2019 FlowCrypt Limited"
+
+
+

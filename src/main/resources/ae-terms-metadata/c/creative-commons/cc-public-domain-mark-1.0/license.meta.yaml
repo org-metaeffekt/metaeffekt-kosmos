@@ -1,6 +1,6 @@
-canonicalName: "Creative Commons Public Domain Mark 1.0"
+canonicalName: Creative Commons Public Domain Mark 1.0
 category: CC-PDM
-shortName: CC-PDM-1.0
+spdxIdentifier: CC-PDM-1.0
 
 alternativeNames:
   - "Public Domain Mark 1.0"

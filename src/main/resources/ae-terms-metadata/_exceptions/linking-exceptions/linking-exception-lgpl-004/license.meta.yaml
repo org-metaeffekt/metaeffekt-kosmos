@@ -24,7 +24,7 @@ evidence:
        not itself based on the Cygwin library"
 
 references:
-  "LGPL":
+  "LesserGPL":
     matches:
     - "As a special exception, the copyright holders of the Cygwin library grant
        you additional permission to link libcygwin.a, crt0.o, and gcrt0.o with

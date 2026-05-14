@@ -1,6 +1,6 @@
 canonicalName: Microsoft Pylance Extension for Visual Studio Code License
-category: Microsoft Pylance Extension for Visual Studio Code
-shortName: MS-Pylance-Extension-VS-Code-2021
+category: Microsoft Pylance Extension
+shortName: MS-Pylance-Extension-VS-Code
 
 otherIds:
   - "scancode:ms-python-vscode-pylance-2021"
@@ -25,6 +25,3 @@ evidence:
   excludes:
     - "MICROSOFT AZURE SPATIAL ANCHORS"
     - "The software may contain code you are permitted to distribute (i.e. make available for third parties) in applications you develop, as described in this Section"
-
-ignoreMatches:
-  - "Microsoft Azure Spatial Anchors WinRT 2.9.0"

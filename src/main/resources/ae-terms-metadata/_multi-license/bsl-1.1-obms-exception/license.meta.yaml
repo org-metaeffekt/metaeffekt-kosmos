@@ -1,6 +1,6 @@
-canonicalName: Business Source License 1.1 (with OBMS Exception (Business Source License 1.1))
-category: Business Source+OBMS
-shortName: Business-Source-1.1-OBMS-Exception
+canonicalName: Business Source License 1.1 (with OBMS Exception (BSL-1.1))
+category: BSL+OBMS
+shortName: BSL-1.1-OBMS-Exception
 
 type: expression
 
@@ -8,9 +8,10 @@ displayName: Business Source License 1.1 (with OBMS Exception)
 
 canonicalNameHistory:
   - "Business Source License 1.1 (with OBMS Modifier (Business Source License 1.1))"
+  - "Business Source License 1.1 (with OBMS Exception (Business Source License 1.1))"
 
 combinedWith:
-  OBMS Exception (Business Source License 1.1): Business Source License 1.1 (with OBMS Exception (Business Source License 1.1))
+  OBMS Exception (BSL-1.1): Business Source License 1.1 (with OBMS Exception (BSL-1.1))
 
 segmentation:
   revert: [

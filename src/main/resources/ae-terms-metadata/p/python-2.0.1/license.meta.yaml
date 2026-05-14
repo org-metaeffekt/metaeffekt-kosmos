@@ -14,11 +14,12 @@ expectedMatches:
 expectedSpdxMatches:
   - "Python Software Foundation License 2.0"
   - "BeOpen Python Open Source License Agreement 1.0"
-  - "CNRI License Agreement"
+  - "CNRI Open Source License Agreement (Python 1.6.1)"
 
 alternativeNames:
   - "Python-2.0.1"
   - "Python License 2.0.1"
+  # - "Python Software Foundation License v2.0.1" this appears not correct.
 
 evidence:
   matches:
@@ -26,7 +27,7 @@ evidence:
     - "PSF is making Python 2.0.1 available to Licensee on an \"AS IS\" basis"
     - "By copying, installing or otherwise using Python 2.0.1, Licensee agrees to be bound by the terms and conditions of this License Agreement"
 
-# FIXME-IMPLEMENT: after fixing the segmentation issue (caused by the hyphens) in the code fix the following:
+# FIXME-KKL: after fixing the segmentation issue (caused by the hyphens) in the code fix the following:
 ## 1: Fix the segmentation (mappings).
 ## 2: See which licenses get matched and adjust ignoreMatches/expectedMatches and the expectedSpdxMatches, as well as the displayName accordingly.
 # FIXME-CONCEPT: see Jira: "AEU-148"

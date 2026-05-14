@@ -1,6 +1,9 @@
-canonicalName: Akka Exception (Business Source License 1.1)
+canonicalName: Akka Exception (BSL-1.1)
 category: Akka Exception
-shortName: Akka-Exception-Business-Source-1.1
+shortName: Akka-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "Akka Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -9,7 +12,7 @@ alternativeNames:
   - "Akka additional use grant for BSL"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with Akka Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with Akka Exception (BSL-1.1))
 
 evidence:
   matches:

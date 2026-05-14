@@ -1,6 +1,9 @@
-canonicalName: Pathway Exception (Business Source License 1.1)
+canonicalName: Pathway Exception (BSL-1.1)
 category: Pathway Exception
-shortName: Pathway-Exception-Business-Source-1.1
+shortName: Pathway-Exception-BSL-1.1
+
+canonicalNameHistory:
+  - "Pathway Exception (Business Source License 1.1)"
 
 type: exception
 
@@ -9,7 +12,7 @@ alternativeNames:
   - "Pathway additional use grant for BSL"
 
 combinedWith:
-  Business Source License 1.1: Business Source License 1.1 (with Pathway Exception (Business Source License 1.1))
+  Business Source License 1.1: Business Source License 1.1 (with Pathway Exception (BSL-1.1))
 
 evidence:
   matches:
