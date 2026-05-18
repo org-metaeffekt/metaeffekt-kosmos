@@ -59,7 +59,7 @@ public class TermsMetaDataIntegrityTest extends AbstractTermsMetaDataIntegrityTe
     @Disabled
     @Test
     public void assertUniqueLicenseIdentification_metadataSingle() throws IOException {
-        assertUniqueLicenseIdentification_metadataSingle(nmd, "Apache License 2.0");
+        assertUniqueLicenseIdentification_metadataSingle(nmd, "Houdini Project License");
     }
 
     @Test
