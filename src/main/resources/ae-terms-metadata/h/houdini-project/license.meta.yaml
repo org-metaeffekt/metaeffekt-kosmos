@@ -115,6 +115,8 @@ references:
          ICO and PNG files in this repository are licensed as CC-0."
   "CC0":
     matches:
-      - "Files that contain the information \"License: CC0-1.0\" are licensed under the Creative Commons Public Domain 
-         Dedication 1.0 Universal or any later version as published by Creative Commons, Inc. (\"CC0\"). 4. All SVG, 
-         ICO and PNG files in this repository are licensed as CC-0."
+      - "3. Files that contain the information \"License: CC0-1.0\" are licensed under
+         the Creative Commons Public Domain Dedication 1.0 Universal or any later
+         version as published by Creative Commons, Inc. (\"CC0\").
+         
+         4. All SVG, ICO and PNG files in this repository are licensed as CC-0."
