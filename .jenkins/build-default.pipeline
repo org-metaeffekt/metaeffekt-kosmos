@@ -1,10 +1,11 @@
 pipeline {
-    agent any
+    agent {
+        label 'metaeffekt-astronaut'
+    }
 
-    // NOTE: not migrated to java17 / maven3.9.12 yet; uses tagged versions
     tools {
-        maven 'maven-3.9.6'
-        jdk 'ZULU8'
+        jdk 'ZULU17'
+        maven 'MAVEN3912'
     }
 
     stages {
@@ -13,9 +14,8 @@ pipeline {
                  // construct .local-properties
                  sh 'echo "ae.terms.metadata.path=src/main/resources/ae-terms-metadata" > .local-properties'
                  sh 'echo "spdx.license.list.path=.spdx-license-data" >> .local-properties'
-
-                 withMaven(jdk: 'ZULU8', maven: 'maven-3.9.6') {
-                     sh 'mvn -B clean install -Duser.timezone=Europe/Berlin'
+                withMaven(maven: 'MAVEN3912') {
+                     sh 'mvn -B clean install -Duser.timezone=Europe/Berlin
                  }
             }
         }
