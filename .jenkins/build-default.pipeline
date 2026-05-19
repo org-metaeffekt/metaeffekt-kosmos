@@ -15,7 +15,7 @@ pipeline {
                  sh 'echo "ae.terms.metadata.path=src/main/resources/ae-terms-metadata" > .local-properties'
                  sh 'echo "spdx.license.list.path=.spdx-license-data" >> .local-properties'
                 withMaven(maven: 'MAVEN3912') {
-                     sh 'mvn -B clean install -Duser.timezone=Europe/Berlin
+                     sh 'mvn -B clean install -Duser.timezone=Europe/Berlin'
                  }
             }
         }
