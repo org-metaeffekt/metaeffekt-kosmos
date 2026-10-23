@@ -5,7 +5,6 @@ spdxIdentifier: EFL-2.0
 otherIds:
   - "scancode:efl-2.0"
   - "osi:EFL-2.0"
-  - "osi-deprecated:ver2_eiffel"
 
 alternativeNames:
   - "EFL, Version 2.0"

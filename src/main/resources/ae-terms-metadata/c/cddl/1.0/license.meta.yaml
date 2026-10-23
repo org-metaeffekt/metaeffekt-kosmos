@@ -5,7 +5,6 @@ spdxIdentifier: CDDL-1.0
 otherIds:
   - "scancode:cddl-1.0"
   - "osi:CDDL-1.0"
-  - "osi-deprecated:cddl-1-0"
 
 canonicalNameHistory:
   - "Common Development and Distribution License 1.0"

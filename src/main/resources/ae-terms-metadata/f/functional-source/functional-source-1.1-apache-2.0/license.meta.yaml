@@ -13,9 +13,6 @@ alternativeNames:
 expectedMatches:
   - "Apache License 2.0"
 
-expectedMatches:
-  - "Apache License 2.0"
-
 evidence:
   matches:
     - "Subject to your compliance with this License Grant and the Patents,

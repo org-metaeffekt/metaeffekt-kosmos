@@ -8,15 +8,6 @@ canonicalNameHistory:
 otherIds:
   - "scancode:ms-net-library-2019-06"
 
-alternativeNames:
-  # FIXME-IMPLEMENT: these have been added for external license verification, but are very vague. Create undefined variant and move alt. name
-  - "MS .NET Library License"
-
-alternativeShortNames:
-  # FIXME-IMPLEMENT: see above
-  - "Microsoft .NET Library"
-  - "MS-.NET-Library"
-
 evidence:
   matches:
     - "The software may include third party components with separate legal notices or governed by other agreements, as
