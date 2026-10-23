@@ -13,7 +13,7 @@
         <groupId>org.metaeffekt.core</groupId>
         <artifactId>ae-core</artifactId>
         <version>0.159.0</version>
-        <relativePath></relativePath>
+        <relativePath />
     </parent>
 
     <properties>
