@@ -2,6 +2,8 @@ canonicalName: Sencha Commercial License 1.11
 category: Sencha Commercial
 shortName: Sencha-Commercial-1.1
 
+classification: commercial
+
 otherIds:
   - "scancode:sencha-commercial"
 
@@ -45,8 +47,9 @@ references:
          UNDER NO CIRCUMSTANCES MAY YOU USE THE SOFTWARE FOR A PRODUCT THAT IS INTENDED FOR SOFTWARE OR APPLICATION
          DEVELOPMENT PURPOSES.
 
-         The Open Source version of the Software (\"GPL Version\") is licensed under the terms of the GNU General
-         Public License versions 3.0 (\"GPL\") and not under this License Agreement. If You, or another third party,
-         has, at any time, developed all (or any portions of) the Application(s) using the GPL Version, You may not
-         combine such development work with the Software and must license such Application(s) (or any portions derived
-         there from) under the terms of the GNU General Public License version 3"
+         The Open Source version of the Software (\"GPL Version\") is licensed under the terms of the GNU General Public 
+         License versions 3.0 (\"GPL\") and not under this License Agreement. If You, or another third party, has, at any 
+         time, developed all (or any portions of) the Application(s) using the GPL Version, You may not combine such 
+         development work with the Software and must license such Application(s) (or any portions derived there from) 
+         under the terms of the GNU General Public License version 3, a copy of which is located at 
+         http://www.gnu.org/copyleft/gpl.html."

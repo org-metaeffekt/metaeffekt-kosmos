@@ -1,0 +1,18 @@
+canonicalName: GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 3.0 (or any later version)
+category: LGPL+GPL
+shortName: LGPL-3.0+-OR-GPL-3.0+
+
+type: expression
+
+evidence:
+  oneOf:
+    - matches:
+      - "I am granting this work to this project under the terms of both
+         the GNU General Public License and the GNU Lesser General Public
+         License as published by the Free Software Foundation; either version
+         3 of these Licenses, or (at the option of the project) any later
+         version."
+
+combinedWith:
+  "GNU Lesser General Public License 3.0 (or any later version)": "GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 3.0 (or any later version)"
+  "GNU General Public License 3.0 (or any later version)": "GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 3.0 (or any later version)"

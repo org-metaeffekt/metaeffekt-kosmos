@@ -1,12 +1,16 @@
-canonicalName: wxWidgets Licence
-category: wxWidgets Licence
+canonicalName: wxWidgets License
+category: wxWidgets
 shortName: wxWidgets
 
 otherIds:
   - "scancode:wxwidgets"
 
+canonicalNameHistory:
+  - "wxWidgets Licence"
+
 alternativeNames:
   - "http://www.wxwidgets.org/about/licence.htm"
+  - "wxWidgets Licence"
 
 evidence:
   matches:

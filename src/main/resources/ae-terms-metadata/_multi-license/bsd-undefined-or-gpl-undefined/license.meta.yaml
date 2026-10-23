@@ -1,7 +1,7 @@
 canonicalName: BSD (undefined) + GNU General Public License (undefined)
 # as we match a combine based on content of the BSD 3-Clause we use this as category
 category: BSD+GPL
-shortName: BSD-alike-OR-GPL-?
+shortName: BSD-?-OR-GPL-?
 
 canonicalNameHistory:
   - "BSD alike + GNU General Public License (undefined) 002"

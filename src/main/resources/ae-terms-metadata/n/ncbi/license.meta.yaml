@@ -5,6 +5,8 @@ spdxIdentifier: NCBI-PD
 otherIds:
   - "scancode:ncbi"
 
+classification: public domain
+
 alternativeNames:
   - "NCBI Public Domain Notice"
   - "NCBI-PD"

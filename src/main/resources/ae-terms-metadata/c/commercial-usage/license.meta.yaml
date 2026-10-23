@@ -2,6 +2,8 @@ canonicalName: Qt Commercial License Usage
 category: Commercial License Usage
 shortName: Commercial-Usage
 
+classification: commercial
+
 otherIds:
   - "scancode:digia-qt-commercial"
 

@@ -1,3 +1,4 @@
+# FIXME-DISCUSS: is this variant eligible
 canonicalName: Sendmail License 8.23 (variant 001)
 category: Sendmail
 shortName: Sendmail-8.23-var001
@@ -11,7 +12,6 @@ otherIds:
   - "scancode:sendmail-8.23"
 
 alternativeNames:
-  - "Sendmail License 8.23"
   - "https://spdx.org/licenses/sendmail-8.23"
 
 evidence:

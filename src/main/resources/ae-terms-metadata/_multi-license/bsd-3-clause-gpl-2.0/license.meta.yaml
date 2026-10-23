@@ -1,6 +1,6 @@
 canonicalName: BSD 3-Clause License + GNU General Public License 2.0
-category: BSD-GPL
-shortName: BSD-3-Clause-GPL-2.0
+category: BSD+GPL
+shortName: BSD-3-Clause-OR-GPL-2.0
 
 type: expression
 

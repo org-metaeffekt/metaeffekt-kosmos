@@ -1,0 +1,14 @@
+canonicalName: Informatica License
+category: Informatica License
+spdxIdentifier: Informatica
+
+alternativeNames:
+  - "Informatica License"
+
+evidence:
+  matches:
+    - "Redistribution and use in source and binary forms, with or without modification, are permitted without restriction"
+    - "INFORMATICA DOES NOT WARRANT THAT USE OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE"
+    - "INFORMATICA SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO LICENSEE FOR LOST PROFITS, CONSEQUENTIAL, INCIDENTAL,
+       SPECIAL OR INDIRECT DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREUNDER,
+       EVEN IF INFORMATICA HAS BEEN APPRISED OF THE LIKELIHOOD OF SUCH DAMAGES"

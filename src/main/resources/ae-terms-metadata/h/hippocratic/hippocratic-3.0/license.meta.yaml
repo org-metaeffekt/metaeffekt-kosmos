@@ -1,5 +1,6 @@
 canonicalName: Hippocratic License 3.0
 category: Hippocratic
+spdxIdentifier: Hippocratic-3.0-core
 shortName: Hippocratic-3.0
 
 otherIds:
@@ -11,6 +12,9 @@ alternativeNames:
   - "Hippocratic License Version 3.0"
   - "Hippocratic License version 3.0"
   - "HIPPOCRATIC LICENSE Version 3.0"
+  - "Hippocratic License 3.0 (core)"
+  - "Hippocratic-3.0-core"
+  - "https://firstdonoharm.dev/version/3/0/core.txt"
 
 evidence:
   matches:

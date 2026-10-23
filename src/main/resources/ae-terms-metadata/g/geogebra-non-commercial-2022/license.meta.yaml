@@ -2,6 +2,8 @@ canonicalName: GeoGebra Non-Commercial License Agreement 2022
 category: GeoGebra Non-Commercial
 shortName: GeoGebra-NC-2022
 
+classification: non-commercial
+
 otherIds:
   - "scancode:geogebra-ncla-2022"
 
@@ -11,7 +13,7 @@ alternativeNames:
 
 expectedMatches:
   - "Creative Commons BY-NC-SA 3.0"
-  - "GNU General Public License (undefined)"
+  - "GNU General Public License 3.0 (or any later version)"
 
 evidence:
   matches:

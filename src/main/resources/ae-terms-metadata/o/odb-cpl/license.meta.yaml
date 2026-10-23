@@ -2,6 +2,8 @@ canonicalName: ODB Commercial Proprietary License (CPL)
 category: ODB-CPL
 shortName: odb-cpl
 
+classification: commercial
+
 otherIds:
   - "scancode:odb-cpl"
 

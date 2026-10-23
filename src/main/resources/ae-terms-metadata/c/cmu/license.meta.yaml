@@ -4,7 +4,7 @@ spdxIdentifier: MIT-CMU
 
 otherIds:
   - "scancode:cmu-uc"
-  - "osi-deprecated:cmu-license"
+  - "osi:MIT-CMU"
 
 expectedSpdxMatches:
   - "CMU License (copyright holder variant)"

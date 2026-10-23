@@ -1,7 +1,9 @@
-# FIXME-IMPLEMENT: change to XPP License; adjust category
-canonicalName: xpp License
-category: xpp
+canonicalName: XPP License
+category: XPP
 spdxIdentifier: xpp
+
+canonicalNameHistory:
+  - "xpp License"
 
 alternativeNames:
   - "xpp License"

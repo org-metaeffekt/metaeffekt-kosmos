@@ -5,6 +5,7 @@ shortName: GPL-1.0+
 
 otherIds:
   - "scancode:gpl-1.0-plus"
+  - "osi:GPL-1.0"
 
 defaultSourceCategory: annex
 

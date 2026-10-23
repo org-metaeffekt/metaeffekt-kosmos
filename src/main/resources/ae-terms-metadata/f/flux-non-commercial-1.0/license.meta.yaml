@@ -2,6 +2,8 @@ canonicalName: FLUX Non-Commercial License 1.0
 category: FLUX Non-Commercial
 shortName: FLUX-1-NC
 
+classification: non-commercial
+
 otherIds:
   - "scancode:flux-1-nc"
 
@@ -39,3 +41,13 @@ evidence:
     - "You are solely responsible for the Outputs you generate and their subsequent uses in accordance with this License"
     - "You may use Output for any purpose (including for commercial purposes), except as expressly prohibited herein"
     - "You may not use the Output to train, fine-tune or distill a model that is competitive with the FLUX.1 [dev] Model"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "You may not use the Output to train, fine-tune or distill a model that is competitive with the FLUX.1 [dev] Model.",
+      matchNext:
+        "Distribution. Subject to this License, you may Distribute copies of"
+    },
+]

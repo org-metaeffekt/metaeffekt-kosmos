@@ -27,3 +27,5 @@ evidence:
        and the date of any change. For modified versions of the FDK AAC Codec, the term
        'Fraunhofer FDK AAC Codec Library for Android' must be replaced by the term
        'Third-Party Modified Version of the Fraunhofer FDK AAC Codec Library for Android.'"
+  excludes:
+    - "This license is very similar to FDK-AAC, but different language around patent licensing"

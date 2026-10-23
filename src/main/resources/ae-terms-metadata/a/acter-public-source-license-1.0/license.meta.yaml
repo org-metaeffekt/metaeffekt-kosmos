@@ -29,6 +29,9 @@ evidence:
        commercial license from the Licensor"
     - "All copies of the original and modified Licensed Work, and derivative works
        of the Licensed Work, are subject to this License"
+  excludes:
+    - "In consideration of the right to use this License’s text and the 'Business Source License' name and trademark, 
+       Licensor covenants to MariaDB, and to all other recipients of the licensed work to be provided by Licensor"
 
 segmentation:
   revert: [

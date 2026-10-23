@@ -18,6 +18,7 @@ alternativeNames:
   - "Sun BSD-Style with Nuclear Restrictions"
   - "BSD 3-Clause No Nuclear License"
   - "BSD 3 Clause No Nuclear License"
+  - "BSD-3-Clause-No-Nuclear-License"
 
 expectedSpdxMatches:
   - "BSD 3-Clause License (no nuclear use; disclaimer variant; copyright holder variant)"

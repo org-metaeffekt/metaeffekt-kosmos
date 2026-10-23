@@ -1,3 +1,4 @@
+# FIXME-DISCUSS: declaration not a license
 canonicalName: Samba Developer's Declaration 1.0
 category: Samba Developer's Declaration
 shortName: Samba-DC-1.0
@@ -6,14 +7,14 @@ otherIds:
   - "scancode:samba-dc-1.0"
 
 alternativeNames:
-  - "\\\"Samba Developer's Declaration, Version 1.0\\\""
   - "Samba Developer's Declaration, Version 1.0"
   - "Samba Developer's Declaration 1.0"
   - "Samba Developer's Declaration v1.0"
   - "samba-dc-1.0"
   - "Samba-DC-1.0"
-  - "http://www.gnu.org/licenses/gpl-3.0.html"
-  - "http://www.gnu.org/licenses/lgpl-3.0.html"
+
+expectedMatches:
+  - "GNU Lesser General Public License 3.0 (or any later version) + GNU General Public License 3.0 (or any later version)"
 
 evidence:
   matches:
@@ -42,13 +43,24 @@ evidence:
        version"
 
 references:
+references:
   "GPL":
     matches:
-      - "I have the right to submit it under the appropriate
-         version of the GNU General Public License"
+      - "I am granting this work to this project under the terms of both
+         the GNU General Public License and the GNU Lesser General Public
+         License as published by the Free Software Foundation; either version
+         3 of these Licenses, or (at the option of the project) any later
+         version.
 
+         http://www.gnu.org/licenses/gpl-3.0.html
+         http://www.gnu.org/licenses/lgpl-3.0.html"
   "LesserGPL":
     matches:
       - "I am granting this work to this project under the terms of both
          the GNU General Public License and the GNU Lesser General Public
-         License as published by the Free Software Foundation"
+         License as published by the Free Software Foundation; either version
+         3 of these Licenses, or (at the option of the project) any later
+         version.
+
+         http://www.gnu.org/licenses/gpl-3.0.html
+         http://www.gnu.org/licenses/lgpl-3.0.html"

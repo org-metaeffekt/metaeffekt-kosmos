@@ -17,8 +17,6 @@ alternativeNames:
   - "OFL-1.1"
   - "SIL OPEN FONT LICENSE Version 1.1"
   - "SIL Open Font License, Version 1.1"
-  - "SIL Open Font License, v1.1"
-  - "SIL Open Font License, V1.1"
   - "SIL Open Font License v1.1"
   - "SIL Open Font License V1.1"
 
@@ -30,16 +28,14 @@ evidence:
        of the Font Software, to use, study, copy, merge, embed, modify, redistribute,
        and sell modified and unmodified copies of the Font Software, subject to the
        following conditions"
+    - "Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself"
+    - "No Modified Version of the Font Software may use the Reserved Font Name(s)
+      unless explicit written permission is granted by the corresponding Copyright Holder"
     - "The Font Software, modified or unmodified, in part or in whole, must be
        distributed entirely under this license, and must not be distributed under
        any other license"
     - "The requirement for fonts to remain under this license does not apply to any document
        created using the Font Software"
-  excludes:
-    - "The identifier OFL-1.1-RFN should only be used when a Reserved Font Name applies"
-    - "with Reserved Font Name <additional Reserved Font Name>"
-    - "This Font Software is licensed under the SIL Open Font License, Version 1.1.
-       with no Reserved Font Name for this Font Software"
 
 references:
   "OFL":

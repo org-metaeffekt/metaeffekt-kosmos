@@ -4,11 +4,15 @@ spdxIdentifier: AAL
 
 otherIds:
   - "scancode:attribution"
-  - "osi:attribution"
+  - "osi:aal"
   - "osi-deprecated:attribution"
 
 alternativeNames:
   - "Attribution Assurance License"
+  - "AAL-ClipBucket"
+  - "Attribution Assurance License (ClipBucket)"
+  - "AAL-Project-Camp"
+  - "Attribution Assurance License (Project Camp)"
 
 evidence:
   matches:

@@ -11,13 +11,17 @@ requiresCopyright: false
 
 alternativeNames:
   - "ISO Permission"
-  - "International Organization for Standardization SGML"
+  - "ISO License"
+  # Too unspecific:
+  # - "International Organization for Standardization SGML"
   - "ISO SGML License"
   - "ISO-SGML-License"
+  - "ISO-SGML License"
   - "ISO permission notice"
-  - "ISO 8879"
-  - "ISO License"
-  - "ISO-8879"
+  - "ISO 8879 License"
+  - "ISO 8879 Permission"
+  - "ISO-8879 License"
+  - "ISO-8879 Permission"
 
 evidence:
   matches:

@@ -1,0 +1,24 @@
+canonicalName: Non-Commercial Government License
+category: Non-Commercial Government
+spdxIdentifier: NCGL-UK-2.0
+shortName: Non-Commercial-Government
+
+classification: non-commercial
+
+otherIds:
+  - "scancode:ncgl-uk-2.0"
+
+canonicalNameHistory:
+  - "Non-Commercial Government Licence"
+
+alternativeNames:
+  - "Non-Commercial Government Licence"
+  - "Non-Commercial Government Licence v2.0"
+
+evidence:
+  matches:
+    - "copy, publish, distribute and transmit the Information"
+    - "exercise any of the rights granted to you by this licence in any manner that is primarily
+       intended for or directed toward commercial advantage or private monetary compensation"
+    - "The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use
+       the Information for Non-Commercial purposes only subject to the conditions below"

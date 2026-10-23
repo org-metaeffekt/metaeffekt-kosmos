@@ -1,0 +1,27 @@
+canonicalName: Generic amiwm License
+category: Generic amiwm
+shortName: Generic-amiwm
+
+alternativeNames:
+  - "Generic-amiwm"
+  - "generic-amiwm"
+  - "Generic amiwm License"
+  - "Generic AmiWm License"
+  - "Generic-AmiWm"
+
+otherIds:
+  - "scancode:generic-amiwm"
+
+evidence:
+  matches:
+    - "Permission to copy and distribute amiwm in its entirety, for non-commercial purposes, is hereby granted without 
+       fee, provided that this license information and copyright notice appear in all copies"
+    - "You may distribute binaries built from the unmodified amiwm sources, for non-commercial purposes, 
+       provided that the entire amiwm source distribution is also included, as per the preceding paragraph"
+    - "You may distribute amiwm as a component of an aggregate software distribution, provided that no other condition 
+       of this license is violated"
+    - "In particular, the entire amiwm distribution must be included in the aggregate software distribution"
+    - "The software may be modified for your own purposes, but modified versions may not be distributed without 
+       prior consent of the author"
+    - "You may freely distribute patches against the unmodified source code"
+

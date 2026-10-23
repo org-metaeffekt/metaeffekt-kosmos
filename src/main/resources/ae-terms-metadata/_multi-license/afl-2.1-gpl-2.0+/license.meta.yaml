@@ -1,6 +1,8 @@
 canonicalName: Academic Free License 2.1 + GNU General Public License 2.0 (or any later version)
 category: AFL+GPL
-shortName: AFL-2.1-GPL-2.0+
+shortName: AFL-2.1-OR-GPL-2.0+
+
+# FIXME-IMPLEMENT: check convention for modelling of multi-licenses: either-or licenses and licenses where 2 or more licenses apply at the same time - how to differentiate the two logically?
 
 type: expression
 

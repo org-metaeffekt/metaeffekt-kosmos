@@ -2,6 +2,8 @@ canonicalName: EXAONE AI Model License Agreement 1.1 (NC)
 category: EXAONE AI Model License Agreement
 shortName: EXAONE-AI-Model-1.1-NC
 
+# source: https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B/blob/main/LICENSE
+
 otherIds:
   - "scancode:exaone-ai-model-1.1-nc"
 
@@ -59,3 +61,7 @@ evidence:
        emotional, or financial, to individuals, organizations, or communities"
     - "The Licensee shall take all reasonable measures to prevent misuse or abuse of the Model and Derivatives that
        could result in harm or injury"
+    # NOTE: unique to this version:
+    - "This includes 
+        evaluation, testing, academic research, experimentation, and participation in competitions, provided 
+        that such participation is in a non-commercial context"

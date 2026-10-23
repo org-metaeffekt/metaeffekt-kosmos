@@ -11,11 +11,8 @@ evidence:
     - "After the Change Date, this Business Source License will convert to the Change License and your use of the Software, including modified versions of the Software, will be governed by such Change License"
     - "You must conspicuously display this Business Source License on each original or modified copy of the Software"
   excludes:
-    - "Effective on the Change Date, or the fourth anniversary of the first publicly
-       available distribution of a specific version of the Licensed Work under this
-       License, whichever comes first, the Licensor hereby grants you rights under the
-       terms of the Change License, and the rights granted in the paragraph above
-       terminate"
+    - "Hosting or using the Licensed Work(s) for internal purposes within an organization is not considered 
+       a competitive offering"
 
 references:
   "GPL":

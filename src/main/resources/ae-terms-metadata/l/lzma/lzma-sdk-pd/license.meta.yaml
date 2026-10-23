@@ -5,6 +5,8 @@ shortName: LZMA-SDK-PD
 otherIds:
   - "scancode:lzma-sdk-pd"
 
+classification: public domain
+
 alternativeNames:
   - "LZMA SDK is written and placed in the public domain by Igor Pavlov"
 

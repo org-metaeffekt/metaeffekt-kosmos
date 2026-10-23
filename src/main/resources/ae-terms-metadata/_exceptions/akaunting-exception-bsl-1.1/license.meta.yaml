@@ -21,6 +21,8 @@ evidence:
     - "Remove the name, logo, copyright, or other branding material from the Licensed Work to create a \"rebranded\" or \"white labeled\"
        version to distribute as part of any commercial or non-profit product or service"
     - "Use the Licensed Work for an Accounting Service"
+  excludes:
+    - "**Licensor:** NetTantra Technologies (India) Private Limited"
 
 references:
   "GPL":

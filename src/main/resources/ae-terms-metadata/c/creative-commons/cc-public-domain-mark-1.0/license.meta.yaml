@@ -2,6 +2,8 @@ canonicalName: Creative Commons Public Domain Mark 1.0
 category: CC-PDM
 spdxIdentifier: CC-PDM-1.0
 
+classification: public domain
+
 alternativeNames:
   - "Public Domain Mark 1.0"
   - "http://creativecommons.org/publicdomain/mark/1.0/"

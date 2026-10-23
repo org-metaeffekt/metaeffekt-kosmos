@@ -46,6 +46,8 @@ evidence:
       - "software is provided 'as is' with no explicit or implied warranties
          in respect of*{.{0,10}}* properties, including, but not limited to, correctness
          and*{.{0,3}}* fitness for purpose"
+  excludes:
+      - "This license is similar to Brian-Gladman-3-Clause but omits the clause about alternative licensing"
 
 mappings:
   "explcit": "explicit"

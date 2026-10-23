@@ -1,0 +1,22 @@
+canonicalName: MGB BrainIAC Research-Only License 2026
+category: MGB BrainIAC Research-Only
+shortName: MGB-BrainIAC-NC-2026
+
+otherIds:
+  - "scancode:mgb-brainiac-nc-2026"
+
+
+alternativeNames:
+  - "MGB BrainIAC Research-Only License 2026"
+  - "MGB BrainIAC Research-Only"
+  - "mgb-brainiac-nc-2026"
+  - "MGB-BrainIAC-NC-2026"
+
+evidence:
+  matches:
+    - "Use in products, services, or platforms offered for a fee or other commercial advantage"
+    - "Use in clinical workflows, decision support systems, or healthcare operations"
+    - "Use by for-profit entities for internal or external commercial purposes"
+    - "Redistribution or deployment of the Software or derived works as part of a commercial offering"
+    - "The Software may not be sublicensed, sold, leased, or otherwise transferred for commercial purposes 
+       without prior written authorization from Mass General Brigham"

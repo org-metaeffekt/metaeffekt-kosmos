@@ -1,0 +1,21 @@
+canonicalName: BSD 3-Clause License (without binary clause; no disclaimer)
+category: BSD
+spdxIdentifier: BSD-Source-Code-no-disclaimer
+shortName: BSD-Source-Code-Attribution-no-disclaimer
+
+alternativeNames:
+  - "BSD 3-Clause License (without binary clause; no disclaimer)"
+  - "BSD-Source-Code-no-disclaimer"
+  - "BSD-Source-Code-Attribution-no-disclaimer"
+
+ignore: true
+
+expectedMatches:
+  - "BSD 3-Clause License (without binary clause; variant 003)"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain the above copyright notice and this list
+       of conditions, without modification"
+    - "The name of the author may not be used to endorse or promote products derived from
+       this software without specific prior written permission"

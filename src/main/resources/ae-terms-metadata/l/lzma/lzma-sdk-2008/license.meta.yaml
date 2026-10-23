@@ -5,13 +5,13 @@ shortName: LZMA-SDK-2008
 otherIds:
   - "scancode:lzma-sdk-2008"
 
+# expectedMatches verified on 28.07.2027
 expectedMatches:
+# NOTE: files are only licensed under those 2 licenses, rest are licensing options:
   - "Public Domain"
-  - "CDDL 1.0"
-  - "Common Public License (undefined)"
   - "LZMA SDK Version Exception"
   # FIXME-KKL: this is not precise; "GNU Lesser General Public License (undefined)" is sufficient
-  - "GNU Lesser or Library General Public License (undefined)"
+#  - "GNU Lesser or Library General Public License (undefined)"
 #  - "GNU Lesser General Public License (undefined)"
 
 # FIXME-KKL: evaluate whether this is correctly modelled
@@ -53,6 +53,25 @@ evidence:
 #        - \"Free software licenses\" at http://www.gnu.org/
 #        - \"OSI-approved\" at http://www.opensource.org/"
 
+references:
+  "LGPL":
+    matches:
+      - "LZMA SDK is available under any of the following licenses:
+         1) GNU Lesser General Public License (GNU LGPL)
+         2) Common Public License (CPL)
+         3) Common Development and Distribution License (CDDL) Version 1.0 
+         4) Simplified license for unmodified code (read SPECIAL EXCEPTION)"
+  "CDDL":
+    matches:
+      - "LZMA SDK is available under any of the following licenses:
+         1) GNU Lesser General Public License (GNU LGPL)
+         2) Common Public License (CPL)
+         3) Common Development and Distribution License (CDDL) Version 1.0 
+         4) Simplified license for unmodified code (read SPECIAL EXCEPTION) "
+      - "You should have received a copy of the Common Public License
+        along with this library.
+        You should have received a copy of the Common Development and Distribution 
+        License Version 1.0 along with this library."
 
 segmentation:
   revert: [

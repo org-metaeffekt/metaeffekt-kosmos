@@ -8,6 +8,9 @@ ignore: true
 otherIds:
   - "scancode:lzma-sdk-original"
 
+alternativeNames:
+  - "LZMA SDK Original"
+
 expectedMatches:
   - "LZMA SDK Proprietary License"
   - "LZMA SDK Linking Exception"

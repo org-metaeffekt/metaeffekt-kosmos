@@ -74,7 +74,6 @@ alternativeNames:
   - "GNU GPL License, Version 2.0"
   - "GNU General Public License, Version 2 (GPLv2)"
   - "GNU General Public License, version 2.0"
-  - "GPL v2+"
   - "GPL 2.0"
   - "GPL-2.0"
   - "GPLv2 "
@@ -124,6 +123,12 @@ alternativeNames:
   - "GNU General Public License (v2)"
   - "GNU 通用公共许可证 v.2"
   - "GNU General Public License v2.0 only"
+  - "http://www.gnu.org/licenses/old-licenses/gpl-2.0" # representative for urls with different suffix
+  - "http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt"
+  - "https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt"
+  - "http://www.gnu.org/licenses/gpl-2.0" # representative for urls with different suffix
+  - "http://www.gnu.org/licenses/gpl-2.0.txt"
+  - "https://www.gnu.org/licenses/gpl-2.0.txt"
 
 evidence:
   matches:
@@ -167,6 +172,7 @@ evidence:
        must offer an equivalent opportunity for all users interacting with your Program
        through a computer network to request immediate transmission by HTTP of the
        complete source code of your modified version or other derivative work." # AGPL
+    - "socat is distributed under the terms of the GNU GPLv2"
 
 references:
   "LesserGPL":

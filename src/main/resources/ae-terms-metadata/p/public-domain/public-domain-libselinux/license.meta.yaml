@@ -8,6 +8,8 @@ canonicalNameHistory:
 otherIds:
   - "scancode:libselinux-pd"
 
+classification: public domain
+
 alternativeNames:
   - "libselinux License"
 

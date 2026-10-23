@@ -1,6 +1,6 @@
-canonicalName: Apache Due Credit Variant
+canonicalName: Apache License (Due Credit)
 category: Apache Due Credit
-shortName: apache-due-credit
+shortName: Apache-Due-Credit
 
 deprecated: true
 
@@ -25,5 +25,3 @@ evidence:
        'Author' appear in their names without prior written permission of Author"
     - "Product is a registered trademark of Author"
     - "Due credit should be given to Author"
-  excludes:
-    - "For written permission, please contact dom4j-info@metastuff.com."

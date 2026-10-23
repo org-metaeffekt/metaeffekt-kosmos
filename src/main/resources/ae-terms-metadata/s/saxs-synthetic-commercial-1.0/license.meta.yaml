@@ -1,0 +1,37 @@
+canonicalName: SAXS Synthetic Dataset Commercial Restricted License 1.0
+category: SAXS Synthetic Dataset Commercial Restricted License
+shortName: SAXS-Synthetic-Commercial-1.0
+
+otherIds:
+  - "scancode:saxs-synthetic-commercial-1.0"
+
+
+alternativeNames:
+  - "SAXS Synthetic Dataset Commercial Restricted License v1.0"
+  - "saxs-synthetic-commercial-1.0"
+  - "SAXS Synthetic Dataset Commercial Restricted License 1.0"
+  - "SAXS Synthetic Dataset Commercial Restricted License"
+
+evidence:
+  matches:
+    - "Use the Dataset for both Non-Commercial and Commercial purposes"
+    - "Train machine learning models using the Dataset"
+    - "Use trained models in commercial products and services"
+    - "Reference the Dataset in academic and commercial publications"
+    - "Any breach of the terms of this license automatically terminates the Licensee's rights under this license"
+    - "Upon termination, the Licensee must destroy all copies of the Dataset in their possession"
+
+segmentation:
+  revert: [
+    {
+      match: "2. FREE TIER (Sample — Hugging Face)",
+      matchNext: "The free sample distributed on Hugging Face is granted under the following terms"
+    },
+    {
+      match: "Reference the Dataset in academic and commercial publications (with attribution, see Section 2).",
+      matchNext: "The following restrictions apply regardless of tier"
+    }
+  ]
+
+
+

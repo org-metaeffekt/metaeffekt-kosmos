@@ -1,5 +1,5 @@
 canonicalName: MIT License + GNU General Public License 2.0 (or any later version)
-category: MIT-GPL
+category: MIT+GPL
 shortName: MIT-GPL-2.0+
 
 type: expression
@@ -10,3 +10,8 @@ alternativeNames:
 combinedWith:
   "MIT License": MIT License + GNU General Public License 2.0 (or any later version)
   "GNU General Public License 2.0 (or any later version)": MIT License + GNU General Public License 2.0 (or any later version)
+
+evidence:
+  matches:
+    - "This file is dual licensed under the terms of the MIT license <https://opensource.org/license/MIT>, and 
+       GPL version 2 or later <http://www.gnu.org/licenses/gpl-2.0.html>."

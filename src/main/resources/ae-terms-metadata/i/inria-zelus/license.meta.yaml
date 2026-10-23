@@ -5,6 +5,8 @@ shortName: INRIA-Zelus
 otherIds:
   - "scancode:inria-zelus"
 
+classification: non-commercial
+
 alternativeNames:
   - "INRIA Non-Commercial License Agreement for the Zélus compiler"
   - "INRIA Non-Commercial License Agreement (Zélus compiler)"

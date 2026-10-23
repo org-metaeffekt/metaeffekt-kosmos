@@ -17,3 +17,13 @@ evidence:
        found at http://www.adobe.com/go/thirdparty"
     - "Such other terms and conditions will supersede all or portions of this agreement in the
        event of a conflict with the terms and conditions of this agreement"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "For information on licensing Adobe Runtimes for distribution on such systems please visit http://www.adobe.com/go/licensing.",
+      matchNext:
+        "4.1.1 AVC Video Restrictions"
+    },
+]

@@ -2,13 +2,14 @@ canonicalName: MIT Kerberos License
 category: MIT
 shortName: MIT-Kerberos
 
-# FIXME-IMPLEMENT: change category to Kerberos
+# FIXME-DISCUSS: How to handle this: This is not a full Kerberos license, neither a "MIT License".
+# The license is released by the "MIT" - Massachusetts Institute of Technology
+# keeping just "MIT.... License" as canonicalName seems misleading and might cause confusion.
+# There is no good indication on how to properly name this license, except that it war released by the MIT.
+# rename to "Permission Terms (Massachusetts Institute of Technology)" or something else...?
 
 alternativeNames:
   - "MIT Kerberos License"
-
-# FIXME-IMPLEMENT: remove; this is not an MIT License
-representedAs: MIT License
 
 evidence:
   matches:

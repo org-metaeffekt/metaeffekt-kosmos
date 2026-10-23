@@ -5,6 +5,8 @@ spdxIdentifier: NTIA-PD
 otherIds:
   - "scancode:ntia-pd"
 
+classification: public domain
+
 alternativeNames:
   - "NTIA Public Domain Notice"
   - "https://raw.githubusercontent.com/NTIA/itm/refs/heads/master/LICENSE.md"

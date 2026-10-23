@@ -1,6 +1,11 @@
 canonicalName: Matrix Template Library License
-category: MTLL
+category: Matrix
 spdxIdentifier: MTLL
+shortName: Matrix-Template-Library
+
+# FIXME-DISCUSS: keep the naming as is or rename to "MTL License" or similar?
+# NKR: I think we should keep it as is.
+# See license source: https://fedoraproject.org/wiki/Licensing/Matrix_Template_Library_License
 
 canonicalNameHistory:
   - "MTLL"
@@ -12,6 +17,8 @@ alternativeNames:
   - "MTL License"
   - "MTL LICENSE"
   - "Software License for MTL"
+  - "License: Matrix Template Library"
+  - "licensed under Matrix Template Library"
 
 evidence:
   matches:

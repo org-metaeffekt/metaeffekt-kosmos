@@ -65,6 +65,8 @@ alternativeNames:
   - "LGPL v2.1"
   - "LGPL v2.1 license"
   - "LGPL-2.1"
+  - "lgpl 2.1"
+  - "lgpl-2.1"
   - "LGPL2.1"
   - "LGPLv2.1"
   - "lgpl_v2_1"
@@ -87,6 +89,7 @@ alternativeNames:
   - "GNU Lesser General Public License Version 2 as published by the Free Software Foundation"
   - "https://gugs.sindominio.net/licencias/lgpl-es.html"
   - "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"
+  - "https://www.gnu.org/licenses/old-licenses/lgpl-2.1" # representative for urls with different suffix
   - "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.dbk"
   - "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.md"
   - "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.odt"
@@ -103,6 +106,12 @@ alternativeNames:
   - "GNU Lesser General Public License v2.1 only" # identification purposes
   - "Lesser General Public License version 2.1"
   - "Lesser General Public License Version 2.1"
+  - "http://www.gnu.org/licenses/old-licenses/lgpl-2.1" # representative url for multiple suffixes
+  - "http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt"
+  - "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt"
+  - "http://www.gnu.org/licenses/lgpl-2.1" # representative url for multiple suffixes
+  - "http://www.gnu.org/licenses/lgpl-2.1.txt"
+  - "https://www.gnu.org/licenses/lgpl-2.1.txt"
 
 evidence:
   matches:

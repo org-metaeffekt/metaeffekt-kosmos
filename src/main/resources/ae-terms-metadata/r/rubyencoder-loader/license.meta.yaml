@@ -1,12 +1,16 @@
-canonicalName: RubyEncoder Loader Licence
-category: RubyEncoder Loader Licence
+canonicalName: RubyEncoder Loader License
+category: RubyEncoder
 shortName: RubyEncoder-Loader
 
 otherIds:
   - "scancode:rubyencoder-loader"
 
+canonicalNameHistory:
+  - "RubyEncoder Loader Licence"
+
 alternativeNames:
   - "RUBYENCODER LOADER LICENCE"
+  - "RubyEncoder Loader Licence"
 
 evidence:
   matches:

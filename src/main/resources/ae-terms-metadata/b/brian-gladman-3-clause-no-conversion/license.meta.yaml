@@ -1,0 +1,17 @@
+canonicalName: Brian Gladman 3-Clause License (no conversion clause)
+category: Brian Gladman 3-Clause License (no conversion clause)
+spdxIdentifier: Brian-Gladman-3-Clause-no-conversion
+
+alternativeNames:
+  - "Brian Gladman 3-Clause License (no conversion clause)"
+  - "Brian-Gladman-3-Clause-no-conversion"
+  - "https://github.com/krb5/krb5/blob/kfw-4.0.1-beta1/src/lib/crypto/builtin/aes/aesopt.h"
+
+evidence:
+  matches:
+    - "This license is similar to Brian-Gladman-3-Clause but omits the clause about alternative licensing"
+    - "The free distribution and use of this software in both source and binary form is allowed (with or without changes)"
+    - "distributions of this source code include the above copyright notice, this list of conditions and the following disclaimer"
+    - "distributions in binary form include the above copyright notice, this list of conditions and the following disclaimer in
+       the documentation and/or other associated materials"
+    - "the copyright holder's name is not used to endorse products built using this software without specific written permission"

@@ -1,6 +1,6 @@
 canonicalName: BSD (undefined) + GNU General Public License 2.0
-category: BSD+GPL2
-shortName: BSD-undefined-OR-GPL-2.0
+category: BSD+GPL
+shortName: BSD-?-OR-GPL-2.0
 
 canonicalNameHistory:
   - "BSD alike + GNU General Public License 2.0"

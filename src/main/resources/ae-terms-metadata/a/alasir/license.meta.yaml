@@ -1,12 +1,16 @@
-canonicalName: Alasir Licence
-category: Alasir Licence
+canonicalName: Alasir License
+category: Alasir
 shortName: Alasir
+
+canonicalNameHistory:
+  - "Alasir Licence"
 
 otherIds:
   - "scancode:alasir"
 
 alternativeNames:
   - "The Alasir Licence"
+  - "Alasir licence"
 
 evidence:
   matches: 

@@ -3,11 +3,13 @@ category: ODC PDDL
 shortName: ODC-PDDL-1.0
 spdxIdentifier: PDDL-1.0
 
-canonicalNameHistory:
-  - "PDDL 1.0"
-
 otherIds:
   - "scancode:pddl-1.0"
+
+classification: public domain
+
+canonicalNameHistory:
+  - "PDDL 1.0"
 
 representedAs: Public Domain
 

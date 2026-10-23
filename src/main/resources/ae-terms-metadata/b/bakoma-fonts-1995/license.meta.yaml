@@ -1,9 +1,12 @@
-canonicalName: BaKoMa Fonts Licence 1995
-category: BaKoMa Fonts Licence
+canonicalName: BaKoMa Fonts License 1995
+category: BaKoMa Fonts
 shortName: BaKoMa-Fonts-1995
 
 otherIds:
   - "scancode:bakoma-fonts-1995"
+
+canonicalNameHistory:
+  - "BaKoMa Fonts Licence 1995"
 
 requiresLicenseText: true
 requiresCopyright: true

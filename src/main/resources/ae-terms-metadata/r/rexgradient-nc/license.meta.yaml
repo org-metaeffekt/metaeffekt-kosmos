@@ -1,0 +1,44 @@
+canonicalName: ReXGradient-160K Non-Commercial Data Access and Use Agreement
+category: ReXGradient-160K Non-Commercial
+shortName: ReXGradient-NC
+
+otherIds:
+  - "scancode:rexgradient-nc"
+
+classification: non-commercial
+
+alternativeNames:
+  - "ReXGradient-160K Non-Commercial Data Access and Use Agreement"
+  - "rexgradient-nc"
+  - "ReXGradient-NC"
+
+evidence:
+  matches:
+    - "YOU will access and use the Data in compliance with all applicable laws, rules, and regulations, 
+       as well as all professional and ethical standards applicable to scientific research and YOUR research project, 
+       including without limitation, all applicable requirements pertaining to human subjects research and
+       animal research"
+    - "YOU agree to establish appropriate administrative, technical, and physical safeguards to prevent 
+       unauthorized use of or access to the Data and comply with any other requirements relating to safeguarding 
+       of the Data that the ReXGradient-160K Data Repository may require from time to time"
+    - "YOU will use the Data only for scientific research purposes and shall not use the Data for any commercial or clinical activities"
+    - "YOU will regularly check the ReXGradient-160K Data Repository for any updates to Data pertinent to 
+       YOUR research project, and will only use the updated version of such Data, and will promptly destroy 
+       all outdated Data in YOUR possession"
+    - "YOU may use the Data for the duration of YOUR research project as allowed under the permitted uses 
+       in Article III of this Agreement"
+    - "Either party may terminate this agreement for any reason at any time, however, 
+       YOUR obligations that by their nature are intended to persist following termination shall remain 
+       in effect even after termination"
+    - "Upon termination, YOU shall immediately cease use of the Data and destroy Data in YOUR possession and,
+       if requested by Harvard, certify to Harvard as to its destruction"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "# ReXGradient-160K Non-Commercial Data Access and Use Agreement",
+      matchNext:
+        "By accessing the ReXGradient-160K Data Repository, as hosted by President and Fellows of Harvard College on behalf of Harvard Medical School"
+    },
+]

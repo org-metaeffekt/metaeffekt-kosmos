@@ -4,7 +4,9 @@ spdxIdentifier: NIST-PD
 
 otherIds:
   - "scancode:nist-pd"
-  
+
+classification: public domain
+
 representedAs: Public Domain
 
 alternativeNames:
@@ -13,26 +15,41 @@ alternativeNames:
   - "NIST Public Domain Notice"
 
 evidence:
-  matches:
-    - "This software was developed by employees of the National Institute of
-       Standards and Technology (NIST)"
-    - "Pursuant to title 15 United States Code Section 105, works of NIST
-       employees are not subject to copyright protection in the United States
-       and are considered to be in the public domain"
-    - "NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED
-       OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF
-       MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT
-       AND DATA ACCURACY"
+  oneOf:
+    - matches:
+      - "This software was developed by employees of the National Institute of
+         Standards and Technology (NIST)"
+      - "Pursuant to title 15 United States Code Section 105, works of NIST
+         employees are not subject to copyright protection in the United States
+         and are considered to be in the public domain"
+      - "NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED
+         OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF
+         MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT
+         AND DATA ACCURACY"
+    - matches:
+      - "This software was developed by employees of the National Institute of
+         Standards and Technology (NIST)"
+      - "Pursuant to title 15 United States Code Section 105, works of NIST
+         employees are not subject to copyright protection in the United States
+         and are considered to be in the public domain"
+      - "NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED
+         OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF
+         MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT
+         AND DATA ACCURACY"
+      - "This software has been contributed to the public domain"
 
 # FIXME-IMPLEMENT: the excluded reference match belongs to a variant; model as oneOf
+# FIXME-DISCUSS: what is meant by that FIXME-IMPLEMENT? Why does anything need to be changed? What exactly should be modelled as oneOf? Shouldn't the category "NIST PD" be a subcategory of "Public Domain"?
+# NKR: The string gets matched by "NIST Public Domain Notice", if it slightly differs the reference does not apply anymore and the regular "Public Domain" matches.
 # FIXME-CONCEPT: how does validation work here? Should we expect a variant to match?
+
 references:
   "Public Domain":
     matches:
       # - "This software has been contributed to the public domain"
       - "works of NIST employees are not subject to copyright protection in the United States and are considered 
          to be in the public domain"
-      
+
 mappings:
   "Pursuant to title 15 Untied States Code Section 105, works of NIST":
     "Pursuant to title 15 United States Code Section 105, works of NIST"

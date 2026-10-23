@@ -1,0 +1,36 @@
+canonicalName: Dokploy Source Available License 1.0
+category: The Dokploy Source Available License
+shortName: Dokploy-SAL-1.0
+
+otherIds:
+  - "scancode:dokploy-dsal-1.0"
+
+canonicalNameHistory:
+  - "The Dokploy Source Available license (DSAL) version 1.0"
+
+alternativeNames:
+  - "The Dokploy Source Available license (DSAL) version 1.0"
+  - "Dokploy Source Available License 1.0"
+  - "The Dokploy Source Available License (DSAL)"
+  - "Dokploy-SAL-1.0"
+
+evidence:
+  matches:
+    - "With regard to the Dokploy Software:This software and associated documentation files (the 'Software') may only
+       beused in production, if you (and any entity that you represent) have agreed to, and are in compliance with, a
+       valid commercial agreement from Dokploy"
+    - "Subject to the foregoing sentence, you are free to modify this Software and publish patches to the Software"
+    - "You agree that Dokploy and/or its licensors (as applicable) retain all right, title and interest in and to all
+       such modifications and/or patches, and all such modifications and/or patches may only be used, copied, modified,
+       displayed, distributed, or otherwise exploited with a valid Dokploy Source Available License"
+    - "Notwithstanding the foregoing, you may copy and modify the Software for development and testing purposes, without
+       requiring a subscription"
+    - "You agree that Dokploy and/or its licensors (as applicable) retain all right, title and interest in and to all
+       such modifications"
+    - "You are not granted any other rights beyond what is expressly stated herein"
+    - "Subject to theforegoing, it is forbidden to copy, merge, publish, distribute, sublicense,and/or sell the Software"
+    - "This Dokploy Source Available license applies only to the part of this Software that is in a /proprietary folder"
+    - "The full text of this License shall be included in all copies or substantial portions of the Software"
+    - "For all third party components incorporated into the Dokploy Software, thosecomponents are licensed under the
+       original license provided by the owner of the applicable component"
+

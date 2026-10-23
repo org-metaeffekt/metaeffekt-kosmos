@@ -1,0 +1,20 @@
+canonicalName: Flexbyte License
+category: Flexbyte License
+shortName: Flexbyte-License
+
+otherIds:
+  - "scancode:flexbyte"
+
+alternativeNames:
+  - "Flexbyte License"
+  - "flexbyte license"
+  - "Flexbyte-License"
+  - "flexbyte-license"
+
+evidence:
+  matches:
+    - "You may use the source code in any product (freeware, commercial, etc.)"
+    - "You may modify the source code as you want except you cannot modify the copyright details
+       at the top of each module"
+    - "If you have a web site or blog give a link to our web site, flexbyte.com"
+

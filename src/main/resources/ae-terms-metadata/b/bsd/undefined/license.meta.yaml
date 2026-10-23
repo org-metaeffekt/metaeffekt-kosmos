@@ -51,10 +51,6 @@ alternativeNames:
   - "Prior BSD License"
   - "SLF4J License (BSD-Style)"
   - "Slf4j License"
-  - "Simplified BSD"
-  - "Simplified BSD License"
-  - "Simplified BSD license"
-  - "Simplified BSD or BSD 2-Clause"
   - "TA-Lib BSD License"
   - "VALJOGen BSD-style license"
   - "WQuery License (BSD-style)"
@@ -107,3 +103,50 @@ masks:
     - "In any case the notes about licensing are never more restrictive than the BSD License"
     - "%define GOT_SYMBOL  __GLOBAL_OFFSET_TABLE_	; BSD-style a.out supports PIC" # bsd-style ref in jsimdext.inc    - "You may include license terms in snippets you post, if you wish to use a particular license
     - "(such as the BSD license or GNU GPL)"
+
+references:
+  "BSD":
+    matches:
+      - "I have a BSD licensed program, can I use the libcurl library?" # CURL FAQ
+      - "BSD ports which may have essential libraries in unusual places"
+      - "Posix systems turn this on only when a BSD variable is"
+      - "Check to see if the BSD-style union wait is declared."
+      - "BSD-like operating systems"
+      - "Keith Bostic (maintainer of 4.4BSD curses) for help, criticism, comments, bug-finding, and being willing to 
+         deep-six BSD curses for this one when it grew up." # NCURSES README
+      - "from 4.0BSD"
+      - "4.0BSD feature"
+      - "The  curses  library  was  first published in 4.0BSD"
+  "GPL": # move this to GPL (undefined)
+    matches:
+      - "I have a GPL program, can I use the libcurl library?" # CURL FAQ
+      - "Since libcurl may be distributed under the MIT/X derivative license, it can be used together with GPL in any software." # CURL FAQ
+      - "Since libcurl may be distributed under the MIT/X derivative license, it can be used together with GPL in any software."
+      - "January: Daniel released curl 7.5.2 under a new license again: MIT (or MPL). The MIT license is extremely liberal and can be combined with GPL
+         in other projects. This would finally put an end to the \"complaints\" from people involved in GPLed projects that previously were prohibited from using
+         libcurl while it was released under MPL only. (Due to the fact that MPL is deemed \"GPL incompatible\".)"
+      - "October: with the curl 4.9 release and the introduction of cookie support, curl was no longer released under 
+         the GPL license. Now we are at 4000 lines of code, we switched over to the MPL license to restrict the effects 
+         of \"copyleft\"."
+  "LGPL": # move this to LGPL (undefined)
+    matches:
+      - "I have a program that uses LGPL libraries, can I use libcurl?" # CURL FAQ
+      - "The LGPL license does not clash with other licenses." # CURL FAQ
+  "MPL":
+    matches:
+      - "January: Daniel released curl 7.5.2 under a new license again: MIT (or MPL). The MIT license is extremely liberal and can be combined with GPL
+         in other projects. This would finally put an end to the \"complaints\" from people involved in GPLed projects that previously were prohibited from using
+         libcurl while it was released under MPL only. (Due to the fact that MPL is deemed \"GPL incompatible\".)"
+      - "October: with the curl 4.9 release and the introduction of cookie support, curl was no longer released under 
+         the GPL license. Now we are at 4000 lines of code, we switched over to the MPL license to restrict the effects 
+         of \"copyleft\"."
+  "MIT":
+    matches:
+      - "curl is released under an [MIT derivative license](https://curl.se/docs/copyright.html). It is similar but not identical to the MIT license."
+      - "curl and libcurl are released under an MIT/X derivative license. The license is liberal and should not impose a problem for your project. This section is a brief summary for the cases we get the most questions."
+      - "Since libcurl may be distributed under the MIT/X derivative license, it can be used together with GPL in any software."
+      - "The MIT/X derivative license practically allows you to do almost anything with the sources, on the condition that the copyright texts in the sources are left intact."
+      - "Next to none. All you need to adhere to is the MIT-style license (stated in the COPYING file) which says you have to include the copyright notice"
+      - "January: Daniel released curl 7.5.2 under a new license again: MIT (or MPL). The MIT license is extremely liberal and can be combined with GPL
+         in other projects. This would finally put an end to the \"complaints\" from people involved in GPLed projects that previously were prohibited from using
+         libcurl while it was released under MPL only. (Due to the fact that MPL is deemed \"GPL incompatible\".)"

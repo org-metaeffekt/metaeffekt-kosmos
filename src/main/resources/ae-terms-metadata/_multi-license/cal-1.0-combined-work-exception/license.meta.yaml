@@ -4,6 +4,7 @@ spdxIdentifier: CAL-1.0-Combined-Work-Exception
 
 otherIds:
   - "scancode:cal-1.0-combined-work-exception"
+  - "osi:CAL-1.0"
 
 # the combined work association makes it an expression
 type: expression

@@ -48,6 +48,5 @@ evidence:
        the Program is available under this Agreement, and inform Recipients how to
        obtain it in a reasonable manner on or through a medium customarily used for
        software exchange"
-  # FIXME-IMPLEMENT: more context
   excludes:
-    - "“Agreement” means this Sonar Source-Available License v1.0.1"
+    - "means this Sonar Source-Available License v1.0.1"

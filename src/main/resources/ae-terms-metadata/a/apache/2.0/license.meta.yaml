@@ -219,6 +219,9 @@ evidence:
        used in conjunction with any product that competes with any Librato software"
     - "You do not sell or otherwise commercialise the Work or Derivative Works as a
       Game Engine Product" # Defold License 1.0
+    - "The tokenizer files in this repository are based on the Llama 2 tokenizer and are not licensed under the Apache License, Version 2.0 above" # Llama 2 Community License Agreement
+    - "Youtu-LLM IS NOT INTENDED FOR USE WITHIN THE EUROPEAN UNION" # Tencent Youtu-LLM License
+    - "Four years after each part first becomes public under this licence, it receives Apache-2.0 permissions"
 
 masks:
   matches:

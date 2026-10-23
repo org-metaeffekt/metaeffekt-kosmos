@@ -8,6 +8,10 @@ otherIds:
 
 type: exception
 
+alternativeNames:
+  - "Autoconf-exception-3.0"
+  - "Autoconf exception 3.0"
+
 canonicalNameHistory:
   - "Autoconf Exception 3.0"
 

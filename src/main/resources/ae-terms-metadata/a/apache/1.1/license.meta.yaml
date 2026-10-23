@@ -1,6 +1,6 @@
 # NOTE: this is identical to a regular BSD-5-Clause, nevertheless we keep the license as is, due to its common use.
 canonicalName: Apache License 1.1
-# FIXME-IMPLEMENT: we could consider this is a category BSD 5-Clause;
+# FIXME-IMPLEMENT: we could consider this as a category BSD 5-Clause;
 #   - add subcategories for bsd (BSD 2-Clause, BSD 3-Clause, ...)
 #   - define subcategories on BSD (undefined)
 category: Apache License

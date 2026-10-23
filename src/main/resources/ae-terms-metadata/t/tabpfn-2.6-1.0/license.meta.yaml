@@ -1,0 +1,43 @@
+canonicalName: TABPFN-2.6 License 1.0
+category: TABPFN-2.6 License
+shortName: TABPFN-2.6-1.0
+
+otherIds:
+  - "scancode:tabpfn-2.6-v1.0"
+
+
+alternativeNames:
+  - "TABPFN-2.6 License v1.0"
+  - "tabpfn-2.6-v1.0"
+  - "TABPFN-2.6 License Version 1.0"
+  - "TABPFN-2.6 License"
+  - "TABPFN-2.6 License V1.0"
+  - "TABPFN-2.6-1.0"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this License, Company grants you a non-exclusive, worldwide, non-transferable, 
+       non-sublicensable, revocable, royalty-free and limited license to access, use, create Derivatives of, 
+       and Distribute the TABPFN-2.6 Model and Derivatives solely for your Non-Commercial Purposes"
+    - "The foregoing license is personal to you, and you may not assign or sublicense this License or any other rights 
+       or obligations under this License without Company’s prior written consent;
+       any such assignment or sublicense will be void and will automatically and immediately terminate this License"
+    - "Any restrictions set forth herein regarding the TABPFN-2.6 Model also apply to any Derivative you create or 
+       that are created on your behalf"
+    - "You may only access, use, Distribute, or create Derivatives of the TABPFN-2.6 Model or Derivatives for
+       Non-Commercial Purposes. If you want to use the TABPFN-2.6 Model or a Derivative for any purpose that is not 
+       expressly authorized under this License, such as for a commercial or production activity, 
+       you must obtain a commercial license from Company, which Company may grant in its sole discretion and
+       which additional use may be subject to a fee, royalty or other revenue share"
+    - "The grant of rights expressly set forth in this License are the complete grant of rights to you in the 
+       TABPFN-2.6 Model, and no other licenses are granted, whether by waiver, estoppel, implication, 
+       equity or otherwise"
+    - "Company and its licensors reserve all rights not expressly granted by this License"
+    - "We claim no ownership rights in and to the Outputs"
+    - "You are solely responsible for the Outputs you generate and their subsequent uses in accordance with this License"
+    - "Outputs may be used only for Non-Commercial Purposes "
+    - "Any use of Outputs in production systems, business processes, commercial research services, client deliverables, 
+       or revenue-generating activities requires a separate commercial license"
+    - "You may not use Outputs to train, fine-tune, or distill a model that is competitive with the TABPFN-2.6 Model"
+
+

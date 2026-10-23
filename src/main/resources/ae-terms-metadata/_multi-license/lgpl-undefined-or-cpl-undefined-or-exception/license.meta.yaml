@@ -1,6 +1,6 @@
 canonicalName: GNU Lesser General Public License (undefined) + Common Public License (undefined) + LZMA SDK Linking Exception + LZMA SDK Version Exception + LZMA SDK Usage Exception
 category: LGPL+CPL+Exceptions
-shortName: LGPL-undefined-OR-CPL-undefined-OR-LZMA-SDK-Linking-Exception-OR-LZMA SDK Version Exception-OR-LZMA SDK Usage Exception
+shortName: LGPL-?-OR-CPL-?-OR-LZMA-SDK-Linking-Exception-OR-LZMA SDK Version Exception-OR-LZMA SDK Usage Exception
 
 type: expression
 

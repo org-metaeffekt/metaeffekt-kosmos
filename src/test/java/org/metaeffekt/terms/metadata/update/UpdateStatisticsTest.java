@@ -93,6 +93,8 @@ public class UpdateStatisticsTest {
         System.out.println("Marker: " + countMarker);
         System.out.println("References: " + countReferences);
         System.out.println("Structural: " + countStructural);
+        System.out.println();
+        System.out.println("Total: " + (countLicenses + countExceptions + countModifiers + countRestrictions));
     }
 
 }

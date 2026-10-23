@@ -142,6 +142,17 @@ evidence:
   - "This patent grant applies solely to the KatLang project (the “Software”) as distributed by the Licensor and to
      derivative works based on that Software"
   - "In addition, the Licensor provides the following patent grant."
+  - "Varuna STT is fine-tuned from NVIDIA NeMo's `nemotron-speech-streaming-en-0.6b` base model"
+  - "Some images were purchased by DataJuggler Software for use in my open source projects"
+  - "Any modified versions or distributions of the Software must include clear attribution to the original project
+     (Socigy.OpenSource.DB)"
+  - "This license applies only to Demodokos Foundry proprietary modifications and derived weights, not to upstream Meta HTDemucs or Ace-Step components licensed under MIT" # Demodokos Foundry Music 4.0 License
+  - "Resonant MIT License (Panperceptual Edition)"
+  - "KaLM-Embedding IS NOT INTENDED FOR USE WITHIN THE EUROPEAN UNION" # Tencent KaLM-Embedding (Gemma)
+  - "The Software shall not be used, directly or indirectly, in the creation of
+    an artificial intelligence, machine learning or language model training
+    dataset, including but not limited to any use that contributes to the
+    training or development of such a model or algorithm" # Reticulum License
 
 mappings:
   "TORT OR OTHERWISE, OUT OF OR IN CONNECTION WITH THENEWLINE-MARKER SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE":

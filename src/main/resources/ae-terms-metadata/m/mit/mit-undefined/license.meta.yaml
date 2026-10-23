@@ -15,7 +15,6 @@ alternativeNames:
   - "Based on The MIT License"
   - "Based on the MIT License"
   - "MIT Java Wordnet Interface License"
-  - "MIT License (MIT)"
   - "MIT like"
   - "MIT like license"
   - "MIT-Style License"
@@ -25,3 +24,15 @@ alternativeNames:
   - "Modified MIT"
   - "Modified MIT License (MIT)"
 
+references:
+  "MIT":
+    matches:
+      - "Florian La Roche (official maintainer for FSF's ncurses 4.2)
+         Beginning with release 4.2, ncurses is distributed under an MIT-style
+         license" # NCURSES README; it is rather an X11 license
+      - "The license has been changed to the MIT-style license used by NCURSES" # NCURSES HTML DOC; it is rather an X11 license
+      - "For every example, I have included path name for the file relative to the examples directory.
+         All the programs are released under the same license that is used by ncurses (MIT-style)" # NCURSES DOC
+      - "To further muddy the waters, it is noted that changes to this file as part of
+         maintenance of ncurses (since 1996) are generally conceded to be copyright
+         under the ncurses MIT-style license." # NCURSES misc

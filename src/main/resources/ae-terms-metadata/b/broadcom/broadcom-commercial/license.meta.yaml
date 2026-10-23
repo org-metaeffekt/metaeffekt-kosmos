@@ -2,6 +2,8 @@ canonicalName: Broadcom Commercial Notice
 category: Broadcom Commercial Notice
 shortName: Broadcom-Commercial
 
+classification: commercial
+
 otherIds:
   - "scancode:broadcom-commercial"
 

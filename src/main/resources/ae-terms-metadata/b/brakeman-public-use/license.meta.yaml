@@ -1,0 +1,29 @@
+canonicalName: Brakeman Public Use License
+category: Brakeman Public Use License
+shortName: Brakeman-Public-Use
+
+otherIds:
+  - "scancode:brakeman-public-use"
+
+alternativeNames:
+  - "brakeman-public-use"
+  - "Brakeman-Public-Use"
+  - "Brakeman Public Use License"
+
+evidence:
+  matches:
+    - "Using the Software to provide commercial managed/Software-as-a-Service services"
+    - "Distributing the Software as a commercial product or as part of one"
+    - "Using the Software as a component of a value-added service/product"
+    - "Synopsys grants Licensee a nonexclusive, nontransferable (except as permitted in this Agreement), limited license
+       to use and modify the Software, subject to the terms and conditions stated in this Agreement, only for the purpose
+       of non-Commercial Use and not for any other purpose"
+    - "Licensee may make copies of the Software to the extent reasonably necessary to exercise the License granted in
+       this Agreement"
+    - "Use the Software for any Commercial Use"
+    - "Remove or modify any trademarks or any copyright notice in the Software; or"
+    - "Assign the License or the Agreement, or distribute, give, or transfer the Software to any third party, except as
+       expressly permitted in this Agreement"
+    - "All rights not expressly granted in this Agreement are reserved by Synopsys"
+    - "Synopsys or its licensors retain all ownership and intellectual property rights to the Software"
+

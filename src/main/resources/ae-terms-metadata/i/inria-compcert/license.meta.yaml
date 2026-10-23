@@ -5,7 +5,7 @@ shortName: INRIA-NC-CompCert
 otherIds:
   - "scancode:inria-compcert"
 
-classification: proprietary free
+classification: non-commercial
 
 alternativeNames:
   - "INRIA Non-Commercial License Agreement for the CompCert verified compiler"

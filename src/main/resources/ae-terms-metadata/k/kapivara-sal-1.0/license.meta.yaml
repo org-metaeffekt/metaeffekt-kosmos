@@ -1,0 +1,26 @@
+canonicalName: Kapivara Source Available License 1.0
+category: Kapivara Source Available License
+shortName: Kapivara-SAL-1.0
+
+otherIds:
+  - "scancode:kapivara-sal-1.0"
+
+alternativeNames:
+  - "Kapivara Source Available License 1.0"
+  - "kapivara-sal-1.0"
+  - "Kapivara-SAL-1.0"
+  - "KAPIVARA SOURCE AVAILABLE LICENSE"
+  - "KAPIVARA SOURCE AVAILABLE LICENSE Version 1.0"
+
+evidence:
+  matches:
+    - "Download the source code and view it"
+    - "Modify the source code for personal, educational, or private use"
+    - "Submit contributions (Pull Requests) to the repository"
+    - "By submitting a contribution, you agree specifically that your contribution is licensed to the project owner
+       (Jose Galdamez) with full rights to use, license, and monetize the contribution"
+    - "Distribute copies of the project for non-commercial purposes only, provided this license file is kept intact"
+    - "The exclusive right to monetize, sell, and profit from this software belongs to the Copyright Holder (Jose Galdamez)"
+    - "Any commercial use by third parties requires a separate, explicit written commercial license agreement from the
+       Copyright Holder"
+

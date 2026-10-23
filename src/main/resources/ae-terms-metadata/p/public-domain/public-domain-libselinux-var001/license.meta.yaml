@@ -10,6 +10,8 @@ canonicalNameHistory:
 otherIds:
   - "scancode:selinux-nsa-declaration-1.0"
 
+classification: public domain
+
 expectedMatches:
   - "Public Domain"
 expectedSpdxMatches:

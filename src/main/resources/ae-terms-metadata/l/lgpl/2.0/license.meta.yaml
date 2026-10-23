@@ -20,8 +20,6 @@ requiresLicenseText: true
 alternativeNames:
   - "GNU Library General Public License, Version 2.0"
   - "GNU LIBRARY GENERAL PUBLIC LICENSE Version 2"
-#  - "GNU LIBRARY GENERAL PUBLIC LICENSE"
-#  - "GNU Library General Public License"
   - "GNU LGPL v2.0"
   - "GNU Lesser GPL 2.0"
   - "GNU Lesser General Public License Version 2.0"
@@ -37,19 +35,26 @@ alternativeNames:
   - "LGPL 2.0 license"
   - "LGPL V.2.0"
   - "LGPL v2.0"
+  - "LGPL 2.0"
   - "LGPL-2.0"
+  - "lgpl 2.0"
+  - "lgpl-2.0"
   - "LGPL-2 [^\\.]"
   - "LGPLv2.0"
   - "^LGPLv2 [^\\.]"
+  - "License: LGPL-2"
   - "GNU Lesser/Library General Public License version 2.0"
   - "GNU Library General Public License, Version 2.0"
   - "made available under the GNU Library General Public License Version 2"
   - "GNU library license version 2"
   - "GNU Lesser/Library General Public License version 2"
   - "GNU Library General Public License Version 2"
+  - "http://www.gnu.org/licenses/old-licenses/lgpl-2.0" # representative for urls with different suffix
   - "http://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt"
   - "https://www.gnu.org/licenses/old-licenses/lgpl-2.0.txt"
-  - "License: LGPL-2"
+  - "http://www.gnu.org/licenses/lgpl-2.0" # representative for urls with different suffix
+  - "http://www.gnu.org/licenses/lgpl-2.0.txt"
+  - "https://www.gnu.org/licenses/lgpl-2.0.txt"
   - "GNU Library General Public License v2 only"
 
 evidence:

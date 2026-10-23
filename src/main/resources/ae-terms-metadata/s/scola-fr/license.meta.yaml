@@ -1,12 +1,19 @@
 canonicalName: Entente de Licence Ouverte de Statistique Canada
-category: Entente de Licence Ouverte de Statistique Canada
-shortName: Scola-fr
+category: Entente Ouverte de Statistique Canada
+shortName: SCOLA-FR
+
+# FIXME-DISCUSS: we need to derive a convention about license naming: If the license is in a different language than English, do we copy the name in the other language or use the English name and add the language in brackets at the end?
+# there are also Chinese licenses where the license name itself is in English but the license text is in Chinese - how to handle those edge cases?
+# option 1: Statistics Canada Open License Agreement (FR)
+# option 2: Entente de License Ouverte de Statistique Canada
 
 otherIds:
   - "scancode:scola-fr"
 
 alternativeNames:
   - "Entente de licence ouverte de Statistique Canada"
+  - "Entente de Licence Ouverte de Statistique Canada"
+  - "Entente de License Ouverte de Statistique Canada"
 
 evidence:
   matches:

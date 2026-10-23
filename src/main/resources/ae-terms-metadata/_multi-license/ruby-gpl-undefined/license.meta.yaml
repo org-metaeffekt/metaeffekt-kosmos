@@ -1,8 +1,13 @@
 canonicalName: Ruby License + GNU General Public License (undefined)
 category: Ruby+GPL
-shortName: Ruby-OR-GPL
+shortName: Ruby-OR-GPL-?
 
 type: expression
 
 alternativeNames:
   - "Ruby Distribute License or GNU General Public License"
+  - "Ruby Distribution License or GNU General Public License"
+
+combinedWith:
+  "GNU General Public License (undefined)": "Ruby License + GNU General Public License (undefined)"
+  "Ruby License": "Ruby License + GNU General Public License (undefined)"

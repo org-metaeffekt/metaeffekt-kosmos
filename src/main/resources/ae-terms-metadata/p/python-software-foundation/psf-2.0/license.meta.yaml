@@ -5,8 +5,10 @@ spdxIdentifier: PSF-2.0
 otherIds:
   - "scancode:psf-2.0"
   - "osi:Python-2.0"
-## FIXME-IMPLEMENT: check whether this correct; osi has confused the licenses in the past
-##  - "osi-deprecated:PSF-2.0"
+  - "osi-deprecated:PSF-2.0"
+# NKR: could not find any official recording of "PSF-2.0" existing in OSI, they may have quietly changed that (not even their api gives any clues).
+# NOTE: it seems like OSI has falsely allocated the ID "PSF-2.0" to a regular "Python-2.0" in the past. OSI ID "PSF-2.0" matches our "Python Software Foundation License 2.0" (most likely)
+# see: https://github.com/spdx/license-list-XML/issues/2197
 
 status:
   - "reviewed 28.01.22"

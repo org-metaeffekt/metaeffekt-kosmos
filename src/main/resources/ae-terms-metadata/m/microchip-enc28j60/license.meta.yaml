@@ -1,6 +1,6 @@
 canonicalName: Microchip ENC28J60 License
 category: Microchip
-shortName: Microchip
+shortName: Microchip-ENC28J60
 
 otherIds:
   - "scancode:microchip-enc28j60-2009"

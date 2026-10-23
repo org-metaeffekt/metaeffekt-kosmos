@@ -58,3 +58,19 @@ evidence:
     - "Any CognitiveWeb Product licensed pursuant to this License is a Licensed Product"
     - "The contents of this file are subject to the Jabber Open Source License Version 1.0 (the License)"
     - "The Motosoto Open Source License is derived from the Jabber Open Source License"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "That term as used in this License is defined under U.S. copyright law. (See Section 1(b))",
+      matchNext:
+        "License: This OSPI License."
+    },
+    {
+      match:
+        "Contributors to any Modifications may add their own copyright notices to identify their own contributions.",
+      matchNext:
+        "License: The contents of this file are subject to the OSPI License Version 1.0"
+    }
+]

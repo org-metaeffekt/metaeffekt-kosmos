@@ -21,4 +21,4 @@ expectedSpdxMatches:
 
 combinedWith:
   "BSD 2-Clause License": "BSD 2-Clause License (with authors view)"
-  "Authors View Marker": "BSD 2-Clause License (with authors view)"
+  "Authors View (detected)": "BSD 2-Clause License (with authors view)"

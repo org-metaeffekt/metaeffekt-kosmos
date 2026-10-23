@@ -8,6 +8,12 @@ alternativeNames:
 otherIds:
   - "scancode:paint-net"
 
+expectedMatches:
+  # .NET UI icons
+  - GNU Lesser General Public License 3.0
+  # FIXME-KKL: should not be necessary; expectation seems not to be the resolved license
+  - GNU Lesser or Library General Public License (undefined)
+
 evidence:
   matches:
     - "Paint.NET is free for use in any environment, including but not necessarily limited to: personal,
@@ -19,8 +25,3 @@ evidence:
        publish, and distribute the Software, and to permit persons to whom the Software is furnished to do so"
     - "You may not modify, adapt, rent, lease, loan, sell, or create derivative works based upon the
        Software or any part thereof"
-
-references:
-  "LGPL":
-    matches:
-      - "These icons are covered by the LGPL license"

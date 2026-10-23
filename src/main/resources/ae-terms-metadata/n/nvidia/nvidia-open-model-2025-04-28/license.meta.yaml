@@ -1,6 +1,9 @@
-canonicalName: NVIDIA Open Model License Agreement 2025-04-28
+canonicalName: NVIDIA Open Model License Agreement (2025-04-28)
 category: NVIDIA Open Model License Agreement
 shortName: NVIDIA-OMLA-2025-04-28
+
+canonicalNameHistory:
+  - "NVIDIA Open Model License Agreement 2025-04-28"
 
 otherIds:
   - "scancode:nvidia-open-model-2025-04-28"
@@ -9,7 +12,6 @@ alternativeNames:
   - "NVIDIA Open Model License Agreement 2025-04-28"
   - "nvidia-open-model-2025-04-28"
   - "NVIDIA-OPEN-MODEL-2025-04-28"
-  - "NVIDIA Open Model License Agreement"
   - "NVIDIA OMLA 2025-04-28"
 
 evidence:
@@ -45,3 +47,12 @@ evidence:
     - "Except as expressly granted in this Agreement, (a) NVIDIA reserves all rights, interests and remedies in
        connection with the Model and (b) no other license or right is granted to you by implication, estoppel or
        otherwise"
+
+segmentation:
+  revert: [
+    { match:
+        "By using, reproducing, modifying, distributing, performing or displaying any portion or element of the Model or Derivative Model, or otherwise accepting the terms of this Agreement, you agree to be bound by this Agreement.",
+      matchNext:
+        "Definitions. The following definitions apply to this Agreement:"
+    }
+  ]

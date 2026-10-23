@@ -56,3 +56,4 @@ evidence:
   excludes:
     - "This Open RAIL-M License was created by BigScience, a collaborative open innovation project aimed at the 
        responsible development and use of large multilingual datasets and Large Language Models"
+    - "If you are using the model or its derivatives through a website/app/etc. in breach of this license, you are not allowed to use the outputs of the model or the outputs of the model's derivatives in any way, both commercial and non-commercial" # Dreamlike Diffusion 1.0 License

@@ -1,0 +1,21 @@
+Copyright (c) 1999 Quicknet Technologies, Inc.  Permission is granted
+to freely copy and distribute this document provided you preserve it
+in its original form. For corrections and minor changes contact the
+maintainer at linux@quicknet.net.
+
+Trademarks
+
+Internet PhoneJACK and Internet LineJACK are registered trademarks of
+Quicknet Technologies, Inc.
+
+Disclaimer
+
+Much of the info in this HOWTO is early information released by
+Quicknet Technologies, Inc. for the express purpose of allowing early
+testing and use of the Linux drivers developed for their products.
+While every attempt has been made to be thorough, complete and
+accurate, the information contained here may be unreliable and there
+are likely a number of errors in this document. Please let the
+maintainer know about them. Since this is free documentation, it
+should be obvious that neither I nor previous authors can be held
+legally responsible for any errors.

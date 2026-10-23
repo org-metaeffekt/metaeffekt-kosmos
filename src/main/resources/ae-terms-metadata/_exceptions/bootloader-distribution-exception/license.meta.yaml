@@ -7,6 +7,7 @@ type: exception
 
 canonicalNameHistory:
   - "Bootloader Distribution Exception"
+  - "Bootloader Distribution Exception to GPL 2.0 or later"
 
 otherIds:
   - "scancode:bootloader-exception"

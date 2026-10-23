@@ -1,4 +1,4 @@
-canonicalName: MirOS Licence
+canonicalName: MirOS License
 category: MirOS
 spdxIdentifier: MirOS
 
@@ -6,6 +6,9 @@ otherIds:
   - "scancode:mir-os"
   - "osi:MirOS"
   - "osi-deprecated:miros-html"
+
+canonicalNameHistory:
+  - "MirOS Licence"
 
 alternativeNames:
   - "MirOS Licence"

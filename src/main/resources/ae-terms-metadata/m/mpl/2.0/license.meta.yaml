@@ -56,8 +56,8 @@ references:
 evidence:
   excludes:
   - "OSET Public License"
-  - "This Source Code Form is \"Incompatible With Secondary Licenses\", as
-               defined by the MVT License, v. 1.1"
+  - "This Source Code Form is \"Incompatible With Secondary Licenses\", as defined by the MVT License, v. 1.1"
+  - "This Source Code Form is subject to the terms of the Lyra Public License, v1.0"
 
 grants:
   Source code delivery:

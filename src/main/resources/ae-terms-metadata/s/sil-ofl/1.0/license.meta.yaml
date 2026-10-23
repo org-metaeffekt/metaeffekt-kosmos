@@ -2,11 +2,11 @@ canonicalName: SIL Open Font License 1.0
 category: OFL
 spdxIdentifier: OFL-1.0
 
-ignoreMatches:
-  - "SIL Open Font License 1.0 (reserved font name)"
-
 otherIds:
   - "scancode:ofl-1.0"
+
+expectedSpdxMatches:
+  - "SIL Open Font License 1.0"
 
 alternativeNames:
   - "OFL, Version 1.0"
@@ -34,7 +34,3 @@ evidence:
     - "The Font Software, modified or unmodified, in part or in whole, must be
        distributed using this license, and may not be distributed under any other
        license"
-  excludes:
-    - "Font Software is licensed under the SIL Open Font License, Version 1.0.
-       with no Reserved Font Name for this Font Software"
-    - "is a Reserved Font Name for this Font Software"

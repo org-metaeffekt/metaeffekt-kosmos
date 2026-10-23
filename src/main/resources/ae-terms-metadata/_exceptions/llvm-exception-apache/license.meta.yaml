@@ -24,7 +24,6 @@ alternativeNames:
   - "LLVM-EXCEPTION"
   - "Apache Exception LLVM"
   - "LLVM Exception to Apache 2.0"
-  - "Apache-2.0-with-LLVM-exception"
 
 references:
   "GPL":

@@ -16,8 +16,8 @@ canonicalNameHistory:
 
 
 combinedWith:
-  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Bison exception 2.2 (GPL))
-  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Bison exception 2.2 (GPL))
+  "GNU General Public License 3.0 (or any later version)": GNU General Public License 3.0 (or any later version; with Bison Exception 2.2 (GPL))
+  "GNU General Public License 2.0 (or any later version)": GNU General Public License 2.0 (or any later version; with Bison Exception 2.2 (GPL))
   "GNU General Public License 2.0": GNU General Public License 2.0 (with Bison Exception 2.2 (GPL))
   "GNU General Public License 3.0": GNU General Public License 3.0 (with Bison Exception 2.2 (GPL))
 

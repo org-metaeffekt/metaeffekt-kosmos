@@ -1,0 +1,29 @@
+canonicalName: Bugroff License
+category: Bugroff License
+spdxIdentifier: Bugroff
+
+alternativeNames:
+  - "Bugroff License"
+  - "The 'No problem Bugroff' license"
+
+evidence:
+  matches:
+    - "Richard Stallman of the Free Software Foundation devised, in addition to some marvelous software, the
+       GNU General Public License (GPL for short)"
+    - "It is quite a revolutionary document, using the 'copyright' tool to to protect your right to use free software"
+    - "Unfortunately using copyright to protect free software is a lot like using a Jackal to guard the hens"
+    - "In fact, various inconveniences relating to this have resulted in modifications such as the LGPL
+       (Library General Public License) and more recently the NPL (Netscape Public License)"
+    - "I call these matters mere inconveniences, the real damage will occur when the Jackal's, (sorry, I mean lawyers),
+       actually get to test the GPL in court for the first time"
+
+references:
+  "GPL":
+    matches:
+      - "Richard Stallman of the Free Software Foundation devised, in addition to some marvelous software,
+         the GNU General Public License (GPL for short)"
+
+  "LGPL":
+    matches:
+      - "In fact, various inconveniences relating to this have resulted in modifications such as the
+         LGPL (Library General Public License)"

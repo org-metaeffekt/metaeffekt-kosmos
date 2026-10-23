@@ -1,0 +1,71 @@
+canonicalName: CircleStone Labs Non-Commercial License 1.0
+category: CircleStone Labs Non-Commercial
+shortName: CircleStone-Labs-NC-1.0
+
+classification: non-commercial
+
+otherIds:
+  - "scancode:circlestone-labs-nc-1.0"
+
+canonicalNameHistory:
+  - "CircleStone Labs Non-Commercial License v1.0"
+
+alternativeNames:
+  - "CircleStone Labs Non-Commercial License v1.0"
+  - "CircleStone Labs Non-Commercial License 1.0"
+  - "circlestone-labs-nc-1.0"
+  - "CircleStone-Labs-NC-1.0"
+
+evidence:
+  matches:
+    - "Subject to your compliance with this License, Company grants you a non-exclusive, worldwide, non-transferable,
+       non-sublicensable, revocable, royalty free, and limited license to access, use, create Derivatives of, and
+       Distribute the CircleStone Models and Derivatives solely for your Non-Commercial Purposes"
+    - "The foregoing license is personal to you, and you may not assign or sublicense this License or any other rights
+       or obligations under this License without Company’s prior written consent; any such assignment or sublicense will
+       be void and will automatically and immediately terminate this License"
+    - "Any restrictions set forth herein regarding the CircleStone Model also apply to any Derivative you create or that
+       are created on your behalf"
+    - "You may only access, use, Distribute, or create Derivatives of the CircleStone Model or Derivatives for
+       Non-Commercial Purposes"
+    - "If you want to use a CircleStone Model or a Derivative for any purpose that is not expressly authorized under
+       this License, such as for a commercial activity, you must request a license from Company, which Company may
+       grant to you in Company’s sole discretion and which additional use may be subject to a fee, royalty or other
+       revenue share"
+    - "Please refer to the details in the Model Card if you would like a commercial license"
+    - "The grant of rights expressly set forth in this License are the complete grant of rights to you in the CircleStone
+       Model, and no other licenses are granted, whether by waiver, estoppel, implication, equity, or otherwise except as
+       otherwise agreed in writing by Company"
+    - "Company and its licensors reserve all rights not expressly granted by this License"
+    - "We claim no ownership rights in and to the Outputs"
+    - "You are solely responsible for the Outputs you generate and their subsequent uses in accordance with this License"
+    - "You may use Output for any purpose (including for commercial purposes), except as expressly prohibited herein"
+    - "You may not use the Output to train, fine-tune, or distill a model that is competitive with a CircleStone Model"
+    - "You are solely responsible for your use of all Outputs generated through the Models and/or any Derivatives,
+       including for ensuring that such Outputs are used in a manner that is non-infringing and otherwise compliant
+       with all applicable laws, rules and regulations"
+    - "Subject to your compliance with this License, Company grants you a non-exclusive, worldwide, non-transferable,
+       non-sublicensable, revocable, royalty free, and limited license to access, use, create Derivatives of, and
+       Distribute the CircleStone Models and Derivatives solely for your Non-Commercial Purposes"
+    - "The foregoing license is personal to you, and you may not assign or sublicense this License or any other rights
+       or obligations under this License without Company’s prior written consent; any such assignment or sublicense will
+       be void and will automatically and immediately terminate this License"
+    - "Any restrictions set forth herein regarding the CircleStone Model also apply to any Derivative you create or
+       that are created on your behalf"
+    - "You may only access, use, Distribute, or create Derivatives of the CircleStone Model or Derivatives for
+       Non-Commercial Purposes"
+    - "If you want to use a CircleStone Model or a Derivative for any purpose that is not expressly authorized under this
+       License, such as for a commercial activity, you must request a license from Company, which Company may grant to
+       you in Company’s sole discretion and which additional use may be subject to a fee, royalty or other revenue share"
+    - "Please refer to the details in the Model Card if you would like a commercial license"
+    - "The grant of rights expressly set forth in this License are the complete grant of rights to you in the CircleStone
+       Model, and no other licenses are granted, whether by waiver, estoppel, implication, equity, or otherwise except as
+       otherwise agreed in writing by Company. Company and its licensors reserve all rights not expressly granted by this
+       License"
+    - "We claim no ownership rights in and to the Outputs"
+    - "You are solely responsible for the Outputs you generate and their subsequent uses in accordance with this License"
+    - "You may use Output for any purpose (including for commercial purposes), except as expressly prohibited herein"
+    - "You may not use the Output to train, fine-tune, or distill a model that is competitive with a CircleStone Model"
+    - "You are solely responsible for your use of all Outputs generated through the Models and/or any Derivatives, including
+       for ensuring that such Outputs are used in a manner that is non-infringing and otherwise compliant with all
+       applicable laws, rules and regulations"

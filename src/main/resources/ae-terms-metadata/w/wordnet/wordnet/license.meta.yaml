@@ -4,6 +4,7 @@ spdxIdentifier: WordNet
 
 otherIds:
   - "scancode:wordnet"
+  - "osi:WordNet"
   - "osi-deprecated:wordnet"
 
 canonicalNameHistory:

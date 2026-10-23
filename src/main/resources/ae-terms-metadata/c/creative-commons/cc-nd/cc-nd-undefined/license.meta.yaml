@@ -8,7 +8,12 @@ alternativeNames:
   - "CreativeCommons ND"
   - "CreativeCommons-ND"
   - "CC-ND"
-  - "CC ND"
+  # too unspecific; many false matches
+  # - "CC ND"
+  - "under CC ND"
+  - "CC ND licenses"
+  - "CC ND license"
+  - "CC ND licence"
   - "CreativeCommons NoDerivatives"
   - "CC NoDerivatives"
   - "CC-NoDerivatives"

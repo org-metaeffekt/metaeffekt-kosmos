@@ -1,0 +1,27 @@
+canonicalName: Model Personal Use License 1.1
+category: Model Personal Use License
+shortName: SNOFS-1.1
+
+otherIds:
+  - "scancode:snofs-1.1"
+
+alternativeNames:
+  - "Model Personal Use License (No Service, No Derivatives, No Redistribution) v1.1"
+  - "Model Personal Use License (No Service, No Derivatives, No Redistribution) 1.1"
+  - "Model Personal Use License (No Service, No Derivatives, No Redistribution)"
+  - "Model Personal Use License (No Service, No Derivatives, No Redistribution) V1.1"
+  - "Model Personal Use License (No Service, No Derivatives, No Redistribution) Version 1.1"
+  - "Model Personal Use License v1.1"
+  - "Model Personal Use License V1.1"
+  - "Model Personal Use License Version 1.1"
+  - "snofs-1.1"
+  - "SNOFS-1.1"
+
+evidence:
+  matches:
+    - "You may use this Model locally to generate images"
+    - "You may publish and SELL the images you generate (prints, commissions, client work, stock listings, etc.)"
+    - "Any violation of this license automatically terminates Your rights to use the Model"
+    - "Upon termination, You must promptly delete all copies of the Model in Your possession or control"
+    - "Use the Model locally (on hardware You control) to generate Outputs"
+    - "Use, publish, share, and sell Outputs, as described in Section 5"

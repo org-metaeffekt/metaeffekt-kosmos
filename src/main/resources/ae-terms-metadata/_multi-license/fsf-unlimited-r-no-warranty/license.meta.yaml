@@ -6,11 +6,11 @@ shortName: FSFULLR-no-warranty
 otherIds:
   - "scancode:fsfullrsd"
 
-representedAs: FSF Unlimited License
+representedAs: "FSF Unlimited License"
 
 type: expression
 
 combinedWith:
   "FSF Unlimited License (with retention)": "FSF Unlimited License (with retention; no warranty)"
-  "No Warranty Marker": "FSF Unlimited License (with retention; no warranty)"
+  "Warranty (excluded)": "FSF Unlimited License (with retention; no warranty)"
    

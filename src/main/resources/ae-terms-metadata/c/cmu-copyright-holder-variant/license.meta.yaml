@@ -2,6 +2,8 @@ canonicalName: CMU License (copyright holder variant)
 category: CMU
 shortName: CMU-copyright-holder
 
+# FIXME-IMPLEMENT: add to conventions; "variant" will not be removed from name.
+
 # License was merged with "ElementTree License" due to them being identical.
 
 otherIds:

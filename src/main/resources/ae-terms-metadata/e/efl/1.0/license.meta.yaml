@@ -4,7 +4,7 @@ spdxIdentifier: EFL-1.0
 
 otherIds:
   - "scancode:efl-1.0"
-  - "osi-deprecated:efl-1-0"
+  - "osi:EFL-1.0"
 
 alternativeNames:
   - "EFL, Version 1.0"

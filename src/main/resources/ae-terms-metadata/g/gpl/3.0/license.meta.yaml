@@ -14,20 +14,6 @@ requiresCopyright: true
 requiresLicenseText: true
 
 alternativeNames:
-  - "GNU GPL version 3 or above"
-  - "GNU General Public License (GPL), Version 3 or later"
-  - "GNU General Public License (GPLV3+)"
-  - "GNU General Public License Version 3+"
-  - "GNU General Public License v3 or later"
-  - "GNU General Public License v3.0 or later"
-  - "GNU General Public License v3, or (at your option) any later version"
-  - "GNU General Public License v3.0, or (at your option) any later version"
-  - "GNU General Public License Version 3 (or later)"
-  - "GNU General Public License version 3 or later"
-  - "GNU General Public License version 3.0 or later"
-  - "GNU General Public License Version 3 or later"
-  - "GNU General Public License Version 3.0 or later"
-  - "GNU General Public License v3.0 or later"
   - "GNU General Public License, Versions 2 and 3"
   - "GNU General Public License, Version 3.0"
   - ">GNU General Public License (GPL), Version 3.0"
@@ -43,7 +29,6 @@ alternativeNames:
   - "GNU GENERAL PUBLIC LICENSE, version 3"
   - "GNU GPL 3.0"
   - "GNU GPL V3"
-  - "GNU GPL V3+"
   - "GNU GPL license v3"
   - "GNU GPL v3"
   - "GNU GPL, Version 3.0"
@@ -71,13 +56,11 @@ alternativeNames:
   - "GNU General Public License v3"
   - "GNU General Public License v3 (GPL)"
   - "GNU General Public License v3 (GPL-3)"
-  - "GNU General Public License v3+"
   - "GNU General Public License v3.0"
   - "GNU General Public License v3.0 (GPLv3)"
   - "GNU General Public License v3.0 only"
   - "GNU General Public License version 3"
   - "GNU General Public License version 3 (GPLv3)"
-  - "GNU General Public License version 3.0"
   - "GNU General Public License version 3.0 (GPLv3)"
   - "GNU General Public License, Version 3"
   - "GNU General Public License, Version 3.0"
@@ -111,11 +94,6 @@ alternativeNames:
   - "gpl30"
   - "GPL 3.0"
   - "GPL-3.0"
-  - "GPL v3+"
-  - "GPL version 3 or any later version"
-  - "GPL-3.0+"
-  - "GPLv3 or later"
-  - "GPLv3 or newer"
   - "GPL 3"
   - "GPL 3.0 License"
   - "GPL Licence Version 3"
@@ -127,6 +105,9 @@ alternativeNames:
   - "GPL3"
   - "GPL3.0 License"
   - "GPLv3.0"
+  - "GPL-v3.0"
+  - "gpl-v3.0"
+  - "gpl-3.0"
   - "GENERAL PUBLIC LICENSE, version 3 (GPL-3.0)"
   - "General Public License (GPL) v 3.0"
   - "General Public License 3"
@@ -144,7 +125,20 @@ alternativeNames:
   - "GNU General Public License as published by the Free Software Foundation; version 3"
   - "version 3 of the GNU General Public License"
   - "appendix.gpl-3.0"
-  - "GNU General Public License 3.0 or later"
+  - "http://www.gnu.org/licenses/old-licenses/gpl-3.0" # representative for urls with different suffix
+  - "http://www.gnu.org/licenses/old-licenses/gpl-3.0.txt"
+  - "https://www.gnu.org/licenses/old-licenses/gpl-3.0.txt"
+  - "http://www.gnu.org/licenses/gpl-3.0" # representative for urls with different suffix
+  - "http://www.gnu.org/licenses/gpl-3.0.txt"
+  - "https://www.gnu.org/licenses/gpl-3.0.txt"
+  - "https://www.gnu.org/licenses/gpl.txt" # representative for latest version, which is currently 3.0
+  - "http://www.gnu.org/licenses/gpl.txt" # representative for latest version, which is currently 3.0
+  - "https://www.gnu.org/licenses/gpl.html" # representative for latest version, which is currently 3.0
+  - "http://www.gnu.org/licenses/gpl.html" # representative for latest version, which is currently 3.0
+  - "https://www.gnu.org/copyleft/gpl.txt" # since this will currently redirect to 3.0
+  - "http://www.gnu.org/copyleft/gpl.txt" # since this will currently redirect to 3.0
+  - "https://www.gnu.org/copyleft/gpl.html" # since this will currently redirect to 3.0
+  - "http://www.gnu.org/copyleft/gpl.html" # since this will currently redirect to 3.0
 
 evidence:
   matches:
@@ -172,6 +166,7 @@ evidence:
     - "\"This License\" refers to version 3 of the GNU Affero General Public License"
     - "in the case of code licensed under the GPL v3 for as long as Oracle offers spare parts or customer support for that product model"
     - "H g L GPL 3 D IcP0" # found (normalized form) in java binaries
+    - "This Source Code Form is subject to the terms of the Lyra Public License, v1.0"
 
 references:
   "AGPL":

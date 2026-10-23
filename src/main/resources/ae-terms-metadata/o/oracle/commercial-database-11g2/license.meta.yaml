@@ -2,6 +2,8 @@ canonicalName: Oracle Commercial Database License 11g Release 2 (11.2)
 category: Oracle Commercial Database License 11g Release 2 (11.2)
 shortName: Oracle-Commercial-Database-11g2
 
+classification: commercial
+
 otherIds:
   - "scancode:oracle-commercial-database-11g2"
 

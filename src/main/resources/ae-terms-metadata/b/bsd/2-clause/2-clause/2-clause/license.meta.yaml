@@ -58,6 +58,11 @@ alternativeNames:
   - "2-clause BSD licenses"
   - "BSD 2-clause “Simplified” License"
   - "BSD 2-Clause “Simplified” License"
+  - "Simplified BSD License"
+  - "Simplified BSD license"
+  - "Simplified BSD"
+  - "Simplified BSD or BSD 2-Clause"
+  - "this file is copyrighted under the BSD-license for buildsystem files of KDE" # following the policy this is BSD 2-Clause
 
 alternativeShortNames:
   - "BSD2c"

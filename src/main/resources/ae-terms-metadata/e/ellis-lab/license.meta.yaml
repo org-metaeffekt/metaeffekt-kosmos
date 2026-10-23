@@ -1,3 +1,4 @@
+# FIXME-DISCUSS: is a generalization of the license name required; see variants (Apify, Firesale)
 canonicalName: EllisLab License
 category: EllisLab License
 shortName: Ellis-Lab
@@ -10,8 +11,8 @@ alternativeNames:
 
 evidence:
   matches:
-    - "This license is a legal agreement between you and {copyright-owner} for the use
-       of {component} (the 'Software')"
+    - "This license is a legal agreement between you and *{.{0,40}}* for the use
+       of *{.{0,40}}* (the 'Software')"
     - "By obtaining the Software you agree to comply with the terms and conditions of this license"
     - "You are permitted to use, copy, modify, and distribute the Software and its
        documentation, with or without modification, for any purpose, provided that
@@ -24,22 +25,27 @@ evidence:
     - "Any files that have been modified must carry notices stating the nature
        of the change and the names of those who changed them"
     - "Products derived from the Software must include an acknowledgment that
-       they are derived from {component} in their documentation and/or other
+       they are derived from *{.{0,40}}* in their documentation and/or other
        materials provided with the distribution"
-    - "Products derived from the Software may not be called '{component}',
-       nor may '{component}' appear in their name, without prior written
-       permission from {copyright-owner}"
+    - "Products derived from the Software may not be called '*{.{0,40}}*',
+       nor may '*{.{0,40}}*' appear in their name, without prior written
+       permission from"
     - "You agree to indemnify and hold harmless the authors of the Software and
        any contributors for any direct, indirect, incidental, or consequential
        third-party claims, actions or suits, as well as any related expenses,
        liabilities, damages, settlements or fees arising from your use or misuse
        of the Software, or a violation of any terms of this license"
+  excludes:
+    - "This license is a legal agreement between you and Moltin Ltd. for the use of FireSale"
 
 segmentation:
   revert: [
-    { match:
-        "This license is a legal agreement between you and {copyright-owner} for the use of {component} (the \"Software\"). By obtaining the Software you agree to comply with the terms and conditions of this license.",
-      matchNext:
-        "PERMITTED USE You are permitted to use, copy, modify, and distribute the Software and its documentation, with or without modification, for any purpose"
+    {
+      match: "By obtaining the Software you agree to comply with the terms and conditions of this license.",
+      matchNext: "PERMITTED USE You are permitted to use, copy, modify, and distribute the Software and its documentation"
+    },
+    {
+      match: "PERMITTED USE",
+      matchNext: "You are permitted to use copy modify and distribute the Software"
     }
   ]

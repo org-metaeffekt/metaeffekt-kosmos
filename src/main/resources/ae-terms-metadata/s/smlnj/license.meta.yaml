@@ -1,6 +1,7 @@
 canonicalName: Standard ML of New Jersey License
 category: SMLNJ
 spdxIdentifier: SMLNJ
+# deprecatedSpdxIdentifier: StandardML-NJ
 
 otherIds:
   - "scancode:standard-ml-nj"

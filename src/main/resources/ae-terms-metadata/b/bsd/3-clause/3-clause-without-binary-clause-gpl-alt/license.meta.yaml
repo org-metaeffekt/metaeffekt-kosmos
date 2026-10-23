@@ -1,0 +1,30 @@
+canonicalName: BSD 3-Clause License (without binary clause; GPL alternative)
+category: BSD
+spdxIdentifier: BSD-Source-alt-GPL
+shortName: BSD-3-Clause-without-binary-GPL-alternative
+
+# NOTE: we intend not to create separate licenses for every alternative phrase. We match this license text as
+#   BSD 3-Clause License (without binary clause), Secondary License (option)
+#   This definition only exists to map the SPDX License Identifier.
+ignore: true
+
+expectedMatches:
+  - "BSD 3-Clause License (without binary clause)"
+  - "BSD 3-Clause License (without binary clause; variant 009)"
+
+secondaryLicenses:
+  - "GNU General Public License 2.0"
+  - "GNU General Public License 3.0"
+
+evidence:
+  matches:
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions, and the
+       following disclaimer, without modification"
+    - "The name of the author may not be used to endorse or promote products derived from this software without
+       specific prior written permission"
+    - "Alternatively, this software may be distributed under the terms of the GNU General Public License ('GPL')"
+
+references:
+  "GPL":
+    matches:
+      - "Alternatively, this software may be distributed under the terms of the GNU General Public License ('GPL')"

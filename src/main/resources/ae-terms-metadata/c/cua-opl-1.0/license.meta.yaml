@@ -4,7 +4,7 @@ spdxIdentifier: CUA-OPL-1.0
 
 otherIds:
   - "scancode:cua-opl-1.0"
-  - "osi-deprecated:cuaoffice"
+  - "osi:CUA-OPL-1.0"
 
 alternativeNames:
   - "CUA OPL, Version 1.0"

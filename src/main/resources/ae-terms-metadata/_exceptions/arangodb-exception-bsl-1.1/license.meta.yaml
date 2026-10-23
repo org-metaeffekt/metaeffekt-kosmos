@@ -23,6 +23,10 @@ evidence:
       in a commercial offering that allows one or more third parties 
       (other than your contractors) to access, create or manage databases 
       including data that is controlled by any such third parties"
+  excludes:
+    - "You may make production use of the Licensed Work, provided Your use does not include offering the Licensed Work
+       to third parties on a hosted or embedded basis in order to compete with NetTantra Technologies (India) Private 
+       Limited's paid version(s) of the Licensed Work"
 
 references:
   "Apache License":

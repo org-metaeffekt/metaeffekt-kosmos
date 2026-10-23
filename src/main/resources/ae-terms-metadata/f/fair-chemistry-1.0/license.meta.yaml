@@ -1,0 +1,37 @@
+canonicalName: FAIR Chemistry License 1.0
+category: FAIR Chemistry License
+shortName: FAIR-Chemistry-1.0
+
+otherIds:
+  - "scancode:fair-chemistry-v1"
+
+classification: permissive
+
+alternativeNames:
+  - "FAIR Chemistry License v1"
+  - "fair-chemistry-v1"
+  - "FAIR Chemistry License 1.0"
+  - "FAIR-Chemistry-1.0"
+
+evidence:
+  matches:
+    - "You are granted a non-exclusive, worldwide, non-transferable, and royalty-free limited license under Meta’s
+       intellectual property or other rights owned by Meta embodied in the Materials to use, reproduce, distribute,
+       copy, create derivative works of, and make modifications to the Materials"
+    - "Distribution of Materials, and any derivative works thereof, are subject to the terms of this Agreement"
+    - "If you distribute or make the Materials, or any derivative works thereof, available to a third party, you may
+       only do so under the terms of this Agreement"
+    - "You shall also provide a copy of this Agreement to such third party"
+    - "If you submit for publication the results of research you perform on, using, or otherwise in connection with
+       Materials, you must acknowledge the use of Materials in your publication"
+    - "Your use of the Materials must comply with applicable laws and regulations (including Trade Control Laws) and
+       adhere to the FAIR Chemistry Acceptable Use Policy, which is hereby incorporated by reference into this Agreement"
+    - "Your use of the Materials is done at your own discretion; Meta does not process any information or provide any
+       service in relation to such use"
+    - "Meta is under no obligation to provide any support services for the Materials"
+    - "Any support provided is “as is”, “with all faults”, and without warranty of any kind"
+    - "The term of this Agreement will commence upon your acceptance of this Agreement or access to the Materials and
+       will continue in full force and effect until terminated in accordance with the terms and conditions herein"
+    - "Meta may terminate this Agreement if you are in breach of any term or condition of this Agreement"
+    - "Upon termination of this Agreement, you shall delete and cease use of the Materials"
+    - "Sections 5, 6 and 9 shall survive the termination of this Agreement"

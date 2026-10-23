@@ -124,6 +124,7 @@ evidence:
     - "Neither the name of the XDoclet team nor the names of its contributors may be
        used to endorse or promote products derived from this software without specific
        prior written permission."
+    - "You agree to use the TimeLens only for academic purposes, and refrain from using it for any commercial or production purposes under any circumstances" # Redistribution Terms (TimeLens)
 
 mappings:
   "ARISING IN ANY WAY OUT OF THE USE OFNEWLINE-MARKER \\*NEWLINE-MARKER \\*/NEWLINE-MARKER \"use strict":

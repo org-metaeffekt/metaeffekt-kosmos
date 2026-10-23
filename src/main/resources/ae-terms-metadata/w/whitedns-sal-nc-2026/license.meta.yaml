@@ -1,0 +1,27 @@
+canonicalName: WhiteDNS Source-Available Proprietary License 2026
+category: WhiteDNS Source-Available Proprietary
+shortName: WhiteDNS-SAL-NC-2026
+
+otherIds:
+  - "scancode:whitedns-sal-nc-2026"
+
+# NOTE: this is not a non-commercial license.
+classification: source-available
+
+alternativeNames:
+  - "WhiteDNS Source-Available Proprietary License 2026"
+  - "WhiteDNS Source-Available Proprietary License"
+  - "whitedns-sal-nc-2026"
+  - "WhiteDNS-SAL-NC-2026"
+
+evidence:
+  matches:
+    - "You may view the source code for transparency, security review, learning,
+       and contribution to the official WhiteDNS project"
+    - "You may submit issues, bug reports, pull requests, patches, translations, documentation improvements, 
+       and other contributions to the official WhiteDNS repository"
+    - "Your permission to view or use this software ends automatically if you violate this license"
+    - "Only APKs and releases published by the official WhiteDNS team are authorized"
+    - "Modified, re-signed, repackaged, redistributed, or unofficial APKs are not permitted and may be unsafe"
+
+

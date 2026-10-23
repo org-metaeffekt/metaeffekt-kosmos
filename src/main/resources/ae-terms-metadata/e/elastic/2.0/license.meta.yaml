@@ -30,3 +30,6 @@ evidence:
        software that is protected by the license key"
   excludes:
     - "ChilliCream License 1.0"
+    - "Unless authorized in writing by the licensor, you may not move, change, disable, interfere with, or circumvent
+      the license mechanisms in the software, and you may not remove or obscure any functionality in the software that
+      is protected by the license mechanisms"

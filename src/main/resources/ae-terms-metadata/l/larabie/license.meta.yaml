@@ -33,3 +33,13 @@ evidence:
        business interruption, loss of business information, or any other pecuniary loss) arising
        out of the use of or inability to use this product, even if Larabie Fonts has been advised
        of the possibility of such damages"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "Larabie Fonts End-user license agreement software product from Larabie Fonts",
+      matchNext:
+        "SOFTWARE PRODUCT LICENSE The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties"
+  }
+]

@@ -39,7 +39,11 @@ evidence:
         - "SLK ASL BBG"
         - "[https://cla-assistant.io/redpanda-data/redpanda] (which is based off of the
            Apache License), without any additional terms or conditions"
+        - "Four years after each part first becomes public under this licence, it receives Apache-2.0 permissions"
 
 masks:
     matches:
         - "The Apache license is terminated if the user sues anyone"
+        - "First and foremost was its license: the Pine suite does not use
+           the GPL, and (before using the Apache License) it had unclear
+           restrictions on redistribution."

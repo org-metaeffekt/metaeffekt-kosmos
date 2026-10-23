@@ -4,6 +4,8 @@ shortName: Not-Public-Domain
 
 ignore: true
 type: reference
+# FIXME-DISCUSS: not public domain is not public domain
+#classification: public domain
 
 alternativeNames:
   - "Not Public Domain"

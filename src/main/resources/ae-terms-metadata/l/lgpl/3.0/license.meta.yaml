@@ -128,13 +128,24 @@ alternativeNames:
   - "GNU Lesser General Public License version 3 (LGPLv3)"
   - "http://opensource.org/licenses/lgpl-3.0.html"
   - "http://www.gnu.org/licenses/lgpl-3.0.txt"
-  - "FSF Lesser GNU Public License, Version 3"
+  - "Lesser GNU Public License, Version 3"
+  - "FSF Lesser GNU Public License, Version 3" # not quite correct, but enlisted for corrective mapping
   - "Lesser GPL 3.0"
   - "The GNU Lesser General Public License, Versions 2.1 and 3"
-  - "LGPL-3"
-  - "https://www.gnu.org/licenses/lgpl-3.0.txt"
-  - "https://www.gnu.org/licenses/lgpl-3.0"
   - "GNU Lesser General Public License v3.0 only" # for identification purposes
+  - "LGPL-3"
+  - "https://www.gnu.org/licenses/lgpl-3.0" # representative for urls with different suffix
+  - "http://www.gnu.org/licenses/lgpl-3.0" # representative for urls with different suffix
+  - "https://www.gnu.org/licenses/lgpl-3.0.txt"
+  - "http://www.gnu.org/licenses/lgpl-3.0.txt"
+  - "https://www.gnu.org/copyleft/lesser.txt" # since this will currently redirect to 3.0
+  - "http://www.gnu.org/copyleft/lesser.txt" # since this will currently redirect to 3.0
+  - "https://www.gnu.org/copyleft/lesser.html" # since this will currently redirect to 3.0
+  - "http://www.gnu.org/copyleft/lesser.html" # since this will currently redirect to 3.0
+  - "https://www.gnu.org/licenses/lgpl.txt" # since this will currently redirect to 3.0
+  - "http://www.gnu.org/licenses/lgpl.txt" # since this will currently redirect to 3.0
+  - "https://www.gnu.org/licenses/lgpl.html" # since this will currently redirect to 3.0
+  - "http://www.gnu.org/licenses/lgpl.html" # since this will currently redirect to 3.0
 
 evidence:
   matches:

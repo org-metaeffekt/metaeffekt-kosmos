@@ -24,10 +24,8 @@ evidence:
        your use of that work"
     - "Not to modify this License in any other way"
   excludes:
-    - "Effective on the second anniversary of the first publicly available distribution
-       of a specific version of the Licensed Work under this License, the Licensor
-       hereby grants you rights under the terms of the Change License, and the rights
-       granted in the paragraph above terminate"
+    - "The Acter Public Source License (this document, or the 'License'), based on the Business Source License 1.1, 
+       is not an Open Source license"
 
 references:
   "GPL":

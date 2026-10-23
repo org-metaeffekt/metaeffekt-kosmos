@@ -8,8 +8,7 @@ ignore: true
 otherIds:
   - "osi:Python-2.0"
   - "scancode:python"
-## FIXME-IMPLEMENT: check whether this correct
-##  - "osi-deprecated:PSF-2.0"
+# NOTE: OSI's old "PSF-2.0" identifier does not match this license (supposedly, we do not have access to the original texts anymore)
 
 alternativeNames:
   - "Python-2.0"

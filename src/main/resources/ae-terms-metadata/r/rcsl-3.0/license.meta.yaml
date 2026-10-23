@@ -1,5 +1,5 @@
 canonicalName: RealNetworks Community Source License 3.0
-category: RealNetworks Community Source License
+category: RealNetworks Community
 shortName: RCSL-3.0
 
 otherIds:
@@ -113,3 +113,13 @@ evidence:
     - "Due to limited intellectual property protection and enforcement in certain countries, this License does not permit the redistribution of the Covered Code, TCK and Specifications to any country on the list of restricted countries at the Helix Community Website"
     - "This License is in the English language only, which language shall be controlling in all respects, and all versions of this License in any other language shall be for accommodation only and shall not be binding on the parties to this License"
     - "All communications and notices made or given pursuant to this License, and all documentation and support to be provided, unless otherwise noted, shall be in the English language"
+
+segmentation:
+  revert: [
+    {
+      match:
+        "and RN desires to license the Helix DNA Code to a large community to facilitate research, innovation and product development while maintaining compatibility of such products with the Helix DNA Code as delivered by RN;",
+      matchNext:
+        "Therefore, RN makes available the Helix DNA Code, the Specifications, and the TCK available for Research and Development Use only under the following terms: LICENSE"
+    },
+]

@@ -33,8 +33,7 @@ evidence:
     - "Redistributions in binary form must reproduce the above copyright notice,
        this list of conditions and the following disclaimers in the documentation
        and/or other materials provided with the distribution"
-    - "Neither the names of *,
-       nor the names of its contributors may be used to endorse or promote products
+    - "Neither the names of *{.{0,80}}*, nor the names of its contributors may be used to endorse or promote products
        derived from this Software without specific prior written permission"
     - "THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
@@ -45,6 +44,9 @@ evidence:
   excludes:
     - "Copyright (c) 2006, P2P Networks and Applications Research Group, The University
        of Melbourne"
+    - "MARBL was developed primarily through cooperation between the National Science Foundation, the Department of
+       Energy, and the National Center for Atmospheric Research through the University Corporation for
+       Atmospheric Research"
 
 licenseTemplate: "<lq>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
                   <ol><li>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimers.</li>

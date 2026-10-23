@@ -27,3 +27,8 @@ evidence:
 masks:
   matches:
     - "On Debian systems you can find a copy of the Artistic license"
+
+references:
+  "Artistic License":
+    matches:
+      - "Perl is dual-licensed between GPL and Artistic license, so we've opted to make this utility as GPLv2."

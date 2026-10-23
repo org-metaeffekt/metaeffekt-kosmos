@@ -8,6 +8,9 @@ otherIds:
 alternativeNames:
   - "Xming License"
 
+expectedMatches:
+  - "BSD (undefined)"
+
 # needed because references do not omit the undefined version matches.
 ignoreMatches:
   - "GNU General Public License (undefined)"
@@ -36,11 +39,6 @@ references:
     matches:
       - "FreeType is supplied modified from the canonical [WWW]FreeType2 source under this BSD-style license (which has a credit clause). Note: builders of FreeType can [WWW]choose to use GPLv2 instead.
          [WWW]Mesa 11.3.0-devel is supplied modified from the canonical [WWW]freedesktop.org source under this Mesa license."
-  "BSD":
-    matches:
-      - "FreeType is supplied modified from the canonical [WWW]FreeType2 source under this BSD-style license (which has a credit clause). Note: builders of FreeType can [WWW]choose to use GPLv2 instead.
-         [WWW]Mesa 11.3.0-devel is supplied modified from the canonical [WWW]freedesktop.org source under this Mesa license."
-  # FIXME-IMPLEMENT: shouldn't this be a match?
   "LesserGPL":
     matches:
       - "Extension headers and specifications from the canonical [WWW]OpenGL Registry are used under SGI Free Software 

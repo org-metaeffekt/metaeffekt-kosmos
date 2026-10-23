@@ -13,6 +13,9 @@ evidence:
     - "The *{(l|L){1}}*icensor grants *{(y|Y){1}}*ou a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available, and prepare derivative works of the *{(s|S){1}}*oftware, in each case subject to the limitations and conditions below"
     - "Making the functionality of the *{(s|S){1}}*oftware or *{(m|M){1}}*odified version available to third parties includes, without limitation, enabling third parties to interact with the functionality of the *{(s|S){1}}*oftware or *{(m|M){1}}*odified version in distributed form or remotely through a computer network, offering a product or service the value of which entirely or primarily derives from the value of the *{(s|S){1}}*oftware or *{(m|M){1}}*odified version, or offering a product or service that accomplishes for users the primary purpose of the *{(s|S){1}}*oftware or *{(m|M){1}}*odified version"
     - "If the *{(l|L){1}}*icensor provides *{(y|Y){1}}*ou with a notice of your violation, and *{(y|Y){1}}*ou cease all violations of this *{(l|L){1}}*icense no later than 30 days after *{(y|Y){1}}*ou receive that notice, *{(y|Y){1}}*our *{(l|L){1}}*icenses will be reinstated retroactively. However, if *{(y|Y){1}}*ou violate *{(these terms|this Agreement){1}}* after such reinstatement, any additional violation of *{(these terms|this Agreement){1}}* will cause *{(y|Y){1}}*our *{(l|L){1}}*icenses to terminate automatically and permanently"
+  excludes:
+    - "You may not provide the software to third parties as a hosted or managed service, where the service provides 
+       users with access to any substantial set of the features or functionality of the software"
 
 segmentation:
   revert: [

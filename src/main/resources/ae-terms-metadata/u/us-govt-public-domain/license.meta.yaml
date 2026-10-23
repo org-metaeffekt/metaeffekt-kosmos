@@ -5,6 +5,8 @@ shortName: US-Gov-Public-Domain
 otherIds:
   - "scancode:us-govt-public-domain"
 
+classification: public domain
+
 canonicalNameHistory:
   - "United States Government Public Domain"
 

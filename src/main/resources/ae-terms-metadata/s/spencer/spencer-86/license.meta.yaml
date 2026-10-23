@@ -1,6 +1,8 @@
 canonicalName: Spencer License (3-Clause)
 category: Spencer
 spdxIdentifier: Spencer-86
+# NOTE: we do not want to use the regexp as short name
+#shortName: regexp
 
 otherIds:
   - "scancode:regexp"

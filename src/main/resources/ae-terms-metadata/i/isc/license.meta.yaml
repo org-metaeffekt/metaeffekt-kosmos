@@ -67,7 +67,7 @@ evidence:
     - "Copyright (c) 2008 Otto Moerbeek <otto@drijf.net>
 
        Permission to use, copy, modify, and distribute this software for"
-    - "Sponsored in part by the Defense Advanced Research Projects Agency (DARPA) and Air Force Research Laboratory, Air Force Materiel Command, USAF, under agreement number F39502-99-1-0512" # Permission Terms (Sudo)
+    - "Sponsored in part by the Defense Advanced Research Projects Agency (DARPA) and Air Force Research Laboratory" # Permission Terms (Sudo) variant
 
 licenseTemplate: "<lq>Permission to use, copy, modify, and/or distribute this software for any purpose
                   with or without fee is hereby granted,

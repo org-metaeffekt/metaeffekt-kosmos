@@ -1,13 +1,14 @@
-# FIXME-IMPLEMENT: use last canonicalName; Creative Commons Public Domain Dedication and Certification
-canonicalName: Creative Commons PDDC
+canonicalName: Creative Commons Public Domain Dedication and Certification
 category: CC-PDDC
 spdxIdentifier: CC-PDDC
 
 canonicalNameHistory:
-  - "Creative Commons Public Domain Dedication and Certification"
+  - "Creative Commons PDDC"
+
+classification: public domain
 
 combinedWith:
-  "Public Domain": "Creative Commons PDDC"
+  "Public Domain": "Creative Commons Public Domain Dedication and Certification"
 
 # compensated by combinedWith
 ignoreMatches:

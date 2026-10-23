@@ -7,6 +7,8 @@ alternativeNames:
   - "SIL Open Font License"
   - "SIL Font License"
   - "SIL Open Font License (undefined)"
+  # - "Liberation Sans" # NOTE: this is not sufficient as a license identification; potentially add more context
+  # - "Font Name Liberation" # NOTE: this is not sufficient as a license identification protentialy add more context
 
 requiresCopyright: true
 requiresLicenseText: true

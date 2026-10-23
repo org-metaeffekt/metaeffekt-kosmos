@@ -1,0 +1,29 @@
+canonicalName: CogVideoX License 2024
+category: CogVideoX
+shortName: CogVideoX
+
+# source: https://huggingface.co/zai-org/CogVideoX-5b-I2V/raw/main/LICENSE
+
+otherIds:
+  - "scancode:cogvideox-2024"
+
+canonicalNameHistory:
+  - "CogVideoX License"
+
+alternativeNames:
+  - "CogVideoX License"
+  - "cogvideox license"
+  - "cogvideox-2024"
+  - "CogVideoX-License-2024"
+  - "The CogVideoX License 2024"
+  - "CogVideoX License 2024"
+
+evidence:
+  matches:
+    - "Under the terms and conditions of this license, the licensor hereby grants you a non-exclusive, worldwide, non-transferable, non-sublicensable, revocable, royalty-free copyright license"
+    - "The intellectual property rights of the generated content belong to the user to the extent permitted by applicable local laws"
+    - "This license allows you to freely use all open-source models in this repository for academic research"
+    - "The above copyright statement and this license statement should be included in all copies or significant portions of this software"
+    - "You will not use, copy, modify, merge, publish, distribute, reproduce, or create derivative works of the Software, in whole or in part, for any military, or illegal purposes"
+    - "You will not use the Software for any act that may undermine China's national security and national unity, harm the public interest of society, or infringe upon the rights and interests of human beings"
+    - "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT"

@@ -1,0 +1,23 @@
+canonicalName: PLaMo Community License Agreement 2024
+category: PLaMo Community License Agreement
+shortName: PLaMo-CLA-2024
+
+otherIds:
+  - "scancode:plamo-cla-2024"
+
+classification: source-available
+
+alternativeNames:
+  - "PLaMo Community License Agreement 2024"
+  - "PLaMo Community License Agreement"
+  - "plamo-cla-2024"
+  - "PLaMo-CLA-2024"
+
+evidence:
+  matches:
+    - "The USER may utilize the MODEL MATERIALS for COMMERCIAL PURPOSE only if the USER satisfies 
+       all of the following conditions"
+    - "This AGREEMENT shall be effective from the time the USER agrees to this AGREEMENT or access the MODEL MATERIALS
+       and continue until termination"
+    - "If the USER violates any terms of this AGREEMENT, PFN may immediately terminate this AGREEMENT, 
+       and the USER must delete all copies of the MODEL MATERIALS and cease usage immediately"

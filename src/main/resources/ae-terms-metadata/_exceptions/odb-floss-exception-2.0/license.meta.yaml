@@ -1,0 +1,36 @@
+canonicalName: ODB FLOSS Exception (GPL-2.0)
+category: ODB FLOSS Exception
+shortName: ODB-FLOSS-Exception-GPL-2.0
+
+type: exception
+
+canonicalNameHistory:
+  - "ODB FLOSS Exception to GPL 2.0"
+
+otherIds:
+  - "scancode:odb-floss-exception-2.0"
+
+alternativeNames:
+  - "DB FLOSS Exception to GPL 2.0"
+  - "odb-floss-exception-2.0"
+  - "ODB-FLOSS-Exception-2.0"
+  - "ODB FLOSS Exception"
+
+evidence:
+  matches:
+    - "You must cause the Derivative Work that in whole or in part contains or is derived from the Program or 
+       any part thereof,to be licensed as a whole at no charge to all third parties under the terms of one or more 
+       of the licenses listed in section 3"
+    - "The Derivative Work should contain one or more FLOSS Work that  can be reasonably considered as derived 
+       from the Program or some part thereof"
+    - "The Derivative Work should not contain any part of the Program that cannot be reasonably considered as a base 
+       of one or more FLOSS Work"
+
+
+references:
+  "BSD":
+    matches:
+      - "You distribute your program, including the XSD generated code and 
+         the XSD runtime library under the BSD license"
+      - "Later you (or someone else) may choose to base their proprietary application on your code since  
+         the BSD license does not prohibit it"

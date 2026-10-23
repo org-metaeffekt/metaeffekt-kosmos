@@ -2,6 +2,8 @@ canonicalName: HP Non-Commercial License
 category: HP Non-Commercial License
 shortName: HP-NC
 
+classification: non-commercial
+
 otherIds:
   - "scancode:hp"
 

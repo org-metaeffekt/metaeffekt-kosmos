@@ -1,9 +1,12 @@
-canonicalName: Microchip Technology Licence
+canonicalName: Microchip Technology License
 category: Microchip Technology
 shortName: Microchip-Technology
 
 otherIds:
   - "scancode:microchip-linux-firmware"
+
+canonicalNameHistory:
+  - "Microchip Technology Licence"
 
 alternativeNames:
   - "Microchip Technology Licence"

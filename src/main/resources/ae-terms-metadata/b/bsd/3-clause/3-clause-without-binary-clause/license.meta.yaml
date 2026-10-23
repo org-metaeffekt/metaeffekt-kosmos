@@ -54,8 +54,6 @@ evidence:
 
   excludes:
     - "Redistributions in binary form must reproduce the above copyright notice"
-    - "Altered source versions must be plainly marked as such, and must
-            not be misrepresented as being the original software"
-    - "Redistributions of source code must retain the above copyright
-       notice, this list of conditions, and the following disclaimer,
-       without modification, immediately at the beginning of the file"
+    - "Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software"
+    - "Redistributions of source code must retain the above copyright notice, this list of conditions, and the following
+       disclaimer, without modification, immediately at the beginning of the file"

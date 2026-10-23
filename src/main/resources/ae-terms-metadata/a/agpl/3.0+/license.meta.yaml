@@ -6,7 +6,10 @@ shortName: AGPL-3.0+
 # NOTE: Scancode ambiguity; license text fpr agpl 2.0 does not really exist -  WE DO NOT WANT TO MODEL THE "AGPL 2.0" SEPARATELY!
 allowsLaterVersions: true
 
-# FIXME-IMPLEMENT: collect information around AGPL-2.0 (usage, references, why?)
+# FIXME-DISCUSS: how to proceed with the agpl-2.0 case?:
+# TASK: collect information around AGPL-2.0 (usage, references, why?)
+# NOTE: AGPL-2.0: transitional software license to provide an upgrade path from AGPLv1 to GNU AGPL 3, it has no other use. Not a standalone license like 1.0 or 3.0 - it is more like an exception/add-on to 1.0. See https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License
+
 
 # FIXME-CONCEPT: how to handle ambiguous scancode id scancode:agpl-2.0
 otherIds:

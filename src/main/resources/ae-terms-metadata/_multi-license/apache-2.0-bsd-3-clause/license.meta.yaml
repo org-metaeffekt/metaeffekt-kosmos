@@ -1,0 +1,15 @@
+canonicalName: Apache License 2.0 + BSD 3-Clause License
+category: Apache+BSD-3
+shortName: Apache-2.0-OR-BSD-3
+
+type: expression
+
+alternativeNames:
+  - "Apache-2.0 OR BSD-3-Clause"
+  - "BSD-3-Clause OR Apache-2.0"
+
+spdxExpression: "[Apache License 2.0] OR [BSD 3-Clause License]"
+
+combinedWith:
+  "Apache License 2.0": Apache License 2.0 + BSD 3-Clause License
+  "BSD 3-Clause License": Apache License 2.0 + BSD 3-Clause License

@@ -1,0 +1,28 @@
+canonicalName: NXML-Pokemon-Legends-ZA NC Research License 1.0
+category: NXML-Pokemon-legends-ZA NC Research
+shortName: NXML-Pokemon-Pegends-ZA-NC-1.0
+
+otherIds:
+  - "scancode:nxml-pokemon-legends-za-nc-1.0"
+
+alternativeNames:
+  - "nxml-pokemon-legends-za Non-Commercial Research License v1.0"
+  - "nxml-pokemon-legends-za-nc-1.0"
+  - "nxml-pokemon-legends-za-NC-1.0"
+  - "nxml-pokemon-legends-za Non-Commercial Research License"
+  - "nxml-pokemon-legends-za Non-Commercial Research License V1.0"
+  - "nxml-pokemon-legends-za Non-Commercial Research License Version 1.0"
+  - "NXML-Pokemon-Legends-ZA NC Research License 1.0"
+  - "NXML-Pokemon-legends-ZA NC Research"
+  - "NXML-Pokemon-Pegends-ZA-NC-1.0"
+
+evidence:
+  matches:
+    - "download a single copy of the Dataset to a machine under your control"
+    - "use the Dataset for **non-commercial research** purposes, including the training of statistical /
+       machine-learning models for personal study or academic publication"
+    - "publish results (figures, tables, qualitative descriptions, model weights) derived from such research, 
+       provided that those results do not enable bulk reconstruction of the original audio-visual content"
+    - "This license terminates automatically if you breach any of its terms, or on the removal contemplated by Section 4"
+    - "Upon termination you must cease using the Dataset and destroy any local copies. Sections 4 and 5 survive
+       termination"

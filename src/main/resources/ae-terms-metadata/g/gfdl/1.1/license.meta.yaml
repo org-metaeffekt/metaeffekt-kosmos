@@ -5,10 +5,6 @@ shortName: GFDL-1.1
 
 baseTerms: GNU Free Documentation License 1.1
 
-# FIXME-IMPLEMENT: check why are we getting this match; the reference should avoid this identification
-expectedMatches: 
-  - "GNU Free Documentation License 1.1 (or any later version)"
-
 otherIds:
   - "scancode:gfdl-1.1"
 

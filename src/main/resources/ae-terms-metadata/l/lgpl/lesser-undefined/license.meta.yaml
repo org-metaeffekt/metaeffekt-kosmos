@@ -26,6 +26,8 @@ alternativeNames:
   - "The GNU Lesser General Public License"
   - "Lesser General Public License"
   - "Lesser General Public License (LGPL)"
+  - "GNU Lesser General Public License (GNU LGPL)"
+  # NOTE: there is no lesser 2.0; ff
   - "GNU Lesser GPL 2.0+"
   - "GNU Lesser General Public License Version 2+"
   - "GNU Lesser General Public License Version 2.0+"
@@ -33,7 +35,6 @@ alternativeNames:
   - "GNU Lesser General Public License, Version 2 or any later version"
   - "Lesser General Public License (LGPL)), Version 2.0+"
   - "GNU Lesser/Library General Public License version 2+"
-  - "GNU Lesser General Public License (GNU LGPL)"
 
 # needed for evidence (or excludes) shorter than 3 words:
 expressiveEvidence: true

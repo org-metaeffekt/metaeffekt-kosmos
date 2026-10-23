@@ -1,6 +1,6 @@
 canonicalName: OpenSSL License + BSD 3-Clause License (copyright holder variant) + GNU General Public License (undefined)
-category: OpenSSL+BSD-3+GPL
-shortName: OPENSSL-OR-BSD-3-OR-GPL
+category: OpenSSL+BSD+GPL
+shortName: OPENSSL-OR-BSD-3-OR-GPL-?
 
 type: expression
 
@@ -17,4 +17,4 @@ combinedWith:
 
 # https://www.openssl.org/~appro/cryptogams/
 # Rather a BSD 3-Clause License with option to license under GPL)
-# - > CRYPOGAMS is "BSD 3-Clause License (copyright holder variant) + GNU General Public License (undefined)"
+# - > CRYPTOGAMS is "BSD 3-Clause License (copyright holder variant) + GNU General Public License (undefined)"

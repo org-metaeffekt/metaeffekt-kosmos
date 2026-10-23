@@ -5,7 +5,6 @@ spdxIdentifier: VSL-1.0
 otherIds:
   - "scancode:vsl-1.0"
   - "osi:VSL-1.0"
-# FIXME-implement: omit -php extension
   - "osi-deprecated:vovidapl"
 
 requiresCopyright: true

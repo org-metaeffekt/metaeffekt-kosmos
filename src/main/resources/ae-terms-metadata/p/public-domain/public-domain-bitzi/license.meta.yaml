@@ -5,6 +5,8 @@ shortName: PD-Bitzi
 otherIds:
   - "scancode:bitzi-pd"
 
+classification: public domain
+
 alternativeNames:
   - "http://bitzi.com/publicdomain"
 

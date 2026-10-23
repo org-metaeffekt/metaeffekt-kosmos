@@ -1,9 +1,14 @@
-canonicalName: RubyEncoder Commercial Licence
-category: RubyEncoder Commercial Licence
+canonicalName: RubyEncoder Commercial License
+category: RubyEncoder
 shortName: RubyEncoder-Commercial
+
+classification: commercial
 
 otherIds:
   - "scancode:rubyencoder-commercial"
+
+canonicalNameHistory:
+  - "RubyEncoder Commercial Licence"
 
 alternativeNames:
   - "RubyEncoder Commercial Licence"

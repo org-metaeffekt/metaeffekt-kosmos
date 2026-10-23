@@ -2,13 +2,13 @@ canonicalName: FSF Unlimited License (with retention)
 category: FSF Unlimited
 spdxIdentifier: FSFULLR
 
-representedAs: FSF Unlimited License
+representedAs: "FSF Unlimited License"
 
 otherIds:
   - "scancode:fsf-unlimited"
 
 combinedWith:
-  "No Warranty Marker": "FSF Unlimited License (with retention; no warranty)"
+  "Warranty (excluded)": "FSF Unlimited License (with retention; no warranty)"
 
 alternativeNames:
   - "FSF Unlimited License (With License Retention and Warranty Disclaimer)"

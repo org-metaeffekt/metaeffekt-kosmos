@@ -1,0 +1,34 @@
+canonicalName: AIxFun eStudio Model License 1.6
+category: AIxFun eStudio Model License
+shortName: AIxFun-Studio-Model-1.6
+
+otherIds:
+  - "scancode:aixfunestudio-model-1.6"
+
+alternativeNames:
+  - "AIxFun eStudio Model License Version 1.6"
+  - "AIxFun-Studio-Model-1.6"
+  - "AIxFun eStudio Model License"
+  - "AIxFun eStudio Model License V1.6"
+  - "AIxFun eStudio Model License v1.6"
+
+evidence:
+  matches:
+    - "Subject to your compliance and payment (if any), Licensor grants You a personal, non-exclusive, non-transferable,
+       revocable, royalty-free license to access and use the Models solely for generating Outputs for personal
+       entertainment or creative use, in compliance with applicable U.S. and Israeli laws"
+    - "You may generate and use Outputs, including for commercial purposes, provided you comply with all provisions of
+       this License and applicable U.S. and Israeli laws"
+    - "Some Models incorporate or build upon third-party base models"
+    - "You must comply with the terms of those base model licenses when using such Models"
+    - "Licensor makes no representations regarding the availability, accuracy, or continued validity of third-party
+       base model licenses; you should review those licenses directly"
+    - "You are responsible for downloading the Models and related assets immediately upon gaining access"
+    - "Licensor cannot guarantee that Models will remain available or hosted on Hugging Face or other platforms, and may
+       remove or relocate Models at any time without notice"
+    - "Due to technical limitations of the access system, if you are granted access but fail to download the Models
+       within 30 days of approval, you may be unable to request access again"
+    - "This License is effective until terminated"
+    - "Licensor may revoke access and terminate this License at any time if You breach any term or engage in prohibited
+       conduct (including defamation, illegal activities, or license violations)"
+    - "Upon termination, You must cease all use of the Models and delete all copies"

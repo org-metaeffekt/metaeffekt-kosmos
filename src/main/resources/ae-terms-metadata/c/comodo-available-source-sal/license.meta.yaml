@@ -1,0 +1,41 @@
+canonicalName: Comodo Available Source License Agreement
+category: Comodo Available Source License Agreement
+shortName: Comodo-Available-Source-SAL
+
+otherIds:
+  - "scancode:comodo-available-source-sal"
+
+alternativeNames:
+  - "Comodo Available Source License Agreement"
+  - "comodo-available-source-sal"
+  - "Comodo-Available-Source-SAL"
+
+evidence:
+  matches:
+    - "THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION THAT REQUIRES THE RESOLUTION OF DISPUTES ON AN INDIVIDUAL
+       BASIS, LIMITS YOUR ABILITY TO SEEK RELIEF IN A COURT OF LAW, AND WAIVES YOUR RIGHT TO PARTICIPATE IN CLASS ACTIONS,
+       CLASS ARBITRATIONS, OR A JURY TRIAL FOR CERTAIN DISPUTES"
+    - "If you are receiving the software on behalf of a legal entity, you represent and warrant that you have
+       the actual authority to agree to the terms and conditions of this agreement on behalf of such entity"
+    - "You may sublicense, for no charge only, the right to use the Software fully embedded in your free application as
+       distributed by you in accordance with Section 1.1(a), pursuant to a written license that disclaims all warranties
+       and liabilities on behalf of Licensor"
+    - "On all copies of the Software that you make, you must retain all copyright or other proprietary notices"
+    - "MSSPs (Managed Security Services Providers) or SOCs (Security Operation Centers) can use the Software, with or
+       without modifying, and can create service offerings around the Software"
+    - "MSSPs or SOCs may charge for these services"
+    - "The above licensing grant in Sections 1.1 through 1.3 does not prohibit this use case"
+    - "The Software is being licensed, not sold"
+    - "Comodo retains all ownership rights in and to all Software, including any intellectual property rights therein"
+    - "The Software contains material that is protected by United States and foreign intellectual property laws, including
+       copyright, trade secret, and patent law"
+    - "All rights not granted to you herein are expressly reserved by Comodo"
+    - "You may not remove any copyright or other proprietary notice from the Software"
+    - "Comodo is under no obligation to provide update, support or patches for the Software"
+    - "This agreement is effective until terminated by you or by Comodo"
+    - "Any breach any of the terms, obligations, and conditions herein by You under this Agreement, terminates this
+       Agreement automatically and the licenses granted herein will terminate automatically"
+    - "Termination by You"
+    - "You may terminate this agreement at any time by removing all copies of the software in your possession or under
+       your control"
+

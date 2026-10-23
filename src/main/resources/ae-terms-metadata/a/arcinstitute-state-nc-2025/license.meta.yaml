@@ -1,0 +1,51 @@
+canonicalName: Arc Research Institute State Model Non-Commercial License 2025
+category: Arc Research Institute State Model Non-Commercial License
+shortName: Arc-Research-Institute-State-NC-Model-2025
+
+classification: non-commercial
+
+otherIds:
+  - "scancode:arcinstitute-state-nc-2025"
+
+alternativeNames:
+  - "Arc Research Institute State Model Non-Commercial License 2025"
+  - "Arc Research Institute State Model NC License 2025"
+  - "Arc-Research-Institute-State-NC-Model-2025"
+  - "arcinstitute-state-nc-2025"
+
+evidence:
+  matches:
+    - "Subject to the terms and conditions of this License, Licensor hereby grants You a personal, worldwide, royalty-free,
+       non-exclusive, irrevocable (except as provided in Section 8), non-sublicensable license:
+       (a) to use, copy, modify, and display the State Model;
+       (b) to create Derivative Works and Outputs;
+       (c) to reproduce, distribute, and make publicly available (i) the State Model and any Derivative Work, each subject
+       to Section 3 (Redistribution Conditions), and (ii) any Output; and (d) under the Licensor’s patent rights covering
+       the State Model, to make, use, import, and otherwise exploit the State Model and any Derivative Works, each (a)
+       through (c)(i) and (d), solely for Non-Commercial Purposes"
+    - "If You initiate patent litigation (including a cross-claim or counterclaim in a lawsuit) alleging that the State
+       Model or a Derivative Work infringes a patent, this  License to You is terminated as of the date such litigation
+       is filed"
+    - "All rights other than those expressly granted to You herein are reserved by Licensor"
+    - "If You redistribute the State Model or any Derivative Work, You must
+       (a) include a complete, unaltered copy of this License;
+       (b) keep intact all original copyright, license, and disclaimer notices; and
+       (c) provide prominent notice stating that the redistributed State Model is governed by this License"
+    - "If You redistribute the State Model, any Derivative Work or any Output, You must also include a prominent and
+       readable citation to the State Model research paper:
+       Adduri, A. et al. (2025) Predicting cellular responses to perturbation across diverse contexts with State"
+    - "You may choose to license a Derivative Work or Output under different terms and conditions, provided that the
+       limitations and restrictions herein (including, in the case of a Derivative Work, the Non-Commercial Purpose)
+       remain in substance and effect"
+    - "You may not use or distribute the State Model, any or Derivative Work for any purpose other than Non-Commercial
+       Purposes, unless You first obtain a separate, express, written license from Licensor granting such rights"
+    - "If you wish to inquire about such separate license, you may contact <legal@arcinstitute.org>"
+    - "You may not remove, obfuscate, or alter any copyright, trademark, citation or other proprietary notice included
+       in the State Model"
+    - "You must comply with all applicable laws and regulations, including export-control and sanctions regimes, in
+       connection with Your use of the State Model and any Derivative Work or Output"
+    - "If You elect to collect or process personal data, health data or any other regulated data using the State Model
+       or any Derivative Work, You are solely responsible for compliance with all data-protection, privacy, and related
+       laws"
+
+

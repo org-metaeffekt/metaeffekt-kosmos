@@ -1,0 +1,24 @@
+canonicalName: MUX0 Source-Available License 2026
+category: MUX0 Source-Available
+shortName: MUX0-SAL-2026
+
+otherIds:
+  - "scancode:mux0-sal-2026"
+
+classification: source-available
+
+alternativeNames:
+  - "MUX0 Source-Available License 2026"
+  - "MUX0 Source-Available"
+  - "mux0-sal-2026"
+  - "MUX0-SAL-2026"
+
+evidence:
+  matches:
+    - "Creating a personal fork of this repository on a public code-hosting platform (e.g., GitHub), 
+       preparing modifications to the source code on that fork, and proposing those modifications back to the
+       copyright holder via pull request or equivalent contribution channel"
+    - "using MUX0 as a terminal to do your work — personal or commercial — is fine."
+    - "Forking to contribute back is fine"
+    - "This license is governed by the laws of the jurisdiction of the copyright holder's primary residence, 
+       without regard to its conflict of law provisions"

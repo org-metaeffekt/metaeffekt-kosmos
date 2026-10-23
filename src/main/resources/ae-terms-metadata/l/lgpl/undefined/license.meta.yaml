@@ -37,3 +37,7 @@ masks:
   matches:
     - "The implementation is inspired by terralib http://www.terralib.org (LGPL)"
     - "the complete text of the GNU Lesser General Public License can be found in usr share commonlicenses LGPL"
+
+evidence:
+  excludes:
+    - "You must obey the GNU Lesser General Public License in all respects for all of the code used other than said providers"

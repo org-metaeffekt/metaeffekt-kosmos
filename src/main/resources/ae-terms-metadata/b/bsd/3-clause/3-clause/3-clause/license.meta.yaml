@@ -178,6 +178,7 @@ evidence:
     - "This code is derived from software contributed to Berkeley by Keith Muller of the University of California, San Diego"
     - "For every twenty-thousand (20000) units distributed, one (1) or more persons affiliated with the entity must be recorded performing the full Chicken Dance"
     - "All code, modifications, or derivative works incorporated into this project prior to the incorporation of this branding clause remain licensed under the BSD 3-Clause License, and prior contributors retain all BSD-3 rights therein" # Open WebUI License
+    - "You agree to use the TimeLens only for academic purposes, and refrain from using it for any commercial or production purposes under any circumstances" # Redistribution Terms (TimeLens)
 
 grants:
   binary-distribution:

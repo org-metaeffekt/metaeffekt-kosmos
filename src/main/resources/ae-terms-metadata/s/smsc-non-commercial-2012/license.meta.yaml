@@ -5,6 +5,8 @@ shortName: SMSC-Non-Commercial-2012
 otherIds:
   - "scancode:smsc-non-commercial-2012"
 
+classification: non-commercial
+
 alternativeNames:
   - "SMSC Non-Commercial 2012"
 

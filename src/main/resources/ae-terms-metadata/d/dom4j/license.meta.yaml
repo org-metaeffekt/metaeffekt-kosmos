@@ -5,8 +5,11 @@ shortName: DOM4J
 requiresCopyright: true
 requiresLicenseText: true
 
-# FIXME-DISCUSS: license treatment; covered by Plexus / Due Credit Template
-# FIXME-IMPLEMENT: gather info for decision how to proceed with this license
+# FIXME-DISCUSS: Pick an option. DOM4J / Plexus / Apache Due Credit are identical except for the names.
+# OPTION 2: keep everything as is.canonicalNameHistory:
+# OPTION 2: rename DOM4J and Plexus to Apache Due Credit (DOM4J) and Apache Due Credit (Plexus) - Apache Due Credit is the template.
+# OPTION 3: Rename all 3 Licenses to "BSD 5-Clause License (without 3rd clause; Apache)"
+
 # NOTE: we preserve this license due to the scancode reference
 otherIds:
   - "scancode:dom4j"
@@ -34,10 +37,7 @@ evidence:
     - "Products derived from this Software may not be called*{.{0,45}}* appear in their names without prior written permission of"
 # FIXME-CONCEPT ending match correctly with "DOM4J Project" causes a validation issue; seems to be a revert-hyphenation mapping issue
     - "Due credit should be given to the DOM4J"
-  excludes:
-    - "The name \"OpenLDAP\" must not be used to endorse or promote products derived
-        from this Software without prior written permission"
-    - "Due credit should be given to Author."
+
 
 licenseTemplate:
   "<lq>Redistribution and use of this software and associated documentation (\"Software\"), with or without modification, are permitted

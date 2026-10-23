@@ -42,7 +42,8 @@ alternativeNames:
   - "is under a 5 clause BSD license"
   - "5-clause BSD License"
 
-# FIXME-IMPLEMENT find actual template for BSD-5 Clause and adjust the matches accordingly
+# TASK: find actual template for BSD-5 Clause and adjust the matches accordingly
+# NOTE: could not find an actual template: seems like there is no official template and the 5-Clause is often not seen as a BSD License.
 evidence:
   matches:
     - "Redistribution and use in source and binary form*{.{0,10}}* with or without

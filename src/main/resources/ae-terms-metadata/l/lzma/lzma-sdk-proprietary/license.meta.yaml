@@ -4,14 +4,6 @@ shortName: LZMA-SDK-Proprietary
 
 # NOTE: scancodeID and canonicalNameHistory moved to "LZMA SDK Original".
 
-alternativeNames:
-  - "LZMA SDK Original"
-
-# FIXME-IMPLEMENT: check whether this correct; propose change
-expectedMatches:
-  - "GNU Lesser or Library General Public License (undefined)"
-  - "Common Public License (undefined)"
-
 evidence:
   matches:
     - "LZMA SDK also can be available under a proprietary license which 
@@ -21,6 +13,29 @@ evidence:
     - "Technical support for code"
     - "To request such proprietary license or any additional consultations,
        send email message from that page"
+
+references:
+  "LGPL":
+    matches:
+      - "1) Right to modify code without subjecting modified code to the
+        terms of the CPL or GNU LGPL
+        2) Technical support for code"
+      - "You should have received a copy of the GNU Lesser General Public
+        License along with this library; if not, write to the Free Software
+        Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+        You should have received a copy of the Common Public License
+        along with this library."
+  "CPL":
+    matches:
+      - "1) Right to modify code without subjecting modified code to the
+        terms of the CPL or GNU LGPL
+        2) Technical support for code"
+      - "You should have received a copy of the GNU Lesser General Public
+        License along with this library; if not, write to the Free Software
+        Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+        You should have received a copy of the Common Public License
+        along with this library."
+
 
 segmentation:
   revert: [

@@ -2,7 +2,7 @@ canonicalName: GNU General Public License 2.0 (or any later version; with Classp
 category: GPL+Classpath
 shortName: GPL-2.0+-Classpath-Exception
 
-# FIXME-IMPLEMENT: validate these two scancode licenses are matching out license here
+# NOTE: both scancodeIDs match this expression: verified on 17.07.2026
 otherIds:
   - "scancode:gpl-2.0-classpath"
   - "scancode:gpl-2.0-independent-module-linking"

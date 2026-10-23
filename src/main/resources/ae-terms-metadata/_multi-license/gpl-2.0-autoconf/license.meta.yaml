@@ -16,7 +16,5 @@ alternativeNames:
 
 
 combinedWith:
-  # FIXME-IMPLEMENT: reverify the intention
-  # "GNU General Public License 2.0 (or any later version)": "GNU General Public License 2.0 (with Autoconf Exception)"
   "GNU General Public License 2.0": "GNU General Public License 2.0 (with Autoconf Exception)"
   "Autoconf Exception": "GNU General Public License 2.0 (with Autoconf Exception)"

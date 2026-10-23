@@ -4,8 +4,9 @@ spdxIdentifier: W3C-20150513
 
 otherIds:
   - "scancode:w3c-software-doc-20150513"
-  - "osi:W3C"
+  - "osi:W3C-20150513"
   - "osi-deprecated:w3c"
+  - "osi-deprecated:W3C"
 
 canonicalNameHistory:
   - "W3C License 20150513"
