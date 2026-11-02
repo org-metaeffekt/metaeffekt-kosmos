@@ -2360,6 +2360,7 @@ Llama 1 License Agreement
 Llama 2 Community License Agreement
 LLaMa 2 Community License Agreement 2023
 Llama 2 Community License Agreement 2023
+Llama 3.0 Community License Agreement
 Llama 3.1 Community License Agreement
 Llama 3.1 Community License Agreement 2024
 LLaMa 3.1 Community License Agreement 2024
